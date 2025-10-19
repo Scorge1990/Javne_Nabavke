@@ -20,8 +20,8 @@ load_dotenv(find_dotenv())
 
 
 # Set Streamlit page configuration with custom title and icon.
-st.set_page_config(page_title="LegaBot", page_icon=LOGO_URL)
-st.title("Javne nabavke")
+st.set_page_config(page_title="Javne nabavke prototip", page_icon=LOGO_URL)
+st.title("Javne nabavke prototip")
 st.divider()
 
 # Initialize API clients for OpenAI and Qdrant and load configuration settings.

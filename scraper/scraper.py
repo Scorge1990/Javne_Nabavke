@@ -100,7 +100,7 @@ def main(urls: List[str], output_dir: Path) -> None:
                 logger.error(f'Failed to fetch URL: "{url}" - {e}')
                 continue
 
-            soup = BeautifulSoup(response.content, "lxml")
+            soup = BeautifulSoup(response.content, "html.parser")
 
             try:
                 law_articles = run_scraper(soup=soup, url=url)

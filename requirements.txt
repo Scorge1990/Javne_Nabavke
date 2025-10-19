@@ -1,42 +1,25 @@
-# Core LegaBot Dependencies
 streamlit==1.50.0
 streamlit-theme==0.58.0
 python-dotenv==1.1.1
 PyYAML==6.0.3
-
-# AI and LLM Dependencies
 openai==2.5.0
 tiktoken>=0.8.0
 langfuse==3.7.0
-
-# Vector Database
 qdrant-client==1.15.1
-
-# Logging and Utilities
 loguru==0.7.3
 backoff==2.2.1
-
-# Web Scraping Dependencies
 beautifulsoup4==4.14.2
 lxml>=6.0.0
 requests==2.32.5
 tqdm==4.67.1
-
-# Data Processing
 pandas==2.3.3
 numpy==2.3.4
 pydantic==2.12.3
-
-# HTTP and Networking
 httpx==0.28.1
 anyio==4.11.0
-
-# OpenTelemetry (for Langfuse)
 opentelemetry-api==1.38.0
 opentelemetry-sdk==1.38.0
 opentelemetry-exporter-otlp-proto-http==1.38.0
-
-# Additional Core Dependencies
 certifi==2025.10.5
 charset-normalizer==3.4.4
 idna==3.11

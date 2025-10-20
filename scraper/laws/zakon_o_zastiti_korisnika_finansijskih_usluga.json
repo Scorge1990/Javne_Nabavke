@@ -1,0 +1,1320 @@
+[
+    {
+        "title": "Član 1",
+        "texts": [
+            "Ovim zakonom uređuju se prava korisnika finansijskih usluga koje pružaju banke, davaoci finansijskog lizinga, platne institucije, institucije elektronskog novca, javni poštanski operator i trgovci, kao i uslovi i način ostvarivanja i zaštite tih prava.",
+            "Značenje pojedinih pojmova"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_1"
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Pojedini pojmovi, u smislu ovog zakona, imaju sledeća značenja:",
+            "1)kreditne uslugesu usluge koje banka, platna institucija i institucija elektronskog novca pružaju korisnicima ovih usluga po osnovu ugovora o kreditu, ugovora o kreditnoj kartici, ugovora o dozvoljenom prekoračenju, a u slučaju banke - i po osnovu nedozvoljenog prekoračenja;",
+            "2)bankarske uslugesu kreditne usluge i usluge koje pruža banka po osnovu ugovora o depozitu;",
+            "3)finansijski lizing(u daljem tekstu: lizing) jeste posao koji ima značenje utvrđeno zakonom kojim se uređuje finansijski lizing;",
+            "4)finansijske uslugesu bankarske usluge, kreditne usluge i usluge finansijskog lizinga;",
+            "5)finansijska pogodbaje prodaja sa obročnim otplatama cene ili drugi oblik finansiranja korisnika koji ima istu ekonomsku suštinu a koju nudi trgovac i koja podrazumeva odloženo plaćanje duga u toku određenog perioda;",
+            "6)davalac kreditajeste banka kada pruža kreditnu uslugu, kao i platna institucija i institucija elektronskog novca kada pružaju ovu uslugu u skladu sa zakonom kojim se uređuju platne usluge;",
+            "7)davalac lizinga i predmet lizingaimaju značenja određena zakonom kojim se uređuje finansijski lizing;",
+            "8)bankaima značenje utvrđeno zakonom kojim se uređuju banke;",
+            "9)platna institucijaoznačava platnu instituciju u smislu zakona kojim se uređuju platne usluge i javnog poštanskog operatora kada pruža usluge u skladu s tim zakonom;",
+            "10)institucija elektronskog novcaima značenje utvrđeno zakonom kojim se uređuju platne usluge;",
+            "11)trgovacje pravno ili fizičko lice koje vrši prodaju finansijskom pogodbom i nastupa na tržištu u okviru svoje poslovne delatnosti ili u druge komercijalne svrhe;",
+            "12)davalac finansijskih usluga(u daljem tekstu: davalac usluga) jeste:",
+            "(1) banka kada pruža bankarske usluge,",
+            "(2) platna institucija i institucija elektronskog novca kao davaoci kredita,",
+            "(3) davalac lizinga;",
+            "13)korisnik finansijske usluge(u daljem tekstu: korisnik) jeste fizičko lice koje koristi ili je koristilo finansijske usluge ili se davaocu usluga obratilo radi korišćenja finansijskih usluga, i to:",
+            "(1) fizičko lice koje ove usluge koristi, koristilo ih je ili namerava da ih koristi u svrhe koje nisu namenjene njegovoj poslovnoj ili drugoj komercijalnoj delatnosti,",
+            "(2) preduzetnik, u smislu zakona kojim se uređuju privredna društva,",
+            "(3) poljoprivrednik, kao nosilac ili član porodičnog poljoprivrednog gazdinstva u smislu zakona kojim se uređuju poljoprivreda i ruralni razvoj;",
+            "14)ugovor o kredituima značenje utvrđeno zakonom kojim se uređuju obligacioni odnosi;",
+            "15)ugovor o stambenom kredituoznačava ugovor o kreditu koji je banka zaključila s korisnikom radi kupovine, izgradnje, adaptacije ili rekonstrukcije stambene nepokretnosti (kuća, stan, deo stambene zgrade koji je namenjen stanovanju, garaža ili garažno mesto zajedno sa stanom i zemljište sa građevinskom dozvolom za izgradnju kuće) a koji je obezbeđen hipotekom na stambenoj nepokretnosti, kao i ugovor o kreditu koji je banka zaključila radi refinansiranja takvog kredita;",
+            "16)ugovor o depozituima značenje utvrđeno odredbama zakona kojim se uređuju obligacioni odnosi;",
+            "17)ugovor o revolving kredituje ugovor o kreditu koji korisniku omogućava da jednom odobreni iznos kredita, u određenom periodu, koristi više puta u visini neiskorišćenih ili vraćenih sredstava, s tim što se neiskorišćeni deo kredita povećava za visinu otplata tog kredita (npr. ugovor o dozvoljenom prekoračenju, ugovor o kreditnoj kartici i sl.);",
+            "18)ugovor na daljinuoznačava ugovor kojim se jedna ugovorna strana (davalac usluga) obavezuje da će pružiti finansijske usluge drugoj ugovornoj strani (korisniku tih usluga), a u vezi s kojim se pružanje informacija i preduzimanje drugih aktivnosti u predugovornoj fazi, odnosno zaključenje ugovora vrše isključivo upotrebom jednog ili više sredstava komunikacije na daljinu, u okviru organizovane ponude pružanja ovih usluga;",
+            "19)kreditna karticaje platna kartica koja korisniku te kartice omogućava podizanje gotovog novca i plaćanje robe i usluga na kredit;",
+            "20)sporedne uslugesu usluge koje davalac usluga nudi korisniku u vezi sa ugovorom o finansijskim uslugama;",
+            "21)praksa vezivanja uslugaoznačava ponudu i zaključivanje ugovora o kreditu u paketu s drugim finansijskim ili platnim uslugama ili uslugama osiguranja ako ugovor o kreditu ne bi bio dostupan pojedinačno i nezavisno od ponuđenog paketa;",
+            "22)praksa objedinjavanja uslugaoznačava ponudu i zaključivanje ugovora o kreditu u paketu s drugim finansijskim ili platnim uslugama ili uslugama osiguranja ako je ugovor o kreditu korisniku dostupan i pojedinačno, ali ne nužno pod istim uslovima kao kad je ponuđen u paketu sa ovim uslugama;",
+            "23)dozvoljeno prekoračenjeje izričito ugovoreni iznos sredstava koji davalac kredita stavlja na raspolaganje korisniku platnog računa kada na tom računu nema dovoljno sredstava da bi se izvršila platna transakcija koju je korisnik inicirao, odnosno za koju je korisnik dao saglasnost;",
+            "24)nedozvoljeno prekoračenjeje iznos sredstava za koji je banka u skladu sa ugovorom ili zakonom zadužila tekući račun korisnika u svoju korist ili u korist trećih lica kada na tom računu nije bilo dovoljno sredstava za izvršenje transakcije, uključujući sredstva po osnovu dozvoljenog prekoračenja;",
+            "25)povezani ugovor o kredituje ugovor koji služi isključivo za finansiranje nabavke određene robe ili usluge i koji sa ugovorom o prodaji te robe ili usluge čini ekonomsku celinu, pri čemu ekonomska celina postoji ako davalac kredita koristi usluge dobavljača robe ili pružaoca usluge radi nuđenja, reklamiranja ili zaključivanja ugovora o kreditu ili je roba, odnosno usluga koja je predmet nabavke izričito navedena u tom ugovoru;",
+            "26)iznos kreditaje ukupna suma koja je odobrena korisniku u skladu sa ugovorom;",
+            "27)ukupna cena kredita za korisnikaoznačava sve troškove tog kredita za korisnika, uključujući kamatu i naknade u korist banke, poreze, kao i naknade u vezi s kreditom koje je korisnik dužan da plati trećim licima direktno ili preko banke a koje su banci poznate, uključujući i naknade za sporedne usluge koje su obavezne da bi se kredit dobio, odnosno da bi se dobio pod određenim uslovima;",
+            "28)ukupan iznos koji korisnik treba da plati na osnovu ugovora o kreditujeste zbir iznosa kredita i ukupne cene kredita za korisnika;",
+            "29)nominalna kamatna stopaoznačava kamatnu stopu izraženu kao fiksni ili promenljivi procenat koji se na godišnjem nivou primenjuje na iznos povučenih kreditnih sredstava, odnosno na iznos neto finansiranja lizinga, odnosno na primljeni depozit;",
+            "30)efektivna kamatna stopa kod ugovora o kredituoznačava ukupnu cenu kredita za korisnika izraženu u odnosu na iznos kredita kao procenat na godišnjem nivou, a koja se obračunava u skladu sa ovim zakonom i podzakonskim propisima donetim na osnovu tog zakona;",
+            "31)efektivna kamatna stopa kod ugovora o depozituoznačava prihod od depozita nakon odbitka poreza i drugih troškova, izražen u odnosu na iznos depozita kao procenat na godišnjem nivou, koji se obračunava u skladu sa ovim zakonom i podzakonskim propisima donetim na osnovu tog zakona;",
+            "32)fiksna kamatna stopaoznačava nominalnu kamatnu stopu izraženu isključivo u visini fiksnog procenta koja može biti iskazana bilo kao jedna nominalna kamatna stopa koja se primenjuje za celokupni period trajanja ugovora ili kao više nominalnih kamatnih stopa koje se primenjuju za različite periode trajanja ugovora, pri čemu će se kamatna stopa smatrati fiksnom samo za one periode za koje su visine kamatnih stopa ugovorom određene fiksnim procentom;",
+            "33)plan otplate, odnosno isplateje tabelarni pregled svih hronološki prikazanih novčanih tokova, namenjen informisanju korisnika, radi ažurnijeg praćenja njegovih obaveza po ugovoru o kreditu, odnosno lizingu, odnosno njegovih potraživanja po ugovoru o depozitu;",
+            "34)prevremena otplataoznačava potpuno ili delimično ispunjenje obaveza koje korisnik ima po osnovu ugovora o kreditu, revolving kreditu ili lizingu pre datuma koji je u ugovoru određen kao datum do kojeg je korisnik dužan da potpuno ispuni svoje obaveze iz ovog ugovora;",
+            "35)predugovorne informacijesu informacije koje se korisniku pružaju pre nego što zaključi ugovor o finansijskoj usluzi kako bi mogao uporediti različite ponude ove finansijske usluge i doneti informisanu odluku o tome da li treba da zaključi taj ugovor;",
+            "36)trajni nosač podatakaoznačava papir i svako drugo sredstvo (npr. optički disk, memorijske kartice, hard disk računara i elektronsku poštu) koje korisniku omogućava da sačuva podatke koji su mu namenjeni, da tim podacima pristupi i da ih reprodukuje u neizmenjenom obliku u periodu koji odgovara svrsi njihovog čuvanja;",
+            "37)pisana formaoznačava tekst, odnosno dokument sačinjen na papiru ili drugom trajnom nosaču podataka, uključujući i elektronski dokument, osim ako je ovim zakonom drugačije određeno;",
+            "38)sredstvo komunikacije na daljinuoznačava svako sredstvo koje se može koristiti za neposredno oglašavanje, dostavljanje informacija u predugovornoj fazi, davanje i/ili prihvat ponude, pregovaranje i zaključivanje ugovora bez istovremenog fizičkog prisustva davaoca usluga i korisnika (npr. internet, elektronska pošta, pošta, telefaks i telefon);",
+            "39)reprezentativni primerje primer u kome su naznačeni svi elementi neophodni za prikazivanje uslova pod kojima se određena finansijska usluga koristi;",
+            "40)profilisanjeima značenje utvrđeno zakonom kojim se uređuje zaštita podataka o ličnosti;",
+            "41)savetodavne uslugeoznačavaju lične preporuke u pogledu jedne ili više bankarskih usluga koje korisnik koji se obratio banci zahteva, a koje predstavljaju odvojenu aktivnost u odnosu na bankarske usluge.",
+            "Oblast primene"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_2"
+    },
+    {
+        "title": "Član 3",
+        "texts": [
+            "Odredbe ovog zakona ne primenjuju se na:",
+            "1) ugovore o finansijskim uslugama koji imaju za cilj investiranje u finansijske instrumente, izuzev ugovora o depozitu;",
+            "2) ugovore o lizingu kod kojih nije ugovorena mogućnost da primalac lizinga stekne pravo svojine na predmetu lizinga;",
+            "3) ugovore o kreditu, odnosno finansijske pogodbe zaključene u postupku poravnanja pred sudom ili drugim organom javne vlasti;",
+            "4) ugovore o kreditu, odnosno finansijske pogodbe kojima se besteretno odlaže plaćanje postojećeg duga;",
+            "5) ugovore o zajmu na osnovu kojih poslodavac, kao sporednu aktivnost, zaposlenom pozajmljuje sredstva bez kamate ili po stopi nižoj od one po kojoj se kredit nudi na tržištu i koji se ne nudi široj javnosti;",
+            "6) ugovore o kreditu kod kojih je efektivna kamatna stopa 0%;",
+            "7) ugovore o finansijskim pogodbama kojima se trgovac obavezuje da korisniku isporučuje određenu vrstu robe, odnosno pruža određenu uslugu, a korisnik se obavezuje da za to u obrocima plaća cenu za koju nije ugovorena kamata i dodatne naknade, pri čemu je u obavezi da ukupan iznos cene isplati u periodu do 50 dana od dana isporuke robe, odnosno pružanja usluge.",
+            "Nezavisno od stava 1. tačka 7) ovog člana, kod ugovora o finansijskim pogodbama kojima se trgovac koji pruža usluge informacionog društva u smislu propisa kojima se uređuje elektronska trgovina obavezuje da korisniku isporučuje određenu vrstu robe, odnosno pruža određenu uslugu - odredbe ovog zakona neće se primeniti ako se korisnik obavezao da za pruženu uslugu u obrocima plaća cenu za koju nisu ugovorene kamata i dodatne naknade, pri čemu je dužan da ukupan iznos cene isplati u roku do 14 dana od dana isporuke robe, odnosno pružanja usluge.",
+            "Kod ugovora o kreditu, odnosno finansijske pogodbe kod kojih je ukupan iznos kredita, odnosno cene manji od 20.000 dinara, kod ugovora o kreditu, odnosno finansijske pogodbe kod kojih ne postoji obaveza plaćanja kamate niti bilo kog drugog tereta i kod ugovora o kreditu, odnosno finansijske pogodbe pod uslovom otplate kredita u roku do tri meseca, odnosno pod uslovom da je ugovoreno odloženo plaćanje na rok do tri meseca i s plaćanjem samo zanemarljivih troškova - ne primenjuju se odredbe člana 18. stav 1. tač. 8) i 11), člana 20. stav 8. tač. 1), 14), 19) i 22) do 27) i člana 70. stav 1. ovog zakona.",
+            "Odnos prema drugim propisima"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_3"
+    },
+    {
+        "title": "Član 4",
+        "texts": [
+            "Na pitanja zaštite korisnika koja nisu uređena ovim zakonom primenjuju se odredbe propisa kojima se uređuju poslovanje banaka, platne usluge i finansijski lizing, kao i odredbe zakona kojim se uređuju obligacioni odnosi.",
+            "Na zaštitu korisnika platnih usluga i imalaca elektronskog novca primenjuju se odredbe zakona kojim se uređuju platne usluge.",
+            "Na zaštitu korisnika kreditnih usluga koji je potrošač u smislu zakona kojim se uređuju platne usluge ili preduzetnik ili poljoprivrednik u smislu ovog zakona, pri čemu te usluge pružaju platne institucije i institucije elektronskog novca - primenjuju se i odredbe ovog zakona koje se odnose na te kreditne usluge.",
+            "Na postupak ostvarivanja zaštite prava i interesa korisnika iz st. 2. i 3. ovog člana primenjuju se odredbe ovog zakona koje se odnose na ostvarivanje zaštite prava i interesa korisnika.",
+            "Zabrana diskriminacije"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_4"
+    },
+    {
+        "title": "Član 5",
+        "texts": [
+            "Uslovi za pružanje finansijskih usluga ne mogu biti zasnovani na diskriminaciji po osnovu državljanstva, prebivališta, boravišta, pola, rase, boje kože, etničkog ili socijalnog porekla, genetskih osobenosti, jezika, religije ili uverenja, političkog ili bilo kakvog drugog mišljenja, pripadnosti nacionalnoj manjini, imovine, rođenja, predaka, invaliditeta, starosne dobi, polne orijentacije ili bilo kog drugog pretpostavljenog ličnog svojstva.",
+            "Davalac usluga može slobodno da odlučuje o tome da li će sa određenim licem uspostaviti poslovni odnos, u skladu sa utvrđenim uslovima za pružanje finansijskih usluga.",
+            "Odredba stava 1. ovog člana ne dovodi u pitanje pravo davaoca usluga da odredi različite uslove za pružanje finansijskih usluga, ako su ti uslovi zasnovani na objektivnim kriterijumima.",
+            "Pravila ugovaranja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_5"
+    },
+    {
+        "title": "Član 6",
+        "texts": [
+            "Ugovor o finansijskoj usluzi (u daljem tekstu: ugovor) sačinjava se u pisanoj formi i potpisuje se svojeručno, odnosno kvalifikovanim elektronskim potpisom, korišćenjem najmanje dva elementa za potvrđivanje korisničkog identiteta (autentifikacija) ili korišćenjem šema elektronske identifikacije visokog nivoa pouzdanosti, u skladu sa zakonom i drugim propisima.",
+            "Svaka ugovorna strana dobija primerak ugovora.",
+            "Ugovor ne može da sadrži odredbe kojima se korisnik odriče prava koja su mu garantovana ovim zakonom i takve odredbe su ništave.",
+            "Davalac usluga dužan je da odredbe ugovora, posebno one koje se odnose na obavezne elemente tog ugovora, sačini na jasan i razumljiv način.",
+            "Davalac usluga dužan je da u dosijeu korisnika čuva ugovor i ugovornu dokumentaciju koja se odnosi na tog korisnika (ponuda, nacrt ugovora, pregled obaveznih elemenata, plan otplate/isplate, aneks ugovora s novim planom otplate, obaveštenja, opomene i dr.) tokom trajanja ugovornog odnosa i najmanje pet godina nakon njegovog prestanka, odnosno prinudne naplate duga, ako drugim zakonom nije utvrđen duži rok.",
+            "Zahtev i pristanak korisnika"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_6"
+    },
+    {
+        "title": "Član 7",
+        "texts": [
+            "Davalac usluga ne može korisniku pružiti finansijsku uslugu bez njegovog prethodnog zahteva, odnosno izričitog pristanka.",
+            "Davalac usluga ne može pretpostaviti da je korisnik dao pristanak za zaključenje ugovora o finansijskoj usluzi ili za kupovinu sporednih usluga ako su bili prikazani u okviru unapred zadatih opcija.",
+            "Unapred zadate opcije iz stava 2. ovog člana uključuju i polja koja su unapred označena na papiru ili drugom trajnom nosaču podataka.",
+            "Pristanak korisnika na zaključenje ugovora o finansijskoj usluzi ili kupovinu sporednih usluga ako su prikazani u poljima na papiru ili drugom trajnom nosaču podataka daje se jasnom i nedvosmislenom potvrdnom radnjom korisnika kojom se izražava njegova konkretna, precizna, informisana i nedvosmislena saglasnost sa sadržajem i suštinom tih polja.",
+            "Određenost i odredivost ugovorne obaveze"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_7"
+    },
+    {
+        "title": "Član 8",
+        "texts": [
+            "Ugovorna obaveza mora biti određena, odnosno odrediva.",
+            "Novčana ugovorna obaveza je odrediva u pogledu visine ako zavisi od ugovorenih promenljivih, odnosno promenljivih i fiksnih elemenata, s tim što su promenljivi elementi oni koji se zvanično objavljuju (referentna kamatna stopa, indeks potrošačkih cena i dr.).",
+            "Novčana ugovorna obaveza je vremenski odrediva ako se na osnovu ugovorenih elemenata može precizno i nedvosmisleno utvrditi kad dospeva.",
+            "Elementi iz st. 2. i 3. ovog člana moraju biti takve prirode da na njih ne može uticati jednostrana volja nijedne od ugovornih strana.",
+            "Davalac usluga dužan je da u poslovnim prostorijama u kojima nudi usluge korisnicima, na svojoj internet stranici, kao i na trajnom nosaču podataka u okviru elektronskih usluga, drži istaknuto vidno obaveštenje o vrednosti ugovorenih promenljivih elemenata iz stava 2. ovog člana na dnevnom nivou.",
+            "Ugovori uređeni ovim zakonom ne mogu da sadrže upućujuću normu na poslovnu politiku, opšte i posebne uslove poslovanja i druge akte davaoca usluga kad su u pitanju oni elementi koji su ovim zakonom predviđeni kao obavezni elementi tih ugovora.",
+            "Davalac usluga dužan je da novčanu ugovornu obavezu utvrđuje na način određen ovim zakonom.",
+            "Opšti uslovi poslovanja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_8"
+    },
+    {
+        "title": "Član 9",
+        "texts": [
+            "Opštim uslovima poslovanja davaoca usluga, u smislu ovog zakona, smatraju se uslovi poslovanja koje je doneo davalac usluga i koji se primenjuju na korisnike, a kojima se uređuju uslovi za uspostavljanje odnosa između korisnika i davaoca usluga i postupak komunikacije između njih, kao i uslovi za obavljanje poslovanja između korisnika i davaoca usluga.",
+            "Opšti uslovi poslovanja moraju biti usklađeni sa zakonima i drugim propisima, a pored toga, davalac usluga treba da kroz te uslove obezbedi primenu dobrih poslovnih običaja, dobru poslovnu praksu i fer odnos prema korisniku.",
+            "Opšti uslovi poslovanja obuhvataju i akte kojima se utvrđuju naknade i drugi troškovi koje davalac usluga naplaćuje korisnicima (npr. tarifa naknada).",
+            "Elementi ugovora o finansijskim uslugama koji su ovim zakonom propisani kao obavezni ne mogu biti ugovoreni između davaoca usluga i korisnika samo prihvatanjem opštih uslova poslovanja ili drugog sličnog akta koji ne predstavlja pojedinačni ugovor sa korisnikom zaključen na način i u formi koji su propisani ovim zakonom.",
+            "Davalac usluga dužan je da na vidnom mestu u poslovnim prostorijama u kojima nudi usluge korisnicima i na internet stranici obezbedi da se korisnik pre zaključenja ugovora upozna sa opštim uslovima poslovanja na srpskom jeziku.",
+            "Ako davalac usluga donese nove ili promeni važeće opšte uslove poslovanja, dužan je da o tome obavesti korisnika na ugovoren način i da mu te izmene učini dostupnim, i to najkasnije 30 dana pre početka njihove primene, a u tom roku je dužan i da ih istakne na vidnom mestu u poslovnim prostorijama i na internet stranici, s jasnom naznakom datuma od kada počinju da se primenjuju.",
+            "Davalac usluga dužan je da korisniku pruži odgovarajuća objašnjenja i instrukcije koji se odnose na primenu opštih uslova poslovanja u vezi sa određenom finansijskom uslugom, kao i da mu, na njegov zahtev, te uslove bez odlaganja dostavi u pisanoj formi.",
+            "Način obračuna efektivne kamatne stope"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_9"
+    },
+    {
+        "title": "Član 10",
+        "texts": [
+            "Efektivna kamatna stopa kao diskontna stopa izjednačava, na godišnjoj osnovi, sadašnje vrednosti svih novčanih tokova, odnosno sadašnje vrednosti svih novčanih primanja sa sadašnjim vrednostima svih novčanih izdataka po osnovu korišćenja finansijskih usluga a koji su poznati u momentu iskazivanja te stope.",
+            "Novčani tokovi iz stava 1. ovog člana uključuju najmanje:",
+            "1) sve otplate i isplate kredita/depozita;",
+            "2) naknade koje korisnik plaća davaocu usluga, odnosno preko davaoca usluga (npr. kamate, naknade, porezi, takse i sl.), odnosno pogodnosti koje prima (kamate i druge bezuslovne pogodnosti);",
+            "3) naknade u vezi sa sporednim uslugama koje predstavljaju uslov za korišćenje finansijske usluge, odnosno za njeno korišćenje na određeni način (npr. troškovi osiguranja života, imovine i lica i dr.).",
+            "Ako je uslov za korišćenje finansijske usluge otvaranje tekućeg ili drugog platnog računa, u novčane tokove iz stava 1. ovog člana uključuju se i troškovi otvaranja i vođenja tog računa, kao i svi troškovi u vezi sa izvršenjem tih novčanih tokova.",
+            "Novčani tokovi iz stava 1. ovog člana ne uključuju:",
+            "1) troškove nastale zbog neispunjenja ugovornih obaveza;",
+            "2) troškove u vezi s kupovinom robe nastale nezavisno od toga da li se plaćanje vrši gotovinski ili na drugi način.",
+            "Obračun efektivne kamatne stope zasniva se na sledećim pretpostavkama:",
+            "1) da će ugovor o finansijskoj usluzi ostati na snazi tokom ugovorenog perioda;",
+            "2) da će ugovorne strane ispuniti svoje ugovorne obaveze i da će to učiniti u rokovima navedenim u ugovoru;",
+            "3) da će nominalna kamatna stopa i ostali troškovi ostati nepromenjeni do kraja trajanja ugovora.",
+            "Odredbe st. 1. do 5. ovog člana shodno se primenjuju na davaoca lizinga.",
+            "Davalac usluga dužan je da efektivnu kamatnu stopu obračunava na jedinstven, propisani način, radi poređenja istovrsnih ponuda različitih davalaca usluga.",
+            "Narodna banka Srbije bliže utvrđuje uslove i način obračuna efektivne kamatne stope za finansijske usluge.",
+            "Stopa zatezne kamate kod ugovora o finansijskim i platnim uslugama"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_10"
+    },
+    {
+        "title": "Član 11",
+        "texts": [
+            "Ako korisnik iz člana 2. tačka 13) podtačka (1) ovog zakona ne ispuni u ugovorenom roku svoju obavezu iz ugovora uređenog ovim zakonom ili zakonom kojim se uređuju platne usluge - na dospelu a neizmirenu obavezu primenjuje se stopa zatezne kamate propisana ovim članom ili nominalna redovna kamatna stopa iz ugovora ako je ona veća od te stope zatezne kamate.",
+            "Stopa zatezne kamate iz stava 1. ovog člana na iznos duga koji glasi na dinare utvrđuje se na godišnjem nivou u visini referentne kamatne stope Narodne banke Srbije uvećane za šest procentnih poena.",
+            "Stopa zatezne kamate iz stava 1. ovog člana na iznos duga koji glasi na evre utvrđuje se na godišnjem nivou u visini referentne kamatne stope Evropske centralne banke na glavne operacije za refinansiranje uvećane za šest procentnih poena.",
+            "Stopa zatezne kamate iz stava 1. ovog člana na iznos duga koji glasi na drugu stranu valutu utvrđuje se na godišnjem nivou u visini referentne/osnovne kamatne stope koju propisuje i/ili primenjuje prilikom sprovođenja glavnih operacija centralna banka zemlje domicilne valute uvećane za šest procentnih poena.",
+            "Ako referentna/osnovna kamatna stopa iz st. 3. i 4. ovog člana nije utvrđena kao fiksna kamatna stopa, nego je utvrđena u određenom rasponu između minimalne i maksimalne kamatne stope od strane domicilne centralne banke - stopa zatezne kamate utvrđuje se kao aritmetička sredina minimalne i maksimalne referentne/osnovne kamatne stope uvećane za šest procentnih poena.",
+            "Stopa zatezne kamate utvrđuje se na način iz st. 3. i 4. ovog člana i u slučaju da iznos duga glasi na stranu valutu a isplaćuje se u dinarima.",
+            "Zatezna kamata u smislu ovog zakona obračunava se za kalendarski broj dana perioda docnje u izmirivanju obaveza u odnosu na kalendarski broj dana u godini (365, odnosno 366 dana), primenom prostog interesnog računa od sto i dekurzivnog načina obračuna, bez pripisa obračunate zatezne kamate glavnici istekom obračunskog perioda, prema sledećoj formuli:",
+            "",
+            "gde je:",
+            "k - iznos zatezne kamate,",
+            "G - iznos duga,",
+            "p - propisana godišnja stopa zatezne kamate,",
+            "d - kalendarski broj dana docnje u obračunskom periodu,",
+            "Gd- kalendarski broj dana u godini (365 - prosta godina, odnosno 366 - prestupna godina).",
+            "Zatezna kamata iz stava 1. ovog člana obračunava se za sve kalendarske dane u obračunskom periodu. Pod obračunskim periodom podrazumeva se period od prvog dana docnje, odnosno promene iznosa duga i/ili promene stope zatezne kamate u periodu docnje za koji se vrši obračun, zaključno sa danom konačnog izmirenja duga.",
+            "U obračunskim periodima iz stava 8. ovog člana primenjuje se stopa zatezne kamate koja je važila u periodu za koji se vrši obračun. Ukupan iznos zatezne kamate predstavlja zbir obračunate kamate za svaki pojedinačni obračunski period iz stava 8. ovog člana.",
+            "Stope zatezne kamate iz st. 2. do 4. ovog člana objavljuje Narodna banka Srbije na svojoj internet prezentaciji i one se primenjuju od narednog dana od dana objavljivanja.",
+            "Narodna banka Srbije će stope zatezne kamate iz st. 3. i 4. ovog člana objavljivati za valute predviđene propisom kojim se utvrđuju vrste deviza i efektivnog stranog novca koje se kupuju i prodaju na deviznom tržištu.",
+            "Ograničenje kamatnih stopa"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_11"
+    },
+    {
+        "title": "Član 12",
+        "texts": [
+            "Promenljiva kamatna stopa kod ugovora o kreditu ne može se primeniti u vrednosti većoj od prosečne ponderisane kamatne stope za postojeće ugovore o kreditu iste vrste, odnosno namene u istoj valuti (indeksacije) uvećane za 1/4 te stope.",
+            "Promenljiva kamatna stopa kod ugovora o stambenom kreditu ne može se primeniti u vrednosti većoj od prosečne ponderisane kamatne stope za postojeće ugovore o stambenom kreditu s promenljivom kamatnom stopom u istoj valuti (indeksacije) uvećane za 1/4 te stope.",
+            "Fiksna kamatna stopa kod ugovora o stambenom kreditu ne može se ugovoriti u vrednosti većoj od prosečne ponderisane kamatne stope za nove ugovore o stambenom kreditu sa fiksnom kamatnom stopom u istoj valuti (indeksacije) uvećane za 1/4 te stope.",
+            "Efektivna kamatna stopa kod ugovora o kreditu u trenutku njegovog zaključenja ne može biti veća od stope zatezne kamate iz člana 11. ovog zakona uvećane za četiri procentna poena.",
+            "Efektivna kamatna stopa kod ugovora o stambenom kreditu u trenutku njegovog zaključenja ne može biti veća od stope zatezne kamate iz člana 11. ovog zakona umanjene za dva i po procentna poena.",
+            "Efektivna kamatna stopa kod ugovora o kreditnoj kartici u trenutku njegovog zaključenja ne može biti veća od stope zatezne kamate iz člana 11. ovog zakona uvećane za šest procentnih poena.",
+            "Efektivna kamatna stopa kod ugovora o dozvoljenom prekoračenju u trenutku njegovog zaključenja ne može biti veća od stope zatezne kamate iz člana 11. ovog zakona uvećane za osam procentnih poena.",
+            "Ponovno izdavanje (reizdavanje) kreditne kartice, odnosno produženje dozvoljenog prekoračenja u smislu odredaba ovog člana predstavlja zaključenje ugovora o kreditnoj kartici, odnosno o dozvoljenom prekoračenju.",
+            "Odredbe st. 7. i 8. ovog člana shodno se primenjuju na nedozvoljeno prekoračenje.",
+            "Narodna banka Srbije na svojoj internet prezentaciji objavljuje prosečne ponderisane kamatne stope iz st. 1. do 3. ovog člana, i to 1. juna tekuće godine - na osnovu podataka sa stanjem na dan 31. marta te godine i 1. decembra tekuće godine - na osnovu podataka sa stanjem na dan 30. septembra te godine.",
+            "Ako je kod bilo koje vrste ugovora o kreditu s promenljivom kamatnom stopom na ugovoreni dan usklađivanja ta stopa viša od kamatne stope iz st. 1. i 2. ovog člana - davalac kredita dužan je da za naredni period otplate, odnosno do sledećeg usklađivanja nominalne kamate stope primeni stopu iz tih stavova.",
+            "Banka je dužna da pri zaključenju ugovora o kreditu primenjuje ograničenja iz ovog člana u roku od 15 dana od dana objavljivanja prosečnih ponderisanih stopa, odnosno stopa zatezne kamate iz člana 11. ovog zakona.",
+            "Narodna banka Srbije bliže uređuje vrstu, odnosno namenu i strukturu kredita za koje objavljuje prosečnu ponderisanu kamatnu stopu iz ovog člana, kao i način obračuna i objavljivanja te stope.",
+            "Odredbe ovog člana ne primenjuju se na korisnike iz člana 2. tačka 13) podtač. (2) i (3) ovog zakona.",
+            "Pravo na odustanak"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_12"
+    },
+    {
+        "title": "Član 13",
+        "texts": [
+            "Korisnik ima pravo da odustane od zaključenog ugovora o kreditu, ugovora o revolving kreditu i ugovora o lizingu - u roku od 14 dana od dana zaključenja ugovora, bez navođenja razloga za odustanak.",
+            "Kod ugovora o stambenom kreditu, odnosno ugovora o kreditu koji je obezbeđen hipotekom - korisnik može odustati od ugovora pod uslovom da nije počeo da koristi kredit, odnosno finansiranje.",
+            "Kod povezanih ugovora o kreditu koji se zaključuju radi kupovine određene robe gde je predviđena mogućnost povrata robe i celokupnog plaćenog iznosa u roku koji je duži od 14 dana - korisnik ima pravo da u tom roku odustane od ugovora o finansijskoj usluzi.",
+            "Pri odustanku od ugovora iz stava 1. ovog člana, a pre isteka roka iz tog stava, korisnik je dužan da o svom odustanku obavesti davaoca usluga na način kojim se potvrđuje prijem ovog obaveštenja, pri čemu se datum prijema tog obaveštenja smatra datumom odustanka od ugovora. Ovo obaveštenje dostavlja se u pisanoj formi.",
+            "Korisnik koji odustane od ugovora o kreditu ili ugovora o revolving kreditu dužan je da odmah, a najkasnije u roku od 30 dana od dana slanja obaveštenja iz stava 4. ovog člana, banci vrati glavnicu i plati redovnu kamatu iz tog ugovora za period korišćenja kredita ili revolving kredita.",
+            "Korisnik koji odustane od ugovora o lizingu sa opcijom kupovine predmeta lizinga dužan je da davaocu lizinga odmah po slanju obaveštenja iz stava 4. ovog člana vrati predmet lizinga. Korisnik iz ovog stava dužan je da odmah, a najkasnije u roku od 30 dana od dana slanja obaveštenja iz stava 4. ovog člana, davaocu lizinga naknadi pretrpljenu štetu ako je došlo do umanjenja vrednosti predmeta lizinga i plati ugovorenu redovnu kamatu za period od dana zaključenja ugovora do dana plaćanja te kamate.",
+            "Davalac usluga iz stava 4. ovog člana nema pravo na druge naknade, osim naknada iz st. 5. i 6. ovog člana i stvarnih troškova, a u slučaju iz stava 2. ovog člana - banka ima pravo na naknadu stvarnih troškova koje je imala povodom zaključenja ugovora o kreditu.",
+            "Korisnik mora biti upoznat sa stvarnim troškovima iz stava 7. ovog člana pre zaključenja ugovora o kreditu.",
+            "Ako davalac usluga ili treća strana na osnovu ugovora s tim davaocem pruža i sporedne usluge u vezi s finansijskim uslugama iz st. 1. i 2. ovog člana - korisnika ne obavezuje ugovor o sporednim uslugama ako koristi svoje pravo na odustanak od osnovnog ugovora.",
+            "Pravo na obaveštavanje"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_13"
+    },
+    {
+        "title": "Član 14",
+        "texts": [
+            "Davalac usluga nema pravo da naplati nikakvu naknadu za podatke i informacije koje je dužan da dostavi korisniku u skladu sa ovim zakonom, bez obzira na formu i način dostavljanja tih podataka i informacija.",
+            "Korisnik ima pravo da na zahtev dobije one podatke i informacije u vezi sa zaključenim ugovorom o finansijskim uslugama za koje obaveza dostavljanja nije izričito propisana ovim zakonom, kao i da ponovo dobije informacije i podatke koji su mu u skladu sa ovim zakonom već dostavljeni, a davalac usluga tada ima pravo da mu naplati primerenu naknadu.",
+            "Lice koje je dalo sredstvo obezbeđenja (u daljem tekstu: davalac sredstva obezbeđenja) po ugovoru o kreditu ili lizingu ima pravo da jednom godišnje, a na njegov zahtev jednom mesečno, bez naknade i u pisanoj formi dobije plan otplate, stanje duga, kao i druge podatke u vezi sa izmirivanjem obaveza glavnog dužnika.",
+            "Obaveza minimalne profesionalne osposobljenosti"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_14"
+    },
+    {
+        "title": "Član 15",
+        "texts": [
+            "Zaposleni koji su angažovani na poslovima prodaje finansijskih usluga, odnosno sporednih usluga ili pružanju savetodavnih usluga dužni su da poseduju odgovarajuće kvalifikacije, znanje i iskustvo, kao i profesionalne i lične kvalitete, da postupaju u skladu s pažnjom dobrog stručnjaka, dobrim poslovnim običajima i poslovnom etikom, da poštuju ličnost i integritet korisnika, te da korisnike potpuno i tačno informišu o uslovima korišćenja tih usluga.",
+            "Davalac usluga dužan je da obezbedi da zaposleni koji su angažovani na poslovima prodaje, odnosno pružanja usluga iz stava 1. ovog člana poseduju odgovarajuće kvalifikacije, kao i da obezbedi redovnu obuku tih zaposlenih.",
+            "Narodna banka Srbije može da propiše bliže uslove u pogledu znanja, stručnosti i kvalifikacija koje moraju posedovati zaposleni iz stava 2. ovog člana, kao i način i uslove za sprovođenje njihove obuke.",
+            "Pravila poslovnog ponašanja i finansijska edukacija korisnika"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_15"
+    },
+    {
+        "title": "Član 16",
+        "texts": [
+            "Davalac usluga dužan je da postupa pošteno, transparentno i s pažnjom dobrog stručnjaka, kao i da pri sprovođenju svojih poslovnih aktivnosti uzima u obzir prava i interese korisnika i vodi računa o njihovoj zaštiti. Poslovne aktivnosti iz ovog stava obuhvataju i kreiranje i oglašavanje finansijskih usluga, zaključivanje i sprovođenje ugovora o finansijskim uslugama, kao i pružanje sporednih i savetodavnih usluga.",
+            "Pri zaključivanju ugovora o finansijskim uslugama i pružanju savetodavnih usluga, davalac usluga dužan je da uzme u obzir sve informacije o okolnostima u kojima se korisnik nalazi, kao i bilo koje specifične zahteve korisnika, a koje mu je korisnik predočio, te da ima u vidu i razumne pretpostavke o rizicima koji proizlaze iz situacije u kojoj se korisnik nalazi tokom celog perioda trajanja ugovora o finansijskim uslugama, kao i da upozori korisnika na ove rizike.",
+            "Davalac usluga dužan je da izradi i primenjuje politiku isplate zarada i drugih naknada svojim zaposlenima tako da isplata naknada ne utiče na ispunjavanje obaveza iz stava 1. ovog člana, kao i da prilikom pružanja savetodavnih usluga ne dovodi u pitanje postupanje u najboljem interesu korisnika, odnosno da pružanje tih usluga ne zavisi od prodajnih ciljeva.",
+            "Davalac usluga dužan je da pri izradi i primeni politika isplate zarada i drugih naknada za svoje zaposlene koji su odgovorni za procenu kreditne sposobnosti poštuje sledeća načela:",
+            "1) politiku isplate zarada i drugih naknada koja promoviše odgovarajuće i efektivno upravljanje rizikom i ne podstiče preuzimanje rizika koje prelazi granicu rizika prihvatljivog za davaoca usluga;",
+            "2) politiku isplate zarada i drugih naknada koja je u skladu s poslovnom strategijom, ciljevima, vrednostima i dugoročnim interesima davaoca usluga i koja uključuje mere za izbegavanje sukoba interesa (npr. visina naknade ne zavisi od broja odobrenih zahteva).",
+            "Davalac usluga dužan je da preduzima mere u cilju finansijske edukacije korisnika, a naročito u pitanjima odgovornog zaduživanja korisnika i održivog upravljanja dugom.",
+            "Davalac usluga u obavezi je da korisnicima na jasan i precizan način pruža osnovne informacije o postupku zaključivanja ugovora o finansijskim uslugama, a posebnu pažnju mora posvetiti korisnicima koji prvi put zaključuju ove ugovore, naročito ako to čine na daljinu.",
+            "Glava II",
+            "INFORMISANJE KORISNIKA U PREDUGOVORNOJ FAZI I PROCENA KREDITNE SPOSOBNOSTI",
+            "Osnovna pravila oglašavanja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_16"
+    },
+    {
+        "title": "Član 17",
+        "texts": [
+            "Finansijske usluge moraju da se oglašavaju na jasan i razumljiv način, a oglašavanje ne sme da sadrži netačne informacije, odnosno informacije koje mogu stvoriti pogrešnu predstavu o uslovima pod kojima korisnik može koristiti ove usluge, o njihovoj dostupnosti i troškovima, kao i o ukupnom iznosu koji korisnik treba da plati radi korišćenja tih usluga.",
+            "Pri oglašavanju kreditnih usluga i lizinga, oglasna poruka mora da sadrži jasno i istaknuto upozorenje sledeće sadržine: \"Pažnja! Pozajmljivanje novca košta.\" ili sličnog sadržaja na osnovu kojeg bi korisnici morali postati svesni da pozajmljivanje novčanih sredstava podrazumeva plaćanje kamate i drugih naknada od strane korisnika.",
+            "Ako se oglašavaju kreditne usluge ili lizing čija je nominalna kamatna stopa 0%, naznačavaju se i svi uslovi pod kojima se te kreditne usluge odobravaju.",
+            "Pri oglašavanju kreditnih usluga i lizinga zabranjeno je koristiti izraze kojima se ove usluge označavaju kao besplatne ili slične izraze ako je odobrenje te usluge uslovljeno zaključenjem drugog ugovora ili bilo čim što predstavlja trošak za korisnika ili stvara drugu obavezu.",
+            "Ako je za zaključenje ugovora o kreditnoj usluzi i o lizingu obavezno i zaključenje ugovora o sporednim uslugama (npr. ugovora o osiguranju), a pritom se cena sporedne usluge ne može odrediti unapred - postojanje takve obaveze iskazuje se na reprezentativnom primeru jasno, sažeto i na vidljiv način, zajedno sa iskazivanjem efektivne kamatne stope.",
+            "Posebna pravila oglašavanja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_17"
+    },
+    {
+        "title": "Član 18",
+        "texts": [
+            "Davalac usluga dužan je da pri oglašavanju finansijskih usluga kod kojih oglasna poruka sadrži kamatnu stopu ili bilo koji numerički podatak koji se odnosi na cenu ili prihod - jasno i precizno, tako da budu lako čitljive ili jasno čujne i prilagođene tehničkim ograničenjima nosača putem kojeg se vrši oglašavanje, u okviru te oglasne poruke na reprezentativnom primeru navede sledeće standardne informacije:",
+            "1) poslovno ime ili drugu oznaku iz koje nedvosmisleno proizlazi o kom davaocu usluga je reč;",
+            "2) vrstu kredita/depozita/predmeta lizinga;",
+            "3) iznos kredita/depozita/predmeta lizinga;",
+            "4) visinu i vrstu nominalne kamatne stope (fiksnu, promenljivu ili obe ako je primenljivo), zajedno s pojedinostima o svim naknadama uključenim u ukupnu cenu kredita, odnosno lizinga za korisnika;",
+            "5) efektivnu kamatnu stopu;",
+            "6) valutu u kojoj se ugovara kredit/depozit/lizing;",
+            "7) način indeksiranja kredita/depozita/lizinga;",
+            "8) rok otplate kredita/lizinga, odnosno rok isplate depozita;",
+            "9) ukupnu cenu kredita/lizinga za korisnika;",
+            "10) sve troškove koji padaju na teret korisnika;",
+            "11) ukupan iznos koji korisnik plaća na osnovu ugovora o kreditu/revolving kreditu/lizingu, broj rata i visinu pojedinačne rate, a kod ugovora o depozitu ukupan iznos (iznos depozita i kamata) koji je banka dužna da isplati;",
+            "12) sredstva obezbeđenja;",
+            "13) tamo gde je primenljivo - upozorenje da promena kursnih razlika može dovesti do promene u ukupnom iznosu koji korisnik plaća po osnovu ugovora o kreditu/revolving kreditu/lizingu;",
+            "14) upozorenje o postojanju rizika koji je specifičan za konkretan ugovor o kreditu/revolving kreditu/lizingu, ako je primenljivo.",
+            "Oglašavanjem iz stava 1. ovog člana smatra se oglašavanje u smislu zakona kojim se uređuje oglašavanje - oglašavanje u sredstvima javnog informisanja, u prostorijama davaoca usluga (brošure, reklamni leci i dr.), na internet stranici, društvenim mrežama i sl.",
+            "Davalac usluga pri oglašavanju finansijske usluge nije dužan da navede reprezentativni primer ako u oglasnoj poruci navede efektivnu kamatnu stopu bez navođenja nominalne kamatne stope ili bilo kog drugog numeričkog podatka u vezi s tom uslugom.",
+            "Izuzetno, u posebnim i opravdanim slučajevima u kojima nosač koji se koristi za saopštavanje informacija iz stava 1. ovog člana ne omogućuje vizuelni prikaz informacija, podaci o ukupnom iznosu koji korisnik plaća na osnovu ugovora o kreditnim uslugama ili ugovora o lizingu, broju rata i visini pojedinačne rate, odnosno podaci o ukupnom iznosu koji je banka dužna da isplati kod ugovora o depozitu - ne moraju biti prikazani u reprezentativnom primeru.",
+            "U posebnim i opravdanim slučajevima u kojima elektronski nosač koji se upotrebljava za saopštavanje informacija iz stava 1. ovog člana ne omogućuje uočljiv i jasan vizuelni prikaz tih informacija, korisniku se mora obezbediti mogućnost da dodirom prsta (npr. klikom, kliznim pomicanjem ili prelaskom prsta) pristupi podacima o ukupnom iznosu koji bi korisnik bio dužan da isplati po ugovoru o kreditnim uslugama ili ugovoru o lizingu, broju rata i visini pojedinačne rate, odnosno podacima o ukupnom iznosu koji je banka dužna da isplati kod ugovora o depozitu.",
+            "Pri oglašavanju lizinga, pored podataka iz stava 1. ovog člana, davalac lizinga dužan je da navede i bruto nabavnu vrednost predmeta lizinga, visinu učešća i iznos neto finansiranja.",
+            "Pri oglašavanju iz stava 1. ovog člana, visina efektivne kamatne stope treba da bude naznačena, odnosno napisana tako da je uočljivija od ostalih elemenata.",
+            "Zabranjeno je oglašavanje ugovora o kreditu i revolving kreditu, odnosno ugovora o lizingu kojim se:",
+            "1) korisnici podstiču da zaključuju te ugovore uz navođenje da će se time poboljšati njihova finansijska situacija;",
+            "2) navodi da u slučaju da korisnik nije uredno postupao po tim ugovorima ili u slučaju da su ti ugovori registrovani u bazi podataka koja služi proceni kreditne sposobnosti korisnika - to će imati mali uticaj ili neće uopšte imati uticaj pri odlučivanju o zahtevu korisnika za zaključenje novog ugovora;",
+            "3) sugeriše da zaključenje ovih ugovora dovodi do povećanja finansijskih sredstava korisnika, predstavlja zamenu za štednju ili može povećati životni standard korisnika.",
+            "Narodna banka Srbije bliže propisuje ograničenja, uslove i način oglašavanja finansijskih usluga.",
+            "Opšte informacije"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_18"
+    },
+    {
+        "title": "Član 19",
+        "texts": [
+            "Korisnik ima pravo da od davaoca usluga u bilo kom trenutku, u pisanoj formi, na način za koji se korisnik opredelio, dobije jasne i razumljive informacije o finansijskim uslugama koje taj davalac nudi.",
+            "Ako se informacije iz stava 1. ovog člana korisniku dostavljaju u poslovnim prostorijama davaoca usluga, korisnik ima pravo da na zahtev te informacije dobije na papiru.",
+            "Informacije iz ovog člana obuhvataju:",
+            "1) poslovno ime, adresu, broj telefona i imejl adresu davaoca usluga;",
+            "2) namenu za koju ta finansijska usluga može biti iskorišćena;",
+            "3) potencijalno trajanje ugovora;",
+            "4) visinu i promenljivost nominalne kamatne stope;",
+            "5) elemente na osnovu kojih se određuje ugovorena promenljiva nominalna kamatna stopa, njihovu visinu u vreme zaključenja ugovora, periode u kojima će se menjati i način izmene, kao i fiksni element ako je ugovoren;",
+            "6) reprezentativni primer na kojem će biti prikazani ukupan iznos i ukupna cena finansijske usluge, kao i ukupan iznos koji korisnik plaća na osnovu ugovora o finansijskoj usluzi;",
+            "7) efektivnu kamatnu stopu, kao i sve pretpostavke primenjene u njenom računanju;",
+            "8) valutu u kojoj se ugovara finansijska usluga, a kod ugovora indeksiranih u stranoj valuti i objašnjenje o posledicama koje primena te indeksacije može imati na korisnika;",
+            "9) vrstu i visinu svih potencijalnih naknada i drugih troškova koji će pasti na teret korisnika uz određenje da li su fiksni ili promenljivi, a ako su promenljivi - periode u kojima će se menjati i način izmene;",
+            "10) izbor različitih dostupnih opcija u pogledu mogućnosti izvršenja obaveza korisnika po osnovu ugovora, uključujući broj rata i iznos pojedinačne rate, kao i periode u kojima rate dospevaju za naplatu;",
+            "11) sredstva obezbeđenja;",
+            "12) pravo korisnika na prevremenu otplatu po osnovu ugovora, uslove i način ostvarivanja ovog prava, kao i visinu naknada u vezi s tim;",
+            "13) pravo korisnika na odustanak od ugovora, uslove i način odustanka, kao i visinu troškova u vezi s tim;",
+            "14) eventualnu obavezu zaključivanja ugovora o sporednim uslugama koje su u vezi sa ugovorom o finansijskoj usluzi, kad je to zaključivanje obavezno radi zaključenja ugovora o finansijskoj usluzi ili radi njegovog zaključenja pod uslovima na tržištu i, prema potrebi, pojašnjenje da sporedne usluge korisnik može kupiti od drugog pružaoca usluga;",
+            "15) kod ugovora kod kojih je kao sredstvo obezbeđenja ugovorena hipoteka na nepokretnosti - obaveštenje korisniku da li je neophodna procena nepokretnosti, ko je odgovoran za sprovođenje te procene i da li se za korisnika javljaju troškovi u vezi s tim;",
+            "16) opšte upozorenje o mogućim posledicama u slučaju neispunjenja obaveza korisnika iz ugovora o finansijskoj usluzi, kao i kamatne stope koje se primenjuju u slučaju docnje.",
+            "Podatke i informacije iz ovog člana davalac usluga daje na osnovu reprezentativnog primera za kategoriju korisnika kojoj konkretan korisnik pripada.",
+            "Narodna banka Srbije može bliže urediti sadržinu opštih informacija iz ovog člana i način njihovog pružanja, odnosno može utvrditi postupak po kojem će davalac usluga bliže urediti sadržinu i način obaveštavanja iz ovog člana.",
+            "Ponuda"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_19"
+    },
+    {
+        "title": "Član 20",
+        "texts": [
+            "Davalac usluga dužan je da korisniku pruži jasne i razumljive informacije i objašnjenja o uslovima koji se odnose na ugovor o finansijskoj usluzi za koji je korisnik pokazao interesovanje (u daljem tekstu: ponuda), na način koji će korisniku omogućiti da uporedi ponude različitih davalaca tih usluga i proceni da li ovi uslovi odgovaraju njegovim potrebama i finansijskoj situaciji.",
+            "Davalac usluga dužan je da korisniku dostavi ponudu u primerenom roku pre zaključenja ugovora, odnosno prihvatanja ponude.",
+            "Primereni rok iz stava 2. ovog člana u slučaju kreditnih usluga ne može biti kraći od dva radna dana, a računa se od dana prijema obavezujuće ponude davaoca usluga do dana kada je korisnik zaključio ugovor ili prihvatio ponudu za zaključenje ugovora.",
+            "Ako korisnik u pisanoj formi izričito zahteva da zaključi ugovor ili prihvati ponudu za zaključenje ugovora odmah nakon dostavljanja ponude, davalac usluga nije dužan da sačeka protek primerenog roka iz stava 3. ovog člana.",
+            "Ako je ponuda korisniku dostavljena u periodu kraćem od 24 časa pre nego što je zaključio ugovor ili prihvatio ponudu, davalac kredita, odnosno davalac lizinga dužan je da korisniku u roku koji ne može biti kraći od tri dana niti duži od sedam dana od zaključenja ugovora ili prihvatanja ponude pošalje podsetnik u kojem će ga obavestiti o njegovom pravu da odustane od ugovora i objasniti postupak odustanka od ugovora predviđen članom 13. ovog zakona. Ovaj podsetnik korisniku se dostavlja u pisanoj formi - na način predviđen ugovorom.",
+            "Davalac usluga dužan je da korisniku uslugu ponudi u dinarima, osim ako korisnik zahteva da mu se usluga ponudi u dinarskoj protivvrednosti strane valute, odnosno u stranoj valuti, u skladu s propisima kojima se uređuje devizno poslovanje. Davalac usluga dužan je da korisniku u pisanoj formi ukaže na rizike koje korisnik preuzima kad se usluga pruža u dinarskoj protivvrednosti strane valute, odnosno u stranoj valuti.",
+            "Narodna banka Srbije propisuje u kojoj stranoj valuti davalac usluga može korisniku ponuditi i odobriti, odnosno indeksirati kredit, lizing i kreditnu karticu - ako korisnik zahteva da mu se usluga ponudi u dinarskoj protivvrednosti strane valute, odnosno u stranoj valuti u skladu sa stavom 6. ovog člana.",
+            "Ponuda se sačinjava na propisanom obrascu u pisanoj formi i sadrži jasno i sažeto prikazane sledeće podatke:",
+            "1) vrstu usluge;",
+            "2) poslovno ime, adresu, broj telefona i imejl adresu davaoca usluga;",
+            "3) ukupan iznos depozita, kredita, odnosno predmeta lizinga, kao i uslove njihovog korišćenja;",
+            "4) ukupnu cenu kredita/lizinga za korisnika;",
+            "5) ukupan iznos koji korisnik plaća na osnovu ugovora o kreditu/lizingu, a kod ugovora o depozitu ukupan iznos (iznos depozita i kamata) koji je banka dužna da isplati - sve izračunato na dan davanja ponude;",
+            "6) valutu u kojoj se ugovara depozit/kredit/lizing;",
+            "7) trajanje ugovora, odnosno rok otplate;",
+            "8) visinu i promenljivost nominalne kamatne stope;",
+            "9) elemente na osnovu kojih se određuje ugovorena promenljiva nominalna kamatna stopa, njihovu visinu u vreme zaključenja ugovora, periode u kojima će se menjati i način izmene, kao i fiksni element ako je ugovoren;",
+            "10) efektivnu kamatnu stopu i ukupan iznos koji korisnik treba da plati, odnosno koji treba da mu se isplati, prikazan na reprezentativnom primeru u kome su naznačeni svi elementi na osnovu kojih je taj iznos obračunat;",
+            "11) ako je ugovorena promenljiva kamatna stopa - upozorenje o njenom uticaju na efektivnu kamatnu stopu;",
+            "12) iznos i broj rata kredita, odnosno rata lizing naknada i periode u kojima dospevaju (mesečno, tromesečno i sl.);",
+            "13) vrstu i visinu svih naknada i drugih troškova koji padaju na teret korisnika kredita, uključujući i trošak procene nepokretnosti kod ugovora o kreditu kod kojih je kao sredstvo obezbeđenja ugovorena hipoteka na nepokretnosti, uz određenje da li su naknade i troškovi fiksni ili promenljivi, a ako su promenljivi - periode u kojima će se menjati i način izmene;",
+            "14) ako su ugovorom predviđeni različiti načini povlačenja sredstava s različitim naknadama ili kamatnim stopama, napomena da drugačiji mehanizmi povlačenja sredstava mogu dovesti do viših efektivnih kamatnih stopa;",
+            "15) eventualnu obavezu zaključivanja ugovora o sporednim uslugama koje su u vezi sa ugovorom o kreditu, odnosno lizingu (npr. ugovora o osiguranju i dr.) kad je to zaključivanje obavezno radi dobijanja kredita/lizinga ili radi dobijanja kredita/lizinga pod uslovima iz oglasa;",
+            "16) kamatne stope koje se primenjuju u slučaju docnje u skladu sa ovim zakonom;",
+            "17) uslove i postupak raskida ugovora, naročito kod ponuda ugovora koji se zaključuju na neodređeno vreme;",
+            "18) upozorenje u vezi s posledicama propuštanja plaćanja i neispunjenja drugih obaveza;",
+            "19) sredstva obezbeđenja;",
+            "20) pravo korisnika na odustanak od ugovora, uslove i način odustanka, kao i visinu troškova u vezi s tim;",
+            "21) pravo korisnika na prevremenu otplatu kredita/lizinga i visinu naknade u vezi s tim, kao i transparentno i razumljivo objašnjenje kako se ova naknada izračunava;",
+            "22) informaciju da korisnik ima pravo na obaveštenje o rezultatima uvida u bazu podataka radi procene svoje kreditne sposobnosti i da je to obaveštenje besplatno u slučaju iz člana 25. stav 4. ovog zakona;",
+            "23) pravo korisnika koji namerava da s davaocem usluga zaključi ugovor - da dobije besplatnu kopiju nacrta tog ugovora;",
+            "24) rok u kojem davaoca usluga obavezuju uslovi iz ponude, koji ne može biti kraći od dva radna dana od dana uručivanja, odnosno prijema ponude, osim u slučaju iz člana 53. ovog zakona, kada taj rok ne može biti kraći od tri radna dana;",
+            "25) pravo korisnika na prigovor i pritužbu, kao i mogućnost pokretanja postupka posredovanja pred Narodnom bankom Srbije radi vansudskog rešavanja spornog odnosa;",
+            "26) plan otplate kredita/lizinga, odnosno isplate depozita koji sadrži sve uplate i isplate za vreme trajanja ugovora, uključujući uplate i isplate za sve sporedne usluge povezane sa ugovorom koje se istovremeno prodaju;",
+            "27) upoznavanje korisnika s tim da su iznosi depozita, kredita, odnosno lizinga navedeni u ponudi personalizovani na osnovu automatizovane obrade podataka, uključujući i profilisanje.",
+            "Pored podataka iz stava 8. ovog člana, ponuda koja se odnosi na lizing uslugu sadrži i sledeće podatke:",
+            "1) bruto nabavnu vrednost predmeta lizinga;",
+            "2) iznos učešća;",
+            "3) podatke o obavezi osiguranja predmeta lizinga;",
+            "4) visinu troškova upisa ugovora kod Agencije za privredne registre koje korisnik plaća posle zaključenja ugovora o lizingu;",
+            "5) uslove izvršenja prava otkupa predmeta lizinga/produženja ugovora o lizingu.",
+            "Ponuda za zaključenje ugovora o dozvoljenom prekoračenju i kreditnoj kartici ne mora da sadrži podatke iz stava 8. tač. 12) i 21) ovog člana, ali sadrži podatke propisane zakonom kojim se uređuju platne usluge.",
+            "Ponuda za zaključenje ugovora o dozvoljenom prekoračenju sadrži i obaveštenje u kojim se slučajevima od korisnika može zahtevati potpuna otplata dozvoljenog prekoračenja računa.",
+            "Ponuda za zaključenje povezanog ugovora o kreditu, pored elemenata iz stava 8. ovog člana, sadrži i oznaku robe ili usluge i njenu gotovinsku cenu.",
+            "Kod ugovora kojim je u skladu sa odredbama člana 44. st. 1. i 3. ovog zakona predviđena mogućnost odloženog plaćanja ili neki drugi oblik izmirivanja novčane obaveze kako bi se korisniku olakšalo ispunjenje te obaveze, ponuda za zaključenje ovog ugovora sadrži sve elemente iz stava 8. ovog člana, osim elemenata iz tač. 14) i 15) tog stava, kao i obaveštenje o tome da li se od korisnika može zahtevati potpuna otplata duga u bilo kom trenutku.",
+            "Davalac usluga dužan je da korisnika koji namerava da s njim zaključi ugovor obavesti da na zahtev može bez naknade dobiti tekst nacrta tog ugovora - kao predlog za njegovo zaključivanje.",
+            "Ako korisnik podnese zahtev iz stava 14. ovog člana, davalac usluga dužan je da mu bez naknade u pisanoj formi dostavi tekst nacrta ugovora iz tog stava, ako je davalac usluga u momentu podnošenja tog zahteva voljan da zaključi ugovor.",
+            "Ako uslove finansiranja davaoca lizinga prezentuje treće lice - davalac lizinga dužan je da s tim licem zaključi ugovor o poslovnoj saradnji kojim se ovo lice obavezuje da te uslove prezentuje na isti način kao davalac lizinga.",
+            "Narodna banka Srbije propisuje izgled i bliže uređuje sadržinu obrazaca na kojima se sačinjava ponuda i na kojima se ukazuje na rizike koje korisnik preuzima kada se usluga pruža u dinarskoj protivvrednosti strane valute, odnosno u stranoj valuti, kao i sadržinu tog ukazivanja.",
+            "Davalac usluga može korisniku zajedno s ponudom pružiti i druge podatke za koje oceni da su korisni za korisnika (poput informacija o pružanju savetodavnih usluga), a ti podaci moraju biti jasno čitljivi i sadržani u posebnom dokumentu.",
+            "Primerena objašnjenja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_20"
+    },
+    {
+        "title": "Član 21",
+        "texts": [
+            "Davalac usluga dužan je da korisniku bez naknade i pre zaključenja ugovora o finansijskim uslugama za koje je korisnik pokazao interesovanje - pruži primerena objašnjenja o tom ugovoru i svim sporednim uslugama kojima se korisniku omogućava da proceni da li su taj ugovor i te sporedne usluge prilagođeni njegovim potrebama i finansijskoj situaciji.",
+            "Primerena objašnjenja iz stava 1. ovog člana obuhvataju:",
+            "1) osnovna obeležja predloženog ugovora, kao i predloženih sporednih usluga, ako postoje;",
+            "2) konkretne načine na koje bi predloženi ugovor ili sporedne usluge mogle uticati na korisnika, uključujući i posledice neispunjavanja ili neurednog ispunjavanja obaveze plaćanja;",
+            "3) ako se sporedne usluge pružaju zajedno sa ugovorom - podatak o tome da li se svaki element iz tog paketa može otkazati posebno, kao i o posledicama takvog otkazivanja po korisnika.",
+            "U opravdanim slučajevima, davalac usluge može svoje obaveze iz st. 1. i 2. ovog člana prilagoditi okolnostima u kojima se nudi konkretna finansijska usluga, vrsti te usluge, kao i licu kojem se ona nudi.",
+            "Narodna banka Srbije može bliže propisati sadržinu primerenih objašnjenja za određene finansijske usluge i način davanja tih objašnjenja.",
+            "Ponuda na osnovu profilisanja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_21"
+    },
+    {
+        "title": "Član 22",
+        "texts": [
+            "Ako davalac usluga korisniku nudi personalizovanu ponudu koja se temelji na automatizovanoj obradi podataka o ličnosti u smislu propisa kojima se uređuje zaštita tih podataka - dužan je da ga o tome obavesti na jasan i razumljiv način.",
+            "Obaveza procene kreditne sposobnosti"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_22"
+    },
+    {
+        "title": "Član 23",
+        "texts": [
+            "Pre zaključenja ugovora o kreditnim uslugama ili ugovora o lizingu - davalac usluga dužan je da izvrši procenu kreditne sposobnosti korisnika.",
+            "Ako se ugovorne strane nakon zaključenja ugovora iz stava 1. ovog člana saglase da se zaduženje korisnika poveća - davalac usluga dužan je da ponovo proceni kreditnu sposobnost tog korisnika.",
+            "Procena kreditne sposobnosti korisnika sprovodi se u interesu korisnika, kako bi se sprečili njegova prezaduženost i neodgovorno odobravanje kredita kod davaoca usluge. Kod ove procene uzimaju se u obzir svi pokazatelji na osnovu kojih se može zaključiti da li će korisnik uredno ispunjavati svoje obaveze iz ugovora.",
+            "Procena kreditne sposobnosti sprovodi se na osnovu relevantnih i tačnih podataka o prihodima i rashodima korisnika i drugim finansijskim i ekonomskim okolnostima koje su od značaja za ovu procenu, vodeći računa o prirodi, roku otplate i ukupnom riziku kreditne usluge za korisnika.",
+            "Pokazatelji i podaci iz st. 3. i 4. ovog člana mogu da uključuju dokaz o prihodima ili drugim izvorima za otplatu i podatke o finansijskoj i ukupnoj imovini i obavezama, u skladu s propisom Narodne banke Srbije.",
+            "Pokazatelji i podaci iz st. 3. i 4. ovog člana ne uključuju posebne vrste podataka o ličnosti u smislu zakona kojim se uređuje zaštita tih podataka.",
+            "Pokazatelje i podatke iz st. 3. do 5. ovog člana davalac usluga pribavlja iz relevantnih i pouzdanih izvora kojima se može dokazati njihova verodostojnost, od korisnika, kao i na osnovu uvida u bazu podataka o zaduženosti korisnika.",
+            "Davalac usluga dužan je da na odgovarajući način proveri pokazatelje i podatke iz st. 3. do 5. ovog člana, uključujući i upotrebu dokumentacije koja se može nezavisno proveriti (poput izvoda iz javno dostupnih registara i sl.).",
+            "Ako je jedan zahtev za zaključenje ugovora zajednički podnelo više korisnika, davalac usluga dužan je da sprovode procenu kreditne sposobnosti na osnovu zajedničke sposobnosti tih korisnika da izvršavaju obaveze iz ugovora.",
+            "Davalac usluga dužan je da unutrašnjim aktima uredi postupak za procenu kreditne sposobnosti korisnika, kao i da utvrdi pravila o dokumentovanju i čuvanju podataka i dokumentacije iz st. 3 do 5, 7. i 8. ovog člana.",
+            "Baza podataka o zaduženosti korisnika"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_23"
+    },
+    {
+        "title": "Član 24",
+        "texts": [
+            "Baza podataka o zaduženosti korisnika sadrži podatke za čije je prikupljanje i obradu korisnik prethodno dao saglasnost u pisanoj formi i podatke koji se prikupljaju i obrađuju u toj bazi neposredno na osnovu zakona, i to naročito podatke o njegovoj zaduženosti kod davalaca usluga i drugih finansijskih institucija i urednosti izmirivanja obaveza u vezi s tom zaduženošću.",
+            "Davalac usluga dužan je da, radi obezbeđivanja pouzdanosti baze iz stava 1. ovog člana, redovno dostavlja i ažurira podatke koji se vode u toj bazi, a odgovara i za tačnost tih podataka.",
+            "Narodna banka Srbije može propisati način uspostavljanja, organizovanja i rada baze podataka iz stava 1. ovog člana (kreditni registar), uključujući i način njenog finansiranja, kao i način prikupljanja, dostavljanja, obrade i čuvanja podatka iz te baze.",
+            "Rezultat procene kreditne sposobnosti"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_24"
+    },
+    {
+        "title": "Član 25",
+        "texts": [
+            "Davalac usluga zaključuje ugovor o kreditnim uslugama ili ugovor o lizingu samo ako rezultat procene kreditne sposobnosti ukazuje na to da je verovatno da će korisnik ispunjavati obaveze iz ugovora na način i u rokovima predviđenim tim ugovorom.",
+            "Davalac usluga dužan je da odluči o zahtevu korisnika za korišćenje usluge, odnosno da omogući korisniku da zaključi ugovor u roku od 15 radnih dana od dana kada je korisnik dostavio sve tražene podatke, informacije i dokumentaciju.",
+            "U slučaju stambenog kredita, odnosno kredita obezbeđenog hipotekom - banka može produžiti rok iz stava 2. ovog člana za 10 radnih dana, ali je dužna da o tom produženju obavesti korisnika pre isteka roka iz tog stava.",
+            "Ako davalac usluga odbije zahtev za zaključenje ugovora iz stava 1. ovog člana, dužan je da bez odlaganja u pisanoj formi:",
+            "1) obavesti korisnika o odbijanju ovog zahteva, a može da navede i razloge za odbijanje tog zahteva;",
+            "2) obavesti korisnika o podacima iz baze podatka iz člana 24. ovog zakona koji su uticali na odluku o odbijanju zahteva;",
+            "Ako s korisnikom zaključi ugovor o kreditnim uslugama ili ugovor o lizingu, davalac usluga ne može naknadno raskinuti ili izmeniti taj ugovor na štetu korisnika na osnovu toga što je procena kreditne sposobnosti bila nepravilno sprovedena. Ako u tom slučaju ipak dokaže da je korisnik svesno uskratio ili lažno prikazao pokazatelje i informacije, odnosno dokumentaciju iz člana 23. st. 3. do 5. i 7. ovog zakona - davalac usluga ima pravo i da taj ugovor raskine ili da ga izmeni na štetu korisnika.",
+            "Procena kreditne sposobnosti profilisanjem"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_25"
+    },
+    {
+        "title": "Član 26",
+        "texts": [
+            "Ako davalac usluge odbije zahtev za zaključenje ugovora iz člana 25. ovog zakona na osnovu procene kreditne sposobnosti korisnika koja uključuje primenu automatizovane obrade ličnih podataka, korisnik ima pravo da od davaoca usluga zatraži i dobije pomoć lica angažovanih od strane davaoca usluga, u okviru koje korisnik ima pravo da:",
+            "1) zatraži i dobije jasno i razumljivo objašnjenje o postupku procene kreditne sposobnosti, uključujući objašnjenje o automatizovanoj obradi ličnih podataka, kao i o njenim rizicima, značaju i efektima na odluku;",
+            "2) iskaže svoje stavove o proceni kreditne sposobnosti na osnovu automatizovane obrade ličnih podataka;",
+            "3) zatraži da davalac usluga preispita procenu kreditne sposobnosti i donetu odluku.",
+            "Davalac usluga dužan je da korisnika obavesti o njegovim pravima iz stava 1. ovog člana u obaveštenju iz člana 25. stav 4. ovog zakona, s tim da je na davaocu usluga teret dokazivanja da je korisniku pružio to obaveštenje.",
+            "Glava III",
+            "SADRŽAJ UGOVORA O FINANSIJSKIM USLUGAMA",
+            "Ugovor o kreditu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_26"
+    },
+    {
+        "title": "Član 27",
+        "texts": [
+            "Ugovor o kreditu sadrži sledeće obavezne elemente:",
+            "1) vrstu kredita;",
+            "2) period na koji se kredit odobrava, odnosno rok otplate kredita;",
+            "3) poslovno ime, odnosno ime, adresu i broj telefona davaoca kredita i korisnika, kao i imejl adresu davaoca kredita i korisnika, ako je korisnik poseduje;",
+            "4) iznos kredita koji se odobrava i uslove povlačenja sredstava;",
+            "5) kod kredita indeksiranog u stranoj valuti - valutu indeksacije, naznaku da se pri odobravanju i otplati kredita primenjuje zvanični srednji kurs dinara prema toj valuti na dan odobravanja, odnosno otplate i datum obračuna;",
+            "6) visinu nominalne kamatne stope uz određenje da li je fiksna ili promenljiva, a ako je promenljiva - elemente na osnovu kojih se određuje (referentna kamatna stopa, indeks potrošačkih cena i dr.), njihovu visinu u vreme zaključenja ugovora, periode u kojima će se menjati, kao i fiksni element ako je ugovoren;",
+            "7) efektivnu kamatnu stopu, pri čemu je potrebno navesti sve pretpostavke primenjene u računanju efektivne kamatne stope;",
+            "8) ukupnu cenu kredita za korisnika;",
+            "9) ukupan iznos koji korisnik treba da plati na osnovu ugovora o kreditu, izračunat na dan zaključenja ugovora;",
+            "10) broj rata kredita, pojedinačni iznos rate u trenutku zaključenja ugovora, kao i period u kome rate dospevaju za naplatu;",
+            "11) plan otplate kredita i pravo korisnika da u bilo kom trenutku u toku trajanja ugovora besplatno dobije taj plan (ako se kamata i troškovi otplaćuju bez istovremene otplate glavnice - plan otplate kredita treba da sadrži samo rokove i uslove otplate kamate i troškova);",
+            "12) metod koji se primenjuje kod obračuna kamate (konformni, proporcionalni i dr.);",
+            "13) obaveštenje o kamatnoj stopi koja se primenjuje u slučaju docnje u skladu sa ovim zakonom i njenu visinu u vreme zaključenja ugovora;",
+            "14) ostale posledice u slučaju docnje (kašnjenja u otplati kredita, odnosno u slučaju neizmirivanja obaveza), uslove, postupak i posledice otkaza, odnosno raskida ugovora o kreditu, kao i podatak o mogućnosti poveravanja aktivnosti naplate potraživanja;",
+            "15) uslove i način ustupanja potraživanja;",
+            "16) vrstu i visinu svih naknada koje padaju na teret korisnika kredita, uz određenje da li su fiksne ili promenljive, a ako su promenljive - periode u kojima će se menjati, kao i vrstu i visinu drugih troškova (porezi, takse, naknade nadležnim organima, trošak procene vrednosti nepokretnosti i dr.);",
+            "17) vrste sredstava obezbeđenja, mogućnost za njihovu zamenu drugim sredstvom obezbeđenja tokom perioda otplate kredita, kao i uslove aktiviranja tih sredstava u slučaju neizmirivanja obaveza;",
+            "18) uslove i način prevremene otplate kredita i visinu naknade u vezi s tim, kao i transparentno i razumljivo objašnjenje kako se ova naknada izračunava;",
+            "19) pravo korisnika na odustanak od ugovora, kao i uslove i način tog odustanka;",
+            "20) eventualnu obavezu zaključivanja ugovora o sporednim uslugama koje su u vezi sa ugovorom o kreditu (npr. ugovor o platnim uslugama, ugovor o osiguranju i sl.);",
+            "21) vrstu pisane forme koju je korisnik odabrao za obaveštenja koja mu davalac kredita dostavlja u skladu sa ovim zakonom i ugovorom o kreditu (npr. podsetnik iz člana 20. stav 5. ovog zakona, obaveštenja u slučaju izmene zaključenog ugovora o kreditu, obaveštenja o promeni nominalne kamatne stope, kod ugovora o revolving kreditu - obaveštenja iz člana 41. ovog zakona);",
+            "22) pravo na prigovor i pritužbu i pokretanje postupka posredovanja pred Narodnom bankom Srbije radi vansudskog rešavanja spornog odnosa, uz objašnjenje korisniku o načinu podnošenja prigovora, pritužbe i predloga za posredovanje;",
+            "23) adresu Narodne banke Srbije kao organa koji vrši kontrolu davalaca kredita.",
+            "Povezani ugovor o kreditu, pored elemenata iz stava 1. ovog člana, sadrži i oznaku robe ili usluge, njenu gotovinsku cenu i obaveštenje o prestanku važenja povezanog ugovora u slučaju korišćenja prava na odustanak od ugovora, kao i o pravima koja korisnik ima prema davaocu kredita u skladu s članom 51. ovog zakona.",
+            "Obavezni elementi ugovora o kreditu iz stava 1. ovog člana i povezanog ugovora o kreditu iz stava 2. ovog člana moraju biti jasno čitljivi i prilagođeni tako da se vodi računa o tehničkim ograničenjima trajnog nosača podataka na kojem su prikazani.",
+            "Pri zaključivanju ugovora iz stava 1. ovog člana, davalac kredita uz ugovor dostavlja plan otplate kredita i pregled obaveznih elemenata kredita koji sadrži sažeto prikazane osnovne podatke o kreditu.",
+            "Posle zaključenja ugovora o kreditu, davalac kredita dužan je da i davaocu sredstva obezbeđenja dostavi kopiju tog ugovora s planom otplate i pregledom obaveznih elemenata, osim ako je davalac sredstva obezbeđenja prodavac stvari koja je predmet hipoteke ili drugog založnog prava na osnovu kupoprodajnog ugovora za čiju realizaciju su odobrena sredstva tog kredita.",
+            "Ugovor o kreditnoj kartici"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_27"
+    },
+    {
+        "title": "Član 28",
+        "texts": [
+            "Ugovor o kreditnoj kartici, pored elemenata okvirnog ugovora utvrđenih zakonom kojim se uređuju platne usluge, sadrži i sledeće obavezne elemente:",
+            "1) iznos odobrenih sredstava koja korisnik može koristiti u određenom periodu (kreditni limit);",
+            "2) ako se kreditni limit odobrava i obračunava u stranoj valuti - naznaku valute;",
+            "3) rok dospeća i procenat minimalne mesečne obaveze za plaćanje;",
+            "4) visinu nominalne kamatne stope uz određenje da li je fiksna ili promenljiva, a ako je promenljiva - elemente na osnovu kojih se određuje (referentna kamatna stopa, indeks potrošačkih cena i dr.), njihovu visinu u vreme zaključenja ugovora, periode u kojima će se menjati, kao i fiksni element ako je ugovoren;",
+            "5) efektivnu kamatnu stopu, pri čemu je potrebno navesti sve pretpostavke primenjene u računanju efektivne kamatne stope;",
+            "6) metod koji se primenjuje kod obračuna kamate (konformni, proporcionalni i dr.);",
+            "7) vrstu i visinu svih naknada koje padaju na teret korisnika kreditne kartice, uz određenje da li su fiksne ili promenljive, a ako su promenljive - periode u kojima će se menjati, kao i vrstu i visinu drugih troškova;",
+            "8) način izmirivanja obaveza, uz posebno isticanje roka za otplatu korišćenih sredstava bez obračuna kamate, ako su takvi uslovi ugovoreni;",
+            "9) obaveštenje o kamatnoj stopi koja se primenjuje u slučaju docnje u skladu sa ovim zakonom i njenu visinu u vreme zaključenja ugovora;",
+            "10) vrste sredstava obezbeđenja, mogućnost njihove zamene drugim sredstvom obezbeđenja tokom perioda otplate kredita, kao i uslove aktiviranja tih sredstava u slučaju neizmirivanja obaveza;",
+            "11) posledice u slučaju neizmirivanja obaveza u skladu sa ugovorom, uslove i posledice otkaza, odnosno raskida ugovora, kao i podatak o mogućnosti poveravanja aktivnosti naplate potraživanja;",
+            "12) uslove i način ustupanja potraživanja;",
+            "13) pravo korisnika na odustanak od ugovora, kao i uslove i način tog odustanka, u skladu s članom 13. ovog zakona;",
+            "14) pravo korisnika da u svakom trenutku može izmiriti dugovanje;",
+            "15) pravo na prevremenu otplatu nedospelih obaveza po kreditnoj kartici, bez kamate i drugih naknada;",
+            "16) eventualnu obavezu zaključivanja ugovora o sporednim uslugama koje su u vezi sa ugovorom o kreditnoj kartici (npr. ugovor o osiguranju);",
+            "17) vrstu pisane forme koju je korisnik odabrao za obaveštenja koja mu davalac kredita dostavlja u skladu sa ovim zakonom i ugovorom;",
+            "18) pravo na prigovor i pritužbu, kao i mogućnost pokretanja postupka posredovanja pred Narodnom bankom Srbije radi vansudskog rešavanja spornog odnosa, uz objašnjenje o načinu podnošenja prigovora, pritužbe i predloga za posredovanje;",
+            "19) adresu Narodne banke Srbije kao organa koji vrši kontrolu davalaca kredita.",
+            "Obavezni elementi ugovora o kreditnoj kartici iz stava 1. ovog člana moraju biti jasno čitljivi i prilagođeni tako da se vodi računa o tehničkim ograničenjima trajnog nosača podataka na kojem su prikazani.",
+            "Pri zaključivanju ugovora iz stava 1. ovog člana, davalac kredita korisniku uz ugovor dostavlja pregled obaveznih elemenata tog ugovora koji sadrži sažeto prikazane osnovne podatke iz tog ugovora.",
+            "Posle zaključenja ugovora o kreditnoj kartici, davalac kredita dužan je da davaocu sredstva obezbeđenja dostavi kopiju tog ugovora s pregledom obaveznih elemenata, osim ako je korisnik kreditne kartice istovremeno i davalac sredstva obezbeđenja.",
+            "Ugovor o dozvoljenom prekoračenju"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_28"
+    },
+    {
+        "title": "Član 29",
+        "texts": [
+            "Ugovor o dozvoljenom prekoračenju sadrži elemente iz člana 28. stav 1. ovog zakona.",
+            "Ugovorom o dozvoljenom prekoračenju uređuje se i u kojim slučajevima se od korisnika može zahtevati potpuna otplata dozvoljenog prekoračenja, a ovaj ugovor sadrži i podatak o pravu korisnika da to prekoračenje u svakom trenutku prevremeno otplati bez naknade.",
+            "Obavezni elementi ugovora o dozvoljenom prekoračenju iz stava 1. ovog člana moraju biti jasno čitljivi i prilagođeni tako da se vodi računa o tehničkim ograničenjima trajnog nosača podataka na kojem su prikazani.",
+            "Pri zaključivanju ugovora iz stava 1. ovog člana, davalac kredita korisniku uz taj ugovor dostavlja pregled obaveznih elemenata tog ugovora, koji sadrži osnovne podatke o dozvoljenom prekoračenju.",
+            "Posle zaključenja ugovora o dozvoljenom prekoračenju, davalac kredita dužan je da i davaocu sredstva obezbeđenja dostavi kopiju tog ugovora s pregledom obaveznih elemenata ugovora.",
+            "Nedozvoljeno prekoračenje"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_29"
+    },
+    {
+        "title": "Član 30",
+        "texts": [
+            "Ako banka omogući korisniku nedozvoljeno prekoračenje - ugovor o otvaranju i vođenju tekućeg računa, odnosno o pružanju platnih usluga, pored elemenata okvirnog ugovora utvrđenih zakonom kojim se uređuju platne usluge, mora da sadrži i sledeće obavezne elemente:",
+            "1) podatak da je korisniku omogućeno nedozvoljeno prekoračenje po računu;",
+            "2) visinu nominalne kamatne stope uz određenje da li je fiksna ili promenljiva, a ako je promenljiva - elemente na osnovu kojih se određuje (referentna kamatna stopa, indeks potrošačkih cena i dr.), njihovu visinu u vreme zaključenja ugovora, periode u kojima će se menjati, kao i fiksni element ako je ugovoren;",
+            "3) vrstu i visinu svih naknada koje padaju na teret korisnika, uz određenje da li su fiksne ili promenljive, a ako su promenljive - periode u kojima će se menjati, kao i vrstu i visinu drugih troškova.",
+            "Ugovor o lizingu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_30"
+    },
+    {
+        "title": "Član 31",
+        "texts": [
+            "Ugovor o lizingu sadrži sledeće obavezne elemente:",
+            "1) poslovno ime, odnosno ime, adresu i broj telefona davaoca lizinga i korisnika, kao i imejl adresu davaoca lizinga i imejl adresu korisnika ako je korisnik poseduje;",
+            "2) bruto nabavnu vrednost predmeta lizinga (zbir vrednosti po kojoj je davalac lizinga stekao pravo svojine nad predmetom lizinga i obračunatog poreza na dodatu vrednost);",
+            "3) iznos učešća (iznos koji korisnik plaća davaocu lizinga i koji se iskazuje u odnosu na bruto nabavnu vrednost predmeta lizinga);",
+            "4) iznos neto finansiranja (razlika između bruto nabavne vrednosti predmeta lizinga i učešća);",
+            "5) broj rata lizing naknade, iznos pojedinačne rate, kao i period u kome rate dospevaju za naplatu;",
+            "6) preostalu vrednost predmeta lizinga (deo iznosa neto finansiranja koji se može ugovoriti, koji korisnik ne otplaćuje kroz rate, već odjednom, posle isteka perioda na koji je ugovor zaključen ako je ugovorom predviđeno pravo korisnika da otkupi predmet lizinga);",
+            "7) kod lizinga indeksiranog u stranoj valuti - valutu indeksacije, naznaku da se pri odobravanju i otplati lizinga primenjuje zvanični srednji kurs i datum obračuna;",
+            "8) visinu nominalne godišnje kamatne stope uz određenje da li je fiksna ili promenljiva, a ako je promenljiva - elemente na osnovu kojih se određuje (referentna kamatna stopa, indeks potrošačkih cena i dr.), njihovu visinu u vreme zaključenja ugovora, periode u kojima će se menjati, kao i fiksni element ako je ugovoren;",
+            "9) ako korisnik snosi troškove poreza na (ukupnu) kamatu, iznos tog poreza izračunat na dan zaključenja ugovora, uz naznaku da se ukupan iznos poreza može promeniti u slučaju promene nominalne kamatne stope;",
+            "10) efektivnu kamatnu stopu i ukupan iznos koji korisnik treba da plati, izračunat na dan zaključenja ugovora, pri čemu je potrebno navesti sve pretpostavke primenjene u računanju efektivne kamatne stope;",
+            "11) ukupnu cenu lizinga za korisnika;",
+            "12) ukupan iznos koji korisnik treba da plati na osnovu ugovora o lizingu, izračunat na dan zaključenja ugovora;",
+            "13) obavezu osiguranja predmeta lizinga;",
+            "14) pravo otkupa predmeta lizinga/produženja ugovora;",
+            "15) uslove i način prevremene otplate i visinu naknade u vezi s tim, kao i transparentno i razumljivo objašnjenje kako se ova naknada izračunava;",
+            "16) metod koji se primenjuje kod obračuna kamate (konformni, proporcionalni i dr.);",
+            "17) kamatnu stopu koja se primenjuje u slučaju docnje u skladu sa ovim zakonom i njenu visinu u vreme zaključenja ugovora;",
+            "18) vrstu i visinu svih naknada koje padaju na teret primaoca lizinga, uz određenje da li su fiksne ili promenljive, a ako su promenljive - periode u kojima će ih davalac lizinga menjati, kao i vrstu i visinu drugih troškova (porezi, naknade nadležnim organima i dr.);",
+            "19) vrste sredstava obezbeđenja, mogućnost njihove zamene tokom perioda otplate predmeta lizinga, kao i uslove aktiviranja tih sredstava u slučaju neizmirivanja obaveza;",
+            "20) obaveštenje o pravu davaoca lizinga da proda predmet lizinga;",
+            "21) uslove, postupak i posledice raskida ugovora o lizingu, kao i obaveštenje o uslovima i načinu ustupanja potraživanja;",
+            "22) pravo korisnika na odustanak od ugovora, uslove i način odustanka;",
+            "23) vrstu pisane forme koju je korisnik odabrao za obaveštenja koja mu davalac lizinga dostavlja u skladu sa ovim zakonom i ugovorom;",
+            "24) pravo na prigovor i pritužbu, kao i mogućnost pokretanja postupka posredovanja pred Narodnom bankom Srbije radi vansudskog rešavanja spornog odnosa, uz objašnjenje o načinu podnošenja prigovora, pritužbe i predloga za posredovanje;",
+            "25) adresu Narodne banke Srbije kao organa koji vrši kontrolu davalaca lizinga.",
+            "Obavezni elementi ugovora o lizingu iz stava 1. ovog člana moraju biti jasno čitljivi i prilagođeni tako da se vodi računa o tehničkim ograničenjima trajnog nosača podataka na kojem su prikazani.",
+            "Kod ugovora o lizingu - kamatna stopa, naknade i drugi troškovi, ako su promenljivi, moraju zavisiti od ugovorenih elemenata koji se zvanično objavljuju (referentna kamatna stopa, indeks potrošačkih cena i dr.) i čija je priroda takva da na njihovu vrednost ne može uticati jednostrana volja nijedne od ugovornih strana.",
+            "Pri zaključivanju ugovora iz stava 1. ovog člana, davalac lizinga korisniku uz ugovor dostavlja plan otplate lizinga i pregled obaveznih elemenata tog ugovora koji sadrži sažeto prikazane osnovne podatke o lizingu.",
+            "Ugovor o depozitu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_31"
+    },
+    {
+        "title": "Član 32",
+        "texts": [
+            "Ugovor o depozitu sadrži sledeće obavezne elemente:",
+            "1) vrstu depozita i period na koji banka prima depozit;",
+            "2) poslovno ime, odnosno ime, adresu i broj telefona banke i korisnika, kao i imejl adresu banke i imejl adresu korisnika, ako je korisnik poseduje;",
+            "3) iznos sredstava koji banka prima u depozit;",
+            "4) valutu u kojoj korisnik polaže a banka isplaćuje sredstva na ime depozita, a u slučaju depozita sa ugovorenom valutnom klauzulom - i tip kursa valute koji se primenjuje pri polaganju, odnosno isplati depozita (zvanični srednji kurs), kao i datum obračuna;",
+            "5) plan isplate depozita;",
+            "6) visinu nominalne godišnje kamatne stope, uz naznaku da li za korisnika postoji obaveza plaćanja poreza;",
+            "7) efektivnu kamatnu stopu, pri čemu je potrebno navesti sve pretpostavke primenjene u računanju efektivne kamatne stope;",
+            "8) ukupan iznos depozita koji banka isplaćuje korisniku nakon isteka perioda na koji je depozit primljen, odnosno nakon prestanka ugovora;",
+            "9) bezuslovne pogodnosti koje banka pruža u vezi s depozitom;",
+            "10) promenljivost nominalne kamatne stope (fiksna ili promenljiva);",
+            "11) elemente na osnovu kojih se određuje ugovorena promenljiva nominalna kamatna stopa, njihovu visinu u vreme zaključenja ugovora i periode u kojima će se menjati, kao i fiksni element ako je ugovoren;",
+            "12) metod koji se primenjuje kod obračuna kamate (konformni, proporcionalni i dr.);",
+            "13) način na koji i uslove pod kojima korisnik može raspolagati sredstvima depozita;",
+            "14) vrstu i visinu svih naknada koje padaju na teret deponenta, uz određenje da li su fiksne ili promenljive, a ako su promenljive - periode u kojima će se menjati, kao i vrstu i visinu drugih troškova (porezi, naknade nadležnim organima i dr.);",
+            "15) uslove i način automatskog produžavanja oročenja;",
+            "16) uslove i način raskida ugovora koji su zaključeni na neodređeno vreme;",
+            "17) iznos osiguranog depozita;",
+            "18) vrstu pisane forme koju je korisnik odabrao za obaveštenja koja mu banka dostavlja u skladu sa ovim zakonom i ugovorom;",
+            "19) pravo na prigovor i pritužbu, kao i mogućnost pokretanja postupka posredovanja pred Narodnom bankom Srbije radi vansudskog rešavanja spornog odnosa, uz objašnjenje o načinu podnošenja prigovora, pritužbe i predloga kojim se pred Narodnom bankom Srbije pokreće postupak posredovanja;",
+            "20) adresu Narodne banke Srbije, kao organa koji vrši kontrolu banaka.",
+            "Obavezni elementi ugovora o depozitu iz stava 1. ovog člana moraju biti jasno čitljivi i prilagođeni tako da se vodi računa o tehničkim ograničenjima trajnog nosača podataka na kojem su prikazani.",
+            "Kod ugovora o depozitu - naknade i drugi troškovi, ako su promenljivi, moraju zavisiti od ugovorenih elemenata koji se zvanično objavljuju (referentna kamatna stopa, indeks potrošačkih cena i dr.) i čija je priroda takva da na njihovu vrednost ne može uticati jednostrana volja nijedne od ugovornih strana.",
+            "Pri zaključivanju ugovora iz stava 1. ovog člana, banka korisniku dostavlja plan isplate depozita, kao i pregled obaveznih elemenata depozita koji sadrži osnovne podatke o depozitu.",
+            "U slučaju automatskog produžavanja oročenja depozita, banka je dužna da, najkasnije 30 dana pre isteka roka oročenja, korisnika obavesti o roku na koji se produžava ugovor o depozitu, kao i o novoj kamatnoj stopi, pri čemu korisnik ima pravo da ugovor raskine u bilo kom trenutku nakon prijema tog obaveštenja, i to bez naknade a uz kamatu ugovorenu za istekli oročeni period, ako je ugovor raskinuo u roku od 30 dana od dana prijema obaveštenja o novoj kamatnoj stopi.",
+            "Ako korisnik raskine ugovor o depozitu u skladu sa stavom 5. ovog člana, banka je dužna da mu omogući prenos novčanih sredstava u skladu sa odredbama zakona kojim se uređuju platne usluge koje se odnose na uslugu promene platnog računa.",
+            "Forma i sadržina obrazaca"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_32"
+    },
+    {
+        "title": "Član 33",
+        "texts": [
+            "Narodna banka Srbije propisuje formu i sadržinu obrasca plana otplate kredita/lizinga i plana isplate depozita, kao i pregleda obaveznih elemenata ugovora o finansijskim uslugama.",
+            "Ugovori o drugim uslugama koje pružaju banke"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_33"
+    },
+    {
+        "title": "Član 34",
+        "texts": [
+            "Ugovor o sefu i ugovori o drugim uslugama koje pružaju banke u skladu sa zakonom (npr. davanje avala, devizno-valutni i menjački poslovi) sadrže vrstu i visinu svih naknada i drugih troškova koji padaju na teret korisnika, odnosno korisnik s njima mora biti upoznat pre zaključenja ugovora ako se ti ugovori ne zaključuju u pisanoj formi u skladu sa zakonom.",
+            "Odredbe čl. 5. do 9, čl. 14. do 16, čl. 35. i 36. i čl. 59. do 66. ovog zakona shodno se primenjuju na ugovore iz stava 1. ovog člana.",
+            "Glava IV",
+            "IZMENE UGOVORA I PROMENLJIVA KAMATNA STOPA",
+            "Postupak izmene elemenata ugovora"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_34"
+    },
+    {
+        "title": "Član 35",
+        "texts": [
+            "Ako davalac usluga namerava da izmeni neki element ugovora o finansijskim uslugama, osim u slučaju izmene promenljive kamatne stope u skladu sa ovim zakonom, dužan je da u pisanoj formi dostavi korisniku predlog tih izmena, najmanje mesec dana pre početka, odnosno planiranog početka njihove primene.",
+            "Predlog iz stava 1. ovog člana sadrži:",
+            "1) jasan i precizan opis predloženih izmena, sa odgovarajućim pojašnjenjem o položaju korisnika u odnosu na položaj pre tih izmena;",
+            "2) napomenu da je za predložene izmene potreban pristanak korisnika u situacijama propisanim članom 36. ovog zakona, uz preciziranje načina i roka za davanje takve saglasnosti;",
+            "3) pojašnjenje izmena koje se primenjuju po sili zakona, drugog propisa ili na osnovu ugovora, ako je primenljivo;",
+            "4) opis posledica koje mogu nastupiti ako korisnik ne pristane na te izmene, odnosno ako zahteva raskid ugovora, uključujući i navođenje troškova koji padaju na teret korisnika u slučaju tog raskida;",
+            "5) datum od kada se primenjuju ove izmene.",
+            "Izmena obaveznih elemenata ugovora"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_35"
+    },
+    {
+        "title": "Član 36",
+        "texts": [
+            "Ako davalac usluga namerava da izmeni neki od obaveznih elemenata ugovora o finansijskim uslugama dužan je da s korisnikom zaključi aneks ugovora u formi koja je propisana za taj ugovor. Ako korisnik nije saglasan sa ovom izmenom, davalac usluga ne može iz tog razloga jednostrano izmeniti uslove iz ugovora, niti ugovor jednostrano raskinuti, odnosno otkazati.",
+            "Ako se visina fiksne kamatne stope ili fiksnog elementa promenljive kamatne stope, odnosno visine naknada i drugih troškova menjaju u korist korisnika ili ako se korisniku daju određena prava da koristi dodatne ili sporedne usluge bez uvođenja novih ili povećanja postojećih kamata, naknada i drugih troškova - te izmene mogu se primenjivati bez primene stava 1. ovog člana i člana 35. ovog zakona.",
+            "Ako je u korist korisnika promenjena visina fiksne kamatne stope ili fiksnog elementa promenljive kamatne stope, davalac usluga obaveštava o tome korisnika u pisanoj formi i dostavlja, odnosno čini dostupnim tom korisniku izmenjeni plan otplate kredita ili lizinga, odnosno plan isplate depozita, i to pre početka primene tih izmena, ako propisom nije drukčije određeno.",
+            "Odredbe ovog člana ne primenjuju se u slučaju promene visine promenljive kamatne stope usled promene promenljivog elementa te stope, odnosno zbog primene člana 12. ovog zakona.",
+            "Promenljiva nominalna kamatna stopa"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_36"
+    },
+    {
+        "title": "Član 37",
+        "texts": [
+            "Promenljiva nominalna kamatna stopa je kamatna stopa čija visina zavisi od ugovorenih promenljivih elemenata, odnosno promenljivih i fiksnih, s tim što su promenljivi elementi oni koji se zvanično objavljuju (referentna kamatna stopa, indeks potrošačkih cena i dr.).",
+            "Visina promenljive kamatne stope ne može biti negativna, odnosno manja od nule.",
+            "Promenljivi elementi, odnosno indeksi i referentne stope iz stava 1. ovog člana moraju biti ugovoreni na jasan i razumljiv način, moraju biti objektivni i dostupni, tako da ih ugovorne strane i institucije koje sprovode nadzor mogu proveriti.",
+            "Priroda elemenata iz stava 1. ovog člana mora biti takva da na njih ne može uticati jednostrana volja nijedne od ugovornih strana.",
+            "Ugovorom o kreditnim uslugama ili ugovorom o lizingu može se predvideti odredba da će se pri obračunu promenljive kamatne stope vrednost njenog promenljivog elementa, odnosno referentne stope koja je manja od nule uzimati kao vrednost nula, ako pre nuđenja takvih ugovora korisnicima, davalac usluge u postupku pred Narodnom bankom Srbije dokaže da takva odredba može dovesti do jasne koristi za korisnike.",
+            "Visina kamatne stope kod ugovora o depozitu, bez obzira na to da li je fiksna, promenljiva ili fiksna i promenljiva, ne može biti negativna, odnosno manja od nule.",
+            "Banka, odnosno davalac lizinga dužni su da promenljivu nominalnu kamatnu stopu utvrđuju na način određen odredbama ovog člana.",
+            "Narodna banka Srbije može urediti postupak iz stava 5. ovog člana.",
+            "Obaveštenje o promeni kamatne stope"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_37"
+    },
+    {
+        "title": "Član 38",
+        "texts": [
+            "Ako je ugovorena promenljiva nominalna kamatna stopa, davalac usluga dužan je da, u skladu sa ugovorom, o izmeni te stope korisnika obavesti u pisanoj formi, i to pre početka primene izmenjene stope (pre početka perioda otplate, odnosno korišćenja preostalog iznosa kredita po toj novoj stopi), odnosno najmanje 15 dana pre dospeća rate kredita po izmenjenoj kamatnoj stopi koja je izmenjena primenom člana 12. ovog zakona, i da u tom obaveštenju navede datum od kada se izmenjena stopa primenjuje.",
+            "Davalac usluga dužan je da u obaveštenju iz stava 1. ovog člana posebno prikaže novu vrednost promenljivog elementa (referentna stopa, indeks i sl.), uz podatak o tome kog dana je ta vrednost objavljena od strane administratora tog elementa, kao i iznos fiksnog elementa i ukupnu visinu nove kamatne stope.",
+            "Uz obaveštenje iz stava 1. ovog člana davalac usluga u pisanoj formi dostavlja korisniku i izmenjeni plan otplate kredita ili lizinga, odnosno plan isplate depozita.",
+            "Davalac usluga dužan je da, na zahtev korisnika, plan iz stava 3. ovog člana učini dostupnim korisniku za sve vreme trajanja ugovornog odnosa, i to bez naknade.",
+            "Obaveza obaveštavanja iz stava 1. ovog člana postoji i u slučaju izmene promenljivih elemenata koji utiču na visinu drugih novčanih obaveza.",
+            "Prestanak obračuna i objavljivanja referentne stope"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_38"
+    },
+    {
+        "title": "Član 39",
+        "texts": [
+            "Ako je ugovorena promenljiva stopa zasnovana na referentnoj stopi čiji obračun i objavljivanje prestanu, primenjivaće se stopa koja je ugovorom o finansijskim uslugama predviđena kao rezervna, odnosno zamenska stopa.",
+            "U slučaju iz stava 1. ovog člana, ako ugovorom o finansijskim uslugama nije predviđena rezervna, odnosno zamenska stopa, primenjivaće se stopa ili neki drugi promenljivi element koji se zvanično objavljuje i na čiju visinu ne može uticati nijedna od ugovornih strana, a koje odredi Narodna banka Srbije.",
+            "Odredbe st. 1. i 2. ovog člana shodno se primenjuju i kada je umesto referentne stope u skladu s članom 8. ovog zakona ugovoren neki drugi promenljivi element.",
+            "Referentna stopa prosečnog troška finansiranja bankarskog sektora"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_39"
+    },
+    {
+        "title": "Član 40",
+        "texts": [
+            "Narodna banka Srbije može na svojoj internet prezentaciji objaviti referentnu stopu prosečnog troška finansiranja bankarskog sektora Republike Srbije, koja se može ugovoriti kao promenljivi element promenljive nominalne kamatne stope.",
+            "Narodna banka Srbije može bliže urediti način obračuna i objavljivanja referentne stope iz stava 1. ovog člana.",
+            "Glava V",
+            "POSEBNA PRAVA KORISNIKA",
+            "Prava u vezi sa ugovorom o revolving kreditu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_40"
+    },
+    {
+        "title": "Član 41",
+        "texts": [
+            "Korisnik može na uobičajeni način, bez naknade i u svakom momentu, osim ako je ugovoren otkazni rok, koji ne može biti duži od mesec dana - da otkaže ugovor o revolving kreditu.",
+            "Ako je tako ugovoreno, davalac kredita može otkazati ugovor o revolving kreditu tako što će korisnika u pisanoj formi obavestiti o otkazu najkasnije dva meseca ranije.",
+            "Ako je tako ugovoreno, davalac kredita može iz opravdanih razloga (neovlašćeno korišćenje kredita, značajno pogoršanje kreditne sposobnosti korisnika i dr.) uskratiti korisniku pravo na povlačenje sredstava, s tim da je dužan da ga o razlozima tog uskraćivanja obavesti u pisanoj formi, i to, ako je moguće, odmah ili u roku od naredna tri dana, osim u slučaju da je pružanje takvih obaveštenja zabranjeno drugim propisima.",
+            "Obaveštavanje o stanju duga i prekoračenju računa"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_41"
+    },
+    {
+        "title": "Član 42",
+        "texts": [
+            "Davalac usluga dužan je da, u roku od 15 dana od dana unošenja podataka o docnji korisnika u bazu podataka o zaduženosti iz člana 24. ovog zakona, korisniku bez naknade dostavi obaveštenje o stanju njegovog duga po ugovoru o kreditu, revolving kreditu, odnosno lizingu.",
+            "Obaveštenje iz stava 1. ovog člana sadrži podatke o visini glavnice, kamata, naknada i dr., izraženih pojedinačno, podatke o ukupnom stanju duga na određeni dan, kao i objašnjenje da su podaci o docnji evidentirani u bazi podatka o zaduženosti, te posledice koje to može imati po korisnika.",
+            "U slučaju dozvoljenog prekoračenja, davalac kredita dužan je da najmanje jedanput mesečno korisniku bez naknade, u pisanoj formi, dostavi obaveštenje - izvod o svim promenama na njegovom računu, a dužan je da to obaveštenje dostavi bez odlaganja na zahtev korisnika, s tim da u tom slučaju ima pravo da naplati primerenu naknadu.",
+            "Obaveštenje iz stava 3. ovog člana obavezno sadrži sledeće podatke:",
+            "1) broj računa;",
+            "2) period na koji se izvod odnosi;",
+            "3) datum promene, opis promene, kao i iznos i vrstu promene (odobrenje ili zaduženje računa);",
+            "4) prethodno i novo stanje računa, kao i datum slanja izvoda;",
+            "5) primenjenu nominalnu kamatnu stopu;",
+            "6) sve zaračunate naknade i troškove;",
+            "7) ako postoji, minimalni iznos koji korisnik mora da plati.",
+            "Banka je dužna da odmah i bez odlaganja obavesti korisnika ako je njegov račun zadužen za iznos koji je doveo do korišćenja nedozvoljenog prekoračenja.",
+            "U obaveštenju iz stava 5. ovog člana banka navodi:",
+            "1) iznos nedozvoljenog prekoračenja;",
+            "2) trenutni iznos prekoračenja;",
+            "3) kamatnu stopu koja će se primeniti na iznos prekoračenja;",
+            "4) podatke o drugim eventualnim naknadama, troškovima i ugovornim kaznama;",
+            "5) datum do kojeg korisnik mora izvršiti isplatu dugovanog iznosa.",
+            "Korisniku nedozvoljenog prekoračenja koji izmiri dug po tom prekoračenju u roku od pet dana od dana zaduženja računa po osnovu kojeg se nalazi u nedozvoljenom prekoračenju banka ne naplaćuje kamatu na nedozvoljeno prekoračenje niti bilo koju drugu naknadu.",
+            "Ako korisnik redovno koristi nedozvoljeno prekoračenje računa, banka je dužna da mu ponudi neku drugu vrstu kreditne usluge ili pružanje savetodavnih usluga.",
+            "Prestanak i smanjenje dozvoljenog i nedozvoljenog prekoračenja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_42"
+    },
+    {
+        "title": "Član 43",
+        "texts": [
+            "Ako davalac dozvoljenog ili nedozvoljenog prekoračenja donese odluku o smanjenju iznosa tih prekoračenja ili odluku o raskidu ugovora o dozvoljenom prekoračenju, odnosno odluku o prestanku primene nedozvoljenog prekoračenja - dužan je da o tome obavesti korisnika na ugovoreni način mesec dana pre datuma primene tog smanjenja ili raskida ugovora, odnosno prestanka primene nedozvoljenog prekoračenja.",
+            "U slučaju iz stava 1. ovog člana, davalac dozvoljenog ili nedozvoljenog prekoračenja dužan je da korisniku, pre pokretanja izvršnog postupka i bez dodatnih troškova, ponudi mogućnost otplate iznosa dugovanja u 12 jednakih mesečnih rata, uz primenu nominalne kamatne stope iz ugovora o dozvoljenom prekoračenju, odnosno kamatne stope koja se primenjuje za nedozvoljeno prekoračenje.",
+            "Olakšice u slučaju problema u otplati duga"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_43"
+    },
+    {
+        "title": "Član 44",
+        "texts": [
+            "Ako u toku trajanja ugovornog odnosa nastupe okolnosti koje korisnika dovode u teško imovinsko stanje, odnosno druge bitne okolnosti na koje korisnik ne može da utiče, davalac kredita mora primeniti razumne mere kojima će korisniku olakšati otplatu dugovanog iznosa pre pokretanja izvršnog postupka, pri čemu će se posebno uzeti u obzir lične okolnosti korisnika.",
+            "Davalac kredita nije dužan da primenjuje mere iz stava 1. ovog člana prema korisniku prema kome je te mere već primenio, nakon čega je taj korisnik ponovo zapao u docnju, odnosno nije dužan da primeni te mere ako korisnik ne odgovori na ponudu davaoca kredita u roku koji mu taj davalac kredita ostavi, a koji ne može biti kraći od deset dana.",
+            "Pod razumnim merama iz stava 1. ovog člana podrazumevaju se potpuno ili delimično refinansiranje duga iz ugovora, odnosno izmene ugovorenih uslova, poput sledećih mera:",
+            "1) produženje roka otplate;",
+            "2) promena vrste ugovora;",
+            "3) odloženo plaćanje celokupnog iznosa kredita, kamate, glavnice, dozvoljenog ili nedozvoljenog prekoračenja, duga po kreditnoj kartici ili određenih rata kredita, za određeni period;",
+            "4) smanjenje kamatne stope;",
+            "5) odobrenje da korisnik ne vrši isplate u određenom periodu;",
+            "6) delimična otplata duga;",
+            "7) promena valute u kojoj je izražena obaveza, ako novčana obaveza nije izražena u dinarima;",
+            "8) delimičan oprost i konsolidacija duga;",
+            "9) proglašenje zastoja u otplati (moratorijum) za određeni period, u kome davalac kredita ne obračunava zateznu kamatu na dospelo a neizmireno potraživanje.",
+            "Prilikom izmene ugovorenih uslova iz stava 3. ovog člana, davalac kredita nije dužan da sprovodi procenu kreditne sposobnosti korisnika u smislu čl. 23. do 26. ovog zakona, pod uslovom da se tom izmenom znatno ne povećava ukupan iznos koji korisnik treba da plati.",
+            "Odredba stava 4. ovog člana ne dovodi u pitanje obavezu procene kreditne sposobnosti korisnika u skladu s drugim propisima.",
+            "Ako banka, zbog neispunjenja novčanih obaveza korisnika po ugovoru o kreditu, raskine taj ugovor, odnosno proglasi celokupan iznos preostalog duga po tom ugovoru dospelim - banka ne može vršiti naplatu duga s računa korisnika kod te banke primenom odredaba zakona kojim se uređuju platne usluge a koje se odnose na zaduženje platnog računa korisnika bez platnog naloga tog korisnika.",
+            "Odredbe ovog člana shodno se primenjuju na davaoca lizinga.",
+            "Kod povezanih ugovora o kreditu, davalac kredita i korisnik mogu u ugovoru o kreditu izričito predvideti da je u slučaju docnje korisnika i pod uslovima utvrđenim u ugovoru o kreditu za potpunu otplatu kredita dovoljno da se na davaoca kredita izvrši prenos prava svojine na robi obuhvaćenoj povezanim ugovorom o kreditu ili da se izvrši prenos prihoda od prodaje te robe.",
+            "Narodna banka Srbije može bliže propisati uslove, kriterijume i način primene mera iz ovog člana.",
+            "Izmirenje obaveza po stambenom kreditu u slučaju problema u otplati"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_44"
+    },
+    {
+        "title": "Član 45",
+        "texts": [
+            "Kod ugovora o stambenom kreditu kod kojih je kao sredstvo obezbeđenja ugovorena hipoteka na nepokretnosti, pre pokretanja vansudskog postupka namirenja u skladu sa zakonom kojim se uređuje hipoteka, odnosno pre pokretanja izvršnog postupka, banka je dužna da korisniku ponudi sledeće:",
+            "1) da u roku koji banka odredi, a koji ne može biti kraći od dva meseca, korisnik izvrši prodaju nepokretnosti i da banci prenese prihod od prodaje te nepokretnosti, radi plaćanja ukupnog iznosa duga po stambenom kreditu, uključujući dospelu kamatu i eventualne troškove;",
+            "2) da u roku od mesec dana banci prenese pravo svojine na toj nepokretnosti.",
+            "Banka je dužna da u skladu sa stavom 1. ovog člana korisniku ponudi opciju prenosa prava svojine iz tačke 2) tog stava samo ako je prema poslednjoj proceni tržišna vrednost nekretnine najmanje za 5% veća od duga korisnika koji uključuje kamate i eventualne troškove.",
+            "Prenos prava svojine iz stava 1. tačka 2) ovog člana predstavlja zamenu ispunjenja u smislu zakona kojim se uređuju obligacioni odnosi i ne smatra se prenosom uz naknadu u smislu zakona kojim se uređuje porez na imovinu. Banka ima pravo da obračunava kamatu na dug korisnika u periodu koji je određen za prodaju nepokretnosti, odnosno prenos prava svojine na nepokretnosti, po stopi čija visina predstavlja polovinu vrednosti stope zatezne kamate, odnosno polovinu vrednosti ugovorene redovne kamate u smislu člana 11. ovog zakona, ako je redovna kamata veća od zatezne kamate.",
+            "U slučaju prodaje nepokretnosti od strane korisnika, kupoprodajna cena se uplaćuje na račun banke poverioca, a odredba ugovora o kupoprodaji nepokretnosti kojim je drugačije određeno - ništava je.",
+            "Nakon naplate svog potraživanja prenosom kupoprodajne cene iz stava 4. ovog člana, banka je dužna da istog dana prenese na račun korisnika eventualni preostali iznos kupoprodajne cene iz tog stava.",
+            "Banka nije dužna da postupi u skladu sa stavom 1. tačka 2) ovog člana u sledećim slučajevima:",
+            "1) korisnik kredita nije i vlasnik nepokretnosti koja je predmet hipoteke, sa udelom 1/1;",
+            "2) predmet hipoteke je stečen u toku trajanja bračne zajednice, a bračni partner koji je solidarni dužnik po stambenom kreditu ili jemac, nije dao izričitu saglasnost za prenos prava svojine na toj nepokretnosti na banku;",
+            "3) postoji više korisnika stambenog kredita koji je obezbeđen hipotekom na nepokretnosti, a nisu se svi korisnici saglasili s prenosom prava svojine na toj nepokretnosti;",
+            "4) na nepokretnosti je upisana hipoteka drugog reda, zabeležba spora i/ili izvršenja, ili je, nakon uspostavljanja hipoteke u korist banke, upisano pravo plodouživanja, pravo zakupa, službenosti ili bilo koji drugi teret koji bi na bilo koji način ograničavao pravo svojine banke na toj nepokretnosti nakon prenosa, odnosno sprečava banku da se odmah uknjiži kao vlasnik na nepokretnosti;",
+            "5) stambeni kredit je osiguran kod Nacionalne korporacije za osiguranje stambenih kredita a ne postoji njena saglasnost na opciju izmirenja obaveza korisnika po stambenom kreditu prenosom prava svojine na nepokretnosti;",
+            "6) kredit je proglašen dospelim u celosti pre stupanja na snagu ovog zakona.",
+            "Ako korisnik odbije ponudu iz stava 1. ovog člana, odnosno u roku iz tog stava koji je banka odredila ne prenese prihod od prodaje nepokretnosti ili ne prenese pravo svojine na nepokretnosti na banku - banka može pokrenuti vansudski postupak namirenja u skladu sa zakonom kojim se uređuje hipoteka, odnosno izvršni postupak, a radi namirenja svog potraživanja.",
+            "Narodna banka Srbije može bliže propisati uslove, kriterijume i način primene mera, odnosno postupanja banaka u namirenju potraživanja po stambenim kreditima iz ovog člana.",
+            "Pravo na primenu istog tipa kursa"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_45"
+    },
+    {
+        "title": "Član 46",
+        "texts": [
+            "Davalac kredita dužan je da i pri odobravanju kredita indeksiranog u stranoj valuti i pri otplati tog kredita primenjuje zvanični srednji kurs dinara prema valuti u kojoj je taj kredit indeksiran.",
+            "Ako je ugovor o kreditu iz stava 1. ovog člana isplaćen pre početka primene ovog zakona na način koji nije u skladu s tim stavom, banka je dužna da pri otplati tog kredita primenjuje tip deviznog kursa po kojem je taj kredit isplaćen (kupovni ili prodajni) ili da primenjuje tip deviznog kursa koji je povoljniji za korisnika.",
+            "Odredba stava 1. ovog člana shodno se primenjuje na ugovor o lizingu, odnosno depozitu.",
+            "Pravo na isti metod obračuna kamate"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_46"
+    },
+    {
+        "title": "Član 47",
+        "texts": [
+            "Ako ima obavezu polaganja namenskog depozita sa ugovorenom kamatom radi dobijanja kredita, korisnik ima pravo da se na taj depozit primenjuje isti metod obračuna kamate koji je primenjen na obračun kamate na iznos odobrenog kredita, a banka je dužna da mu omogući ostvarenje tog prava.",
+            "Prevremena otplata"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_47"
+    },
+    {
+        "title": "Član 48",
+        "texts": [
+            "Korisnik ima pravo da u bilo kom trenutku, u potpunosti ili delimično, izvrši svoje obaveze iz ugovora o kreditu, u kom slučaju ima pravo na umanjenje ukupne cene kredita za iznos kamate i svih drugih naknada koje se naplaćuju u korist davaoca kredita za preostali period trajanja tog ugovora (prevremena otplata).",
+            "Pri obračunu umanjenja iz stava 1. ovog člana ukupna cena kredita umanjuje se i za srazmerni iznos naknada koje su jednokratno naplaćene u korist davaoca kredita za celokupan period otplate, a u slučaju potpune prevremene otplate može se umanjiti i za srazmerni iznos naknada naplaćenih u korist trećih lica (npr. povraćaj srazmernog iznosa premije osiguranja).",
+            "Kada korisnik zahteva otplatu kredita, davalac kredita dužan je da mu odmah po prijemu tog zahteva u pisanoj formi dostavi sve podatke potrebne za razumevanje posledica te odluke, kao što su iznos umanjenja ukupne cene kredita za iznos kamate i naknada, uključujući iznos umanjenja za srazmeran iznos jednokratno naplaćene naknade, kao i iznos naknade za prevremenu otplatu koju je korisnik dužan da plati davaocu kredita.",
+            "Davalac kredita dužan je da u roku od tri radna dana od dana podnošenja zahteva iz stava 3. ovog člana omogući korisniku da izvrši prevremenu otplatu, s tim da se kao dan prevremene otplate uzima dan kada je korisnik obezbedio sredstva na računu kod tog davaoca za izvršenje prevremene otplate.",
+            "Davalac kredita može da ugovori naknadu za prevremenu otplatu kredita ako je za period prevremene otplate ugovorena fiksna nominalna kamatna stopa, a kod stambenih kredita i kredita čija je namena kupovina nepokretnosti ako je ugovorena fiksna ili promenljiva nominalna kamatna stopa.",
+            "Naknada iz stava 5. ovog člana može se ugovoriti do visine pretrpljene štete zbog prevremene otplate, a najviše do 1% iznosa prevremeno otplaćenog kredita, i to ako je period između prevremene otplate i roka ispunjenja obaveze iz ugovora o kreditu duži od jedne godine, a ako je ovaj period kraći, ova naknada ne može biti veća od 0,5% iznosa prevremeno otplaćenog kredita.",
+            "Davalac kredita može tražiti naknadu iz stava 5. ovog člana pod uslovom da je iznos prevremene otplate u periodu od dvanaest meseci veći od 1.200.000 dinara.",
+            "Naknada iz stava 5. ovog člana ne može se zahtevati u sledećim slučajevima:",
+            "1) ako se otplata vrši na osnovu zaključenog ugovora o osiguranju čija je namena obezbeđivanje otplate;",
+            "2) u slučaju dozvoljenog prekoračenja računa ili kreditne kartice;",
+            "3) ako se otplata vrši u toku perioda za koji je ugovorena promenljiva nominalna kamatna stopa, osim kod stambenih kredita.",
+            "Naknada iz ovog člana ni u jednom slučaju ne može biti veća od iznosa kamate koju bi korisnik platio tokom perioda između prevremene otplate i roka ispunjenja obaveze iz ugovora o kreditu.",
+            "Pod štetom iz ovog člana podrazumeva se razlika između kamate ugovorene s korisnikom i tržišne kamate po kojoj banka može da plasira iznos dobijen prevremenom otplatom u momentu ove otplate, uključujući i administrativne troškove.",
+            "Pod tržišnom kamatom iz stava 10. ovog člana podrazumeva se prosečna ponderisana kamatna stopa za tu vrstu kredita koju na svojoj internet stranici objavljuje Narodna banka Srbije.",
+            "Odredbe ovog člana shodno se primenjuju na ugovor o lizingu.",
+            "Obaveštenje o izmirenju obaveza i povraćaj sredstava obezbeđenja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_48"
+    },
+    {
+        "title": "Član 49",
+        "texts": [
+            "Kada korisnik izmiri sve svoje obaveze po ugovoru o finansijskoj usluzi, davalac usluga dužan je da ga u pisanoj formi obavesti da je izmirio sve svoje obaveze po tom ugovoru, i to u roku od 15 dana od dana izmirenja tih obaveza.",
+            "Obaveštenje iz stava 1. ovog člana sadrži podatke o ugovoru po kome su izmirene obaveze prema davaocu usluga, iznos izmirenih obaveza i potpis odgovornog lica.",
+            "Korisnik, odnosno davalac sredstva obezbeđenja ima pravo da, nakon potpunog izmirenja obaveza korisnika prema davaocu usluga, preuzme neiskorišćena sredstva obezbeđenja data po tom ugovoru.",
+            "Ako je sredstvo obezbeđenja iz stava 3. ovog člana menica - pravo korisnika, odnosno davaoca tog sredstva obezbeđenja (izdavalac menice) da preuzme neiskorišćenu menicu prestaje nakon godinu dana od dana izmirenja obaveza po ugovoru u vezi s kojim je ta menica izdata.",
+            "Nakon isteka roka iz stava 4. ovog člana, davalac usluga je dužan da uništi menicu iz tog stava, o čemu sačinjava zapisnik, koji dostavlja korisniku i izdavaocu menice.",
+            "Ako ne može da omogući izdavaocu menice iz stava 4. ovog člana da preuzme menicu (izgubljena ili uništena menica u trenutku kada je korisnik izmirio sve svoje obaveze), davalac usluga je dužan da korisniku, odnosno izdavaocu menice uz obaveštenje iz stava 1. ovog člana dostavi i potvrdu da je menica izgubljena, odnosno uništena.",
+            "U slučaju iz stava 6. ovog člana, davalac usluga je dužan da izdavaocu menice isplati iznos koji odgovara iznosu troškova koje je korisnik snosio u vezi s meničnim blanketom, sa zakonskom zateznom kamatom od dana izmirivanja obaveza po ugovoru o finansijskoj usluzi iz stava 1. ovog člana do dana isplate tih troškova izdavaocu.",
+            "Ako menica iz stava 4. ovog člana bude naplaćena, odnosno zloupotrebljena - banka je dužna da izdavaocu te menice nadoknadi stvarnu štetu, sa zakonskom zateznom kamatom od dana naplate menice do isplate te naknade.",
+            "Ako je sredstvo obezbeđenja iz stava 3. ovog člana hipoteka upisana u korist davaoca kredita ili pokretna stvar nad kojom je uspostavljena zaloga upisom založnog prava u odgovarajući registar, davalac kredita dužan je da odmah nakon otplate kredita preduzme odgovarajuće aktivnosti radi brisanja hipoteke, odnosno založnog prava iz tog registra i da bez odlaganja obavesti o tome korisnika odnosno davaoca tog sredstva obezbeđenja, kao i njihovom brisanju, osim ako ako je propisano da ih o brisanju hipoteke, odnosno založnog prava obaveštava taj registar.",
+            "Davalac kredita ne može naplatiti nikakvu naknadu za preduzimanje radnji iz stava 9. ovog člana, bez obzira na postojanje stvarnih troškova.",
+            "Obaveze davaoca kredita iz stava 9. ovog člana ne dovode u pitanje pravo korisnika, odnosno davaoca sredstva obezbeđenja na raspolaganje neispisanom hipotekom u smislu zakona kojim se uređuje hipoteka, ako je tog davaoca pre otplate kredita obavestio o nameri da koristi to svoje pravo.",
+            "Ustupanje potraživanja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_49"
+    },
+    {
+        "title": "Član 50",
+        "texts": [
+            "Davalac kredita potraživanje iz ugovora o kreditnim uslugama zaključenog s korisnikom iz člana 2. tačka 13) podtačka (1) ovog zakona može ustupiti samo drugom davaocu kredita, s tim da banka svoje potraživanje iz tih ugovora može ustupiti samo drugoj banci.",
+            "Davalac kredita dužan je da bez odlaganja obavesti korisnika o ustupanju potraživanja iz stava 1. ovog člana.",
+            "Ako je davalac sredstva obezbeđenja korisnik iz člana 2. tačka 13) podtačka (1) ovog zakona, na njega se primenjuju pravila o ustupanju potraživanja koja važe za glavnog dužnika.",
+            "U slučaju ustupanja potraživanja davaoca kredita iz ugovora o kreditnim uslugama, korisnik zadržava sva prava koja su ugovorena, kao i pravo isticanja prigovora prema drugom davaocu kredita koje je imao i prema prvom davaocu kredita, a drugi davalac kredita ne može korisnika dovesti u nepovoljniji položaj od položaja koji bi imao da to potraživanje nije preneto i korisnik zbog toga ne može biti izložen dodatnim troškovima.",
+            "Odredbe ovog člana shodno se primenjuju na potraživanja iz ugovora o lizingu.",
+            "Glava VI",
+            "POVEZANI UGOVORI O KREDITU I PRAKSA OBJEDINJAVANJA/VEZIVANJA USLUGA",
+            "Povezani ugovori o kreditu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_50"
+    },
+    {
+        "title": "Član 51",
+        "texts": [
+            "Ako korisnik svoje pravo na odustanak od ugovora o kupovini robe, odnosno pružanju usluge ostvaruje u skladu sa zakonom kojim se uređuje zaštita potrošača - ne obavezuje ga povezani ugovor o kreditu.",
+            "U slučaju iz stava 1. ovog člana, prodavac je dužan da o odustanku od ugovora o kupovini robe, odnosno pružanju usluge obavesti davaoca kredita u roku od osam dana od tog odustanka, a davalac kredita dužan je da iznos kredita (s kamatom) koji je korisnik otplatio do momenta odustanka od tog ugovora vrati korisniku bez odlaganja, a najkasnije u roku od 30 dana od dana kad je obavešten o odustanku.",
+            "Ako se zaključi ugovor o kupovini robe, odnosno pružanju usluge, a kredit na osnovu povezanog ugovora o kreditu ne bude odobren - ugovor o kupovini robe, odnosno pružanju usluge se raskida, osim ako lice kome nije odobren kredit odluči da taj ugovor ostane na snazi.",
+            "Odredbe ovog člana shodno se primenjuju na ugovor o lizingu.",
+            "Praksa objedinjavanja i vezivanja usluga"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_51"
+    },
+    {
+        "title": "Član 52",
+        "texts": [
+            "Davalac kredita može da primenjuje praksu objedinjavanja usluga.",
+            "Davaocu kredita zabranjeno je da primenjuje praksu vezivanja usluga.",
+            "Izuzetno od stava 2. ovog člana, davalac kredita može kao uslov za zaključenje ugovora o kreditu da zahteva od korisnika otvaranje ili održavanje prethodno otvorenog platnog ili štednog računa ako je svrha takvog računa isključivo:",
+            "1) prikupljanje sredstava za otplatu kredita i/ili",
+            "2) otplaćivanje kredita i/ili",
+            "3) pružanje dodatnog sredstva obezbeđenja u slučaju neispunjavanja obaveza.",
+            "U slučaju iz stava 3. ovog člana, kao i u slučaju objedinjavanja usluga, davalac kredita može zahtevati da korisnik deponuje određeni iznos, odnosno deo redovnog mesečnog prihoda (zarada, penzija, naknada zarade i sl.) na svom platnom ili štednom računu koji se vodi kod te banke.",
+            "Pri određivanju iznosa iz stava 4. ovog člana, davalac kredita dužan je da vodi računa o srazmernosti između tog (mesečnog) iznosa i iznosa (mesečnih) obaveza po kreditu, kao i svrsi koja se deponovanjem tog iznosa nastoji postići.",
+            "Polisa osiguranja povezana sa ugovorom o kreditu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_52"
+    },
+    {
+        "title": "Član 53",
+        "texts": [
+            "Davalac kredita može od korisnika da zahteva dostavljanje odgovarajuće polise osiguranja povezane sa ugovorom o kreditu, pri čemu je dužan da vodi računa o proporcionalnosti između iznosa kredita i zahtevane polise osiguranja.",
+            "U slučaju iz stava 1. ovog člana davalac kredita dužan je da prihvati i polisu osiguranja koju je izdao pružalac usluge osiguranja koji se razlikuje od onog kojeg je predložio taj davalac, ako ta polisa osiguranja pruža isti nivo jemstva, pri čemu davalac kredita ne može izmeniti uslove kredita koje je ponudio korisniku.",
+            "Pri izdavanju polise osiguranja povezane sa ugovorom o kreditu ne mogu se koristiti lični podaci korisnika koji se odnose na dijagnoze onkoloških bolesti nakon proteka 15 godina od završetka lečenja korisnika.",
+            "Davalac kredita dužan je da obavesti korisnika o tome da u periodu koji ne može biti kraći od tri radna dana ima pravo da uporedi različite ponude osiguranja povezanih sa ugovorom o kreditu, pri čemu taj davalac u ovom periodu ne može menjati zahtevane uslove osiguranja.",
+            "Korisnik može na svoj izričit zahtev pribaviti polisu osiguranja i pre isteka roka iz stava 4. ovog člana.",
+            "Dozvoljenost prakse vezivanja usluga"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_53"
+    },
+    {
+        "title": "Član 54",
+        "texts": [
+            "Praksa vezivanja usluga dozvoljena je i ako banka u postupku pred Narodnom bankom Srbije učini izvesnim da vezivanje proizvoda ili kategorija proizvoda za ugovor o kreditu u konkretnom slučaju dovodi do jasne koristi za korisnike, uzimajući pritom u obzir dostupnost i cene relevantnih proizvoda koji se nude na tržištu.",
+            "Narodna banka Srbije može urediti postupak iz stava 1. ovog člana.",
+            "Glava VII",
+            "USLUGE KOJE SE ODNOSE NA SAVETOVANJE KORISNIKA",
+            "Uslovi za pružanje savetodavnih usluga"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_54"
+    },
+    {
+        "title": "Član 55",
+        "texts": [
+            "Banka može da pruža savetodavne usluge u pogledu bankarskih usluga u skladu sa odredbama ovog zakona.",
+            "Davalac usluga koji nije banka ne može pružati savetodavne usluge.",
+            "Banka je dužna da obavesti korisnika o tome da li u vezi sa uslugom koju taj korisnik zahteva ta banka može pružiti savetodavne usluge ili ih je već pružila tom korisniku.",
+            "Banka može da pruži savetodavne usluge korisniku samo ako on to izričito zahteva ili na to pristane zaključenjem ugovora o pružanju savetodavnih usluga.",
+            "Prilikom pružanja savetodavnih usluga banka ne može da koristi izraz \"nezavisni savetnik\" ili \"nezavisni savet\" i može savetovati korisnika isključivo u pogledu finansijskih usluga koje ona pruža.",
+            "Pre pružanja savetodavnih usluga ili zaključenja ugovora o pružanju tih usluga, banka je dužna da korisniku u pisanoj formi dostavi sledeće:",
+            "1) podatak o tome da se preporuka banke temelji isključivo na ponudi proizvoda i usluga te banke;",
+            "2) podatak o visini naknade koju je korisnik dužan da plati za pružanje savetodavnih usluga ako se takva naknada naplaćuje ili o metodu koji se koristi za izračunavanje ove naknade u slučaju da se iznos naknade ne može utvrditi u trenutku dostavljanja tih podataka.",
+            "Podatke iz stava 6. ovog člana banka može dostaviti korisniku u okviru predugovornog informisanja.",
+            "Način pružanja savetodavnih usluga"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_55"
+    },
+    {
+        "title": "Član 56",
+        "texts": [
+            "Kada banka pruža korisniku savetodavne usluge, dužna je da:",
+            "1) prikupi potrebne informacije o finansijskoj situaciji korisnika, njegovim potrebama i svrsi koja se namerava postići ugovorom o finansijskoj usluzi, kako bi mogla da mu preporuči za njega prikladan ugovor;",
+            "2) proceni finansijsku situaciju i potrebe korisnika na osnovu informacija iz tačke 1) ovog stava, koje moraju biti ažurirane u trenutku procene, pri čemu je dužna da uzme u obzir razumne pretpostavke o rizicima koji proizlaze iz finansijske situacije korisnika tokom trajanja preporučenog ugovora o finansijskoj usluzi;",
+            "3) razmotri dovoljno veliki broj usluga iz svoje ponude koje su iste vrste i karakteristika kao usluga za koju je korisnik zainteresovan i na osnovu toga preporuči jedan ili više ugovora o finansijskoj usluzi iz te ponude koji su prikladni s obzirom na potrebe, finansijsku situaciju i lične okolnosti korisnika;",
+            "4) postupa u najboljem interesu korisnika;",
+            "5) korisniku u pisanoj formi uruči dokaz o pruženoj preporuci koju je korisnik odabrao i koja je naznačena u ugovoru o pružanju savetodavnih usluga.",
+            "Banka je dužna da upozori korisnika u slučaju da određeni ugovor o finansijskoj usluzi može dovesti do pojave specifičnog rizika za korisnika s obzirom na njegovu finansijsku situaciju.",
+            "Narodna banka Srbije može bliže urediti način pružanja savetodavnih usluga, kao i uslove za pružanje tih usluga.",
+            "Glava VIII",
+            "UGOVORI NA DALJINU"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_56"
+    },
+    {
+        "title": "Član 57",
+        "texts": [
+            "Na finansijske usluge iz ovog zakona koje se ugovaraju, odnosno pružaju na daljinu primenjuju se odredbe ovog zakona i zakona kojim se uređuje zaštita korisnika finansijskih usluga kod ugovaranja na daljinu.",
+            "Davalac usluga dužan je da korisniku s kojim je zaključio ugovor na daljinu korišćenjem određenog sredstva komunikacije na daljinu omogući da preko tog istog sredstva ostvaruje svoja prava utvrđena ovim zakonom.",
+            "Ako korisnik i davalac usluga zaključuju ugovor o finansijskoj usluzi putem elektronskih usluga, korisnik ima pravo da u predugovornoj fazi, kao i u opravdanim slučajevima nakon zaključenja ugovora, a tokom radnog vremena davaoca usluga koje ne može biti kraće od 50 sati nedeljno - zahteva komunikaciju sa zaposlenim, odnosno fizičkim licem angažovanim kod tog davaoca radi pružanja potrebnih objašnjenja.",
+            "Korisnik može potpisati ugovor na daljinu u vrednosti do 1.200.000 dinara, a izuzetno i ugovor o depozitu na daljinu u vrednosti do 2.400.000 dinara, ako je davalac usluga proverio i potvrdio njegov korisnički identitet korišćenjem najmanje dva elementa za potvrđivanje korisničkog identiteta (autentifikacija) ili korišćenjem šema elektronske identifikacije visokog nivoa pouzdanosti, u skladu sa zakonom i drugim propisima.",
+            "Narodna banka Srbije može bliže propisati pojedina prava korisnika finansijskih usluga kod ugovaranja finansijskih usluga na daljinu, kao i uslove i način ostvarivanja i zaštite tih prava.",
+            "Glava IX",
+            "NEPOŠTENA POSLOVNA PRAKSA I NEPRAVIČNE UGOVORNE ODREDBE"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_57"
+    },
+    {
+        "title": "Član 58",
+        "texts": [
+            "Narodna banka Srbije može utvrđivati da li je davalac usluge obavljao nepoštenu poslovnu praksu ili ugovarao, odnosno primenjivao nepravične odredbe.",
+            "Odredba ugovora o finansijskoj usluzi o kojoj se nije pojedinačno pregovaralo smatraće se nepravičnom ako, protivno načelu savesnosti i poštenja, prouzrokuje značajnu neravnotežu u pravima i obavezama ugovornih strana, na štetu korisnika.",
+            "Smatra se da se nije pojedinačno pregovaralo o odredbi ugovora ako je sačinjena unapred, te korisnik nije mogao da utiče na suštinu te odredbe, posebno u slučaju unapred sačinjenih standardnih ugovora, odnosno ugovora po pristupu.",
+            "Činjenica da se o pojedinim delovima odredbe ili o određenoj odredbi pojedinačno pregovaralo ne dovodi u pitanje primenu ovog člana u odnosu na ostale odredbe ugovora ako ukupna procena ugovora ukazuje da se i dalje radi o ugovoru po pristupu.",
+            "Ako davalac usluga tvrdi da se o standardnoj odredbi ugovora pojedinačno pregovaralo, teret dokazivanja te činjenice je na njemu.",
+            "Prilikom procene pravičnosti odredbe ugovora o finansijskoj usluzi uzimaju se u obzir vrsta i priroda te usluge, uslovi i okolnosti pod kojima je ugovor zaključen, kao i sve ostale odredbe tog ugovora ili povezanog ugovora.",
+            "Odredbe ugovora kojima je određen predmet ugovora, tj. predmet finansijske usluge, kao i odredba o ceni te usluge kao protivčinidbe za tu uslugu - ne mogu biti predmet procene pravičnosti u smislu odredaba ovog člana, pod uslovom da su formulisane jasno i razumljivo.",
+            "Ako postoji sumnja u pogledu značenja određene odredbe u ugovoru o finansijskoj usluzi, primeniće se značenje koje je najviše u korist korisnika.",
+            "Odredba ugovora o finansijskoj usluzi za koju Narodna banka Srbije utvrdi da je nepravična prestaje da proizvodi pravno dejstvo od trenutka utvrđivanja njene nepravičnosti.",
+            "Izuzetno od stava 9. ovog člana, ako je nepravična ugovorna odredba proizvela značajne materijalne posledice po korisnika, Narodna banka Srbije može odrediti da odredba ugovora o finansijskoj usluzi za koju je utvrdila da je nepravična prestaje da proizvodi pravno dejstvo od trenutka ugovaranja te odredbe, ali najviše tri godine od prvog dana godine u kojoj je utvrđena nepravičnost.",
+            "Odredba iz stava 9. ovog člana ne dovodi u pitanje pravo suda da utvrdi ništavost nepravične odredbe u ugovoru o finansijskoj usluzi.",
+            "Na pitanja nepravičnih ugovornih odredbi koja nisu uređena ovim zakonom primenjuju se odredbe zakona kojima se uređuje zaštita potrošača.",
+            "Nepoštena poslovna praksa ima značenje utvrđeno zakonom kojim se uređuje zaštita potrošača.",
+            "Postupak za utvrđivanje nepoštene poslovne prakse ili nepravičnih ugovornih odredaba Narodna banka Srbije sprovodi u postupku kontrole, odnosno nadzora koji je propisan zakonom kojim se uređuje poslovanje davaoca usluga.",
+            "Ako utvrdi da je davalac usluga obavljao nepoštenu poslovnu praksu ili ugovarao nepravične odredbe, Narodna banka Srbije primenom neke od mera iz zakona kojim se uređuje poslovanje tog davaoca nalaže obustavu primene takve poslovne prakse, odnosno zabranu primene i ugovaranja tih odredaba, a može davaocu usluga naložiti preduzimanje i drugih aktivnosti.",
+            "U slučaju iz stava 15. ovog člana, Narodna banka Srbije davaocu usluga može izreći novčanu kaznu u skladu sa zakonom kojim se uređuje poslovanje tog davaoca usluga.",
+            "Glava X",
+            "OSTVARIVANJE ZAŠTITE PRAVA I INTERESA KORISNIKA",
+            "Pravo na prigovor davaocu usluga"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_58"
+    },
+    {
+        "title": "Član 59",
+        "texts": [
+            "Korisnik ima pravo na prigovor davaocu usluga u pisanoj formi (u daljem tekstu: prigovor) ako smatra da se taj davalac ne pridržava odredaba ovog zakona, drugih propisa kojima se uređuju finansijske usluge, opštih uslova poslovanja i/ili obaveza iz ugovora zaključenog s korisnikom.",
+            "Korisnik ima pravo na prigovor u roku od šest meseci od dana saznanja da je učinjena povreda njegovog prava.",
+            "U svakom slučaju pravo na podnošenje prigovora prestaje nakon isteka tri godine od dana kada je učinjena povreda prava korisnika.",
+            "Korisnikom iz stava 1. ovog člana smatra se i davalac sredstva obezbeđenja.",
+            "Davalac usluga dužan je da podnosiocu prigovora dostavi jasan, razumljiv i potpun odgovor na prigovor u pisanoj formi najkasnije u roku od 15 dana od dana prijema prigovora.",
+            "U odgovoru iz stava 5. ovog člana davalac usluga dužan je da ukaže korisniku na njegovo pravo da podnese pritužbu Narodnoj banci Srbije, kao i da ga upozna s načinom na koji može da podnese tu pritužbu.",
+            "Izuzetno od stava 5. ovog člana, ako davalac usluga iz razloga koji ne zavise od njegove volje ne može da dostavi odgovor u roku iz tog stava - taj se rok može produžiti za još najviše 15 dana, o čemu je ovaj davalac dužan da u pisanoj formi obavesti podnosioca prigovora u roku od 15 dana od dana prijema prigovora.",
+            "Davalac usluga dužan je da u obaveštenju iz stava 7. ovog člana jasno i razumljivo navede razloge zbog kojih nije mogao da dostavi odgovor u roku od 15 dana od dana prijema prigovora, kao i krajnji rok za davanje odgovora u skladu s tim stavom.",
+            "Davalac usluga ne može podnosiocu prigovora naplatiti naknadu niti bilo koje druge troškove za postupanje po prigovoru.",
+            "Davalac usluga dužan je da u poslovnim prostorijama u kojima nudi usluge korisnicima, na internet stranici, kao i u okviru elektronskih usluga, obezbedi mogućnost podnošenja prigovora, odnosno mogućnost da se korisnik ili davalac sredstva obezbeđenja upoznaju s načinom podnošenja prigovora i načinom postupanja po prigovoru.",
+            "Ako je finansijska usluga ugovorena na daljinu, davalac usluga dužan je da korisniku omogući da na isti način, istim sredstvom komunikacije na daljinu, odnosno u istoj pisanoj formi podnese prigovor.",
+            "Narodna banka Srbije bliže propisuje način podnošenja prigovora, kao i način postupanja davaoca usluga po prigovoru.",
+            "Pravo na pritužbu Narodnoj banci Srbije"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_59"
+    },
+    {
+        "title": "Član 60",
+        "texts": [
+            "Ako je nezadovoljan odgovorom na prigovor iz člana 59. ovog zakona ili mu taj odgovor nije dostavljen u roku iz tog člana - podnosilac prigovora može, pre pokretanja sudskog postupka, Narodnoj banci Srbije podneti pritužbu, u pisanoj formi (u daljem tekstu: pritužba), ako smatra da se davalac usluga ne pridržava odredaba ovog zakona, drugih propisa kojima se uređuju finansijske usluge, opštih uslova poslovanja ili obaveza iz ugovora zaključenog s korisnikom, odnosno podnosiocem prigovora.",
+            "Podnosilac prigovora može podneti pritužbu u roku od šest meseci od dana prijema odgovora iz stava 1. ovog člana ili proteka roka iz tog stava.",
+            "Narodna banka Srbije neće razmatrati pritužbu u sledećim slučajevima:",
+            "1) ako je podneta pre nego što je podnet prigovor davaocu usluga, odnosno pre isteka roka za odgovor na prigovor;",
+            "2) ako se odnosi na prigovor koji je davaocu usluga podnet nakon isteka roka za podnošenje prigovora iz člana 59. st. 2. i 3. ovog zakona;",
+            "3) ako je podneta nakon pokretanja sudskog, odnosno izvršnog postupka ili ako je njen predmet sporno pitanje povodom koga se vodi ili je pravnosnažno okončan sudski postupak;",
+            "4) ako se njome zahteva da Narodna banka Srbije obezbedi da davalac usluga izvrši sudsku odluku, odluku drugog nadležnog organa i organizacije ili lica kome je povereno vršenje javnih ovlašćenja (javni izvršitelji, javni beležnici i sl.);",
+            "5) ako postoji očigledna nesrazmera između vrednosti predmeta pritužbe i troškova rešavanja te pritužbe koji nastaju za Narodnu banku Srbije;",
+            "6) ako je radi utvrđivanja činjeničnog stanja i razmatranja pritužbe neophodno izvesti dokaze koje Narodna banka Srbije ne izvodi, kao što je saslušanje stranaka, svedoka, veštačenje, uviđaj i sl.;",
+            "7) ako iz činjeničnog stanja, a po proceni Narodne banke Srbije, proizlazi da postoje osnovi sumnje da se radi o prevarnom postupanju korisnika;",
+            "8) ako iz njene sadržine jasno proizlazi da njen cilj nije zaštita prava korisnika koji je podneo pritužbu, odnosno ako korisnik zloupotrebljava pravo na pritužbu, naročito ako pritužba ima nerazumnu, neozbiljnu ili uvredljivu sadržinu;",
+            "9) ako sadrži iste navode i/ili zahteve kao pritužba istog korisnika po kojoj se već postupalo.",
+            "Činjenično stanje u postupku po pritužbi Narodna banka Srbije utvrđuje na osnovu dokumentacije u pisanoj formi koju dostave davalac usluga i korisnik i u ovom postupku se ne izvode dokazi saslušanjem stranaka, svedoka, veštačenjem, uviđajem i slično.",
+            "Izuzetno od stava 4. ovog člana, u složenijim predmetima, odnosno ako postoji veći broj pritužbi sa sličnim činjeničnim stanjem - Narodna banka Srbije može, radi pravilnog i potpunog utvrđivanja činjeničnog stanja, obaviti razgovore s predstavnicima davaoca usluga, pri čemu ti razgovori mogu da se tonski snimaju, uz prethodnu saglasnost predstavnika davaoca usluga.",
+            "Nakon prijema pritužbe, Narodna banka Srbije od davaoca usluga na kog se pritužba odnosi traži da se izjasni o navodima iz pritužbe i dostavi odgovarajuće dokaze - u roku koji ona odredi u svom zahtevu a koji ne može biti duži od 15 dana od dana prijema ovog zahteva.",
+            "Nakon izjašnjenja davaoca usluga na pritužbu, odnosno proteka roka iz stava 6. ovog člana - Narodna banka Srbije može od tog davaoca zahtevati dodatna izjašnjenja, odnosno dostavljanje odgovarajućih dokaza u roku koji odredi u svom zahtevu.",
+            "Ako se davalac usluge ne izjasni u propisanom roku ili je dostavljeno izjašnjenje nepotpuno, odnosno ako ne dostavi dokaze u skladu sa st. 6. i 7. ovog člana - Narodna banka Srbije može, bez obzira na dalje postupanje po pritužbi, rešenjem novčano kazniti ovog davaoca u iznosu 150.000 dinara, a na tu novčanu kaznu shodno se primenjuju odredbe člana 62. st. 8, 10. i 11. ovog zakona.",
+            "Narodna banka Srbije može od podnosioca pritužbe zahtevati da dopuni svoju pritužbu, odnosno da se izjasni na određene okolnosti, kao i da dostavi određene dokaze, odnosno dokumentaciju kojom dokazuje svoje navode, u roku koji ona odredi u svom zahtevu.",
+            "Narodna banka Srbije obaveštava podnosioca pritužbe o nalazu po pritužbi u roku od tri meseca od dana prijema pritužbe, a u složenijim predmetima taj rok se može produžiti za dodatnih šest meseci, o čemu je Narodna banka Srbije dužna da podnosioca pritužbe obavesti u pisanoj formi pre isteka prvobitnog roka.",
+            "Obaveštenje o nalazu po pritužbi Narodna banka Srbije može dostaviti i davaocu usluga.",
+            "Ako je pritužba korisnika ocenjena kao neosnovana, a Narodna banka Srbije proceni da bi se sporni odnos ipak mogao rešiti u postupku posredovanja pred Narodnom bankom Srbije, ukazaće korisniku na tu mogućnost u obaveštenju o nalazu.",
+            "Narodna banka Srbije bliže propisuje način podnošenja pritužbe, kao i način postupanja po pritužbi, a može da propiše i minimalnu vrednost predmeta pritužbe ispod koje će se smatrati da postoji očigledna nesrazmera iz stava 3. tač. 5) ovog člana.",
+            "Posredovanje pred Narodnom bankom Srbije"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_60"
+    },
+    {
+        "title": "Član 61",
+        "texts": [
+            "Ako je podnosilac prigovora nezadovoljan odgovorom na prigovor ili mu taj odgovor nije dostavljen u propisanom roku, sporni odnos između podnosioca prigovora i davaoca usluga može se rešiti i u postupku posredovanja pred Narodnom bankom Srbije.",
+            "Postupak posredovanja pred Narodnom bankom Srbije je postupak u kojem strane dobrovoljno nastoje da sporni odnos reše putem pregovaranja, uz pomoć jednog ili više posrednika iz stava 4. ovog člana.",
+            "Na postupak posredovanja pred Narodnom bankom Srbije koji je propisan ovim članom ne primenjuju se odredbe zakona kojim se uređuje posredovanje u rešavanju sporova.",
+            "Postupak posredovanja pred Narodnom bankom Srbije sprovode zaposleni u Narodnoj banci Srbije koji poseduju odgovarajuća znanja i kvalifikacije, kao i ovlašćenje guvernera za obavljanje poslova posredovanja - posrednici.",
+            "Narodna banka Srbije objavljuje na svojoj internet stranici spisak posrednika iz stava 4. ovog člana.",
+            "Posrednik iz stava 4. ovog člana nastoji da se sporni odnos reši, tako što iznosi svoje viđenje činjeničnog stanja i pravne kvalifikacije i u skladu s tim predlaže rešenja koja smatra zakonitim, razumnim i pravičnim.",
+            "Postupak posredovanja je poverljiv i besplatan za strane u tom postupku.",
+            "Postupak posredovanja sprovodi se u prostorijama Narodne banke Srbije ili na daljinu korišćenjem sredstava elektronske komunikacije.",
+            "Postupak posredovanja pokreće se na predlog jedne strane u sporu koji je prihvatila druga strana, nakon čega se zaključuje sporazum o pristupanju posredovanju.",
+            "Predlog iz stava 9. ovog člana obavezno sadrži i rok za njegovo prihvatanje, koji ne može biti kraći od pet dana od dana dostavljanja tog predloga.",
+            "Postupak posredovanja okončava se na jedan od sledećih načina:",
+            "1) zaključenjem sporazuma o rešavanju spora posredovanjem;",
+            "2) odlukom posrednika da se postupak obustavlja, jer dalje vođenje postupka nije celishodno;",
+            "3) izjavom jedne strane da odustaje od daljeg sprovođenja postupka, osim u slučaju da u postupku posredovanja učestvuje više strana, koje nakon odustanka jedne od strana odluče da nastave postupak posredovanja;",
+            "4) protekom roka od 60 dana od dana zaključenja sporazuma o pristupanju posredovanju, ako se strane ne sporazumeju drugačije.",
+            "Sporazum strana postignut u postupku posredovanja pred Narodnom bankom Srbije sačinjava se u pisanoj formi. Ovaj sporazum ima snagu izvršne isprave ako sadrži izjavu dužnika da pristaje da se posle dospelosti određene obaveze ili ispunjenja određenog uslova sprovede prinudno izvršenje (klauzula izvršnosti), potpise strana i potvrdu o izvršnosti koju stavlja Narodna banka Srbije i ne moraju ga overiti sud ili javni beležnik.",
+            "Nakon što se pokrene postupak posredovanja, korisnik više ne može podneti pritužbu, osim ako je ovo posredovanje okončano obustavom ili odustankom, a ako je pritužba već podneta - Narodna banka Srbije će zastati s postupanjem po pritužbi, odnosno obustaviti ovo postupanje ako je posredovanje okončano sporazumom.",
+            "Rok za podnošenje pritužbe iz člana 60. stav 2. ovog zakona ne teče dok traje postupak posredovanja.",
+            "Narodna banka Srbije bliže propisuje način podnošenja predloga za pokretanje postupka posredovanja pred Narodnom bankom Srbije, kao i način postupanja po ovom predlogu.",
+            "Mere za otklanjanje nepravilnosti"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_61"
+    },
+    {
+        "title": "Član 62",
+        "texts": [
+            "Ako se u postupku po pritužbi utvrdi da se davalac usluga nije pridržavao odredaba ovog zakona, drugih propisa kojima se uređuju finansijske usluge, opštih uslova poslovanja ili obaveza iz ugovora zaključenog s korisnikom - Narodna banka Srbije sačinjava nalaz, koji dostavlja na izjašnjenje davaocu usluga.",
+            "Davalac usluga može se izjasniti na nalaz iz stava 1. ovog člana u roku koji je određen tim nalazom, ali koji ne može biti duži od 15 dana.",
+            "Ako davalac usluga u ostavljenom roku ne dostavi izjašnjenje na nalaz ili se, prema oceni Narodne banke Srbije, navodima iz izjašnjenja ne menja činjenično stanje, odnosno pravna ocena data u nalazu - Narodna banka Srbije donosi rešenje kojim nalaže davaocu usluga da u određenom roku otkloni utvrđene nepravilnosti i da joj o tome dostavi dokaz u roku utvrđenom tim rešenjem.",
+            "Ako se nalazom iz stava 1. ovog člana utvrdi da je davalac usluga učinio povredu iz člana 72. ovog zakona, odnosno povrede za koje su zakonom kojim se uređuju platne usluge utvrđene novčane kazne koje se izriču u postupku ostvarivanja zaštite prava i interesa korisnika platnih usluga i imalaca elektronskog novca - Narodna banka Srbije rešenjem iz stava 3. ovog člana tom davaocu istovremeno izriče i novčanu kaznu iz tog člana, odnosno novčanu kaznu utvrđenu zakonom kojim se uređuju platne usluge, na osnovu diskrecione ocene težine utvrđenih nepravilnosti, ponašanja davaoca usluga i odgovornih lica tog davaoca i drugih bitnih okolnosti pod kojima je učinjena utvrđena nepravilnost.",
+            "Ako davalac usluga u slučaju iz stava 3. ovog člana Narodnoj banci Srbije ne dostavi dokaz da je otklonio nepravilnosti u roku utvrđenom rešenjima iz tog stava, Narodna banka Srbije donosi rešenje kojim ovom davaocu izriče novu novčanu kaznu, i to u najvišem iznosu te kazne utvrđenom u članu 72. ovog zakona, odnosno u zakonu kojim se uređuju platne usluge.",
+            "Ako je radi pravovremenog otklanjanja nepravilnosti u konkretnom slučaju neophodno davaocu usluga odmah, odnosno u kratkom roku dati takav nalog ili je davalac usluga, da je postupao s pažnjom dobrog stručnjaka, mogao da otkloni nepravilnost u toku postupka, ali to nije učinio, pri čemu je u toku postupka po pritužbi davaocu usluga dostavljanjem zahteva za izjašnjenje već pružena prilika da se izjasni o svim činjenicama značajnim za odlučivanje - Narodna banka Srbije može doneti rešenje kojim davaocu usluga nalaže da otkloni utvrđene nepravilnosti, odnosno izriče novčanu kaznu iz člana 72. ovog zakona - bez prethodnog dostavljanja nalaza po pritužbi na izjašnjenje.",
+            "Ako je uz izjašnjenje na nalaz davalac usluga dostavio dokaz da je već otklonio sve nepravilnosti utvrđene u nalazu, Narodna banka Srbije - uzimajući u obzir to da li se radi o potencijalnoj sistemskoj nepravilnosti, kao i ceneći ranije postupanje tog davaoca, težinu utvrđenih nepravilnosti, pokazanu spremnost davaoca usluga da ih otkloni, kao i druge bitne okolnosti pod kojima su te nepravilnosti učinjene - može rešenjem obustaviti postupak ili nezavisno od toga što su nepravilnosti otklonjene izreći novčanu kaznu u skladu sa st. 4. i 5. ovog člana.",
+            "Novčana kazna iz ovog člana uplaćuje se na račun Narodne banke Srbije.",
+            "Ako banka ne uplati novčanu kaznu koja je izrečena rešenjem iz ovog člana u roku određenom tim rešenjem, novčana kazna se prinudno naplaćuje prenosom novčanih sredstava banke na računu kod Narodne banke Srbije u korist računa Narodne banke Srbije.",
+            "Protiv rešenja iz ovog člana može se voditi upravni spor, pri čemu tužba protiv ovog rešenja ne može sprečiti ni odložiti njegovo izvršenje.",
+            "U upravnom sporu protiv rešenja iz ovog člana sud ne može rešiti upravnu stvar za čije je rešavanje ovim zakonom utvrđena nadležnost Narodne banke Srbije.",
+            "Obaveštenje davaocu usluga"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_62"
+    },
+    {
+        "title": "Član 63",
+        "texts": [
+            "Ako su u postupku po pritužbi utvrđene nepravilnosti manjeg značaja, odnosno nepravilnosti za koje je ocenjeno da nemaju sistemski karakter (npr. posledica su operativne greške ili propusta u radu zaposlenih i sl.) a u interesu je korisnika da se te nepravilnosti otklone u što kraćem roku - Narodna banka Srbije može umesto nalaza iz člana 62. stav 1. ovog zakona davaocu usluga uputiti obaveštenje o mogućnosti da taj davalac utvrđene nepravilnosti otkloni u roku određenom tim obaveštenjem, kako se ne bi preduzele mere u skladu s članom 62. ovog zakona.",
+            "Ako davalac usluga dostavi dokaz da je postupio u skladu sa obaveštenjem iz stava 1. ovog člana, Narodna banka Srbije neće preduzimati mere u skladu s članom 62. ovog zakona.",
+            "Ako davalac usluge ne postupi u skladu sa obaveštenjem iz stava 1. ovog člana, Narodna banka Srbije donosi rešenje u skladu s članom 62. stav 6. ovog zakona.",
+            "Sprovođenje kontrolnih postupaka i prikupljanje podataka"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_63"
+    },
+    {
+        "title": "Član 64",
+        "texts": [
+            "Odredbe ovog člana ne dovode u pitanje ovlašćenje Narodne banke Srbije da, u skladu sa odredbama posebnih zakona kojima se uređuje poslovanje davalaca usluga, obavi kontrolu, odnosno nadzor nad usklađenošću poslovanja davalaca usluga sa ovim zakonom i drugim propisima kojima se uređuju finansijske usluge, kao i da, u slučaju utvrđenih nepravilnosti, preduzima mere i izriče novčane kazne u skladu s tim posebnim zakonima.",
+            "Kontrolu, odnosno nadzor iz stava 1. ovog člana, uključujući i preduzimanje mera i izricanje novčanih kazni iz tog stava, Narodna banka Srbije može obaviti i na osnovu saznanja o nepravilnostima koje je učinio davalac usluga a do kog je došla tokom postupanja po pritužbi ili sprovođenja postupka posredovanja u skladu sa ovim zakonom.",
+            "Narodna banka Srbije utvrđuje podatke, informacije i izveštaje u vezi sa primenom ovog zakona i drugih propisa kojima se uređuju finansijske usluge a koje su davaoci usluga dužni da redovno, odnosno po posebnom zahtevu dostavljaju Narodnoj banci Srbije, kao i način njihovog dostavljanja.",
+            "Objavljivanje informacija o izrečenim merama"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_64"
+    },
+    {
+        "title": "Član 65",
+        "texts": [
+            "Narodna banka Srbije dva puta godišnje, za period od 1. januara do 30. juna i period od 1. jula do 31. decembra, na svojoj internet stranici i/ili na drugi odgovarajući način objavljuje spisak davalaca usluga prema kojima su izrečene mere u skladu s čl. 62. i 63. ovog zakona, odnosno u skladu sa zakonom kojim se uređuje poslovanje davalaca usluga.",
+            "Pravo na sudsku zaštitu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_65"
+    },
+    {
+        "title": "Član 66",
+        "texts": [
+            "Pokretanje i vođenje postupka po prigovoru i pritužbi, odnosno postupka posredovanja iz ovog zakona nisu uslov za ostvarivanje prava korisnika na sudsku zaštitu u skladu sa zakonom, ne isključuju ostvarivanje tog prava niti utiču na njega.",
+            "Specifičnosti zaštite korisnika kad je davalac usluga iz države članice ili treće države"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_66"
+    },
+    {
+        "title": "Član 67",
+        "texts": [
+            "Na zaštitu korisnika u vezi s finansijskim uslugama koje davalac usluga iz druge države članice Evropske unije (u daljem tekstu: država članica) ili treće države pruža u Republici Srbiji preko ogranka ili zastupnika primenjuju se odredbe čl. 59. do 66. ovog zakona.",
+            "Prigovor iz člana 59. ovog zakona podnosi se neposredno ogranku, odnosno zastupniku davaoca usluga iz stava 1. ovog člana.",
+            "Ako korisnik podnese pritužbu protiv davaoca usluga koji finansijske usluge pruža neposredno u skladu s propisima Evropske unije - Narodna banka Srbije o toj pritužbi obaveštava nadležni organ matične države članice tog davaoca.",
+            "Narodna banka Srbije, odnosno drugi posrednici dužni su da u slučaju prekograničnih sporova aktivno sarađuju i da, u skladu sa zakonom, razmenjuju informacije i podatke s telima druge države članice ovlašćenim za vansudsko rešavanje spora između davaoca usluga i korisnika.",
+            "Odredbe člana 72. st. 2. i 4. ovog zakona odnose se i na davaoca usluga i izdavaoca elektronskog novca iz države članice ili treće države koji, u skladu sa zakonom kojim se uređuju platne usluge, u Republici Srbiji pružaju platne usluge, odnosno usluge izdavanja elektronskog novca preko ogranka ili zastupnika.",
+            "Glava XI",
+            "FINANSIJSKE POGODBE KOJE NUDI TRGOVAC",
+            "Shodna primena"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_67"
+    },
+    {
+        "title": "Član 68",
+        "texts": [
+            "Na finansijske pogodbe shodno se primenjuju odredbe čl. 5. do 9. i čl. 14. i 17. ovog zakona.",
+            "Odustanak od finansijske pogodbe"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_68"
+    },
+    {
+        "title": "Član 69",
+        "texts": [
+            "Korisnik koji odustane od finansijske pogodbe s trgovcem dužan je da trgovcu odmah vrati predmet kupoprodaje.",
+            "Korisnik iz ovog stava dužan je da odmah, a najkasnije u roku od 30 dana od dana slanja obaveštenja o odustanku iz stava 1. ovog člana, trgovcu naknadi pretrpljenu štetu ako je došlo do umanjenja vrednosti predmeta kupoprodaje i plati ugovorenu kamatu iz ugovora o finansijskoj pogodbi od dana zaključenja ugovora o kupoprodaji do dana plaćanja kamate, a trgovac nema pravo na druge naknade.",
+            "Oglašavanje i ponuda"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_69"
+    },
+    {
+        "title": "Član 70",
+        "texts": [
+            "Pri oglašavanju, u ponudi, kao i u ugovoru o finansijskim pogodbama koje nudi trgovac, a naročito kod prodaje sa obročnim otplatama cene - trgovac mora naročito da navede podatke o robi ili usluzi, gotovinsku cenu, kao i iznos koji se plaća unapred na ime učešća ili prve rate.",
+            "Izuzetno, u posebnim i opravdanim slučajevima u kojima nosač koji se koristi za saopštavanje informacija iz stava 1. ovog člana ne omogućuje njihov vizuelni prikaz, ove informacije ne moraju biti prikazane pri oglašavanju.",
+            "U posebnim i opravdanim slučajevima u kojima elektronski nosač koji se upotrebljava za saopštavanje informacija iz stava 1. ovog člana ne omogućuje njihov vizuelni prikaz na uočljiv i jasan način, korisniku se mora obezbediti mogućnost pristupanja ovim informacijama dodirom prsta (npr. klikom, kliznim pomicanjem ili prelaskom prsta).",
+            "Ako se oglašava finansijska pogodba za kupovinu robe s kamatnom stopom 0%, naznačavaju se i sve povoljnosti koje ima korisnik koji cenu robe plaća gotovinski.",
+            "Ako se oglašava prodaja sa obročnim otplatama cene koja se u smislu ovog zakona smatra kreditiranjem korisnika - razlika između cene za kupovinu na odloženo plaćanje i za kupovinu za gotovinu mora biti procentualno iskazana.",
+            "Ministar nadležan za poslove zaštite potrošača bliže propisuje oblik i sadržinu obrasca ponude finansijske pogodbe.",
+            "Glava XII",
+            "NADZOR"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_70"
+    },
+    {
+        "title": "Član 71",
+        "texts": [
+            "Narodna banka Srbije vrši nadzor nad primenom ovog zakona na davaoce usluga, u skladu sa ovim zakonom, zakonom kojim se uređuju položaj, organizacija, ovlašćenja i funkcije Narodne banke Srbije, kao i zakonima kojima se uređuje poslovanje tih davalaca usluga.",
+            "Ministarstvo nadležno za zaštitu potrošača vrši nadzor nad primenom ovog zakona na davaoce finansijskih pogodbi, u skladu sa zakonom kojim se uređuje zaštita potrošača.",
+            "Glava XIII",
+            "KAZNENE ODREDBE",
+            "Novčane kazne Narodne banke Srbije"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_71"
+    },
+    {
+        "title": "Član 72",
+        "texts": [
+            "Za postupanje suprotno odredbama ovog zakona, odnosno za njegovu nepravilnu primenu kazniće se banka novčanom kaznom od 60.000 do 1.000.000 dinara, u postupku iz člana 62. ovog zakona.",
+            "Za postupanje suprotno odredbama ovog zakona, odnosno za njegovu nepravilnu primenu kazniće se davalac lizinga, odnosno platna institucija i institucija elektronskog novca novčanom kaznom od 50.000 do 800.000 dinara, u postupku iz člana 62. ovog zakona.",
+            "Za postupanje suprotno odredbama ugovora ili opštih uslova poslovanja kazniće se banka novčanom kaznom od 30.000 do 1.000.000 dinara, u postupku iz člana 62. ovog zakona.",
+            "Za postupanje suprotno odredbama ugovora ili opštih uslova poslovanja kazniće se davalac lizinga, odnosno platna institucija i institucija elektronskog novca novčanom kaznom od 20.000 do 500.000 dinara, u postupku iz člana 62. ovog zakona.",
+            "Prekršajne kazne"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_72"
+    },
+    {
+        "title": "Član 73",
+        "texts": [
+            "Novčanom kaznom od 50.000 do 800.000 dinara kazniće se za prekršaj trgovac koji je pravno lice:",
+            "1) ako finansijske pogodbe pruža suprotno načelu zabrane diskriminacije iz člana 5. ovog zakona (član 5);",
+            "2) ako ugovor o finansijskoj pogodbi nije sačinjen u pisanoj formi i potpisan na način propisan članom 6. ovog zakona (član 6. stav 1);",
+            "3) ako korisnik ne dobije primerak ugovora o finansijskoj pogodbi (član 6. stav 2);",
+            "4) ako ugovor o finansijskoj pogodbi sadrži odredbe kojima se korisnik odriče prava koja su mu garantovana ovim zakonom (član 6. stav 3);",
+            "5) ako u dosijeu korisnika ne čuva ugovor o finansijskoj pogodbi ili ugovornu dokumentaciju koja se odnosi na korisnika, na način i u roku propisanim u članu 6. ovog zakona (član 6. stav 5);",
+            "6) ako korisniku pruži uslugu finansijske pogodbe bez njegovog prethodnog zahteva ili izričitog pristanka (član 7. stav 1);",
+            "7) ako pretpostavi da je korisnik dao pristanak na zaključenje ugovora o finansijskoj pogodbi ili za kupovinu sporednih usluga ako su bili prikazani u okviru unapred zadatih opcija (član 7. stav 2);",
+            "8) ako ugovor o finansijskoj pogodbi sadrži upućujuću normu na poslovnu politiku ili druge akte davaoca finansijskih usluga kad su u pitanju oni elementi koji su ovim zakonom predviđeni kao obavezni elementi tog ugovora (član 8. stav 6);",
+            "9) ako novčanu ugovornu obavezu ne utvrdi na način određen odredbama člana 8. ovog zakona (član 8. stav 7);",
+            "10) ako ne obezbedi usklađenost opštih uslova poslovanja koji se odnose na finansijske pogodbe sa zakonom i drugim propisima (član 9. stav 2);",
+            "11) ako kroz opšte uslove poslovanja koji se odnose na finansijske pogodbe ne obezbedi primenu dobrih poslovnih običaja, dobru poslovnu praksu i fer odnos prema korisniku (član 9. stav 2);",
+            "12) ako na vidnom mestu u poslovnim prostorijama u kojima nudi usluge korisnicima i na internet stranici ne obezbedi da se korisnik upozna sa opštim uslovima poslovanja na srpskom jeziku, pre zaključenja ugovora (član 9. stav 5);",
+            "13) ako prilikom promene opštih uslova poslovanja korisnika o tome ne obavesti na ugovoren način i te promene ne dostavi ili ih ne učini dostupnim korisniku, najkasnije 30 dana pre početka njihove primene (član 9. stav 6);",
+            "14) ako korisniku ne pruži odgovarajuća objašnjenja i instrukcije koje se odnose na primenu opštih uslova poslovanja u vezi s finansijskom pogodbom ili mu ne dostavi te uslove, u pisanoj formi i bez odlaganja, iako je korisnik to zahtevao (član 9. stav 7);",
+            "15) ako korisniku ne dostavi podatke i informacije u vezi sa ugovorom o finansijskoj pogodbi koje je dužan dostaviti u skladu sa ovim zakonom ili ako korisniku naplati naknadu za podatke i informacije koje je dužan da mu u skladu sa ovim zakonom dostavi, bez obzira na formu i način na koji se oni dostavljaju (član 14. stav 1);",
+            "16) ako korisniku na njegov zahtev ne dostavi podatke i informacije u vezi sa zaključenim ugovorom o finansijskoj pogodbi koje nisu izričito navedene ovim zakonom ili ako korisniku na njegov zahtev ne dostavi ponovo informacije i podatke koje su mu u skladu sa ovim zakonom već dostavljene (član 14. stav 2);",
+            "17) ako pri oglašavanju koristi izraze kojima se finansijska pogodba označava kao besplatna ili slične izraze ako je odobrenje te finansijske pogodbe uslovljeno zaključenjem drugog ugovora ili je uslovljeno bilo čim što predstavlja trošak za korisnika ili stvara drugu obavezu (član 17. stav 4);",
+            "18) ako postojanje obaveze za zaključenje ugovora o sporednim uslugama, pri čemu se cena sporedne usluge ne može odrediti unapred, ne iskaže na reprezentativnom primeru jasno, sažeto i na vidljiv način, zajedno sa iskazivanjem efektivne kamatne stope (član 17. stav 5);",
+            "19) ako u slučaju odustanka korisnika od ugovora, pored naknade štete, odnosno kamate, zahteva od korisnika da plati i druge naknade (član 69. stav 2);",
+            "20) ako pri oglašavanju, u ponudi, kao i u ugovoru o finansijskoj pogodbi, ne navede podatke o robi ili usluzi, gotovinsku cenu i iznos koji se plaća unapred na ime učešća ili prve rate u skladu s članom 70. st. 1, 2. i 3. ovog zakona (član 70. st. 1, 2. i 3);",
+            "21) ako pri oglašavanju finansijske pogodbe za kupovinu robe s kamatnom stopom 0% ne naznači sve povoljnosti koje ima korisnik koji cenu robe plaća gotovinski (član 70. stav 4);",
+            "22) ako kod prodaje sa obročnim otplatama cene koja se u smislu ovog zakona smatra kreditiranjem korisnika procentualno ne iskaže razliku između cene za kupovinu na odloženo plaćanje i cene za kupovinu za gotovinu (član 70. stav 5).",
+            "Za radnje iz stava 1. ovog člana kazniće se i odgovorno lice u trgovcu koji je pravno lice novčanom kaznom od 20.000 do 150.000 dinara.",
+            "Za radnje iz stava 1. ovog člana kazniće se i trgovac koji je preduzetnik novčanom kaznom od 30.000 do 500.000 dinara.",
+            "Glava XIV",
+            "PRELAZNE I ZAVRŠNE ODREDBE"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_73"
+    },
+    {
+        "title": "Član 74",
+        "texts": [
+            "Davalac usluga dužan je da svoje opšte akte uskladi sa odredbama ovog zakona najkasnije do dana početka njegove primene, odnosno pojedinih njegovih odredaba.",
+            "Do donošenja podzakonskih akata u skladu sa ovim zakonom primenjuju se podzakonski akti doneti na osnovu Zakona o zaštiti korisnika finansijskih usluga (\"Službeni glasnik RS\", br. 36/11 i 139/14), osim onih odredaba tih akata koje nisu u skladu sa ovim zakonom."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_74"
+    },
+    {
+        "title": "Član 75",
+        "texts": [
+            "Odredbe člana 42. stav 8. ovog zakona u delu koji se odnosi na pružanje savetodavnih usluga i čl. 55. i 56. ovog zakona primenjivaće se od 1. januara 2026. godine.",
+            "Odredbe člana 67. ovog zakona primenjivaće se od dana pristupanja Republike Srbije Evropskoj uniji."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_75"
+    },
+    {
+        "title": "Član 76",
+        "texts": [
+            "Odredbe člana 12. st. 2. i 3. ovog zakona primenjivaće se od 1. januara 2028. godine.",
+            "Do početka primene člana 12. stav 2. ovog zakona, promenljiva kamatna stopa kod ugovora o stambenom kreditu ne može se primeniti u vrednosti većoj od prosečne ponderisane kamatne stope za postojeće ugovore o stambenom kreditu s promenljivom kamatnom stopom u istoj valuti (indeksacije) uvećane za 1/5 te stope.",
+            "Do početka primene člana 12. stav 3. ovog zakona fiksna kamatna stopa kod ugovora o stambenom kreditu ne može se ugovoriti u vrednosti većoj od prosečne ponderisane kamatne stope za nove ugovore o stambenom kreditu sa fiksnom kamatnom stopom u istoj valuti (indeksacije) uvećane za 1/5 te stope.",
+            "Do 31. decembra 2025. godine promenljiva kamatna stopa kod ugovora o stambenom kreditu ne može se primeniti, odnosno fiksna kamatna stopa kod ugovora o stambenom kreditu ne može se ugovoriti u vrednosti većoj od 5%.",
+            "Banka je dužna da korisnicima kredita sa promenljivom kamatnom stopom iz stava 4. ovog člana dostavi, odnosno učini dostupnim obaveštenje o primeni te stope i novi plan otplate, pre dospeća rate kredita koja se obračunava po kamatnoj stopi iz tog stava.",
+            "Na ugovore o kreditnoj kartici koji su zaključeni do početka primene ovog člana primenjuje se nominalna kamatna stopa koja ne može biti veća od stope zatezne kamate iz člana 11. ovog zakona koja važi na taj dan uvećane za šest procentnih poena.",
+            "Na ugovore o dozvoljenom prekoračenju koji su zaključeni do početka primene ovog člana primenjuje se nominalna kamatna stopa koja ne može biti veća od stope zatezne kamate iz člana 11. ovog zakona koja važi na taj dan uvećane za osam procentnih poena.",
+            "Banka je dužna da korisnicima iz st. 6. i 7. ovog člana dostavi, odnosno učini dostupnim obaveštenje o primeni kamatne stope iz tih stavova, pre dospeća kamate po toj stopi."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_76"
+    },
+    {
+        "title": "Član 77",
+        "texts": [
+            "Narodna banka Srbije će prvi put objaviti stope zatezne kamate iz člana 11. ovog zakona na dan stupanja na snagu ovog zakona.",
+            "Narodna banka Srbije će prvi put utvrditi i objaviti prosečnu ponderisanu kamatnu stopu iz člana 12. stav 1. ovog zakona, na dan stupanja na snagu ovog zakona, a prema poslednjim poznatim podacima."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_77"
+    },
+    {
+        "title": "Član 78",
+        "texts": [
+            "Na obaveze korisnika iz člana 2. tačka 13) podtačka (1) ovog zakona, koje su dospele i nisu izmirene pre stupanja na snagu ovog zakona, od tog dana primenjuje se stopa zatezne kamate iz člana 11. ovog zakona ili nominalna redovna kamatna stopa iz ugovora, ako je ta ugovorena stopa veća od stope zatezne kamate iz tog člana."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_78"
+    },
+    {
+        "title": "Član 79",
+        "texts": [
+            "Korisnik koji je izmirio obaveze po ugovoru o finansijskoj usluzi pre stupanja na snagu ovog zakona, a do tada nije preuzeo menicu koja nije iskorišćena kao sredstvo obezbeđenja po tom ugovoru, odnosno izdavalac menice ‒ mogu da preuzmu neiskorišćenu menicu do 31. decembra 2025. godine.",
+            "Nakon isteka roka iz stava 1. ovog člana, davalac usluga je dužan da uništi menicu iz tog stava, o čemu sačinjava zapisnik, koji je dužan da dostavi na zahtev korisnika ili izdavaoca menice.",
+            "Ako ne može u roku iz stava 1. ovog člana da omogući izdavaocu menice iz tog stava da preuzme menicu (izgubljena ili uništena menica), davalac usluga je dužan da korisniku ili izdavaocu menice koji je zahtevao njeno preuzimanje dostavi potvrdu da je menica izgubljena, odnosno uništena.",
+            "U slučaju iz stava 3. ovog člana, davalac usluga je dužan da izdavaocu menice isplati iznos koji odgovara iznosu troškova koje je korisnik snosio u vezi s meničnim blanketom, sa zakonskom zateznom kamatom od dana izmirivanja obaveza po ugovoru o finansijskoj usluzi u vezi sa kojim je ta menica izdata, do dana isplate tih troškova izdavaocu.",
+            "Ako menica iz stava 1. ovog člana bude naplaćena, odnosno zloupotrebljena - banka je dužna da izdavaocu te menice nadoknadi stvarnu štetu, sa zakonskom zateznom kamatom od dana naplate menice do isplate te naknade.",
+            "Ako je izmirio obaveze po ugovoru o finansijskoj usluzi pre stupanja na snagu ovog zakona, a sredstvo obezbeđenja po tom ugovoru je bila hipoteka upisana u korist davaoca kredita ili pokretna stvar nad kojom je uspostavljena zaloga upisom založnog prava u odgovarajući registar, davalac kredita dužan je da najkasnije do 1. jula 2025. godine preduzme odgovarajuće aktivnosti radi brisanja hipoteke, odnosno založnog prava iz tog registra, ako do tada hipoteka, odnosno založno pravo već nisu brisani, kao i da bez odlaganja obavesti korisnika o tome, kao i o njihovom brisanju, osim ako je propisano da ih o brisanju hipoteke, odnosno založnog prava obaveštava taj registar.",
+            "Davalac kredita ne može naplatiti nikakvu naknadu za preduzimanje radnji iz stava 6. ovog člana, bez obzira na postojanje stvarnih troškova."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_79"
+    },
+    {
+        "title": "Član 80",
+        "texts": [
+            "Danom početka primene ovog zakona, 1. jula 2025. godine, prestaje da važi Zakon o zaštiti korisnika finansijskih usluga (\"Službeni glasnik RS\", br. 36/11 i 139/14).",
+            "Postupci zaštite prava i interesa korisnika započeti u skladu sa Zakonom o zaštiti korisnika finansijskih usluga (\"Službeni glasnik RS\", br. 36/11 i 139/14) i propisima donetim na osnovu tog zakona - okončaće se u skladu s tim zakonom i propisima."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_80"
+    },
+    {
+        "title": "Član 81",
+        "texts": [
+            "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u \"Službenom glasniku Republike Srbije\", a primenjuje se od 1. jula 2025. godine, osim odredaba čl. 11, 12, 45, 49, 76, 78. i 79. ovog zakona, koje se primenjuju danom stupanja na snagu ovog zakona.",
+            "Ako ne probate više različitih izbora nikada nećete biti sigurni da li imate najbolju opciju u svojim rukama. Mi Vam tu mogućnost nudimo besplatno! Popunite formular i dobićete priliku da bez ikakvih troškova saznate da li je Paragraf dobar izbor za Vas.",
+            "Ukoliko želite da Vas obaveštavamo o novostima i aktivnostima kompanije Paragraf prijavite se na našu mailing listu. Vaš e-mail neće biti upotrebljen u druge svrhe."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html#clan_81"
+    }
+]

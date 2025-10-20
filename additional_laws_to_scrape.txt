@@ -1,0 +1,78 @@
+# Additional Serbian Laws to Scrape from paragraf.rs
+
+# Constitutional and Administrative Law
+https://www.paragraf.rs/propisi/ustav_republike_srbije.html
+https://www.paragraf.rs/propisi/zakon_o_opstinama.html
+https://www.paragraf.rs/propisi/zakon_o_glavnom_gradskom_uredjenju.html
+
+# Criminal Law
+https://www.paragraf.rs/propisi/krivicni_zakonik.html
+https://www.paragraf.rs/propisi/zakon_o_krivicnom_postupku.html
+https://www.paragraf.rs/propisi/zakon_o_prekrsajima.html
+
+# Civil Law
+https://www.paragraf.rs/propisi/obligacioni_zakonik.html
+https://www.paragraf.rs/propisi/zakon_o_obligacionim_odnosima.html
+https://www.paragraf.rs/propisi/zakon_o_nekretninama.html
+https://www.paragraf.rs/propisi/zakon_o_zakupima.html
+
+# Commercial Law
+https://www.paragraf.rs/propisi/zakon_o_privrednim_drustvima.html
+https://www.paragraf.rs/propisi/zakon_o_preduzetnistvu.html
+https://www.paragraf.rs/propisi/zakon_o_konkursu.html
+https://www.paragraf.rs/propisi/zakon_o_licenciranju.html
+
+# Financial and Banking Law
+https://www.paragraf.rs/propisi/zakon_o_bankama.html
+https://www.paragraf.rs/propisi/zakon_o_narodnoj_banci_srbije.html
+https://www.paragraf.rs/propisi/zakon_o_deviznom_poslovanju.html
+https://www.paragraf.rs/propisi/zakon_o_osiguranju_depozita.html
+
+# Tax Law
+https://www.paragraf.rs/propisi/zakon_o_porezu_na_dodatu_vrednost.html
+https://www.paragraf.rs/propisi/zakon_o_porezu_na_imovinu.html
+https://www.paragraf.rs/propisi/zakon_o_porezu_na_zarade.html
+https://www.paragraf.rs/propisi/zakon_o_porezu_na_dohodak_pravnih_lica.html
+
+# Social Security and Labor
+https://www.paragraf.rs/propisi/zakon_o_socijalnom_osiguranju.html
+https://www.paragraf.rs/propisi/zakon_o_zdravstvenom_osiguranju.html
+https://www.paragraf.rs/propisi/zakon_o_penzijskom_i_invalidnom_osiguranju.html
+
+# Education and Culture
+https://www.paragraf.rs/propisi/zakon_o_osnovnom_obrazovanju_i_vaspitanju.html
+https://www.paragraf.rs/propisi/zakon_o_srednjem_obrazovanju_i_vaspitanju.html
+https://www.paragraf.rs/propisi/zakon_o_univerzitetima.html
+
+# Health and Environment
+https://www.paragraf.rs/propisi/zakon_o_zdravstvenoj_zastiti.html
+https://www.paragraf.rs/propisi/zakon_o_zastiti_zivotne_sredine.html
+https://www.paragraf.rs/propisi/zakon_o_planiranju_i_izgradnji.html
+
+# Transportation and Infrastructure
+https://www.paragraf.rs/propisi/zakon_o_saobracaju_na_putevima.html
+https://www.paragraf.rs/propisi/zakon_o_zeleznici.html
+https://www.paragraf.rs/propisi/zakon_o_vazdusnom_saobracaju.html
+
+# Agriculture and Rural Development
+https://www.paragraf.rs/propisi/zakon_o_poljoprivredi.html
+https://www.paragraf.rs/propisi/zakon_o_ruralnom_razvoju.html
+https://www.paragraf.rs/propisi/zakon_o_zemljistu.html
+
+# Energy and Utilities
+https://www.paragraf.rs/propisi/zakon_o_energetici.html
+https://www.paragraf.rs/propisi/zakon_o_elektroprivredi.html
+https://www.paragraf.rs/propisi/zakon_o_gasifikaciji.html
+
+# Information Technology and Communications
+https://www.paragraf.rs/propisi/zakon_o_elektronskim_dokumentima.html
+https://www.paragraf.rs/propisi/zakon_o_elektronskoj_trgovini.html
+https://www.paragraf.rs/propisi/zakon_o_telekomunikacijama.html
+
+# Sports and Recreation
+https://www.paragraf.rs/propisi/zakon_o_sportu.html
+https://www.paragraf.rs/propisi/zakon_o_turizmu.html
+
+# International Relations
+https://www.paragraf.rs/propisi/zakon_o_medjunarodnim_ugovorima.html
+https://www.paragraf.rs/propisi/zakon_o_spoljnoj_politici.html

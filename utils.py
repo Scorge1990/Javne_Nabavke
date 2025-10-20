@@ -37,8 +37,7 @@ Kome pripadaju pokloni koje smo muz i ja dobili na vencanju?
 """
 
 AUTHORS = """
-[Anja Berić](https://www.linkedin.com/in/anja-beric-150285vb/?originalSubdomain=rs)\n
-[Milutin Studen](https://www.linkedin.com/in/milutin-studen/)
+[David Jovanovic](https://github.com/Scorge1990)
 """
 
 

@@ -5,6 +5,7 @@ Zdravo! Ja sam pravni asistent i moj zadatak je da Vam pomognem da razumete proc
 - [Zakon o zaštiti podataka o ličnosti](https://www.paragraf.rs/propisi/zakon_o_zastiti_podataka_o_licnosti.html)
 - [Zakon o zaštiti potrošača](https://www.paragraf.rs/propisi/zakon_o_zastiti_potrosaca.html)
 - [Porodični Zakon](https://www.paragraf.rs/propisi/porodicni_zakon.html)
+- [Zakon o javnim nabavkama](https://www.paragraf.rs/propisi/zakon_o_javnim_nabavkama.html)
 
 Moja uloga je da olakšam vaše razumevanje pravnih procedura i da vam pružim korisne i tačne informacije.
 

@@ -1,7 +1,0 @@
-# External websites
-https://www.paragraf.rs/propisi/zakon_o_radu.html
-https://www.paragraf.rs/propisi/zakon_o_zastiti_potrosaca.html
-
-# Local files (when your file server is running)
-http://localhost:8080/sample_law.html
-http://localhost:8080/your_custom_document.html

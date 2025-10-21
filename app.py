@@ -40,11 +40,11 @@ logo_url = (
 )
 
 # Display the logo and set up the sidebar with useful information and links.
-# Custom CSS to make the logo 6 times bigger
+# Custom CSS to make the logo 8 times bigger
 st.markdown("""
 <style>
 .stLogo img {
-    width: 300px !important;
+    width: 400px !important;
     height: auto !important;
 }
 </style>

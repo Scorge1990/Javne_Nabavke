@@ -24,10 +24,12 @@ LOGO_TEXT_DARK_URL = "assets/Legabot-Dark-Horizontal.svg"
 TEXT_URL = "assets/Legabot-Dark-Typography.svg"
 
 WARNING_MESSAGE = """
-_Please note that LegaBot may make **mistakes**. For critical legal information, always **verify** with a qualified legal professional. LegaBot is here to assist, not replace professional legal advice._
+⚠️ **Upozorenje**: Molimo imajte na umu da LegaBot može da pravi greške. Za kritične pravne informacije, uvek se konsultujte sa kvalifikovanim pravnim stručnjakom. LegaBot je tu da pomogne, a ne da zameni profesionalne pravne savete.
 """
 
 QUERY_SUGGESTIONS = """
+💡 **Predlozi za pitanja**: Možete me pitati o procedurama javnih nabavki, pravilima za izvođače, obavezama naručioca, ili bilo čemu drugom vezanom za zakone o javnim nabavkama.
+
 Na koliko dana godisnjeg imam pravo?\n
 Da li smem da koristim porodiljsko bolovanje zene umesto nje?\n
 Koji porez placam ako sam preduzetnik?\n

@@ -18,9 +18,9 @@ from llm.utils import formate_messages_chat
 from router.query_router import formate_messages_router
 from router.router_prompt import DEFAULT_ROUTER_RESPONSE
 
-LOGO_URL = "assets/Legabot-Logomark.svg"
-LOGO_TEXT_LIGHT_URL = "assets/Legabot-Light-Horizontal.svg"
-LOGO_TEXT_DARK_URL = "assets/Legabot-Dark-Horizontal.svg"
+LOGO_URL = "assets/nabavkai.png"
+LOGO_TEXT_LIGHT_URL = "assets/nabavkai.png"
+LOGO_TEXT_DARK_URL = "assets/nabavkai.png"
 TEXT_URL = "assets/Legabot-Dark-Typography.svg"
 
 WARNING_MESSAGE = """

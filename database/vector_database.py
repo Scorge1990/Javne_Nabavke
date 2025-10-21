@@ -82,6 +82,6 @@ if __name__ == "__main__":
     if args.model is None:
         with open("config.json", "r") as config_file:
             config = json.load(config_file)
-            args.model = config.get("embedding_model", "default_model")
+            args.model = config["openai"]["embeddings"]["model"]
 
     main(args=args)

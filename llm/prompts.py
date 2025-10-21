@@ -1,34 +1,12 @@
 INTRODUCTION_MESSAGE = """
 Zdravo! Ja sam pravni asistent i moj zadatak je da Vam pomognem da razumete procedure i odgovorim na pitanja vezana za sledeće propise:
-- [Zakona o radu](https://www.paragraf.rs/propisi/zakon_o_radu.html)
-- [Zakon o porezu na dohodak građana](https://www.paragraf.rs/propisi/zakon-o-porezu-na-dohodak-gradjana.html)
-- [Zakon o zaštiti podataka o ličnosti](https://www.paragraf.rs/propisi/zakon_o_zastiti_podataka_o_licnosti.html)
-- [Zakon o zaštiti potrošača](https://www.paragraf.rs/propisi/zakon_o_zastiti_potrosaca.html)
-- [Porodični Zakon](https://www.paragraf.rs/propisi/porodicni_zakon.html)
+
+**Zakon o javnim nabavkama:**
 - [Zakon o javnim nabavkama](https://www.paragraf.rs/propisi/zakon_o_javnim_nabavkama.html)
-- [Zakon o poštanskim uslugama](https://www.paragraf.rs/propisi/zakon-o-postanskim-uslugama.html)
-- [Zakon o potvrđivanju Sporazuma o Instrumentu između EU i RS](http://demo.paragraf.rs/demo/combined/Old/t/t2024_12/MU_009_2024_011.htm)
-- [Zakon o potvrđivanju Sporazuma o slobodnoj trgovini između RS i Egipta](http://demo.paragraf.rs/demo/combined/Old/t/t2025_03/MU_003_2025_001.htm)
-- [Zakon o potvrđivanju Sporazuma o zajmu između EU i RS](http://demo.paragraf.rs/demo/combined/Old/t/t2025_03/MU_001_2025_013.htm)
-- [Zakon o izmenama i dopunama Zakona o bankama](https://www.paragraf.rs/izmene_i_dopune/060325-zakon-o-izmenama-i-dopunama-zakona-o-bankama.html)
-- [Zakon o zaštiti korisnika finansijskih usluga](https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html)
-- [Zakon o izmenama i dopunama Zakona o deviznom poslovanju](https://www.paragraf.rs/izmene_i_dopune/060325-zakon-o-izmenama-i-dopunama-zakona-o-deviznom-poslovanju.html)
-- [Zakon o izmenama i dopunama Zakona o Narodnoj banci Srbije](https://www.paragraf.rs/izmene_i_dopune/060325-zakon-o-izmenama-i-dopunama-zakona-o-narodnoj-banci-srbije.html)
-- [Ustav Republike Srbije](https://www.paragraf.rs/propisi/ustav_republike_srbije.html)
-- [Krivicno pravo](https://www.paragraf.rs/propisi/krivicni_zakonik.html)
-- [Zakon o privrednim društvima](https://www.paragraf.rs/propisi/zakon_o_privrednim_drustvima.html)
-- [Zakon o bankama](https://www.paragraf.rs/propisi/zakon_o_bankama.html)
-- [Zakon o Narodnoj banci Srbije](https://www.paragraf.rs/propisi/zakon_o_narodnoj_banci_srbije.html)
-- [Zakon o porezu na dodatu vrednost](https://www.paragraf.rs/propisi/zakon_o_porezu_na_dodatu_vrednost.html)
-- [Sporazum o slobodnoj trgovini između Vlade Republike Srbije i Vlade Arapske Republike Egipta](https://must.gov.rs/tekst/sr/14562/sporazum-o-slobodnoj-trgovini-izmedju-vlade-republike-srbije-i-vlade-arapske-republike-egipta.php)
-- [Zakon o davanju garancije Republike Srbije u korist Banca Intesa AD Beograd za izmirivanje obaveza javnog preduzeća Srbijagas Novi Sad](http://demo.paragraf.rs/demo/combined/Old/t/t2025_03/SG_019_2025_020.htm)
-- [Zakon o izmeni Zakona o privatizaciji](https://www.paragraf.rs/izmene_i_dopune/060325-zakon-o-izmeni-zakona-o-privatizaciji.html)
-- [Zakon o platama u državnim organima i javnim službama](https://www.paragraf.rs/propisi/zakon_o_platama_u_drzavnim_organima_i_javnim_sluzbama.html)
-- [Zakon o prestanku važenja zakona o sistemu plata zaposlenih u javnom sektoru](http://demo.paragraf.rs/demo/combined/Old/t/t2025_03/SG_019_2025_024.htm)
-- [Zakon o izmenama i dopunama Zakona o vazdušnom saobraćaju](https://www.paragraf.rs/izmene_i_dopune/060325-zakon-o-izmenama-i-dopunama-zakona-o-vazdusnom-saobracaju.html)
-- [Zakon o javnim nabavkama - Novi podzakonski akti](https://www.paragraf.rs/dnevne-vesti/040124/040124-vest2.html)
-- [Predlog zakona o izmenama i dopunama Zakona o javnim nabavkama](http://www.parlament.gov.rs/upload/archive/files/lat/pdf/predlozi_zakona/13_saziv/1847-23%20-%20Lat..pdf)
-- [Podzakonski akti za primenu Zakona o javnim nabavkama - Transparentnost Srbija](https://transparentnost.org.rs/sr/aktivnosti-2/pod-lupom/11667-podzakonski-akti-za-primenu-zakona-o-javnim-nabavkama)
+- [Zakon o izmenama i dopunama Zakona o javnim nabavkama](https://www.paragraf.rs/izmene_i_dopune/271023-zakon-o-izmenama-i-dopunama-zakona-o-javnim-nabavkama.html)
+- [Podzakonski akti doneti Vlade Republike Srbije u skladu sa ZJN](https://www.ujn.gov.rs/propisi/)
+- [Podzakonski akti Kancelarija za javne nabavke u skladu sa ZJN](https://www.ujn.gov.rs/propisi/)
+- [Podzakonski akti Ministra nadležnog za poslove finansija u skladu sa ZJN](https://www.ujn.gov.rs/propisi/)
 
 Moja uloga je da olakšam vaše razumevanje pravnih procedura i da vam pružim korisne i tačne informacije.
 
@@ -37,35 +15,13 @@ Kako Vam mogu pomoći?
 
 INTRODUCTION_MESSAGE_ENG = """
 Hello! I am a legal assistant, and my task is to help you understand procedures and answer questions related to the following regulations:
-- [Labor Law](https://www.paragraf.rs/propisi/zakon_o_radu.html)
-- [Personal Income Tax Law](https://www.paragraf.rs/propisi/zakon-o-porezu-na-dohodak-gradjana.html)
-- [Personal Data Protection Law](https://www.paragraf.rs/propisi/zakon_o_zastiti_podataka_o_licnosti.html)
-- [Consumer Protection Law](https://www.paragraf.rs/propisi/zakon_o_zastiti_potrosaca.html)
-- [Family Law](https://www.paragraf.rs/propisi/porodicni_zakon.html)
+
+**Law on Public Procurement:**
 - [Law on Public Procurement](https://www.paragraf.rs/propisi/zakon_o_javnim_nabavkama.html)
-- [Law on Postal Services](https://www.paragraf.rs/propisi/zakon-o-postanskim-uslugama.html)
-- [Law on Confirming the Agreement on the Instrument between EU and RS](http://demo.paragraf.rs/demo/combined/Old/t/t2024_12/MU_009_2024_011.htm)
-- [Law on Confirming the Free Trade Agreement between RS and Egypt](http://demo.paragraf.rs/demo/combined/Old/t/t2025_03/MU_003_2025_001.htm)
-- [Law on Confirming the Loan Agreement between EU and RS](http://demo.paragraf.rs/demo/combined/Old/t/t2025_03/MU_001_2025_013.htm)
-- [Law on Amendments and Supplements to the Law on Banks](https://www.paragraf.rs/izmene_i_dopune/060325-zakon-o-izmenama-i-dopunama-zakona-o-bankama.html)
-- [Law on Protection of Financial Services Users](https://www.paragraf.rs/propisi/zakon_o_zastiti_korisnika_finansijskih_usluga.html)
-- [Law on Amendments and Supplements to the Law on Foreign Exchange Operations](https://www.paragraf.rs/izmene_i_dopune/060325-zakon-o-izmenama-i-dopunama-zakona-o-deviznom-poslovanju.html)
-- [Law on Amendments and Supplements to the Law on the National Bank of Serbia](https://www.paragraf.rs/izmene_i_dopune/060325-zakon-o-izmenama-i-dopunama-zakona-o-narodnoj-banci-srbije.html)
-- [Constitution of the Republic of Serbia](https://www.paragraf.rs/propisi/ustav_republike_srbije.html)
-- [Criminal Law](https://www.paragraf.rs/propisi/krivicni_zakonik.html)
-- [Law on Business Companies](https://www.paragraf.rs/propisi/zakon_o_privrednim_drustvima.html)
-- [Law on Banks](https://www.paragraf.rs/propisi/zakon_o_bankama.html)
-- [Law on the National Bank of Serbia](https://www.paragraf.rs/propisi/zakon_o_narodnoj_banci_srbije.html)
-- [Law on Value Added Tax](https://www.paragraf.rs/propisi/zakon_o_porezu_na_dodatu_vrednost.html)
-- [Free Trade Agreement between the Government of the Republic of Serbia and the Government of the Arab Republic of Egypt](https://must.gov.rs/tekst/sr/14562/sporazum-o-slobodnoj-trgovini-izmedju-vlade-republike-srbije-i-vlade-arapske-republike-egipta.php)
-- [Law on Providing Guarantee of the Republic of Serbia in favor of Banca Intesa AD Belgrade for Settlement of Obligations of Public Enterprise Srbijagas Novi Sad](http://demo.paragraf.rs/demo/combined/Old/t/t2025_03/SG_019_2025_020.htm)
-- [Law on Amendment to the Law on Privatization](https://www.paragraf.rs/izmene_i_dopune/060325-zakon-o-izmeni-zakona-o-privatizaciji.html)
-- [Law on Salaries in State Bodies and Public Services](https://www.paragraf.rs/propisi/zakon_o_platama_u_drzavnim_organima_i_javnim_sluzbama.html)
-- [Law on Cessation of Validity of Laws on Salary Systems](http://demo.paragraf.rs/demo/combined/Old/t/t2025_03/SG_019_2025_024.htm)
-- [Law on Amendments and Supplements to the Law on Air Traffic](https://www.paragraf.rs/izmene_i_dopune/060325-zakon-o-izmenama-i-dopunama-zakona-o-vazdusnom-saobracaju.html)
-- [Law on Public Procurement - New Subordinate Acts](https://www.paragraf.rs/dnevne-vesti/040124/040124-vest2.html)
-- [Draft Law on Amendments and Supplements to the Law on Public Procurement](http://www.parlament.gov.rs/upload/archive/files/lat/pdf/predlozi_zakona/13_saziv/1847-23%20-%20Lat..pdf)
-- [Subordinate Acts for Implementation of the Law on Public Procurement - Transparency Serbia](https://transparentnost.org.rs/sr/aktivnosti-2/pod-lupom/11667-podzakonski-akti-za-primenu-zakona-o-javnim-nabavkama)
+- [Law on Amendments and Supplements to the Law on Public Procurement](https://www.paragraf.rs/izmene_i_dopune/271023-zakon-o-izmenama-i-dopunama-zakona-o-javnim-nabavkama.html)
+- [Subordinate Acts adopted by the Government of the Republic of Serbia in accordance with the Law on Public Procurement](https://www.ujn.gov.rs/propisi/)
+- [Subordinate Acts of the Public Procurement Office in accordance with the Law on Public Procurement](https://www.ujn.gov.rs/propisi/)
+- [Subordinate Acts of the Minister responsible for finance in accordance with the Law on Public Procurement](https://www.ujn.gov.rs/propisi/)
 
 My role is to facilitate your understanding of legal procedures and provide you with useful and accurate information.
 

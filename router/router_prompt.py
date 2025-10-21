@@ -12,12 +12,14 @@ Ponudjeni zakoni i njihova objasnjenja su sledeci:
  - Zakon o zaštiti potrošača osigurava da potrošači u Srbiji imaju prava na sigurnost i kvalitet proizvoda i usluga. Zakon propisuje obaveze trgovaca u pogledu pravilnog informisanja potrošača o proizvodima, uslugama, cenama i pravu na reklamaciju. Takođe, uključuje prava potrošača na odustanak od kupovine unutar određenog roka i prava u slučaju neispravnosti proizvoda kao i prava koja su vezana za ugovore na daljinu. 
 - porodicni_zakon
  - Porodični zakon reguliše pravne odnose unutar porodice, uključujući brak, roditeljstvo, starateljstvo, hraniteljstvo i usvojenje. Zakon definiše prava i obaveze bračnih partnera, kao i prava dece i roditeljske odgovornosti. Takođe se bavi pitanjima nasleđivanja i alimentacije. 
+- pravne_konsultacije
+ - Pravne konsultacije u vezi portala javnih nabavki sadrže odgovore na česta pitanja vezana za Portal javnih nabavki, objašnjenja procedura i pravnih aspekata javnih nabavki, kao i konsultacije o primeni Zakona o javnim nabavkama. Ovo su praktični odgovori i tumačenja koja pomažu korisnicima da razumeju kako da koriste portal i postupaju u skladu sa zakonima o javnim nabavkama.
 - nema_zakona
  - Korisnikovo pitanje ne odgovara ni jednom zakonu.
 
 **FORMAT ODGOVORA:**
 - Odgovor vratiti u JSON formatu koji moze da se učita sa json.loads().
-- Imena zakona mogu biti samo sledeca: zakon_o_radu, zakon_o_porezu_na_dohodak_gradjana, zakon_o_zastiti_podataka_o_licnosti, zakon_o_zastiti_potrosaca, porodicni_zakon, nema_zakona.
+- Imena zakona mogu biti samo sledeca: zakon_o_radu, zakon_o_porezu_na_dohodak_gradjana, zakon_o_zastiti_podataka_o_licnosti, zakon_o_zastiti_potrosaca, porodicni_zakon, pravne_konsultacije, nema_zakona.
 - Jedno pitanje korisnika moze da se odnosi na vise zakona.
 - Vrati zakone koji mogu da pomognu prilikom generisanja odgovora.
 - Ukoliko korisnikovo pitanje ne odgovara ni jednom zakonu vrati listu sa generickim stringom: ["nema_zakona"].
@@ -46,12 +48,14 @@ The provided laws and their explanations are as follows:
  - The Consumer Protection Law ensures that consumers in Serbia have rights to the safety and quality of products and services. The law prescribes the obligations of traders regarding the proper information of consumers about products, services, prices, and the right to file complaints. It also includes consumers' rights to withdraw from a purchase within a specified period and rights in case of defective products as well as rights related to distance contracts.
 - family_law
  - The Family Law regulates legal relations within the family, including marriage, parenthood, guardianship, foster care, and adoption. The law defines the rights and obligations of spouses, as well as children's rights and parental responsibilities. It also addresses issues of inheritance and alimony.
+- legal_consultations
+ - Legal consultations regarding the public procurement portal contain answers to frequently asked questions about the Public Procurement Portal, explanations of procedures and legal aspects of public procurement, and consultations on the application of the Law on Public Procurement. These are practical answers and interpretations that help users understand how to use the portal and act in accordance with public procurement laws.
 - no_law
  - The user's question does not correspond to any law.
 
 **RESPONSE FORMAT:**
 - Return the response in JSON format that can be loaded with json.loads().
-- The names of the laws can only be the following: labor_law, personal_income_tax_law, personal_data_protection_law, consumer_protection_law, family_law, no_law.
+- The names of the laws can only be the following: labor_law, personal_income_tax_law, personal_data_protection_law, consumer_protection_law, family_law, legal_consultations, no_law.
 - A user's question can relate to multiple laws.
 - Return the laws that can help in generating the answer.
 - If the user's question does not correspond to any law, return a list with the generic string: ["no_law"].

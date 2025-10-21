@@ -10,6 +10,10 @@ Zdravo! Ja sam pravni asistent i moj zadatak je da Vam pomognem da razumete proc
 
 Moja uloga je da olakšam vaše razumevanje pravnih procedura i da vam pružim korisne i tačne informacije.
 
+⚠️ **Upozorenje**: Molimo imajte na umu da LegaBot može da pravi greške. Za kritične pravne informacije, uvek se konsultujte sa kvalifikovanim pravnim stručnjakom. LegaBot je tu da pomogne, a ne da zameni profesionalne pravne savete.
+
+💡 **Predlozi za pitanja**: Možete me pitati o procedurama javnih nabavki, pravilima za izvođače, obavezama naručioca, ili bilo čemu drugom vezanom za zakone o javnim nabavkama.
+
 Kako Vam mogu pomoći?
 """
 
@@ -24,6 +28,10 @@ Hello! I am a legal assistant, and my task is to help you understand procedures 
 - [Subordinate Acts of the Minister responsible for finance in accordance with the Law on Public Procurement](https://www.ujn.gov.rs/propisi/)
 
 My role is to facilitate your understanding of legal procedures and provide you with useful and accurate information.
+
+⚠️ **Warning**: Please note that LegaBot may make mistakes. For critical legal information, always verify with a qualified legal professional. LegaBot is here to assist, not replace professional legal advice.
+
+💡 **Query Suggestions**: You can ask me about public procurement procedures, contractor rules, contracting authority obligations, or anything else related to public procurement laws.
 
 How can I assist you?
 """

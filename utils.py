@@ -195,6 +195,20 @@ def generate_response(
         yield "Sorry, an error occurred while processing your request."
 
 
+def map_router_to_collection(router_name: str) -> str:
+    """Map router response names to actual Qdrant collection names."""
+    mapping = {
+        "zakon_o_radu": "zakon_o_radu",
+        "zakon_o_porezu_na_dohodak_gradjana": "zakon_o_porezu_na_dohodak_gradjana", 
+        "zakon_o_zastiti_podataka_o_licnosti": "zakon_o_zastiti_podataka_o_licnosti",
+        "zakon_o_zastiti_potrosaca": "zakon_o_zastiti_potrosaca",
+        "porodicni_zakon": "porodicni_zakon",
+        "pravne_konsultacije": "pravne_konsultacije",
+        "nema_zakona": "nema_zakona"
+    }
+    return mapping.get(router_name, router_name)
+
+
 def determine_context(
     collections: List[str], embedding: List[float], qdrant_client: QdrantClient
 ) -> str:
@@ -205,15 +219,18 @@ def determine_context(
         else:
             search_results = []
             for collection_name in collections:
-                search_results.extend(
-                    search(
-                        client=qdrant_client,
-                        collection=collection_name,
-                        query_vector=embedding,
-                        limit=10,
-                        with_vectors=True,
+                # Map router name to actual collection name
+                actual_collection = map_router_to_collection(collection_name)
+                if actual_collection != "nema_zakona":
+                    search_results.extend(
+                        search(
+                            client=qdrant_client,
+                            collection=actual_collection,
+                            query_vector=embedding,
+                            limit=10,
+                            with_vectors=True,
+                        )
                     )
-                )
             # Upgrade this with tokes length checking
             top_k = 15 if len(collections) > 1 else 10
             return get_context(search_results=search_results, top_k=top_k)

@@ -222,17 +222,19 @@ def determine_context(
                 # Map router name to actual collection name
                 actual_collection = map_router_to_collection(collection_name)
                 if actual_collection != "nema_zakona":
+                    # Increase search limit for better coverage, especially for pravne_konsultacije
+                    search_limit = 20 if actual_collection == "pravne_konsultacije" else 10
                     search_results.extend(
                         search(
                             client=qdrant_client,
                             collection=actual_collection,
                             query_vector=embedding,
-                            limit=10,
+                            limit=search_limit,
                             with_vectors=True,
                         )
                     )
-            # Upgrade this with tokes length checking
-            top_k = 15 if len(collections) > 1 else 10
+            # Increase top_k for better context coverage
+            top_k = 20 if len(collections) > 1 else 15
             return get_context(search_results=search_results, top_k=top_k)
     except Exception as e:
         logger.error(f"Error determining context: {str(e)}")

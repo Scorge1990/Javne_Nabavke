@@ -77,14 +77,18 @@ def search(
     limit: int = 10,
     query_filter: Filter = None,
     with_vectors: bool = False,
+    score_threshold: float = 0.0,
 ) -> List:
-    return client.search(
+    """Search with optional score threshold for better filtering."""
+    results = client.search(
         collection_name=collection,
         query_vector=query_vector,
         limit=limit,
         with_vectors=with_vectors,
         query_filter=query_filter,
+        score_threshold=score_threshold,
     )
+    return results
 
 
 @observe()

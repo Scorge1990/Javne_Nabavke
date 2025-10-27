@@ -20,8 +20,8 @@ load_dotenv(find_dotenv())
 
 
 # Set Streamlit page configuration with custom title and icon.
-st.set_page_config(page_title="Javne nabavke prototip", page_icon=LOGO_URL)
-st.title("Javne nabavke prototip")
+st.set_page_config(page_title="LegaBot - Serbian Legal Assistant", page_icon="⚖️")
+st.title("LegaBot - Serbian Legal Assistant")
 st.divider()
 
 # Initialize API clients for OpenAI and Qdrant and load configuration settings.
@@ -39,32 +39,34 @@ logo_url = (
     LOGO_TEXT_DARK_URL if st.session_state.theme == "dark" else LOGO_TEXT_LIGHT_URL
 )
 
-# Display the logo and set up the sidebar with useful information and links.
-# Display logo using st.image for better compatibility
-import os
-from pathlib import Path
-
-# Try multiple approaches to load the logo
-logo_paths = [
-    "assets/Logo.jpg",
-    "./assets/Logo.jpg", 
-    str(Path("assets/Logo.jpg")),
-    logo_url
-]
-
-logo_displayed = False
-for path in logo_paths:
-    try:
-        if os.path.exists(path):
-            st.image(path, width=400)
-            logo_displayed = True
-            break
-    except Exception:
-        continue
-
-if not logo_displayed:
-    st.markdown("### LegaBot")
+# Set up the sidebar with logo and useful information
 with st.sidebar:
+    # Display logo in sidebar
+    import os
+    from pathlib import Path
+    
+    # Try multiple approaches to load the logo
+    logo_paths = [
+        "assets/Logo.jpg",
+        "./assets/Logo.jpg", 
+        str(Path("assets/Logo.jpg")),
+        logo_url
+    ]
+    
+    logo_displayed = False
+    for path in logo_paths:
+        try:
+            if os.path.exists(path):
+                st.image(path, width=200)
+                logo_displayed = True
+                break
+        except Exception:
+            continue
+    
+    if not logo_displayed:
+        st.markdown("### ⚖️ LegaBot")
+    
+    st.divider()
     st.subheader("💡 Query Suggestions")
     with st.container(border=True, height=200):
         st.markdown(QUERY_SUGGESTIONS)

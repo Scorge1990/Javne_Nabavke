@@ -80,14 +80,14 @@ def search(
     score_threshold: float = 0.0,
 ) -> List:
     """Search with optional score threshold for better filtering."""
-    results = client.search(
+    results = client.query_points(
         collection_name=collection,
-        query_vector=query_vector,
+        query=query_vector,
         limit=limit,
         with_vectors=with_vectors,
         query_filter=query_filter,
         score_threshold=score_threshold,
-    )
+    ).points
     return results
 
 

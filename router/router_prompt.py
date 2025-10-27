@@ -14,12 +14,14 @@ Ponudjeni zakoni i njihova objasnjenja su sledeci:
  - Porodični zakon reguliše pravne odnose unutar porodice, uključujući brak, roditeljstvo, starateljstvo, hraniteljstvo i usvojenje. Zakon definiše prava i obaveze bračnih partnera, kao i prava dece i roditeljske odgovornosti. Takođe se bavi pitanjima nasleđivanja i alimentacije. 
 - pravne_konsultacije
  - Pravne konsultacije u vezi portala javnih nabavki sadrže odgovore na česta pitanja vezana za Portal javnih nabavki, objašnjenja procedura i pravnih aspekata javnih nabavki, kao i konsultacije o primeni Zakona o javnim nabavkama. Ovo su praktični odgovori i tumačenja koja pomažu korisnicima da razumeju kako da koriste portal i postupaju u skladu sa zakonima o javnim nabavkama.
+- index
+ - Sadržaj sa albaglanz.com portala koji sadrži informacije o David Jovanovicu i drugim relevantnim temama vezanim za javne nabavke i pravne aspekte.
 - nema_zakona
  - Korisnikovo pitanje ne odgovara ni jednom zakonu.
 
 **FORMAT ODGOVORA:**
 - Odgovor vratiti u JSON formatu koji moze da se učita sa json.loads().
-- Imena zakona mogu biti samo sledeca: zakon_o_radu, zakon_o_porezu_na_dohodak_gradjana, zakon_o_zastiti_podataka_o_licnosti, zakon_o_zastiti_potrosaca, porodicni_zakon, pravne_konsultacije, nema_zakona.
+- Imena zakona mogu biti samo sledeca: zakon_o_radu, zakon_o_porezu_na_dohodak_gradjana, zakon_o_zastiti_podataka_o_licnosti, zakon_o_zastiti_potrosaca, porodicni_zakon, pravne_konsultacije, index, nema_zakona.
 - Jedno pitanje korisnika moze da se odnosi na vise zakona.
 - Vrati zakone koji mogu da pomognu prilikom generisanja odgovora.
 - Ukoliko korisnikovo pitanje ne odgovara ni jednom zakonu vrati listu sa generickim stringom: ["nema_zakona"].

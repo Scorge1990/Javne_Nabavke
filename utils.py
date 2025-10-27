@@ -204,6 +204,7 @@ def map_router_to_collection(router_name: str) -> str:
         "zakon_o_zastiti_potrosaca": "zakon_o_zastiti_potrosaca",
         "porodicni_zakon": "porodicni_zakon",
         "pravne_konsultacije": "pravne_konsultacije",
+        "index": "index",
         "nema_zakona": "nema_zakona"
     }
     return mapping.get(router_name, router_name)

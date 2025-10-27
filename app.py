@@ -41,7 +41,29 @@ logo_url = (
 
 # Display the logo and set up the sidebar with useful information and links.
 # Display logo using st.image for better compatibility
-st.image(logo_url, width=400)
+import os
+from pathlib import Path
+
+# Try multiple approaches to load the logo
+logo_paths = [
+    "assets/Logo.jpg",
+    "./assets/Logo.jpg", 
+    str(Path("assets/Logo.jpg")),
+    logo_url
+]
+
+logo_displayed = False
+for path in logo_paths:
+    try:
+        if os.path.exists(path):
+            st.image(path, width=400)
+            logo_displayed = True
+            break
+    except Exception:
+        continue
+
+if not logo_displayed:
+    st.markdown("### LegaBot")
 with st.sidebar:
     st.subheader("💡 Query Suggestions")
     with st.container(border=True, height=200):

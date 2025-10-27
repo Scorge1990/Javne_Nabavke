@@ -40,16 +40,8 @@ logo_url = (
 )
 
 # Display the logo and set up the sidebar with useful information and links.
-# Custom CSS to make the logo 8 times bigger
-st.markdown("""
-<style>
-.stLogo img {
-    width: 400px !important;
-    height: auto !important;
-}
-</style>
-""", unsafe_allow_html=True)
-st.logo(logo_url, icon_image=LOGO_URL)
+# Display logo using st.image for better compatibility
+st.image(logo_url, width=400)
 with st.sidebar:
     st.subheader("💡 Query Suggestions")
     with st.container(border=True, height=200):

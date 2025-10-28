@@ -18,12 +18,38 @@ Ponudjeni zakoni i njihova objasnjenja su sledeci:
  - Sadržaj sa albaglanz.com portala koji sadrži informacije o David Jovanovicu i odgovore na česta pitanja o javnim nabavkama, uključujući postupke kada ponuđač odustane od javne nabavke, ekskurzije sa ponuđačima, i druge praktične situacije vezane za javne nabavke.
 - paragraf_laws
  - Zakoni i propisi sa Paragraf Lex portala koji obuhvataju širok spektar pravnih oblasti uključujući krivični zakonik, carinski zakon, etičke kodekse, tarife za advokate, javne beležnike i izvršitelje, kao i različite odluke i pravilnike koji regulišu različite aspekte pravnog sistema Republike Srbije.
+- carinski_zakon
+ - Carinski zakon Republike Srbije koji reguliše carinske procedure, obračun i naplatu carinskih dažbina, carinske formalnosti, ovlašćenja Vlade i ministra u pogledu carinskih zakona, registraciju privrednih subjekata, i druge aspekte carinskog sistema. (Podaci se nalaze u paragraf_laws kolekciji)
+- krivicni_zakonik
+ - Krivični zakonik Republike Srbije koji definiše krivična dela, kazne, mere bezbednosti i vaspitne mere, kao i procedure krivičnog postupka.
+- zakon_o_javnim_nabavkama
+ - Zakon o javnim nabavkama koji reguliše postupke javnih nabavki, obaveze naručilaca i ponuđača, kriterije za odabir najpovoljnije ponude, i procedure sprovođenja javnih nabavki.
+- ustav_republike_srbije
+ - Ustav Republike Srbije koji definiše osnovne principe državnog uređenja, prava i slobode građana, organizaciju vlasti, i druge temeljne odredbe.
+- zakon_o_privrednim_drustvima
+ - Zakon o privrednim društvima koji reguliše osnivanje, organizaciju, upravljanje i prestanak privrednih društava.
+- zakon_o_bankama
+ - Zakon o bankama koji reguliše bankarske delatnosti, licenciranje banaka, nadzor nad bankarskim sistemom, i zaštitu deponenata.
+- zakon_o_narodnoj_banci_srbije
+ - Zakon o Narodnoj banci Srbije koji definiše ulogu, organizaciju i ovlašćenja centralne banke.
+- zakon_o_porezu_na_dodatu_vrednost
+ - Zakon o porezu na dodatu vrednost koji reguliše način oporezivanja PDV-om, poreske stope, osnovice, i procedure naplate.
+- zakon_o_platama_u_drzavnim_organima_i_javnim_sluzbama
+ - Zakon o platama u državnim organima i javnim službama koji reguliše sistem plata zaposlenih u javnom sektoru.
+- zakon_o_zastiti_korisnika_finansijskih_usluga
+ - Zakon o zaštiti korisnika finansijskih usluga koji štiti prava korisnika bankarskih i drugih finansijskih usluga.
+- pravilnik_o_aerosolnim_rasprasivacima
+ - Pravilnik o aerosolnim raspršivačima koji reguliše tehničke zahteve, testiranje i označavanje aerosolnih raspršivača.
+- pravilnik_o_areometrima
+ - Pravilnik o areometrima koji reguliše tehničke zahteve, testiranje i označavanje areometara za merenje gustine tečnosti.
+- zakon_o_zvanicnoj_statistici
+ - Zakon o zvaničnoj statistici Republike Srbije koji reguliše organizaciju i sprovođenje statističkih istraživanja, statističke registre i zaštitu podataka.
 - nema_zakona
  - Korisnikovo pitanje ne odgovara ni jednom zakonu.
 
 **FORMAT ODGOVORA:**
 - Odgovor vratiti u JSON formatu koji moze da se učita sa json.loads().
-- Imena zakona mogu biti samo sledeca: zakon_o_radu, zakon_o_porezu_na_dohodak_gradjana, zakon_o_zastiti_podataka_o_licnosti, zakon_o_zastiti_potrosaca, porodicni_zakon, pravne_konsultacije, index, paragraf_laws, nema_zakona.
+- Imena zakona mogu biti samo sledeca: zakon_o_radu, zakon_o_porezu_na_dohodak_gradjana, zakon_o_zastiti_podataka_o_licnosti, zakon_o_zastiti_potrosaca, porodicni_zakon, pravne_konsultacije, index, paragraf_laws, carinski_zakon, krivicni_zakonik, zakon_o_javnim_nabavkama, ustav_republike_srbije, zakon_o_privrednim_drustvima, zakon_o_bankama, zakon_o_narodnoj_banci_srbije, zakon_o_porezu_na_dodatu_vrednost, zakon_o_platama_u_drzavnim_organima_i_javnim_sluzbama, zakon_o_zastiti_korisnika_finansijskih_usluga, pravilnik_o_aerosolnim_rasprasivacima, pravilnik_o_areometrima, zakon_o_zvanicnoj_statistici, nema_zakona.
 - Jedno pitanje korisnika moze da se odnosi na vise zakona.
 - Vrati zakone koji mogu da pomognu prilikom generisanja odgovora.
 - Ukoliko korisnikovo pitanje ne odgovara ni jednom zakonu vrati listu sa generickim stringom: ["nema_zakona"].

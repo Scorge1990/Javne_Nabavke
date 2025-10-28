@@ -206,6 +206,19 @@ def map_router_to_collection(router_name: str) -> str:
         "pravne_konsultacije": "pravne_konsultacije",
         "index": "index",
         "paragraf_laws": "paragraf_laws",
+        "carinski_zakon": "carinski_zakon_complete",
+        "krivicni_zakonik": "krivicni_zakonik",
+        "zakon_o_javnim_nabavkama": "zakon_o_javnim_nabavkama",
+        "ustav_republike_srbije": "ustav_republike_srbije",
+        "zakon_o_privrednim_drustvima": "zakon_o_privrednim_drustvima",
+        "zakon_o_bankama": "zakon_o_bankama",
+        "zakon_o_narodnoj_banci_srbije": "zakon_o_narodnoj_banci_srbije",
+        "zakon_o_porezu_na_dodatu_vrednost": "zakon_o_porezu_na_dodatu_vrednost",
+        "zakon_o_platama_u_drzavnim_organima_i_javnim_sluzbama": "zakon_o_platama_u_drzavnim_organima_i_javnim_sluzbama",
+        "zakon_o_zastiti_korisnika_finansijskih_usluga": "zakon_o_zastiti_korisnika_finansijskih_usluga",
+        "pravilnik_o_aerosolnim_rasprasivacima": "pravilnik_o_aerosolnim_rasprasivacima",
+        "pravilnik_o_areometrima": "pravilnik_o_areometrima",
+        "zakon_o_zvanicnoj_statistici": "zakon_o_zvanicnoj_statistici",
         "nema_zakona": "nema_zakona"
     }
     return mapping.get(router_name, router_name)

@@ -15,13 +15,15 @@ Ponudjeni zakoni i njihova objasnjenja su sledeci:
 - pravne_konsultacije
  - Pravne konsultacije u vezi portala javnih nabavki sadrže odgovore na česta pitanja vezana za Portal javnih nabavki, objašnjenja procedura i pravnih aspekata javnih nabavki, kao i konsultacije o primeni Zakona o javnim nabavkama. Ovo su praktični odgovori i tumačenja koja pomažu korisnicima da razumeju kako da koriste portal i postupaju u skladu sa zakonima o javnim nabavkama.
 - index
- - Sadržaj sa albaglanz.com portala koji sadrži informacije o David Jovanovicu i drugim relevantnim temama vezanim za javne nabavke i pravne aspekte.
+ - Sadržaj sa albaglanz.com portala koji sadrži informacije o David Jovanovicu i odgovore na česta pitanja o javnim nabavkama, uključujući postupke kada ponuđač odustane od javne nabavke, ekskurzije sa ponuđačima, i druge praktične situacije vezane za javne nabavke.
+- paragraf_laws
+ - Zakoni i propisi sa Paragraf Lex portala koji obuhvataju širok spektar pravnih oblasti uključujući krivični zakonik, carinski zakon, etičke kodekse, tarife za advokate, javne beležnike i izvršitelje, kao i različite odluke i pravilnike koji regulišu različite aspekte pravnog sistema Republike Srbije.
 - nema_zakona
  - Korisnikovo pitanje ne odgovara ni jednom zakonu.
 
 **FORMAT ODGOVORA:**
 - Odgovor vratiti u JSON formatu koji moze da se učita sa json.loads().
-- Imena zakona mogu biti samo sledeca: zakon_o_radu, zakon_o_porezu_na_dohodak_gradjana, zakon_o_zastiti_podataka_o_licnosti, zakon_o_zastiti_potrosaca, porodicni_zakon, pravne_konsultacije, index, nema_zakona.
+- Imena zakona mogu biti samo sledeca: zakon_o_radu, zakon_o_porezu_na_dohodak_gradjana, zakon_o_zastiti_podataka_o_licnosti, zakon_o_zastiti_potrosaca, porodicni_zakon, pravne_konsultacije, index, paragraf_laws, nema_zakona.
 - Jedno pitanje korisnika moze da se odnosi na vise zakona.
 - Vrati zakone koji mogu da pomognu prilikom generisanja odgovora.
 - Ukoliko korisnikovo pitanje ne odgovara ni jednom zakonu vrati listu sa generickim stringom: ["nema_zakona"].

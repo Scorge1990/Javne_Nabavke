@@ -1,6 +1,5 @@
 import streamlit as st
 from dotenv import find_dotenv, load_dotenv
-from streamlit_theme import set_theme
 
 from llm.prompts import INTRODUCTION_MESSAGE
 from utils import (
@@ -27,11 +26,6 @@ st.divider()
 # Initialize API clients for OpenAI and Qdrant and load configuration settings.
 qdrant_client = initialize_clients()
 config = load_config()
-
-# Set the theme
-set_theme({
-    "primary": "#FF6B6B"
-})
 
 # Set default theme for logo selection
 st.session_state.theme = "light"

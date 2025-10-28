@@ -1,0 +1,373 @@
+[
+  {
+    "title": "Član 1",
+    "texts": [
+      "Ovim pravilnikom propisuju se zahtevi i označavanje za areometre, način utvrđivanja ispunjenosti tih zahteva, metode merenja, kao i način i uslovi overavanja areometara.",
+      "Primena"
+    ],
+    "link": "https://www.paragraf.rs/propisi/pravilnik_o_areometrima.html#clan_1"
+  },
+  {
+    "title": "Član 2",
+    "texts": [
+      "Ovaj pravilnik primenjuje se na areometre stalne mase za određivanje gustine tečnosti na referentnoj temperaturi, koji se koriste u prometu roba i usluga.",
+      "Značenje pojedinih izraza"
+    ],
+    "link": "https://www.paragraf.rs/propisi/pravilnik_o_areometrima.html#clan_2"
+  },
+  {
+    "title": "Član 3",
+    "texts": [
+      "Pojedini izrazi koji se upotrebljavaju u ovom pravilniku imaju sledeće značenje:",
+      "1) areometar je stakleno merilo gustine tečnosti, sa termometrom ili bez termometra, stalne mase, cilindričnog oblika, simetričan u odnosu na uzdužnu osu, koji se koristi za određivanje vrednosti gustine tečnosti na referentnoj temperaturi;",
+      "2) greška merenja je izmerena vrednost gustine tečnosti koju pokazuje areometar umanjena za referentnu vrednost gustine tečnosti;",
+      "3) najveća dozvoljena greška merenja (u daljem tekstu: NDG) je ekstremna vrednost greške merenja u odnosu na poznatu referentnu vrednost gustine tečnosti, propisana ovim pravilnikom;",
+      "4) skala areometra je skala koja prikazuje izmerenu vrednost gustine ispitivane tečnosti;",
+      "5) termometarska skala je skala termometra ugrađenog u areometar koja prikazuje temperaturu ispitivane tečnosti;",
+      "6) referentna temperatura je temperatura za koju je areometar projektovan i izrađen i za koju je graduisana skala areometra, deklarisana od strane proizvođača.",
+      "Drugi izrazi koji se upotrebljavaju u ovom pravilniku, a nisu definisani u stavu 1. ovog člana imaju značenje definisano zakonom kojim se uređuje metrologija.",
+      "Zahtevi"
+    ],
+    "link": "https://www.paragraf.rs/propisi/pravilnik_o_areometrima.html#clan_3"
+  },
+  {
+    "title": "Član 4",
+    "texts": [
+      "Referentna temperatura areometara je 15 °C ili 20 °C.",
+      "Merne jedinice"
+    ],
+    "link": "https://www.paragraf.rs/propisi/pravilnik_o_areometrima.html#clan_4"
+  },
+  {
+    "title": "Član 5",
+    "texts": [
+      "Vrednost gustine tečnosti izražava se u jedinicama kg∙m-3, g∙cm-3ili g∙ml-1, a temperatura u stepenima Celzijusa (°C)."
+    ],
+    "link": "https://www.paragraf.rs/propisi/pravilnik_o_areometrima.html#clan_5"
+  },
+  {
+    "title": "Član 6",
+    "texts": [
+      "Areometar se projektuje i izrađuje tako da njegova greška merenja nije veća od vrednosti NDG koja iznosi jedan podeljak skale."
+    ],
+    "link": "https://www.paragraf.rs/propisi/pravilnik_o_areometrima.html#clan_6"
+  },
+  {
+    "title": "Član 7",
+    "texts": [
+      "Areometri su izrađeni od providnog i bezbojnog stakla koje nema unutrašnje naprezanje, naprsline, mehuriće i druge nedostatke koji ometaju pravilno očitavanje, i čiji termički koeficijent zapreminskog širenja iznosi (25 ± 2) 10-6°C-1.",
+      "Sastavni delovi areometra su:",
+      "1) stakleno telo koje je cilindrično i čije je dno konusnog ili poluloptastog oblika;",
+      "2) vrat, koji je šupalj i cilindričan, i koji je zaliven za gornji deo staklenog tela, sa zatvorenim gornjim krajem.",
+      "Spoljna površina areometra je simetrična u odnosu na njegovu uzdužnu osu.",
+      "Normalni poprečni presek staklenog tela i vrata areometra je kružni, s tim da je poprečni presek vrata isti celom njegovom dužinom.",
+      "Staklo na prelazu staklenog tela areometra u vrat sa spoljašnje strane je glatko i iste debljine.",
+      "Vrat areometra sadrži skalu obeleženu na cilindričnom nosaču, koji je trajno fiksiran u unutrašnjoj strani vrata merila.",
+      "U donjem delu staklenog tela fiksiran je materijal za otežavanje.",
+      "Areometri mogu imati ugrađen stakleni termometar sa skalom u stepenima Celzijusa (°C) koji se sastoji iz sledećih delova:",
+      "1) rezervoara termometarske tečnosti;",
+      "2) kapilarne cevi (kapilare);",
+      "3) termometarske tečnosti;",
+      "4) skale."
+    ],
+    "link": "https://www.paragraf.rs/propisi/pravilnik_o_areometrima.html#clan_7"
+  },
+  {
+    "title": "Član 8",
+    "texts": [
+      "Skala areometra i termometarska skala su izrađene od papira ili mlečnog stakla, tako da su podele i oznake izražene brojevima na skalama jasne i pregledne.",
+      "Skala areometra i termometarska skala su neodvojivo pričvršćene za telo areometra.",
+      "Na skali areometra i na termometarskoj skali ne nalaze se sporedne skale.",
+      "Termometarska skala nalazi se ispod skale areometra, a njen gornji kraj je udaljen najmanje 15 mm od mesta gde se telo areometra sužava i prelazi u vrat areometra. Najmanja udaljenost donjeg kraja podele termometarske skale od kolena kapilare iznosi 3 mm.",
+      "Termometarska skala nalazi se:",
+      "1) u telu areometra, ispod skale areometra koji je namenjen merenju gustine providnih tečnosti;",
+      "2) u vratu areometra, iznad skale areometra koji je namenjen merenju gustine neprovidnih tečnosti.",
+      "Merni opseg skale termometra iznosi od 0 °C do + 40 °C.",
+      "Rezervoar termometrijske tečnosti nalazi se u suženom i zaobljenom donjem delu tela areometra.",
+      "Termometarska kapilara ima isti kružni poprečni presek celom dužinom. Termometarska kapilara izrađena je tako da omogućava vidljivo i ravnomerno kretanje termometrijske tečnosti.",
+      "Na vrhu termometarske kapilare nalazi se ekspanziono proširenje koje može da primi termometrijsku tečnost pri pregrevanju do + 50 °C."
+    ],
+    "link": "https://www.paragraf.rs/propisi/pravilnik_o_areometrima.html#clan_8"
+  },
+  {
+    "title": "Član 9",
+    "texts": [
+      "Najmanji podeljak na skali areometra ima sledeće vrednosti: 1x10n; 2x10nili 5x10njedinica gustine,",
+      "gde je: n= 0, +1 ili -1, ako je podela u kg∙m-3;",
+      "n= -2, -3 ili -4, ako je podela u g∙cm-3ili g∙ml-1.",
+      "Najmanji podeljak na termometarskoj skali ima sledeće vrednosti: 0,1 °C; 0,2 °C; 0,5 °C ili 1,0 °C.",
+      "Dužina podeljka na termometarskoj skali iznosi:",
+      "1) najmanje 1 mm - za podele na 0,5 °C i 1 °C;",
+      "2) najmanje 0,7 mm - za podele na 0,1 °C i 0,2 °C."
+    ],
+    "link": "https://www.paragraf.rs/propisi/pravilnik_o_areometrima.html#clan_9"
+  },
+  {
+    "title": "Član 10",
+    "texts": [
+      "Podela i označavanje brojevima na skali areometra i termometarskoj skali je jasna, pregledna i neizbrisiva. Crte podele su crne boje i nemaju prekide ili druge vidljive greške. Debljina crta podele nije veća od 0,2 mm.",
+      "Crte podele na skali areometra su u ravnima koje su normalne na osu simetrije areometra.",
+      "Dužina podeljka na skali areometra iznosi od 0,8 mm do 3 mm. Dužina kratkih crta na skali areometra je najmanje petina obima vrata areometra. Dužina srednjih crta na skali areometra je najmanje trećina obima vrata areometra, a dužina dugačkih crta na skali areometra je najmanje polovina obima vrata merila.",
+      "Svaka peta crta od početka mernog opsega skale areometra je duža crta. Između dve uzastopne duže crte nalaze se četiri kratke crte. Samo svaka peta ili deseta crta podele na skali areometra označena je brojem.",
+      "Početak i kraj mernog opsega skale areometra su označeni brojevima.",
+      "Crte podele na termometarskoj skali nalaze se sa obe strane kapilare termometra i njihova dužina iznosi najmanje 1 mm."
+    ],
+    "link": "https://www.paragraf.rs/propisi/pravilnik_o_areometrima.html#clan_10"
+  },
+  {
+    "title": "Član 11",
+    "texts": [
+      "Krajnja gornja crta podele označena brojem na skali areometra je najmanje 5 mm ispod mesta gde počinje ravnomerni presek vrata, a najmanje 20 mm od vrha vrata.",
+      "Krajnja donja crta podele označena brojem na skali areometra udaljena je najmanje 3 mm od mesta na kome vrat prelazi u telo areometra."
+    ],
+    "link": "https://www.paragraf.rs/propisi/pravilnik_o_areometrima.html#clan_11"
+  },
+  {
+    "title": "Član 12",
+    "texts": [
+      "Krajnja donja crta podele označena brojem na termometarskoj skali udaljena je najmanje 3 mm od kolena kapilare, a krajnja gornja crta podele označena brojem na termometarskoj skali udaljena je najmanje 15 mm od mesta na kome telo areometra prelazi u vrat."
+    ],
+    "link": "https://www.paragraf.rs/propisi/pravilnik_o_areometrima.html#clan_12"
+  },
+  {
+    "title": "Član 13",
+    "texts": [
+      "Areometri uronjeni u tečnosti plivaju vertikalno i kad su uronjeni do najmanjeg podeljka skale.",
+      "Najveći dozvoljeni ugao odstupanja od vertikalnog položaja, odnosno između vrata i vertikalne ose merila iznosi ± 1,5°."
+    ],
+    "link": "https://www.paragraf.rs/propisi/pravilnik_o_areometrima.html#clan_13"
+  },
+  {
+    "title": "Član 14",
+    "texts": [
+      "Za otežavanje areometra koristi se olovna sačma, ili drugi materijal u čvrstom stanju koji se učvršćuje u dnu tela areometra. Kao vezivno sredstvo koristi se vosak ili lak. Vezivna sredstva se ne tope na temperaturama nižim od 80 °C.",
+      "U telu i vratu areometra ne nalaze se ostaci sačme ili neka druga tela koja ometaju pravilan rad."
+    ],
+    "link": "https://www.paragraf.rs/propisi/pravilnik_o_areometrima.html#clan_14"
+  },
+  {
+    "title": "Član 15",
+    "texts": [
+      "Areometri su projektovani i izrađeni za merenje gustine određenog tipa tečnosti, odnosno tečnosti sa definisanim površinskim naponom.",
+      "Merni opseg areometra ili garniture areometara određene su tipom tečnosti za čije su merenje gustine namenjeni, a date su u Tabeli 1.",
+      "Tabela 1",
+      "Vrsta tečnosti",
+      "Merni opseg, u kg∙m-3",
+      "Mineralna ulja",
+      "od 610 do 1100",
+      "Etar",
+      "od 700 do 760",
+      "Alkohol",
+      "od 780 do 1000",
+      "Amonijak",
+      "od 880 do 1000",
+      "Pivo i sladovina",
+      "od 990 do 1100",
+      "Morska voda",
+      "od 1000 do 1040",
+      "Urin",
+      "od 1000 do 1060",
+      "Hlorovodonična kiselina",
+      "od 1000 do 1290",
+      "Rastvor kuhinjske soli",
+      "od 1000 do 1210",
+      "Glicerin",
+      "od 1000 do 1260",
+      "Boje i štavila",
+      "od 1000 do 1270",
+      "Rastvor kalijum hidroksida",
+      "od 1000 do 1300",
+      "Rastvor natrijum hidroksida i rastvor magnezijum hidrosida",
+      "od 1000 do 1350",
+      "Azotna kiselina",
+      "od 1000 do 1520",
+      "Rastvor šećera",
+      "od 1000 do 1550",
+      "Sumporna kiselina",
+      "od 1000 do 1850",
+      "Mleko",
+      "od 1010 do 1040",
+      "Šira",
+      "od 1000 do 1150"
+    ],
+    "link": "https://www.paragraf.rs/propisi/pravilnik_o_areometrima.html#clan_15"
+  },
+  {
+    "title": "Član 16",
+    "texts": [
+      "Areometri za providne tečnosti su projektovani i izrađeni za očitavanje vrednosti gustine u nivou tečnosti.",
+      "Areometri za neprovidne tečnosti su projektovani i izrađeni za očitavanje vrednosti gustine na gornjoj ivici meniska.",
+      "Označavanje"
+    ],
+    "link": "https://www.paragraf.rs/propisi/pravilnik_o_areometrima.html#clan_16"
+  },
+  {
+    "title": "Član 17",
+    "texts": [
+      "Areometar ima sledeće natpise i oznake:",
+      "1) naziv merila: areometar;",
+      "2) oznaka merne jedinice: kg∙m-3, g∙cm-3ili g∙ml-1;",
+      "3) referentna temperatura: 15 °C ili 20 °C;",
+      "4) poslovno ime ili znak, odnosno naziv proizvođača;",
+      "5) proizvodna oznaka areometra (tip, odnosno model merila);",
+      "6) godina proizvodnje i serijski broj areometra;",
+      "7) oznaka jedinice temperature: °C, na skali termometra za areometre sa termometrom.",
+      "Natpisi i oznake iz stava 1. ovog člana postavljaju se unutar areometara, tako da budu vidljivi, čitljivi i neizbrisivi, odnosno da ih nije moguće ukloniti bez trajnog oštećenja areometra.",
+      "Način utvrđivanja ispunjenosti zahteva"
+    ],
+    "link": "https://www.paragraf.rs/propisi/pravilnik_o_areometrima.html#clan_17"
+  },
+  {
+    "title": "Član 18",
+    "texts": [
+      "Prvo overavanje areometara obuhvata:",
+      "1) vizuelni pregled areometra;",
+      "2) ispitivanje tačnosti skale areometra.",
+      "Areometri se overavaju pojedinačno.",
+      "Načini i uslovi overavanja areometara dati su u Prilogu 1 - Overavanje areometara, koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo.",
+      "Ukoliko se u postupku overavanja potvrdi usaglašenost areometra sa zahtevima ovog pravilnika, izdaje se uverenje o overavanju merila, a areometar se ne žigoše."
+    ],
+    "link": "https://www.paragraf.rs/propisi/pravilnik_o_areometrima.html#clan_18"
+  },
+  {
+    "title": "Član 19",
+    "texts": [
+      "Areometar podleže prvom overavanju u skladu sa zakonom kojim se uređuje metrologija i propisima donetim na osnovu tog zakona.",
+      "Završne odredbe"
+    ],
+    "link": "https://www.paragraf.rs/propisi/pravilnik_o_areometrima.html#clan_19"
+  },
+  {
+    "title": "Član 20",
+    "texts": [
+      "Danom stupanja na snagu ovog pravilnika prestaju da važe sledeći propisi:",
+      "1) Pravilnik o metrološkim uslovima za areometre stalne mase (\"Službeni list SFRJ\", broj 54/85);",
+      "2) Pravilnik o metrološkim uslovima za laktodenzimetre (\"Službeni list SFRJ\", br. 50/86 i 31/87);",
+      "3) Pravilnik o metrološkim uslovima za urinometre (\"Službeni list SFRJ\", broj 5/85);",
+      "4) Metrološko uputstvo za pregled areometara (\"Glasnik SZMDM\", broj 2/85)."
+    ],
+    "link": "https://www.paragraf.rs/propisi/pravilnik_o_areometrima.html#clan_20"
+  },
+  {
+    "title": "Član 21",
+    "texts": [
+      "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u \"Službenom glasniku Republike Srbije\".",
+      "",
+      "Prilog 1",
+      "OVERAVANJE AREOMETARA",
+      "",
+      "1. OPŠTE ODREDBE",
+      "1.1. Uslovi overavanja",
+      "Areometri se overavaju u sledećim uslovima:",
+      "1) temperatura okoline održava se u granicama 15 °C ± 5 °C ili 20 °C ± 5 °C, zavisno od referentne temperature areometra koji se overava sa dozvoljenim promenama temperature u toku merenja do ± 1 °C;",
+      "2) oprema za overavanje areometara je u skladu sa zahtevima iz odeljka 2. ovog priloga;",
+      "3) u radnoj prostoriji za overavanje areometara nalaze se:",
+      "- laboratorijski sto, pisaći sto i stolica za rad lica koje vrši overavanje;",
+      "- ormani i police za smeštaj areometara i tečnosti za overavanje, kao i ostala potrebna oprema za overavanje areometara;",
+      "- digestor za izvlačenje zagađenog vazduha (za rad sa otrovnim isparljivim tečnostima);",
+      "- mokri čvor.",
+      "1.2. Sledivost",
+      "Etalonski areometri i merila koja se koriste u postupku overavanja areometara etaloniraju se radi obezbeđivanja sledivosti do nacionalnih ili međunarodnih etalona.",
+      "2. OPREMA I MATERIJAL ZA OVERAVANJE",
+      "2.1. Oprema za overavanje areometara sastoji se od:",
+      "1) garniture etalonskih areometara;",
+      "2) staklenih cilindara;",
+      "3) termostata ili vodenog kupatila;",
+      "4) laboratorijskih termometara;",
+      "5) lenjira sa nonijusom;",
+      "6) aparata za ispitivanje unutrašnjeg naprezanja u staklu;",
+      "7) mešalice.",
+      "2.1.1. Garnitura etalonskih areometara ima merni opseg veći od mernog opsega overavanog areometra.",
+      "Najmanja podela skale svakog etalonskog areometra je manja od odgovarajuće podele overavanog areometra.",
+      "2.1.2. Stakleni cilindri se pune tečnošću u kojoj se overavaju areometri. Stakleni cilindri su izrađeni od stakla bez defekata usled kojih bi moglo nastati krivljenje slike pri očitavanju. Osnovica ovih cilindara je izrađena tako da obezbeđuje stabilnost pri radu. Dimenzije cilindra za overavanje areometara su različite, pri čemu su ispunjeni sledeći uslovi:",
+      "1) prečnik staklenog cilindra je najmanje 10 mm duži od prečnika tela areometra, ako se overavaju jedan po jedan, a ako se istovremeno overava više areometara, rastojanje među susednim areometrima iznosi najmanje 20 mm;",
+      "2) visina staklenog cilindra je tolika da pri slobodnom plivanju areometara u tečnosti, njihovo dno bude najmanje 25 mm udaljeno od unutrašnjeg dna cilindra.",
+      "2.1.3 Termostat - vodeno kupatilo ima jedan sud od providnog stakla, dubinu najmanje 500 mm i obezbeđuje konstantnu temperaturu sa dozvoljenim odstupanjima ± 0,1°C u odnosu na željenu vrednost.",
+      "2.1.4 Laboratorijski termometri se koriste za merenje temperature prostorije kao i tečnosti u kojoj se vrši pregled areometara. Merni opseg tih termometara iznosi od 0°C do +50°C, a najmanji podeljak 0,1°C.",
+      "2.1.5 Lenjir sa nonijusom sa najmanjim podeljkom od 0,05 mm koristi se za merenje linearnih dimenzija areometara.",
+      "2.1.6 Mešalice za tečnost izrađene su od stakla ili metala. Za mešanje kiselih i baznih rastvora upotrebljavaju se samo staklene mešalice.",
+      "Najpogodniji oblik mešalice je štapić koji je duži od visine cilindra za merenje i na jednom kraju kružno savijen u ravni koja je normalna na njegov pravi deo.",
+      "2.2. Za pregled areometara koriste se tečnosti sa podešenom gustinom koja odgovara ispitivanoj crti podele na skali areometra.",
+      "2.2.1. Tečnosti za overavanje areometara dele se na:",
+      "1) naftne smeše za merni opseg od 650 kg∙m-3do 860 kg∙m-3;",
+      "2) rastvore vode i etilalkohola za merni opseg od 870 kg∙m-3do 950 kg∙m-3;",
+      "3) rastvore sumporne kiseline u alkoholu za merni opseg od 960 kg∙m-3do 1,010 kg∙m-3;",
+      "4) rastvore sumporne kiseline u vodi za merni opseg od 1,000 kg∙m-3do 1,830 kg∙m-3.",
+      "3. PRIPREMA ZA OVERAVANJE",
+      "3.1. Pre nego što se pristupi overavanju areometara, vrše se sledeće pripremne radnje:",
+      "1) čišćenje i sušenje areometara;",
+      "2) čišćenje staklenih cilindara;",
+      "3) priprema pomoćne opreme za overavanje.",
+      "3.1.1. Areometri se pre uronjavanja u tečnost za overavanje peru se 96 %-nim etilalkoholom. Kada se areometri overavaju u naftnim rastvorima, peru se benzinom čija je gustina manja od 730 kg∙m-3. Zatim se areometri drže od 5 min do 10 min na vazduhu da bi se osušili i primili temperaturu okoline. Ako nakon ovog vremena ostanu kapljice na areometru, brišu se čistom lanenom krpom. Pri brisanju izbegava se dugo trljanje da se ne bi pojavio statički elektricitet.",
+      "Čisti i osušeni areometri ne dodiruju se rukama, a pri uronjavanju u tečnost za overavanje uzimaju se za vršni deo vrata, koji je iznad skale.",
+      "3.1.2. Stakleni cilindar u kome se overava areometar pere se pre sipanja tečnosti za overavanje hrom-sumpornom kiselinom ili koncentrovanom sumpornom kiselinom i ispira sa dosta destilovane vode i briše čistom lanenom krpom ili papirnom vatom.",
+      "Čisti cilindri, spremni za overavanje areometara ne dodiruju se rukama sa unutrašnje strane.",
+      "Mešalice za tečnost su čiste i suve.",
+      "4. NAČIN OVERAVANJA",
+      "Overavanjem se utvrđuje da li areometri ispunjavaju propisane zahteve.",
+      "4.1. Vizuelnim pregledom se utvrđuje da li oblik, konstrukcija, natpisi i oznake na areometru ispunjavaju zahteve iz čl. 4. do 17. ovog pravilnika.",
+      "4.2. Proveravanje tačnosti areometarske skale obuhvata upoređivanje pokazivanja ispitivanog areometra sa pokazivanjem odgovarajućeg areometra - etalona istovremenim potapanjem u istu tečnost za overavanje.",
+      "4.2.1 Pre nego što se pristupi overavanju, potrebno je:",
+      "1) pripremiti areometre, cilindre za overavanje, mešalicu i ostali pomoćni pribor kao što je opisano u tački 3.1.1. i 3.1.2. ovog priloga;",
+      "2) prethodno pripremljene tečnosti za overavanje preneti na mesto na kome se vrši pregled;",
+      "3) obezbediti da se temperatura tečnosti u cilindru ne razlikuje od okolne za više od 0,5 °C;",
+      "4) u zapisnik o overavanju uneti sve podatke o areometru.",
+      "4.2.2. U stakleni cilindar pažljivo se sipa tečnost za overavanje, tako da se ne formiraju vazdušni mehurići. Tečnost se zatim, neposredno pre uronjavanja mešalicom pažljivo promeša odozgo nadole. Pri tome obuhvata se ceo stub tečnosti tako da se ne unesu mehurići vazduha. Za potpuno mešanje tečnosti dovoljno je 5 do 7 pokreta mešalicom.",
+      "4.2.3. U tečnost se najpre uroni areometar koji se overava, a zatim areometar - etalon. Uronjavanje se vrši polako do približno 4 mm ispod proveravane crte podele, zatim se areometar pusti da slobodno pliva. Na taj način se obrazuje pravilan menisk. Ako pri uronjavanju u tečnost areometar ostane nepokretan, on se podiže za oko 4 mm i ponovo uroni. Ako su vreteno areometra i površina tečnosti čisti, oblik meniska ostaje isti pri oscilovanju areometra oko ravnotežnog položaja. Promenjeni oblik meniska je znak da areometar nije dobro očišćen ili da površina tečnosti nije čista. To dolazi do izražaja naročito kad su u pitanju tečnosti sa većim površinskim naponom.",
+      "Ako areometar tone više nego što treba, on se izvlači iz tečnosti i ponovo priprema za overavanje kao što je opisano u tački 3.1.1. ovog priloga, a zatim opet uranja u tečnost za overavanje.",
+      "4.2.4. Areometar uronjen u tečnost pliva u njoj vertikalno, a da pri tom ne dodiruje zidove suda ili ostale areometre. Odstupanje areometra od vertikalnog položaja najbolje se uočava pri proveravanju najniže crte podele na skali.",
+      "4.2.5. Pokazivanje areometra očitava se tri minuta posle uronjavanja u tečnost. Za to vreme areometri se pažljivo posmatraju da se međusobno ne dodiruju ili da ne dodiruju zidove suda.",
+      "Skala areometra - etalona očitava se uvek u nivou tečnosti, bez obzira na njihovu namenu.",
+      "Kad se očitava po donjem kraju meniska, tj. u nivou tečnosti (za providne tečnosti), pogled se usmerava ispod nivoa tečnosti, tako da se osnova meniska vidi u obliku elipse. Zatim se pogled postepeno diže sve dok elipsa ne pređe u pravu liniju projektovanu na skali areometra. Odstupanje od ovoga pokazuje da areometar nije dobro pripremljen za overavanje ili da površinski sloj tečnosti nije čist. U tom slučaju areometri se ponovo pripremaju kao što je opisano u tački 3.1.1. ovog priloga.",
+      "4.2.6. Ako se pri očitavanju posmatrana linija meniska poklapa sa jednom od crta podela na skali, zapisuje se pokazivanje koje odgovara toj crti. Kad se linija nalazi između dve susedne crte podele, vidljivi deo, iznad linije meniska, proračuna se u desetim delovima najmanje podele. Na skali na kojoj je najmanje rastojanje manje od 1 mm, očitavanje se procenjuje na jednu četvrtinu podeljka.",
+      "Pokazivanje na prvoj proveravanoj crti podele se zapisuje. Zatim se areometar polako izvuče iz tečnosti i, ako je bio u naftnoj smeši, ispira se u benzinu, a ako je bio u kiselinskoj smeši, ispira se u protočnoj vodi. Areometri koji se vade iz vodeno-alkoholnih rastvora koncentracije iznad 70 % brišu se čistom krpom ili papirnom vatom, posle čega se smatraju spremnim za proveru sledeće podele skale.",
+      "4.2.7. Pri vađenju overavanog areometara iz rastvora, areometar - etalon mora se podići za približno 5 cm da se ne bi pokvasio deo vretena iznad nivoa tečnosti. Ako se overavanje nastavlja u istoj tečnosti, ta tečnost se ponovo pažljivo promeša. Pri tom se areometar - etalon ponovo malo podigne i priljubi uz zidove cilindra dok se mešanje tečnosti izvodi mešalicom uz suprotnu stranu cilindra.",
+      "4.2.8. Ponekad se, radi ubrzavanja overavanja, u cilindar uranjaju, jedan za drugim, više areometara koji se overavaju (ne više od pet) i na kraju areometar - etalon. Overavanje se vrši na isti način kao i pri pojedinačnom overavanju areometara.",
+      "4.2.9. Overavanjem se obuhvata proveravanje areometra u najmanje tri tačke, ravnomerno raspoređene duž skale. Areometar se očitava po tri puta na svakoj ispitivanoj tački.",
+      "U zapisnik o overavanju areometra upisuje se srednja vrednost tri očitavanja za datu tačku kao vrednost gustine.",
+      "4.2.10. Spoljašnjim pregledom termometra ugrađenog u areometar utvrđuje se da li su njegova svojstva u skladu sa odredbama ovog pravilnika.",
+      "4.2.11. Rezultati overavanja unose se u zapisnik. Dobijeni podaci koriguju se u sledećim slučajevima:",
+      "1) kada se areometar overava u tečnosti čiji se površinski napon razlikuje od napona tečnosti za koju je skala areometra graduisana, izračunava se korekcija zbog kapilarnih pojava;",
+      "2) kada se overavanje vrši u rastvoru čija se temperatura razlikuje od referentne temperature, vrši se temperaturna korekcija.",
+      "Korekcija zbog kapilarnosti (K) izračunava se prema formuli:",
+      "K=",
+      "d·p·r· (s1-s2)",
+      "· 10-3",
+      "m·g",
+      "gde je:d- prečnik vretena areometra, u mm;",
+      "m- masa areometra, u kg;",
+      "ρ - gustina tečnosti za overavanje, u kg∙m-3;",
+      "σ1- površinski napon tečnosti za koju je areometar namenjen, u N∙m-1;",
+      "σ2- površinski napon tečnosti za overavanje, u N∙m-1;",
+      "g- gravitaciono ubrzanje, u m/s-2.",
+      "4. 2.12. Temperaturna korekcija (C) izračunava se prema formuli:",
+      "C=0,000025∙R∙(t0-t)",
+      "gde je: R - očitavanje u nivou horizontalne površine tečnosti, u kg∙m-3",
+      "t0- referentna temperatura, u °C;",
+      "t - temperatura na kojoj se meri gustina, u °C.",
+      "4.2.13. Greška overavanog areometra predstavlja razliku između korigovane vrednosti pokazivanja tog areometra i korigovane vrednosti pokazivanja areometra - etalona. Pored navedenih korekcija, pokazivanje areometra - etalona se koriguje i za vrednost korekcije pokazivanja date u uverenju o etaloniranju.",
+      "4.2.14. NDG pokazivanja areometara date su u članu 6. ovog pravilnika.",
+      "5. ZAPISNIK O OVERAVANJU AREOMETARA",
+      "Rezultati overavanja unose se u zapisnik o overavanju areometara koji sadrži naročito:",
+      "1) naziv podnosioca zahteva za overavanje;",
+      "2) vrstu areometra, sa termometrom ili bez termometra;",
+      "3) poslovno ime ili znak, odnosno naziv proizvođača;",
+      "4) oznaku merne jedinice: kg∙m-3, g∙cm-3ili g∙ml-1;",
+      "5) merni opseg;",
+      "6) vrednost najmanjeg podeljka;",
+      "7) proizvodnu oznaka areometra (tip, odnosno model merila);",
+      "8) godinu proizvodnje i serijski broj areometra;",
+      "9) referentnu temperatura: 15 °C ili 20 °C;",
+      "10) tečnost u kojoj je vršeno overavanje;",
+      "11) rezultat vizuelnog pregleda;",
+      "12) korigovane rezultate pokazivanja gustine overavanog areometra u datim tačkama;",
+      "13) korigovane rezultate pokazivanja gustine areometra - etalona u datim tačkama;",
+      "14) grešku pokazivanja areometra;",
+      "15) radnu temperaturu tečnosti za overavanje u toku postupka overavanja merila;",
+      "16) podatak o tome da areometar zadovoljava - ne zadovoljava zahteve propisane ovim pravilnikom;",
+      "17) datum overavanja;",
+      "18) ime i potpis lica koji je vršilo overavanje."
+    ],
+    "link": "https://www.paragraf.rs/propisi/pravilnik_o_areometrima.html#clan_21"
+  }
+]

@@ -5,6 +5,7 @@ from typing import Dict, List, Union
 
 import numpy as np
 import tiktoken
+from dotenv import find_dotenv, load_dotenv
 from langfuse import observe
 from langfuse.openai import openai
 from loguru import logger
@@ -207,6 +208,9 @@ def run_api_request_processor(
     Returns:
         None
     """
+    # Load environment variables from .env file
+    load_dotenv(find_dotenv())
+    
     if not requests_filepath.exists():
         logger.error(f"File {requests_filepath} does not exist.")
         raise FileNotFoundError(f"File {requests_filepath} does not exist.")
@@ -321,18 +325,34 @@ def load_and_process_embeddings(path: Path) -> List[PointStruct]:
     points = []
     for item in embedding_data:
         try:
+            # Handle the new format: [request_data, response_data]
+            if isinstance(item, list) and len(item) >= 2:
+                request_data = item[0]
+                response_data = item[1]
+                
+                # Extract embedding vector
+                if "data" in response_data and len(response_data["data"]) > 0:
+                    embedding_vector = response_data["data"][0]["embedding"]
+                else:
+                    logger.error(f"No embedding data found in response: {response_data}")
+                    continue
+            else:
+                # Handle old format (fallback)
+                embedding_vector = item[1]["data"][0]["embedding"]
+                request_data = item[0]
+            
             points.append(
                 PointStruct(
-                    id=item[0]["id"],
-                    vector=item[1]["data"][0]["embedding"],
+                    id=request_data["id"],
+                    vector=embedding_vector,
                     payload={
-                        "title": item[0]["title"],
-                        "text": item[0]["input"],
-                        "link": item[0]["link"],
+                        "title": request_data["title"],
+                        "text": request_data["input"],
+                        "link": request_data["link"],
                     },
                 )
             )
-        except KeyError as e:
-            logger.error(f"Missing key in embedded data: {e}")
+        except (KeyError, IndexError, TypeError) as e:
+            logger.error(f"Error processing embedding data: {e}")
             continue
     return points

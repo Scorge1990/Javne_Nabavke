@@ -3,6 +3,7 @@ import json
 import os
 from pathlib import Path
 
+from dotenv import find_dotenv, load_dotenv
 from loguru import logger
 from qdrant_client import QdrantClient
 from tqdm.auto import tqdm
@@ -18,6 +19,9 @@ from database.utils import (
 
 def main(args: argparse.Namespace) -> None:
     """Main function to create embeddings and vector database."""
+    # Load environment variables from .env file
+    load_dotenv(find_dotenv())
+    
     logger.info("Creating embeddings.")
     create_embeddings(
         scraped_dir=args.scraped_dir,

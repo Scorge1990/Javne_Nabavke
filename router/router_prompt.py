@@ -23,7 +23,7 @@ Ponudjeni zakoni i njihova objasnjenja su sledeci:
 - krivicni_zakonik
  - Krivični zakonik Republike Srbije koji definiše krivična dela, kazne, mere bezbednosti i vaspitne mere, kao i procedure krivičnog postupka.
 - zakon_o_javnim_nabavkama
- - Zakon o javnim nabavkama koji reguliše postupke javnih nabavki, obaveze naručilaca i ponuđača, kriterije za odabir najpovoljnije ponude, i procedure sprovođenja javnih nabavki.
+ - Zakon o javnim nabavkama koji reguliše postupke javnih nabavki, obaveze naručilaca i ponuđača, kriterije za odabir najpovoljnije ponude, i procedure sprovođenja javnih nabavki. KORISTI U KOMBINACIJI SA 'index' za pitanja o registraciji na Portalu javnih nabavki.
 - ustav_republike_srbije
  - Ustav Republike Srbije koji definiše osnovne principe državnog uređenja, prava i slobode građana, organizaciju vlasti, i druge temeljne odredbe.
 - zakon_o_privrednim_drustvima
@@ -52,6 +52,7 @@ Ponudjeni zakoni i njihova objasnjenja su sledeci:
 - Imena zakona mogu biti samo sledeca: zakon_o_radu, zakon_o_porezu_na_dohodak_gradjana, zakon_o_zastiti_podataka_o_licnosti, zakon_o_zastiti_potrosaca, porodicni_zakon, pravne_konsultacije, index, paragraf_laws, carinski_zakon, krivicni_zakonik, zakon_o_javnim_nabavkama, ustav_republike_srbije, zakon_o_privrednim_drustvima, zakon_o_bankama, zakon_o_narodnoj_banci_srbije, zakon_o_porezu_na_dodatu_vrednost, zakon_o_platama_u_drzavnim_organima_i_javnim_sluzbama, zakon_o_zastiti_korisnika_finansijskih_usluga, pravilnik_o_aerosolnim_rasprasivacima, pravilnik_o_areometrima, zakon_o_zvanicnoj_statistici, nema_zakona.
 - Jedno pitanje korisnika moze da se odnosi na vise zakona.
 - Vrati zakone koji mogu da pomognu prilikom generisanja odgovora.
+- ZA PITANJA O JAVNIM NABAVKAMA I REGISTRACIJI NA PORTALU: uvek vrati i 'zakon_o_javnim_nabavkama' i 'index' da bi chatbot mogao da citira i zakonske odredbe i praktične savete.
 - Ukoliko korisnikovo pitanje ne odgovara ni jednom zakonu vrati listu sa generickim stringom: ["nema_zakona"].
 
 **PRIMER ODGOVORA:**

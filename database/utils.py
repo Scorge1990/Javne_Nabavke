@@ -118,25 +118,48 @@ def get_context(search_results: List[ScoredPoint], top_k: int = None) -> str:
 
 def load_json(path: Path) -> List[Dict]:
     """
-    Load JSON data from a file.
+    Load JSON data from a file. Handles split files by checking for manifest files
+    and merging chunks if necessary.
 
     Args:
         path (Path): The path to the JSON file.
 
     Returns:
-        List[Dict]: The JSON data loaded from the file.
+        List[Dict]: The JSON data loaded from the file (merged if split).
 
     Raises:
         FileNotFoundError: If the file does not exist.
     """
-    if not path.exists():
-        logger.error(f"File: {path} does not exist.")
-        raise FileNotFoundError(f"File: {path} does not exist.")
-
-    with open(path, "r", encoding="utf-8") as file:
-        data = json.load(file)
-
-    return data
+    # Check if file exists directly
+    if path.exists():
+        with open(path, "r", encoding="utf-8") as file:
+            data = json.load(file)
+        return data
+    
+    # Check if file has been split (manifest file exists)
+    manifest_path = path.parent / f"{path.stem}_manifest.json"
+    if manifest_path.exists():
+        logger.info(f"Loading split file: {path.name} via manifest")
+        with open(manifest_path, "r", encoding="utf-8") as f:
+            manifest = json.load(f)
+        
+        # Load and merge all chunks
+        merged_data = []
+        for chunk_filename in manifest["chunks"]:
+            chunk_path = path.parent / chunk_filename
+            if chunk_path.exists():
+                with open(chunk_path, "r", encoding="utf-8") as f:
+                    chunk_data = json.load(f)
+                    merged_data.extend(chunk_data)
+            else:
+                logger.warning(f"Chunk file not found: {chunk_path}")
+        
+        logger.info(f"Loaded {len(merged_data)} items from {len(manifest['chunks'])} chunks")
+        return merged_data
+    
+    # File doesn't exist and no manifest found
+    logger.error(f"File: {path} does not exist and no manifest found.")
+    raise FileNotFoundError(f"File: {path} does not exist.")
 
 
 def prepare_for_embedding(

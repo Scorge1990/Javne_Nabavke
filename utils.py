@@ -208,7 +208,7 @@ def map_router_to_collection(router_name: str) -> str:
         "paragraf_laws": "paragraf_laws",
         "carinski_zakon": "carinski_zakon_complete",
         "krivicni_zakonik": "krivicni_zakonik",
-        "zakon_o_javnim_nabavkama": "zakon_o_javnim_nabavkama",
+        "zakon_o_javnim_nabavkama": "paragraf_laws",
         "ustav_republike_srbije": "paragraf_laws",
         "zakon_o_privrednim_drustvima": "paragraf_laws",
         "zakon_o_bankama": "paragraf_laws",

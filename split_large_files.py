@@ -7,8 +7,8 @@ import os
 import shutil
 from pathlib import Path
 
-# Size threshold for splitting (500KB)
-SPLIT_THRESHOLD = 500 * 1024  # 500 KB
+# Size threshold for splitting (80MB)
+SPLIT_THRESHOLD = 80 * 1024 * 1024  # 80 MB
 
 # Directory containing law files
 LAWS_DIR = Path("scraper/laws")

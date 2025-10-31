@@ -1,0 +1,968 @@
+[
+    {
+        "title": "Article 1",
+        "texts": [
+            "This law shall regulate protection of competition on the market of the Republic of Serbia, with goal of economic development and welfare of the society, and in particular to the benefit of the consumers, as well as the position, organization and competencies of the Commission for Protection of Competition (hereinafter referred to as the Commission).",
+            "Territory of application"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 2",
+        "texts": [
+            "This law shall be applied on the acts and deeds performed on the territory of the Republic of Serbia, as well as on the acts and deeds performed outside its territory, that affect or could affect the competition on the territory of the Republic of Serbia.",
+            "Scope of application"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 3",
+        "texts": [
+            "This law shall apply to all legal and natural entities that directly or indirectly, permanently, occasionally or ad hoc, perform economic activities in trade of goods and services, regardless of their legal status, ownership affiliation or sitizenship or state of origin (hereinafter referred to as undertakings), including:",
+            "1) domestic and foreign companies and entrepreneurs;",
+            "2) state institutions, bodies of territorial autonomy and local self-governments;",
+            "3) other natural and legal entities and associations (unions, business associations, sports organizations, institutions, cooperative associations, intellectual property holders and other);",
+            "4) public enterprises, companies, entrepreneurs and other undertakings, performing the activities of public interest, or those that have been given the fiscal monopoly, through the act of the state authority in charge, except if through the application of this law, either lawfully or factually, they are prevented to perform these activities or tasks assigned by public authority.",
+            "Employment relations"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 4",
+        "texts": [
+            "This law shall not apply to relations between employers and employees, neither to the relations that are covered by collective agreements between employers and labour unions.",
+            "Connected undertakings"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 5",
+        "texts": [
+            "Connected undertakings, pursuant to this law, are two or more undertakings that are connected in a way that one undertaking is in control of the other, or that two or more of them are controlled by a third undertaking (hereinafter referred to as the connected undertakings).",
+            "Control defined in paragraph 1 of this article represents the possibility of decisive influence on managing activities of the undertakings, in particular:",
+            "1) if the controlling undertaking, alone or acting jointly with another undertaking, has the characteristic of a controlling (parent) company or controlling member or stock holder, in line with the rules pertaining to connected companies as stipulated by the law on companies;",
+            "2) on the basis of ownership or other property rights over a property or part of the property of another undertaking;",
+            "3) on the basis of rights deriving from a contract, an agreement or securities;",
+            "4) by means of liabilities, collaterals or terms of a particular business practice determined by the controlling undertaking.",
+            "Connected undertakings are considered to be a single undertaking pursuant to this law.",
+            "Rules pertaining to connected persons and connected companies stipulated by the law on companies shall be applied accordingly to connected undertakings, unless contrary to this law.",
+            "Relevant market"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 6",
+        "texts": [
+            "Pursuant to this law the relevant market is the market determined by the relevant product market and the relevant geographic market.",
+            "Relevant product market is a set of goods and/or services that have reasonable interchangeability for purposes for which they are produced, considering their quality, regular use and price.",
+            "Relevant geographic market is the geografic area where undertakings have been involved in a demand or supply process and where the conditions of competition are even.",
+            "The Government o Serbia (hereinafter referred to as the Government) may prescribe criteria defining relevant market in more detail.",
+            "Annual turnover"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 7",
+        "texts": [
+            "Annual turnover of undertakings pursuant to this law is calculated as total taxable annual turnover, calculated in line with the income tax and corporate tax regulations, prior to tax deduction, taken for the year preceding the year in which the procedure has been initiated.",
+            "For undertakings providing financial services, as well as for insurance and reinsurance companies, total turnover referred to in paragraph 1 of this article shall be calculated in the following manner:",
+            "1) for undertakings providing financial services, after deduction of turnover tax, value added tax (indirect tax charges) and other taxes which apply directly to them, the sum of following income items shall be used:",
+            "(1) Interest income and similar incomes;",
+            "(2) income from securities (stock income and income from other variable yield securities, income from shares in undertakings, income from stocks in connected undertakings);",
+            "(3) income from fees and commissions;",
+            "(4) net profit from financial operations;",
+            "(5) other operating incomes.",
+            "2) For insurance and reinsurance companies, gross amount of charged premiums or premiums held in liability on the basis of insurance or reinsurance contracts concluded by, or on behalf of, insurance companies, after deducing from that amount the taxes charged on the premiums calculable on one contract or on the total amount of premiums.",
+            "For various forms of association of undertakings the total turnover referred to in paragraph 1 of this article is calculated as the sum of the total annual turnovers of the association members.",
+            "Foreign currency clause"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 8",
+        "texts": [
+            "Amounts given in euros in this law, as well as in the acts based on this law, are calculated in dinars by the medium exchange rate of the National Bank of Serbia on the day of calculation of annual turnover, or the day of payment of the ammount of issued measure.",
+            "II INFRINGEMENTS OF COMPETITION",
+            "Definition of infringement of competition"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 9",
+        "texts": [
+            "Infringements of competition are the acts or deeds of undertakings with objective or the consequence by which the competition is considerably limited, violated or prevented.",
+            "1. Restrictive agreements",
+            "Definition of restrictive agreement"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 10",
+        "texts": [
+            "Restrictive agreements are those made by undertakings with objective or the consequence to considerably limit, violate or prevente the competition on the territory of the Republic of Serbia.",
+            "Restrictive agreements could be contracts, certain items in contracts, specified or implicit, concerted practices, as well as the decisions of associations of undertakings, where:",
+            "1) the purchase or sale prices or other conditions of trading are determined directly or indirectly;",
+            "2) the production, market, technical development or investments are limited and controlled;",
+            "3) unequal conditions of operations are applied in same activities for different undertakings, through which the undertakings are put into an unfavourable position in relation to their competition;",
+            "4) the contract or agreement is conditioned with acceptance of additional obligations. that by their nature and trading habits and practice are not connected with the subject of the agreement;",
+            "5) the markets or procurement sources are divided.",
+            "Restrictive agreements are prohibited and void, except if excluded from prohibition pursuant to this law.",
+            "Exemptions"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 11",
+        "texts": [
+            "Restrictive agreements could be allowed if they contribute to improvement of the production and trade, or facilitate a technical or economic progress, providing the consumers with a fair share of benefits, under condition they do not impose limitations upon undertakings that are not necessary for achieving the goal of the agreement, or they do not facilitate removing the competition on a relevant market or in its significant part.",
+            "Individual exemptions"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 12",
+        "texts": [
+            "Upon request of participants in the restrictive agreement, the Commission may decide on exemption of certain individual restrictive agreement from the prohibition (hereinafter referred to as the individual exemption).",
+            "The party that submitted the request for individual exemption bears the burden of proof for the fulfilment of the conditions contained in the Article 11 of this law.",
+            "The period refered to by individual exemption specified in paragraph 1 of this Article may not exceed eight years.",
+            "The Government prescribes the contents of the request from the paragraph 1 of this article in more details.",
+            "Block exemptions"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 13",
+        "texts": [
+            "Exemption from the prohibition of a restrictive agreement may pertain to certain categories of the agreements, under the conditions in the article 11 of this law, as well as other special conditions pertaining to the kind and contents of the agreement and/or its duration.",
+            "Restrictive agreements that fulfil the conditions pursuant to the paragraph 1 of this article are not submitted to the Commission for exemption.",
+            "The Government prescribes the categories and special conditions pursuant to the paragraph 1 of this article in more details.",
+            "Agreements of minor importance"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 14",
+        "texts": [
+            "Agreements of minor importance are those made by undertakings with total market share on the relevant market of goods and services on the territory of the Republic of Serbia that does not exceed:",
+            "1) 10% share, if the agreement participants operate at the same level of the chain of production and trade (horizontal agreements);",
+            "2) 15% share, if the agreement participants are at different levels of production and trading chain (vertical agreements);",
+            "3) 10% share, if the agreement has the features of both horizontal and vertical agreements, or where it is difficult to determine whether the agreement is vertical or horizontal;",
+            "4) 30% share, in case of agreements with similar influence on the market made by different undertakings, if the individual market share of each of them does not exceed 5per cent on each separate market, on which the effects of the agreement are manifested;",
+            "Agreements of minor importance are allowed unless the purpose of the horizontal agreement is determination of prices or limitation of production or sale, or the division of the supply market, as well as if the purpose of the vertical agreement is determination of prices, or the division of the market.",
+            "2. Abuse of a dominant position",
+            "Dominant position on the market"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 15",
+        "texts": [
+            "Dominant position in a relevant market is deemed to be the position of an undertaking which, due to its market strength, may operate in the relevant market to a large extent independently in relation to the actual or potential competitors, customers, suppliers or consumers.",
+            "The market strength of such undertaking is determined in relation to the relevant economic and other indicators, in particular:",
+            "1) Structure of the relevant market;",
+            "2) Market share of an undertaking whose dominant position is being determined, especially if greater than 40% of the determined relevant market;",
+            "3) Actual and potential competitors;",
+            "4) Economic and financial strength;",
+            "5) Degree of vertical integration;",
+            "6) Advantages in access to supply and distribution markets;",
+            "7) Legal or factual market access obstacles for other undertakings;",
+            "8) Strength of the buyer;",
+            "9) Technological advantages, intellectual property rights.",
+            "Two or more legally independent undertakings may have a dominant position if they are connected by economic links in such way that they jointly operate on the relevant market or act like one undertaking (collective dominance).",
+            "The burden of proof of a dominant position on the relevant market rests on the Commission.",
+            "Abuse of a dominant position"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 16",
+        "texts": [
+            "The abuse of a dominant position in the market shall be prohibited.",
+            "Abuse of a dominant position in the market is deemed to be:",
+            "1) direct or indirect imposing of unjust purchase or sale price, or of other unfair business conditions;",
+            "2) limiting the production, market or technical development;",
+            "3) applying dissimilar conditions to equivalent transactions with other trading parties, thereby placing them at a competitive disadvantage;",
+            "4) conditioning the contract with the other party accepting additional obligations, which, by its nature or by commercial practice have no connection with the subject of the contract.",
+            "III CONCENTRATION OF UNDERTAKINGS",
+            "Definition of Concentration"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 17",
+        "texts": [
+            "A concentration of undertakings shall be deemed to arise when:",
+            "1) two or more previously independent undertakings merge;",
+            "2) one or more undertakings acquire direct or indirect control, within the meaning of Article 5, paragraph 2 of the present law, of another undertaking or more undertakings, or a part, or parts of other undertakings that may constitute an independent business entity;",
+            "3) two or more undertakings invest jointly into a new undertaking or to acquire joint control, pursuant to definition as in article 5 paragraph 2, over an existing undertaking, that performed on a lasting basis and with all the functions of an independent undertaking.",
+            "Two or more transactions among same undertakings, conducted within two years, shall be considered as one concentration, whereas the day of its arising shall be the day of the last transactions.",
+            "Exemptions"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 18",
+        "texts": [
+            "It is not deemed that the concentration of undertakings has arisen if:",
+            "1) credit institutions or other financial institutions or insurance companies, in the course of their regular activities, hold on a temporary basis shares or stakes with a view to reselling them, provided that they dispose them within one year of the date of acquisition and that they do not exercise rights in respect with a view to determining the commercial behaviour of that undertaking;",
+            "2) an investment company acquires a share in companies, provided that the rights in respect are exercised only to maintain the full value of those investments and not to determine directly or indirectly the competitive conduct of those undertakings",
+            "3) the joint investment has purpose of the coordination of market activities of two or more undertakings, which remain fully legaly independent, under conditions provided by Articles 10 and 11 of this law;",
+            "4) the bankruptcy manager acquires control over an undertaking.",
+            "The Commission may extend the period in the paragraph 1 item 1) of this article, upon the request of a share or stake acquirer, under condition that the acquirer proves that the selling of shares or of stake was not reasonably possible, within that period, but by no longer than additional six months.",
+            "Appraisal of concentration"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 19",
+        "texts": [
+            "Concentrations of undertakings are allowed except if they would significally limit, violate or prevent competition in the market of the Republic of Serbia as a whole or in a relevant part thereof, in particulary as a result of the creation or strengthening existing dominant position.",
+            "The concentrations shall be appraised in view of:",
+            "1) structure of a relevant market;",
+            "2) actual and potential competition;",
+            "3) market position of concentration participants and their economic and financial power;",
+            "4) possibility to choose the suppliers and users;",
+            "5) legal and other barriers to entry the relevant market;",
+            "6) level of competitiveness of concentration participants;",
+            "7) supply and demand trends for certain goods or services;",
+            "8) technical and economic development trends;",
+            "9) interests of consumers.",
+            "IV COMMISSION FOR PROTECTION OF COMPETITION",
+            "Position of the Commission"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 20",
+        "texts": [
+            "The Commission is an independent organization that exercises competencies in accordance with this law.",
+            "The Commission has a status of a legal entity.",
+            "The Commission is accountable for its operation to the National Assembly of the Republic of Serbia (hereinafter referred to as the Assembly), to which it presents its Annual Report on its work by the end of the February of the current year for the preceding year.",
+            "Competencies of the Commission"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 21",
+        "texts": [
+            "The Commission is competent to:",
+            "1) decide on rights and obligations of undertakings, in accordance with the law;",
+            "2) impose administrative measures according to this law;",
+            "3) be included in defining the rules in the field of protection of competition;",
+            "4) propose to the Government the regulation for implementation of this law;",
+            "5) enact instructions and guidelines for implementation of this law;",
+            "6) monitor and analyse the competition conditions on particular markets and in particular sectors;",
+            "7) submitt opinion to the competent authorities on draft rules, as well as on current rules that have an influence of the competition on the market;",
+            "8) issue opinions in view of implementation of rules in the field of protection of competition;",
+            "9) establish international cooperation in the field of protection of competitiveness, for fulfilment of international obligations in this area, and collecting information on protection of competitiveness in other countries;",
+            "10) cooperate with the state authorities, territorial autonomy and local-self-government bodies, for providing the conditions for implementation of this law and other rules that regulate the issues of importance for protection of competitiveness;",
+            "11) perform acitivities with respect to raise awareness on the need for protection of competition;",
+            "12) keep the records on agreements announced reported, on undertakings that have a dominant position on the market, as well as on concentrations according to this law;",
+            "13) organize, perform and control the implementation of measures with which the protection of competitiveness is provided;",
+            "14) perform other operations in accordance with the law.",
+            "The Commission performs the duties from the paragraph 1, items 1), 2), 3), 4), 5), 6), 7), 8), 9), 10) and 13) of this article, as assigned duties.",
+            "Organisation of the Commission"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 22",
+        "texts": [
+            "The bodies of the Commission are the Council of the Commission (hereinafter referred to as the Council) and the President of the Commission.",
+            "The Council passes all decisions and acts on the issues in competence of the Commission, unless it is stipulated differently by the law and the internal rules of the Commission ((hereinafter referred to as the Statute)",
+            "The Council consists of the President of the Commission and four members.",
+            "The President of the Commission represents the Commission, decides on the issues in its competence and performs other duties in accordance with the law and the Statute.",
+            "Election of the bodies of the Commission"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 23",
+        "texts": [
+            "The President of the Commission and the members of the Council are elected among eminent economic and legal experts, with at least ten years of working or professional experience and considerable achievements and/or practice in the relevant area, in particularly in the field of competition protection and acquis communautaire, and with reputation of being objective and impartial persons.",
+            "In the Council, the President of the Commission included, experts from both of the relevant fields referred to in paragraph 1 of this Article shall be represented, with at least two representatives.",
+            "The President of the Commission and the members of the Council are elected and dismissed by the Assembly, upon the proposal of the parlamentary committee with competence for issues of commerce (hereinafter referred to as the Parlamentary Committee).",
+            "The election of the President of the Commission and the members of the Council is done on two separate candidate lists that compose at least the same or no more than a doubled number candidates than the number to be elected.",
+            "For the President of the Commission, or the members of the Council, the candidates who receive the most votes on each list shall be elected, or the first next candidate or candidates on the list for members of the Council of the appropriate profession until the conditions referred to in paragraph 2 of this Article are fulfilled.",
+            "The same person could be a candidate on both lists and if elected on the list for the President of the Commission, the results of voting for that person on the other list shall not be considered.",
+            "The election of the bodies of the Commission is done through a public contest invited by the Chairperson of the Assembly, at least three months before the expiry of the mandate of the President of the Commission and the members of the Council or immediately after their dismissal in view of the article 24 of this law.",
+            "Term of office"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 24",
+        "texts": [
+            "President of the Commission and members of the Council are elected for a five year term of office. The term may be renewed.",
+            "Term of office of the President of the Commission and/or members of the Council could terminate:",
+            "1) with expiration of the term of office;",
+            "2) by dismissal under reasons foreseen by the law;",
+            "3) by legal or factual reasons that make it impossible to perform duty (resignation, fulfillment of conditions for retirement, serious health condition that disables the fulfillment of the duties etc).",
+            "The reasons for dismissal from duty in view of paragraph 1 item 1) and 3) of this article, shall be determined by the Parliamentary Committee.",
+            "The Parliament dismisses the President of the Commission or a member of the Council from duty, upon proposition of the Council or the Parlamentary Committee, if:",
+            "1) it is undeniably determined that the information stated during the candidacy is incorrect, or incomplete in the sense of omitting of information which could significantly diminish the possibility of the election;",
+            "2) the circumstances from article 27 of this act should occur;",
+            "3) in case of serious violation of this law or a Code of Ethics.",
+            "Operation of the Council"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 25",
+        "texts": [
+            "The Council decides by a majority of votes of all members.",
+            "In the infringement procedure, an informant from the Council is designated, who shall in cooperation with the official assigned to lead the procedure, prepare the proposition of the decision and shall report to the Council on the reasons and all important facts and circumstances in the case.",
+            "President of the Commission shall determine the informant at the moment the procedure is initiated.",
+            "President of the Commission is due to preside and manage the Council, sign the decisions and other acts and ensure their execution.",
+            "The Council may select a person within its ranks, who would perform duties as in paragraph 4 in case of the exclusion or prevention from duty of the President of the Commission in the manner and under conditions and authorizations stated by the Statute.",
+            "The Staff of the Commission"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 26",
+        "texts": [
+            "The Staff of the Commission shall perform duties under competencies of the Commission, in accordance with this law, the Statute and other acts of the Commission.",
+            "General labour regulations shall be applied to the rights and obligations of the staff of the Commission.",
+            "With regard to legality of operation, expertise, political neutrality, impartialaty, the use of official language, qualifications for employment and training, as well as office management, regulations relevant for public administration shall be applied.",
+            "The Staff of the Commission is managed by Secretary.",
+            "Secretary is appointed by the Council by majority of the votes.",
+            "Person eligible for the position of Secretary shall be faculty of law or economy graduate, with at least ten years of working experience and knowledge of competition protection.",
+            "Secretary shall be accountable for its work to the Council.",
+            "Incompatibility of functions and jobs"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 27",
+        "texts": [
+            "President of the Commission and members of the Council may not perform any other public function or professional activity, during their term, and they may not conduct any other public or private affair with a fee, including consultant services and advices.",
+            "The prohibition from paragraph 1 of this article does not apply to scientific activity, teaching activity at the university and activities concerning a specialized training.",
+            "President of the Commission and members of the Council may not be members of bodies of politic parties, nor to promote program or political positions of political parties in public.",
+            "Conflict of interest"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 28",
+        "texts": [
+            "President of the Commission and members of the Council have a status of an official in the sense of the law that regulates the conflict of interest while performing public functions.",
+            "President of the Commission and member of the Council, whose membership expired, cannot be representatives in a procedure according to this act, at least two years after their membership or employment ended.",
+            "President of the Commission and member of the Council and the staff, when becoming a member, or beginning an employment, provide a signed statement that there are no obstructions for their selection, determined in paragraph 1 of this article.",
+            "With regard to staff of the Commission, regulation relevant for conflict of interest of public servants shall be applied.",
+            "Code of Ethics"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 28a",
+        "texts": [
+            "The Commission shall adopt a Code of Ethics that includes standards of behavior and conduct of members of bodies and employees of the Commission, in order to preserve the dignity of the organization, independence and impartiality, to raise the awareness of responsibility in their work, as well as to protect and promote professional integrity.",
+            "Salaries and compensations"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 29",
+        "texts": [
+            "President of the Commission and members of the Council are entitled to a salary or compensation for working in the Commission.",
+            "Statute and other acts of the Commission"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 30",
+        "texts": [
+            "Statute of the Commission determines the internal rules of organization, manner of operation and implementation of procedures, as well as the authorization to issue other acts of the Commission.",
+            "The Statute of the Commission is passed by the Council, with the previous authorisation of the Government.",
+            "The Statute shall be published in the Official Bulleting of the Republic of Serbia.",
+            "Financing of the Commission"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 31",
+        "texts": [
+            "Funds necessary for the activities of the Commission shall be provided out of income generated particularly from:",
+            "1) tariffs to be paid to Commission pursuant to the provisions of this law;",
+            "2) donations, except for donations of undertakings to wich this law shall apply;",
+            "3) income gained by sale of publications of the Commission;",
+            "4) other sources pursuant to the law.",
+            "Compensation referred to in paragraph 1 item 1) of this article shall be determined by the Tariff determened by Commission and confirmed by the Government.",
+            "Tariff referred to in paragraph 2 of this article shall be published in the Official Gazette of the Republic of Serbia.",
+            "Financial Plan"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 32",
+        "texts": [
+            "Financing of the Commission shall be made according to the financial plan prepared by the Commission for each year and submitted to the Government for approval at the latest until November 1, of the current year for the following year.",
+            "If financial plan would not be approved in line with provision of paragraph 1, financing of the Commission shall be performed under the limit of expenditure in previous year, until approaval of financial plan.",
+            "The financial plan shall specify the total revenues and expenditures of the Commission, including the allocation of reserve funds, as well as the elements for determining the salary expenses.",
+            "Total expenditures of the Commission contained in Financial Plan, including reserves, may not be higher than the expenditures necessary for the efficient implementation of the law.",
+            "If it is determined by the annual statement of income and expenses that the total realized income of the Commission exceeds realized expenses, the difference, after allocation of funds to reserves, shall be paid into the budget of the Republic of Serbia.",
+            "If operation of the Commission would be jeopardized due to unsufficiant income, Commission shall provide information and proposal of measures to the Government, including possibility of budget support.",
+            "Balance sheet of the Commission shall be subject to the annual auditing by state auditing institution.",
+            "The Commission shall issue its balance sheet at the latest three months upon the completion of the financial year.",
+            "V PROCEDURE BEFORE THE COMMISSION",
+            "1. General provisions of the Procedure before the Commission",
+            "Party in the procedure"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 33",
+        "texts": [
+            "The party in the procedure before the Commission is the undertakings that notifies concentration or requests individual exemption, as well as the undertaking against which the investigation procedure is initiated.",
+            "Claimants, persons that notified potential infringements regarding the competition, providers of information and data, experts and organizations whose analyses are used in the procedure as well as other public entities and organizations cooperating with the Commission in the procedure are not considered as parties in the procedure.",
+            "Applicability of General Administrative Procedure"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 34",
+        "texts": [
+            "The provisions of the law on the general administrative procedure shall apply to the procedure before the Commission unless otherwise determined by this law.",
+            "Initiation of procedure ex officio"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 35",
+        "texts": [
+            "The procedure of investigating the infringement of the competition shall be initiated ex officio when the Commission learns on the basis of submitted initiatives, and otherwise available information that there are plausible indications of the infringement, as well as in the case of investigation of the concentration pursuant to article 62 of this law.",
+            "The order on the initiation of the procedure passed by the President of the Commission must contain a description of the action or the provisions of the law which might present the infringement of the competition, legal basis and reasons to initiate the procedure as well as an invitation to all natural and legal persons to send the Commission the documents and other relevant information they have.",
+            "Appeal against the order on initiation of the procedure is not allowed.",
+            "Commission shall provide information on the outcome of initiative to the person that submitted initiative within 15 days of its submission.",
+            "Initiation of the procedure upon request of the party"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 36",
+        "texts": [
+            "The procedure as to the approval of both concentration and individual exemption shall be initiated and performed upon the party’s request, unless otherwise determined by this law.",
+            "Expeditious procedure"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 37",
+        "texts": [
+            "The Commission may pass the decision directly, without investigation being performed if the party states the facts in its request or submits the evidence on the basis of which the state of the facts could be determened or it could be determened from the facts known to the Commission, that there is an grounded assumption in the procedure upon notification that the concentration fulfills requirements of article 19 of this law, unless conditions for ex officio investigation of concentration are determented.",
+            "The decision in expeditious procedure shall be passed by the President of the Commission.",
+            "Decisions passed by the Commission"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 38",
+        "texts": [
+            "On the infringement of the competition as well as on individual exemption and approval or prohibition of the concentration, Commission shall pass a decision.",
+            "Before passing a decision on possible infrigement of the competition, Commission shall notify the party on important facts, evidence and other elements on wich its decision would be based upon and it shall invite the party to present its case within given timeline.",
+            "The decision on measures for protection of competition is composite part of the decision that specifies the infringements relating to competition",
+            "Decisions of the Commission are final in administrative procedure and administrative dispute against them is allowed.",
+            "Procedural decisions, interim measures and putting forward the evidence shall be passed in the form of the order.",
+            "The order is in written form if it should be delivered to the party or to the third party, or to be published.",
+            "Orders for provision of evidence are passed by authorized official of Commission, unless otherwise determined by this law.",
+            "Appeal against the order referred to in paragraph 5 of this Article shall not be allowed, unless the present law provides otherwise.",
+            "Appeal against the order shall not postpone its execution.",
+            "Delivery"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 39",
+        "texts": [
+            "Delivery of letters (invitations, decisions, orders and alike) shall be in accordance with rules of general administrative procedure.",
+            "Exceptionally, in case of repeated delivery, or in case of delivery in the form of public statement, the contents of the letters shall be published on the Commission’s web site and shall be considered delivered after 15 days from the date of publication, unless the Commission decides to extend that period.",
+            "The party may not object to inappropriate delivery if the letter is delivered to the address of the party’s seat as registered in the Business Registry.",
+            "In the procedure against connected undertakings, the delivery to one undertaking shall be considered as delivery to all related undertakings.",
+            "Publishing"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 40",
+        "texts": [
+            "The decision on the infringement of the competition as well as the order on initiation of the ex officio procedure shall be published in the Official Gazette of the Republic of Serbia and on the Commission’s web site.",
+            "The order to initiate the procedure shall not be published if the President of the Commission assesses that the course of events in the procedure might be jeopardized upon the publication.",
+            "Investigation procedure"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 41",
+        "texts": [
+            "Investigation procedure comprise activities in providing evidence with objective of correct finding of the state of the matter, providing the statements of parties and witnesses, expertise, collecting data, documents and items, as well as performing inspections and temporary dispossessions.",
+            "Investigation procedure shall be executed by an authorized official of the Commission’s staff, appointed by the President of the Commission for each case in particular.",
+            "Orders for inspection and expertise are passed by the President of the Commission.",
+            "The list of authorized experts in procedure before Commission is determined by the Council.",
+            "Official identification of the Commission"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 42",
+        "texts": [
+            "The officials of the Commission who are authorized to execute the activities in the investigation procedure shall be provided with official identifications.",
+            "Official identifications stipulated in paragraph 1 shall be issued by the President of the Commission.",
+            "The Government shall specify the form and contents of the official identification stipulated in paragraph 1 of this article.",
+            "Access to the file and documents"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 43",
+        "texts": [
+            "The party shall have the right to inspect the file and to copy certain documents at its own expense.",
+            "Records on voting, official reports and draft decisions, records labeled as confidential, as well as protected data cannot be either inspected or copied.",
+            "Persons who submit an initiative for the inspection regarding the infringement of the competition, information providers and other persons able to prove their legally-founded interest in monitoring the procedure have the right to be informed about the course of the procedure.",
+            "The Council shall pass the act to regulate the details of the content and the way of notice specified in paragraph 3 of this Article.",
+            "Submitting documents for inspection"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 44",
+        "texts": [
+            "The order implies that parties in the procedure to submit, or to provide for inspection the relevant information in written, electronic or any other form, documents, items that contain the information as well as other items that may be subject to evidence in the procedure, that party is obliged to possess or there is grounded indication of possession.",
+            "In case the party would not submit, or provide the required document, information or item for inspection by the time the procedure is closed, the Commission shall pass the decision by taking into account available evidence in the case, where doubts that may arise from lack of evidence shall be used against the party that did not proceed in accordance with the order.",
+            "Protected information"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 45",
+        "texts": [
+            "Following request of the party, a person that filed an intitiative for the inspection regarding the infringement of the competition, or a other person that submits or provides the required information in the procedure for inspection, the measure on protecting the source of information or particular information (protected information) shall be ordered if assessed that the interest of the party in question is justified and more important than public interests regarding the subject of that request.",
+            "The party that submits the request stipulated by paragraph 1 of this article shall present the possibility of substantial damage as likely due to unveiling the source of information or information specified in the request.",
+            "The request from paragraph 1 of this Article shall be decided by an order of the President of the Commission, and a special appeal against such order that rejects or denies the request shall be allowed. The Council shall decide on such special appeal.",
+            "Protected information shall not be considered information of public importance with respect to the law that defines the free access to information of public importance.",
+            "Renewal of the procedure"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 46",
+        "texts": [
+            "Procedure before the Commission could be renewed according to the provisions of general administrative procedure, as well as in the case of infrigments of conditional approval of the concentration or individual exemption.",
+            "2. Specific regulations of procedure regarding the infringement of the competition"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 47",
+        "texts": [
+            "Where the trend rigidity of prices or other circumstances suggest that competition may be restricted or distorted on the market, the Commission may conduct its inquiry into a particular sector of the economy or into a particular type of agreements across various sectors.",
+            "With objective to execute sector analyses regarding first paragraph of this Article, the Commission may request that undertakings submit all necessary information or documents and may carry out any inspections necessary for that purpose.",
+            "The Commission may explicitly require that market participants submit all agreements, decisions or notes with respect to concerted practices .",
+            "The Commission is obliged to publish the report on executed sector inquiry on its internet site and other appropriate manner and may invite undertakings to comment on them.",
+            "Obligation to provide required information"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 48",
+        "texts": [
+            "If there is grounded indication that required information, documents or items are possessed by other person, the Commission shall issue the order for their submission, or inspection.",
+            "Any person is due to submit, or provide for inspection the information, documents or items which are the subject of the request, except in cases stipulated by the law.",
+            "A request for providing information especially contains the details about who and what it relates to, the deadline , as well as warnings about consequences if information is not provided, that is, if fake information is provided.",
+            "Following request of a person who is obliged of submitting, or providing the information for inspection, the Commission may inspect and collect the information in that person’s premises.",
+            "Cooperation of state entities and organizations"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 49",
+        "texts": [
+            "Commission may submit a request for information to other state entities and organizations as well.",
+            "State entities and organizations are due to cooperate with the Commission and to proceed as stipulated in paragraph 1 of this article, within the given deadline, or to submit the information, documents or other required evidence they possess or to provide an explanation about the subject of the request.",
+            "Obligation from paragraph 2 of this article specifically refers to entities and organizations in charge of statistics, tax authorities, local self-government authorities and organizations, chambers of commerce and other organizations that perform public authorities.",
+            "In case of an untimely or incomplete action, or lack of action of the entity or organization as in paragraph 1 of this article, the Commission may provide the information about that to the entity that is with authority in control of the operation of an entity or organization in question, or to wich it is accountable for operation, with a demand to take necessary actions in order to acquire needed information.",
+            "In case of a lack of cooperation after acting in accordance to the paragraph 4 of this article, or multiple failed attempts of the Commission to establish cooperation with a certain state entity or organization, the Commission may publish the information related to the matter.",
+            "Cooperation with the police"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 50",
+        "texts": [
+            "As per demand of the Commission, the police will assist during certain actions in the procedure, and particularly with inspections and provisional repossessions.",
+            "Provisions of article 49 paragraphs 4 and 5 refer to cooperation with the police as well.",
+            "Privileged communication"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 51",
+        "texts": [
+            "Letters, notices and all other forms of communication between the undertaking against which the procedure is on going, and its attorneys in the scope relevant to the procedure itself, shall be considered as privileged communication.",
+            "Provisions of this law on protected information will be applicable to privileged communication as appropriate.",
+            "If doubted that the misuse of privileged communication occurred, President of the Commission may reassess the content, or decide on suspension of this option in relation to some of its forms.",
+            "2. Special provisions on procedures for breaches of competition",
+            "Authorizations in inspection"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 52",
+        "texts": [
+            "Authorized officials in course of investigation, may:",
+            "1) enter and check business premises, vehicles, land and other premises at the seat of the party and other places where the party or a other person perform business and other activities;",
+            "2) inspect business and other documents, regardless of the manner that these documents are stored;",
+            "3) repossess, photocopy or scan business documentation, and if this is not possible due to technical reasons, the authorized official may repossess the business documentation and keep it for the time necessary to make copies of this documentation;",
+            "4) seal business premises and business documents for the time of the investigation;",
+            "5) take oral or written statements from the representative of the party or its employees, as well as the documents on the facts that are the subject of the investigation, and if a written statement is necessary, the authorized official must set a date until which this statement must be delivered;",
+            "6) perform other actions that are in accordance with the objective of the procedure.",
+            "The party must be provided with the possibility to be present at the scene of investigation if demanded, unless the intention of the demand is to prolong and impede the procedure.",
+            "Unannounced inspection"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 53",
+        "texts": [
+            "If there is a plausible concern of danger of disposal or altering evidence that are in possession of the party or other person, unannounced inspection may be performed.",
+            "Unannounced inspection is performed by sudden control of the premises or information, documents and items on the scene, on which the party, or holder of premises is notified at the time of the investigation and on the scene.",
+            "Entering the premises"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 54",
+        "texts": [
+            "If it is necessary that the investigation is performed in the premises of the party or other person, the authorized official of the Commission that is conducting the investigation is obligated to show his official identification to the owner or holder of these premises, and to give the decision on conducting the investigation in these premises, and to demand to enter the premises.",
+            "If the party does not allow access to the premises, authorized official can enter the premises without permission, and with the assistance of the police if necessary.",
+            "If it is necessary to conduct the investigation in the apartment or facility attached, and the owner, or. holder of the premises objects, the Commission will immediately ask for an appropriate court order.",
+            "The court order may be issued by the court of jurisdiction for judicial review against decisions of the Commission.",
+            "Holder of the apartment may be present during the inspection of the appartment in person or by representation, along with two witnesses.",
+            "If the owner or the holder of the apartment is not present, two adult witnesses must be present at the investigation.",
+            "Temporary repossession of documents and items"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 55",
+        "texts": [
+            "If during the investigation, documents, items or items that contain information or other items relevant for the decision in the process are found, they can be temporarily possessed until all relevant information and facts from these documents or items are established, or until the process is ended before the Commission at the latest",
+            "The order on temporary repossession of documents or items, and the order on their return are presented by the authorized official conducting the investigation, or procedure.",
+            "A written certificate on temporary repossession is issued at the scene to the person from whom documents or items are taken.",
+            "Expenses of the repossession and storage, as well as the possible damage of documents and items, falls under expenses of the procedure.",
+            "Interim measures"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 56",
+        "texts": [
+            "In cases of urgency due to the risk of serious and irreparable damage to persons to which actions or acts in the process directly refer, the Commission can an order a ban of certain actions or execution of acts, or order the obligation of taking actions that prevent or remove their damaging consequences.",
+            "The order from paragraph 1 of the present article, against which a separate appeal is allowed, shall be made by the President of the Commission, while the Council shall decide on the appeal against such order.",
+            "Interim measures from paragraph 1 of this article can last until the decision in that procedure is passed.",
+            "Administrative measures issued by the Commission"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 57",
+        "texts": [
+            "If the Commission finds that an infringement to the competition was made or other violation of this law is commited, it will issue a measure for protection of competition, measure for removal of results of competition infringement or other measure proscribed by this law.",
+            "In determenation of the amount of fine under measure for protection of competition or procedural penalty, intention, gravity, consequences and period of the infringement to the competition are considered.",
+            "Payment of the fines are into the account of the state budget.",
+            "The compulsory enforcement of a measure to protect competition or procedural penalty, as well as the refund in case of their reduction or annulment by a court decision shall be conducted by the tax authority in accordance with the regulations governing the collection of taxes.",
+            "For measures against associations of the undertakings, all members of the association are equaly accountable.",
+            "Government prescribes criteria for measurement of the amounts of fines, the methodology and payment timeframe under the measure for protection of competition and procedural penalties, as well as conditions for definition of other measures as in paragraph 1 of this article, in more details.",
+            "Stay of proceedings"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 58",
+        "texts": [
+            "The Commission may issue an order for stay of proceedings of competition infringement investigation whereby a measure referred to in Article 59 of this law has been prescribed, if the party, based on the content of the order for initiation of proceedings, or the facts established in the proceedings, submits a proposal of commitments that is willing to voluntary undertake in order to eliminate the possible infringements of competition, under terms and conditions for execution of the measure.",
+            "The proposal referred to in paragraph 1 of this Article, the party may submit the latest before the reception of the notification referred to in Article 38, paragraph 2 of this law.",
+            "Notice on submission of the party’s proposal referred to in paragraph 1 of this article, which contains a brief description of the proposal and the essential elements of the case, shall be published by the Commission on its website, along with an invitation to all interested parties to submit written remarks, views and opinions within 20 days from the date of publication of this notice.",
+            "If the Commission, on the basis of an analysis of the state of the market, determines that it is likely that, based on the proposed commitments, the goal of the measure referred to in Article 59 of this law shall be achieved, it shall issue an order prescribing a measure based on the submitted proposal.",
+            "The Commission is under no obligation to accept the proposal referred to in paragraph 1 of this article.",
+            "The order for stay of proceedings shall specify a time period for execution of the undertaken commitments, and for submission of evidence on fulfillment of conditions prescribed by the measure.",
+            "The proceedings shall resume within a time period not exceeding three years from the day of issuing of the order referred to in paragraph 1 this Article if:",
+            "1) Substantial changes of circumstances, based on which the order for stay was issued, occur;",
+            "2) The party fails to fulfill the commitments prescribed by the measure within the time period specified for fulfillment, or does not provide adequate evidence to that effect;",
+            "3) The Commission finds that the order for stay of proceedings was issued on the basis of inaccurate, false, incomplete, or misleading information provided by the party.",
+            "The Commission shall ex officio take into account the conduct of the party which acts under the order for stay of proceedings.",
+            "The order to stay the proceedings, or to resume them, shall be issued by the Council.",
+            "Measures for removal of results of competition infringement"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 59",
+        "texts": [
+            "Commission may issue measures for removal of results of competition infringement, aside the decision of the infrigement and/or measure for protection of competition, with goal to eliminate or to prevent the infrigement of the same or similar kind, giving the order for certain behavioure of to ban a certain behavioure (behavioural measure).",
+            "Measures from paragrah 1. of this article have to be proportionate to the infringement in question and in direct relation with acts or deeds that caused it.",
+            "If infrigement to the compitition is determined, as well as significant danger of its repetition as result of the structure of the undertaking, Commission may issue order to change the structure of undertaking with goal to eliminate that danger and/or to re-establish the structure as it existed before the infringement (structural measure).",
+            "Structural measure is issued if there are no conditions to issue equaly or similarly effective behavioural measure or if behavioural measure would present larger burdain for undertaking than structural measure in question, or if earlier behavioural measure related to the same infringement had no effect or was incompletly fulfilled.",
+            "Structural measure may particularly require decomposition of the structure of the undertaking through sell-off of its parts or property to the persons that are not connected to that undertaking.",
+            "The Government shall determine conditions for provision of measures from paragraph 1 and 3 of this article in more detail.",
+            "3. Specific regulations of procedure regarding restrictive agreements",
+            "Procedure upon request for individual exemption"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 60",
+        "texts": [
+            "Decision upon request for individual exemption is to be passed within 60 days from the day of submitting the request.",
+            "The decision on individual exemption especially must comprise a date of entering into force, the expiration date of the individual exemption, and the conditions of the exemption.",
+            "Prolongation of the expiration date for individual exemption can be requested by a special request that is submitted four months at the latest before the expiration date from the decision on individual exemption.",
+            "As per request from paragraph 3 of this article, the same or different conditions and expiration date on the individual exemption can be determined.",
+            "The Commission may revoke the decision referred to in paragraph 1 of this Article in the proceedings resumed ex officio under Article 46 of this Law, within one year after its adoption, if the conditions under which the exemption was granted have changed substantially, or it may annul the said decision if the exemption is based on incorrect or falsely presented information, or if the exemption is being abused.",
+            "For issuing the decision upon submitted request from paragraphs 1 and 3 of this article, applier must pay a tariff in the amount that was established by the Tariff from article 31 paragraph 2 of this law.",
+            "4. Specific regulations of procedure regarding concentrations",
+            "The obligation to notify the concentration"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 61",
+        "texts": [
+            "A concentration must be notified to the Commission in case:",
+            "1) the combined aggregate annual turnover of all undertakings concerned made on the global market in the preceding year is above €100 million, with the condition that at least one participant in the concentration on the market of Republic of Serbia has incomes over €10 million;",
+            "2) the aggregate annual turnover of at least two undertakings of concentration made on the market of Republic of Serbia is higher than € 20 million in the preceding year, if at least two undertakings concerned have annual turnover more than €1 million each in same period.",
+            "On the calculation of the total turnover from paragraph 1 of this Article, the income that these participants make on the market between themselves will not be included.",
+            "Concentration through company take-over according to relevant legislation, has to be notified regardless of conditions in paragraph 1 of this article.",
+            "Investigation of the concentration ex officio"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 62",
+        "texts": [
+            "After having knowledge of the conducted concentration, the Commission may conduct investigation of the concentration if the mutual market share of the participants in concentration on the market of Republic of Serbia is 40%, or in case of grounded indication that concentration would not comply with conditions prescribed as in article 19 or in other cases of concentration which was not notified or approved according to this law.",
+            "If upon notification Commission would determine conditions as in paragraph 1, procedure shall be continued ex officio upon the order by President of the Commission.",
+            "The burden of proof of the market share from paragraph 1 of this article is on the Commission.",
+            "The Commission is obliged to reach a decision in the investigation of concentration procedure within four months as of the beginning of the investigation ex officio.",
+            "Notification"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 63",
+        "texts": [
+            "Notification of concentration is submitted to the Commission prior to its implementation, yet not later than 15 days of:",
+            "1) conclusion of the agreement or contract;",
+            "2) announcement of public bid;",
+            "3) acquisition of a control.",
+            "Notification from paragraph 1 of this article may be submitted when the undertakings show intent for closing the agreement, by signing the letter of intent, announcing the intent to make a bid or in other manner.",
+            "When the control over the entire or over the parts of one or more undertakings in the market is gained by another undertaking, the notification shall be submitted by the undertaking in control, and in case of joint ventures, the notification must be effected jointly by the undertakings establishing joint venture.",
+            "The Government shall specify the content and the manner for notification of concentration in more detail.",
+            "Suspension of concentration"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 64",
+        "texts": [
+            "Until the decision of the Commission, the implementation of the concentration shall be halted.",
+            "Pursuant to the provisions in article 62  of this law, undertakings must stop implementing concentration as of the date they received such order.",
+            "The provision of paragraph 1 and 2 of this article shall not prevent the implementation of a public bid which has been notified to the competent body in accordance with the law regulating takeovers, or privatization procedure, provided that the acquirer does not exercise the voting rights attached to the rights acquired, or does so only to maintain the full value of those investments and on the basis of the approval provided by the Commission.",
+            "Upon request for approval as in paragraph 3 of this article, order is passed by the President of the Commission.",
+            "Decision on appraisal of concentration"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 65",
+        "texts": [
+            "The Commission is required to issue a decision on the notification of concentration within a month from the date of receipt of the complete notification pursuant to the regulations referred to in Article 63, paragraph 4 of this law, in accordance with Article 37 of this law, or the order for conducting the investigation proceedings referred to in Article 62, paragraph 2 of this law.",
+            "If the decision upon notification is not made within the timeline from paragraph 1 of this article or official investigation of concentrations is not initiated pursuant to article 62 paragraph 4 of this law, concentration is considered to be approved.",
+            "Commission shall approve concentration if conditions as in article 19 are fulfilled or prohibit otherwise.",
+            "If it is determined that the notification does not meet the requirements of Article 61 of this law, or that the notifying party has not completed the incomplete notification by order of the Commission, the notification shall be rejected by an order issued by the President of the Commission.",
+            "For issuing the decision upon notification of concentration, the applicant is to pay a tariff in the amount established by the Tariff from article 31 paragraph 2 of this law.",
+            "If the notification of concentration is rejected for reasons of non fulfillment of requirements from the Article 61 of this law, the tariff referred to in paragraph 5 of this Article shall not be paid, or returned to the notifying party.",
+            "Conditional approval of concentration"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 66",
+        "texts": [
+            "If the Commission estimates that conditions for approval of concentration are not fulfilled, they shall notify the applicant on important facts, evidence and other elements which the decision will be based on and will invite him to present his case within the given timeline.",
+            "The applicant may suggest the conditions that is willing to accept so that the the concentration could meet the requirements for approval.",
+            "The Commission may issue approval with regard of suggested conditions for implementation of concentration, if it is estimated that they meet the requirements as in article 19 of this law and it shall declare restrictions and conditions, as well as the obligations, according to which they can be fulfilled and control the term for their implementation (conditional approval).",
+            "Measure of deconcentration"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 67",
+        "texts": [
+            "If a concentration has already been implemented and the concentration has been declared incompatible with the provisions of this law or has been implemented in contravention of a condition, the Commission may instruct the undertakings to divide the concentration, sell shares, break a contract and/or take other measures necessary for establishing and preservation of the competition (measure of deconcentration).",
+            "Decision from paragraph 1 of this article in particularly comprise the time limit and special conditions of implementation of given order.",
+            "5. Measures for protection of competition and procedural penalty",
+            "Measure for protection of competition (Infringement fines)"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 68",
+        "texts": [
+            "A pecuniary fine up to 10% of total annual income earned in the territory of the Republic of Serbia shall be imposed on an undertaking, calculated with regard of article 7 of this law, if:",
+            "1) abuses dominant position on relevant market under article 16 of this law;",
+            "2) concludes or implements a restrictive agreement based on article 10 of this law, or the restrictive agreement which was not excluded under article 60 of this law;",
+            "3) does not perform or execute protective measure or the measure of deconcentration under articles 59 and 67 of this law;",
+            "4) implements concentration that was not approved under article 65 of this law or does not obey order to halt the concentration under article 64 of this law.",
+            "Time limit to pay the fine is determined by the decision of the Commission and shall not be shorter than three months or longer than one year from the day of the decision.",
+            "The measure for protection of competition may not be imposed after the lapse of five years from the day of commission of the act or failure to fulfill commitments, or from the last day of the time interval of commission of the act referred to in paragraph 1 of this Article.",
+            "The statute of limitationsreferred to in paragraph 3 of this Article shall be interrupted by any action of the Commission undertaken to determine the acts referred to in paragraph 1 of this Article, and to impose the measure for protection of competition. When the Commission conducts proceedings against a number of undertakings or associations of undertakings, statute of limitations is interrupted on the day of delivery of a submission of the Commission to any of the undertakings that has the status of a party to the proceedings.",
+            "After each interruption, the statute of limitations starts running from the beginning, but the proceedings of competition infringement investigation may not be lead after the passage of the double period specified in paragraph 3 this Article.",
+            "Measure for protection of competition may not be charged after passage of five years from the day the decision of the Commission has become enforceable, and in case the administrative court proceeding has been initiated, after the day the court decision became final.",
+            "The statute of limitations shall be interrupted by any action of the competent authority undertaken to collect the measure for protection of competition, and starts running from the beginning, but the collection process may not be lead after the passage of the double period specified in paragraph 6 of this Article.",
+            "The releif from measures for protection of competition"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 69",
+        "texts": [
+            "The participant in agreement from Article 10 of this law that was the first to provide evidence on the basis of with the Commission passed a decision on infrigment under Article 10 paragraf 1 of this law, is to be relieved of pecuniary fines.",
+            "The releif from measures for protection of competition from paragraf 1 of this lrticle is under condition that Commission did not have information of the agreement in matter at the moment of the submition of evidence, or it did have a information yet without sufficiant evidence to initiate the procedure.",
+            "However, if the participant in the agreement from Article 10 paragraf 1 of this law that does not meet the conditions for relief of pecuniary fine, and yet over the course of the procedure before the Commission provides evidense that was not available until that moment, that would leed to the decision on infrigment under Article 10 paragraf 1. of this law, may be fined to a lesser degree.",
+            "Provisions of paragrafs 1 to 3 of this lrticle shall not apply to the participant that initiated the agreement from Article 10 paragraf 1 of this law.",
+            "The Government shall determine conditions of releif from pecuniary fines from paragrafs 1 to 4 of this article in more detail.",
+            "Procedural penalty"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 70",
+        "texts": [
+            "The Commission may impose procedural penalty in the amount between €500 and €5.000 against the undertaking that is acting in contrary to the orders of the Commission, or doeas not comply to these orders in view of article 57. of this law, if:",
+            "1) It does not comply with the request the Commission to furnish, disclose, make available or provide access to the requested information, prevents the entry into the premises, or otherwise prevents the investigation, or delivers or provides inaccurate, incomplete or false information, including the data under Articles 44, 47 and 48 of this law;",
+            "2) would not obey to interim measure isssued under article 56 of this law;",
+            "3) would not notify concentration in line with provision of article 63 paragraph 1 of this law.",
+            "Precudural penalty may not exceed the amount of 10% of total annual income from the preceding year shall be imposed on an undertaking calculated with regard of article 7 of this law.",
+            "Time limit to pay the procedural penalty is determined by the decision of the Commission and shall not be shorter than one or longer than three months from the day of the decision.",
+            "Procedural penalty may not be issued to the undertaking upon the expiry of the period of one years from the day of action performed or should have been performed from paragraph 1 of this article.",
+            "VI JUDICIAL REVIEW",
+            "Judicial review of the acts of the Commission"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 71",
+        "texts": [
+            "A lawsuit against the decisions of the Commission may be filed within 30 days from the day the decision was obtained by the undertaking concerned, before the Administrative Court.",
+            "The filing of a lawsuit shall not postpone the execution of the decision.",
+            "The Commission may postpone the execution of the decision until the court decision upon the lawsuit, if this execution would cause irreparable damage for the plaintiff, in particular if it would most probably lead to its bunkrupcy, and in the condition that it is not against public interest.",
+            "The evidence of filed lawsuit is attached to the request for postponment.",
+            "Decision upon request for postponment shall be passed by the Council until the time limit for payment.",
+            "The court procedure"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 72",
+        "texts": [
+            "In the procedure of judicial review of the legality of the Commission`s decisions, the rules of administrative dispute are applied, unless otherwise stupulated by this law.",
+            "The legality of Commission decision with respect to the amount of the pecuniary fine, shall be reviewed under conditions prescribed by this law and regulations for its implementation.",
+            "If court should find that Commission decision is not in accordance with law only with respect to the amount of the pecuniary fine, it shall determine the decision in that respect, pursuant to conditions prescribed as in law regulating administrative dispute.",
+            "The deadline for the submission of the complaint with its attachments to the Commission for response is 15 days from day of its reception in the court, while the deadline for the response of the Commission is 30 days from the day the Commission received the complaint.",
+            "The court shall reach a decision on the complaint within three months of reception of the response to the complaint, or from the expiration of the deadline for the response to the complaint.",
+            "The deadline for submission of the extraordinary legal remedy with its attachments for response is 15 days from the day of its receipt at the court, while the deadline for response is 30 days from the receipt of the extraordinary remedy.",
+            "The Supreme Court of Cassation shall reach a decision on the extraordinary legal remedy within three months of receipt of the response to the extraordinary remedy, or from the expiration of the deadline for this response.",
+            "Claim for damages"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 73",
+        "texts": [
+            "The claim for damages that have been caused by acts and actions which represent infringements of competition as per this law, determined by the final decision of the Commission, could be made in a lawsuit before the court of jurisdiction in civil procedure.",
+            "The decision of the Commission from paragraph 1 of this article does not assume that the damage occurred, but it has to be proved in a court process.",
+            "VII TRANSITIONAL AND FINAL PROVISIONS"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 74",
+        "texts": [
+            "The procedures prior to the beginning of application of this law shall be carried out and completed in accordance with the provisions on the basis of which they were initiated."
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 75",
+        "texts": [
+            "On the day of the beginning of application of this law the Commission that was established under the Law on Protection of Competition (Official Gazette of the Republic of Serbia, No. 79/2005), shall continue its operation with the competencies stipulated by this law."
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 76",
+        "texts": [
+            "The President and the members of the Commission Council shall perform the duty of the president and Council members as per this law, until the new composition of the Commission is elected."
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 77",
+        "texts": [
+            "The High Commercial Court shall be the court of jurisdiction for the lawsuits against the decisions of the Commission, until the Administrative Court begins its operation as per the law that regulates the courts.",
+            "Until the election of president and judges of the Supreme Cassational Court, salary of the president of the Commission and members of the Council shall be determined at the level of salary of the president and judges of the Supreme Court, respectivly."
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 78",
+        "texts": [
+            "The Law on Protection of Competition (Official Gazette of the Republic of Serbia, No. 79/2005) shall lapse from the day of the beginning of application of this law."
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 79",
+        "texts": [
+            "Secondary legislation acts shall be adopted, as stipulated by this law, until the date of the beginning of application of this law."
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 80",
+        "texts": [
+            "Until the secondary legislation acts are adopted as stipulated by this law, secondary legislation that was valid until application of this law shall be applied, except for the stipulations that are contrary to this law."
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 81",
+        "texts": [
+            "This law shall enter into force on the eight day following its publication in the Official Gazette of the Republic of Serbia, and shall be applicable on 1. November 2009.",
+            "",
+            "Independent Articles of the Law on Amendments to theLaw on Protection of Competition",
+            "(\"Off. Herald of the RS\", No. 95/2013)"
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 22",
+        "texts": [
+            "Procedure before the Commission that prior to the entry into force of this Law has not been completed, will continue under the provisions of this Law.",
+            "Notwithstanding paragraph 1 of this Article, the rules that were in force before the entry into force of this Law shall apply to the determination of a dominant market position and to the statute of limitations of the measures for protection of competition.",
+            "Within one month of the entry into force of this Law, the President of the National Assembly shall announce a public call for election of the bodies of the Commission.",
+            "The mandate of the President of the Commission and the Council members who were on duty at the time of entry into force of the present Law, shall cease upon election of new bodies under a public call mentioned here above in paragraph 3."
+        ],
+        "link": null
+    },
+    {
+        "title": "Article 23",
+        "texts": [
+            "This Law shall enter into force on the eighth day from the day of its publication in the \"Official Herald of the Republic of Serbia\".",
+            "Ako ne probate više različitih izbora nikada nećete biti sigurni da li imate najbolju opciju u svojim rukama. Mi Vam tu mogućnost nudimo besplatno! Popunite formular i dobićete priliku da bez ikakvih troškova saznate da li je Paragraf dobar izbor za Vas.",
+            "Ukoliko želite da Vas obaveštavamo o novostima i aktivnostima kompanije Paragraf prijavite se na našu mailing listu. Vaš e-mail neće biti upotrebljen u druge svrhe.",
+            "Pratite Paragraf na Viberu"
+        ],
+        "link": null
+    }
+]

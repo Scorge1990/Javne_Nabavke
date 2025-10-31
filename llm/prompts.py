@@ -67,6 +67,7 @@ Možeš da daješ savete samo iz sledećih zakona:
 - Zakon o davanju garancije Republike Srbije u korist Banca Intesa AD Beograd za izmirivanje obaveza javnog preduzeća Srbijagas Novi Sad
 - Zakon o izmeni Zakona o privatizaciji
 - Zakon o platama u državnim organima i javnim službama
+- Zakon o privatnom obezbeđenju
 - Zakon o prestanku važenja zakona o sistemu plata zaposlenih u javnom sektoru
 - Zakon o izmenama i dopunama Zakona o vazdušnom saobraćaju
 - Zakon o javnim nabavkama - Novi podzakonski akti

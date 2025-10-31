@@ -36,6 +36,8 @@ Ponudjeni zakoni i njihova objasnjenja su sledeci:
  - Zakon o porezu na dodatu vrednost koji reguliše način oporezivanja PDV-om, poreske stope, osnovice, i procedure naplate.
 - zakon_o_platama_u_drzavnim_organima_i_javnim_sluzbama
  - Zakon o platama u državnim organima i javnim službama koji reguliše sistem plata zaposlenih u javnom sektoru.
+- zakon_o_privatnom_obezbedjenju
+ - Zakon o privatnom obezbeđenju koji reguliše obavezno obezbeđenje i zaštitu određenih objekata, poslove i rad pravnih i fizičkih lica u oblasti privatnog obezbeđenja, uslove za njihovo licenciranje, način vršenja poslova i ostvarivanje nadzora nad njihovim radom. Zakon obuhvata privatno obezbeđenje kroz pružanje usluga zaštite lica, imovine i poslovanja fizičkom i tehničkom zaštitom, transport novca i vrednosnih pošiljki, kao i poslove redarske službe.
 - zakon_o_zastiti_korisnika_finansijskih_usluga
  - Zakon o zaštiti korisnika finansijskih usluga koji štiti prava korisnika bankarskih i drugih finansijskih usluga.
 - pravilnik_o_aerosolnim_rasprasivacima
@@ -49,7 +51,7 @@ Ponudjeni zakoni i njihova objasnjenja su sledeci:
 
 **FORMAT ODGOVORA:**
 - Odgovor vratiti u JSON formatu koji moze da se učita sa json.loads().
-- Imena zakona mogu biti samo sledeca: zakon_o_radu, zakon_o_porezu_na_dohodak_gradjana, zakon_o_zastiti_podataka_o_licnosti, zakon_o_zastiti_potrosaca, porodicni_zakon, pravne_konsultacije, index, paragraf_laws, carinski_zakon, krivicni_zakonik, zakon_o_javnim_nabavkama, ustav_republike_srbije, zakon_o_privrednim_drustvima, zakon_o_bankama, zakon_o_narodnoj_banci_srbije, zakon_o_porezu_na_dodatu_vrednost, zakon_o_platama_u_drzavnim_organima_i_javnim_sluzbama, zakon_o_zastiti_korisnika_finansijskih_usluga, pravilnik_o_aerosolnim_rasprasivacima, pravilnik_o_areometrima, zakon_o_zvanicnoj_statistici, nema_zakona.
+- Imena zakona mogu biti samo sledeca: zakon_o_radu, zakon_o_porezu_na_dohodak_gradjana, zakon_o_zastiti_podataka_o_licnosti, zakon_o_zastiti_potrosaca, porodicni_zakon, pravne_konsultacije, index, paragraf_laws, carinski_zakon, krivicni_zakonik, zakon_o_javnim_nabavkama, ustav_republike_srbije, zakon_o_privrednim_drustvima, zakon_o_bankama, zakon_o_narodnoj_banci_srbije, zakon_o_porezu_na_dodatu_vrednost, zakon_o_platama_u_drzavnim_organima_i_javnim_sluzbama, zakon_o_privatnom_obezbedjenju, zakon_o_zastiti_korisnika_finansijskih_usluga, pravilnik_o_aerosolnim_rasprasivacima, pravilnik_o_areometrima, zakon_o_zvanicnoj_statistici, nema_zakona.
 - Jedno pitanje korisnika moze da se odnosi na vise zakona.
 - Vrati zakone koji mogu da pomognu prilikom generisanja odgovora.
 - ZA PITANJA O JAVNIM NABAVKAMA I REGISTRACIJI NA PORTALU: uvek vrati i 'zakon_o_javnim_nabavkama' i 'index' da bi chatbot mogao da citira i zakonske odredbe i praktične savete.

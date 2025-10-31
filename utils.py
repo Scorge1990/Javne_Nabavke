@@ -215,6 +215,7 @@ def map_router_to_collection(router_name: str) -> str:
         "zakon_o_narodnoj_banci_srbije": "paragraf_laws",
         "zakon_o_porezu_na_dodatu_vrednost": "paragraf_laws",
         "zakon_o_platama_u_drzavnim_organima_i_javnim_sluzbama": "paragraf_laws",
+        "zakon_o_privatnom_obezbedjenju": "zakon_o_privatnom_obezbedjenju",
         "zakon_o_zastiti_korisnika_finansijskih_usluga": "paragraf_laws",
         "pravilnik_o_aerosolnim_rasprasivacima": "paragraf_laws",
         "pravilnik_o_areometrima": "paragraf_laws",

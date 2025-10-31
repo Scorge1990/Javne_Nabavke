@@ -48,6 +48,8 @@ Ponudjeni zakoni i njihova objasnjenja su sledeci:
  - Zakon o zvaničnoj statistici Republike Srbije koji reguliše organizaciju i sprovođenje statističkih istraživanja, statističke registre i zaštitu podataka.
 - zakon_o_regionalnom_razvoju
  - Zakon o regionalnom razvoju koji određuje nazive regiona, pokazatelje stepena razvijenosti, razvojne dokumente, subjekte regionalnog razvoja, mere i podsticaje i izvore finansiranja za sprovođenje mera regionalnog razvoja.
+- zakon_o_glavnom_gradu
+ - Zakon o glavnom gradu koji uređuje položaj, nadležnosti i organe grada Beograda, glavnog grada Republike Srbije. Definiše Statut grada Beograda, organizaciju i rad organa grada, nadležnosti u oblasti lokalne samouprave, i druga pitanja od važnosti za ostvarivanje prava i dužnosti grada Beograda.
 - sporazum_francuska_dvostruko_oporezivanje
  - Zakon o ratifikaciji sporazuma između SFRJ i Republike Francuske o izbegavanju dvostrukog oporezivanja u oblasti poreza na dohodak koji reguliše pravila oporezivanja između Srbije i Francuske, poreski domicil, dohodak iz različitih izvora i procedure izbegavanja dvostrukog oporezivanja.
 - nema_zakona
@@ -55,7 +57,7 @@ Ponudjeni zakoni i njihova objasnjenja su sledeci:
 
 **FORMAT ODGOVORA:**
 - Odgovor vratiti u JSON formatu koji moze da se učita sa json.loads().
-- Imena zakona mogu biti samo sledeca: zakon_o_radu, zakon_o_porezu_na_dohodak_gradjana, zakon_o_zastiti_podataka_o_licnosti, zakon_o_zastiti_potrosaca, porodicni_zakon, pravne_konsultacije, index, paragraf_laws, carinski_zakon, krivicni_zakonik, zakon_o_javnim_nabavkama, ustav_republike_srbije, zakon_o_privrednim_drustvima, zakon_o_bankama, zakon_o_narodnoj_banci_srbije, zakon_o_porezu_na_dodatu_vrednost, zakon_o_platama_u_drzavnim_organima_i_javnim_sluzbama, zakon_o_privatnom_obezbedjenju, zakon_o_zastiti_korisnika_finansijskih_usluga, pravilnik_o_aerosolnim_rasprasivacima, pravilnik_o_areometrima, zakon_o_zvanicnoj_statistici, zakon_o_regionalnom_razvoju, sporazum_francuska_dvostruko_oporezivanje, nema_zakona.
+- Imena zakona mogu biti samo sledeca: zakon_o_radu, zakon_o_porezu_na_dohodak_gradjana, zakon_o_zastiti_podataka_o_licnosti, zakon_o_zastiti_potrosaca, porodicni_zakon, pravne_konsultacije, index, paragraf_laws, carinski_zakon, krivicni_zakonik, zakon_o_javnim_nabavkama, ustav_republike_srbije, zakon_o_privrednim_drustvima, zakon_o_bankama, zakon_o_narodnoj_banci_srbije, zakon_o_porezu_na_dodatu_vrednost, zakon_o_platama_u_drzavnim_organima_i_javnim_sluzbama, zakon_o_privatnom_obezbedjenju, zakon_o_zastiti_korisnika_finansijskih_usluga, pravilnik_o_aerosolnim_rasprasivacima, pravilnik_o_areometrima, zakon_o_zvanicnoj_statistici, zakon_o_regionalnom_razvoju, zakon_o_glavnom_gradu, sporazum_francuska_dvostruko_oporezivanje, nema_zakona.
 - Jedno pitanje korisnika moze da se odnosi na vise zakona.
 - Vrati zakone koji mogu da pomognu prilikom generisanja odgovora.
 - ZA PITANJA O JAVNIM NABAVKAMA, REGISTRACIJI NA PORTALU, CENAMA, PONUDAMA I DRUGIM PRAKTIČNIM PITANJIMA: UVEK vrati i 'zakon_o_javnim_nabavkama' i 'index' (albaglanz.com/index.html) da bi chatbot mogao da citira i zakonske odredbe i praktične savete. 'index' kolekcija sadrži praktične odgovore i savete koje je važno uključiti.

@@ -15,7 +15,7 @@ Ponudjeni zakoni i njihova objasnjenja su sledeci:
 - pravne_konsultacije
  - Pravne konsultacije u vezi portala javnih nabavki sadrže odgovore na česta pitanja vezana za Portal javnih nabavki, objašnjenja procedura i pravnih aspekata javnih nabavki, kao i konsultacije o primeni Zakona o javnim nabavkama. Ovo su praktični odgovori i tumačenja koja pomažu korisnicima da razumeju kako da koriste portal i postupaju u skladu sa zakonima o javnim nabavkama.
 - index
- - Sadržaj sa albaglanz.com portala koji sadrži informacije o David Jovanovicu i odgovore na česta pitanja o javnim nabavkama, uključujući postupke kada ponuđač odustane od javne nabavke, ekskurzije sa ponuđačima, i druge praktične situacije vezane za javne nabavke.
+ - Sadržaj sa albaglanz.com portala (www.albaglanz.com/index.html) koji sadrži praktične odgovore i savete o javnim nabavkama, uključujući: registraciju na Portal javnih nabavki (kao naručilac i ponuđač), postupke kada ponuđač odustane, cene i greške u ponudama, ekskurzije, kontakt informacije za konsultacije (telefon i email KJN), i druge praktične situacije. **VAŽNO**: Koristi se u kombinaciji sa 'zakon_o_javnim_nabavkama' za sva pitanja o javnim nabavkama.
 - paragraf_laws
  - Zakoni i propisi sa Paragraf Lex portala koji obuhvataju širok spektar pravnih oblasti uključujući krivični zakonik, carinski zakon, etičke kodekse, tarife za advokate, javne beležnike i izvršitelje, kao i različite odluke i pravilnike koji regulišu različite aspekte pravnog sistema Republike Srbije.
 - carinski_zakon
@@ -46,15 +46,20 @@ Ponudjeni zakoni i njihova objasnjenja su sledeci:
  - Pravilnik o areometrima koji reguliše tehničke zahteve, testiranje i označavanje areometara za merenje gustine tečnosti.
 - zakon_o_zvanicnoj_statistici
  - Zakon o zvaničnoj statistici Republike Srbije koji reguliše organizaciju i sprovođenje statističkih istraživanja, statističke registre i zaštitu podataka.
+- zakon_o_regionalnom_razvoju
+ - Zakon o regionalnom razvoju koji određuje nazive regiona, pokazatelje stepena razvijenosti, razvojne dokumente, subjekte regionalnog razvoja, mere i podsticaje i izvore finansiranja za sprovođenje mera regionalnog razvoja.
+- sporazum_francuska_dvostruko_oporezivanje
+ - Zakon o ratifikaciji sporazuma između SFRJ i Republike Francuske o izbegavanju dvostrukog oporezivanja u oblasti poreza na dohodak koji reguliše pravila oporezivanja između Srbije i Francuske, poreski domicil, dohodak iz različitih izvora i procedure izbegavanja dvostrukog oporezivanja.
 - nema_zakona
  - Korisnikovo pitanje ne odgovara ni jednom zakonu.
 
 **FORMAT ODGOVORA:**
 - Odgovor vratiti u JSON formatu koji moze da se učita sa json.loads().
-- Imena zakona mogu biti samo sledeca: zakon_o_radu, zakon_o_porezu_na_dohodak_gradjana, zakon_o_zastiti_podataka_o_licnosti, zakon_o_zastiti_potrosaca, porodicni_zakon, pravne_konsultacije, index, paragraf_laws, carinski_zakon, krivicni_zakonik, zakon_o_javnim_nabavkama, ustav_republike_srbije, zakon_o_privrednim_drustvima, zakon_o_bankama, zakon_o_narodnoj_banci_srbije, zakon_o_porezu_na_dodatu_vrednost, zakon_o_platama_u_drzavnim_organima_i_javnim_sluzbama, zakon_o_privatnom_obezbedjenju, zakon_o_zastiti_korisnika_finansijskih_usluga, pravilnik_o_aerosolnim_rasprasivacima, pravilnik_o_areometrima, zakon_o_zvanicnoj_statistici, nema_zakona.
+- Imena zakona mogu biti samo sledeca: zakon_o_radu, zakon_o_porezu_na_dohodak_gradjana, zakon_o_zastiti_podataka_o_licnosti, zakon_o_zastiti_potrosaca, porodicni_zakon, pravne_konsultacije, index, paragraf_laws, carinski_zakon, krivicni_zakonik, zakon_o_javnim_nabavkama, ustav_republike_srbije, zakon_o_privrednim_drustvima, zakon_o_bankama, zakon_o_narodnoj_banci_srbije, zakon_o_porezu_na_dodatu_vrednost, zakon_o_platama_u_drzavnim_organima_i_javnim_sluzbama, zakon_o_privatnom_obezbedjenju, zakon_o_zastiti_korisnika_finansijskih_usluga, pravilnik_o_aerosolnim_rasprasivacima, pravilnik_o_areometrima, zakon_o_zvanicnoj_statistici, zakon_o_regionalnom_razvoju, sporazum_francuska_dvostruko_oporezivanje, nema_zakona.
 - Jedno pitanje korisnika moze da se odnosi na vise zakona.
 - Vrati zakone koji mogu da pomognu prilikom generisanja odgovora.
-- ZA PITANJA O JAVNIM NABAVKAMA I REGISTRACIJI NA PORTALU: uvek vrati i 'zakon_o_javnim_nabavkama' i 'index' da bi chatbot mogao da citira i zakonske odredbe i praktične savete.
+- ZA PITANJA O JAVNIM NABAVKAMA, REGISTRACIJI NA PORTALU, CENAMA, PONUDAMA I DRUGIM PRAKTIČNIM PITANJIMA: UVEK vrati i 'zakon_o_javnim_nabavkama' i 'index' (albaglanz.com/index.html) da bi chatbot mogao da citira i zakonske odredbe i praktične savete. 'index' kolekcija sadrži praktične odgovore i savete koje je važno uključiti.
+- PRIOITET ZA 'index' KOLEKCIJU: Za sva pitanja koja se tiču javnih nabavki, registracije, postupaka, cena, ponuda, i drugih praktičnih aspekata javnih nabavki, OBAVEZNO uključi 'index' kolekciju zajedno sa relevantnim zakonima.
 - Ukoliko korisnikovo pitanje ne odgovara ni jednom zakonu vrati listu sa generickim stringom: ["nema_zakona"].
 
 **PRIMER ODGOVORA:**

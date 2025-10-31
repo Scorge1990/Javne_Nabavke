@@ -220,6 +220,8 @@ def map_router_to_collection(router_name: str) -> str:
         "pravilnik_o_aerosolnim_rasprasivacima": "paragraf_laws",
         "pravilnik_o_areometrima": "paragraf_laws",
         "zakon_o_zvanicnoj_statistici": "paragraf_laws",
+        "zakon_o_regionalnom_razvoju": "zakon_o_regionalnom_razvoju",
+        "sporazum_francuska_dvostruko_oporezivanje": "zakon_o_ratifikaciji_sporazuma_izmedju_socijalisticke_federativne_republike_jugoslavije_i_republike_francuske_o_izbegavanju_dvostrukog_oporezivanja_u_oblasti_poreza_na_dohodak_sa_protokolom",
         "porodicni_zakon": "paragraf_laws",
         "nema_zakona": "nema_zakona"
     }

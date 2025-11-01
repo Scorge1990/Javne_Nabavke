@@ -314,6 +314,11 @@ def create_embeddings(
         )
 
         processed_filepath = embeddings_dir / requests_filepath.name
+        # Remove existing embeddings file if it exists to prevent duplicates
+        if processed_filepath.exists():
+            logger.info(f"Removing existing embeddings file: {processed_filepath}")
+            processed_filepath.unlink()
+        
         run_api_request_processor(
             requests_filepath=requests_filepath, save_path=processed_filepath
         )

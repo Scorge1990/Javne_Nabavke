@@ -4,8 +4,7 @@ from typing import Dict, Generator, List
 
 import streamlit as st
 import yaml
-from langfuse import observe
-# from langfuse.decorators import langfuse_context  # Not available in this version
+from langfuse.decorators import langfuse_context, observe
 from langfuse.openai import openai
 from loguru import logger
 from openai.types.chat import ChatCompletion
@@ -159,7 +158,7 @@ def generate_response(
         )
         collections = json.loads(response.choices[0].message.content)["response"]
         logger.info(f"Query routed to collections: {collections}")
-        # langfuse_context.update_current_trace(tags=collections)  # Not available in this version
+        langfuse_context.update_current_trace(tags=collections)
 
         # Embed the user query using the specified model in the configuration
         embedding_response = embed_text(
@@ -188,46 +187,11 @@ def generate_response(
             if part is not None:
                 yield part
 
-        # langfuse_context.flush()  # Not available in this version
+        langfuse_context.flush()
 
     except Exception as e:
         logger.error(f"An error occurred while generating the response: {str(e)}")
         yield "Sorry, an error occurred while processing your request."
-
-
-def map_router_to_collection(router_name: str) -> str:
-    """Map router response names to actual Qdrant collection names."""
-    mapping = {
-        "zakon_o_radu": "zakon_o_radu",
-        "zakon_o_porezu_na_dohodak_gradjana": "zakon_o_porezu_na_dohodak_gradjana", 
-        "zakon_o_zastiti_podataka_o_licnosti": "zakon_o_zastiti_podataka_o_licnosti",
-        "zakon_o_zastiti_potrosaca": "zakon_o_zastiti_potrosaca",
-        "porodicni_zakon": "porodicni_zakon",
-        "pravne_konsultacije": "pravne_konsultacije",
-        "index": "index",
-        "paragraf_laws": "paragraf_laws",
-        "carinski_zakon": "carinski_zakon_complete",
-        "krivicni_zakonik": "krivicni_zakonik",
-        "zakon_o_javnim_nabavkama": "paragraf_laws",
-        "ustav_republike_srbije": "paragraf_laws",
-        "zakon_o_privrednim_drustvima": "paragraf_laws",
-        "zakon_o_bankama": "paragraf_laws",
-        "zakon_o_narodnoj_banci_srbije": "paragraf_laws",
-        "zakon_o_porezu_na_dodatu_vrednost": "paragraf_laws",
-        "zakon_o_platama_u_drzavnim_organima_i_javnim_sluzbama": "paragraf_laws",
-        "zakon_o_privatnom_obezbedjenju": "zakon_o_privatnom_obezbedjenju",
-        "zakon_o_zastiti_korisnika_finansijskih_usluga": "paragraf_laws",
-        "pravilnik_o_aerosolnim_rasprasivacima": "paragraf_laws",
-        "pravilnik_o_areometrima": "paragraf_laws",
-        "zakon_o_zvanicnoj_statistici": "paragraf_laws",
-        "zakon_o_regionalnom_razvoju": "zakon_o_regionalnom_razvoju",
-        "zakon_o_glavnom_gradu": "paragraf_laws",
-        "sporazum_francuska_dvostruko_oporezivanje": "zakon_o_ratifikaciji_sporazuma_izmedju_socijalisticke_federativne_republike_jugoslavije_i_republike_francuske_o_izbegavanju_dvostrukog_oporezivanja_u_oblasti_poreza_na_dohodak_sa_protokolom",
-        "eticki_kodeks_javnih_izvrsitelja": "eticki_kodeks_javnih_izvrsitelja",
-        "porodicni_zakon": "paragraf_laws",
-        "nema_zakona": "nema_zakona"
-    }
-    return mapping.get(router_name, router_name)
 
 
 def determine_context(
@@ -240,22 +204,17 @@ def determine_context(
         else:
             search_results = []
             for collection_name in collections:
-                # Map router name to actual collection name
-                actual_collection = map_router_to_collection(collection_name)
-                if actual_collection != "nema_zakona":
-                    # Increase search limit for better coverage, especially for pravne_konsultacije
-                    search_limit = 20 if actual_collection == "pravne_konsultacije" else 10
-                    search_results.extend(
-                        search(
-                            client=qdrant_client,
-                            collection=actual_collection,
-                            query_vector=embedding,
-                            limit=search_limit,
-                            with_vectors=True,
-                        )
+                search_results.extend(
+                    search(
+                        client=qdrant_client,
+                        collection=collection_name,
+                        query_vector=embedding,
+                        limit=10,
+                        with_vectors=True,
                     )
-            # Increase top_k for better context coverage
-            top_k = 20 if len(collections) > 1 else 15
+                )
+            # Upgrade this with tokes length checking
+            top_k = 15 if len(collections) > 1 else 10
             return get_context(search_results=search_results, top_k=top_k)
     except Exception as e:
         logger.error(f"Error determining context: {str(e)}")

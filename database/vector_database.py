@@ -35,12 +35,24 @@ def main(args: argparse.Namespace) -> None:
         url=os.environ["QDRANT_CLUSTER_URL"],
         api_key=os.environ["QDRANT_API_KEY"],
     )
+    # Get list of scraped files to match with embeddings
+    scraped_files = {f.stem for f in args.scraped_dir.iterdir() if f.is_file() and f.suffix == ".json"}
+    
     data_paths = list(args.embeddings_dir.iterdir())
     for path in tqdm(data_paths, total=len(data_paths), desc="Creating collections"):
+        # Only process embeddings for files we scraped
+        if path.stem not in scraped_files:
+            continue
+            
         # Check if this is necessary
         collection_name = path.stem.replace("-", "_")
         collection_name = collection_name
         points = load_and_process_embeddings(path=path)
+        
+        # Skip if no points (embedding failed)
+        if not points:
+            logger.warning(f"Skipping {collection_name} - no valid embeddings")
+            continue
 
         create_collection(client=qdrant_client, name=collection_name)
         upsert(client=qdrant_client, collection=collection_name, points=points)

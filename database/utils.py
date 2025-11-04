@@ -55,9 +55,22 @@ def upsert(
     client: QdrantClient,
     collection: str,
     points: List[PointStruct],
+    batch_size: int = 100,
 ) -> UpdateResult:
-    """Upsert data points into a Qdrant collection."""
-    return client.upsert(collection_name=collection, points=points)
+    """Upsert data points into a Qdrant collection in batches."""
+    if len(points) <= batch_size:
+        return client.upsert(collection_name=collection, points=points)
+    
+    # Process in batches to avoid timeouts
+    logger.info(f"Uploading {len(points)} points in batches of {batch_size}")
+    result = None
+    for i in range(0, len(points), batch_size):
+        batch = points[i:i + batch_size]
+        logger.info(f"Uploading batch {i // batch_size + 1}/{(len(points) + batch_size - 1) // batch_size}")
+        result = client.upsert(collection_name=collection, points=batch)
+    
+    # Return the result from the last batch
+    return result
 
 
 def num_tokens_from_string(string: str, model: str) -> int:
@@ -299,7 +312,7 @@ def create_embeddings(
     validate_path(to_process_dir)
     validate_path(embeddings_dir)
 
-    scraped_paths = list(scraped_dir.iterdir())
+    scraped_paths = [p for p in scraped_dir.iterdir() if p.is_file() and p.suffix == ".json"]
 
     for file_path in tqdm(
         scraped_paths, desc="Embedding scraped files", total=len(scraped_paths)

@@ -207,24 +207,25 @@ def map_router_to_collection(router_name: str) -> str:
         "index": "index",
         "paragraf_laws": "paragraf_laws",
         "carinski_zakon": "carinski_zakon_complete",
-        "krivicni_zakonik": "krivicni_zakonik_2019",
+        "krivicni_zakonik": "krivicni_zakonik",
+        "zakon_o_maloletnim_uciniocima_krivicnih_dela": "zakon_o_maloletnim_uciniocima_krivicnih_dela_i_krivicnopravnoj_zastiti_maloletnih_lica",
         "zakon_o_javnim_nabavkama": "paragraf_laws",
-        "ustav_republike_srbije": "paragraf_laws",
-        "zakon_o_privrednim_drustvima": "paragraf_laws",
-        "zakon_o_bankama": "paragraf_laws",
-        "zakon_o_narodnoj_banci_srbije": "paragraf_laws",
-        "zakon_o_porezu_na_dodatu_vrednost": "paragraf_laws",
-        "zakon_o_platama_u_drzavnim_organima_i_javnim_sluzbama": "paragraf_laws",
+        "ustav_republike_srbije": "ustav_republike_srbije",
+        "zakon_o_privrednim_drustvima": "zakon_o_privrednim_drustvima",
+        "zakon_o_bankama": "zakon_o_bankama",
+        "zakon_o_narodnoj_banci_srbije": "zakon_o_narodnoj_banci_srbije",
+        "zakon_o_porezu_na_dodatu_vrednost": "zakon_o_porezu_na_dodatu_vrednost",
+        "zakon_o_platama_u_drzavnim_organima_i_javnim_sluzbama": "zakon_o_platama_u_drzavnim_organima_i_javnim_sluzbama",
         "zakon_o_privatnom_obezbedjenju": "zakon_o_privatnom_obezbedjenju",
-        "zakon_o_zastiti_korisnika_finansijskih_usluga": "paragraf_laws",
+        "zakon_o_zastiti_korisnika_finansijskih_usluga": "zakon_o_zastiti_korisnika_finansijskih_usluga",
         "pravilnik_o_aerosolnim_rasprasivacima": "paragraf_laws",
         "pravilnik_o_areometrima": "paragraf_laws",
         "zakon_o_zvanicnoj_statistici": "paragraf_laws",
         "zakon_o_regionalnom_razvoju": "zakon_o_regionalnom_razvoju",
-        "zakon_o_glavnom_gradu": "paragraf_laws",
+        "zakon_o_glavnom_gradu": "zakon_o_glavnom_gradu",
         "sporazum_francuska_dvostruko_oporezivanje": "zakon_o_ratifikaciji_sporazuma_izmedju_socijalisticke_federativne_republike_jugoslavije_i_republike_francuske_o_izbegavanju_dvostrukog_oporezivanja_u_oblasti_poreza_na_dohodak_sa_protokolom",
         "eticki_kodeks_javnih_izvrsitelja": "eticki_kodeks_javnih_izvrsitelja",
-        "porodicni_zakon": "paragraf_laws",
+        "porodicni_zakon": "porodicni_zakon",
         "nema_zakona": "nema_zakona"
     }
     return mapping.get(router_name, router_name)
@@ -243,17 +244,27 @@ def determine_context(
                 # Map router name to actual collection name
                 actual_collection = map_router_to_collection(collection_name)
                 if actual_collection != "nema_zakona":
-                    # Increase search limit for better coverage, especially for pravne_konsultacije
-                    search_limit = 20 if actual_collection == "pravne_konsultacije" else 10
-                    search_results.extend(
-                        search(
+                    try:
+                        # Check if collection exists
+                        collection_info = qdrant_client.get_collection(actual_collection)
+                        if collection_info.points_count == 0:
+                            logger.warning(f"Collection {actual_collection} exists but is empty")
+                            continue
+                        
+                        # Increase search limit for better coverage, especially for pravne_konsultacije
+                        search_limit = 20 if actual_collection == "pravne_konsultacije" else 10
+                        results = search(
                             client=qdrant_client,
                             collection=actual_collection,
                             query_vector=embedding,
                             limit=search_limit,
                             with_vectors=True,
                         )
-                    )
+                        search_results.extend(results)
+                        logger.info(f"Found {len(results)} results in collection {actual_collection}")
+                    except Exception as e:
+                        logger.error(f"Error searching collection {actual_collection}: {str(e)}")
+                        continue
             # Increase top_k for better context coverage
             top_k = 20 if len(collections) > 1 else 15
             return get_context(search_results=search_results, top_k=top_k)

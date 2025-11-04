@@ -226,6 +226,7 @@ def map_router_to_collection(router_name: str) -> str:
         "sporazum_francuska_dvostruko_oporezivanje": "zakon_o_ratifikaciji_sporazuma_izmedju_socijalisticke_federativne_republike_jugoslavije_i_republike_francuske_o_izbegavanju_dvostrukog_oporezivanja_u_oblasti_poreza_na_dohodak_sa_protokolom",
         "eticki_kodeks_javnih_izvrsitelja": "eticki_kodeks_javnih_izvrsitelja",
         "porodicni_zakon": "porodicni_zakon",
+        "zakon_o_osnovama_svojinskopravnih_odnosa": "zakon_o_osnovama_svojinskopravnih_odnosa",
         "nema_zakona": "nema_zakona"
     }
     return mapping.get(router_name, router_name)

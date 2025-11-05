@@ -226,6 +226,7 @@ def map_router_to_collection(router_name: str) -> str:
         "zakon_o_javnim_medijskim_servisima": "zakon_o_javnim_medijskim_servisima",
         "zakon_o_javnim_preduzecima": "zakon_o_javnim_preduzecima",
         "zakon_o_javnim_sluzbama": "zakon_o_javnim_sluzbama",
+        "zakon_o_javnim_skijalistima": "zakon_o_javnim_skijalistima",
         "zakon_o_komorama_zdravstvenih_radnika": "zakon_o_komorama_zdravstvenih_radnika",
         "zakon_o_mirnom_resavanju_radnih_sporova": "zakon_o_mirnom_resavanju_radnih_sporova",
         "zakon_o_naknadama_za_koriscenje_javnih_dobara": "zakon_o_naknadama_za_koriscenje_javnih_dobara",

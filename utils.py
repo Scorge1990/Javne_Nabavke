@@ -268,6 +268,10 @@ def determine_context(
                 if actual_collection != "nema_zakona":
                     try:
                         # Check if collection exists
+                        if not qdrant_client.collection_exists(collection_name=actual_collection):
+                            logger.warning(f"Collection '{actual_collection}' does not exist in Qdrant. Skipping search for this collection.")
+                            continue
+                        
                         collection_info = qdrant_client.get_collection(actual_collection)
                         if collection_info.points_count == 0:
                             logger.warning(f"Collection {actual_collection} exists but is empty")

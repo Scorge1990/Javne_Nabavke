@@ -91,7 +91,7 @@ Ponudjeni zakoni i njihova objasnjenja su sledeci:
 - dinarska_vrednost_evropskih_pragova
  - Propis o dinarskoj vrednosti evropskih pragova koji određuje konverziju evropskih pragova u dinarsku vrednost za potrebe primene propisa u Srbiji.
 - naredba_o_merama_postupanja_u_cilju_unistavanja_unete_alohtone_divlje_vrste_heracleum_sosnowskyi
- - Naredba o merama postupanja u cilju uništavanja unete alohtone divlje vrste Heracleum sosnowskyi koja reguliše mere za kontrolu i uništavanje ove invazivne biljne vrste.
+ - Naredba o merama postupanja u cilju uništavanja unete alohtone divlje vrste Heracleum sosnowskyi koja reguliše mere za kontrolu i uništavanje ove invazivne biljne vrste. Koristi se za SVA pitanja o: uništavanju Heracleum sosnowskyi, kako uništiti ovu vrstu, kontroli ove biljne vrste, načinima i merama za njeno uništavanje, borbi protiv invazivnih biljaka, Heracleum sosnowskyi, merama za uništavanje invazivnih biljaka, i sličnim pitanjima vezanim za ovu biljnu vrstu. **VAŽNO**: Za bilo koje pitanje koje spominje "Heracleum sosnowskyi", "alohtona vrsta", "invazivna biljka", "uništavanje biljke", "kako uništiti", ili slično, koristi ovu naredbu.
 - zakon_o_regionalnom_razvoju
  - Zakon o regionalnom razvoju koji određuje nazive regiona, pokazatelje stepena razvijenosti, razvojne dokumente, subjekte regionalnog razvoja, mere i podsticaje i izvore finansiranja za sprovođenje mera regionalnog razvoja.
 - zakon_o_glavnom_gradu

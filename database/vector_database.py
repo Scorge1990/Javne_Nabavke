@@ -54,6 +54,18 @@ def main(args: argparse.Namespace) -> None:
             logger.warning(f"Skipping {collection_name} - no valid embeddings")
             continue
 
+        # Check if collection already exists and has correct number of points
+        try:
+            if qdrant_client.collection_exists(collection_name=collection_name):
+                existing_count = get_count(client=qdrant_client, collection=collection_name)
+                if existing_count == len(points):
+                    logger.info(f'Collection "{collection_name}" already exists with {existing_count} points. Skipping.')
+                    continue
+                else:
+                    logger.info(f'Collection "{collection_name}" exists but has {existing_count} points, expected {len(points)}. Recreating.')
+        except Exception as e:
+            logger.warning(f"Error checking collection {collection_name}: {e}. Proceeding with creation.")
+
         create_collection(client=qdrant_client, name=collection_name)
         upsert(client=qdrant_client, collection=collection_name, points=points)
 

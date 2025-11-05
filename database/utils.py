@@ -59,15 +59,25 @@ def upsert(
 ) -> UpdateResult:
     """Upsert data points into a Qdrant collection in batches."""
     if len(points) <= batch_size:
-        return client.upsert(collection_name=collection, points=points)
+        try:
+            return client.upsert(collection_name=collection, points=points)
+        except Exception as e:
+            logger.error(f"Error upserting to {collection}: {e}")
+            raise
     
     # Process in batches to avoid timeouts
     logger.info(f"Uploading {len(points)} points in batches of {batch_size}")
     result = None
     for i in range(0, len(points), batch_size):
         batch = points[i:i + batch_size]
-        logger.info(f"Uploading batch {i // batch_size + 1}/{(len(points) + batch_size - 1) // batch_size}")
-        result = client.upsert(collection_name=collection, points=batch)
+        batch_num = i // batch_size + 1
+        total_batches = (len(points) + batch_size - 1) // batch_size
+        logger.info(f"Uploading batch {batch_num}/{total_batches}")
+        try:
+            result = client.upsert(collection_name=collection, points=batch)
+        except Exception as e:
+            logger.error(f"Error uploading batch {batch_num}/{total_batches} to {collection}: {e}")
+            raise
     
     # Return the result from the last batch
     return result

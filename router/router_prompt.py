@@ -38,6 +38,44 @@ Ponudjeni zakoni i njihova objasnjenja su sledeci:
  - Zakon o Narodnoj banci Srbije koji definiše ulogu, organizaciju i ovlašćenja centralne banke.
 - zakon_o_porezu_na_dodatu_vrednost
  - Zakon o porezu na dodatu vrednost koji reguliše način oporezivanja PDV-om, poreske stope, osnovice, i procedure naplate.
+- zakon_o_porezu_na_dobit_pravnih_lica
+ - Zakon o porezu na dobit pravnih lica koji reguliše oporezivanje dobiti pravnih lica, poreske stope, osnovice, oslobođenja i olakšice.
+- zakon_o_porezima_na_imovinu
+ - Zakon o porezima na imovinu koji reguliše oporezivanje nepokretnosti, pokretnosti i drugih oblika imovine.
+- zakon_o_porezima_na_upotrebu_drzanje_i_nosenje_dobara
+ - Zakon o porezima na upotrebu, držanje i nošenje dobara koji reguliše oporezivanje određenih vrsta dobara kao što su vozila, luksuzni predmeti i slično.
+- zakon_o_planiranju_i_izgradnji
+ - Zakon o planiranju i izgradnji koji reguliše urbanističko planiranje, izgradnju objekata, dozvole za izgradnju i druge aspekte građevinske delatnosti.
+- zakon_o_bezbednosti_i_zdravlju_na_radu
+ - Zakon o bezbednosti i zdravlju na radu koji reguliše mere zaštite na radu, obaveze poslodavaca i zaposlenih, i procedure za sprečavanje povreda i oboljenja na radu.
+- zakon_o_evidencijama_u_oblasti_rada
+ - Zakon o evidencijama u oblasti rada koji reguliše vođenje evidencija o zaposlenima, radnom vremenu, platama i drugim aspektima radnih odnosa.
+- zakon_o_izvrsenju_krivicnih_sankcija
+ - Zakon o izvršenju krivičnih sankcija koji reguliše načine izvršenja kazni, mera bezbednosti i vaspitnih mera, organizaciju i rad ustanova za izvršenje kazni.
+- zakon_o_javnim_agencijama
+ - Zakon o javnim agencijama koji reguliše osnivanje, organizaciju, nadležnosti i rad javnih agencija.
+- zakon_o_javnim_medijskim_servisima
+ - Zakon o javnim medijskim servisima koji reguliše rad javnih radio i televizijskih servisa, njihovu organizaciju i finansiranje.
+- zakon_o_javnim_preduzecima
+ - Zakon o javnim preduzećima koji reguliše osnivanje, organizaciju, upravljanje i poslovanje javnih preduzeća.
+- zakon_o_javnim_sluzbama
+ - Zakon o javnim službama koji reguliše organizaciju, nadležnosti i rad javnih službi.
+- zakon_o_komorama_zdravstvenih_radnika
+ - Zakon o komorama zdravstvenih radnika koji reguliše organizaciju i rad profesionalnih komora za zdravstvene radnike.
+- zakon_o_mirnom_resavanju_radnih_sporova
+ - Zakon o mirnom rešavanju radnih sporova koji reguliše procedure za rešavanje radnih sporova između zaposlenih i poslodavaca kroz medijaciju i druge mirne metode.
+- zakon_o_naknadama_za_koriscenje_javnih_dobara
+ - Zakon o naknadama za korišćenje javnih dobara koji reguliše način naplate naknada za korišćenje javnih dobara, prirodnih resursa i drugih javnih resursa.
+- zakon_o_posebnim_ovlascenjima_radi_efikasne_zastite_prava_intelektualne_svojine
+ - Zakon o posebnim ovlašćenjima radi efikasne zaštite prava intelektualne svojine koji reguliše mere zaštite autorskih prava, patenata, zaštitnih znakova i drugih prava intelektualne svojine.
+- zakon_o_saradnji_sa_medjunarodnim_krivicnim_sudom
+ - Zakon o saradnji sa Međunarodnim krivičnim sudom koji reguliše pravne odnose i proceduru saradnje sa Međunarodnim krivičnim sudom u Hagu.
+- zakon_o_sedistima_i_podrucjima_sudova_i_javnih_tuzilastava
+ - Zakon o sedištima i područjima sudova i javnih tužilaštava koji određuje organizaciju i teritorijalnu nadležnost sudova i tužilaštava.
+- zakon_o_uslovima_izgradnje_stanova_za_pripadnike_snaga_bezbednosti
+ - Zakon o uslovima izgradnje stanova za pripadnike snaga bezbednosti koji reguliše prava i uslove za sticanje stanova za pripadnike vojske, policije i drugih snaga bezbednosti.
+- zakon_o_uslovima_za_upucivanje_zaposlenih_na_privremeni_rad_u_inostranstvo_i_njihovoj_zastiti
+ - Zakon o uslovima za upućivanje zaposlenih na privremeni rad u inostranstvo i njihovoj zaštiti koji reguliše uslove za privremeno zapošljavanje radnika u inostranstvu i zaštitu njihovih prava.
 - zakon_o_platama_u_drzavnim_organima_i_javnim_sluzbama
  - Zakon o platama u državnim organima i javnim službama koji reguliše sistem plata zaposlenih u javnom sektoru, uključujući osnovice plata, koeficijente, dodatke, nadoknade i druga primanja zaposlenih u državnim organima i javnim službama. Zakon se primenjuje na sve zaposlene u državnim organima, javnim službama, javnim agencijama i drugim javnim organizacijama.
 - zakon_o_privatnom_obezbedjenju
@@ -50,6 +88,10 @@ Ponudjeni zakoni i njihova objasnjenja su sledeci:
  - Pravilnik o areometrima koji reguliše tehničke zahteve, testiranje i označavanje areometara za merenje gustine tečnosti.
 - zakon_o_zvanicnoj_statistici
  - Zakon o zvaničnoj statistici Republike Srbije koji reguliše organizaciju i sprovođenje statističkih istraživanja, statističke registre i zaštitu podataka.
+- dinarska_vrednost_evropskih_pragova
+ - Propis o dinarskoj vrednosti evropskih pragova koji određuje konverziju evropskih pragova u dinarsku vrednost za potrebe primene propisa u Srbiji.
+- naredba_o_merama_postupanja_u_cilju_unistavanja_unete_alohtone_divlje_vrste_heracleum_sosnowskyi
+ - Naredba o merama postupanja u cilju uništavanja unete alohtone divlje vrste Heracleum sosnowskyi koja reguliše mere za kontrolu i uništavanje ove invazivne biljne vrste.
 - zakon_o_regionalnom_razvoju
  - Zakon o regionalnom razvoju koji određuje nazive regiona, pokazatelje stepena razvijenosti, razvojne dokumente, subjekte regionalnog razvoja, mere i podsticaje i izvore finansiranja za sprovođenje mera regionalnog razvoja.
 - zakon_o_glavnom_gradu
@@ -63,7 +105,7 @@ Ponudjeni zakoni i njihova objasnjenja su sledeci:
 
 **FORMAT ODGOVORA:**
 - Odgovor vratiti u JSON formatu koji moze da se učita sa json.loads().
-- Imena zakona mogu biti samo sledeca: zakon_o_radu, zakon_o_porezu_na_dohodak_gradjana, zakon_o_zastiti_podataka_o_licnosti, zakon_o_zastiti_potrosaca, porodicni_zakon, zakon_o_osnovama_svojinskopravnih_odnosa, pravne_konsultacije, index, paragraf_laws, carinski_zakon, krivicni_zakonik, zakon_o_maloletnim_uciniocima_krivicnih_dela, zakon_o_javnim_nabavkama, ustav_republike_srbije, zakon_o_privrednim_drustvima, zakon_o_bankama, zakon_o_narodnoj_banci_srbije, zakon_o_porezu_na_dodatu_vrednost, zakon_o_platama_u_drzavnim_organima_i_javnim_sluzbama, zakon_o_privatnom_obezbedjenju, zakon_o_zastiti_korisnika_finansijskih_usluga, pravilnik_o_aerosolnim_rasprasivacima, pravilnik_o_areometrima, zakon_o_zvanicnoj_statistici, zakon_o_regionalnom_razvoju, zakon_o_glavnom_gradu, sporazum_francuska_dvostruko_oporezivanje, eticki_kodeks_javnih_izvrsitelja, nema_zakona.
+- Imena zakona mogu biti samo sledeca: zakon_o_radu, zakon_o_porezu_na_dohodak_gradjana, zakon_o_zastiti_podataka_o_licnosti, zakon_o_zastiti_potrosaca, porodicni_zakon, zakon_o_osnovama_svojinskopravnih_odnosa, pravne_konsultacije, index, paragraf_laws, carinski_zakon, krivicni_zakonik, zakon_o_maloletnim_uciniocima_krivicnih_dela, zakon_o_javnim_nabavkama, ustav_republike_srbije, zakon_o_privrednim_drustvima, zakon_o_bankama, zakon_o_narodnoj_banci_srbije, zakon_o_porezu_na_dodatu_vrednost, zakon_o_porezu_na_dobit_pravnih_lica, zakon_o_porezima_na_imovinu, zakon_o_porezima_na_upotrebu_drzanje_i_nosenje_dobara, zakon_o_planiranju_i_izgradnji, zakon_o_bezbednosti_i_zdravlju_na_radu, zakon_o_evidencijama_u_oblasti_rada, zakon_o_izvrsenju_krivicnih_sankcija, zakon_o_javnim_agencijama, zakon_o_javnim_medijskim_servisima, zakon_o_javnim_preduzecima, zakon_o_javnim_sluzbama, zakon_o_komorama_zdravstvenih_radnika, zakon_o_mirnom_resavanju_radnih_sporova, zakon_o_naknadama_za_koriscenje_javnih_dobara, zakon_o_posebnim_ovlascenjima_radi_efikasne_zastite_prava_intelektualne_svojine, zakon_o_saradnji_sa_medjunarodnim_krivicnim_sudom, zakon_o_sedistima_i_podrucjima_sudova_i_javnih_tuzilastava, zakon_o_uslovima_izgradnje_stanova_za_pripadnike_snaga_bezbednosti, zakon_o_uslovima_za_upucivanje_zaposlenih_na_privremeni_rad_u_inostranstvo_i_njihovoj_zastiti, zakon_o_platama_u_drzavnim_organima_i_javnim_sluzbama, zakon_o_privatnom_obezbedjenju, zakon_o_zastiti_korisnika_finansijskih_usluga, pravilnik_o_aerosolnim_rasprasivacima, pravilnik_o_areometrima, zakon_o_zvanicnoj_statistici, dinarska_vrednost_evropskih_pragova, naredba_o_merama_postupanja_u_cilju_unistavanja_unete_alohtone_divlje_vrste_heracleum_sosnowskyi, zakon_o_regionalnom_razvoju, zakon_o_glavnom_gradu, sporazum_francuska_dvostruko_oporezivanje, eticki_kodeks_javnih_izvrsitelja, nema_zakona.
 - Jedno pitanje korisnika moze da se odnosi na vise zakona.
 - Vrati zakone koji mogu da pomognu prilikom generisanja odgovora.
 - ZA PITANJA O JAVNIM NABAVKAMA, REGISTRACIJI NA PORTALU, CENAMA, PONUDAMA I DRUGIM PRAKTIČNIM PITANJIMA: UVEK vrati i 'zakon_o_javnim_nabavkama' i 'index' (albaglanz.com/index.html) da bi chatbot mogao da citira i zakonske odredbe i praktične savete. 'index' kolekcija sadrži praktične odgovore i savete koje je važno uključiti.

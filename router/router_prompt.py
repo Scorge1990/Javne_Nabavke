@@ -61,7 +61,7 @@ Ponudjeni zakoni i njihova objasnjenja su sledeci:
 - zakon_o_javnim_sluzbama
  - Zakon o javnim službama koji reguliše organizaciju, nadležnosti i rad javnih službi.
 - zakon_o_javnim_skijalistima
- - Zakon o javnim skijalištima koji reguliše uslove, organizaciju i upravljanje javnim skijalištima, uključujući koncesije, zaštitu životne sredine i sigurnost na skijalištima.
+ - Zakon o javnim skijalištima koji reguliše uslove, organizaciju i upravljanje javnim skijalištima, uključujući koncesije, zaštitu životne sredine i sigurnost na skijalištima. **KORISTI ZA SVA PITANJA O**: "javnim skijalištima", "skijališta", "skijanje", "koncesije za skijališta", "upravljanje skijalištima", "sigurnost na skijalištima", "zaštita životne sredine na skijalištima", "skijalište", "javno skijalište", ili bilo šta vezano za skijališta i skijanje.
 - zakon_o_komorama_zdravstvenih_radnika
  - Zakon o komorama zdravstvenih radnika koji reguliše organizaciju i rad profesionalnih komora za zdravstvene radnike.
 - zakon_o_mirnom_resavanju_radnih_sporova
@@ -113,6 +113,7 @@ Ponudjeni zakoni i njihova objasnjenja su sledeci:
 - ZA PITANJA O JAVNIM NABAVKAMA, REGISTRACIJI NA PORTALU, CENAMA, PONUDAMA I DRUGIM PRAKTIČNIM PITANJIMA: UVEK vrati i 'zakon_o_javnim_nabavkama' i 'index' (albaglanz.com/index.html) da bi chatbot mogao da citira i zakonske odredbe i praktične savete. 'index' kolekcija sadrži praktične odgovore i savete koje je važno uključiti.
 - PRIOITET ZA 'index' KOLEKCIJU: Za sva pitanja koja se tiču javnih nabavki, registracije, postupaka, cena, ponuda, i drugih praktičnih aspekata javnih nabavki, OBAVEZNO uključi 'index' kolekciju zajedno sa relevantnim zakonima.
 - OBAVEZNO ZA HERACLEUM SOSNOWSKYI: Za BILO KOJE pitanje koje spominje "kako uništiti", "kako unistiti", "uništavanje biljke", "alohtona vrsta", "invazivna biljka", "Heracleum", ili bilo šta vezano za uništavanje ili kontrolu biljaka, OBAVEZNO vrati 'naredba_o_merama_postupanja_u_cilju_unistavanja_unete_alohtone_divlje_vrste_heracleum_sosnowskyi'. Ne vracaj "nema_zakona" za ova pitanja.
+- OBAVEZNO ZA JAVNA SKIJALIŠTA: Za BILO KOJE pitanje koje spominje "javnim skijalištima", "skijališta", "skijanje", "koncesije za skijališta", "upravljanje skijalištima", "sigurnost na skijalištima", "zaštita životne sredine na skijalištima", "skijalište", "javno skijalište", "ski-staza", "ski-poligon", "ski-ruta", ili bilo šta vezano za skijališta i skijanje, OBAVEZNO vrati 'zakon_o_javnim_skijalistima'. Ne vracaj "nema_zakona" za ova pitanja.
 - Ukoliko korisnikovo pitanje ne odgovara ni jednom zakonu vrati listu sa generickim stringom: ["nema_zakona"].
 
 **PRIMER ODGOVORA:**

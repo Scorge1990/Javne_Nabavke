@@ -1,0 +1,231 @@
+[
+    {
+        "title": "Član 1",
+        "texts": [
+            "Ovom uredbom propisuju se osnovi, merila i uslovi za kategorizaciju objekata, delatnosti i zemljišta (u daljem tekstu: objekti) prema ugroženosti od požara u zavisnosti od tehnološkog procesa koji se u njima odvija, vrste i količine materijala koji se proizvodi, prerađuje ili skladišti, vrste materijala upotrebljenog za izgradnju objekata, značaja i veličine objekata i vrste biljnog pokrivača."
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba_o_razvrstavanju_objekta_delatnosti_i_zemljista_u_kategorije_ugrozenosti_od_pozara.html#clan_1"
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Objekti koji čine jedinstvenu tehnološku celinu razvrstavaju se u istu kategoriju ugroženosti od požara.",
+            "Izuzetno, deo objekta ili prostora, koji je zaštićen ili građevinski izveden tako da nema opasnosti od širenja požara na susedne prostore i objekte drugih, može se razvrstati u nižu kategoriju od one u koju je razvrstan celokupni objekat ili prostor."
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba_o_razvrstavanju_objekta_delatnosti_i_zemljista_u_kategorije_ugrozenosti_od_pozara.html#clan_2"
+    },
+    {
+        "title": "Član 3",
+        "texts": [
+            "Razvrstavanje objekata u kategorije ugroženosti od požara uslovljeno je: namenom objekta, tehnološkim procesom, vrstom i količinom zapaljivih materija, vrstom materijala upotrebljenog za izgradnju, namenom i značajem prostora i vrstom biljnog pokrivača, a primenom sledećih merila, tj. polazeći od:",
+            "1) namene objekta;",
+            "2) instaliranih kapaciteta postrojenja za proizvodnju, preradu ili promet, odnosno od vrste tehnološkog postupka;",
+            "3) kapaciteta rezervoara ili objekata za zapaljive materije i skladišta eksplozivnih materija;",
+            "4) veličine objekta i njegove lokacije i vrste konstrukcije i materijala od koga je izgrađen;",
+            "5) broja zaposlenih radnika i broja ljudi koji u objektu borave;",
+            "6) blizine profesionalne vatrogasno-spasilačke jedinice koju obrazuje nadležni organ;",
+            "7) površine prostora i biljnog pokrivača.",
+            "Pod proizvodnjom, preradom i uskladištavanjem, u smislu ove uredbe, podrazumeva se proizvodnja, prerada, unutrašnji transport, držanje i smeštaj eksplozivnih materija, zapaljivih tečnosti i gasova i drugih zapaljivih materija kod proizvođača ili distributera.",
+            "Pod prometom, u smislu ove uredbe, podrazumeva se: nabavka ili prodaja eksplozivnih materija, zapaljivih tečnosti i gasova i drugih zapaljivih materija; utovar u prevozna sredstva i istovar iz njih; prenošenje i rukovanje kod dopreme, smeštaja i otpreme u skladišnim i drugim radnim prostorijama; doprema i otprema putem cevovoda, pretakanje i druge radnje sa eksplozivnim materijama, zapaljivim tečnostima i gasovima i drugim zapaljivim materijama."
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba_o_razvrstavanju_objekta_delatnosti_i_zemljista_u_kategorije_ugrozenosti_od_pozara.html#clan_3"
+    },
+    {
+        "title": "Član 4",
+        "texts": [
+            "Objekti se razvrstavaju u sledeće kategorije ugroženosti od požara:",
+            "I. Objekti sa visokim rizikom od izbijanja požara:",
+            "U I.1 kategoriju razvrstavaju se:",
+            "1.1. objekti ili prostori u kojima se proizvode, prerađuju i uskladištavaju zapaljive tečnosti čija temperatura paljenja je ispod 38°C ili zapaljivi gasovi, koji ispunjavaju najmanje jedan od sledećih uslova, i to:",
+            "a) da imaju instalirane kapacitete za proizvodnju ili preradu veće od 220t/d,",
+            "b) da se skladište u rezervoarima ili objektima kapaciteta iznad 15000t;",
+            "1.2. objekti za proizvodnju i skladištenje eksplozivnih materija,",
+            "1.3. pogonski objekti u velikim hidroelektranama, termoelektranama sa generatorima hlađenim vodonikom i nuklearnim elektranama.",
+            "U I.2. kategoriju razvrstavaju se objekti ili prostori za proizvodnju, preradu i uskladištavanje zapaljivih tečnosti čija je temperatura paljenja ispod 38°C ili zapaljivi gasovi, koji ispunjavaju najmanje jedan od sledećih uslova, i to:",
+            "a) da imaju instalirane kapacitete za proizvodnju ili preradu od 190 do 220t/d,",
+            "b) da se skladište u rezervoarima ili objektima kapaciteta od 13000t do 15000t.",
+            "U I.3. kategoriju razvrstavaju se objekti ili prostori za proizvodnju, preradu i uskladištavanje zapaljivih tečnosti čija je temperatura paljenja ispod 38°C ili zapaljivi gasovi, koji ispunjavaju najmanje jedan od sledećih uslova:",
+            "a) da imaju instalirane kapacitete za proizvodnju ili preradu od 150 do 190t/d,",
+            "b) da se skladište u rezervoarima ili objektima kapaciteta od 11000t do 13000t.",
+            "U I.4. kategoriju razvrstavaju se objekti ili prostori za proizvodnju, preradu i uskladištavanje zapaljivih tečnosti čija je temperatura zapaljivosti ispod 38°C ili zapaljivi gasovi, koji ispunjavaju najmanje jedan od sledećih uslova, i to:",
+            "a) da imaju instalirane kapacitete za proizvodnju ili preradu od 120 do 150t/d,",
+            "b) da se skladište u rezervoarima ili objektima kapaciteta od 9000t do 11000t.",
+            "U I.5. kategoriju razvrstavaju se objekti ili prostori za proizvodnju, preradu i uskladištavanje zapaljivih tečnosti čija je temperatura zapaljivosti ispod 38°C ili zapaljivi gasovi, koji ispunjavaju najmanje jedan od sledećih uslova, i to:",
+            "a) da imaju instalirane kapacitete za proizvodnju ili preradu od 100 do 125t/d,",
+            "b) da se skladište u rezervoarima ili objektima kapaciteta od 7000 t do 9000 t.",
+            "U I.6. kategoriju razvrstavaju se:",
+            "1. objekti ili prostori za proizvodnju, preradu i uskladištavanje zapaljivih tečnosti čija je temperatura zapaljivosti ispod 38°C ili zapaljivi gasovi, koji ispunjavaju najmanje jedan od sledećih uslova, i to:",
+            "a) da imaju instalirane kapacitete za proizvodnju ili preradu od 80 do 100t/d,",
+            "b) da se skladište u rezervoarima ili objektima kapaciteta od 5000t do 7000t;",
+            "2. objekti ili prostori za proizvodnju, preradu i uskladištavanje zapaljivih tečnosti čija je temperatura zapaljivosti od 38°C do 60°C i koji ispunjavaju najmanje jedan od sledećih uslova, i to:",
+            "a) da imaju instalirane kapacitete za proizvodnju ili preradu veće od 120t/d,",
+            "b) skladište u rezervoarima ili objektima količine veće od 9000 t.",
+            "U I.7. kategoriju razvrstavaju se:",
+            "1. objekti ili prostori za proizvodnju, preradu i uskladištavanje zapaljivih tečnosti čija je temperatura zapaljivosti ispod 38°C ili zapaljivi gasovi, koji ispunjavaju najmanje jedan od sledećih uslova, i to:",
+            "a) da imaju instalirane kapacitete za proizvodnju ili preradu od 60 do 80t/d,",
+            "b) da se skladište u rezervoarima ili objektima količine od 3000t do 5000t;",
+            "2. objekti ili prostori za proizvodnju, preradu i uskladištavanje zapaljivih tečnosti čija je temperatura zapaljivosti od 38°C do 60°C i koji ispunjavaju najmanje jedan od sledećih uslova, i to:",
+            "a) da imaju instalirane kapacitete za proizvodnju ili preradu od 100 do 120t/d,",
+            "b) da se skladište u rezervoarima ili objektima količine od 7000t do 9000t;",
+            "3. objekti ili prostori za proizvodnju, preradu i uskladištavanje zapaljivih tečnosti čija je temperatura zapaljivosti od 60°C do 100°C i koji ispunjavaju najmanje jedan od sledećih uslova, i to:",
+            "a) da imaju instalirane kapacitete za proizvodnju ili preradu veće od 120t/d,",
+            "b) da se skladište u rezervoarima ili objektima količine veće od 9000t;",
+            "4. objekti ili prostori u kojima se proizvode, prerađuju i uskladištavaju materije sklone samopaljenju, otrovne ili nagrizajuće materije, oksidirajuće materije i materije koje se mogu zapaliti ili stvoriti eksplozivne koncentracije zbog reakcije vode ili kiseonika u količinama većim od 5000t,",
+            "5. objekti za proizvodnju, preradu i obradu zapaljivi čvrstih materija kapaciteta većeg od 200t/d, pri čemu nastaju eksplozivne smeše gasova, para i prašine,",
+            "6. crpna postrojenja ili stanice za zapaljive tečnosti čija je temperatura paljenja ispod 38°C,",
+            "7. prostori sa zaštićenom i visokokvalitetnom šumom (nacionalni parkovi i sl.) sa površinom većom od 10000ha.",
+            "U l.8. kategoriju razvrstavaju se:",
+            "1. objekti ili prostori za proizvodnju, preradu i uskladištavanje zapaljivih tečnosti čija je temperatura zapaljivosti ispod 38°C ili zapaljivi gasovi, koji ispunjavaju najmanje jedan od sledećih uslova, i to:",
+            "a) da imaju instalirane kapacitete za proizvodnju ili preradu od 40 do 60t/d,",
+            "b) da se skladište u rezervoarima ili objektima količine od 800t do 3000t;",
+            "2. objekti ili prostori za proizvodnju, preradu i uskladištavanje zapaljivih tečnosti čija je temperatura zapaljivosti od 38°C do 60°C i koji ispunjavaju najmanje jedan od sledećih uslova, i to:",
+            "a) da imaju instalirane kapacitete za proizvodnju ili preradu od 70 do 100t/d,",
+            "b) da se skladište u rezervoarima ili objektima količine od 4000t do 7000t;",
+            "3. objekti ili prostori za proizvodnju, preradu i uskladištavanje zapaljivih tečnosti čija je temperatura zapaljivosti od 60°C do 100°C i koji ispunjavaju najmanje jedan od sledećih uslova, i to:",
+            "a) da imaju instalirane kapacitete za proizvodnju ili preradu od 100 do 120t/d,",
+            "b) da se skladište u rezervoarima ili objektima količine od 7000t do 9000t;",
+            "4. objekti ili prostori u čijim se pogonima proizvode, prerađuju i uskladištavaju materije sklone samopaljenju, otrovne ili nagrizajuće materije, koji ispunjavaju najmanje jedan od sledećih uslova, i to:",
+            "a) da imaju instalirane kapacitete za proizvodnju ili preradu veće od 60t/d,",
+            "b) da se skladište u rezervoarima ili objektima količine od 3000t do 5000t;",
+            "5. objekti ili prostori za proizvodnju, preradu i uskladištavanje zapaljivih tečnosti čija je temperatura zapaljivosti od 100°C do 200°C i koji ispunjavaju najmanje jedan od sledećih uslova, i to:",
+            "a) da imaju instalirane kapacitete za proizvodnju ili preradu veće od 130t/d,",
+            "b) da se skladište u rezervoarima ili objektima količine veće od 9000t;",
+            "6. objekti za proizvodnju, preradu i obradu zapaljivih čvrstih materija i predmeta temperature paljenja ispod 300°C kapaciteta od 140 do 200t/d pri čemu nastaju eksplozivne smeše prašina,",
+            "7. proizvodni pogoni u kojima se koriste zapaljive tečnosti i zapaljivi gasovi, kao što su topionice, čeličane, livnice, ciglane, proizvodnja porculana i stakla, farbare, gumarska industrija i sl.,",
+            "8. objekti za proizvodnju, preradu i uskladištavanje zapaljivih vlaknastih materija,",
+            "9. crpna postrojenja i stanice za zapaljive tečnosti temperature paljenja iznad 38°C do 60°C,",
+            "10. prostori sa zaštićenom i visokokvalitetnom šumom (nacionalni parkovi i sl.) površine od 5000ha do 10000ha.",
+            "II. Objekti sa povećanim rizikom od izbijanja požara:",
+            "U II.1. kategoriju razvrstavaju se:",
+            "1. objekti za proizvodnju, preradu ili uskladištavanje zapaljivih tečnosti čija je temperatura zapaljivosti ispod 38°C ili zapaljivi gasovi, koji ispunjavaju najmanje jedan od sledećih uslova, i to:",
+            "a) da imaju instalirane kapacitete za proizvodnju ili preradu od 20 do 40t/d,",
+            "b) da se skladište u rezervoarima ili objektima količine od 200t do 800t;",
+            "2. objekti ili prostori za proizvodnju, preradu i uskladištavanje zapaljivih tečnosti čija je temperatura zapaljivosti od 38°C do 60°C i koji ispunjavaju najmanje jedan od sledećih uslova, i to:",
+            "a) da imaju instalirane kapacitete za proizvodnju ili preradu od 40 do 70t/d,",
+            "b) da se skladište u rezervoarima ili objektima količine od 1000t do 4000t;",
+            "3. objekti ili prostori za proizvodnju, preradu i uskladištavanje zapaljivih tečnosti čija je temperatura zapaljivosti od 60°C do 100°C i koji ispunjavaju najmanje jedan od sledećih uslova, i to:",
+            "a) da imaju instalirane kapacitete za proizvodnju ili preradu od 70 do 100t/d,",
+            "b) da se skladište u rezervoarima ili objektima količine od 4000t do 7000t;",
+            "4. objekti ili prostori za proizvodnju, preradu i uskladištavanje zapaljivih tečnosti čija je temperatura zapaljivosti od 100°C do 200°C i koji ispunjavaju najmanje jedan od sledećih uslova, i to:",
+            "a) da imaju instalirane kapacitete za proizvodnju ili preradu od 70 do 130t/d,",
+            "b) da se skladište u rezervoarima ili objektima količine od 5000t do 9000t;",
+            "5. objekti ili prostori u čijim se pogonima proizvode, prerađuju i uskladištavaju materije sklone samopaljenju, otrovne ili nagrizajuće materije, koji ispunjavaju najmanje jedan od sledećih uslova, i to:",
+            "a) da imaju instalirane kapacitete za proizvodnju ili preradu od 20 do 40t/d,",
+            "b) da se skladište u rezervoarima ili objektima količine od 800t do 3000t;",
+            "6. objekti za proizvodnju, preradu i skladištenje zapaljivih čvrstih materija i predmeta temperature paljenja ispod 300°C koji ispunjavaju najmanje jedan od sledećih uslova, i to:",
+            "a) da imaju instalirane kapacitete za proizvodnju ili preradu od 80 do 140t/d,",
+            "b) da se skladište kapaciteta od 1000t do 5000t;",
+            "7. objekti u čijim se pogonima obrađuju, prerađuju i uskladištavaju zapaljive čvrste materije u količinama od 50 do 100t/d, a u radu se koriste zapaljive tečnosti temperature paljenja ispod 60°C,",
+            "8. objekti u čijim se pogonima proizvode, prerađuju i uskladištavaju zapaljive vlaknaste materije,",
+            "9. javni i poslovni objekti u kojima se okuplja više od 1000 lica i poslovni objekti koji spadaju u kategoriju visokih objekata,",
+            "10. objekti bolnica, stacionara, socijalnog i kolektivnog smeštaja,",
+            "11. prostori sa zaštićenom i visokokvalitetnom šumom (nacionalni parkovi i sl.) površine od 800ha do 5000ha;",
+            "12. tuneli na javnim putevima čija je dužina veća od 3 km ili čija ukupna dužina prelazi 4 km na dužini od 20 km puta,",
+            "13. podzemne železničke i metro stanice,",
+            "14. transformatorska stanica ili razvodno postrojenje 400/220kV, 220/110kV, 110/35kV i 110/10kV, sa pripadajućim rezervnim napajanjem signalno-komandnih uređaja,",
+            "15. ostali nuklearni objekti,",
+            "16. pogonski objekti u hidroelektranama i termoelektranama koji ne ispunjavaju uslov iz tačke 1.3 ovog člana i energane-toplane.",
+            "U II.2. kategoriju razvrstavaju se:",
+            "1. objekti ili prostori u kojima se proizvode ili prerađuju zapaljive tečnosti temperature paljenja ispod 38°C ili zapaljivi gasovi, koji imaju instalirane kapacitete za proizvodnju ili preradu do 20t/d,",
+            "2. objekti ili prostori u kojima se proizvode ili prerađuju zapaljive tečnosti temperature paljenja od 38°C do 65°C, koji imaju instalirane kapacitete za proizvodnju ili preradu do 40t/d,",
+            "3. objekti ili prostori u kojima se proizvode ili prerađuju zapaljive tečnosti temperature paljenja od 60°C do 100°C, koji imaju instalirane kapacitete za proizvodnju ili preradu od 40 do 70t/d,",
+            "4. objekti ili prostori u kojima se proizvode, prerađuju ili koriste materije sklone samopaljenju,",
+            "5. objekti ili prostori u kojima se prerađuju ili obrađuju zapaljive čvrste materije, a u procesu rada se koriste zapaljive tečnosti temperature paljenja ispod 60°C,",
+            "6. javni i poslovni objekti u kojima se okuplja od 500 do 1000 lica,",
+            "7. prostori sa zaštićenom i visokokvalitetnom šumom (nacionalni parkovi i sl.), površine do 800ha,",
+            "8. tuneli na javnim putevima čija je dužina veća od 1 km a manja od 3 km, ili čija je ukupna dužina veća od 2 km a manja od 4 km na dužini puta od 20 km,",
+            "9. transformatorska stanica 35/10kV i 35/6kV sa pripadajućim rezervnim napajanjem signalno-komandnih uređaja,",
+            "10. velike javne garaže (korisne površine veće od 1500m2).",
+            "U II.3. kategoriju razvrstavaju se:",
+            "1. objekti za proizvodnju, preradu i uskladištavanje zapaljivih tečnosti čija je temperatura paljenja preko 200°C,",
+            "2. objekti u kojima se prerađuju čvrste zapaljive materije a u radu se ne koriste zapaljive tečnosti čija je temperatura paljenja ispod 65°C ili vrši skladištenje ovih materija u količini do 1000 tona,",
+            "3. objekti u kojima se proizvode ili prerađuju materije u zagrejanom, razmekšanom ili rastopljenom stanju, pri čemu se oslobađa toplota praćena iskrama i plamenom kao što su na primer pogoni za topljenje, livenje i preradu metala,",
+            "4. javni i poslovni objekti u kojima se okuplja od 200 do 500 lica;",
+            "5. industrijski objekti površine preko 300m2koji ne ispunjavaju druge uslove propisane ovim članom,",
+            "6. stanice za snabdevanje motornih vozila gorivom,",
+            "7. magistralni i međunarodni naftovodi, gasovodi i produktovodi i pripadajući objekti (glavnemerno-regulacione stanice, kompresori, čistačke stanice, blok ventili i dr.),",
+            "8. objekti u kojima se u procesu proizvodnje koriste, proizvode ili skladište radioaktivni materijali,",
+            "9. Objekt auto-servisa površine preko 500 m2.",
+            "III. Objekti sa izvesnim rizikom od izbijanja požara:",
+            "U III. kategoriju razvrstavaju se:",
+            "1. distributivni gasovodi i merno-regulacione stanice na njima,",
+            "2. objekti u kojima se radi sa negorivim materijama i hladnim mokrim materijalom,",
+            "3. objekti u kojima se proizvode negorivi gasovi,",
+            "4. objekti sa mokrom tehnologijom,",
+            "5. objekti za dobijanje i hladnu obradu minerala i sirovina, za preradu ribe, mesa i mlečnih proizvoda, proizvoda od voća i povrća,",
+            "6. javni i poslovni objekti u kojima se okuplja do 200 lica,",
+            "7. transformatorske stanice 10/0,4kV preko 1000KVA po trafo jedinici sa pripadajućim rezervnim napajanjem i komandno-signalnim uređajima i visokonaponskim i niskonaponskim razvodom,",
+            "8. male i srednje javne garaže (korisne površine ispod 1500m2),",
+            "9. visoki stambeni objekti koji nisu razvrstani po drugom kriterijumu,",
+            "10. objekti auto-servisa površine do 500 m2,",
+            "11. objekti protivgradnih stanica,",
+            "12. objekti za uzgoj stoke i živine,",
+            "13. otvoreni sportski stadioni."
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba_o_razvrstavanju_objekta_delatnosti_i_zemljista_u_kategorije_ugrozenosti_od_pozara.html#clan_4"
+    },
+    {
+        "title": "Član 5",
+        "texts": [
+            "Objekti koji se, primenom dva ili više različitih uslova ili merila iz člana 4. ovog pravilnika, mogu razvrstati u različite kategorije, razvrstaće se tako da im se određuje viša od mogućih kategorija.",
+            "Objekti koji se ne mogu razvrstati na način određen stavom 1. ovog člana i članom 4. ove uredbe, razvrstavaju se u III kategoriju."
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba_o_razvrstavanju_objekta_delatnosti_i_zemljista_u_kategorije_ugrozenosti_od_pozara.html#clan_5"
+    },
+    {
+        "title": "Član 6",
+        "texts": [
+            "Izuzetno, pojedini objekti mogu se svrstati i u nižu kategoriju ugroženosti od požara i eksplozija nego što je to predviđeno čl. 4. i 5. ove uredbe - pod uslovom da su na objektu sprovedene mere zaštite od požara i eksplozija kojima se postiže ekonomičnije ili na drugi način povoljnije rešenje zaštite od požara i eksplozija za vlasnika ili korisnika objekta, a istovremeno se zadržava isti ili postiže veći nivo zaštite.",
+            "Ispunjenost uslova za razvrstavanje iz stava 1. ovog člana dokazuje se dokumentacijom u kojoj je obrađena procena požarne ugroženosti i u kojoj su prikazane primenjene mere zaštite od požara i eksplozija."
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba_o_razvrstavanju_objekta_delatnosti_i_zemljista_u_kategorije_ugrozenosti_od_pozara.html#clan_6"
+    },
+    {
+        "title": "Član 7",
+        "texts": [
+            "Kada se objekti nalaze na teritoriji više jedinica lokalne samouprave, njihovo razvrstavanje vrši se prema sedištu vlasnika ili korisnika, u skladu sa čl. 4. i 5. ove uredbe."
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba_o_razvrstavanju_objekta_delatnosti_i_zemljista_u_kategorije_ugrozenosti_od_pozara.html#clan_7"
+    },
+    {
+        "title": "Član 8",
+        "texts": [
+            "Objekti od izuzetnog značaja za Republiku Srbiju, teritorijalnu autonomiju ili jedinicu lokalne samouprave ili od interesa za odbranu zemlje, su objekti koji su zakonom, odnosno odlukom nadležnog organa utvrđeni kao nosioci razvoja, odnosno oni koji se zbog svog značaja nalaze pod posebnim režimom zaštite.",
+            "Objekti iz stava 1. ovog člana razvrstavaju se u I.2, II.1. ili II.3. kategoriju ugroženosti od požara.",
+            "Objekti u kojima se obavlja proizvodnja za vojne potrebe (namenska industrija) razvrstavaju se u kategorije u skladu sa ovom uredbom.",
+            "Objekti u kojima se obavljaju poslovi iz nadležnosti Ministarstva odbrane i Vojske Srbije, kao i delatnosti od uticaja na te nadležnosti razvrstavaju se u kategorije ugroženosti u skladu sa ovom uredbom i propisima kojima se uređuje sistem odbrane Republike Srbije."
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba_o_razvrstavanju_objekta_delatnosti_i_zemljista_u_kategorije_ugrozenosti_od_pozara.html#clan_8"
+    },
+    {
+        "title": "Član 9",
+        "texts": [
+            "Kada dođe do promene uslova na osnovu kojih je izvršena kategorizacija ugroženosti od požara objekata, vlasnik ili korisnik objekata i privredno društvo, odnosno drugo pravno lice dužno je da o tome, pismenim putem, obavesti mesno nadležnu organizacionu jedinicu Ministarstva unutrašnjih poslova."
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba_o_razvrstavanju_objekta_delatnosti_i_zemljista_u_kategorije_ugrozenosti_od_pozara.html#clan_9"
+    },
+    {
+        "title": "Član 10",
+        "texts": [
+            "Odredbe ove uredbe ne primenjuju se na: verske objekte; plovne objekte; stambene objekte koji ne pripadaju kategoriji visokih objekata; poslovne prostore površine do 150m2koji se koriste za obavljanje samostalne delatnosti (ordinacija, apoteka, agencija, servis, ugostiteljke, trgovinske i zanatske radnje i radionice, biro, kancelarija, trafika, pomoćni objekti, gradilišta i sl.), odnosno na umetničke i stare zanate, poslove domaće radinosti (filigranska, opančarska i grnčarska delatnost, kao i izrada predmeta koji imaju estetsko obeležje narodnog stvaralaštva), a u kojima se ne koriste eksplozivne materije, zapaljive tečnosti i gasovi."
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba_o_razvrstavanju_objekta_delatnosti_i_zemljista_u_kategorije_ugrozenosti_od_pozara.html#clan_10"
+    },
+    {
+        "title": "Član 11",
+        "texts": [
+            "Stupanjem na snagu ove uredbe prestaje da važi Uredba o osnovama, merilima i uslovima za razvrstavanje organizacija i organa u odgovarajuće kategorije ugroženosti od požara (\"Službeni glasnik SRS\", br. 58/89 i 4/90)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba_o_razvrstavanju_objekta_delatnosti_i_zemljista_u_kategorije_ugrozenosti_od_pozara.html#clan_11"
+    },
+    {
+        "title": "Član 12",
+        "texts": [
+            "Ova uredba stupa na snagu osmog dana od dana objavljivanja u \"Službenom glasniku Republike Srbije\".",
+            "",
+            "Ako ne probate više različitih izbora nikada nećete biti sigurni da li imate najbolju opciju u svojim rukama. Mi Vam tu mogućnost nudimo besplatno! Popunite formular i dobićete priliku da bez ikakvih troškova saznate da li je Paragraf dobar izbor za Vas.",
+            "Ukoliko želite da Vas obaveštavamo o novostima i aktivnostima kompanije Paragraf prijavite se na našu mailing listu. Vaš e-mail neće biti upotrebljen u druge svrhe."
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba_o_razvrstavanju_objekta_delatnosti_i_zemljista_u_kategorije_ugrozenosti_od_pozara.html#clan_12"
+    }
+]

@@ -1,0 +1,1552 @@
+[
+    {
+        "title": "Član 1",
+        "texts": [
+            "Ovim pravilnikom bliže se propisuju uslovi i način za: izbor trase gasovoda, lokaciju i način izgradnje objekata koji su sastavni delovi gasovoda; izbor materijala, opreme i uređaja; radne parametre gasovoda; način merenja količina prirodnog gasa; regulaciju pritiska i mere sigurnosti od prekoračenja dozvoljenog radnog pritiska; obeležavanje trase gasovoda; zaštitni pojas; radni pojas; zone opasnosti i zaštita od korozije gasovoda; uslovi i način daljinskog nadzora i upravljanja u cilju ostvarivanja bezbednog i nesmetanog prenosa informacija koje se odnose na korišćenje i održavanje gasovoda; uslovi projektovanja, ugradnje i održavanja električne opreme i instalacije u zonama opasnosti; uslovi projektovanja sistema odorizacije, izbor sredstava i način odorisanja; uslovi i način ispitivanja gasovoda u toku izgradnje, a pre njihovog puštanja u rad; uslovi i način korišćenja i rukovanja gasovodima i njihovo održavanje u toku rada, remonta i vanrednih događaja; uslovi i način zaštite od korozije i propuštanja gasovoda; pregled i održavanje sigurnosnih uređaja; uslovi i način postupanja sa gasovodima koji se više neće koristiti; uslove i način zaštite gasovoda, odnosno njegovih pripadajućih nadzemnih uređaja, postrojenja i objekata od neovlašćene upotrebe ili oštećenja, i to za gasovode radnog pritiska jednakog ili manjeg od 16 bar.",
+            "2. Pojmovi"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_1"
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Izrazi upotrebljeni u ovom pravilniku imaju sledeća značenja:",
+            "1) zaštitni pojas gasovoda je prostor sa jedne i druge strane cevovoda, računajući od ose cevovoda, u kome drugi objekti utiču na njihovu sigurnost u kom se primenjuju posebne mere zaštite;",
+            "2) zemljišni pojas je kontinualna površina sa obe strane useka i nasipa, širine najmanje 1 m, mereno od linija koje čine krajnje tačke poprečnog profila javnog puta van naselja na spoljnu stranu, a u skladu sa propisima kojima se uređuju javni putevi;",
+            "3) zone opasnosti su delovi prostora u kojima se nalaze, ili postoji mogućnost da se nađu zapaljive ili eksplozivne smeše gasa i vazduha;",
+            "4) maksimalni incidentni pritisak (MIP - maximum incidental pressure) je maksimalni dozvoljeni pritisak koji se može pojaviti (u kratkom periodu) u bilo kojoj tački gasovoda u pogonu, a kao posledica kvara na gasovodnom sistemu;",
+            "5) maksimalni radni pritisak (MOP - maximum operating pressure) je maksimalni pritisak pod kojim gasovod sme da radi kontinualno pod normalnim okolnostima, i može da bude jednak projektnom pritisku ili manji od njega;",
+            "6) merna stanica (MS) je stanica opremljena armaturom i uređajima za merenje protoka, temperature i pritiska gasa tehnološki spojena sa gasovodom;",
+            "7) merno-regulaciona stanica (MRS) je stanica opremljena uređajima i opremom za merenje i regulaciju protoka, pritiska i temperature gasa, tehnološki spojena sa gasovodom;",
+            "8) najmanja granica tečenja je granica tečenja materijala cevi koju proizvođač garantuje kao najmanju;",
+            "9) naseljena zgrada je zgrada namenjena za stanovanje ili boravak ljudi;",
+            "10) obodno naprezanje je naprezanje u materijalu zida cevi prouzrokovano unutrašnjim pritiskom medijuma u cevi;",
+            "11) pritisak je fizička veličina koja definiše dejstvo sile na određenu površinu i sve veličine u ovom pravilniku odnose se na nadpritisak i izražene su u bar ili MPa;",
+            "12) pritisak ispitivanja na čvrstoću (STP - strenght test pressure) je pritisak u sistemu tokom ispitivanja na čvrstoću;",
+            "13) projektni pritisak (DP - design pressure) je pritisak na osnovu koga se vrši proračun gasovoda;",
+            "14) projektni faktor (f) je faktor koji se primenjuje pri izračunavanju debljine zida cevi;",
+            "15) pružni pojas je zemljišni pojas sa obe strane pruge, u širini od 8 m, u naseljenom mestu 6 m, računajući od ose krajnjih koloseka, zemljište ispod pruge i vazdušni prostor u visini od 14 m. Pružni pojas obuhvata i zemljišni prostor službenih mesta (stanica, stajališta, rasputnica, putnih prelaza i slično) koji obuhvata sve tehničko-tehnološke objekte, instalacije i pristupno-požarni put do najbližeg javnog puta;",
+            "16) radni pojas je najmanji prostor duž trase gasovoda potreban za njegovu nesmetanu i bezbednu izgradnju;",
+            "17) regulaciona stanica (RS) je stanica opremljena uređajima i opremom, koja služi za redukciju i regulaciju pritiska gasa, tehnološki spojena sa gasovodom.",
+            "II TRASA GASOVODA"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_2"
+    },
+    {
+        "title": "Član 3",
+        "texts": [
+            "Pri izboru trase, projektovanju i izgradnji gasovoda, mora se osigurati bezbedan i pouzdan rad distributivnog gasovoda, kao i zaštita ljudi i imovine, tj. sprečiti mogućnost štetnih uticaja okoline na gasovod i gasovoda na okolinu.",
+            "Gasovod mora da obezbeđuje neprekidnu i sigurnu isporuku prirodnog gasa potrošačima sa mogućnošću isključivanja pojedinih deonica.",
+            "Pri izboru trase gasovoda mora se osigurati:",
+            "1) da gasovod ne ugrožava postojeće ili planirane objekte, i planiranu namenu korišćenja zemljišta u skladu sa planskim dokumentima;",
+            "2) racionalno korišćenje podzemnog prostora i građevinske površine;",
+            "3) ispunjenost uslova u pogledu tehničkih zahteva drugih infrastrukturnih objekata u skladu sa posebnim propisima;",
+            "4) usklađenost sa geotehničkim zahtevima.",
+            "Gasovodi se po pravilu grade na zemljištu u javnoj svojini.",
+            "Ukoliko je izgradnja gasovoda na zemljištu u privatnoj svojini tehnoekonomski opravdana, operator distributivnog sistema prirodnog gasa mora da predvidi sve neophodne preduslove za neometanu i sigurnu distribuciju gasa i da omogući obezbeđenje pristupa gasovodu u slučaju potrebne intervencije.",
+            "U naseljenim mestima gasovod se po pravilu gradi u regulacionom pojasu saobraćajnica, u infrastrukturnim koridorima.",
+            "Minimalna dozvoljena horizontalna rastojanja podzemnih gasovoda od stambenih objekata, objekata u kojima stalno ili povremeno boravi veći broj ljudi (od bliže ivice cevi do temelja objekta) su:",
+            "MOP ≤ 4 bar(m)",
+            "4 bar < MOP ≤ 10 bar(m)",
+            "10 bar <MOP≤ 16 bar(m)",
+            "Gasovod od čeličnih cevi",
+            "1",
+            "2",
+            "3",
+            "Gasovod od polietilenskih cevi",
+            "1",
+            "3",
+            "-",
+            "Rastojanja iz stava 7. ovog člana se mogu izuzetno smanjiti na minimalno 1 m uz primenu dodatnih mera zaštite pri čemu se ne sme ugroziti stabilnost objekata iz stava 7. ovog člana.",
+            "Obavezna mera zaštite za smanjenje minimalnog horizontalnog rastojanja gasovoda iz stava 7. ovog člana je:",
+            "1) za čelične gasovode - primena projektnog faktora za proračun debljine zida cevi 0,25;",
+            "2) za gasovode od polietilena (u daljem tekstu: PE gasovod) - primena fizičke zaštite gasovoda od oštećenja pri radovima u blizini gasovoda (postavljanje gasovoda u zaštitnu cev, postavljanje zaštitnih ploča iznad gasovoda, itd.) pri čemu gasovod mora biti fizički zaštićen na delu gasovoda gde je horizontalno rastojanje smanjeno i dodatno po 1 m na obe strane.",
+            "Pored mera iz stava 9. ovog člana mogu se primeniti i sledeće dodatne mere zaštite: povećana dubina ukopavanja gasovoda, postavljanje gasovoda u zaštitnu cev, postavljanje zaštitnih ploča iznad gasovoda, kao i druge slične mere."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_3"
+    },
+    {
+        "title": "Član 4",
+        "texts": [
+            "Minimalna dozvoljena rastojanja spoljne ivice podzemnih čeličnih gasovoda 10 bar <MOP≤ 16 bar i čeličnih i PE gasovoda 4 bar < MOP ≤ 10 bar sa drugim gasovodima, infrastrukturnim i drugim objektima su:",
+            "",
+            "Minimalno dozvoljeno rastojanje(m)",
+            "",
+            "Ukrštanje",
+            "Paralelno vođenje",
+            "Gasovodi međusobno",
+            "0,20",
+            "0,60",
+            "Od gasovoda do vodovoda i kanalizacije",
+            "0,20",
+            "0,40",
+            "Od gasovoda do vrelovoda i toplovoda",
+            "0,30",
+            "0,50",
+            "Od gasovoda do prohodnih kanala vrelovoda i toplovoda",
+            "0,50",
+            "1,00",
+            "Od gasovoda do niskonaponskih i visokonaponskih el. kablova",
+            "0,30",
+            "0,60",
+            "Od gasovoda do telekomunikacionih kablova",
+            "0,30",
+            "0,50",
+            "Od gasovoda do vodova hemijske industrije i tehnoloških fluida",
+            "0,20",
+            "0,60",
+            "Od gasovoda do rezervoara* i drugih izvora opasnosti stanice za snabdevanje gorivom prevoznih sredstava u drumskom saobraćaju, manjih plovila, manjih privrednih i sportskih vazduhoplova",
+            "-",
+            "5,00",
+            "Od gasovoda do izvora opasnosti postrojenja i objekata za skladištenje zapaljivih i gorivih tečnosti ukupnog kapaciteta najviše 3 m3",
+            "-",
+            "3,00",
+            "Od gasovoda do izvora opasnosti postrojenja i objekata za skladištenje zapaljivih i gorivih tečnosti ukupnog kapaciteta više od 3 m3a najviše 100 m3",
+            "-",
+            "6,00",
+            "Od gasovoda do izvora opasnosti postrojenja i objekata za skladištenje zapaljivih i gorivih tečnosti ukupnog kapaciteta preko 100 m3",
+            "-",
+            "15,00",
+            "Od gasovoda do izvora opasnosti postrojenja i objekata za skladištenje zapaljivih gasova ukupnog kapaciteta najviše 10 m3",
+            "-",
+            "5,00",
+            "Od gasovoda do izvora opasnosti postrojenja i objekata za skladištenje zapaljivih gasova ukupnog kapaciteta većeg od 10 m3a najviše 60 m3",
+            "-",
+            "10,00",
+            "Od gasovoda do izvora opasnosti postrojenja i objekata za skladištenje zapaljivih gasova ukupnog kapaciteta preko 60 m3",
+            "-",
+            "15,00",
+            "Od gasovoda do šahtova i kanala.",
+            "0,20",
+            "0,30",
+            "Od gasovoda do visokog zelenila",
+            "-",
+            "1,50",
+            "* rastojanje se meri do gabarita rezervoara",
+            "Minimalna dozvoljena rastojanja spoljne ivice podzemnih čeličnih i PE gasovoda MOP ≤ 4bar sa drugim gasovodima, infrastrukturnim i drugim objektima su:",
+            "",
+            "Minimalno dozvoljeno rastojanje(m)",
+            "Ukrštanje",
+            "Paralelno vođenje",
+            "Gasovodi međusobno",
+            "0,20",
+            "0,40",
+            "Od gasovoda do vodovoda i kanalizacije",
+            "0,20",
+            "0,40",
+            "Od gasovoda do vrelovoda i toplovoda",
+            "0,30",
+            "0,50",
+            "Od gasovoda do prohodnih kanala vrelovoda i toplovoda",
+            "0,50",
+            "1,00",
+            "Od gasovoda do niskonaponskih i visokonaponskih el. kablova",
+            "0,20",
+            "0,40",
+            "Od gasovoda do telekomunikacionih i optičkih kablova",
+            "0,20",
+            "0,40",
+            "Od gasovoda do vodova hemijske industrije i tehnoloških fluida",
+            "0,20",
+            "0,60",
+            "Od gasovoda do rezervoara* i drugih izvora opasnosti stanice za snabdevanje gorivom prevoznih sredstava u drumskom saobraćaju, manjih plovila, manjih privrednih i sportskih vazduhoplova",
+            "-",
+            "5,00",
+            "Od gasovoda do izvora opasnosti postrojenja i objekata za skladištenje zapaljivih i gorivih tečnosti ukupnog kapaciteta najviše 3 m3",
+            "-",
+            "3,00",
+            "Od gasovoda do izvora opasnosti postrojenja i objekata za skladištenje zapaljivih i gorivih tečnosti ukupnog kapaciteta više od 3 m3a najviše 100 m3",
+            "-",
+            "6,00",
+            "Od gasovoda do izvora opasnosti postrojenja i objekata za skladištenje zapaljivih i gorivih tečnosti ukupnog kapaciteta preko 100 m3",
+            "-",
+            "15,00",
+            "Od gasovoda do izvora opasnosti postrojenja i objekata za skladištenje zapaljivih gasova ukupnog kapaciteta najviše 10 m3",
+            "-",
+            "5,00",
+            "Od gasovoda do izvora opasnosti postrojenja i objekata za skladištenje zapaljivih gasova ukupnog kapaciteta većeg od 10 m3a najviše 60 m3",
+            "-",
+            "10,00",
+            "Od gasovoda do izvora opasnosti postrojenja i objekata za skladištenje zapaljivih gasova ukupnog kapaciteta preko 60 m3",
+            "-",
+            "15,00",
+            "Od gasovoda do šahtova i kanala",
+            "0,20",
+            "0,30",
+            "Od gasovoda do visokog zelenila",
+            "-",
+            "1,50",
+            "* rastojanje se meri do gabarita rezervoara",
+            "Rastojanja iz st. 1. i 2. ovog člana mogu se izuzetno smanjiti na kratkim deonicama gasovoda dužine do 2 m uz primenu fizičkog obezbeđenja od oštećenja prilikom kasnijih intervencija na gasovodu i predmetnom vodu, ali ne manje od 0,2 m pri paralelnom vođenju, osim rastojanja od gasovoda do postrojenja i objekata za skladištenje zapaljivih i gorivih tečnosti i zapaljivih gasova.",
+            "Podzemno polaganje gasovoda nije dozvoljeno u krugu opasnog dela pogona u kojima se koriste, prerađuju i skladište eksplozivne materije, a koji su bliže uređeni posebnim propisima kojima je uređena oblast eksplozivnih materija."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_4"
+    },
+    {
+        "title": "Član 5",
+        "texts": [
+            "Minimalna horizontalna rastojanja podzemnih gasovoda od nadzemne elektro mreže i stubova dalekovoda su:",
+            "Minimalno rastojanje",
+            "Nazivni napon",
+            "pri ukrštanju(m)",
+            "pri paralelnom vođenju(m)",
+            "1 kV ≥ U",
+            "1",
+            "1",
+            "1 kV < U ≤ 20 kV",
+            "2",
+            "2",
+            "20 kV < U ≤ 35 kV",
+            "5",
+            "10",
+            "35 kV < U",
+            "10",
+            "15",
+            "Minimalno horizontalno rastojanje iz stava 1. ovog člana se računa od temelja stuba dalekovoda, pri čemu ne sme se ugroziti stabilnost stuba.",
+            "Prilikom ukrštanja gasovod se po pravilu postavlja iznad kanalizacije. Ukoliko se mora postaviti ispod, neophodno je primeniti dodatne mere radi sprečavanja eventualnog prodora gasa u kanalizaciju."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_5"
+    },
+    {
+        "title": "Član 6",
+        "texts": [
+            "Nadzemno polaganje čeličnih gasovoda dozvoljeno je samo u krugu industrijskih postrojenja.",
+            "Izuzetno od stava 1. ovog člana, nadzemno polaganje čeličnih gasovoda može se dozvoliti i van kruga industrijskih postrojenja, i to na mostovima, na prelazima preko kanala i vodenih tokova.",
+            "Nadzemno polaganje gasovoda pre ulaza u MRS koja je van kruga industrijskih postrojenja dozvoljeno je samo u ogradi MRS.",
+            "Nadzemno polaganje gasovoda od polietilenskih cevi (u daljem tekstu: PE cevi) nije dozvoljeno.",
+            "Nadzemno polaganje gasovoda nije dozvoljeno u krugu opasnog dela pogona u kojima se koriste, prerađuju i skladište eksplozivne materije, a koji su bliže uređeni posebnim propisimakojima je uređena oblast eksplozivnih materija."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_6"
+    },
+    {
+        "title": "Član 7",
+        "texts": [
+            "Minimalna horizontalna dozvoljena rastojanja nadzemnih gasovoda do nadzemnih elektro vodova i telekomunikacionih vodova su:",
+            "Instalacija",
+            "Minimalna rastojanja(m)",
+            "Nadzemni elektro vodovi",
+            "1 kV ≥ U",
+            "Visina stuba + 3 m*",
+            "1 kV < U ≤ 110 kV",
+            "Visina stuba + 3 m",
+            "110 kV < U ≤ 220 kV",
+            "Visina stuba + 3,75 m",
+            "400 kV < U",
+            "Visina stuba + 5 m",
+            "Telekomunikacioni vodovi",
+            "2,5",
+            "* ali ne manje od 10 m. Ovo rastojanje se može smanjiti na 2,5 m za vodove sa samonosećim kablovskim snopom.",
+            "Minimalna horizontalna dozvoljena rastojanja ugrađene nadzemne armature u gasovodu do nadzemnih elektro vodova i telekomunikacionih vodova su:",
+            "Instalacija",
+            "Minimalna rastojanja(m)",
+            "Nadzemni elektro vodovi",
+            "1 kV ≥ U",
+            "Visina stuba + 3 m*",
+            "1 kV < U ≤ 110 kV",
+            "Visina stuba + 3 m**",
+            "110 kV < U ≤ 220 kV",
+            "Visina stuba + 3,75 m**",
+            "400 kV < U",
+            "Visina stuba + 5 m**",
+            "Telekomunikacioni vodovi",
+            "2,5",
+            "* ali ne manje od 10 m.** ali ne manje od 15 m. Ovo rastojanje se može smanjiti na 8 m za vodove sa mehanički i električno pojačanom izolacijom."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_7"
+    },
+    {
+        "title": "Član 8",
+        "texts": [
+            "Minimalne visine postavljanja nadzemnih gasovoda od kote terena su:",
+            "Minimalna visina(m)",
+            "Na mestima prolaza ljudi",
+            "2,2",
+            "Na mestima gde nema transporta i prolaza ljudi",
+            "0,5",
+            "Na mestima prelaza neelektrifikovane industrijske železničke pruge (od gornje ivice šine)",
+            "5,6",
+            "Na mestima elektrifikovanih industrijskih železničkih pruga i tramvajskih pruga (od gornje ivice šine)",
+            "7,1",
+            "Na mestima mimoilaženja sa kontaktnom mrežom trolejbusa (od kolovozne trake puta)",
+            "7,3"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_8"
+    },
+    {
+        "title": "Član 9",
+        "texts": [
+            "Vertikalna svetla rastojanja između nadzemnih gasovoda i drugih cevovoda su:",
+            "1) pri nazivnom prečniku gasovoda do DN300 - ne manje od prečnika gasovoda, ali minimalno 150 mm;",
+            "2) pri nazivnom prečniku gasovoda DN300 i većem - minimalno 300 mm.",
+            "Ukrštanje nadzemnog gasovoda sa nadzemnim električnim vodovima je dozvoljeno samo ako su ovi izvedeni kao samonoseći kablovski snopovi.",
+            "Vertikalna rastojanja pri ukrštanju gasovoda i nadzemnih električnih vodova kod kojih je izolacija voda mehanički i električno pojačana pri njihovom najvećem ugibu su:",
+            "Nazivni napon",
+            "Minimalna udaljenost",
+            "kV",
+            "m",
+            "45 kV ≥ U",
+            "2,5",
+            "45 kV < U ≤ 110 kV",
+            "8",
+            "110 kV < U ≤ 220 kV",
+            "8,75",
+            "400 kV < U",
+            "10",
+            "Pri ukrštanju nadzemnih gasovoda sa nadzemnim električnim vodovima, električni vodovi moraju da prelaze iznad gasovoda, pri čemu se iznad gasovoda postavlja zaštitna mreža, a gasovod se mora uzemljiti."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_9"
+    },
+    {
+        "title": "Član 10",
+        "texts": [
+            "Minimalna horizontalna rastojanja spoljne ivice nadzemnih gasovoda od drugih objekata ili objekata paralelnih sa gasovodom su:",
+            "Zgrade i objekti u industrijskom kompleksu",
+            "Rastojanje(m)",
+            "Od gasovoda do izvora opasnosti stanice za snabdevanje gorivom prevoznih sredstava u drumskom saobraćaju, manjih plovila, manjih privrednih i sportskih vazduhoplova",
+            "10",
+            "Od gasovoda do izvora opasnosti postrojenja i objekata za skladištenje zapaljivih i gorivih tečnosti i zapaljivih gasova",
+            "15",
+            "Od gasovoda do ostalih industrijskih objekata koji su razvrstani u prvu i drugu kategoriju ugroženosti od požara u skladu sa posebnim propisom",
+            "10",
+            "Bliža šina neeletrifikovanog industrijskog koloseka uz uslov da eventualno iskliznuće kompozicije ne može ugroziti gasovod",
+            "5",
+            "Putevi u okviru fabrike ili preduzeća",
+            "1",
+            "Temelj stuba gasovoda do podzemnih instalacija",
+            "1",
+            "Ograda otkrivenog elektroenergetskog razvodnog postrojenja i transformatorske stanice",
+            "10",
+            "Trafostanica u objektu",
+            "5",
+            "Stubna trafostanica",
+            "10",
+            "Mesto ispuštanja rastopljenog metala i izvora otvorenog plamena",
+            "10",
+            "",
+            "III LOKACIJA MRS, MS I RS"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_10"
+    },
+    {
+        "title": "Član 11",
+        "texts": [
+            "Minimalna horizontalna rastojanja MRS, MS i RS od stambenih objekata i objekata u kojima stalno ili povremeno boravi veći broj ljudi su:",
+            "MOP na ulazu",
+            "Kapacitet m3/h",
+            "MOP ≤ 4 bar",
+            "4 bar < MOP ≤ 10 bar",
+            "10 bar <MOP≤ 16 bar",
+            "do 160",
+            "uz objekat (otvori na objektu moraju biti van zona opasnosti)",
+            "3 m ili uz objekat (na zid ili prema zidu bez otvora)",
+            "5 m ili uz objekat (na zid ili prema zidu bez otvora)",
+            "od 161 od 1500",
+            "3 m ili uz objekat (na zid ili prema zidu bez otvora)",
+            "5 m ili uz objekat (na zid ili prema zidu bez otvora)",
+            "8 m",
+            "od 1501 do 6000",
+            "5 m",
+            "8 m",
+            "10 m",
+            "od 6001 do 25000",
+            "8 m",
+            "10 m",
+            "12 m",
+            "preko 25000",
+            "10 m",
+            "12 m",
+            "15 m",
+            "Podzemne stanice",
+            "1 m",
+            "2 m",
+            "3 m",
+            "Rastojanje iz stava 1. ovog člana se meri od temelja objekta do temelja MRS MS, odnosno RS.",
+            "Zid bez otvora je zid minimalne vatrootpornosti 0,5 h koji nema otvore na minimalnoj horizontalnoj udaljenosti od MRS, MS, odnosno RS na obe strane u skladu sa minimalnim rastojanjima iz stava 1. ovog člana.",
+            "Odušne i ventilacione cevi podzemnih stanica moraju biti udaljene najmanje 3 m od stambenih objekata i objekata u kojima stalno ili povremeno borave ljudi.",
+            "MRS, MS, odnosno RS se mogu postaviti na zid ili prema zidu bez otvora građevinskih objekata u krugu industrijskih potrošača. Pri tome zid mora biti nepropusan za gas i ne sme imati otvore na minimalnoj horizontalnoj udaljenosti od 5 m na obe strane MRS.",
+            "MS sa ulaznim pritiskom do 100 mbar može se postaviti u zajedničke prostorije stambenih zgrada pod uslovom da su te prostorije sa prirodnim provetravanjem.",
+            "Za stanice kapaciteta do 160 m3/h rastojanje MRS, MS, odnosno RS do kablovskih priključnih kutija ili elektro ormana mora biti minimalno 1 m bez obzira na granice zona opasnosti."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_11"
+    },
+    {
+        "title": "Član 12",
+        "texts": [
+            "Minimalna horizontalna rastojanja MRS, MS i RS od ostalih objekata su:",
+            "",
+            "MOP na ulazu",
+            "Objekat",
+            "MOP ≤ 4 bar",
+            "4 bar < MOP ≤ 10 bar",
+            "10 bar <MOP≤ 16 bar",
+            "Železnička ili tramvajska pruga",
+            "10 m",
+            "15 m",
+            "15 m",
+            "Kolovoz gradskih saobraćajnica",
+            "3 m",
+            "5 m",
+            "8 m",
+            "Lokalni put",
+            "3 m",
+            "5 m",
+            "8 m",
+            "Državni put, osim autoputa",
+            "8 m",
+            "8 m",
+            "8 m",
+            "Autoput",
+            "15 m",
+            "15 m",
+            "15 m",
+            "Interne saobraćajnice",
+            "3 m",
+            "3 m",
+            "3 m",
+            "Javna šetališta",
+            "3 m",
+            "5 m",
+            "8 m",
+            "Izvor opasnosti stanice za snabdevanje gorivom prevoznih sredstava u drumskom saobraćaju, manjih plovila, manjih privrednih i sportskih vazduhoplova",
+            "10 m",
+            "12 m",
+            "15 m",
+            "Izvor opasnosti postrojenja i objekata za skladištenje zapaljivih i gorivih tečnosti i zapaljivih gasova",
+            "10 m",
+            "12 m",
+            "15 m",
+            "Transformatorska stanica",
+            "10 m",
+            "12 m",
+            "15 m",
+            "Nadzemni elektro vodovi",
+            "0 bar < MOP ≤ 16 bar:",
+            "1 kV ≥ U",
+            "Visina stuba + 3 m*",
+            "1 kV < U ≤ 110 kV",
+            "Visina stuba + 3 m**",
+            "110 kV < U ≤ 220 kV",
+            "Visina stuba + 3,75 m**",
+            "400 kV < U",
+            "Visina stuba + 5 m**",
+            "* ali ne manje od 10 m.** ali ne manje od 15 m. Ovo rastojanje se može smanjiti na 8 m za vodove kod kojih je izolacija voda mehanički i električno pojačana",
+            "Minimalno horizontalno rastojanje MRS, MS i RS od železničkih i tramvajskih pruga meri se od bliže šine, a rastojanje od javnih puteva meri se od ivice kolovoza.",
+            "Za zidane ili montažne objekte MRS, MS i RS minimalno horizontalno rastojanje se meri od zida objekta.",
+            "Za objekte MRS, MS i RS postavljene na otvorenom prostoru, sa ili bez nadstrešnice, rastojanje se meri od najbližeg potencijalnog mesta isticanja gasa.",
+            "IV ZAŠTITA GASOVODA"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_12"
+    },
+    {
+        "title": "Član 13",
+        "texts": [
+            "Izgradnja novih objekata ne sme ugroziti stabilnost, bezbednost i pouzdan rad gasovoda."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_13"
+    },
+    {
+        "title": "Član 14",
+        "texts": [
+            "U zavisnosti od pritiska zaštitni pojas gasovoda je:",
+            "1) za PE i čelične gasovode MOP ≤ 4bar - po 1 m od ose gasovoda na obe strane;",
+            "2) za čelične gasovode 4 bar < MOP ≤ 10 bar - po 2 m od ose gasovoda na obe strane;",
+            "3) za PE gasovode 4 bar < MOP ≤ 10 bar - po 3 m od ose gasovoda na obe strane;",
+            "4) za čelične gasovode 10 bar <MOP≤ 16 bar - po 3 m od ose gasovoda na obe strane.",
+            "U zaštitnom pojasu gasovoda ne smeju se izvoditi radovi i druge aktivnosti izuzev poljoprivrednih radova dubine do 0,5 m bez pismenog odobrenja operatora distributivnog sistema.",
+            "U zaštitnom pojasu gasovoda zabranjeno je saditi drveće i drugo rastinje čiji koreni dosežu dubinu veću od 1 m, odnosno, za koje je potrebno da se zemljište obrađuje dublje od 0,5 m."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_14"
+    },
+    {
+        "title": "Član 15",
+        "texts": [
+            "Ukrštanja puteva i pruga sa gasovodom izvode se pod posebnim uslovima koje izdaje operator distributivnog sistema prirodnog gasa.",
+            "V ZONE OPASNOSTI"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_15"
+    },
+    {
+        "title": "Član 16",
+        "texts": [
+            "Ugroženi prostor od eksplozije je prostor u kome je prisutna, ili se može očekivati prisutnost eksplozivne smeše zapaljivih gasova, para ili prašine sa vazduhom, u takvim količinama koje zahtevaju primenu posebnih mera radi zaštite ljudi i dobara, a naročito primenu posebnih mera u pogledu montaže i upotrebe električnih uređaja, instalacija, alata, mašina i pribora.",
+            "Prema učestalosti pojavljivanja i trajanju eksplozivne atmosfere ugroženi prostori iz stava 1. ovog člana klasifikovani su u skladu sa SRPS EN 60079-10-1 u zone opasnosti, i to:",
+            "1) zona opasnosti od eksplozije 0;",
+            "2) zona opasnosti od eksplozije 1;",
+            "3) zona opasnosti od eksplozije 2.",
+            "Zone opasnosti od eksplozije određuju se za objekte koji su sastavni deo gasovoda.",
+            "Zone opasnosti od eksplozije mogu se odrediti u skladu sa Prilogom 1 - Grafički prikazi zona opasnosti, koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo.",
+            "Zone opasnosti od eksplozije mogu se se odrediti i proračunom u skladu sa srpskim standardima kojima se uređuje metodologija određivanja zona opasnosti.",
+            "Zone opasnosti od eksplozije za objekte koji su sastavni deo gasovoda, a nisu utvrđene odredbama ovog pravilnika, određuju se proračunom u skladu sa srpskim standardima kojima se uređuje metodologija određivanja zona opasnosti."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_16"
+    },
+    {
+        "title": "Član 17",
+        "texts": [
+            "U zonama opasnosti, ne smeju se nalaziti materije i uređaji koji mogu prouzrokovati eksploziju, požar i omogućiti njegovo širenje.",
+            "U zonama opasnosti, zabranjeno je:",
+            "1) raditi sa otvorenim plamenom;",
+            "2) unositi pribor za pušenje;",
+            "3) raditi sa alatom i uređajima koji mogu, pri upotrebi, izazvati varnicu;",
+            "4) prisustvo vozila koja pri radu pogonskog uređaja mogu izazvati varnicu;",
+            "5) korišćenje električnih uređaja koji nisu u skladu sa propisom o opremi i zaštitnim sistemima namenjenim za upotrebu u potencijalno eksplozivnim atmosferama;",
+            "6) odlaganje zapaljivih materijala;",
+            "7) držanje materijala koji su podložni samozapaljivanju.",
+            "Izvođenje električnih, neelektričnih instalacija i zaštitnih sistema u zonama opasnosti od eksplozije vrši se u skladu sa propisima i standardima kojima je uređena bezbednost od požara i eksplozija u potencijalno eksplozivnim atmosferama.",
+            "VI KONSTRUKCIJA GASOVODA"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_17"
+    },
+    {
+        "title": "Član 18",
+        "texts": [
+            "Gasovod ne sme propuštati gas i mora biti dovoljno čvrst da bezbedno izdrži dejstvo svih sila kojima će prema očekivanjima biti izložen tokom izgradnje, ispitivanja i korišćenja."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_18"
+    },
+    {
+        "title": "Član 19",
+        "texts": [
+            "Gasovodi u smislu funkcionalnih zahteva moraju biti u skladu sa SRPS EN 12007-1",
+            "Pored zahteva iz stava 1. ovog člana gasovodi od PE cevi u smislu funkcionalnih zahteva moraju biti u skladu i sa SRPS EN 12007-2.",
+            "Pored zahteva iz stava 1. ovog člana gasovodi od čeličnih cevi u smislu funkcionalnih zahteva moraju biti u skladu i sa SRPS EN 12007-3."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_19"
+    },
+    {
+        "title": "Član 20",
+        "texts": [
+            "Čelične cevi za gasovode moraju biti u skladu sa SRPS EN ISO 3183.",
+            "PE cevi za gasovode moraju biti u skladu sa SRPS EN 1555-2.",
+            "Za čelične gasovode cevni elementi moraju biti u skladu sa SRPS EN 12007-3.",
+            "Za PE gasovode cevni elementi moraju biti u skladu sa SRPS EN 1555-3 i SRPS EN 1555-4.",
+            "Rekonstrukcija distributivnih gasovoda obavlja se u skladu sa SRPS EN 12007-4."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_20"
+    },
+    {
+        "title": "Član 21",
+        "texts": [
+            "Izbor debljine zida cevi za čelične gasovode vrši se u skladu sa SRPS EN 12007-3.",
+            "Izbor debljine zida cevi za PE gasovode vrši se u skladu sa SRPS EN 12007-2."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_21"
+    },
+    {
+        "title": "Član 22",
+        "texts": [
+            "Gasovod se projektuje tako da tokom izgradnje, ispitivanja, održavanja i korišćenja može da pored sila izazvanih unutrašnjim pritiskom izdrži i dejstva drugih predvidivih sila koje su izazvane:",
+            "1) ugradnjom ankera ili ukopavanjem gasovoda, drumskim i železničkim saobraćajem i opterećenjima koja nastaju kod postavljanja gasovoda i njegovog ispitivanja na pritisak;",
+            "2) težinskim opterećenjem tokom hidrostatičkog ispitivanja;",
+            "3) povezivanjem odvojaka;",
+            "4) povezivanjem komponenti koje nisu pod pritiskom;",
+            "5) isplivavanjem gasovoda;",
+            "6) drugim podzemnim objektima;",
+            "7) poplavama, ledom, snegom, vetrom;",
+            "8) vertikalnim pomeranjem usled mraza;",
+            "9) sleganjem tla i sleganjem usled rudničkih aktivnosti;",
+            "10) klizištima;",
+            "11) erozijom tla;",
+            "12) visokim seizmičkim rizicima;",
+            "13) naknadnim nasipanjem terena, nasipima i sl.;",
+            "14) nadzemnim deonicama gasovoda.",
+            "Pri projektovanju gasovoda moraju se uzeti u obzir i posebne okolnosti pri izgradnji gasovoda, i to:",
+            "1) viša temperatura gasovoda i/ili velike temperaturne razlike kod specifičnih konfiguracija cevi;",
+            "2) okolnosti koje mogu da dovedu do prekomernih razlika u sleganju konstrukcije kao posledica korišćenih tehnika izgradnje;",
+            "3) nadzemni delovi cevovoda sa nosačima;",
+            "4) i svi drugi mogući uticaji na gasovod.",
+            "Ukoliko analiza pokaže da je za datu deonicu gasovoda moguć uticaj i drugih sila iz st. 1. i 2. ovog člana za izračunavanje debljine zida cevi mora se primeniti analiza napona i naprezanja u skladu sa SRPS EN 1594."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_22"
+    },
+    {
+        "title": "Član 23",
+        "texts": [
+            "Rukovanje, transport i skladištenje cevi i cevnih elemenata mora biti u skladu sa serijom standarda SRPS EN 12007-1 do SRPS EN 12007-5."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_23"
+    },
+    {
+        "title": "Član 24",
+        "texts": [
+            "Pri prelazu gasovoda preko većih nagiba terena mora se izraditi poseban proračun svih sila koje deluju na cevovod i, po potrebi, predvideti ankerisanje cevovoda, a pri prolazu kroz klizišta mora se, na osnovu geološkog ispitivanja zemljišta, izvršiti sanacija klizišta i izraditi detaljan projekat ugradnje cevovoda.",
+            "Usvojena nominalna debljina zida cevi gasovoda i cevnih fazonskih komada mora da izdrži ispitni pritisak na čvrstoću i nepropusnost nakon montaže bez deformacija i drugih oštećenja."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_24"
+    },
+    {
+        "title": "Član 25",
+        "texts": [
+            "Zaštitne cevi koje se postavljaju radi preuzimanja spoljnih opterećenja moraju se proračunati na čvrstoću prema maksimalnom mogućem opterećenju."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_25"
+    },
+    {
+        "title": "Član 26",
+        "texts": [
+            "Prilikom izgradnje gasovoda ukrštanje gasovoda i javnih puteva vrši se u skladu zahtevima ovog pravilnika i uslovima upravljača javnog puta.",
+            "Ako se gasovod postavlja ispod puteva prokopavanjem, on se postavlja i polaže bez zaštitne cevi, sa dvostrukom antikorozivnom izolacijom koja se izvodi u dužini od najmanje 10 m sa obe strane zemljišnog pojasa.",
+            "Ispod elektrifikovanih železničkih pruga mora biti urađena dvostruka izolacija gasovoda u dužini od 50 m sa obe strane pružnog pojasa.",
+            "U rovu ispod puteva i pruga, gasovod bez zaštitne cevi mora biti položen u posteljicu od sitnog peska u sloju od 15 cm oko cevi, zbijenog vodom ili nekom drugom odgovarajućom metodom. Debljina zida cevi ispod puteva i pruga mora biti proračunata tako da se uzmu u obzir uticaji svih spoljnjih sila na gasovod.",
+            "Ako se gasovod postavlja ispod puteva i pruga bušenjem, po pravilu se postavlja u zaštitnu cev odgovarajuće čvrstoće.",
+            "Prečnik zaštitne cevi mora biti izabran tako da omogući nesmetano provlačenje radne cevi.",
+            "Za gasovode prečnika većeg od 100 mm prečnik zaštitne cevi mora biti najmanje 100 mm veći od spoljašnjeg prečnika gasovoda.",
+            "Ukoliko se radna cev postavlja bušenjem bez zaštitne cevi mora se izabrati tehnologija koja obezbeđuje da ne dođe do oštećenja izolacije gasovoda.",
+            "Krajevi zaštitne cevi koja se postavlja na prelazu ispod puta moraju biti udaljeni minimalno 1 m od linija koje čine krajnje tačke poprečnog profila javnog puta van naselja, mereno na spoljnu stranu i minimalno 3 m sa obe strane od ivice krajnje kolovozne trake.",
+            "Krajevi zaštitne cevi koja se postavlja na prelazu ispod gradskih saobraćajnica moraju biti udaljeni minimalno 1 m od ivice krajnje kolovozne trake.",
+            "Krajevi zaštitne cevi koja se postavlja na prelazu ispod železničke pruge moraju biti udaljeni minimalno 5 m sa obe strane od osa krajnjih koloseka, odnosno 1 m od nožica nasipa.",
+            "Zaštitna cev mora biti tako odabrana da izdrži sva naprezanja tokom polaganja i eksploatacije sa projektnim faktorom 0,67."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_26"
+    },
+    {
+        "title": "Član 27",
+        "texts": [
+            "Gasovod se u zaštitnu cev mora postaviti tako da se ne ošteti njegova antikorozivna izolacija i mora biti postavljen na izolovane odstojnike. Odstojnici moraju biti izrađeni od materijala koji obezbeđuje funkcionalnost odstojnika tokom eksploatacije gasovoda. Krajevi zaštitne cevi moraju biti zaptiveni. Radi kontrolisanja eventualnog propuštanja gasa u međuprostor zaštitne cevi i gasovoda na jednom kraju zaštitne cevi mora da se ugradi odušna cev prečnika najmanje 50 mm.",
+            "Minimalno rastojanje odušne cevi mereno od linija koje čine krajnje tačke poprečnog profila javnog puta van naselja, na spoljnu stranu mora biti najmanje 5 m, odnosno najmanje 10 m od ose krajnjeg koloseka železničke pruge.",
+            "Minimalno rastojanje odušne cevi mereno od ivice krajnje kolovozne trake gradskih saobraćajnica, na spoljnu stranu mora biti najmanje 3 m. U slučaju ako je udaljenost regulacione linije od ivice krajnje kolovozne trake gradskih saobraćajnica manja od 3 m odušna cev se postavlja na regulacionu liniju ali ne bliže od 1 m.",
+            "Otvor odušne cevi mora biti postavljen na visinu od 2 m iznad površine tla i zaštićen od atmosferskih uticaja."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_27"
+    },
+    {
+        "title": "Član 28",
+        "texts": [
+            "Na ukrštanju gasovoda sa putevima, prugama, vodotokovima, kanalima, dalekovodima nazivnog napona preko 35 kV, ugao ose gasovoda prema tim objektima mora da iznosi između 60° i 90°.",
+            "Na ukrštanju gasovoda sa gradskim saobraćajnicama, državnim putevima I i II reda i autoputevima, kao i vodotokovima sa vodnim ogledalom širim od 5 m, ugao ose gasovoda prema tim objektima po pravilu mora da iznosi 90°.",
+            "Ugao ukrštanja iz stava 2. ovog člana na mestima gde je to tehnički opravdano, dozvoljeno je smanjiti na minimalno 60°.",
+            "Za izvođenje ukrštanja gasovoda sa infrastrukturnim objektima iz st. 1. i 2. ovog člana sa uglom manjim od 60° potrebno je pribaviti odgovarajuću saglasnost upravljača, odnosno operatora nad tim objektima."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_28"
+    },
+    {
+        "title": "Član 29",
+        "texts": [
+            "Minimalna dubina ukopavanja gasovoda je 80 cm mereno od gornje ivice gasovoda."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_29"
+    },
+    {
+        "title": "Član 30",
+        "texts": [
+            "Minimalna dubina ukopavanja čeličnih i PE gasovoda, merena od gornje ivice cevi, kod ukrštanja sa drugim objektima je:",
+            "Objekat",
+            "Minimalna dubina ukopavanja(cm)",
+            "A",
+            "B*",
+            "do dna odvodnih kanala puteva i pruga",
+            "100",
+            "60",
+            "do dna regulisanih korita vodenih tokova",
+            "100",
+            "50",
+            "do gornje kote kolovozne konstrukcije puta",
+            "135",
+            "135",
+            "do gornje ivice praga železničke pruge",
+            "150",
+            "150",
+            "do gornje ivice praga industrijske i tramvajske pruge",
+            "100",
+            "100",
+            "do dna neregulisanih korita vodenih tokova",
+            "150",
+            "100",
+            "*primenjuje se samo za terene na kojima je za izradu rova potreban eksploziv"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_30"
+    },
+    {
+        "title": "Član 31",
+        "texts": [
+            "Od minimalne dubine ukopavanja cevi iz čl. 29. i 30. ovog pravilnika može se odstupiti uz navođenje opravdanih razloga za taj postupak pri čemu se moraju predvideti povećane mere bezbednosti, ali tako da minimalna dubina ukopavanja ne može biti manja od 50 cm."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_31"
+    },
+    {
+        "title": "Član 32",
+        "texts": [
+            "Za čelične gasovode se moraju upotrebljavati zaporni organi (ventili, slavine, zasuni, zatvarači i sl.), prirubnice i prirubnički spojevi, po konstrukciji i kvalitetu materijala, namenjeni za prirodni gas, a izrađeni prema odgovarajućim standardima.",
+            "Ako se zaporni organi ugrađuju pod zemljom, sa gasovodom moraju da se spoje zavarivanjem.",
+            "Ako se u podzemni gasovod ugrađuju zaporni organi sa prirubničkim spojem, moraju se postaviti u betonski vodonepropusni šaht dovoljnih dimenzija da se može vršiti održavanje i rukovanje tim zapornim organom.",
+            "Zaporni organi na čeličnim gasovodima ugrađeni pod zemljom, moraju biti opremljeni produžnim vretenom dovoljne dužine da upravljački mehanizam bude na visini od 80 cm iznad površine tla.",
+            "Zaporni organi na PE gasovodima ugrađeni pod zemljom moraju biti opremljeni produžnim vretenom i livenom kapom koja se ugrađuje u nivou terena.",
+            "Priključne slavine koje služe za izvođenje priključka bez prekida distribucije prirodnog gasa ne moraju se postavljati u šaht, ni biti opremljene produžnim vretenom.",
+            "Priključne slavine iz stava 6. ovog člana operator distributivnog sistema mora kontrolisati u smislu curenja gasa.",
+            "VII MERE ZAŠTITE OD PREKORAČENJA PRITISKA"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_32"
+    },
+    {
+        "title": "Član 33",
+        "texts": [
+            "Smanjenje pritiska u gasovodu vrši se u regulacionim stanicama.",
+            "Deo gasovoda iza sistema za regulaciju pritiska štiti se od posledica kvara sigurnosnim uređajima u skladu sa SRPS EN 14382.",
+            "Sigurnosni uređaji iz stava 2. ovog člana moraju da funkcionišu nezavisno od aktivnog regulacionog uređaja.",
+            "Maksimalni incidentni pritisak (MIP) mora biti u skladu sa serijom standarda od SRPS EN 12007-1 do SRPS EN 12007-5.",
+            "VIII PROJEKTOVANJE I IZGRADNJA GASOVODA",
+            "Čelični gasovodi"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_33"
+    },
+    {
+        "title": "Član 34",
+        "texts": [
+            "Svaka pojedinačna cev, cevni element ili uređaj, mora se vizuelno ispitati neposredno pre montaže, da bi se ustanovilo da li ima bilo kakav nedostatak koji bi mogao štetno da utiče na njegovu upotrebljivost."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_34"
+    },
+    {
+        "title": "Član 35",
+        "texts": [
+            "Prilikom hladnog savijanja cevi najveće dozvoljeno savijanje po dužini jednakoj prečniku cevi, sme da iznosi 1,5°.",
+            "Savijanje uzdužno zavarenih cevi izvodi se tako da se zavareni spoj mora nalaziti u blizini neutralne ose luka cevi.",
+            "Prilikom polaganja cevovoda minimalni poluprečnici elastičnih lukova, u zavisnosti od prečnika cevi, moraju biti u skladu sa SRPS EN 12007-1.",
+            "Zavarivanje čeličnih cevi i čeličnih cevnih elemenata mora se izvoditi u skladu sa SRPS EN 12732.",
+            "Kvalifikacija tehnologije zavarivanja sprovodi se u skladu sa SRPS EN ISO 15614-1."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_35"
+    },
+    {
+        "title": "Član 36",
+        "texts": [
+            "Zavarivačke radove pri izgradnji gasovoda mora da izvodi pravno lice koje ispunjava uslove u skladu sa SRPS EN ISO 3834-2.",
+            "Stručna osposobljenost zavarivača, odnosno operatera zavarivanja mora biti u skladu sa SRPS EN 287-1, odnosno SRPS EN ISO 14732."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_36"
+    },
+    {
+        "title": "Član 37",
+        "texts": [
+            "Svi zavareni spojevi na gasovodu moraju se vizuelno pregledati nakon zavarivanja, a pre primene druge metode ispitivanja bez razaranja.",
+            "Vizuelni pregled iz stava 1. ovog člana mora vršiti lice čija je stručna osposobljenost potvrđena u skladu sa SRPS EN ISO 9712, i to najmanje za nivo II.",
+            "O vizuelnom pregledu zavarenih spojeva mora da postoji zapis."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_37"
+    },
+    {
+        "title": "Član 38",
+        "texts": [
+            "Ispitivanje zavarenih spojeva metodama bez razaranja mora se izvršiti po celom obimu zavarenog spoja.",
+            "Ispitivanja bez razaranja može da obavlja samo pravno lice koje ispunjava zahteve SRPS ISO/IEC 17025 za odgovarajuću vrstu i metodu ispitivanja.",
+            "Ispitivanja bez razaranja iz stava 1. ovog člana mora vršiti lice čija je stručna osposobljenost potvrđena u skladu sa SRPS EN ISO 9712 i to najmanje za nivo II."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_38"
+    },
+    {
+        "title": "Član 39",
+        "texts": [
+            "Najmanji procenat zavarenih spojeva koji se mora ispitati radiografskom metodom je 50%.",
+            "Procenat zavarenih spojeva iz stava 1. ovog člana određuje se u odnosu na broj zavarenih spojeva izvedenih u toku jednog dana.",
+            "U slučaju da je jedan ili više zavarenih spojeva izvedenih u toku jednog dana neispravno mora se izvršiti ponovno ispitivanje svih zavarenih spojeva izvedenih tog dana.",
+            "Svi zavareni spojevi na gasovodu koji se postavljaju u zemljišni pojas ili pružni pojas, u tunele, na mostove, na nadzemne i ukopane prelaze preko ili ispod puteva i pruga i na prelaze preko vodenih tokova, kao i u naseljenom mestu i pojasu crpilišta vode za piće, moraju se 100% radiografski ispitati.",
+            "Radiografski se 100% moraju ispitati i svi zavareni spojevi na, mernim stanicama, regulacionim stanicama, merno-regulacionim stanicama, kao i na svim drugim nadzemnim delovima gasovoda.",
+            "Svaki zavareni spoj za koji se utvrdi da je neispravan mora se popraviti i ponovo ispitati.",
+            "Ispitivanje radiografskom metodom vrši se u skladu sa SRPS EN ISO 17636-1 do 2, a nivoi prihvatljivosti greške se određuju u skladu sa SRPS EN 12517-1."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_39"
+    },
+    {
+        "title": "Član 40",
+        "texts": [
+            "U zavisnosti od prečnika gasovoda i pritiska, pored ispitivanja iz člana 39. ovog pravilnika, mogu se odrediti i dodatna ispitivanja zavarenih spojeva drugim metodama bez razaranja.",
+            "Ispitivanje ultrazvukom mora biti u skladu sa SRPS EN 583-1 do 6. Ručno ultrazvučno ispitivanje zavarenih spojeva debljine veće od 8 mm vrši se u skladu sa SRPS EN ISO 17640. Nivoi prihvatljivosti greške se određuju u skladu sa SRPS EN ISO 23279 i SRPS EN ISO 11666.",
+            "Ispitivanje penetrantima mora biti u skladu sa SRPS EN ISO 3452-1 do 6. Nivoi prihvatljivosti greške se određuju u skladu sa SRPS EN ISO 23277.",
+            "Ispitivanje magnetnim česticama vrši se u skladu sa SRPS EN ISO 17638. Nivoi prihvatljivosti greške se određuju u skladu sa SRPS EN ISO 23278."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_40"
+    },
+    {
+        "title": "Član 41",
+        "texts": [
+            "Pre početka izgradnje gasovoda potrebno je odrediti radni pojas koji će u toku gradnje biti na raspolaganju izvođaču radova. Radni pojas mora da bude prilagođen prečniku gasovoda, vrsti i količini iskopa, kao i mogućnosti manipulisanja mašinama. Postojeći objekti koji leže u radnom pojasu, ne smeju da budu ugroženi."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_41"
+    },
+    {
+        "title": "Član 42",
+        "texts": [
+            "Visina pokrivnog sloja cevi mora biti u skladu sa čl. 29-31. ovog pravilnika, pri čemu pokrivni sloj cevi ne bi trebalo da prelazi 2 m, osim u sledećim slučajevima:",
+            "1) na mestima na kojima konfiguracija tla to zahteva;",
+            "2) na mestima na kojima može doći do izdizanja tla usled smrzavanja podzemnih voda;",
+            "3) ukoliko postoji rizik od erozije tla;",
+            "4) kod vodotokova."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_42"
+    },
+    {
+        "title": "Član 43",
+        "texts": [
+            "Profil i osiguranje stranica rova treba odrediti prema dimenzijama cevi i prema propisima za zemljane radove.",
+            "Rov za polaganje gasovoda mora biti iskopan tako da se postavljanjem gasovoda u rov postigne projektovani položaj gasovoda, spreči nedozvoljeno naprezanje u materijalu cevi i oštećenje izolacije cevi.",
+            "Gasovod mora biti zaštićen od podlokavanja, plavljenja, nestabilnosti tla, odrona zemlje i drugih opasnosti koje mogu usloviti pomeranje ili dodatno opteretiti cevi. Nadzemni delovi gasovoda i njegovi sastavni delovi (koji nisu ograđeni) moraju biti zaštićeni od neposrednog oštećenja, ako to posebni uslovi zahtevaju."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_43"
+    },
+    {
+        "title": "Član 44",
+        "texts": [
+            "Za polaganje pojedinačnih cevi i deonica mora se obezbediti potrebna oprema tako da se osigura ravnomerno spuštanje cevi, bez udara i štetnog sabijanja. Nije dozvoljena pojava plastičnih deformacija cevi. Za polaganje izolovanih cevi moraju se koristiti odgovarajuća pomoćna sredstva, kao na primer trake ili valjci.",
+            "Oštećenja izolacije cevovoda, koja mogu nastati prilikom spuštanja deonica gasovoda, moraju se otkloniti. Oštećenja na izolaciji pre polaganja se otkrivaju vizuelno i uređajima za detekciju oštećenja izolacije.",
+            "Polaganje gasovoda u rov u kome se nalazi voda, dozvoljeno je samo ako se osigura pravilno oslanjanje gasovoda.",
+            "Zatrpavanje gasovoda se mora vršiti u, što je moguće kraćem roku, nakon polaganja cevi i geodetskog snimanja gasovoda.",
+            "Položeni gasovod, zatrpava se materijalom iz iskopa. Materijal iz iskopa mora biti sitan, bez krupnih komada zemlje i kamenja, da ne bi došlo do oštećenja izolacije.",
+            "Ako je rov iskopan na kamenitom terenu, gasovod se mora položiti u zaštitni sloj peska.",
+            "Udubljenja u dnu rova i iskopani prostor za pristup zavarivača gasovodu treba zatrpati da bi se izbegli nedozvoljeni naponi.",
+            "Prilikom zatrpavanja rova za cevi na saobraćajnim površinama, treba se pridržavati tehničkih pravila za izradu kolovoznih konstrukcija.",
+            "Na odstojanju od 0,3 m do 0,5 m iznad gornje ivice cevi gasovoda, u rov se mora postaviti traka sa odgovarajućim upozorenjima o gasovodu pod pritiskom."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_44"
+    },
+    {
+        "title": "Član 45",
+        "texts": [
+            "Trasa gasovoda mora biti vidno obeležena posebnim oznakama. Razmak između oznaka za obeležavanje gasovoda ne sme biti veći od 200 m na ravnom delu trase. Na svakom mestu promene pravca trase gasovoda moraju biti postavljene oznake.",
+            ""
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_45"
+    },
+    {
+        "title": "Član 46",
+        "texts": [
+            "Na prolazu gasovoda ispod vodenih tokova, kanala, puteva i pruga, oznake za obeležavanje trase gasovoda i znaci za upozorenja moraju biti postavljeni sa obe strane vodenog toka, kanala ili puteva i pruga.",
+            "Oznaka na prolazu gasovoda ispod železničke pruge, ne sme se postaviti na rastojanju manjem od 10 m od ose krajnjeg koloseka.",
+            "Oznaka na prolazu gasovoda ispod puta, ne sme se postaviti na rastojanju manjem od 1 m od spoljne ivice kolovoza.",
+            "Oznaka na prolazu gasovoda ispod kanala, ne sme da se postavi bliže od 5 m od ose nasipa kanala.",
+            "Na prolazu gasovoda ispod plovnih reka i kanala, sa obe strane prolaza na odstojanju od po 200 m uzvodno i nizvodno od ose gasovoda, mora se postaviti znak zabrane sidrenja.",
+            "PE gasovodi"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_46"
+    },
+    {
+        "title": "Član 47",
+        "texts": [
+            "Gasovodi od PE cevi moraju da zadovolje sve zahteve u skladu sa serijom standarda SRPS EN 12007-1, SRPS EN 12007-2, SRPS EN 12007-4 i SRPS EN 12007-5.",
+            "Na odstojanju od 0,3 m do 0,5 m iznad gornje ivice gasovoda od PE cevi MOP većeg od 4 bar, u rov se mora postaviti traka sa metalnim premazom sa odgovarajućim upozorenjima o gasovodu pod pritiskom kako bi položaj gasovoda naknadno mogao biti lociran odgovarajućim instrumentima."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_47"
+    },
+    {
+        "title": "Član 48",
+        "texts": [
+            "Članovi 41. do 46. ovog pravilnika primenjuju se i na gasovode od PE cevi.",
+            "IX ODORIZACIJA"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_48"
+    },
+    {
+        "title": "Član 49",
+        "texts": [
+            "Prirodni gas koji se distributivnim gasovodnim sistemima isporučuje domaćinstvima, kao i prirodni gas koji se distribuira PE cevima mora biti odorisan."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_49"
+    },
+    {
+        "title": "Član 50",
+        "texts": [
+            "Odorizacija se vrši u skladu sa standardom SRPS ISO-TS 16922.",
+            "Sredstvo za odorizaciju mora biti netoksično i neškodljivo u količinama koje su u upotrebi i ne sme izazivati koroziju i mora biti u skladu sa standardom SRPS ISO-TS 16922.",
+            "Ispitivanje sredstava za odorizaciju vrši se u skladu sa SRPS EN ISO 13734."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_50"
+    },
+    {
+        "title": "Član 51",
+        "texts": [
+            "Količina sredstva za odorizaciju mora biti tolika da omogućava prepoznavanje prisustva gasa u vazduhu u količini većoj od petine donje granice eksplozivnosti u svakoj tački distributivnog gasovodnog sistema u kome je obavezna odorizacija.",
+            "Potrebna koncentracija odoranta etil merkaptana u najudaljenijoj tački distributivnog gasovodnog sistemaje 9-21 mg/m3pri normalnim uslovima.",
+            "Potrebna koncentracija odoranta tetrahidrotiofena u najudaljenijoj tački distributivnog gasovodnog sistema (THT) je 12-23 mg/m3pri normalnim uslovima."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_51"
+    },
+    {
+        "title": "Član 52",
+        "texts": [
+            "Kontrola koncentracije sredstva za odorizaciju u prirodnom gasu vrši se u skladu sa standardom SRPS ISO-TS 16922.",
+            "O izvršenoj kontroli koncentracije sredstva za odorizaciju koju vrši operator distributivnog sistema sačinjava se pismeni izveštaj."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_52"
+    },
+    {
+        "title": "Član 53",
+        "texts": [
+            "Operator distributivnog sistema aktom definiše uslove i način odorisanja u skladu sa ovim pravilnikom i drugim važećim propisima.",
+            "X MERNE, REGULACIONE I MERNO-REGULACIONE STANICE"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_53"
+    },
+    {
+        "title": "Član 54",
+        "texts": [
+            "U pogledu funkcionalnih zahteva merne stanice (MS) moraju biti u skladu sa SRPS EN 1776.",
+            "U pogledu funkcionalnih zahteva regulacione stanice (RS) moraju biti u skladu sa SRPS EN 12186.",
+            "U pogledu funkcionalnih zahteva merno-regulacione stanice (MRS) moraju zadovoljiti uslove propisane u st. 1. i 2. ovog člana."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_54"
+    },
+    {
+        "title": "Član 55",
+        "texts": [
+            "MRS se u zavisnosti od vrste i veličine mogu postaviti u:",
+            "1) posebnom objektu;",
+            "2) na otvorenom prostoru;",
+            "3) pod zemljom."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_55"
+    },
+    {
+        "title": "Član 56",
+        "texts": [
+            "Na ulaznom gasovodu u MRS, kao i na svim izlaznim gasovodima iz MRS moraju se postaviti protivpožarne slavine.",
+            "Ulazna i izlazne protivpožarne slavine iz stava 1. ovog člana moraju biti udaljene od MRS najmanje 5 m, a najviše 100 m, i mogu biti smeštene i izvan ograde MRS.",
+            "U slučaju kada su ulazna i/ili izlazna protivpožarna slavina izvan ograde MRS, iste se moraju zaštiti od neovlašćenog rukovanja i manipulacije."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_56"
+    },
+    {
+        "title": "Član 57",
+        "texts": [
+            "MRS moraju biti ograđene kako bi se sprečio pristup neovlašćenim licima.",
+            "Ograda merno-regulacione stanice mora da obuhvati zone opasnosti i mora biti minimalne visine 2 m.",
+            "MRS kapaciteta do 160 Nm3/h ne moraju da imaju ogradu.",
+            "Ukoliko je merno-regulaciona stanica na otvorenom prostoru, sa ili bez nadstrešnice, ograda mora biti udaljena minimalno 10 m od stanice.",
+            "Ako se MRS nalazi u ograđenom prostoru industrijskog objekta može biti i bez sopstvene ograde, ali vidno obeležena tablama upozorenja i zaštićena od udara vozila."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_57"
+    },
+    {
+        "title": "Član 58",
+        "texts": [
+            "Krovna konstrukcija objekta u koji se postavlja merno-regulaciona stanica mora biti takva da u slučaju natpritiska popusti pre zidova objekta.",
+            "Zidovi, podovi i krovna konstrukcija objekta u koji se postavlja merno regulaciona stanica moraju biti izgrađeni od negorivog materijala i materijala bez šupljina u kojima bi mogao da se zadrži gas.",
+            "Vrata na spoljnim zidovima objekta u koji se postavlja merno regulaciona stanica moraju se otvarati prema spoljnoj strani, a brave sa unutrašnje strane moraju se otvarati bez ključeva.",
+            "Prostorija objekta u kojoj se vrši merenje i/ili regulacija pritiska ne sme imati staklene površine."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_58"
+    },
+    {
+        "title": "Član 59",
+        "texts": [
+            "Prolazi cevi i električnih vodova kroz zidove nepropusne za gas između prostorija objekta u kojoj se vrši merenje i regulacija pritiska gasa i eventualnih susednih prostorija moraju biti nepropusni za gas."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_59"
+    },
+    {
+        "title": "Član 60",
+        "texts": [
+            "Prostorija MRS mora imati gornje i donje ventilacione otvore za prirodno provetravanje.",
+            "Ventilacioni otvori moraju biti postavljeni tako da sprečavaju skupljanje gasa u prostoriji, pri čemu donja ivica donjeg otvora mora biti smeštena na visini od maksimalno 15 cm iznad poda, a gornji otvori na najvišoj tački prostorije.",
+            "Veličina ukupne površine ventilacionih otvora određuje se proračunom.",
+            "Površina donjih otvora mora biti minimalno 80% od površine gornjih ventilacionih otvora.",
+            "Površina gornjih ventilacionih otvora, bez obzira na proračun ne može biti manja od 1% od površine poda prostorije stanice.",
+            "Ventilacioni otvori moraju biti opremljeni sa zaštitnom mrežicom sa okcima do 1 cm2. Površina otvora je korisna površina bez fiksnih zaštitnih žaluzina."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_60"
+    },
+    {
+        "title": "Član 61",
+        "texts": [
+            "Odredbe čl. 55. do 60. ovog pravilnika primenjuju se i na merne stanice i na regulacione stanice.",
+            "XI ISPITIVANJE GASOVODA"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_61"
+    },
+    {
+        "title": "Član 62",
+        "texts": [
+            "Pre puštanja u rad gasovod se ispituje na čvrstoću i nepropusnost.",
+            "Procedura i metod ispitivanje iz stava 1. ovog člana mora biti u skladu sa standardom SRPS EN 12327.",
+            "Pritisak ispitivanja na čvrstoću za čelične gasovode mora biti određen u skladu sa SRPS EN 12007-3",
+            "Pritisak ispitivanja na čvrstoću za PE gasovode mora biti određen u skladu sa SRPS EN 12007-2"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_62"
+    },
+    {
+        "title": "Član 63",
+        "texts": [
+            "Ako se kao ispitni medijum koristi voda ona mora biti čista, sa dodatim inhibitorima korozije kada je to neophodno.",
+            "Ispitivanje se obavlja pri zatrpanom rovu kako bi se izbegao uticaj temperaturnih promena. Ukoliko je temperatura zemlje u neposrednoj blizina gasovoda manja od 2 °C mora se dodati antifriz."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_63"
+    },
+    {
+        "title": "Član 64",
+        "texts": [
+            "Minimalni ispitni pritisak prilikom ispitivanja merne, regulacione, i merno-regulacione stanice na čvrstoću ispitni pritisak mora biti veći od maksimalnog radnog pritiska (MOP) za 50%.",
+            "Maksimalni ispitni pritisak za ispitivanje čvrstoće gasovoda i njegovih sastavnih delova ne sme izazvati obodna naprezanja veća od minimalne granice tečenja materijala cevi.",
+            "Pri ispitivanju gasovoda na čvrstoću ispitni pritisak mora da se održava najmanje 1 h."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_64"
+    },
+    {
+        "title": "Član 65",
+        "texts": [
+            "Minimalni ispitni pritisak prilikom ispitivanja gasovoda i njegovih sastavnih delova na nepropusnost mora biti jednak maksimalnom radnom pritisku (MOP).",
+            "Pri ispitivanju gasovoda na nepropusnost ispitni pritisak mora da se održava najmanje 24 h.",
+            "Gasovod se smatra nepropusnim ako merenja temperature i pritiska pokažu da je količina ispitnog medijuma nepromenjena tokom ispitivanja."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_65"
+    },
+    {
+        "title": "Član 66",
+        "texts": [
+            "Sklopovi sastavljeni od cevi i fitinga mogu se ispitati pre ugradnje u gasovod u sledećim slučajevima:",
+            "1) kada ne mogu biti ispitani nakon ugradnje u postojeću instalaciju;",
+            "2) kada treba da se postave u blizini fabričkih postrojenja koja ne mogu biti zaštićena od posledica neuspešnog ispitivanja;",
+            "3) kada se proceni da posledice neuspešnog ispitivanja opravdavaju prethodno ispitivanje.",
+            "Sklopovi iz stava 1. ovog člana ne moraju se nakon ugradnje ponovo ispitivati na čvrstoću i nepropusnost, ali svi zavareni spojevi kojima se sklop ugrađuje u gasovod moraju biti 100% radiografski ispitani."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_66"
+    },
+    {
+        "title": "Član 67",
+        "texts": [
+            "Ispitni medijum koji se koristi za ispitivanje mora se odstraniti iz gasovoda tako da ne utiče štetno na okolinu."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_67"
+    },
+    {
+        "title": "Član 68",
+        "texts": [
+            "Svi izveštaji i zapisi o ispitivanju gasovoda i njegovih sastavnih delova moraju biti potpisani od strane odgovornog izvođača radova i lica koje vrši stručni nadzor."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_68"
+    },
+    {
+        "title": "Član 69",
+        "texts": [
+            "Nakon ispitivanja, a pre puštanja u rad gasovoda i njegovih sastavnih delova sastavlja se elaborat o punjenju prirodnim gasom, koji sadrži:",
+            "1) tehnički opis gasovoda;",
+            "2) tehnološki postupak operacija prilikom punjenja;",
+            "3) planirano vreme početka i završetka operacija prilikom punjenja;",
+            "4) pritisak do koga će se gasovod puniti i količina prirodnog gasa potrebna za punjenje;",
+            "5) procenu količine prirodnog gasa koja će se ispustiti u atmosferu u postupku zapunjavanja gasovoda.",
+            "XII ANTIKOROZIVNA ZAŠTITA ČELIČNIH GASOVODA"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_69"
+    },
+    {
+        "title": "Član 70",
+        "texts": [
+            "Svi delovi gasovoda moraju biti zaštićeni od korozije.",
+            "Nadzemni delovi gasovoda, koji nisu galvanizovani, moraju biti zaštićeni antikorozivnim premazima.",
+            "Antikorozivna zaštita podzemnih gasovoda se sastoji od pasivne zaštite (izolacija) i aktivne zaštite (katodna zaštita)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_70"
+    },
+    {
+        "title": "Član 71",
+        "texts": [
+            "Izolacija gasovoda iz člana 70. ovog pravilnika, mora ispunjavati sledeće uslove:",
+            "1) da ne upija vodu i da onemogućava prolaz vlage do gasovoda;",
+            "2) da ima visok električni otpor;",
+            "3) da je hemijski i fizički stabilna u toku eksploatacionog perioda gasovoda;",
+            "4) da je termički stabilna u području radnih temperatura gasovoda;",
+            "5) da je fleksibilna i elastična;",
+            "6) da se proizvodi u obliku koji omogućava lako i sigurno nanošenje na gasovod;",
+            "7) da sa površinom metala cevi stvara čvrst spoj koji je trajan i otporan na vodu i vlagu.",
+            "Gotov izolacioni sloj na površini predizolovanih cevi treba da bude dovoljno čvrst, da je bez oštećenja i da može izdržati naprezanja u transportu i manipulaciji pri polaganju gasovoda.",
+            "Izolacija mora biti usaglašena sa katodnom zaštitom.",
+            "Pod uticajem katodne zaštite izolacija ne sme da gubi svojstva i izolacija ne sme da smanjuje dejstvo katodne zaštite."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_71"
+    },
+    {
+        "title": "Član 72",
+        "texts": [
+            "Cevi od kojih se sastoji gasovod mogu biti izolovane fabrički ili na mestu ugrađivanja."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_72"
+    },
+    {
+        "title": "Član 73",
+        "texts": [
+            "Izolacioni materijal mora biti ispitan u pogledu:",
+            "1) otpornosti na utiskivanje;",
+            "2) otpornosti na plastičnu deformaciju trake;",
+            "3) površinskog električnog otpora;",
+            "4) otpora na katodno odvajanje;",
+            "5) sile prijanjanja traka - traka;",
+            "6) sile prijanjanja na površinu cevi;",
+            "7) sile prijanjanja na fabričku izolaciju;",
+            "8) otpornosti na smicanje preklopa;",
+            "9) otpornosti na ultraviolentno zračenje;",
+            "10) otpornosti na starenje.",
+            "O ispitivanju iz stava 1. ovog člana mora postojati izveštaj o ispitivanju pre ugradnje."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_73"
+    },
+    {
+        "title": "Član 74",
+        "texts": [
+            "Pre zatrpavanja gasovoda ispitivanje izolacije na gasovodu mora se obaviti vizuelno i visokonaponskim detektorom.",
+            "Prilikom ispitivanja izolacije gasovoda visokonaponskim detektorom mora se izabrati ispitni napon prema tipu i debljini izolacije, ali ne manji od 10 kV, pri čemu gasovod mora biti uzemljen.",
+            "Elektroda koja se koristi pri ispitivanju oštećenja izolacije visokonaponskim detektorom mora biti elastična i odgovarati prečniku cevi. Fitinzi i ostali delovi gasovoda nepravilnog oblika se ispituju posebnom elektrodom.",
+            "Brzina provlačenja elektrode duž cevovoda mora biti konstantna i mora biti manja od 20 m/min.",
+            "Otkrivene greške u izolaciji moraju se popraviti izolacionim materijalom koji odgovara materijalu koji je upotrebljen za izolaciju gasovoda na način da kvalitet izolacije na mestu popravke odgovara kvalitetu izolacije cevi bez oštećenja."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_74"
+    },
+    {
+        "title": "Član 75",
+        "texts": [
+            "Na mestima na kojima je neophodna međusobna električna izolacija delova gasovoda moraju se ugraditi izolacione spojnice.",
+            "Izolacione spojnice moraju biti konstruisane za odgovarajući pritisak, temperaturu i dielektričnu čvrstoću i izolovane od uticaja tla."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_75"
+    },
+    {
+        "title": "Član 76",
+        "texts": [
+            "Na mestima na kojima se gasovod postavlja kroz zaštitne cevi radna cev mora biti električno izolovana od zaštitnih cevi.",
+            "Zaštitna cev se postavlja u skladu sa standardom SRPS EN 12954."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_76"
+    },
+    {
+        "title": "Član 77",
+        "texts": [
+            "Elementi vešanja gasovoda za konstrukciju mosta, tegovi za balast, sidra za gasovod i metalna ojačanja izolacije, moraju biti električno izolovani od gasovoda slojem izolacionog materijala i postavljeni tako da ne oštećuju izolaciju."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_77"
+    },
+    {
+        "title": "Član 78",
+        "texts": [
+            "Gasovodi moraju biti položeni u tlo tako da trajno ostanu izolovani od drugih podzemnih metalnih instalacija."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_78"
+    },
+    {
+        "title": "Član 79",
+        "texts": [
+            "Nadzemni deo gasovoda mora biti uzemljen na odgovarajući način."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_79"
+    },
+    {
+        "title": "Član 80",
+        "texts": [
+            "Gasovod je efikasno katodno štićen ako su vrednosti zaštitnog potencijala u skladu sa vrednostima datim u standardu SRPS EN 12954."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_80"
+    },
+    {
+        "title": "Član 81",
+        "texts": [
+            "Sistemi katodne zaštite gasovoda mogu biti sa galvanskim anodama ili sa spoljnim izvorom jednosmerne struje, a po pravilu se koristi sistem katodne zaštite sa spoljnim izvorom jednosmerne struje.",
+            "Sistemi katodne zaštite iz stava 1. ovog člana moraju se izgraditi u skladu sa standardom SRPS EN 12954, i to najkasnije u roku od šest meseci od polaganja gasovoda u tlo.",
+            "Ukoliko sistem katodne zaštite nije izgrađen i pušten u rad u roku iz stava 2. ovog člana potrebno je izvesti privremenu instalaciju katodne zaštite do izgradnje predviđenog sistema katodne zaštite."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_81"
+    },
+    {
+        "title": "Član 82",
+        "texts": [
+            "Ako usled delovanja lutajućih struja postoji opasnost od korozije gasovoda, ta opasnost se utvrđuje, meri i otklanja prema standardima SRPS EN 50162 i SRPS EN 13509.",
+            "Za priključivanje uređaja za drenažu potrebna je saglasnost korisnika objekata koji uzrokuju nastanak lutajućih struja.",
+            "Gasovodi moraju biti posebno zaštićeni od povišene temperature tla koje hemijski nije neutralno, kao i na mestima na kojima postoje anaerobne bakterije koje vrše redukciju sulfata u tlu."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_82"
+    },
+    {
+        "title": "Član 83",
+        "texts": [
+            "Projektovanjem sistema katodne zaštite moraju se obuhvatiti svi uticajni faktori, a posebno:",
+            "1) osnovni podaci o gasovodu koji se štiti od korozije: karakteristike gasovoda sa geodetskim snimkom svih podzemnih i nadzemnih objekata i instalacija;",
+            "2) karakteristike tla;",
+            "3) program izvođenja i rezultati terenskih merenja;",
+            "4) određivanje parametara i izbor sistema katodne zaštite;",
+            "5) izbor delova i opreme za katodnu zaštitu."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_83"
+    },
+    {
+        "title": "Član 84",
+        "texts": [
+            "Za kontrolu rada sistema katodne zaštite gasovoda moraju se izvesti merna mesta za kontrolu potencijala, struje i otpora koja se postavljaju na sledećim mestima, i to:",
+            "1) na mesta postavljanja zaštitnih cevi na ukrštanjima sa putevima i prugama;",
+            "2) na ukrštanjima i paralelnim vođenjima sa drugim metalnim instalacijama;",
+            "3) na mesta postavljanja izolacionih spojnica u tlu;",
+            "4) na prelaze preko reka;",
+            "5) na mostove;",
+            "6) na mesta priključka na stanicu katodne zaštite;",
+            "7) na instalacije sa galvanskim anodama.",
+            "Najveće rastojanje između dva susedna merna mesta ne sme biti veće od 2 km, a u naseljenim mestima ovo rastojanje ne sme biti veće od 1 km."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_84"
+    },
+    {
+        "title": "Član 85",
+        "texts": [
+            "Merni kablovi se sa gasovodom spajaju zavarivanjem, tvrdim lemljenjem i aluminotermičkim zavarivanjem.",
+            "Mesto zavarivanja mora se izolovati. Kvalitet izolacije na mestu spoja mora odgovarati kvalitetu izolacije cevi pre njenog uklanjanja radi spoja kablova."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_85"
+    },
+    {
+        "title": "Član 86",
+        "texts": [
+            "Deonice gasovoda koje prolaze kroz zaštitne zone izvorišta pitke vode moraju se pojačano izolovati.",
+            "Na deonicama gasovoda iz stava 1. ovog člana merni izvodi za kontrolu korozije moraju se postavljati na razmacima koji nisu veći od 1 km, a funkcionisanje katodne zaštite mora se kontrolisati najmanje četiri puta godišnje.",
+            "Gasovodi koji se polažu kroz karstna područja ne moraju se ojačano izolovati, ali se u pogledu mernih izvoda i kontrole funkcionisanja sistema katodne zaštite mora postupati prema odredbi stava 2. ovog člana."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_86"
+    },
+    {
+        "title": "Član 87",
+        "texts": [
+            "Kontrola i održavanje sistema katodne zaštite se vrši u skladu sa standardom SRPS EN 12594.",
+            "Svi rezultati merenja i intervencije na sistemu katodne zaštite moraju se dokumentovati i čuvati u pisanoj ili digitalnoj formi tako da se obezbede detaljne informacije o efikasnosti katodne zaštite i omoguće provere poređenjem.",
+            "XIII ELEKTRIČNE INSTALACIJE I UREĐAJI NA GASOVODU"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_87"
+    },
+    {
+        "title": "Član 88",
+        "texts": [
+            "Električne instalacije i uređaji se postavljaju po pravilu van zona opasnosti od eksplozije.",
+            "Ako je ugradnja u zonama opasnosti instalacija i uređaja iz stava 1. ovog člana uslovljena tehnološkim zahtevima, ugradnja i izvođenje instalacija i uređaja moraju se sprovesti na način i po postupku koji su utvrđeni posebnim propisima."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_88"
+    },
+    {
+        "title": "Član 89",
+        "texts": [
+            "Električne instalacije i uređaji koji se ugrađuju na gasovode i na njihove sastavne delove moraju biti u granicama nazivnih vrednosti (nazivne snage, napona, struje, frekvencije, vrste pogona, grupe paljenja i sl.) i zaštićeni od dejstva vode, električnog, hemijskog, termičkog i mehaničkog dejstva."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_89"
+    },
+    {
+        "title": "Član 90",
+        "texts": [
+            "Električne instalacije i uređaji koji se postavljaju na gasovode i na njegove sastavne delove mogu biti ugrađeni u kanalima koji se ne provetravaju, samo ako je takva gradnja uslovljena tehnološkim zahtevima."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_90"
+    },
+    {
+        "title": "Član 91",
+        "texts": [
+            "Na mestima koja nisu ugrožena eksplozivnom smešom, a kanalima su povezana sa mestima ugroženim tom smešom, mora se na odgovarajući način sprečiti prodor gasa."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_91"
+    },
+    {
+        "title": "Član 92",
+        "texts": [
+            "Strujna kola za dovod električne energije u objekat ili u odeljenje objekta koje je ugroženo eksplozivnom smešom moraju imati prekidač postavljen na pristupačno mesto koje nije ugroženo tom smešom ili prekidač za isključenje u glavnom strujnom kolu."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_92"
+    },
+    {
+        "title": "Član 93",
+        "texts": [
+            "Uređaji i objekti na gasovodu moraju biti zaštićeni od negativnog uticaja usled atmosferskog pražnjenja."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_93"
+    },
+    {
+        "title": "Član 94",
+        "texts": [
+            "Uređaji i oprema na gasovodu moraju biti ugrađeni tako da se onemogući pojava statičkog elektriciteta koji bi mogao da prouzrokuje paljenje eksplozivne smeše."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_94"
+    },
+    {
+        "title": "Član 95",
+        "texts": [
+            "Uređaji i oprema koji su sastavni delovi električnih instalacija moraju ispunjavati uslove propisane posebnim propisima u pogledu konstruktivnih osobina, kvaliteta i vrste materijala, kao i načina i uslova ugradnje."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_95"
+    },
+    {
+        "title": "Član 96",
+        "texts": [
+            "Uređaji za merenje i regulaciju koji se ugrađuju na gasovod i njegove sastavne delove, moraju ispunjavati uslove u skladu sa standardom SRPS EN 1776.",
+            "XIV KORIŠĆENJE I ODRŽAVANJE GASOVODA"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_96"
+    },
+    {
+        "title": "Član 97",
+        "texts": [
+            "Gasovod i njegovi sastavni delovi moraju se koristiti, kontrolisati i održavati na način da se obezbedi njihov siguran, pouzdan i bezbedan rad.",
+            "Operator distributivnog sistema prirodnog gasa mora obezbediti odgovarajući pritisak u sistemu, zahtevani nivo odorizacije u sistemu i sigurnost isporuke sa sistema odgovarajućim načinom održavanja.",
+            "Korišćenje, kontrolisanje i održavanje gasovoda i njegovih sastavnih delova vrši se u skladu sa standardom SRPS EN 12007-1.",
+            "Korišćenje, kontrolisanje i održavanje mernoregulacionih, mernih, i regulacionih stanica vrši se u skladu sa standardima SRPS EN 12186 i SRPS EN 1776.",
+            "Operator distributivnog sistema donosi akt kojim definiše način i uslove korišćenja, kontrole i održavanja gasovoda u skladu sa ovim pravilnikom i drugim važećim propisima."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_97"
+    },
+    {
+        "title": "Član 98",
+        "texts": [
+            "Puštanje gasovoda u rad, kao i isključivanje gasovoda iz rada vrši se prema SRPS EN 12327."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_98"
+    },
+    {
+        "title": "Član 99",
+        "texts": [
+            "Revitalizacija gasovoda ili dela gasovoda se obavlja prema standardu SRPS EN 12007-4.",
+            "Dalja uputstva su data u standardu SRPS EN 12007-1, odnosno SRPS EN 12007-2, ili SRPS EN 12007-3 u zavisnosti od materijala od koga se gasovod izrađuje",
+            "Naknadno povećanje pritiska (MOP) u postojećim gasovodima mora biti u skladu sa SRPS EN 12007-4."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_99"
+    },
+    {
+        "title": "Član 100",
+        "texts": [
+            "Za prekvalifikaciju gasovoda u smislu naknadnog povećanje maksimalnog radnog pritiska (MOP) mora se izraditi projekat prekvalifikacije koji mora sadržati sledeće:",
+            "1) dokaz o upotrebljenim materijalima pri izgradnji gasovoda;",
+            "2) dokaz da izgrađeni gasovod može izdržati naprezanja koja proizilaze iz novoplaniranog MOP odnosno DP;",
+            "3) dokumentaciju za obnovu dela postojećeg gasovoda ukoliko je to neophodno da bi isti mogao izdražati naprezanja pri novom MOP;",
+            "4) ispitivanje gasovoda za novi MOP u skladu sa ovim pravilnikom.",
+            "XV DALJINSKI NADZOR I UPRAVLJANJE I SISTEM VEZA"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_100"
+    },
+    {
+        "title": "Član 101",
+        "texts": [
+            "U cilju ostvarivanja bezbednog i nesmetanog prenosa informacija koje se odnose na korišćenje i održavanje distributivnih gasovoda neophodno je obezbediti sistem za daljinski nadzor i upravljanje i sistem veza za merno-regulacione stanice."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_101"
+    },
+    {
+        "title": "Član 102",
+        "texts": [
+            "Merno-regulacione stanice nominalnog kapaciteta preko 25.000 m3/h moraju imati sistem za daljinski nadzor i upravljanje koji može da obezbedi daljinski prenos sledećih podataka:",
+            "1) časovni i dnevni protok prirodnog gasa;",
+            "2) pritisak na mestu merenja protoka prirodnog gasa;",
+            "3) temperaturu na mestu merenja protoka prirodnog gasa;",
+            "4) status položaja (otvoreno/zatvoreno) ulazne protivpožarne slavine ispred merno-regulacione stanice;",
+            "5) ulazni i izlazni pritisak;",
+            "6) diferencijalni pritisak na svakom filteru, ako se u merno-regulacionoj stanici vrši filtriranje;",
+            "7) ulaznu i izlaznu temperaturu;",
+            "8) status položaja (otvoreno/zatvoreno) svakog sigurnosnog prekidnog ventila;",
+            "9) pritisak iza svakog stepena regulacije kod višestepenih regulacija;",
+            "10) položaj kontrolnog ventila za ograničenje protoka ili pritiska gasa, kada takav ventil postoji na merno-regulacionoj stanici;",
+            "11) hemijski sastav prirodnog gasa tamo gde postoje gasni hromatografi i ako postoje tehničke mogućnosti."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_102"
+    },
+    {
+        "title": "Član 103",
+        "texts": [
+            "Merno-regulacione stanice nominalnog kapaciteta preko 10.000 m3/h moraju imati obezbeđen daljinski prenos podataka iz člana 102. tač. 1) do 5) ovog pravilnika."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_103"
+    },
+    {
+        "title": "Član 104",
+        "texts": [
+            "Članovi 102. i 103. ovog pravilnika odnose se i na merne stanice i regulacione stanice u skladu sa funkcijom koju imaju u sistemu za distribuciju prirodnog gasa."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_104"
+    },
+    {
+        "title": "Član 105",
+        "texts": [
+            "U cilju ostvarivanja bezbednog i nesmetanog prenosa informacija koje se odnose na korišćenje i održavanje gasovoda neophodno je obezbediti telekomunikacione usluge za prenos podataka i govora sa operatorom distributivnog sistema.",
+            "XVI PRELAZNE I ZAVRŠNE ODREDBE"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_105"
+    },
+    {
+        "title": "Član 106",
+        "texts": [
+            "Gasovod od čeličnih cevi za koji je pribavljena upotrebna dozvola za maksimalni radni pritisak manji od 16 bar do dana stupanja na snagu ovog pravilnika, a koji je ispitan na čvrstoću i nepropusnost sa vrednostima STP koji odgovaraju MOP veće vrednosti, može se koristiti kao gasovod sa datim MOP, pri čemu MOP ne može biti veći od 16 bar."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_106"
+    },
+    {
+        "title": "Član 107",
+        "texts": [
+            "Odredbe ovog pravilnika ne primenjuju se na projektovanje i izgradnju gasovoda radnog pritiska do 16 bar za koje je podnet zahtev za izdavanje lokacijskih uslova do dana stupanja na snagu ovog pravilnika."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_107"
+    },
+    {
+        "title": "Član 108",
+        "texts": [
+            "Odorant etil merkaptan kao sredstvo za odorizaciju može se koristiti do 31. decembra 2022. godine."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_108"
+    },
+    {
+        "title": "Član 109",
+        "texts": [
+            "Danom stupanja na snagu ovog pravilnika prestaje da važi Pravilnik o tehničkim normativima za projektovanje i polaganje distributivnog gasovoda od polietilenskih cevi za radni pritisak do 4 bar (\"Službeni list SRJ\", broj 20/92) i Pravilnik o tehničkim normativima za kućni gasni priključak za radni pritisak do 4 bar (\"Službeni list SRJ\", broj 20/92)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_109"
+    },
+    {
+        "title": "Član 110",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u \"Službenom glasniku Republike Srbije\".",
+            "",
+            "Prilog 1",
+            "GRAFIČKI PRIKAZI ZONA OPASNOSTI",
+            "",
+            "",
+            "Slika 1: MRS: prednji izgled - kapacitet stanice > 160 m3/h",
+            "",
+            "Slika 2: MRS: bočni izgled - kapacitet stanice > 160 m3/h",
+            "",
+            "Slika 3: MRS: osnova - kapacitet stanice > 160 m3/h",
+            "",
+            "Slika 3: MRS: kapacitet stanice ≤ 160 m3/h",
+            "",
+            "Slika 3: Protivpožarna slavina",
+            "",
+            "Slika 4: Protivpožarni / sekcijski šaht",
+            "",
+            "Slika 5: Odorizator",
+            "Legenda:",
+            "",
+            "",
+            "Zona opasnosti od eksplozije 1",
+            "",
+            "",
+            "Zona opasnosti od eksplozije 2",
+            "Vrednosti R1, R2, H i r su date u tabelama 1, 2, 3 i 4.",
+            "Tabela 1 (MRS):",
+            "",
+            "MOP na ulazu",
+            "Kapacitet merno regulacione stanice m3/h",
+            "MOP ≤ 4 bar",
+            "4 bar < MOP ≤ 10 bar",
+            "10 bar < MOP ≤ 16 bar",
+            "",
+            "R1",
+            "R2",
+            "r",
+            "R1",
+            "R2",
+            "r",
+            "R1",
+            "R2",
+            "r",
+            "",
+            "(m)",
+            "(m)",
+            "(m)",
+            "(m)",
+            "(m)",
+            "(m)",
+            "(m)",
+            "(m)",
+            "(m)",
+            "do 160",
+            "*",
+            "*",
+            "*",
+            "1",
+            "2",
+            "1",
+            "1",
+            "2",
+            "1,5",
+            "od 161 do 6000",
+            "1",
+            "2",
+            "1",
+            "1",
+            "3",
+            "1,5",
+            "1",
+            "3",
+            "2",
+            "preko 6001",
+            "1",
+            "3",
+            "3",
+            "1",
+            "3",
+            "3",
+            "1",
+            "3",
+            "3",
+            "* - videti Tabelu 2",
+            "Tabela 2 (MRS):",
+            "",
+            "MOP na ulazu",
+            "Kapacitet merno regulacione stanice m3/h",
+            "MOP ≤ 4 bar",
+            "",
+            "H",
+            "r",
+            "",
+            "(m)",
+            "(m)",
+            "do 10",
+            "1",
+            "0,2",
+            "od 11 do 160",
+            "3",
+            "0,5",
+            "Tabela 3 (protivpožarna slavina i šaht, sekcijski šaht):",
+            "",
+            "MOP ≤ 4 bar",
+            "4 bar < MOP ≤ 10 bar",
+            "10 bar < MOP ≤ 16 bar",
+            "",
+            "R1",
+            "R2",
+            "r",
+            "R1",
+            "R2",
+            "r",
+            "R1",
+            "R2",
+            "r",
+            "",
+            "(m)",
+            "(m)",
+            "(m)",
+            "(m)",
+            "(m)",
+            "(m)",
+            "(m)",
+            "(m)",
+            "(m)",
+            "Protivpožarnaslavina",
+            "-",
+            "-",
+            "0,6",
+            "-",
+            "-",
+            "0,7",
+            "-",
+            "-",
+            "1,0",
+            "Protivpožarni /sekcijski šaht",
+            "-",
+            "-",
+            "0,6",
+            "-",
+            "-",
+            "0,7",
+            "-",
+            "-",
+            "1,0",
+            "Tabela 4 (odorizator):",
+            "",
+            "MOP ≤ 16 bar",
+            "",
+            "r",
+            "",
+            "(m)",
+            "U sopstvenom kućištu",
+            "0,2",
+            "Unutar MRS",
+            "Prema tabeli 1 i 2",
+            "Na otvorenom",
+            "Prema tabeli 1 i 2",
+            "Ako ne probate više različitih izbora nikada nećete biti sigurni da li imate najbolju opciju u svojim rukama. Mi Vam tu mogućnost nudimo besplatno! Popunite formular i dobićete priliku da bez ikakvih troškova saznate da li je Paragraf dobar izbor za Vas.",
+            "Ukoliko želite da Vas obaveštavamo o novostima i aktivnostima kompanije Paragraf prijavite se na našu mailing listu. Vaš e-mail neće biti upotrebljen u druge svrhe."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_uslovima_za_nesmetanu_i_bezbednu_distribuciju_prirodnog_gasa_gasovodima_pritiska_do_16_bar.html#clan_110"
+    }
+]

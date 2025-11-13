@@ -1,0 +1,237 @@
+[
+    {
+        "title": "Član 1",
+        "texts": [
+            "Ovim pravilnikom uređuje se primena politike primerenog korišćenja koju privredni subjekt pružalac usluga rominga u javnim mobilnim komunikacionim mrežama (u daljem tekstu: pružalac usluga rominga) može koristiti u pogledu potrošnje regulisanih maloprodajnih usluga rominga, koje se pružaju po važećim domaćim maloprodajnim cenama, metodologija za procenu održivosti ukidanja maloprodajnih dodatnih naknada za roming, koju Regulatorno telo za elektronske komunikacije i poštanske usluge (u daljem tekstu: Regulator) primenjuje prilikom procene da li pružalac usluga rominga može nadoknaditi troškove pružanja regulisanih usluga rominga, koji bi mogli da ugroze održivost njegovog domaćeg modela naplate, kao i zahtev koji, sa neophodnim podacima, pružalac usluga rominga podnosi Regulatoru u svrhu te procene, odnosno za odobrenje primene dodatne naknade za roming.",
+            "Metodologija za procenu održivosti ukidanja maloprodajnih dodatnih naknada za roming data je u Prilogu 1. i Prilogu 2, koji su odštampani uz ovaj pravilnik i čine njegov sastavni deo.",
+            "Značenje pojedinih pojmova"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-primeni-politike-primerenog-koriscenja-maloprodajnih-dodatnih-naknada-za-roming.html#clan_1"
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Pojedini pojmovi upotrebljeni u ovom pravilniku imaju sledeće značenje:",
+            "1)grupapredstavlja privredno društvo i sva zavisna privredna društva koja se nalaze pod njegovom kontrolom;",
+            "2)gostujuća mrežapredstavlja terestričku javnu mobilnu komunikacionu mrežu (u daljem tekstu: mobilna mreža) koja se nalazi na teritoriji Zapadnog Balkana, a nije domaća mreža pružaoca usluga rominga, koji dozvoljava korisniku rominga da poziva ili da prima pozive, da šalje ili prima SMS poruke ili da koristi prenos podataka sa komutacijom paketa;",
+            "3)domaća maloprodajna cenapredstavlja maloprodajnu jediničnu cenu pružaoca usluge rominga koja se primenjuje na odlazne pozive i poslate SMS poruke, započete i završene na različitim javnim komunikacionim mrežama u Republici Srbiji, odnosno na prenos podataka koje je korisnik potrošio, a kada ne postoji tačno određena domaća maloprodajna jedinična cena podrazumeva se isti mehanizam naplate koji se primenjuje na korisnika za odlazne pozive i poslate SMS poruke, započete i završene u različitim javnim komunikacionim mrežama u Republici Srbiji, odnosno za prenos podataka koje je korisnik potrošio u Republici Srbiji;",
+            "4)maloprodajne usluge u mobilnoj mrežipredstavljaju javne mobilne komunikacione usluge koje se pružaju krajnjim korisnicima, uključujući usluge poziva, SMS poruka i prenosa podataka;",
+            "5)marža na usluge u mobilnoj mrežipredstavlja dobit, pre odbitka kamate, poreza i amortizacije, od prodaje usluga u mobilnoj mreži koje nisu maloprodajne usluge rominga koje se pružaju unutar regiona Zapadnog Balkana, čime se isključuju troškovi i prihodi od maloprodajnih usluga rominga;",
+            "6)otvoreni paket za uslugu prenosa podatakapredstavlja tarifni plan za pružanje jedne ili više maloprodajnih usluga u mobilnoj mreži koji ne ograničava količinu prenosa podataka uključenih u fiksnu periodičnu naknadu ili paket u okviru kojeg je domaća jedinična cena maloprodajnih usluga prenosa podataka, dobijena deljenjem ukupne domaće maloprodajne cene za usluge u mobilnoj mreži, bez PDV-a, za ceo obračunski period, sa ukupnom količinom prenosa podataka koja je dostupna u domaćoj mreži, niža od regulisane maksimalne veleprodajne naknade za roming;",
+            "7)posećena ekonomija u regionu Zapadnog Balkanapredstavlja ekonomiju u regionu Zapadnog Balkana koja nije ekonomija domaćeg pružaoca usluga rominga;",
+            "8)pripejd tarifni planpredstavlja tarifni plan u okviru kojeg se maloprodajne usluge u mobilnoj mreži pružaju nakon oduzimanja od kredita koji je korisnik stavio na raspolaganje na jediničnoj osnovi, pre potrošnje, i iz kojeg se korisnik može povući bez sankcija nakon što kredit potroši ili prestane da važi;",
+            "9)regulisana SMS poruka u romingupredstavlja SMS poruku koju je poslao korisnik rominga i koja započinje u gostujućoj mreži i terminira u terestričkoj mobilnoj mreži u regionu Zapadnog Balkana ili SMS poruku koju je primio korisnik rominga i koja započinje u terestričkoj mobilnoj mreži u regionu Zapadnog Balkana i terminira u gostujućoj mreži, pri čemu regulisana SMS poruka u romingu mora imati iste tehničke parametre kao SMS poruka u domaćem saobraćaju;",
+            "10)regulisana usluga prenosa podataka u romingupredstavlja uslugu koja omogućava korišćenje prenosa podataka sa komutacijom paketa od strane korisnika rominga preko njegovog mobilnog uređaja dok je povezan na gostujuću mrežu u regionu Zapadnog Balkana i ne uključuje prenos ni prijem regulisanih poziva u romingu i regulisanih SMS poruka u romingu, ali uključuje prenos i prijem MMS poruka u romingu;",
+            "11)regulisani poziv u romingupredstavlja odlazni govorni telefonski poziv korisnika rominga u terestričkoj mobilnoj mreži, koji započinje u gostujućoj mreži i terminira u javnoj komunikacionoj mreži u regionu Zapadnog Balkana ili dolazni govorni telefonski poziv korisnika rominga u terestričkoj mobilnoj mreži, koji započinje u javnoj komunikacionoj mreži u regionu Zapadnog Balkana i terminira u gostujućoj mreži, pri čemu regulisani poziv u romingu obuhvata samo govorni telefonski poziv u terestričkoj mobilnoj mreži, a ne i poziv putem usluge prenosa podataka;",
+            "12)stabilne vezepredstavljaju veze koje podrazumevaju česti i duži boravak na teritoriji Republike Srbije, koji se odnosi na stalni radni odnos sa punim radnim vremenom, uključujući i pogranične radnike, iz trajnih ugovornih odnosa koji od samozaposlenog lica zahtevaju sličan stepen fizičkog prisustva, pohađanje redovnih studija koje su u toku, ili druge situacije, kao što su situacije sa upućenim radnicima ili penzionerima, kada zahtevaju sličan stepen fizičkog prisustva na teritoriji Republike Srbije.",
+            "II POLITIKA PRIMERENOG KORIŠĆENJA",
+            "Osnovno načelo"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-primeni-politike-primerenog-koriscenja-maloprodajnih-dodatnih-naknada-za-roming.html#clan_2"
+    },
+    {
+        "title": "Član 3",
+        "texts": [
+            "Pružalac usluga rominga pruža regulisane maloprodajne usluge rominga po domaćim cenama svojim korisnicima rominga koji imaju prebivalište, odnosno boravište u Republici Srbiji ili imaju stabilne veze, koje podrazumevaju da često i duže borave u Republici Srbiji.",
+            "Svaka politika primerenog korišćenja koju pružalac usluga rominga primenjuje u cilju sprečavanja zloupotrebe i neprimerenog korišćenja regulisanih maloprodajnih usluga rominga podleže uslovima propisanim u čl. 4. i 5. ovog pravilnika i obezbeđuje da se takvim korisnicima rominga omogući pristup regulisanim maloprodajnim uslugama rominga po domaćim maloprodajnim cenama tokom povremenih putovanja u posećene ekonomije u regionu Zapadnog Balkana, pod istim uslovima kao da su te usluge koristili u domaćoj mreži.",
+            "Primereno korišćenje"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-primeni-politike-primerenog-koriscenja-maloprodajnih-dodatnih-naknada-za-roming.html#clan_3"
+    },
+    {
+        "title": "Član 4",
+        "texts": [
+            "U svrhu primene politike primerenog korišćenja pružalac usluga rominga može zahtevati od svojih korisnika rominga da pruže dokaz o prebivalištu, odnosno boravištu u Republici Srbiji ili drugim stabilnim vezama sa Republikom Srbijom, koje podrazumevaju da često i duže borave na njenoj teritoriji.",
+            "Bez obzira na bilo koje ograničenje koje se odnosi na potrošnju u domaćem saobraćaju, u slučaju otvorenog paketa za uslugu prenosa podataka, korisnik rominga može tokom povremenih putovanja u regionu Zapadnog Balkana da iskoristi obim saobraćaja maloprodajne usluge prenosa podataka u romingu po domaćoj maloprodajnoj ceni, koji je najmanje dva puta veći od obima saobraćaja dobijenog deljenjem ukupne domaće maloprodajne cene tog otvorenog paketa za uslugu prenosa podataka, bez PDV-a, za ceo obračunski period, sa maksimalnom veleprodajnom naknadom za regulisanu uslugu prenosa podataka u romingu.",
+            "U slučaju prodaje maloprodajnih usluga u mobilnoj mreži u paketu sa drugim uslugama ili terminalnom opremom, ukupna domaća maloprodajna cena paketa za uslugu prenosa podataka se utvrđuje na način koji se koristi za otvoreni paket za uslugu prenosa podataka iz člana 2. tačka 6) ovog pravilnika, uzimajući u obzir cenu koja se primenjuje na odvojenu prodaju komponente maloprodajnih usluga u mobilnoj mreži iz paketa, bez PDV-a, ukoliko je dostupna ili cenu za samostalnu prodaju takvih usluga sa istim karakteristikama.",
+            "U slučaju pripejd tarifnih planova, umesto zahteva u pogledu politike primerenog korišćenja iz stava 1. ovog člana, pružalac usluga rominga može ograničiti potrošnju maloprodajnih usluga prenosa podataka u romingu u regionu Zapadnog Balkana po domaćoj maloprodajnoj ceni na obim saobraćaja koji je najmanje jednak obimu saobraćaja dobijenom deljenjem ukupnog iznosa preostalog raspoloživog kredita, bez PDV-a, koji je korisnik već platio u trenutku otpočinjanja korišćenja usluge rominga, sa maksimalnom veleprodajnom naknadom za regulisanu uslugu prenosa podataka u romingu.",
+            "U cilju sprečavanja zloupotrebe ili neprimerenog korišćenja regulisanih maloprodajnih usluga rominga koje se pružaju po važećim domaćim maloprodajnim cenama, pružalac usluga rominga može, saglasno zakonu kojim se uređuju elektronske komunikacije u delu koji se odnosi na obradu podataka o saobraćaju, primeniti pravične, razumne i srazmerne kontrolne mehanizme, zasnovane na objektivnim pokazateljima rizika od zloupotrebe ili neprimerenog korišćenja izvan okvira povremenih putovanja u regionu Zapadnog Balkana.",
+            "Objektivni pokazatelji iz stava 5. ovog člana uključuju mere kojima se utvrđuje da li su korisnici imali veću potrošnju u domaćem saobraćaju u odnosu na roming ili da li su više boravili u Republici Srbiji u odnosu na druge posećene ekonomije u regionu Zapadnog Balkana.",
+            "Kako bi se obezbedilo da korisnici rominga koji povremeno putuju ne budu izloženi nepotrebnim ili prekomernim upozorenjima u skladu sa članom 5. stav 5. ovog pravilnika, pružalac usluga rominga koji primenjuje mere za utvrđivanje rizika od zloupotrebe ili neprimerenog korišćenja usluga rominga posmatra pokazatelje boravka i potrošnje kumulativno i tokom perioda od najmanje četiri meseca.",
+            "Pružalac usluga rominga u obavezi je da u ugovorima sa korisnicima rominga navede na koju se maloprodajnu uslugu ili usluge u mobilnoj mreži odnosi pokazatelj potrošnje i minimalno trajanje perioda posmatranja.",
+            "Veća potrošnja u domaćem saobraćaju u odnosu na roming ili duži boravak korisnika rominga u Republici Srbiji u odnosu na druge posećene ekonomije u regionu Zapadnog Balkana tokom utvrđenog perioda posmatranja smatraju se dokazom da nema zloupotrebe ili neprimerenog korišćenja regulisanih maloprodajnih usluga rominga.",
+            "Svaki dan u kome je korisnik rominga prijavljen na domaću mrežu, u skladu sa st. 6, 7. i 9. ovog člana, računa se kao dan boravka u Republici Srbiji.",
+            "Drugi objektivni pokazatelji rizika od zloupotrebe ili neprimerenog korišćenja regulisanih maloprodajnih usluga rominga koje se pružaju po važećim domaćim maloprodajnim cenama su:",
+            "1) dugotrajna neaktivnost određene SIM kartice, koja je vezana uglavnom ili isključivo za korišćenje u romingu;",
+            "2) pretplata i uzastopno korišćenje više SIM kartica od strane istog korisnika u romingu.",
+            "Ako pružalac usluga rominga utvrdi, na osnovu objektivnih i obrazloženih dokaza, da se određeni broj SIM kartica organizovano preprodaje licima koja efektivno ne žive ili nemaju stabilne veze koje podrazumevaju da često i duže borave u Republici Srbiji, da bi se omogućila potrošnja regulisanih maloprodajnih usluga rominga koje se pružaju po važećim domaćim maloprodajnim cenama, osim za potrebe povremenih putovanja, pružalac usluga rominga može preduzeti hitne srazmerne mere kako bi obezbedio poštovanje svih uslova iz pretplatničkog ugovora.",
+            "Transparentnost i nadzor nad politikom primerenog korišćenja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-primeni-politike-primerenog-koriscenja-maloprodajnih-dodatnih-naknada-za-roming.html#clan_4"
+    },
+    {
+        "title": "Član 5",
+        "texts": [
+            "Pružalac usluga rominga koji primenjuje politiku primerenog korišćenja, u obavezi je da u opštim uslovima za pružanje usluga i ugovorima sa korisnicima rominga navede sve uslove u vezi sa ovom politikom, uključujući sve kontrolne mehanizme iz člana 4. st. 5-11. ovog pravilnika.",
+            "Pružalac usluga rominga u obavezi je da obavesti Regulatora o politikama primerenog korišćenja, dostavljanjem modela pretplatničkog ugovora na saglasnost Regulatoru.",
+            "Ako postoje objektivni i obrazloženi dokazi, zasnovani na objektivnim pokazateljima iz člana 4. st. 5-11. ovog pravilnika, koji upućuju na rizik od zloupotrebe ili neprimerenog korišćenja regulisanih maloprodajnih usluga rominga u regionu Zapadnog Balkana, po domaćim maloprodajnim cenama od strane određenog korisnika rominga, pružalac usluga rominga šalje upozorenje korisniku rominga o ustanovljenom obrascu ponašanja koji upućuje na takav rizik, pre primene bilo kakve dodatne naknade za roming na domaću maloprodajnu cenu.",
+            "Odredba stava 3. ovog člana primenjuje se bez obzira na dostavljeni dokaz korisnika rominga o uobičajenom mestu življenja ili drugim stabilnim vezama koje podrazumevaju da često i duže boravi u Republici Srbiji.",
+            "Pružalac usluga rominga, kada korisniku rominga šalje upozorenje iz stava 3. ovog člana, obaveštava ga da može primeniti dodatnu naknadu za roming na domaću maloprodajnu cenu za svako dalje korišćenje regulisanih maloprodajnih usluga rominga sa predmetne SIM kartice, ukoliko u roku ne kraćem od 15 dana od datuma prijema upozorenja ne dođe do promene u njegovom obrascu korišćenja, koji bi pokazao stvarnu potrošnju u domaćem saobraćaju ili boravak u Republici Srbiji.",
+            "Dodatna naknada za roming ne može biti veća od maksimalne prosečne veleprodajne naknade za pružanje usluga rominga (bez PDV-a), koja za regulisane odlazne i dolazne pozive u romingu i regulisane SMS poruke u romingu ne prelazi 0,032 evra po minutu, odnosno 0,01 evro po SMS poruci, a za regulisanu uslugu prenosa podataka u romingu ne prelazi 0,0035 evra po megabajtu, odnosno od 1. januara 2025. godine ne prelazi 0,003 evra po megabajtu i od 1. januara 2026. godine ne prelazi 0,0025 evra po megabajtu.",
+            "Zbir domaće maloprodajne cene i maksimalne dodatne naknade za roming ne može biti veći od maksimalne maloprodajne cene za regulisane usluge rominga (bez PDV-a), koja za regulisane odlazne pozive u romingu, regulisane SMS poruke u romingu i regulisanu uslugu prenosa podataka u romingu ne prelazi 0,19 evra po minutu, 0,06 evra po SMS poruci i 0,18 evra po megabajtu.",
+            "Naknada za regulisane dolazne pozive u romingu ne prelazi 0,016 evra po minutu (bez PDV-a).",
+            "Pružalac usluga rominga prestaje da primenjuje dodatnu naknadu čim potrošnja korisnika rominga više ne upućuje na rizik od zloupotrebe ili neprimerenog korišćenja regulisanih maloprodajnih usluga rominga, na osnovu objektivnih pokazatelja iz člana 4. st. 5-11. ovog pravilnika.",
+            "Izuzetno od st. 3-5. i 9. ovog člana, pružalac usluga rominga može korisniku rominga, nakon što iskoristi dozvoljenu količinu podataka za uslugu prenosa podataka u romingu, izračunatu na način naveden u članu 4. st. 2. i 4. ovog pravilnika, naplaćivati dodatnu naknadu za roming za dalje korišćenje usluge prenosa podataka u romingu, odmah po iskorišćenosti te dozvoljene količine podataka.",
+            "Ako pružalac usluga rominga, utvrdi da su SIM kartice bile predmet organizovane preprodaje licima koja nemaju prebivalište, odnosno boravište u Republici Srbiji niti imaju stabilne veze koje podrazumevaju da često i duže borave u Republici Srbiji, kako bi se omogućila potrošnja regulisanih maloprodajnih usluga rominga, osim za potrebe povremenih putovanja u posećene ekonomije u regionu Zapadnog Balkana, dostavlja Regulatoru dokaze o predmetnoj sistemskoj zloupotrebi i merama preduzetim radi obezbeđenja poštovanja svih uslova iz pretplatničkog ugovora, u isto vreme kada se te mere preduzimaju.",
+            "III ZAHTEV ZA ODOBRENJE PRIMENE DODATNE NAKNADE ZA ROMING I METODOLOGIJA ZA PROCENU ODRŽIVOSTI UKIDANJA MALOPRODAJNIH DODATNIH NAKNADA ZA ROMING",
+            "Zahtev za odobrenje primene dodatne naknade za roming"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-primeni-politike-primerenog-koriscenja-maloprodajnih-dodatnih-naknada-za-roming.html#clan_5"
+    },
+    {
+        "title": "Član 6",
+        "texts": [
+            "U posebnim i izuzetnim okolnostima, sa ciljem obezbeđivanja održivosti svog domaćeg modela naplate, pružalac usluga rominga, ukoliko ne može da obezbedi povraćaj ukupnih stvarnih i projektovanih troškova pružanja regulisanih maloprodajnih usluga rominga od ukupnih stvarnih i projektovanih prihoda od pružanja tih usluga, može da podnese Regulatoru zahtev za odobrenje primene dodatne naknade za roming, koja se može primeniti samo u meri u kojoj je to neophodno za povraćaj troškova pružanja regulisanih maloprodajnih usluga rominga, uzimajući u obzir važeće maksimalne veleprodajne cene.",
+            "Zahtev iz stava 1. ovog člana obavezno sadrži:",
+            "1) osnovne podatke o pružaocu usluga rominga kao podnosioca predmetnog zahteva, i to: ime, odnosno naziv, adresa, odnosno sedište i adresa elektronske pošte;",
+            "2) podatke o razlozima za njegovo podnošenje.",
+            "Pružalac usluga rominga podnosi Regulatoru, bez odlaganja, zahtev iz stava 1. ovog člana sa svim neophodnim podacima propisanim članom 7. ovog pravilnika.",
+            "U slučaju dobijanja odobrenja za primenu dodatne naknade za roming od strane Regulatora, pružalac usluga rominga je u obavezi da svakih 12 meseci ažurira te podatke i iste dostavi Regulatoru, bez odlaganja.",
+            "Po prijemu zahteva iz stava 1. ovog člana, Regulator utvrđuje da li pružalac usluga rominga ne može nadoknaditi svoje troškove u skladu sa stavom 1. ovog člana, što bi imalo negativan uticaj na održivost njegovog domaćeg modela naplate.",
+            "Procena održivosti domaćeg modela naplate zasniva se na relevantnim objektivnim faktorima koji su specifični za pružaoca usluga rominga, uključujući objektivna odstupanja između različitih pružalaca usluga rominga i nivoa domaćih cena i prihoda.",
+            "Regulator, u skladu sa zakonom kojim se uređuje opšti upravni postupak, odobrava primenu dodatne naknade za roming, ukoliko su za to ispunjeni uslovi, i to u roku od 30 dana od dana prijema urednog zahteva iz stava 1. ovog člana.",
+            "Podaci koji se podnose uz zahtev za odobrenje primene dodatne naknade za roming"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-primeni-politike-primerenog-koriscenja-maloprodajnih-dodatnih-naknada-za-roming.html#clan_6"
+    },
+    {
+        "title": "Član 7",
+        "texts": [
+            "Zahtev za odobrenje primene dodatne naknade za roming, koji podnosi pružalac usluga rominga da bi obezbedio održivost svog domaćeg modela naplate, ocenjuje se na osnovu analize podataka o ukupnom obimu saobraćaja regulisanih maloprodajnih usluga rominga za period od 12 meseci. Navedene podatke o ukupnom obimu saobraćaja regulisanih maloprodajnih usluga rominga pružalac usluga rominga dostavlja Regulatoru prilikom podnošenja prvog zahteva za odobrenje primene dodatne naknade za roming, a projekcije obima saobraćaja procenjuju se korišćenjem jedne od sledećih mogućnosti ili njihove kombinacije:",
+            "1) projektovani obim saobraćaja regulisanih maloprodajnih usluga rominga, pri čemu se projektovani obim saobraćaja regulisanih maloprodajnih usluga rominga tokom tog perioda procenjuju na osnovu stvarne domaće maloprodajne potrošnje usluga u mobilnoj mreži i vremena koje korisnici rominga podnosioca zahteva provedu u regionu Zapadnog Balkana;",
+            "2) projektovani obim saobraćaja regulisanih maloprodajnih usluga rominga, pri čemu se obim saobraćaja regulisanih maloprodajnih usluga rominga procenjuje na osnovu proporcionalne promene u obimu saobraćaja regulisanih maloprodajnih usluga rominga u tarifnim planovima podnosioca zahteva, koji predstavljaju značajan deo baze korisnika na osnovu koje je podnosilac zahteva odredio cene regulisanih maloprodajnih usluga rominga na nivou domaćih maloprodajnih cena za period od najmanje 30 dana, u skladu sa metodologijom iz Priloga 1. ovog pravilnika.",
+            "U slučaju ažuriranja zahteva iz stava 1. ovog člana, projektovani obim saobraćaja regulisanih usluga rominga ažurira se na osnovu stvarnog obrasca prosečne potrošnje domaćih usluga u mobilnoj mreži pomnožene sa utvrđenim brojem korisnika rominga i vremenom koje su proveli u posećenim ekonomijama u regionu Zapadnog Balkana, tokom prethodnih 12 meseci.",
+            "Svi podaci o troškovima i prihodima podnosioca zahteva za odobrenje primene dodatne naknade za roming zasnivaju se na finansijskim izveštajima, dostupnim Regulatoru, pri čemu se ovi podaci mogu prilagoditi procenama obima saobraćaja iz stava 1. ovog člana.",
+            "Pri proceni troškova, odstupanja od iznosa dobijenih iz prethodnih finansijskih izveštaja uzimaju se u obzir samo ako su obrazloženi dokazom o preuzetim finansijskim obavezama za period obuhvaćen procenom.",
+            "Podnosilac zahteva iz stava 1. ovog člana dostavlja sve neophodne podatke koje je koristio za utvrđivanje marže na usluge u mobilnoj mreži i ukupne stvarne i projektovane troškove pružanja regulisanih usluga rominga, kao i prihode koji su nastali po osnovu pružanja tih usluga u relevantnom periodu.",
+            "Određivanje troškova povezanih isključivo sa romingom za pružanje regulisanih maloprodajnih usluga rominga"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-primeni-politike-primerenog-koriscenja-maloprodajnih-dodatnih-naknada-za-roming.html#clan_7"
+    },
+    {
+        "title": "Član 8",
+        "texts": [
+            "Kako bi se utvrdilo da podnosilac zahteva za odobrenje primene dodatne naknade za roming ne može da nadoknadi svoje troškove, zbog čega bi održivost njegovog domaćeg sistema naplate bila ugrožena, u obzir se uzimaju sledeći troškovi povezani isključivo sa romingom, ako su obrazloženi dokazima u tom zahtevu, i to:",
+            "1) troškovi za kupovinu veleprodajnog pristupa romingu;",
+            "2) maloprodajni troškovi koji su povezani isključivo sa romingom.",
+            "U pogledu troškova koji nastaju zbog kupovine regulisanih veleprodajnih usluga rominga, u obzir se uzima samo iznos za koji ukupna plaćanja podnosioca zahteva iz stava 1. ovog člana drugim stranama koje pružaju takve usluge u regionu Zapadnog Balkana premašuju ukupne iznose koje je podnosilac ovog zahteva obračunao za pružanje istih usluga drugim pružaocima usluga rominga u regionu Zapadnog Balkana.",
+            "Kad je reč o iznosima koji se plaćaju pružaocu usluga rominga za pružanje regulisanih veleprodajnih usluga rominga, pružalac usluga rominga predviđa obim saobraćaja tih veleprodajnih usluga rominga, koje su u skladu sa pretpostavkom na kojoj se zasniva projektovani obim saobraćaj iz člana 7. stav 1. ovog pravilnika.",
+            "U pogledu maloprodajnih troškova koji su povezani isključivo sa romingom, u obzir se uzimaju sledeći troškovi, ukoliko su obrazloženi u zahtevu iz stava 1. ovog člana, i to:",
+            "1) operativni troškovi i troškovi upravljanja koji se odnose na usluge rominga, uključujući sve sisteme poslovnog izveštavanja i softver namenjen pružanju i upravljanju uslugama rominga;",
+            "2) troškovi kliringa podataka i plaćanja, uključujući troškove kliringa podataka i finansijskog kliringa;",
+            "3) troškovi pregovaranja i sklapanja ugovora, uključujući spoljne naknade i korišćenje internih resursa;",
+            "4) troškovi koji su, uzimajući u obzir politiku primerenog korišćenja koju primenjuje pružalac usluga rominga, nastali radi usklađivanja sa zahtevima za pružanje regulisanih maloprodajnih usluga rominga, a koji se odnose na obaveze:",
+            "(1) obaveštavanja korisnika rominga da se na njega primenjuju cene za regulisane pozive u romingu, slanje regulisanih SMS poruka u romingu i korišćene regulisane usluge prenosa podataka u romingu u regionu Zapadnog Balkana, kao i da korisniku rominga, kada uđe na teritoriju regiona Zapadnog Balkana, izuzev kada uđe na teritoriju Republike Srbije, budu pružene automatski, putem poruke, bez nepotrebnog odlaganja i besplatno, osnovne personalizovane informacije o određivanju cena, uključujući PDV, koje se primenjuju na regulisane odlazne i dolazne pozive u romingu, na slanje regulisanih SMS poruka u romingu i korišćenje regulisane usluge prenosa podataka u romingu u regionu Zapadnog Balkana, osim ako je korisnik rominga obavestio pružaoca usluga rominga da ne zahteva ovu uslugu;",
+            "(2) obaveštavanja korisnika, pre zaključenja ugovora i redovno posle toga, o riziku automatskog i nekontrolisanog uključivanja usluge prenosa podataka i preuzimanja podataka u romingu i besplatnog obaveštavanja korisnika na jasan i lako razumljiv način o tome kako da isključe automatska uključivanja usluge prenosa podataka u romingu sa ciljem da se izbegne nekontrolisana potrošnja usluga prenosa podataka u romingu u regionu Zapadnog Balkana;",
+            "(3) omogućavanja jednog ili više maksimalnih finansijskih ograničenja za određene periode korišćenja regulisane usluge prenosa podataka u romingu u regionu Zapadnog Balkana, pod uslovom da je korisnik rominga unapred obavešten o odgovarajućim količinskim iznosima;",
+            "(4) preduzimanja razumnih koraka da bi se zaštitili korisnici od plaćanja naknada za regulisane usluge rominga u regionu Zapadnog Balkana za nenameran pristup regulisanim uslugama rominga dok se nalaze u Republici Srbiji, što uključuje obaveštavanje korisnika o načinima da se izbegne nenamerno korišćenje rominga u pograničnim područjima.",
+            "Troškovi navedeni u stavu 4. tač. 1) do 3) ovog člana, uzimaju se u obzir samo proporcionalno odnosu ukupnog obima saobraćaja regulisanih maloprodajnih usluga rominga podnosioca zahteva iz stava 1. ovog člana i ukupnog maloprodajnog odlaznog i veleprodajnog dolaznog saobraćaja njegovih usluga rominga, u skladu sa metodologijom iz tač. 1) i 2) Priloga 2. ovog pravilnika i proporcionalno odnosu ukupnog obima saobraćaja njegovih maloprodajnih usluga rominga u regionu Zapadnog Balkana i ukupnog obima saobraćaja njegovih maloprodajnih usluga rominga unutar i van regiona Zapadnog Balkana, u skladu sa metodologijom iz tač. 1) i 3) Priloga 2. ovog pravilnika.",
+            "Troškovi iz stava 4. tačka 4) ovog člana, uzimaju se u obzir samo proporcionalno odnosu ukupnog obima saobraćaja regulisanih maloprodajnih usluga rominga podnosioca zahteva iz stava 1. ovog člana, unutar regiona Zapadnog Balkana i ukupnog obima saobraćaja njegovih maloprodajnih usluga rominga unutar i van regiona Zapadnog Balkana, u skladu sa metodologijom iz tač. 1) i 3) Priloga 2. ovog pravilnika.",
+            "Raspodela maloprodajnih zajedničkih i opštih troškova na pružanje regulisanih maloprodajnih usluga rominga"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-primeni-politike-primerenog-koriscenja-maloprodajnih-dodatnih-naknada-za-roming.html#clan_8"
+    },
+    {
+        "title": "Član 9",
+        "texts": [
+            "Osim troškova iz člana 8. ovog pravilnika, u zahtev za odobrenje primene dodatne naknade za roming se može uvrstiti deo zajedničkih i opštih troškova nastalih pružanjem maloprodajnih usluga u mobilnoj mreži, pri čemu se u obzir uzimaju sledeći troškovi, ukoliko su obrazloženi u tom zahtevu:",
+            "1) troškovi obračuna i naplate, uključujući sve troškove koji se odnose na obradu, obračunavanje, izradu i dostavu konkretnog računa korisniku;",
+            "2) troškovi prodaje i distribucije, uključujući troškove poslovanja prodavnica i drugih distributivnih kanala za prodaju maloprodajnih usluga u mobilnoj mreži;",
+            "3) troškovi korisničke podrške, uključujući troškove funkcionisanja svih usluga korisničke podrške koje su dostupne krajnjem korisniku;",
+            "4) troškovi upravljanja lošim potraživanjima, uključujući troškove nastale otpisom nenaplativih potraživanja prema korisnicima i naplatom loših potraživanja;",
+            "5) troškovi marketinga, uključujući sve troškove oglašavanja usluga u mobilnoj mreži.",
+            "Troškovi iz stava 1. ovog člana, ako su obrazloženi u zahtevu iz stava 1. ovog člana, uzimaju se u obzir proporcionalno samo prema odnosu ukupnog saobraćaja maloprodajnih usluga rominga podnosioca tog zahteva unutar regiona Zapadnog Balkana i ukupnog maloprodajnog saobraćaja svih maloprodajnih usluga u mobilnoj mreži, koji se dobija kao ponderisani prosek tog odnosa po usluzi u mobilnoj mreži, pri čemu ponderi odražavaju odgovarajuće prosečne veleprodajne cene rominga, koje je podnosilac zahteva iz stava 1. ovog člana platio u skladu sa metodologijom iz tač. 1) i 4) Priloga 2. ovog pravilnika.",
+            "Određivanje prihoda od pružanja regulisanih maloprodajnih usluga rominga"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-primeni-politike-primerenog-koriscenja-maloprodajnih-dodatnih-naknada-za-roming.html#clan_9"
+    },
+    {
+        "title": "Član 10",
+        "texts": [
+            "Kako bi se utvrdilo da podnosilac zahteva za odobrenje primene dodatne naknade za roming ne može da nadoknadi svoje troškove, zbog čega bi održivost njegovog domaćeg sistema naplate bila ugrožena, u obzir se uzimaju sledeći prihodi i uključuju u ovaj zahtev, i to:",
+            "1) prihodi koji potiču direktno od saobraćaja maloprodajnih usluga u mobilnoj mreži, koji započinje u posećenoj ekonomiji u regionu Zapadnog Balkana;",
+            "2) udeo sveukupnih prihoda od prodaje maloprodajnih usluga u mobilnoj mreži, na osnovu fiksnih periodičnih naknada.",
+            "Prihodi iz stava 1. tačka 1) ovog člana obuhvataju:",
+            "1) sve maloprodajne naknade koje su naplaćene za saobraćaj koji premašuje politiku primerenog korišćenja koju primenjuje pružalac usluga rominga;",
+            "2) sve prihode od alternativnih roming tarifa koje nudi pružalac usluga rominga, koje su različite od cena regulisanih maloprodajnih usluga rominga i koje korisnik rominga treba sam da izabere, kao i od kojih ima koristi u odnosu na cene regulisanih maloprodajnih usluga rominga;",
+            "3) sve domaće maloprodajne naknade koje se obračunavaju po jedinici potrošnje ili koje premašuju fiksne periodične naknade za pružanje maloprodajnih usluga u mobilnoj mreži, koje se aktiviraju korišćenjem maloprodajnih usluga u mobilnoj mreži u posećenoj ekonomiji u regionu Zapadnog Balkana.",
+            "U svrhu utvrđivanja prihoda iz stava 1. tačka 2) ovog člana, u slučaju prodaje maloprodajnih usluga u mobilnoj mreži u paketu sa drugim uslugama ili terminalnom opremom, u obzir se uzimaju samo prihodi koji se odnose na prodaju maloprodajnih usluga u mobilnoj mreži, a ti prihodi se određuju u odnosu na cenu koja se primenjuje na odvojenu prodaju svake komponente maloprodajnih usluga u mobilnoj mreži iz paketa, ukoliko je dostupna ili na samostalnu prodaju takve usluge sa istim karakteristikama.",
+            "Kako bi se utvrdio udeo ukupnih prihoda od prodaje maloprodajnih usluga u mobilnoj mreži, koji su povezani sa pružanjem regulisanih maloprodajnih usluga rominga, primenjuje se metodologija iz tač. 1) i 5) Priloga 2. ovog pravilnika.",
+            "Ocena zahteva za odobrenje primene dodatne naknade za roming"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-primeni-politike-primerenog-koriscenja-maloprodajnih-dodatnih-naknada-za-roming.html#clan_10"
+    },
+    {
+        "title": "Član 11",
+        "texts": [
+            "Pri oceni zahteva za odobrenje primene dodatne naknade za roming, koji pružalac usluga rominga podnosi da bi obezbedio održivost svog domaćeg modela naplate, Regulator može utvrditi da podnosilac tog zahteva ne može nadoknaditi troškove pružanja regulisanih maloprodajnih usluga rominga, usled čega bi održivost njegovog domaćeg modela naplate bila ugrožena, samo ako negativna neto marža na maloprodajne usluge rominga podnosioca zahteva iznosi najmanje 3% ili više u odnosu na njegovu maržu na usluge u mobilnoj mreži.",
+            "Neto marža na maloprodajne usluge rominga je iznos koji preostane nakon što se troškovi pružanja regulisanih maloprodajnih usluga rominga odbiju od prihoda od pružanja takvih usluga, kako je utvrđeno ovim pravilnikom, a Regulator pri određivanju tog iznosa proverava podatke podnete uz zahtev iz stava 1. ovog člana, kako bi se obezbedila usaglašenost sa metodologijom za utvrđivanje troškova i prihoda iz čl. 8, 9. i 10. ovog pravilnika.",
+            "Kada apsolutna vrednost neto marže na maloprodajne usluge rominga iznosi najmanje 3% ili više od marže na usluge u mobilnoj mreži, Regulator ne odobrava podnosiocu zahteva dodatnu naknadu za roming, ukoliko može da utvrdi da zbog posebnih okolnosti nije verovatno da bi održivost njegovog domaćeg modela naplate bila ugrožena, a takve okolnosti obuhvataju sledeće situacije:",
+            "1) podnosilac zahteva iz stava 1. ovog člana je deo grupe i postoje dokazi o internim transfernim cenama u korist drugih zavisnih društava grupe unutar regiona Zapadnog Balkana, posebno u pogledu značajne neravnoteže veleprodajnih naknada za roming koje se primenjuju unutar grupe;",
+            "2) nivo konkurencije na domaćim tržištima upućuje na to da postoji kapacitet za apsorbovanje smanjenih marži;",
+            "3) primenom strože politike primerenog korišćenja, koja je u skladu sa čl. 3. i 4. ovog pravilnika, neto marža na maloprodajne usluge rominga bi se smanjila na manje od 3%.",
+            "U izuzetnim okolnostima, kada podnosilac zahteva iz stava 1. ovog člana ima negativnu maržu na usluge u mobilnoj mreži i negativnu neto maržu na maloprodajne usluge rominga, Regulator usvaja ovaj zahtev i odobrava dodatnu naknadu za roming.",
+            "Prilikom odobravanja dodatne naknade za roming, rešenje Regulatora sadrži iznos utvrđene negativne marže na maloprodajne usluge rominga, koja se može nadoknaditi naplatom maloprodajne dodatne naknade za usluge rominga, koje se pružaju unutar regiona Zapadnog Balkana.",
+            "Dodatna naknada za roming u skladu je sa pretpostavkama o saobraćaju u romingu na kojima se zasniva procena zahteva iz stava 1. ovog člana i utvrđuje se u skladu sa ciljevima propisanim zakonom kojim se uređuje oblast elektronskih komunikacija.",
+            "IV PRELAZNA I ZAVRŠNE ODREDBE"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-primeni-politike-primerenog-koriscenja-maloprodajnih-dodatnih-naknada-za-roming.html#clan_11"
+    },
+    {
+        "title": "Član 12",
+        "texts": [
+            "Politike primerenog korišćenja pružalaca usluga rominga koje su na snazi u trenutku stupanja na snagu ovog pravilnika ostaju da važe do stupanja na snagu novih ili izmenjenih politika primerenog korišćenja."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-primeni-politike-primerenog-koriscenja-maloprodajnih-dodatnih-naknada-za-roming.html#clan_12"
+    },
+    {
+        "title": "Član 13",
+        "texts": [
+            "Danom stupanja na snagu ovog pravilnika prestaje da važi Pravilnik o primeni politike primerenog korišćenja, metodologiji procene održivosti ukidanja maloprodajnih dodatnih naknada za roming i zahtevu koji pružalac usluga rominga podnosi u svrhu te procene (\"Službeni glasnik RS\", broj 53/21)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-primeni-politike-primerenog-koriscenja-maloprodajnih-dodatnih-naknada-za-roming.html#clan_13"
+    },
+    {
+        "title": "Član 14",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u \"Službenom glasniku Republike Srbije\".",
+            "",
+            "Prilog 1.",
+            "Proporcionalna promena stvarnog obima saobraćaja regulisanih usluga rominga u regionu Zapadnog Balkana prema načinu naplate \"roming kao kod kuće\" u odnosu na isti period prethodne godine:",
+            "",
+            "gde je:",
+            "k = usluga (1 = govor, 2 = SMS, 3 = prenos podataka);",
+            "n je broj dana primene načina naplate \"rominga kao kod kuće\" (n ≥ 30);",
+            "t je godina prve primene usluge \"rominga kao kod kuće\".",
+            "Ovaj procenat se koristi za procenu obima saobraćaja tokom projektovanog 12-mesečnog perioda tako što se pomnoži sa obimom saobraćaja iz prethodne godine.",
+            "",
+            "Prilog 2.",
+            "1) Ponderisane vrednosti () za maloprodajne mobilne usluge:",
+            "",
+            "gde je:",
+            "k = usluga (1 = govor, 2 = SMS, 3 = prenos podataka);",
+            "\"prosečna veleprodajna cena rominga koju plaća pružalac usluga rominga\" se odnosi na prosečnu jediničnu cenu za nebalansirani saobraćaj koju plaća pružalac usluga rominga za svaku uslugu, pri čemu je jedinica za svaku uslugu evrocent za (i) minut govornog saobraćaja; (ii) SMS za SMS; i (iii) MB za prenos podataka;",
+            "2) Odnos ukupnog obima saobraćaja maloprodajnih usluga rominga podnosioca zahteva i ukupnog maloprodajnog odlaznog saobraćaja i veleprodajnog dolaznog saobraćaja za njegove usluge rominga:",
+            "",
+            "gde je:",
+            "k = usluga (1 = govor, 2 = SMS, 3 = prenos podataka);",
+            "3) Odnos ukupnog obima saobraćaja maloprodajnih usluga rominga podnosioca zahteva u ekonomijama u regionu Zapadnog Balkana i ukupnog obima saobraćaja njegovih maloprodajnih usluga rominga u ekonomijama u regionu Zapadnog Balkana i u drugim državama:",
+            "",
+            "______1ZB - region Zapadnog Balkana",
+            "gde je:",
+            "k = usluga (1 = govor, 2 = SMS, 3 = prenos podataka);",
+            "4) Odnos ukupnog obima saobraćaja maloprodajnih usluga rominga podnosioca zahteva u ekonomijama u regionu Zapadnog Balkana i ukupnog obima saobraćaja svih njegovih maloprodajnih usluga:",
+            "",
+            "gde je:",
+            "k = usluga (1 = govor, 2 = SMS, 3 = prenos podataka);",
+            "5) Maloprodajni prihod od usluga rominga u ekonomijama u regionu Zapadnog Balkana:",
+            "",
+            "gde je:",
+            "k = usluga (1 = govor, 2 = SMS, 3 = prenos podataka).",
+            "Ako ne probate više različitih izbora nikada nećete biti sigurni da li imate najbolju opciju u svojim rukama. Mi Vam tu mogućnost nudimo besplatno! Popunite formular i dobićete priliku da bez ikakvih troškova saznate da li je Paragraf dobar izbor za Vas.",
+            "Ukoliko želite da Vas obaveštavamo o novostima i aktivnostima kompanije Paragraf prijavite se na našu mailing listu. Vaš e-mail neće biti upotrebljen u druge svrhe.",
+            "Pratite Paragraf na Viberu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-primeni-politike-primerenog-koriscenja-maloprodajnih-dodatnih-naknada-za-roming.html#clan_14"
+    }
+]

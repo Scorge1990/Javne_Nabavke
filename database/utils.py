@@ -1,7 +1,7 @@
 import json
 import subprocess
 from pathlib import Path
-from typing import Dict, List, Union
+from typing import Dict, List, Optional, Union
 
 import numpy as np
 import tiktoken
@@ -13,7 +13,9 @@ from openai.types import CreateEmbeddingResponse
 from qdrant_client import QdrantClient
 from qdrant_client.http.models import (
     Distance,
+    FieldCondition,
     Filter,
+    MatchValue,
     PointStruct,
     ScoredPoint,
     UpdateResult,
@@ -22,17 +24,22 @@ from qdrant_client.http.models import (
 from tqdm.auto import tqdm
 
 
+SRPSKO_PRAVO_COLLECTION = "srpsko_pravo"
+
+
 def create_collection(
     client: QdrantClient,
     name: str,
     vector_size: int = 1536,
     distance: Distance = Distance.COSINE,
+    timeout: int = 180,
 ) -> bool:
     """Create a collection in Qdrant."""
     logger.info(f'Creating collection: "{name}" with vector size: {vector_size}.')
     return client.recreate_collection(
         collection_name=name,
         vectors_config=VectorParams(size=vector_size, distance=distance),
+        timeout=timeout,
     )
 
 
@@ -186,7 +193,11 @@ def load_json(path: Path) -> List[Dict]:
 
 
 def prepare_for_embedding(
-    output_path: Path, scraped_data: List[Dict], model: str
+    output_path: Path,
+    scraped_data: List[Dict],
+    model: str,
+    law_id: str,
+    law_title: str,
 ) -> None:
     """
     Prepare data for embedding and save to a file.
@@ -206,6 +217,8 @@ def prepare_for_embedding(
             "title": sample["title"],
             "link": sample["link"],
             "input": f"{sample['title']}: {' '.join(sample['texts'])}",
+            "law_id": law_id,
+            "law": law_title,
         }
         for id, sample in enumerate(scraped_data)
     ]
@@ -329,14 +342,54 @@ def create_embeddings(
     ):
         scraped_data = load_json(path=file_path)
 
-        requests_filepath = to_process_dir / (file_path.stem + ".jsonl")
+        law_id = file_path.stem
+        law_title = law_id.replace("_", " ")
+
+        # Handle Windows path length limitation (max 260 chars)
+        # Use hash for very long filenames to avoid path length issues
+        import hashlib
+        max_path_length = 200  # Conservative limit for Windows
+        stem = law_id
+        full_path = to_process_dir / (stem + ".jsonl")
+        
+        if len(str(full_path)) > max_path_length:
+            # Use hash of original filename to create shorter unique name
+            stem_hash = hashlib.md5(stem.encode('utf-8')).hexdigest()[:16]
+            stem = f"{stem[:50]}_{stem_hash}" if len(stem) > 50 else f"{stem}_{stem_hash}"
+            # Ensure final path is short enough
+            if len(str(to_process_dir / (stem + ".jsonl"))) > max_path_length:
+                stem = stem_hash  # Use just hash if still too long
+        
+        requests_filepath = to_process_dir / (stem + ".jsonl")
+        
+        # Ensure parent directory exists
+        requests_filepath.parent.mkdir(parents=True, exist_ok=True)
+        
         prepare_for_embedding(
             output_path=requests_filepath,
             scraped_data=scraped_data,
             model=model,
+            law_id=law_id,
+            law_title=law_title,
         )
 
-        processed_filepath = embeddings_dir / requests_filepath.name
+        # Use same stem logic for embeddings file (use hash if needed)
+        import hashlib
+        original_stem = file_path.stem
+        full_emb_path = embeddings_dir / (original_stem + ".jsonl")
+        
+        if len(str(full_emb_path)) > max_path_length:
+            # Use same hash approach
+            stem_hash = hashlib.md5(original_stem.encode('utf-8')).hexdigest()[:16]
+            original_stem = f"{original_stem[:50]}_{stem_hash}" if len(original_stem) > 50 else f"{original_stem}_{stem_hash}"
+            if len(str(embeddings_dir / (original_stem + ".jsonl"))) > max_path_length:
+                original_stem = stem_hash
+        
+        processed_filepath = embeddings_dir / (original_stem + ".jsonl")
+        
+        # Ensure parent directory exists
+        processed_filepath.parent.mkdir(parents=True, exist_ok=True)
+        
         # Remove existing embeddings file if it exists to prevent duplicates
         if processed_filepath.exists():
             logger.info(f"Removing existing embeddings file: {processed_filepath}")
@@ -347,7 +400,12 @@ def create_embeddings(
         )
 
 
-def load_and_process_embeddings(path: Path) -> List[PointStruct]:
+def _build_point_id(law_name: Optional[str], request_id: Union[int, str]) -> str:
+    prefix = law_name if law_name else "law"
+    return f"{prefix}_{request_id}"
+
+
+def load_and_process_embeddings(path: Path, law_name: Optional[str] = None) -> List[PointStruct]:
     """
     Load embeddings from a JSON lines file and process them into data points.
 
@@ -373,7 +431,7 @@ def load_and_process_embeddings(path: Path) -> List[PointStruct]:
         logger.error(f"Error reading or parsing file: {e}")
         raise
 
-    points = []
+    points: List[PointStruct] = []
     for item in embedding_data:
         try:
             # Handle the new format: [request_data, response_data]
@@ -391,16 +449,37 @@ def load_and_process_embeddings(path: Path) -> List[PointStruct]:
                 # Handle old format (fallback)
                 embedding_vector = item[1]["data"][0]["embedding"]
                 request_data = item[0]
-            
+
+            request_id = request_data.get("id")
+
+            law_id = request_data.get("law_id") or law_name or path.stem.replace("-", "_")
+            law_title = request_data.get("law") or (law_id.replace("_", " ") if law_id else None)
+
+            point_id = _build_point_id(
+                law_id,
+                request_id if request_id is not None else len(points),
+            )
+
+            payload = {
+                "title": request_data["title"],
+                "text": request_data["input"],
+                "link": request_data["link"],
+            }
+            if law_id:
+                payload["law_name"] = law_id
+                payload["source_collection"] = law_id
+            else:
+                payload["source_collection"] = path.stem.replace("-", "_")
+            if law_title:
+                payload["law"] = law_title
+            if request_id is not None:
+                payload["original_id"] = request_id
+
             points.append(
                 PointStruct(
-                    id=request_data["id"],
+                    id=point_id,
                     vector=embedding_vector,
-                    payload={
-                        "title": request_data["title"],
-                        "text": request_data["input"],
-                        "link": request_data["link"],
-                    },
+                    payload=payload,
                 )
             )
         except (KeyError, IndexError, TypeError) as e:

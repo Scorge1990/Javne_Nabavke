@@ -1,0 +1,1374 @@
+[
+    {
+        "title": "Član 1",
+        "texts": [
+            "Ovim pravilnikom uređuje se obavljanje delatnosti centra za socijalni rad (u daljem tekstu: centar) u vršenju javnih ovlašćenja, i to: organizacija, normativi i standardi stručnog rada i sadržaj i način vođenja evidencije o korisnicima i dokumentacije o stručnom radu.",
+            "Definicije pojmova"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_1"
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "U ovom pravilniku koriste se sledeći pojmovi:",
+            "1) \"korisnik\" označava osobu, porodicu ili socijalnu grupu u zajednici koja koristi usluge socijalnih službi u zadovoljavanju potreba i koja bez podrške tih službi ne može dostići ili održati kvalitet života ili zaštititi svoja prava;",
+            "2) \"stručni radnik\" označava stručnjaka koji se bavi poslovima socijalnog rada, upravno-pravnim poslovima ili poslovima planiranja i razvoja;",
+            "3) \"slučaj\" označava situaciju ili okolnosti koje otežavaju zadovoljavanje potreba, ometaju funkcionisanje i ostvarivanje prava korisnika, a povodom kojih se pokreće profesionalno vođen proces promene u cilju zadovoljenja potreba i prevazilaženja problema korisnika;",
+            "4) \"voditelj slučaja\" označava stručnog radnika koji je zadužen za konkretan slučaj koji utvrđuje i koristi potrebne profesionalne i druge resurse iz centra ili iz drugih ustanova i organizacija u lokalnoj zajednici, koji su neophodni za zadovoljavanje i prevazilaženje potreba i problema, odnosno pružanja odgovarajućih usluga korisniku;",
+            "5) \"vođenje slučaja\" označava sistemski pristup u socijalnom radu koji obuhvata aktivnosti procene, aranžiranja pristupa uslugama, planiranja, koordinacije, nadgledanja i evaluaciju usluga koje treba da odgovore na potrebe konkretnog korisnika;",
+            "6) \"supervizor stručnog rada\" označava iskusnog stručnjaka koji ima zadatak da koordinira, usmerava, podstiče i evaluira rad voditelja slučaja, i u svojim aktivnostima objedinjuje administrativnu, edukativno-razvojnu i podržavajuću funkciju supervizije;",
+            "7) \"supervizija\" označava proces koji obezbeđuje da se primenom standarda realizuju stručni zadaci i aktivnosti iz delatnosti centra kroz profesionalnu podršku i učenje, a stručni radnici na taj način razviju znanje, kompetenciju i mogućnost da preuzmu odgovornost za sopstvenu praksu, a time i podignu nivo kvaliteta zaštite korisnika;",
+            "8) \"procena\" označava organizovan proces prikupljanja podataka, prepoznavanja i ocene problema, potreba, snaga i rizika, situacije i uključenih osoba koji se postepeno razvija kako bi se odredili ciljevi rada sa korisnikom, potrebne usluge i mere;",
+            "9) \"planiranje\" označava proces u kome se, na osnovu informacija koje su dobijene tokom procene, razvija usmeren, sistematičan i vremenski ograničen plan u saradnji sa korisnikom i porodicom i drugim uključenim stručnjacima, službama i osobama;",
+            "10) \"plan usluga i mera\" određuje osnovni skup usluga, mera, zadataka i aktivnosti za dostizanje željenih ciljeva rada i ishoda za korisnika, povezivanjem rezultata procene sa intervencijama, uslugama i merama;",
+            "11) \"evaluacija\" označava postupak kojim se u određenim vremenskim intervalima, upoređivanjem planiranih ishoda sa aktuelnim stanjem korisnika i porodice, razmatra adekvatnost procene i rezultati usluga i mera, odnosno u kom stepenu su zadaci postavljeni planom obavljeni i dostignuti ishodi koji vode cilju rada;",
+            "12) \"ponovni pregled\" označava postupak u kome se na osnovu rezultata evaluacije vrši revizija, odnosno ponovna procena potreba, snaga i rizika i revidira plan rada u cilju prilagođavanja usluga i mera promenama u okolnostima i funkcionisanju korisnika i porodice;",
+            "13) \"usluga\" označava aktivnosti i dobra koja se nude korisniku u cilju poboljšanja kvaliteta života, zadovoljavanja potreba, otklanjanja ili ublažavanja rizika, nedostataka ili neprihvatljivog društvenog ponašanja i najvećeg mogućeg razvoja potencijala korisnika za život u zajednici;",
+            "14) \"mera\" označava skup pravnih postupaka koji se u centru sprovode u skladu sa javnim ovlašćenjima;",
+            "15) \"sistem za zaštitu i automatizaciju instrumenata socijalne zaštite\" je softversko rešenje u kojem centri za socijalni rad obavljaju poslove i vode evidencije iz svoje nadležnosti.",
+            "Zakonitost rada"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_2"
+    },
+    {
+        "title": "Član 3",
+        "texts": [
+            "(1) Centar donosi odluke o ostvarivanju prava korisnika i pruža usluge korisnicima u skladu sa zakonom i propisima donetim na osnovu zakona.",
+            "(2) U vršenju javnih ovlašćenja, centar, kao ustanova socijalne zaštite i kao organ starateljstva, postupa u skladu sa normativima i standardima utvrđenim ovim pravilnikom.",
+            "(3) U vršenju drugih poslova utvrđenih zakonom, centar postupa po standardima i normativima koje utvrđuje nadležni organ jedinice lokalne samouprave.",
+            "Javna ovlašćenja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_3"
+    },
+    {
+        "title": "Član 4",
+        "texts": [
+            "(1) U vršenju javnih ovlašćenja, centar, u skladu sa zakonom, odlučuje o:",
+            "1. ostvarivanju prava na materijalno obezbeđenje;",
+            "2. ostvarivanju prava na dodatak za pomoć i negu drugog lica;",
+            "3. ostvarivanju prava na pomoć za osposobljavanje za rad;",
+            "4. ostvarivanju prava na smeštaj u ustanovu socijalne zaštite;",
+            "5. ostvarivanju prava na smeštaj odraslog lica u drugu porodicu;",
+            "6. hraniteljstvu;",
+            "7. usvojenju;",
+            "8. starateljstvu;",
+            "9. određivanju i promeni ličnog imena deteta;",
+            "10. merama preventivnog nadzora nad vršenjem roditeljskog prava;",
+            "11. merama korektivnog nadzora nad vršenjem roditeljskog prava.",
+            "(2) U vršenju javnih ovlašćenja, centar, u skladu sa zakonom, obavlja sledeće poslove:",
+            "- sprovodi postupak posredovanja - medijacije u porodičnim odnosima (mirenje i nagodba);",
+            "- dostavlja nalaz i stručno mišljenje, na zahtev suda, u parnicama u kojima se odlučuje o zaštiti prava deteta ili o vršenju, odnosno lišenju roditeljskog prava;",
+            "- dostavlja, na zahtev suda, mišljenje o svrsishodnosti mere zaštite od nasilja u porodici koju je tražio drugi ovlašćeni tužilac;",
+            "- pruža pomoć u pribavljanju potrebnih dokaza sudu pred kojim se vodi postupak u sporu za zaštitu od nasilja u porodici;",
+            "- sprovodi postupak procene opšte podobnosti hranitelja, usvojitelja i staratelja;",
+            "- vrši popis i procenu imovine lica pod starateljstvom;",
+            "- sarađuje sa javnim tužiocem, odnosno sudijom za maloletnike u izboru i primeni vaspitnih naloga;",
+            "- sprovodi medijaciju između maloletnog učinioca i žrtve krivičnog dela;",
+            "- podnosi izveštaj o ispunjenju vaspitnog naloga javnom tužiocu, odnosno sudiji za maloletnike;",
+            "- prisustvuje, po odobrenju suda, radnjama u pripremnom postupku protiv maloletnog učinioca krivičnog dela (saslušanje maloletnog učinioca krivičnog dela, saslušanje drugih lica), stavlja predloge i upućuje pitanja licima koja se saslušavaju;",
+            "- dostavlja mišljenje sudu pred kojim se vodi krivični postupak protiv maloletnika u pogledu činjenica koje se odnose na uzrast maloletnika, činjenica potrebnih za ocenu njegove zrelosti, ispituje sredinu u kojoj i prilike pod kojima maloletnik živi i druge okolnosti koje se tiču njegove ličnosti i ponašanja;",
+            "- prisustvuje sednici veća za maloletnike i glavnom pretresu u krivičnom postupku protiv maloletnog učinioca krivičnog dela;",
+            "- obaveštava sud nadležan za izvršenje zavodske vaspitne mere i organ unutrašnjih poslova kada izvršenje mere ne može da započne ili da se nastavi zbog odbijanja ili bekstva maloletnika;",
+            "- stara se o izvršenju vaspitnih mera posebnih obaveza;",
+            "- proverava izvršenje vaspitne mere pojačanog nadzora od strane roditelja, usvojitelja ili staratelja i ukazuje im pomoć u izvršenju mere;",
+            "- proverava izvršenje vaspitne mere pojačanog nadzora u drugoj porodici i ukazuje pomoć porodici u koju je maloletnik smešten;",
+            "- sprovodi vaspitnu meru pojačanog nadzora od strane organa starateljstva tako što se brine o školovanju maloletnika, njegovom zaposlenju, odvajanju iz sredine koja na njega štetno utiče, potrebnom lečenju i sređivanju prilika u kojima živi;",
+            "- stara se o izvršenju vaspitne mere pojačanog nadzora uz obavezu dnevnog boravaka u ustanovi za vaspitavanje i obrazovanje maloletnika,",
+            "- dostavlja sudu i javnom tužiocu za maloletnike izveštaj o toku izvršenja vaspitnih mera o čijem se izvršenju stara;",
+            "- predlaže sudu donošenje odluke o troškovima izvršenja vaspitnih mera;",
+            "- obavlja druge poslove utvrđene zakonom.",
+            "(3) Centar u vršenju javnih ovlašćenja pruža usluge socijalnog rada i pokreće sudske postupke kada je zakonom na to ovlašćen.",
+            "Javnost rada"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_4"
+    },
+    {
+        "title": "Član 5",
+        "texts": [
+            "(1) Centar je dužan da obezbedi javnost svog rada i da izveštava nadležni organ državne uprave, odnosno pokrajinski organ uprave i nadležni organ jedinice lokalne samouprave o svom radu, u skladu sa zakonom i ovim pravilnikom.",
+            "(2) Centar obaveštava građane svoje opštine, odnosno grada o svojim zakonskim obavezama i ovlašćenjima kao i uslugama i programima koje nudi, putem sredstava javnog informisanja, javnih predavanja, prezentacija i na druge pogodne načine.",
+            "Poštovanje ljudskih prava i dostojanstva korisnika"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_5"
+    },
+    {
+        "title": "Član 6",
+        "texts": [
+            "Centar je dužan da u ostvarivanju prava i pružanju usluga poštuje ljudska prava i dostojanstvo korisnika.",
+            "Zaštita od diskriminacije"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_6"
+    },
+    {
+        "title": "Član 7",
+        "texts": [
+            "(1) Centar je dužan da zastupa interese i prava korisnika i da obezbedi jednak pristup uslugama za koje je nadležan svim građanima, nezavisno od etničkih, kulturnih, verskih, rodnih ili socio-ekonomskih razlika, invaliditeta i seksualne orijentacije.",
+            "(2) U radu sa korisnicima, neposredno ili preko ugovora sa drugim službama, centar neće, na osnovu pripadnosti iz stava 1. ovog člana:",
+            "- ograničiti osobu na bilo koji način u korišćenju usluga, informacija, pomoći i pravne zaštite koje pruža centar za socijalni rad;",
+            "- odnositi se na drugačiji način prema osobi u određivanju da li ispunjava kriterijume za korišćenje usluge ili prava;",
+            "- ograničiti bilo kog pojedinca u mogućnosti da učestvuje u programima centra, ili mu omogućiti da učestvuje na drugačiji način nego drugim osobama;",
+            "- onemogućiti ili ograničiti mogućnost da bilo koji pojedinac učestvuje u radu grupa, komisija i savetodavnih odbora koji su sastavni deo rada centra za socijalni rad.",
+            "(3) Neće se smatrati diskriminacijom aktivnosti centra kojima se otklanja ili popravlja nepovoljan položaj pojedinih grupa korisnika ili pružaju usluge vezane za specifičan način zadovoljavanja potreba.",
+            "Dostupnost usluga"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_7"
+    },
+    {
+        "title": "Član 8",
+        "texts": [
+            "(1) Centar je dužan da svoj rad organizuje na način da omogući dostupnost usluga svima onima kojima su one potrebne, sa posebnom pažnjom usmerenom na ranjive grupe (deca, stari, invalidi, pripadnici manjinskih grupa i dr.).",
+            "(2) Dostupnost usluga centra obezbeđuje se:",
+            "- koordinacijom aktivnosti sa drugim javnim službama, humanitarnim organizacijama, udruženjima građana i drugim organizacijama u lokalnoj zajednici;",
+            "- informisanjem građana putem sredstava javnog informisanja, javnih predavanja, prezentacija, pamfleta i na drugi način, o programima, pravima i uslugama koje centar pruža kao i o drugim pravima i obavezama koje im po zakonu pripadaju;",
+            "- omogućavanjem podnošenja zahteva i opštenja sa korisnicima elektronskim putem;",
+            "- isticanjem kontakt adrese i telefona centra na odgovarajućim javnim mestima i u službama u zajednici (zgrada jedinice lokalne samouprave, zdravstveni centar, služba zapošljavanja, lokalna sredstva informisanja i sl.);",
+            "- otvaranjem kancelarija u udaljenim mestima;",
+            "- na drugi odgovarajući način.",
+            "Prevencija"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_8"
+    },
+    {
+        "title": "Član 9",
+        "texts": [
+            "(1) Centar je dužan da razvija preventivne programe koji doprinose zadovoljavanju individualnih i zajedničkih potreba građana, odnosno sprečavanju i suzbijanju socijalnih problema u lokalnoj zajednici.",
+            "(2) Preventivno delovanje u radu centra sprovodi se realizovanjem konkretnih, tematski određenih i na ciljne grupe usmerenih preventivnih programa.",
+            "(3) Preventivni programi treba da budu usmereni na:",
+            "- pojedince, porodice u riziku i marginalizovane grupe, njihovo osposobljavanje za produktivan život u zajednici, odgovorno roditeljstvo i predupređenje zavisnosti od socijalnih službi;",
+            "- sprečavanje nastanka socijalnih problema, kao što su: nasilje u porodici, prestupništvo mladih, zavisnosti od psiho-aktivnih supstanci i slično;",
+            "- razvijanje volonterskih kapaciteta u zajednici;",
+            "- kampanja usmerenih ka jačanju građanske svesti i odgovornosti za zadovoljavanje zajedničkih potreba, prepoznavanje i otklanjanje problema u zajednici.",
+            "(4) Preventivne aktivnosti centra definišu se kroz plan preventivnih aktivnosti i programe u okviru godišnjeg operativnog plana aktivnosti.",
+            "Razvijanje socijalnih funkcija lokalne zajednice"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_9"
+    },
+    {
+        "title": "Član 10",
+        "texts": [
+            "Centar je dužan da učestvuje u poslovima planiranja i razvoja socijalne funkcije lokalne zajednice.",
+            "Efikasnost i ekonomičnost u radu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_10"
+    },
+    {
+        "title": "Član 11",
+        "texts": [
+            "(1) Rad službi u centru treba da bude organizovan tako da omogući:",
+            "- usmerenost stručnog rada prema korisniku;",
+            "- aktivno učešće korisnika u procesu zaštite, a posebno u donošenju odluka o načinu zadovoljavanja sopstvenih potreba;",
+            "- efikasno, ekonomično i odgovorno upravljanje radom na slučaju primenom metoda vođenja slučaja;",
+            "- efikasno i ekonomično upravljanje obimom posla i ljudskim resursima;",
+            "- ostvarivanje koordinativne uloge centra u lokalnoj zajednici u organizovanju socijalnih aktivnosti i programa.",
+            "(2) U skladu sa principima ekonomičnosti i efikasnosti, a radi obezbeđivanja nesmetanog pristupa uslugama, dva ili više centara mogu zajedno organizovati pružanje pojedinih usluga korisnicima iz svoje nadležnosti.",
+            "Stručno usavršavanje"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_11"
+    },
+    {
+        "title": "Član 12",
+        "texts": [
+            "Stručni radnici centra dužni su da se stručno usavršavaju radi uspešnijeg ostvarivanja i unapređenja stručnog rada.",
+            "Vođenje evidencije i dokumentacije"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_12"
+    },
+    {
+        "title": "Član 13",
+        "texts": [
+            "Centar je dužan da o svom radu vodi evidenciju i dokumentaciju u elektronskom obliku u jedinstvenom sistemu za zaštitu i automatizaciju instrumenata socijalne zaštite (u daljem tekstu: SOZIS) korišćenjem podataka iz registra Socijalna karta, u skladu sa zakonom i ovim pravilnikom.",
+            "Postupanje sa podacima korisnika"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_13"
+    },
+    {
+        "title": "Član 14",
+        "texts": [
+            "(1) Informacije i podaci o ličnim i porodičnim prilikama korisnika koje zaposleni u centru saznaju smatraju se službenom tajnom.",
+            "(2) Službenom tajnom smatraju se i:",
+            "- imena i adrese korisnika i vrsta pružene usluge pojedinom korisniku;",
+            "- podaci koji stoje u zahtevu korisnika;",
+            "- podaci koji stoje u izveštajima zdravstvenih ustanova za korisnika;",
+            "- sadržaj prepiske sa drugim ustanovama ili organizacijama, ako ta prepiska sadrži informacije o korisniku ili drugim osobama koje su sa njim povezane.",
+            "(3) Ne smatraju se poverljivim opšte informacije koje nisu povezane sa korisnikom, kao što su: troškovi administracije, troškovi pojedinih usluga, broj i struktura korisnika, broj i vrsta pruženih usluga, statistički podaci dobijeni iz istraživanja i evaluacije rada centra i dr.",
+            "(4) Pristup podacima korisnika, osim zaposlenima u centru, obezbediće se i nadležnom nadzornom organu, pravosudnim organima i policiji, korisniku na koga se podaci odnose, kao i njegovom zakonskom zastupniku, odnosno punomoćniku.",
+            "(5) Volonterima koji po ugovoru obavljaju pripravnički staž i studentima na praksi može se obezbediti pristup podacima korisnika po prethodnom odobrenju mentora i uz upozorenje o obavezi da su dužni da štite podatke na isti način kao i zaposleni u centru.",
+            "(6) Pojedini podaci evidencije o korisniku mogu se davati drugim službama kao što su zdravstvene ili obrazovne ustanove, služba zapošljavanja i druge, samo ako se za to obezbedi pristanak korisnika na koga se ti podaci odnose, osim ako drukčije nije propisano zakonom.",
+            "(7) Ime korisnika neće biti otkriveno grupama ili pojedincima koji sponzorišu humanitarne i druge javne akcije bez prethodne saglasnosti korisnika ili članova njegove porodice ili bez prethodno usvojenog protokola postupanja kojim će se garantovati poverljivost podataka.",
+            "(8) Donacije u naturi ili novcu biće uručene korisniku na način koji ne narušava njegovo dostojanstvo i privatnost.",
+            "II ORGANIZACIJA RADA",
+            "1. Organizaciona struktura",
+            "Unutrašnje uređenje"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_14"
+    },
+    {
+        "title": "Član 15",
+        "texts": [
+            "(1) Unutrašnje uređenje centra treba da omogući sagledavanje i dosledno upravljanje obimom posla, uspostavljanje celovitog sistema odgovornosti, primereno upravljanje ljudskim potencijalima i adekvatno sagledavanje i vrednovanje uloženog stručnog i drugog rada svakog pojedinca.",
+            "(2) Grupisanje poslova u centru vrši se, po pravilu, u okviru organizacionih jedinica.",
+            "(3) Organizaciona jedinica - služba predstavlja organizacionu celinu u kojoj se realizuje deo aktivnosti iz delatnosti centra, kako bi se što bolje ostvarili organizacioni ciljevi, upravljanje obuhvatom posla, kontrola rada, kvalitet i efikasnost.",
+            "(4) Unutrašnje uređenje i sistematizacija radnih mesta u centru utvrđuje se unutrašnjim opštim aktom.",
+            "Unutrašnje organizacione jedinice"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_15"
+    },
+    {
+        "title": "Član 16",
+        "texts": [
+            "(1) Unutrašnje organizacione jedinice utvrđuju se prema vrsti, složenosti, prirodi i međusobnoj povezanosti poslova u centru.",
+            "(2) U centru koji ima manje od deset zaposlenih stručnih radnika, vršenje poslova može se organizovati u okviru jedne unutrašnje organizacione jedinice.",
+            "(3) U centru koji je osnovan za dve ili više opština, pored organizacionih jedinica utvrđenih u članu 24. ovog pravilnika, mogu se formirati i posebna odeljenja za područje jedne opštine.",
+            "Funkcionalno povezivanje"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_16"
+    },
+    {
+        "title": "Član 17",
+        "texts": [
+            "(1) Kada dva ili više centara, u skladu sa članom 11. stav 2. ovog pravilnika, zajedno organizuju pružanje pojedinih usluga, oni sporazumom utvrđuju u okviru kog centra će se usluga pružati, vrstu usluge i međusobna prava i obaveze.",
+            "(2) Sporazumom iz stava 1. ovog člana može se obezbediti samo pružanje onih usluga koje zahtevaju specijalizovana stručna znanja i veštine kao što su: pojedine usluge u oblasti hraniteljstva i usvojenja, usluge posredovanja u porodičnim odnosima i druge specijalizovane usluge čije bi pružanje u svakom od centara, pojedinačno, u odnosu na učestalost potrebe za uslugom iziskivalo znatna materijalna sredstva ili angažovanje nesrazmernog broja stručnih radnika.",
+            "(3) Sporazum o zajedničkom pružanju pojedinih usluga iz stava 1. ovog člana zaključuje se uz odobrenje ministarstva nadležnog za socijalna pitanja.",
+            "2. Grupisanje poslova"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_17"
+    },
+    {
+        "title": "Čl. 18-21**",
+        "texts": [
+            "(Prestalo da važi)",
+            "Obuka novozaposlenih"
+        ],
+        "link": null
+    },
+    {
+        "title": "Član 22",
+        "texts": [
+            "(1) Svi novozaposleni stručni i drugi radnici i volonteri treba da završe obuke propisane od strane ministarstva nadležnog za socijalna pitanja ili drugog nadležnog organa.",
+            "(2) Za sve novozaposlene stručne radnike obezbeđuje se 60-časovni struktuirani trening na radnom mestu sa supervizorom ili određenim stručnim radnikom - mentorom.",
+            "(3) Trening iz stava 2. ovog člana mora da započne prvog meseca i da se završi do navršenog četvrtog meseca od dana stupanja na rad.",
+            "Pripravnici i volonteri"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_22"
+    },
+    {
+        "title": "Član 23",
+        "texts": [
+            "Poslove iz čl. 19. i 20. ovog pravilnika mogu obavljati i pripravnik, odnosno volonter, uz nadzor mentora.",
+            "Organizacione jedinice"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_23"
+    },
+    {
+        "title": "Član 24",
+        "texts": [
+            "(1) Unutrašnje organizacione jedinice obrazuju se ukoliko je na stručnim poslovima u centru angažovano najmanje deset zaposlenih sa odgovarajućom stručnom spremom.",
+            "(2) Osnovne unutrašnje organizacione jedinice su:",
+            "- služba za zaštitu dece i mladih;",
+            "- služba za zaštitu odraslih i starih;",
+            "- služba za pravne poslove;",
+            "- služba za finansijsko-administrativne i tehničke poslove.",
+            "(3) U centru se mogu, zavisno od broja i strukture zaposlenih, obrazovati kao posebne unutrašnje organizacione jedinice - prijemna služba i služba za planiranje i razvoj.",
+            "(4) U centru koji, s obzirom na broj i strukturu zaposlenih, ne ispunjava uslove za obrazovanje unutrašnjih organizacionih jedinica, poslove iz delokruga centra obavljaju svi zaposleni stručni radnici, u skladu sa opštim aktom o unutrašnjem uređenju i sistematizaciji radnih mesta.",
+            "Službe za zaštitu određenih grupacija korisnika"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_24"
+    },
+    {
+        "title": "Član 25",
+        "texts": [
+            "(1) Službe za zaštitu određenih grupacija korisnika - dece i mladih ili odraslih i starih, mogu se obrazovati ukoliko centar ima najmanje šest zaposlenih stručnih radnika, po tri u svakoj službi, s tim da po jedan od stručnjaka obavlja i poslove rukovodioca službe.",
+            "(2) U centru koji, s obzirom na broj i strukturu zaposlenih, ne ispunjava uslove za formiranje službi za zaštitu određenih grupacija korisnika, poslove iz delokruga ovih službi obavljaju naizmenično zaposleni stručni radnici, u skladu sa odlukom direktora centra i opštim aktom o unutrašnjem uređenju i sistematizaciji radnih mesta.",
+            "Služba za pravne poslove"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_25"
+    },
+    {
+        "title": "Član 26",
+        "texts": [
+            "(1) Služba za pravne poslove kao posebna organizaciona jedinica može se obrazovati ukoliko ima stalno zaposlena najmanje tri stručna radnika, od kojih dva pravnika i administrativnog radnika.",
+            "(2) Jedan od stručnih radnika iz stava 1. ovog člana obavlja poslove rukovodioca službe.",
+            "(3) U službi za pravne poslove obavljaju se poslovi iz člana 20. ovog pravilnika.",
+            "(4) U okviru službe za pravne poslove organizuje se rad prijemne kancelarije i kancelarije za materijalna davanja.",
+            "(5) U prijemnoj kancelariji na poslovima prijema, pored zaposlenih u službi za pravne poslove, rade i zaposleni na poslovima socijalnog rada, a u skladu sa posebnim planom dežurstva na prijemu.",
+            "(6) U kancelariji za materijalna davanja obavljaju se poslovi priznavanja prava korisnicima na materijalno obezbeđenje, dodatak za pomoć i negu drugog lica i druga novčana davanja.",
+            "(7) U centru koji, s obzirom na broj zaposlenih, ne ispunjava uslove za obrazovanje službe za pravne poslove kao posebne organizacione jedinice, poslove iz delokruga ove službe obavljaju zaposleni pravnici, a, pored njih, poslove prijema obavljaju zaposleni na poslovima socijalnog rada, u skladu sa posebnim planom dežurstva na prijemu.",
+            "3. Upravljanje i organizovanje radnog procesa",
+            "3.1. Direktor"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_26"
+    },
+    {
+        "title": "Član 27",
+        "texts": [
+            "Direktor centra odgovoran je za zakonitost rada, poštovanje standarda stručnog rada, unutrašnju i spoljnu koordinaciju, planiranje, organizovanje i kontrolu rada zaposlenih.",
+            "3.2. Rukovodilac službe"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_27"
+    },
+    {
+        "title": "Član 28",
+        "texts": [
+            "(1) Rukovodilac službe obezbeđuje unutrašnju koordinaciju i organizaciju, planiranje i upravljanje obimom posla unutar službe, poštovanje standarda stručnog rada, zakonitost rada i poštovanje rokova i procedura.",
+            "(2) Rukovodilac službe posebno je ovlašćen i odgovoran da:",
+            "1) organizuje i raspoređuje stručne i druge radnike u okviru organizacione jedinice;",
+            "2) obezbeđuje administrativnu podršku, prostorne i tehničke uslove za korišćenje softverskih rešenja iz člana 13. ovog pravilnika za nesmetan rad stručnih radnika sa korisnikom i obavljanje supervizijskog procesa;",
+            "3) vrši kontrolu ažurnosti postupanja, odnosno kontrolu poštovanja zakonom, podzakonskim aktima i posebnim uputstvima propisanih i utvrđenih rokova za postupanje;",
+            "4) vrši kontrolu izvršenja zakonom, podzakonskim aktima, posebnim uputstvima i standardima propisanih i utvrđenih obaveza u vođenju evidencije i dokumentacije o korisniku i radu sa korisnikom;",
+            "5) obezbeđuje raspodelu predmeta, prema unapred utvrđenim procedurama i kriterijumima na nivou ustanove, stručnim radnicima i vodi računa o podjednakoj opterećenosti i racionalnom korišćenju radnog vremena svakog stručnog i drugog radnika u organizacionoj jedinici;",
+            "6) obavlja komunikaciju i koordinira rad organizacione jedinice sa drugim organizacionim jedinicama unutar centra, u vezi sa konkretnim slučajem ili posebnim radnim zadatkom;",
+            "7) obavlja komunikaciju i koordinira rad organizacione jedinice sa službama i institucijama u lokalnoj zajednici u vezi sa konkretnim slučajem ili posebnim radnim zadatkom;",
+            "8) prati rad pripravnika i volontera koji su raspoređeni na rad u organizacionu jedinicu, određuje mentora za svakog pripravnika i volontera i sa mentorom sačinjava planove i programe njihovog stručnog osposobljavanja;",
+            "9) sačinjava operacionalne planove i programe rada organizacione jedinice (operativne, mesečne, kvartalne i godišnje);",
+            "10) sačinjava izveštaje o radu organizacione jedinice (operativne, mesečne, kvartalne i godišnje).",
+            "(3) U centrima za socijalni rad koji imaju od 11-16 zaposlenih stručnih radnika poslove rukovodioca službi za određene grupacije korisnika obavlja jedan stručni radnik na uslugama socijalnog rada.",
+            "(4) U centrima za socijalni rad koji imaju više od 16 zaposlenih stručnih radnika, poslove rukovodioca službi za decu i mlade, odrasle i stare, kao i pravne poslove obavljaju tri zaposlena stručna radnika.",
+            "(5) Poslove rukovodioca službe mogu obavljati stručni radnici sa završenim osnovnim akademskim studijama u okviru obrazovno-naučnog polja društveno-humanističkih i pravnih nauka.",
+            "3.3. Supervizor"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_28"
+    },
+    {
+        "title": "Član 29",
+        "texts": [
+            "(1) Supervizor obezbeđuje poštovanje standarda stručnog rada i doprinosi kvalitetu usluga tako što koordinira, usmerava, obučava, podstiče i evaluira razvoj stručnih kompetencija voditelja slučaja kako bi se postigli optimalni efekti u zadovoljavanju potreba korisnika.",
+            "(2) Supervizor podržava stručne radnike - voditelje slučaja organizujući supervizijski proces u svim fazama rada kao autentičan, poverljiv, profesionalan, neutralan, objektivan, i odnoseći se prema voditelju slučaja sa uvažavanjem.",
+            "(3) Poslove iz stava 1. ovog člana, na sedam stručnih radnika zaposlenih na uslugama socijalnog rada (voditelja slučaja), obavlja jedan supervizor koji ima iskustva u stručnom radu od najmanje pet godina, poseduje specifična znanja, veštine i sposobnost da kvalitetno obavlja složene stručne poslove.",
+            "(4) Stručni radnik koji obavlja poslove supervizora, može, uz odobrenje neposrednog rukovodioca obavljati i poslove voditelja slučaja ukoliko to ne remeti proces supervizije i nije u suprotnosti sa interesima korisnika.",
+            "(5) U centrima za socijalni rad koji imaju do šest stručnih radnika na uslugama socijalnog rada, stručnom radniku koji obavlja poslove supervizora i istovremeno obavlja i poslove voditelja slučaja, supervizijsku podršku pruža direktor ustanove, u skladu sa ovim pravilnikom prema pravilima koja važe za supervizora.",
+            "(6) Centrima za socijalni rad iz stava 4. ovog člana supervizijska funkcija profesionalne podrške, učenja, podsticanja, razvoja kompetencije, obezbeđuje se u skladu sa planom zavoda za socijalnu zaštitu."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_29"
+    },
+    {
+        "title": "Član 30",
+        "texts": [
+            "(1) Pored poslova iz člana 29. st. 1. i 2. ovog pravilnika supervizor u organizovanju i upravljanju stručnim radom:",
+            "1) obezbeđuje u svim fazama postupka zaštitu najboljeg interesa korisnika;",
+            "2) organizuje i realizuje postupak supervizije u svim fazama stručnog rada kod prijema, početne procene, procene, planiranja, evaluacije i ponovnog pregleda,",
+            "3) obaveštava rukovodioca u slučajevima neprofesionalnog, nezakonitog i nekompetentnog ponašanja voditelja slučaja;",
+            "4) sačinjava godišnje izveštaje o napretku u radu voditelja slučaja i stručnih radnika čiji rad supervizira i predlaže planove i programe stručnog usavršavanja stručnih radnika.",
+            "(2) Supervizor može, saglasno svojim posebnim znanjima i veštinama, obavljati i specijalizovane stručne poslove, odnosno pružati usluge korisnicima kao što su: individualno i grupno savetovanje, posredovanje-medijacija, socio-edukativne aktivnosti, procena opšte i posebne podobnosti budućih usvojitelja, hranitelja, staratelja i drugo, ukoliko to ne remeti proces supervizije i nije u suprotnosti sa interesima korisnika.",
+            "3.4. Voditelj slučaja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_30"
+    },
+    {
+        "title": "Član 31",
+        "texts": [
+            "Voditelj slučaja je stručnjak zadužen za konkretan slučaj koji procenjuje i koordinira postupkom procene potreba konkretnog korisnika, preduzima mere i koordinira preduzimanje mera u zaštiti i podršci korisniku, koristeći potencijale centra i drugih službi i resursa u lokalnoj zajednici."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_31"
+    },
+    {
+        "title": "Član 32",
+        "texts": [
+            "(1) Pored poslova iz člana 31. ovog pravilnika voditelj slučaja u organizovanju i upravljanju radom na slučaju:",
+            "1) vodi računa da se u svim fazama postupka pružanja usluga korisniku, u skladu sa profesionalnim standardima i etikom, obezbeđuje ostvarivanje najboljeg interesa korisnika;",
+            "2) u svim fazama postupka upoznaje korisnika sa mogućnostima službe i njegovim pravima da aktivno učestvuje u postupku zaštite a posebno u postupku donošenja odluka, koje se njega tiču;",
+            "3) poštuje privatnost korisnika i čuva poverljivost informacija o korisniku;",
+            "4) organizuje i realizuje pružanje usluga i obezbeđenje mera pravne zaštite konkretnom korisniku u svim fazama stručnog rada kod prijema, početne procene, procene, planiranja, implementacije, evaluacije i ponovne procene;",
+            "5) koordinira rad na konkretnom slučaju unutar službe centra i sa službama u lokalnoj zajednici;",
+            "6) odlučuje, zajedno sa supervizorom, o otvaranju rada na slučaju i planira početnu procenu;",
+            "7) odlučuje, zajedno sa supervizorom o potrebi rada na usmerenoj proceni stanja i potreba korisnika, obrazlaže potrebu usmerene procene i planira njenu realizaciju;",
+            "8) sačinjava predlog plana usluga i, zajedno sa supervizorom, odlučuje o njegovom sadržaju, dinamici realizacije i rokovima za evaluaciju;",
+            "9) prema sačinjenom planu prati realizaciju primenjenih usluga, uređuje i koordinira pružanje podrške i pruža neposrednu podršku korisniku;",
+            "10) sagledava, zajedno sa supervizorom, rezultate evaluacije i donosi odluku o potrebi za ponovnom procenom;",
+            "11) vodi evidenciju i dokumentaciju o korisniku i radu sa korisnikom propisanu zakonom i propisima donetim na osnovu zakona;",
+            "12) sačinjava posebne izveštaje - nalaze i mišljenja o korisniku i obezbeđuje potrebne informacije drugim službama koje pružaju pomoć i podršku korisniku;",
+            "13) zalaže se da korisnici koji su, usled svog stanja ili okolnosti nesposobni da se sami staraju o svojim pravima i interesima, imaju nesmetan pristup komisijama za razvrstavanje, invalidskim komisijama, disciplinskim školskim komisijama, sudovima, upravnim i drugim organima koji donose odluke o njihovim pravima i interesima;",
+            "14) pred drugim upravnim i sudskim organima obrazlaže nalaz i stručno mišljenje o potrebama, pravima i interesima pojedinačnog korisnika.",
+            "(2) Voditelj slučaja, saglasno svojim posebnim znanjima i veštinama, može obavljati i specijalizovane stručne poslove, odnosno pružati usluge korisnicima kao što su: individualno i grupno savetovanje, posredovanje-medijacija, socio-edukativne aktivnosti, procena opšte i posebne podobnosti budućih usvojitelja, hranitelja, staratelja i dr.",
+            "(3) Voditelj slučaja ne može biti staratelj niti može pružati usluge posredovanja - medijacije korisniku čijim je slučajem zadužen.",
+            "(4) Izuzetno, voditelj slučaja može se postaviti za privremenog staratelja, osim u postupcima u vezi sa lišenjem poslovne sposobnosti i lišenjem roditeljskog prava.",
+            "3.5. Konsultativna podrška voditelju slučaja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_32"
+    },
+    {
+        "title": "Član 33",
+        "texts": [
+            "(1) Zaposleni na upravno-pravnim poslovima pruža konsultantsku pravnu podršku voditelju slučaja.",
+            "(2) Konsultantsku podršku voditelju slučaja pružaju i drugi stručni radnici, u skladu sa pravilima svoje struke.",
+            "4. Stručna i savetodavna tela",
+            "Vrste stručnih i savetodavnih tela"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_33"
+    },
+    {
+        "title": "Član 34",
+        "texts": [
+            "(1) U cilju povezivanja i integrisanja različitih organizacionih delova, pravovremenog obaveštavanja i koordinacije između pojedinaca i organizacionih jedinica u vršenju javnih ovlašćenja, u centru se obrazuju stalna i povremena stručna i savetodavna tela.",
+            "(2) Stalna tela centra su: kolegijum rukovodioca, kolegijum službe i stalna komisija organa starateljstva.",
+            "(3) Povremena tela koja se obrazuju u centru su stručni timovi.",
+            "Kolegijum rukovodioca"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_34"
+    },
+    {
+        "title": "Član 35",
+        "texts": [
+            "(1) Kolegijum rukovodioca je savetodavno telo direktora u čijem radu učestvuju rukovodioci organizacionih jedinica.",
+            "(2) Kolegijum rukovodioca pomaže direktoru u donošenju upravljačkih odluka koje se odnose na unutrašnju organizaciju rada i preduzimanje mera za unapređenje efikasnosti i ekonomičnosti u obavljanju poslova.",
+            "(3) Kolegijum rukovodioca razmatra opšta pitanja i donosi zaključke od značaja za unapređenje stručnog rada, dodatnog obrazovanja zaposlenih, unapređenje položaja korisnika, ostvarivanje saradnje sa drugim ustanovama i udruženjima građana i ostvarivanje stručne saradnje i koordinacije između organizacionih jedinica centra.",
+            "Kolegijum službe"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_35"
+    },
+    {
+        "title": "Član 36",
+        "texts": [
+            "(1) Kolegijum službe je stručno telo u čijem radu učestvuju rukovodilac službe, supervizori i voditelji slučaja.",
+            "(2) Kolegijum službe razmatra pitanja i donosi zaključke od značaja za rad službe i unapređenje stručnih procedura u radu sa korisnicima.",
+            "Stalna komisija organa starateljstva"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_36"
+    },
+    {
+        "title": "Član 37",
+        "texts": [
+            "Stalna komisija organa starateljstva formira se u skladu sa zakonom radi izvršenja poslova popisa i procene vrednosti imovine štićenika.",
+            "Stručni tim"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_37"
+    },
+    {
+        "title": "Član 38",
+        "texts": [
+            "(1) Stručni tim je stručno telo u čijem radu učestvuju: supervizor, voditelj slučaja i stručnjaci posebnih specijalnosti iz ili izvan organizacione jedinice centra, odnosno iz drugih ustanova i organizacija.",
+            "(2) Rukovodioca službe, odnosno supervizor formira stručni tim na predlog voditelja slučaja, kada ovaj proceni da je potrebna pomoć ili dodatna stručna podrška stručnjaka drugih specijalnosti radi izvršenja procene stanja i potreba pojedinog korisnika, planiranja aktivnosti, pružanja usluga i preduzimanja mera pravne zaštite pojedinog korisnika.",
+            "(3) Stručni tim se obavezno formira odlukom rukovodioca službe:",
+            "1. kada je potrebno izvršenje poslova koji su zakonom ili podzakonskim propisima određeni da se obavljaju timski (kao npr. procena opšte podobnosti budućih usvojitelja, hranitelja i staratelja);",
+            "2. kada je potrebno doneti odluku o zasnivanju usvojenja;",
+            "3. kada se razmatra starateljski izveštaj privremenog staratelja i staratelja;",
+            "4. kada se odlučuje o davanju prethodne saglasnosti staratelju za obavljanje poslova koji prelaze okvire redovnih poslova u zastupanju štićenika ili redovnog upravljanja njegovom imovinom;",
+            "5. kada je potrebno odlučiti o davanju prethodne saglasnosti za raspolaganje imovinom štićenika, odnosno raspolaganje imovinom deteta pod roditeljskim staranjem.",
+            "(4) U slučajevima iz stava 3. tač. 2-5. ovog člana, u radu stručnog tima, pored stručnjaka iz stava 1. ovog člana, obavezno učestvuju i pravnik i rukovodilac službe u okviru koje se donose navedene odluke, a ako u centru nisu formirane službe kao posebne organizacione jedinice, učestvuje najmanje jedan od stručnjaka koji, saglasno odluci direktora i opštem aktu o unutrašnjem uređenju i sistematizaciji radnih mesta, ima posebna ovlašćenja i odgovornosti.",
+            "(5) Stručni tim o pitanjima iz stava 3. tač. 2-5. ovog člana donosi poseban zaključak koji se unosi u zapisnik koji potpisuju svi prisutni članovi stručnog tima, a koji se bez odlaganja prosleđuje pravnoj službi radi izrade odgovarajućeg upravnog akta.",
+            "5. Obezbeđivanje nesmetanog pristupa uslugama",
+            "Obavljanje poslova van sedišta"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_38"
+    },
+    {
+        "title": "Član 39",
+        "texts": [
+            "(1) S ciljem obezbeđivanja nesmetanog pristupa uslugama, s obzirom na geografski položaj i prostorni raspored objekata, odnosno udaljenost pojedinih naselja, može se utvrditi stalno ili privremeno izmeštanje pojedinih delova organizacionih jedinica ili pojedinih samostalnih izvršilaca izvan sedišta centra.",
+            "(2) Potreba za stalnim ili privremenim izmeštanjem delova organizacionih jedinica ili pojedinih stručnjaka iz organizacionih jedinica izvan sedišta centra, utvrđuje se aktom o unutrašnjoj organizaciji i sistematizaciji ili odlukom direktora centra.",
+            "Dostupnost uslugama"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_39"
+    },
+    {
+        "title": "Član 40",
+        "texts": [
+            "(1) Organizacijom rada centra i rasporedom radnog vremena mora se obezbediti da građani imaju 24 časa nesmetan pristup uslugama neodložnih intervencija iz člana 51. ovog pravilnika, kao i u drugim slučajevima kada je neophodno preduzimanje hitnih mera u javnom interesu.",
+            "(2) Nesmetan pristup uslugama 24 časa obezbeđuje se preraspodelom radnog vremena, organizovanjem dežurstva pojedinih službi ili pojedinih zaposlenih, van redovnog radnog vremena, u prostorijama centra ili u prostorijama druge javne službe, organa državne uprave ili organa jedinice lokalne samouprave ili uvođenjem pripravnosti (dežurstvo zaposlenog u svom stanu, dostupnost putem telefona i sl.), koji, saglasno svom delokrugu, imaju obavezu postupanja u slučaju iz stava 1. ovog člana.",
+            "(3) Odluku o uvođenju i rasporedu dežurstva, odnosno obliku pripravnosti, donosi direktor centra.",
+            "5.1. Pripravnost",
+            "Pojam i cilj pripravnosti"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_40"
+    },
+    {
+        "title": "Član 40a",
+        "texts": [
+            "Pripravnost podrazumeva stanje stalne dostupnosti i spremnosti zaposlenog\nu centru za socijalni rad da se van radnog vremena i van radnog mesta, odazove na poziv neposrednog\nrukovodioca ili lica ovlašćenog za poziv da bi izvršio neodložnu intervenciju.",
+            "Pripravnost se može planirati samo za neodložne ili hitne poslove i zadatke,\nu skladu sa članom 49 tačka (3) i članom 51. ovog pravilnika.",
+            "Cilj ustanovljavanja i planiranja pripravnosti jeste obezbeđivanje neprekidnog\ni blagovremenog obavljanja poslova i zadataka u centrima za socijalni rad, neodložno postupanje\ni preduzimanje radnji za organizovanje neodložne intervencije.",
+            "Odluka i plan pripravnosti"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_40a"
+    },
+    {
+        "title": "Član 40b",
+        "texts": [
+            "Odluku o uvođenju i o obimu pripravnosti i plan pripravnosti donosi direktor\ncentra za socijalni rad, u okviru obezbeđenih finansijskih sredstava.",
+            "Plan pripravnosti se donosi na mesečnom nivou na osnovu analize rezultata\ndo kojih se došlo izradom projekcije ugroženosti, identifikacije i analize rizika i preventivnih\nkapaciteta, predloga nivoa pripravnosti, mera i aktivnosti kojima se unapređuje efikasnost\nslužbi u centru za socijalni rad kao hitan odgovor na situacije ozbiljne ugroženosti.",
+            "Sprovođenje pripravnosti"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_40b"
+    },
+    {
+        "title": "Član 40v",
+        "texts": [
+            "Pripravnost u centru za socijalni rad, odnosno u odeljenju centra za socijalni\nrad osnovanom za teritoriju određene opštine sa preko 30.000 stanovnika, radnim danom može\ntrajati najviše osam sati, a subotom, nedeljom i praznikom 24 sata, nezavisno od broja zaposlenih\nkoji su pripravni.",
+            "Pripravnost se planira tako da su svi zaposleni u centru za socijalni rad\nravnomerno obuhvaćeni za obavljanje pripravnosti.",
+            "Pripravnost zaposlenog u centru za socijalni rad može se utvrditi samo\nvan radnog vremena, u skladu sa zakonom.",
+            "Neposredni rukovodilac obaveštava zaposlenog o planu pripravnosti najmanje\nsedam dana unapred. Izuzetno, neposredni rukovodilac može da obavesti zaposlenog o planu\ni promeni plana pripravnosti i u kraćem roku, usled nepredviđenih okolnosti.",
+            "Zaposleni u centru za socijalni rad koji je u pripravnosti nakon poziva\nodmah se stavlja na raspolaganje za obavljanje aktivne intervencije i sačinjava službenu\nzabelešku o informacijama primljenim putem telefona.",
+            "Evidencija"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_40v"
+    },
+    {
+        "title": "Član 40g",
+        "texts": [
+            "Neposredni rukovodilac vodi evidenciju ostvarene pripravnosti, koju na\nkraju meseca usaglašava sa zaposlenim koji je ostvario pripravnost.",
+            "Evidencija o pripravnosti sadrži naziv organizacione jedinice, ime i prezime\ni jedinstveni matični broj zaposlenog, naziv radnog mesta, datum, vreme i broj sati ostvarene\npripravnosti.",
+            "Neposredni rukovodilac vodi mesečnu evidenciju o ukupnom broju ostvarenih\nsati pripravnosti i dostavlja direktoru centra za socijalni rad.",
+            "III NORMATIV KADROVA",
+            "Broj i struktura stručnih i drugih radnika"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_40g"
+    },
+    {
+        "title": "Član 41",
+        "texts": [
+            "(1) Vršenje javnih ovlašćenja utvrđenih zakonom obezbeđuje se u centru koji ima najmanje zaposlene sledeće radnike: direktora, tri stručna radnika na poslovima socijalnog rada, jednog pravnika na upravno-pravnim poslovima, jednog radnika na administrativno-finansijskim poslovima i jednog radnika na tehničkim poslovima;",
+            "(2) U centru se zapošljava odgovarajući broj stručnih i drugih radnika prema broju stanovnika na području za koje se centar osniva, kao i prema ukupnom broju korisnika prava i usluga.",
+            "Broj stručnih radnika"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_41"
+    },
+    {
+        "title": "Član 42",
+        "texts": [
+            "Broj stručnih radnika, u smislu člana 41. stav 2. ovog pravilnika, pored zaposlenih u skladu sa članom 41. stav 1. ovog pravilnika je i:",
+            "1) za područje centra koji ima iznad 15.000 stanovnika, jedan stručni radnik na poslovima socijalnog rada na svakih daljih 5.500 stanovnika;",
+            "2) za područje centra sa manje od 30.000 stanovnika, jedan pravnik na upravno-pravnim poslovima, odnosno po jedan pravnik na svakih daljih 30.000 stanovnika;",
+            "3) za područje centra koji ima 150.000 stanovnika jedan stručni radnik na poslovima planiranja i razvoja, odnosno po jedan stručni radnik na svakih daljih 250.000 stanovnika.",
+            "Broj i struktura drugih radnika"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_42"
+    },
+    {
+        "title": "Član 43",
+        "texts": [
+            "Broj drugih radnika, u smislu člana 41. stav 2. ovog pravilnika je:",
+            "1) jedan radnik na administrativno-finansijskim poslovima i jedan radnik na tehničkim poslovima u centru koji se osniva za područje manje od 30.000 stanovnika;",
+            "2) dva radnika na administrativno-finansijskim poslovima i jedan radnik na tehničkim poslovima u centru koji se osniva za područje od 30.000 do 60.000 stanovnika;",
+            "3) tri radnika na administrativno-finansijskim poslovima i dva radnika na tehničkim poslovima u centru koji se osniva za područje od 60.000 do 100.000 stanovnika;",
+            "4) četiri radnika na administrativno-finansijskim poslovima i dva radnika na tehničkim poslovima u centru koji se osniva za područje od 100.000 do 150.000 stanovnika;",
+            "5) pet radnika na administrativno-finansijskim poslovima i tri radnika na tehničkim poslovima u centru koji se osniva za područje od 150.000 do 200.000 stanovnika;",
+            "6) sedam radnika na administrativno-finansijskim poslovima i pet radnika na tehničkim poslovima u centru koji se osniva za područje od 200.000 do 250.000 stanovnika;",
+            "7) devet radnika na administrativno-finansijskim poslovima i sedam radnika na tehničkim poslovima u centru koji se osniva za područje preko 250.000 stanovnika, kao i na svakih daljih 250.000 stanovnika.",
+            "Povećanje broja radnika"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_43"
+    },
+    {
+        "title": "Član 44",
+        "texts": [
+            "(1) Centru u kome je prosečan broj korisnika prava i usluga iz nadležnosti Republike po zaposlenom u prethodnoj godini, povećan u odnosu na prosečan broj korisnika po zaposlenom u Republici, može se, rešenjem ministarstva nadležnog za socijalna pitanja, odobriti povećanje broja radnika u odnosu na normativ utvrđen u čl. 42. i 43, ovog pravilnika, i to:",
+            "1) do 10% ukoliko je prosečan broj korisnika po zaposlenom u odnosu na prosečan broj korisnika po zaposlenom u Republici u prethodnoj godini uvećan do 100%;",
+            "2) do 15% ukoliko je prosečan broj korisnika po zaposlenom u odnosu na prosečan broj korisnika po zaposlenom u Republici u prethodnoj godini uvećan od 100% do 150%;",
+            "3) do 20% ukoliko je prosečan broj korisnika po zaposlenom u odnosu na prosečan broj korisnika po zaposlenom u Republici u prethodnoj godini uvećan preko 150%.",
+            "(2) Obrazložen zahtev za povećanje broja radnika u smislu stava 1. ovog člana, centar podnosi nadležnom ministarstvu, sa izveštajem o radu za prethodnu godinu, a najkasnije do kraja februara tekuće godine.",
+            "(3) Prosečan broj korisnika prava i usluga iz nadležnosti Republike po zaposlenom u centru, u prethodnoj godini, utvrđuje ministarstvo nadležno za socijalna pitanja."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_44"
+    },
+    {
+        "title": "Član 44a",
+        "texts": [
+            "U centru za socijalni rad, po pravilu, zapošljava se najmanje 50% socijalnih radnika u odnosu na ukupan broj stručnih radnika."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_44a"
+    },
+    {
+        "title": "Član 44b",
+        "texts": [
+            "Izuzetno, ukupan broj stručnih radnika na poslovima socijalnog rada i stručnih radnika na upravno-pravnim poslovima u odnosu na strukturu radnika utvrđenu normativom u čl. 41. i 42. ovog pravilnika, može odstupati najviše do 20% uz prethodnu saglasnost ministarstva nadležnog za socijalna pitanja."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_44b"
+    },
+    {
+        "title": "Član 44v",
+        "texts": [
+            "Izuzetno, ukupan broj stručnih radnika na poslovima socijalnog rada, stručnih radnika na upravno-pravnim poslovima i stručnih radnika na poslovima planiranja i razvoja u odnosu na strukturu radnika utvrđenu normativom u čl. 41. i 42. ovog pravilnika, može odstupati za centre za socijalni rad na teritoriji Autonomne pokrajine Kosovo i Metohija, uz saglasnost ministra nadležnog za socijalna pitanja.",
+            "IV STANDARDI ZA VOĐENJE SLUČAJA",
+            "Prijem"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_44v"
+    },
+    {
+        "title": "Član 45",
+        "texts": [
+            "(1) Prijem obuhvata: prijem podnesaka u elektronskom i papirnom obliku, prijem telefonskih poziva ili lični kontakt sa podnosiocem ili osobom koja je prijavila slučaj, pomoć u sastavljanju odgovarajućeg podneska, prijemnu procenu podneska, pružanje potrebnih informacija podnosiocu, upućivanje na druge nadležne službe te otvaranje slučaja u centru.",
+            "(2) Podneskom se smatraju: zahtevi, elektronski podnesci na Portalu eUprava, prijave, molbe, žalbe, pritužbe, inicijative i druga saopštenja kojima se korisnik, odnosno drugo fizičko ili pravno lice obraća centru.",
+            "(3) Sa podneskom se postupa na način propisan zakonom kojim se uređuje opšti upravni postupak.",
+            "Provera prihvatljivosti podneska"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_45"
+    },
+    {
+        "title": "Član 46",
+        "texts": [
+            "(1) Ukoliko je u pitanju usmeno obraćanje podnosioca centru, prijemni radnik obaveštava podnosioca o nadležnostima i proceduri u centru, vodi standardizovan intervju sa podnosiocem i na osnovu podataka iz razgovora i priložene dokumentacije popunjava Prijemni list.",
+            "(2) Prijemni list iz stava 1. ovog člana obavezno sadrži: jedinstveni matični broj građana, ime i prezime, adresu prebivališta, odnosno boravišta, datum prijema, kontakt telefon ili adresu elektronske pošte i podatke o članovima porodice, odnosno domaćinstva.",
+            "(3) Ukoliko je podnesak upućen putem pošte, faksa, elektronskim putem i slično, beleži se prispeće podneska, razmatraju informacije koje sadrži i proverava da li je slučaj ranije bio na evidenciji centra, digitalizuje i zavodi u Pisarnici, u skladu sa propisima kojima se uređuje kancelarijsko poslovanje.",
+            "(4) Na osnovu obavljenog intervjua sa podnosiocem, odnosno na osnovu razmatranja sadržine informacija iz podneska, te provere da li je slučaj ranije bio na evidenciji centra, stručni radnik na prijemu donosi odluku o tome da li će podnosioca uputiti na druge nadležne službe u zajednici ili će podnesak i Prijemni list, zajedno sa otvorenom Evidencijom o korisniku, proslediti rukovodiocu službe nadležne za postupanje po podnesku, a ako u centru nisu formirane službe kao posebne organizacione jedinice, stručnom radniku zaduženom za procenu.",
+            "(5) Slučaj u smislu stava 4. ovog člana prosleđuje se rukovodiocu službe, odnosno stručnom radniku zaduženom za procenu ukoliko sadržaj podneska odgovara opisu sledećih situacija:",
+            "- fizičko, emocionalno, seksualno zlostavljanje i zanemarivanje dece;",
+            "- kada dete nema roditelje, odnosno čiji roditelji ili staratelji nisu u stanju da se brinu o detetu;",
+            "- u kojima dete ispoljava probleme u ponašanju;",
+            "- dece čije posebne potrebe za negom prevazilaze mogućnosti njihovih porodica;",
+            "- u kojima se roditelji spore oko načina nege i staranja o deci;",
+            "- osoba starija od 65 godina ili odraslo lice sa invaliditetom samostalno ili preko člana porodice podnosi zahtev za uslugom koja je u nadležnosti centra;",
+            "- odrasle žrtve nasilja u porodici, osobe sa invaliditetom i stare osobe za koje postoji sumnja da su zanemarivane, zlostavljane ili eksploatisane;",
+            "- odraslo ili staro lice podnosi zahtev za ostvarivanje prava na materijalnu pomoć;",
+            "- u drugim situacijama u skladu sa zakonom.",
+            "Informisanje podnosioca"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_46"
+    },
+    {
+        "title": "Član 47",
+        "texts": [
+            "(1) Stručni radnik na prijemu dužan je da primi podnesak koji mu se predaje ili je podnet elektronskim putem ili da uzme u zapisnik podnesak koji mu se usmeno saopštava, odnosno da sastavi belešku o saopštenju primljenom putem telefona te da podnosiocu preda potvrdu o prijemu kreiranu u Pisarnici i pruži informacije:",
+            "- o nadležnosti i proceduri koja se sprovodi u centru povodom upućenog podneska, dužini trajanja postupka, vrsti pomoći i podrške koju može da očekuje od centra, uključujući i informacije o poverljivosti;",
+            "- daje pouku o potrebnoj dokumentaciji koja se uz podnesak prilaže;",
+            "- daje potpunu informaciju o očekivanjima od podnosioca, uključujući i informaciju o zakonskim propisima koji regulišu način učešća stranaka u postupku.",
+            "(2) Ako službeno lice na prijemu oceni da centar nije nadležan za prijem podneska, podnesak će zavesti u Pisarnici i dodeliti u rad drugoj službi ili organu nadležnom za postupanje, a podnosiocu će se predati potvrda o prijemu na način na koji je podnesak podnet.",
+            "(3) Ako je podnesak upućen centru putem pošte, a sadržina informacija iz podneska nesumnjivo ukazuje da je za postupanje po istom nadležan neki drugi organ ili služba a ne centar, stručni radnik na prijemu će isti bez odlaganja proslediti nadležnom organu, odnosno službi, a podnosiocu će predati potvrdu o prijemu bez odlaganja nakon prijema podneska.",
+            "Pokretanje postupka"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_47"
+    },
+    {
+        "title": "Član 48",
+        "texts": [
+            "(1) Postupak za ostvarivanje prava o kojima u vršenju javnih ovlašćenja rešava centar, pokreće se po službenoj dužnosti ili po zahtevu stranke.",
+            "(2) Centar će pokrenuti postupak po službenoj dužnosti kada je potrebno doneti odluku o merama starateljske zaštite dece i mladih, odnosno odraslih i starih, kada odlučuje o merama korektivnog nadzora nad vršenjem roditeljskog prava, kao i u drugim slučajevima kada je to zakonom određeno.",
+            "(3) Pri pokretanju postupka po službenoj dužnosti, centar uzima u obzir inicijative zdravstvenih i obrazovnih ustanova, drugih ustanova socijalne zaštite, pravosudnih i drugih državnih organa, organa teritorijalne autonomije, organa jedinica lokalne samouprave, udruženja i građana.",
+            "(4) U upravnim stvarima u kojima je po zakonu ili po prirodi stvari za pokretanje i vođenje postupka potreban zahtev stranke (ostvarivanje prava na materijalno obezbeđenje, na dodatak za pomoć i negu drugog lica i sl.), centar može pokrenuti i voditi postupak samo ako postoji zahtev stranke.",
+            "(5) Zahteve stranaka, primljene u smislu stava 4. ovog člana, stručni radnik na prijemu bez odlaganja prosleđuje rukovodiocu pravne službe, odnosno za to zaduženom pravniku.",
+            "Određivanje prioriteta postupanja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_48"
+    },
+    {
+        "title": "Član 49",
+        "texts": [
+            "(1) Stručni radnik na prijemu dužan je da svaki podnesak proceni sa stanovišta prioriteta postupanja i ukoliko oceni da je potrebno neodložno postupanje, preduzima radnje za organizovanje neodložne intervencije.",
+            "(2) U svim drugim slučajevima, stručni radnik na prijemu, nakon izvršene procene, u Prijemi list upisuje predlog prioriteta postupanja koristeći oznake iz člana 51. ovog pravilnika i predmet prosleđuje rukovodiocu odgovarajuće službe, odnosno zaduženom voditelju slučaja.",
+            "(3) Okolnosti koje se uzimaju u obzir pri određivanju prioriteta postupanja i koje se obrazlažu, jesu:",
+            "1. potrebe za podrškom ili osiguranjem bezbednosti, uzrast, odnosno ranjivost deteta, odrasle ili stare osobe;",
+            "2. posebne odlike situacije i težina okolnosti koja ugrožava dete, odraslu ili staru osobu;",
+            "3. da li je dete, odrasla ili stara osoba povređena;",
+            "4. prethodna saznanja centra o slučaju;",
+            "5. kvalitet saradnje roditelja ili staratelja deteta, odnosno odrasle ili stare osobe i članova porodice;",
+            "6. postojeći stresovi koji ugrožavaju dete, odraslu ili staru osobu i porodicu;",
+            "7. neodložnost postupanja.",
+            "(4) Ako na osnovu okolnosti iz stava 3. ovog člana stručni radnik na prijemu proceni da prijavu zlostavljanja treba odbaciti, dužan je da popunjeni Prijemni list dostavi supervizoru na potvrdu.",
+            "(5) Prijemni list koji sadrži belešku o odbacivanju prijave zlostavljanja sa potvrdom supervizora, registruje se u posebnom Upisniku odbačenih prijava, uz oznaku \"Službena tajna\".",
+            "Stepeni prioriteta postupanja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_49"
+    },
+    {
+        "title": "Član 50",
+        "texts": [
+            "Na osnovu okolnosti navedenih u članu 49. stav 3. ovog pravilnika, rukovodilac odgovarajuće službe određuje prioritet postupanja na jedan od sledećih načina:",
+            "1) \"neodložno\" - ako prikupljeni podaci ukazuju da je dete, odrasla ili stara osoba u visokom riziku, postupak početne procene započinje odmah, a neodložna intervencija se mora sprovesti što pre, najduže u roku od 24 sata;",
+            "2) \"hitno\" - ako prikupljeni podaci ukazuju da je dete, odrasla ili stara osoba u umerenom riziku, postupak početne procene mora početi što pre, najdalje u roku od tri dana (72 sata) po prijemu saznanja o korisniku i porodici;",
+            "3) \"redovno\" - ako prikupljeni podaci ukazuju da bezbednost deteta, odrasle ili stare osobe nije ugrožena, ili da su rizici niski, postupak početne procene mora početi što pre, najdalje pet radnih dana po prijemu obaveštenja ili drugih saznanja o slučaju.",
+            "Neodložne intervencije"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_50"
+    },
+    {
+        "title": "Član 51",
+        "texts": [
+            "Centar pod uslovima iz člana 49. ovog pravilnika pruža neposredno i u saradnji sa drugim službama i organima u lokalnoj zajednici usluge neodložne intervencije, kada je potrebno zaštiti dete, odraslu ili staru osobu i preduzeti mere za osiguranje bezbednosti, odnosno kada postoje opravdani razlozi da bi nepreduzimanjem hitnih mera i usluga iz nadležnosti centra došlo do ugrožavanja života, zdravlja i razvoja osobe kojoj je potrebna zaštita.",
+            "Zaduživanje voditelja slučaja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_51"
+    },
+    {
+        "title": "Član 52",
+        "texts": [
+            "(1) Svaki korisnik usluga centra, osim korisnika novčanih davanja, ima zaduženog voditelja slučaja.",
+            "(2) O zaduživanju stručnog radnika za korisnika, odnosno imenovanju za voditelja slučaja, odlučuje supervizor, odnosno rukovodilac službe ili direktor centra vodeći računa o ravnomernoj opterećenosti svakog stručnog radnika.",
+            "(3) U slučaju da dođe do promene voditelja slučaja, novozaduženi voditelj slučaja će u roku od 30 dana ostvariti telefonski ili neposredni kontakt sa korisnikom.",
+            "Početna procena"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_52"
+    },
+    {
+        "title": "Član 53",
+        "texts": [
+            "(1) Početna procena se realizuje nakon otvaranja slučaja, donete odluke o nivou prioriteta i određivanja zaduženog voditelja slučaja.",
+            "(2) Početna procena počinje najdalje u vremenu koje je određeno u članu 50. ovog pravilnika u odnosu na nivo prioriteta i traje najduže sedam radnih dana.",
+            "(3) Postupak početne procene je osnova za određivanje sadržaja rada sa detetom, odraslom ili starom osobom i porodicom, radi pružanja adekvatnih i blagovremenih usluga.",
+            "(4) Odluka o osnovnom sadržaju rada donosi se uz aktivno učešće i saradnju deteta, odrasle ili stare osobe i porodice, u skladu sa sposobnostima korisnika i članova porodice za donošenje pozitivnih i konstruktivnih odluka.",
+            "Planiranje početne procene"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_53"
+    },
+    {
+        "title": "Član 54",
+        "texts": [
+            "(1) Početna procena planira se na osnovu raspoloživih podataka i saznanja o slučaju.",
+            "(2) Stručni radnik - voditelj slučaja, uz konsultaciju sa supervizorom, odnosno rukovodiocem službe, planira:",
+            "1. sa kim će kontaktirati;",
+            "2. ko će sve biti intervjuisan;",
+            "3. ko će još biti uključen u postupak (npr. policija, zdravstvena služba, drugi stručni radnik ukoliko je potrebno);",
+            "4. način prikupljanja neophodnih podataka (intervjui, dokumentacija, testovi, skale, upitnici, kućna poseta, poseta školi, radnom mestu i sl.);",
+            "5. vremenski okvir za sprovođenje potrebnih aktivnosti.",
+            "(3) U svakom konkretnom slučaju voditelj slučaja odlučuje da li će za zakazivanje prvog susreta korisnik, odnosno porodica biti kontaktirani telefonom ili pozvani pismenim putem u centar.",
+            "(4) Voditelj slučaja bez najave može otići u posetu porodici ukoliko ima saznanja da se dete, odnosno odrasla ili stara osoba u riziku nalazi u neposrednoj opasnosti i ukoliko bi najava posete porodici mogla da ugrozi bezbednost deteta, odrasle ili stare osobe ili onemogući prikupljanje činjenica neophodnih za vođenje postupaka zaštite.",
+            "Postupci početne procene"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_54"
+    },
+    {
+        "title": "Član 55",
+        "texts": [
+            "(1) U okviru početne procene za decu i mlade realizuju se sledeći postupci:",
+            "- opservacija i razgovor sa detetom i svom drugom decom u domaćinstvu (u skladu sa uzrastom i komunikacionim sposobnostima deteta);",
+            "- opservacija i razgovor sa članovima porodice (članovi domaćinstva i šire porodice, druge značajne osobe iz korisnikovog okruženja);",
+            "- direktna opservacija životnih uslova deteta i porodice;",
+            "- prikupljanje i analiziranje pristupačnih informacija iz različitih izvora (uključujući postojeću dokumentaciju u centru, zdravstvenim, obrazovnim i drugim institucijama);",
+            "- pribavljanje relevantnih podataka od stručnjaka drugih službi i drugih lica koja su u kontaktu sa detetom i porodicom.",
+            "(2) U okviru početne procene za odrasla i stara lica realizuju se sledeći postupci:",
+            "- opservacija i razgovor sa odraslom ili starom osobom;",
+            "- opservacija i razgovor sa članovima porodice (članovi domaćinstva i šire porodice, druge značajne osobe iz korisnikovog okruženja);",
+            "- direktna opservacija životnih uslova korisnika;",
+            "- prikupljanje i analiziranje pristupačnih informacija iz različitih izvora (uključujući postojeću dokumentaciju u centru, zdravstvenim, obrazovnim i drugim ustanovama);",
+            "- pribavljanje relevantnih podataka od stručnjaka drugih službi i drugih lica koja su u kontaktu sa odraslom ili starom osobom, članovima porodice i drugim značajnim osobama.",
+            "(3) U okviru početne procene iz st. 1. i 2. ovog člana vrši se uvid u podatke o podnosiocu i članovima porodice, odnosno domaćinstva u Socijalnoj karti.",
+            "Sadržaj početne procene"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_55"
+    },
+    {
+        "title": "Član 56",
+        "texts": [
+            "(1) Početna procena za decu i mlade obuhvata sledeće sadržaje:",
+            "1. Procena situacije i potreba deteta i porodice, uključujući i navode iz podneska: bezbednost deteta, rizici, socijalna istorija, potrebe deteta i porodice i podaci o incidentu koji je izazvao zabrinutost ili teškoću koju identifikuje porodica ili uputna služba, odnosno organ, i to:",
+            "1.1. Opis i procena detetovog stanja i potreba (lična svojstva i razvojne potrebe - zdravlje, obrazovanje, razvoj emocija i ponašanja, identitet, predstavljanje u društvu, veštine deteta da brine o sebi, porodični i socijalni odnosi deteta).",
+            "1.2. Opis i procena porodičnog funkcionisanja (kod deteta i druge dece u porodici: osnovna nega, emocionalna toplina, stimulacija, vođstvo i granice; lična svojstva roditelja i članova šire porodice: fizičko i mentalno zdravlje, zloupotreba supstanci, mentalna ometenost, zlostavljanje u detinjstvu, stabilnost porodičnog okruženja, porodična istorija i funkcionisanje, podrška šire porodice).",
+            "1.3. Opis i procena sredinskih faktora (zaposlenost, prihodi, stambena situacija, položaj porodice u zajednici, resursi zajednice.",
+            "1.4. Sumarna procena: Procena snaga, lični, porodični i sredinski resursi koji mogu doprineti prevladavanju problema ili teškoća i procena bezbednosti i opis rizika, odnosno glavnih oblasti problema. Procena bezbednosti se usmerava na aktuelnu situaciju i potencijalnu težinu povrede deteta. Rizici se odnose na predviđanje nepovoljnih ili opasnih ponašanja, stanja i okolnosti koje mogu nastati u budućnosti, te obuhvataju činioce koji ugrožavaju razvoj: biološke, porodične i činioce iz okruženja.",
+            "2. Rad sa porodicom na stvaranju bezbedne situacije za dete, odnosno prevladavanje aktuelne teškoće ukoliko je indikovano;",
+            "3. Preduzimanje postupaka za zaštitu deteta i aranžiranje pristupa uslugama koje treba da prevaziđu postojeću situaciju i odgovore na problem, ukoliko je potrebno.",
+            "(2) Početna procena za odrasle i stare osobe obuhvata sledeće sadržaje:",
+            "1. Procenu stanja i potreba odrasle ili stare osobe uključujući i navode iz prijave, uputa ili zahteva (biološki, psihološki i socijalni rizici, socijalna istorija, potrebe korisnika, kao i podaci o incidentu koji je izazvao zabrinutost, odnosno teškoću koju identifikuje porodica ili uputna služba ili organ), što uključuje:",
+            "1.1. opis i procenu stanja i potreba korisnika (lična svojstva i predstavljanje u društvu, veštine korisnika za brigu o sebi, porodični i socijalni odnosi korisnika);",
+            "1.2. opis i procenu porodičnog funkcionisanja (lična svojstva članova porodice i domaćinstva: fizičko i mentalno zdravlje, zloupotreba supstanci, mentalna ometenost, zlostavljanje u detinjstvu, stabilnost porodičnog okruženja, porodična istorija i funkcionisanje, podrška šire porodice za odrasle i stare osobe u riziku: osnovna nega, emocionalna povezanost, stimulacija);",
+            "1.3. opis i procenu sredinskih faktora (zaposlenost, prihodi, stambena situacija, položaj porodice u zajednici, resursi zajednice);",
+            "1.4. sumarnu procenu: procena snaga, lični, porodični i sredinski resursi koji mogu doprineti prevladavanju problema - teškoća, opis rizika, glavnih oblasti problema, odnosno procena bezbednosti (za odrasle ili stare osobe u riziku). Rizici se odnose na predviđanje nepovoljnih ili opasnih ponašanja, stanja i okolnosti koje mogu nastati u budućnosti, te obuhvataju činioce koji ugrožavaju kvalitet života odrasle ili stare osobe: biološke, porodične i činioce iz okruženja. Procena bezbednosti se usmerava na aktuelnu situaciju i potencijalnu težinu povrede odrasle ili stare osobe u riziku.",
+            "2. Rad sa korisnikom, članovima porodice i drugim značajnim osobama na prevladavanju aktuelne teškoće, odnosno, ukoliko je indikovano, stvaranju bezbedne situacije za odraslu ili staru osobu u riziku;",
+            "3. Preduzimanje postupaka za zaštitu odrasle ili stare osobe u riziku i aranžiranje pristupa uslugama koje treba da prevaziđu postojeću situaciju i odgovore na problem, ukoliko je potrebno.",
+            "Izveštavanje o rezultatima početne procene"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_56"
+    },
+    {
+        "title": "Član 57",
+        "texts": [
+            "(1) O rezultatima početne procene u SOZIS-u kreiraju se izveštaji u koje se unose odgovarajući nalazi, zaključci, odluke i preduzete aktivnosti.",
+            "(2) Sa rezultatima početne procene moraju biti upoznati:",
+            "1. roditelj ili staratelj deteta, odnosno osoba koja se neposredno stara o detetu;",
+            "2. osoba ili služba koja je pokrenula postupak ili učestvovala u postupku procene;",
+            "3. dete, u skladu sa uzrastom i zrelošću;",
+            "4. korisnik, u skladu sa sposobnošću da primi potrebne informacije;",
+            "5. član porodice, staratelj, odnosno osoba koja se neposredno stara o odrasloj ili staroj osobi.",
+            "(3) Izveštavanje o rezultatima procene ne vrši se ukoliko to može da ugrozi bezbednost korisnika, tekuću ili predvidljivu istragu u pretkrivičnom i krivičnom postupku.",
+            "(4) Za odluku o načinu izveštavanja o rezultatima početne procene potrebno je odobrenje supervizora, odnosno rukovodioca službe.",
+            "Odlučivanje tokom početne procene"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_57"
+    },
+    {
+        "title": "Član 58",
+        "texts": [
+            "(1) Voditelj slučaja treba da, svaku odluku koja se donese tokom početne procene, razmotri sa supervizorom odnosno rukovodiocem službe.",
+            "(2) Odluke treba da budu donete i obrazložene u pismenoj formi, nezavisno od toga da li su donete u obliku pojedinačnog pravnog akta ili je reč o odlukama koje se tiču stručne procedure i daljih koraka u radu na slučaju.",
+            "(3) Odluke kojima se određuju dalji koraci u radu na slučaju i druge odluke koje se donose van upravnog postupka, beleže se u Listu praćenja kontakata i rada na slučaju u SOZIS-u.",
+            "Usmerena procena"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_58"
+    },
+    {
+        "title": "Član 59",
+        "texts": [
+            "(1) Postupak usmerene procene otvara se ukoliko se zaključi da je potrebno još podataka radi pružanja adekvatnih usluga.",
+            "(2) Usmerena procena traje najviše 30 radnih dana od dana okončanja početne procene.",
+            "(3) U izuzetnim slučajevima, po odobrenju supervizora, vremensko trajanje usmerene procene može se produžiti, ako nije u suprotnosti sa zakonom utvrđenim rokovima, za još najviše 30 radnih dana.",
+            "Planiranje usmerene procene"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_59"
+    },
+    {
+        "title": "Član 60",
+        "texts": [
+            "(1) Usmerena procena planira se na osnovu raspoloživih rezultata početne procene i drugih zahteva rada na slučaju.",
+            "(2) Voditelj slučaja, uz odobrenje supervizora, odnosno rukovodioca službe, planira:",
+            "- na koje oblasti procene se treba dalje usmeriti;",
+            "- koga od članova porodice i osoba iz sredine korisnika treba uključiti u dalju procenu da li je potrebno uključiti još nekoga, sa kim će kontaktirati, ko će sve biti intervjuisan;",
+            "- za koje oblasti procene je potrebno uključiti druge stručne radnike centra za socijalni rad, a za koje je potrebna saradnja stručnjaka iz drugih ustanova i službi (specijalistička zdravstvena procena, obrazovna procena, procena profesionalne orjentacije i sl.);",
+            "- ko će još biti uključen u postupak (npr. policija, zdravstvena služba, drugi stručni radnik ukoliko je potrebno);",
+            "- način prikupljanja neophodnih podataka (intervjui, dokumentacija, testovi, skale, upitnici, kućna poseta, poseta školi, radnom mestu i sl.);",
+            "- vremenski okvir za sprovođenje potrebnih aktivnosti.",
+            "Obavezna realizacija usluge usmerene procene"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_60"
+    },
+    {
+        "title": "Član 61",
+        "texts": [
+            "(1) Usmerena procena u organizovanju zaštite dece i mladih obavezno se sprovodi u sledećim slučajevima:",
+            "- kada je dete izdvojeno iz porodice da bi mu se osigurala bezbednost;",
+            "- kada se planira smeštaj deteta van porodice uz saglasnost ili bez saglasnosti roditelja;",
+            "- kada slučaj uđe u sudsku proceduru, a prisutna je složenost elemenata koji utiču na odluku.",
+            "(2) Usmerena procena u organizovanju zaštite odraslih i starih obavezno se sprovodi u sledećim slučajevima:",
+            "- kada je pokrenut postupak za lišenje poslovne sposobnosti i stavljanje odrasle ili stare osobe pod starateljstvo;",
+            "- u drugim slučajevima kada je za dobijanje potrebnih usluga potreban detaljniji uvid u stanje korisnika.",
+            "(3) O rezultatima usmerene procene izveštava se na način utvrđen u čl. 57, 58. i 62. ovog pravilnika.",
+            "Nalaz i stručno mišljenje"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_61"
+    },
+    {
+        "title": "Član 62",
+        "texts": [
+            "(1) Nalaz i stručno mišljenje sačinjava voditelj slučaja u elektronskom obliku kada je potrebno sudu, drugom organu ili ustanovi dostaviti rezultate procene ili kada je potrebno uputiti korisnika na korišćenje usluge u drugu ustanovu ili organizaciju.",
+            "(2) Izrada nalaza i stručnog mišljenja obavezna je u sledećim situacijama:",
+            "1. za potrebe suda, na zahtev suda ili kada centar pokreće postupak pred sudom u skladu sa nadležnostima organa starateljstva;",
+            "2. za potrebe drugih službi i ustanova (situacije u kojima se druge službe izveštavaju, na zahtev ili po službenoj dužnosti, o preduzetim i potrebnim daljim uslugama i merama.",
+            "Struktura nalaza i stručnog mišljenja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_62"
+    },
+    {
+        "title": "Član 63",
+        "texts": [
+            "Osnovna struktura nalaza i stručnog mišljenja obuhvata sledeće oblasti:",
+            "- identifikacione podatke korisnika i razlog za pokretanje postupka u centru;",
+            "- podatke o korisniku;",
+            "- podatke o porodici i drugim značajnim osobama iz korisnikovog okruženja;",
+            "- podatke o lokalnoj zajednici;",
+            "- utvrđeni problem, potrebe i cilj rada;",
+            "- mišljenje, odnosno sumarnu procenu snaga i teškoća, što obuhvata lične, porodične i sredinske resurse koji mogu doprineti prevladavanju problema, teškoće ili rizika, odnosno glavne oblasti problema;",
+            "- planirane i preduzete usluge i mere, uključujući i do sada neobezbeđene usluge koje su potrebne za stabilizovanje stanja korisnika.",
+            "Sadržaj nalaza i stručnog mišljenja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_63"
+    },
+    {
+        "title": "Član 64",
+        "texts": [
+            "(1) U okviru nalaza i stručnog mišljenja, voditelj slučaja sumarno saopštava rezultate procene, planirane i preduzete usluge i mere.",
+            "(2) Nalaz i stručno mišljenje, po pravilu, sadrži:",
+            "- razlog za pokretanje postupka u centru ili stanje koje je doprinelo nastanku problema;",
+            "- korisnikovo viđenje problema, uključujući i kako korisnik razume uključenost centra i šta vidi kao potrebu za promenom;",
+            "- način na koji značajne osobe iz korisnikove sredine vide problem, razumeju intervenciju centra i šta vide kao potrebu za promenom;",
+            "- bezbednost korisnika: potrebe za intervencijama koje će osigurati bezbednost;",
+            "- lične i porodične snage i resursi;",
+            "- resurse zajednice i to: opis i procena resursa zajednice u kojoj korisnik živi, načina na koji ih koristi i procena nedovoljno pristupačnih ili nedostajućih resursa u odnosu na problem ili situaciju korisnika;",
+            "- socijalnu podršku koju korisnik i porodica imaju;",
+            "- aktuelno stanje i socijalnu istoriju korisnika, uključujući položaj korisnika u porodici, način zadovoljavanja potreba korisnika u porodici, emocionalno, fizičko, socijalno funkcionisanje i teškoće u funkcionisanju;",
+            "- porodičnu sredinu i funkcionisanje, uključujući fizičko okruženje porodice (domaćinstva), uslove stanovanja, susedstvo, strukturu porodice, stabilnost, prisutne stresove i odnose članova porodice;",
+            "- obrazovanje, zaposlenost i prihode svih članova porodice;",
+            "- pitanja kulture, religije, etničke pripadnosti i način na koji utiču na potrebe korisnika;",
+            "- istoriju zlostavljanja, zanemarivanja i nasilja u porodici za članove porodice;",
+            "- zdravstvene i potrebe mentalnog zdravlja, uključujući i aktuelno stanje i istoriju zdravstvenih tretmana, upotrebu lekova, hospitalizacije;",
+            "- aktuelno stanje i istoriju zloupotrebe psihoaktivnih supstanci (alkohola, droga, tableta i drugih supstanci) korisnika i drugih članova porodice ukoliko je relevantno za problem ili situaciju korisnika;",
+            "- način na koji su korisnik i drugi članovi porodice umešani u sudske i pravne procese aktuelno i u prošlosti ukoliko je relevantno za problem ili situaciju korisnika;",
+            "- dodatne informacije, uključujući i plan za dobijanje daljih potrebnih informacija;",
+            "- preduzete i planirane mere i usluge od strane centra i drugih relevantnih službi i ustanova;",
+            "- druge mere i usluge koje su potrebne za stabilizovanje stanja korisnika i zadovoljavanje potreba koje se traže od drugih službi i organa.",
+            "Sadržina nalaza i mišljenja u postupku utvrđivanja prava na materijalno obezbeđenje"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_64"
+    },
+    {
+        "title": "Član 65*",
+        "texts": [
+            "(Prestao da važi)",
+            "Planiranje i vrste planova"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_65*"
+    },
+    {
+        "title": "Član 66",
+        "texts": [
+            "(1) U cilju blagovremenog, celovitog i kontinuiranog obezbeđivanja usluga korisnicima, sačinjavaju se posebni planovi.",
+            "(2) Tokom rada sa korisnikom donose se sledeći planovi:",
+            "- početni plan usluga, najkasnije 15 dana od dana kada je započet rad sa korisnikom;",
+            "- plan usluga i mera za porodicu sa planom stalnosti za dete, najkasnije 60 dana od dana kada je započeo rad sa korisnikom;",
+            "- plan usluga i mera za odraslog ili starog korisnika, 60 dana od dana kada je započeo rad sa korisnikom;",
+            "- plan za samostalni život, odnosno emancipaciju mlade osobe - pre navršene 14. godine života.",
+            "(3) Planovi iz stava 2. ovog člana beleže se u Plan usluga u SOZIS-u.",
+            "Opšti sadržaj planiranja usluga u centru"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_66"
+    },
+    {
+        "title": "Član 67",
+        "texts": [
+            "Planovi pružanja usluga korisnicima moraju sadržati sledeće opšte elemente:",
+            "1. pregled informacija iz procene određivanjem tri do pet oblasti teškoća, nezadovoljenih potreba i bezbednosnih rizika koji su najurgentniji i najcelishodniji za rešavanje i navođenjem ostalih oblasti problema, potreba i rizika koje treba u kasnijim fazama rada rešavati;",
+            "2. definisanje ciljeva i to opšteg i posebnih ciljeva rada, koji se specifikuju u vidu poželjnih, odnosno očekivanih ishoda;",
+            "3. za sve identifikovane oblasti problema definisanje pokazatelja - očekivanih ishoda koji treba da ukažu da je postojeći problem, potreba ili rizik prevaziđen, smanjen ili potreba zadovoljena (ishodi treba da budu jasni, vidljivi, specifični u smislu zahtevanog ponašanja i uslova kojima se teži i merljivi, odnosno proverljivi;",
+            "4. odluku o tome šta treba da se uradi da bi se dostigli ciljevi i ishodi;",
+            "5. određivanje aktivnosti koje će se preduzeti i to: ko, kako, kada i gde, da bi se dostigli postavljeni ciljevi;",
+            "6. osobe koje su uključene, odnosno ko je odgovoran za ispunjenje određenog zadatka (voditelj slučaja, korisnik, roditelj, dete, drugi stručnjak i sl.);",
+            "7. vremenski okvir kojim se definišu datumi za početak i za završetak zadatka;",
+            "8. opis postupaka i pokazatelje kojima osoba ili služba dokazuje da su zadaci ispunjeni i dostignuti ciljevi rada, kao i načine i vremenske rokove za redefinisanje plana ukoliko je potrebno.",
+            "Učešće u planiranju usluga"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_67"
+    },
+    {
+        "title": "Član 68",
+        "texts": [
+            "(1) U sačinjavanju početnog plana usluga i mera i plana usluga i mera za porodicu sa planom stalnosti za dete, pored voditelja slučaja učestvuju, u skladu sa okolnostima, spremnošću i sposobnošću za učešće i:",
+            "1. roditelji ili staratelj deteta;",
+            "2. dete, u skladu sa uzrastom i zrelošću;",
+            "3. druge značajne osobe iz okruženja deteta ili mlade osobe;",
+            "4. ukoliko je dete izdvojeno iz porodice, osoba kod koje je dete smešteno (srodnik, hranitelj i sl.), odnosno stručni radnik ustanove u kojoj se dete nalazi;",
+            "5. predstavnici drugih službi koji treba da obezbede ili već pružaju neke usluge detetu i porodici.",
+            "(2) U sačinjavanju početnog plana usluga i mera i plana usluga za odrasle i stare osobe pored voditelja slučaja učestvuju, u skladu sa okolnostima, spremnošću i sposobnošću za učešće i:",
+            "1. korisnik, u skladu sa svojim sposobnostima i na način koji će obezbediti njegovo najveće moguće učešće;",
+            "2. član porodice, staratelj ili osoba koja se neposredno stara o odrasloj ili staroj osobi;",
+            "3. druge značajne osobe iz okruženja odrasle ili stare osobe;",
+            "4. predstavnici drugih službi koji treba da obezbede ili već pružaju neke usluge korisniku.",
+            "(3) Ukoliko voditelj slučaja ne može da uključi bilo koju od potrebnih osoba u razvijanje plana usluga, treba da u tom planu opiše preduzete napore da se uključe potrebne osobe, odnosno učesnici, kao i razlog za njihovo neuključivanje.",
+            "(4) Svi učesnici potpisuju plan, a supervizor odobrava i potpisuje plan.",
+            "(5) Voditelj slučaja obezbeđuje da sve uključene strane, odnosno učesnici dobiju kopiju plana usluga.",
+            "(6) Ukoliko bilo ko od strana uključenih u donošenje plana usluga, ne potpiše plan usluga, potrebno je da obrazloži razloge za to.",
+            "Početni plan usluga i mera"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_68"
+    },
+    {
+        "title": "Član 69",
+        "texts": [
+            "(1) Početni plan usluga i mera donosi se posle okončanja početne procene, a najkasnije 15 dana od dana kada je započet rad sa korisnikom.",
+            "(2) Početni plan može da se razvija paralelno sa postupkom usmerene procene, ukoliko se donese odluka da je usmerena procena potrebna.",
+            "Plan usluga i mera za porodicu sa planom stalnosti za dete"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_69"
+    },
+    {
+        "title": "Član 70",
+        "texts": [
+            "(1) Plan usluga i mera za porodicu sa planom stalnosti za dete donosi se u slučaju kada se utvrdi potreba za daljim pružanjem usluga i mera, po završetku procesa procene, najkasnije 60 dana od kada je započet rad sa korisnikom.",
+            "(2) Plan usluga i mera za porodicu određuje i mere pravne zaštite u skladu sa nadležnostima organa starateljstva, radi pravovremenog, i sa uslugama socijalne zaštite koordinisanog, sprovođenja.",
+            "(3) Prilikom donošenja plana usluga i mera za porodicu i plana stalnosti za dete, centar će zajedno sa drugim službama u lokalnoj zajednici i članovima porodice preduzeti razumne napore da dete ostane sa roditeljima, da se preduprede ili otklone okolnosti zbog kojih dete može da bude izmešteno iz porodice, ili će preduzeti sve napore da se steknu uslovi za povratak deteta u porodicu.",
+            "(4) U slučajevima kada nije odgovarajuće preduzimati intervencije, mere i usluge za ostanak ili povratak deteta u porodicu, centar će obrazložiti i dokumentovati okolnosti za takvu odluku.",
+            "(5) Planiranje usluga, mera i intervencija u slučaju iz stava 4. ovog člana mora biti zasnovano na principu najmanje restriktivnog okruženja i mora uvažiti zahtev da dete uzrasta do sedam godina ne može biti smešteno u ustanovu za smeštaj korisnika bez roditelja duže od tri meseca, osim ukoliko za to postoje zdravstvene indikacije.",
+            "Određivanje cilja stalnosti u porodičnom planu usluga"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_70"
+    },
+    {
+        "title": "Član 71",
+        "texts": [
+            "(1) Plan stalnosti za dete je deo porodičnog plana usluga i podrazumeva da se odrede ciljevi stalnosti i postupci koji su potrebni da bi se ti ciljevi dostigli.",
+            "(2) Ciljevi stalnosti određuju se na osnovu pregleda dotadašnjih usluga koje su pružene porodici i detetu, preduzetih mera pravne zaštite, kao i potreba deteta i porodice, utvrđenih u skladu sa najboljim interesom deteta.",
+            "(3) Planom stalnosti mora da se odredi datum (mesec i godina) kada će se dostići jedan od sledećih ciljeva stalnosti u skladu sa najboljim interesom deteta:",
+            "- ostanak deteta sa roditeljima (oba ili jednim);",
+            "- povratak deteta u porodicu roditelja;",
+            "- smeštaj deteta kod srodnika, hranitelja ili staratelja;",
+            "- usvojenje deteta;",
+            "- drugi stalni životni aranžman mlade osobe kroz osamostaljenje.",
+            "(4) Ako je dete privremeno odvojeno od roditelja, prvi cilj stalnosti je povratak kući, roditeljima, osim:",
+            "- ako dete nema žive roditelje ili su roditelji nepoznati ili se sa njima ne može stupiti u kontakt posle potrage od najmanje šest meseci;",
+            "- ako su roditelji dali saglasnost za usvojenje deteta;",
+            "- ako su roditelji zloupotrebili roditeljsko pravo ili grubo zanemarili roditeljske dužnosti tako da je potpuno lišenje roditeljskog prava odgovarajuće;",
+            "- ako za dete nije moguće obezbediti bezbedno okruženje uz roditelja, u razumnom vremenskom periodu (najduže dve godine) uz primenu svih pristupačnih usluga socijalnih i drugih službi u zajednici.",
+            "Ponovni pregled plana usluga i mera za porodicu sa planom stalnosti za dete"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_71"
+    },
+    {
+        "title": "Član 72",
+        "texts": [
+            "(1) Za svu decu i mlade koji su izdvojeni iz porodice roditelja, centar će, najkasnije 12 meseci od dana donošenja, revidirati plan stalnosti i razmotriti preduzimanje dodatnih mera iz svoje nadležnosti, i druge odgovarajuće postupke, koji obezbeđuju stalni životni aranžman.",
+            "(2) U slučajevima kada se kao cilj stalnosti za dete odredi usvojenje ili organizovanje drugog stalnog životnog aranžmana, centar će u odgovarajućem dokumentu obrazložiti sve sprovedene postupke za dostizanje planiranog cilja.",
+            "(3) Ako se cilj ne može dostići kroz smeštaj i stalni životni aranžman kod srodnika, usluge i intervencije će se usmeriti na formiranje mreže značajnih osoba, kako bi se detetu, odnosno mladoj osobi obezbedio osećaj pripadnosti i podrška kroz život.",
+            "(4) Kada ima više dece koju treba izdvojiti iz porodice, centar će nastojati da na svaki način pronađe odgovarajući smeštaj za svu braću i sestre, na osnovu pretpostavke da je to u najboljem interesu dece, a ukoliko najbolji interes dece ili određenog deteta nije smeštaj sa drugom decom iz porodice, ta odluka se posebno obrazlaže u odgovarajućem dokumentu.",
+            "(5) Smeštaj treba da bude najmanje restriktivan, bezbedan i u najvećoj mogućoj meri u skladu sa najboljim interesom, dobrobiti i specifičnim potrebama deteta;",
+            "(6) Ukoliko su deca izdvojena iz porodice, utvrđeni problemi se rešavaju kroz usluge i intervencije koje vode ponovnom ujedinjenju deteta ili dece i porodice.",
+            "(7) Revidirani plan usluga i mera treba da sadrži:",
+            "1. opis mesta gde se dete nalazi, razlog za smeštaj, opis koliko je mesto smeštaja udaljeno od mesta boravka roditelja ili članova šire porodice i škole koju dete pohađa, a za decu koja su smeštena van svog mesta boravka (mesta boravka roditelja, kuće u kojoj su do tada živeli, van mesta škole koju su pohađali), centar treba da obrazloži u odgovarajućem dokumentu na koji način je utvrdio da je takav smeštaj u najboljem interesu deteta, kao i sve početne i tekuće napore da se dete smesti kod srodnika, odnosno članova šire porodice;",
+            "2. podatke o zdravlju i obrazovanju deteta, uključujući ime zdravstvene ustanove i škole koju dete pohađa;",
+            "3. plan mera porodično-pravne zaštite (preduzetih i planiranih), uključujući i vremenski plan i konkretna zaduženja;",
+            "4. opis koje usluge i resursi su potrebni srodnicima ili hraniteljima kod kojih je dete smešteno i način na koji će biti obezbeđeni;",
+            "5. opis usluga koje su potrebne za ponovno ujedinjenje porodice, uključujući plan poseta roditelja detetu.",
+            "Plan poseta roditelja detetu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_72"
+    },
+    {
+        "title": "Član 73",
+        "texts": [
+            "(1) Plan poseta roditelja detetu je sastavni deo plana usluga i mera za porodicu sa planom stalnosti za dete u situacijama kada dete ne živi sa svojim roditeljima i njime treba da bude određena učestalost i vrsta kontakta (nadgledan ili nenadgledan).",
+            "(2) Plan poseta treba da razmotri sledeće okolnosti:",
+            "1. uzrast i razvojni stadijum deteta;",
+            "2. detetovo prilagođavanje na smeštaj;",
+            "3. detetov odnos sa sadašnjim starateljem, hraniteljem ili vaspitačem;",
+            "4. da li su posete roditelja odgovarajuće, odnosno u interesu deteta, uključujući i procenu rizika;",
+            "5. način i učestalost kontakta deteta sa roditeljima, braćom i sestrama i drugim članovima porodice;",
+            "6. trajanje i učestalost poseta treba progresivno da napreduju sa približavanjem vremena za ponovno ujedinjenje porodice.",
+            "(3) Kontakti roditelja i deteta se beleže u evidenciji korisnika.",
+            "(4) Voditelj slučaja obaveštava roditelje i članove porodice deteta o pravilima i ograničenjima poseta i beleži obaveštenje u evidenciji korisnika.",
+            "Plan usluga i mera za odraslog i starog korisnika"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_73"
+    },
+    {
+        "title": "Član 74",
+        "texts": [
+            "(1) Plan usluga za odraslog i starog korisnika, za koga se utvrdi potreba za daljim pružanjem usluga, donosi se po završetku procesa procene, najkasnije 60 dana od dana kada je započeo rad sa korisnikom.",
+            "(2) Plan usluga predstavlja dopunjenu i proširenu verziju početnog plana usluga, uključuje nalaze usmerene procene, pregleda do tada postignute rezultate obezbeđenih usluga i mera, i odlučuje o daljim potrebnim uslugama i merama.",
+            "(3) Centar će zajedno sa drugim službama u zajednici, korisnikom i drugim značajnim osobama iz njegove sredine preduzeti razumne napore da uz primenu principa najmanje restriktivne intervencije i okruženja korisnik dostigne ili održi optimalan nivo psihofizičkog i socijalnog funkcionisanja, da predupredi ili otkloni okolnosti zbog kojih korisnik može biti izmešten iz svoje sredine, ili će preduzeti sve napore da se korisnik održi ili uspostavi produktivne veze i odnose sa novom sredinom.",
+            "(4) Plan mera pravne zaštite priključuje se planu usluga i donosi se u skladu sa nadležnostima organa starateljstva.",
+            "(5) Plan mera pravne zaštite treba da omogući blagovremeno i sa uslugama socijalne zaštite koordinisano sprovođene pravnih mera u nadležnosti organa starateljstva.",
+            "Plan za samostalan život i emancipaciju mladih"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_74"
+    },
+    {
+        "title": "Član 75",
+        "texts": [
+            "(1) Za sve mlade osobe korisnike usluga koji ne žive sa svojim roditeljima (usvojiteljima) uključujući i mlade koji žive sa srodnicima, pod starateljstvom, u hraniteljskim porodicama i ustanovama za smeštaj korisnika i druge mlade osobe za koje se tokom procene i pružanja usluga utvrdi da im je potrebna podrška za emancipaciju, najkasnije sa navršenih 14 godina starosti sačinjava se plan za napuštanje zaštite i emancipaciju.",
+            "(2) U izradi plana za napuštanje zaštite i osamostaljivanje pored voditelja slučaja učestvuju u skladu sa okolnostima, spremnošću i sposobnošću za učešće i:",
+            "- mlada osoba;",
+            "- roditelj, odnosno staratelj;",
+            "- hranitelji, po potrebi članovi porodice hranitelja ili stručni radnici, odnosno radnici centra za porodični smeštaj ili ustanove u kojoj je mlada osoba smeštena;",
+            "- druge odgovarajuće službe i ustanove;",
+            "- druge osobe koje mlada osoba označi kao značajne.",
+            "(3) Izradi plana za osamostaljivanje i emancipaciju mlade osobe prethodi procena veština za svakodnevni život koja treba da obrazloži u odgovarajućem dokumentu snage, potrebe, kapacitete i motivaciju mlade osobe da savlada veštine potrebne za samostalan život.",
+            "(4) Procena iz stava 3. ovog člana usmerava se na kapacitet mlade osobe za samostalan život i brigu o sebi kroz:",
+            "1. procenu svakodnevnih životnih veština, uključujući i potrebe mlade osobe za sticanjem životnih veština, u sledećim oblastima:",
+            "- briga o sebi, higijena,",
+            "- upravljanje budžetom i korišćenje novca,",
+            "- stanovanje,",
+            "- zdravstvena i stomatološka nega,",
+            "- lična bezbednost i snalaženje u kriznim situacijama,",
+            "- ishrana i priprema hrane,",
+            "- kupovina potrepština,",
+            "- planiranje porodice i prevencija seksualno prenosivih bolesti,",
+            "- roditeljske veštine za mlade koji imaju ili očekuju dete,",
+            "- zaposlenje,",
+            "- planiranje obrazovanja i zanimanja,",
+            "- veština rešavanja problema i donošenja odluka,",
+            "- korišćenje resursa zajednice,",
+            "- poznavanje zakonskih prava.",
+            "2. procenu pristupačnih ličnih, porodičnih i resursa zajednice, uključujući i finansijske resurse za emancipaciju ili delimičnu emancipaciju mlade osobe.",
+            "(5) Plan iz stava 1. ovog člana i na osnovu njega preduzete aktivnosti, imaju za cilj da omoguće mladoj osobi pripremu za prelazak iz struktuiranog, nadgledanog okruženja u samostalan život i sticanje životnih veština koje će ga omogućiti i olakšati.",
+            "(6) Plan iz stava 1. ovog člana obavezno sadrži opis načina na koji će svaka utvrđena potreba biti zadovoljena.",
+            "Kontakti sa korisnikom tokom rada na slučaju"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_75"
+    },
+    {
+        "title": "Član 76",
+        "texts": [
+            "(1) Kada korisnik prima usluge prema sačinjenom planu i živi u svojoj kući, nezavisno od toga ko obezbeđuje usluge, voditelj slučaja će najmanje jednom u dva meseca imati telefonski ili neposredni kontakt sa korisnikom, ako je u pitanju dete, sa detetom i roditeljem sa kojim dete živi, odnosno sa licem koje se stara o detetu.",
+            "(2) Ukoliko korisnik prima usluge van svoje kuće, uključujući i smeštaj u hraniteljsku ili srodničku porodicu i ustanovu socijalne zaštite, kontakt podrazumeva najmanje:",
+            "- jedan neposredni kontakt sa detetom tokom prvog meseca od izdvajanja iz porodice, a nakon toga najmanje tri puta godišnje;",
+            "- jedan neposredni kontakt sa odraslim ili starim korisnikom tokom prvog meseca od izdvajanja iz porodice i nakon toga, najmanje dva puta godišnje neposredni kontakt sa korisnikom smeštenim u drugu porodicu, odnosno najmanje jednom godišnje neposredni kontakt sa odraslim ili starim korisnikom smeštenim u ustanovu.",
+            "(3) Deo kontakta sa korisnicima iz stava 2. ovog člana obavezno se odvija nasamo, a najmanje jednom godišnje uključuje i opservaciju mesta gde korisnik živi.",
+            "(4) Svi kontakti voditelja slučaja sa korisnikom beleže se u Listu praćenja kontakata i rada na slučaju.",
+            "Ponovni pregled i evaluacija planova pružanja usluga korisnicima i rada na slučaju"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_76"
+    },
+    {
+        "title": "Član 77",
+        "texts": [
+            "Plan usluga i mera za dete ili mladu osobu, odnosno plan usluga i mera za odraslu ili staru osobu kontinuirano se prati i pregleda, preduzete usluge, mere i intervencije se dokumentuju, usklađuju i menjaju prema postavljenim ciljevima.",
+            "Ponovni pregled"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_77"
+    },
+    {
+        "title": "Član 78",
+        "texts": [
+            "(1) Ponovni pregled vrši se na osnovu rezultata evaluacije najmanje svakih šest meseci od dana donošenja plana usluga, osim ukoliko planom nije predviđeno da period bude kraći ili ukoliko su posebnim zakonom određeni drugi rokovi.",
+            "(2) Za odrasla lica na smeštaju u ustanovi ili srodničkoj porodici prve dve godine smeštaja ponovni pregled vrši se svakih šest meseci, a nakon toga - najmanje jednom godišnje.",
+            "(3) Izuzetno od stava 1. ovog člana, za lica starija od 65 godina koja su na smeštaju u ustanovi ili srodničkoj porodici, ponovni pregled vrši se jednom godišnje.",
+            "(4) Ukoliko dođe do značajnih izmena u potrebama korisnika i porodice za uslugama, potrebno je ponovo utvrditi da li korisnik ispunjava kriterijume za dobijanje usluga.",
+            "Učešće korisnika u ponovnom pregledu i evaluaciji"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_78"
+    },
+    {
+        "title": "Član 79",
+        "texts": [
+            "(1) Ponovni pregled i evaluacija vrši se u saradnji sa korisnikom, odnosno: sa detetom - u skladu sa uzrastom i zrelošću, sa roditeljima, odraslim ili starim korisnikom - u skladu sa sposobnošću za učešće u tom postupku, kao i sa starateljem i drugim značajnim članovima porodice.",
+            "(2) Ukoliko nije moguće obezbediti učešće korisnika u ponovnom pregledu i evaluaciji, razlozi za to treba da budu obrazloženi i zabeleženi u evidenciji korisnika.",
+            "(3) Pre okončanja rada na slučaju, potrebno je ponovo proceniti potrebe korisnika i porodice za uslugama i postojeće rizike.",
+            "Način vršenja ponovnog pregleda i evaluacije"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_79"
+    },
+    {
+        "title": "Član 80",
+        "texts": [
+            "(1) Ponovni pregled odvija se kroz supervizijski pregled, u okviru kolegijuma službe ili na posebno organizovanoj konferenciji za ponovni pregled slučaja.",
+            "(2) U ponovnom pregledu i evaluaciji učestvuju voditelj slučaja i supervizor, i u skladu sa okolnostima, spremnošću i sposobnošću za učešće predstavnici drugih službi i ustanova koje pružaju usluge korisniku, korisnik, njegov roditelj ili staratelj ili druge značajne osobe za korisnika.",
+            "Sadržaj ponovnog pregleda i evaluacije"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_80"
+    },
+    {
+        "title": "Član 81",
+        "texts": [
+            "(1) Ponovni pregled i evaluacija treba da odredi:",
+            "- da li preduzete usluge i mere odgovaraju na potrebe korisnika;",
+            "- ukoliko je korisnik smešten van porodice, kako okolnosti u drugoj porodici ili ustanovi odgovaraju potrebama korisnika;",
+            "- ukoliko dete živi sa roditeljima, na koji način je osigurana bezbednost deteta;",
+            "- da li dete, roditelji i drugi članovi porodice primaju usluge u skladu sa porodičnim planom usluga i napreduju u pravcu određenih ishoda koji su utvrđeni planom;",
+            "- koje prepreke i okolnosti ometaju napredak prema postavljenim ciljevima i ishodima;",
+            "- da li su utvrđeni rokovi odgovarajući i da li ih treba menjati i prilagoditi novonastalim okolnostima;",
+            "- da li su korisniku i porodici potrebne neke dodatne usluge i način na koji one mogu da budu obezbeđene;",
+            "- da li su preduzete usluge i mere odgovarajuće za ispunjenje cilja stalnosti za dete, odnosno cilja rada sa odraslom ili starom osobom;",
+            "- ukoliko korisnik i porodica primaju usluge od strane više ustanova, odnosno organizacija, da li su usluge koordinirane na odgovarajući način kako bi se pravovremeno, usklađeno i delotvorno odgovorilo na njihove potrebe.",
+            "(2) Učesnicima treba omogućiti da potpišu revidirani plan usluga, a supervizor treba i da odobri i da potpiše plan.",
+            "(3) Voditelj slučaja treba da obezbedi da učesnici dobiju kopiju plana.",
+            "(4) Ukoliko bilo ko od učesnika ne potpiše revidirani plan, potrebno je na planu pribeležiti razlog za to.",
+            "(5) Rezultati ponovnog pregleda i evaluacije beleže se u SOZIS-u.",
+            "Vanredan ponovni pregled i evaluacija"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_81"
+    },
+    {
+        "title": "Član 82",
+        "texts": [
+            "Vanredan ponovni pregled i evaluacija pružanja usluga i rada na slučaju vrši se u sledećim slučajevima:",
+            "- ako je dete bilo smešteno na tri različita mesta van porodice;",
+            "- ako dete, za koje je kao cilj stalnosti određeno usvojenje, nije više od godinu dana usvojeno.",
+            "Završetak rada sa korisnikom"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_82"
+    },
+    {
+        "title": "Član 83",
+        "texts": [
+            "Rad sa korisnikom, odnosno pružanje usluga korisniku okončaće se u sledećim situacijama ako:",
+            "- korisnik više ne zadovoljava kriterijume za korišćenje usluge;",
+            "- je korisnik odustao od korišćenja usluga;",
+            "- korisniku dalje usluge nisu potrebne;",
+            "- je predviđeno vreme trajanja usluge isteklo;",
+            "- se mlada osoba osamostalila ili stekla poslovnu sposobnost pre punoletstva;",
+            "- centar više nije mesno nadležan, drugi centar je preuzeo rad sa korisnikom;",
+            "- je korisnik preminuo, odnosno proglašen za umrlog.",
+            "Dokumentovanje završetka rada sa korisnikom"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_83"
+    },
+    {
+        "title": "Član 84",
+        "texts": [
+            "(1) Voditelj slučaja dužan je da u obrazac unese sledeće podatke o završetku rada sa korisnikom:",
+            "1. razlog za završetak rada na slučaju;",
+            "2. kratak pregled obezbeđenih usluga, uključujući i napredak koji je postignut u skladu sa ciljevima socijalne zaštite;",
+            "3. procenu preostalih rizika u koju je uključena procena aktuelnog stanja korisnika i porodice, potreba, snaga i rizika;",
+            "4. konačne preporuke, što uključuje i preporuke stručnom radniku koji treba da, eventualno, nastavi rad na slučaju.",
+            "(2) Centar će zatvoriti rad na slučaju po predviđenim kriterijumima najkasnije 90 dana od poslednjeg direktnog kontakta sa korisnikom i odložiti predmet i evidenciju korisnika u arhivu.",
+            "(3) Odluka o zatvaranju rada i dokumentovani podaci se pregledaju od strane supervizora stručnog rada pre odlaganja u arhivu.",
+            "(4) O završetku rada sa korisnikom izveštava se u proceni u SOZIS-u.",
+            "V EVIDENCIJA I DOKUMENTACIJA",
+            "Registar korisnika"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_84"
+    },
+    {
+        "title": "Član 85",
+        "texts": [
+            "(1) Centar vodi evidenciju o korisnicima u Registru korisnika.",
+            "(2) Centri organizovani za više opština vode odvojene registre korisnika za svaku opštinu.",
+            "(3) U Registar korisnika evidentiraju se, hronološkim redom, sva lica koja se prvi put obraćaju centru radi ostvarivanja prava, odnosno mera ili usluga socijalne zaštite, osim lica koja traže potvrde i uverenja.",
+            "(4) U Registar korisnika unose se lični podaci o korisniku i to:",
+            "- datum upisa;",
+            "- ime i prezime;",
+            "- JMBG;",
+            "- adresa i mesto prebivališta ili boravišta;",
+            "- napomena.",
+            "(5) Izuzetno, po zahtevima za ostvarivanje prava na materijalno obezbeđenje, u Registar korisnika evidentira se samo podnosilac zahteva.",
+            "(6) U Registar korisnika ne unose se podaci iz odbačenih prijava zlostavljanja.",
+            "(7) Registar korisnika vodi se kao elektronska baza podataka, u SOZIS-u.",
+            "(8) Registar prava korisnika vodi se kao elektronska baza podataka u Socijalnoj karti.",
+            "Evidencija korisnika"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_85"
+    },
+    {
+        "title": "Član 86",
+        "texts": [
+            "(1) Za svakog korisnika formira se Evidencija u koju se hronološkim redom grupiše celokupna dokumentacija koja se odnosi na korisnika.",
+            "(2) U Evidenciju korisnika ulažu se svi zahtevi i drugi podnesci korisnika u skladu sa propisima kojima se uređuje kancelarijsko poslovanje organa državne uprave.",
+            "(3) Najviše 30 dana od otvaranja rada na slučaju u Evidenciju korisnika biće uključeni sledeći dokumenti:",
+            "1. Prijemni list sa prijemnom procenom;",
+            "2. Procena sa rezultatima početne procene;",
+            "3. list kontakata i rada na slučaju;",
+            "4. početni plan rada na slučaju;",
+            "5. doneti upravni i drugi akti.",
+            "(4) Evidencija korisnika može da uključi druge odgovarajuće dokumente, kao što su:",
+            "1. nalozi i dopisi suda i tužilaštva;",
+            "2. izveštaji o smeštaju korisnika;",
+            "3. medicinska dokumentacija;",
+            "4. odgovarajuća prepiska;",
+            "5. beleške o rezultatima usmerene ili ponovne procene stanja i potreba korisnika;",
+            "6. nalazi i mišljenja;",
+            "7. planovi rada na slučaju i drugo.",
+            "(5) Sve aktivnosti u pružanju usluga i zaštiti prava korisnika dokumentuju se do završetka rada sa korisnikom i odlaganja Evidencije korisnika u arhivu.",
+            "Porodični dosije"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_86"
+    },
+    {
+        "title": "Član 87",
+        "texts": [
+            "(1) Ukoliko više od jednog člana porodice koristi usluge centra, formira se Porodični dosije.",
+            "(2) U slučaju formiranja Porodičnog dosijea iz stava 1. ovog člana, koristi se Evidencija korisnika, s tim što se među članovima porodice određuje nosilac Porodičnog dosijea, a pored jedinstvenog matičnog broja nosioca, upisuju se i jedinstveni matični brojevi ostalih korisnika članova porodice.",
+            "(3) Porodični dosije vodi se u SOZIS-u po jedinstvenom matičnom broju porodice.",
+            "(4) U Porodičnom dosijeu posebno se grupiše dokumentacija za svakog člana porodice, ukoliko članovi porodice koriste različite usluge."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_87"
+    },
+    {
+        "title": "Član 88",
+        "texts": [
+            "(Brisano)",
+            "Dokumentacija i podaci o korisniku i radu sa korisnikom"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_88"
+    },
+    {
+        "title": "Član 89",
+        "texts": [
+            "(1) Centar je dužan da vodi dokumentaciju o korisniku i radu sa korisnikom u SOZIS-u.",
+            "(2) Vođenjem dokumentacije o korisniku i radu sa korisnikom omogućava se praćenje celokupnog procesa rada, kao i:",
+            "1. da se pregledno, pravovremeno i kontinuirano evidentiraju sve činjenice o korisniku i radu sa korisnikom;",
+            "2. da se obezbedi učešće korisnika u postupku procene njegovih potreba i pružanju usluga;",
+            "3. da se obezbedi planirano, blagovremeno, celovito i kontinuirano pružanje usluga korisnicima;",
+            "4. da se izvrši provera svih preduzetih radnji i postupaka, odgovornih stručnih i drugih radnika u postupku pružanja usluga korisniku;",
+            "5. da se prikupe i objedine podaci na nivou centra radi izveštavanja, planiranja, utvrđivanja potreba i razvoja novih usluga.",
+            "(3) Beleženje aktivnosti u pružanju usluga i zaštiti prava korisnika odvija se prema dinamici rada na slučaju u skladu sa potrebama i planom rada, a najmanje jednom u šest meseci kada se vrši evaluacija i ponovni pregled.",
+            "(4) Beleženje aktivnosti u pružanju usluga i zaštiti prava korisnika uključuje najmanje sledeće informacije:",
+            "1. tekuće nalaze i procene funkcionisanja korisnika i porodice;",
+            "2. sumarni prikaz kontakata;",
+            "3. procenu napretka prema postavljenim ciljevima rada na slučaju, uključujući i korisnikovo viđenje napretka, ukoliko je to moguće;",
+            "4. hronološki prikaz i datume značajnih događaja tokom pružanja zaštite korisniku;",
+            "5. vrstu usluga, mera, intervencija i tretmana i zapažanja delotvornosti;",
+            "6. promene i dopune u Planu usluga i mera;",
+            "7. način na koji je sud umešan u postupak;",
+            "8. druge osobe i službe koje su uključene u rad na slučaju.",
+            "(5) Plan usluga i mera mora da sadrži sve predviđene informacije.",
+            "(6) List praćenja kontakata i rada na slučaju popunjava se redovno.",
+            "(7) Podaci o korisniku prava i sa njim povezanim licima vode se i u Socijalnoj karti.",
+            "Zahtev za ostvarivanje prava na materijalno obezbeđenje"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_89"
+    },
+    {
+        "title": "Član 90*",
+        "texts": [
+            "(Prestao da važi)"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_90*"
+    },
+    {
+        "title": "Čl. 91 i 92",
+        "texts": [
+            "(Brisano)",
+            "VI PRELAZNE I ZAVRŠNE ODREDBE"
+        ],
+        "link": null
+    },
+    {
+        "title": "Član 93",
+        "texts": [
+            "Usklađivanje broja i strukture radnika na poslovima javnih ovlašćenja u centru sa normativima kadrova utvrđenim ovim pravilnikom izvršiće se u roku od jedne godine, od dana stupanja na snagu ovog pravilnika.",
+            "U centrima u kojima je na dan stupanja na snagu ovog pravilnika, broj radnika veći od propisanih normativa, finansiranje zarada tih radnika vršiće se do okončanja postupka usklađivanja, a najduže do jedne godine od dana stupanja na snagu ovog pravilnika.",
+            "Prestanak važenja drugih propisa"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_93"
+    },
+    {
+        "title": "Član 94",
+        "texts": [
+            "Stupanjem na snagu ovog pravilnika prestaju da važe:",
+            "1) Pravilnik o normativima i standardima za obavljanje poslova centara za socijalni rad u vršenju javnih ovlašćenja (\"Službeni glasnik RS\", broj 15/92);",
+            "2) Član 6. Pravilnika o bližim uslovima u pogledu prostora, opreme i potrebnih stručnih i drugih radnika za osnivanje ustanova socijalne zaštite i za obavljanje delatnosti, odnosno poslova socijalne zaštite (\"Službeni glasnik RS\", br. 75/91, 52/92, 44/93 i 88/93);",
+            "3) Pravilnik o vođenju evidencije o korisnicima i dokumentacije o stručnom radu u ustanovama socijalne zaštite (\"Službeni glasnik RS\", br. 63/93 i 10/06) u delu koji uređuje evidenciju i dokumentaciju centara za socijalni rad i savetovališta za brak i porodicu."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_94"
+    },
+    {
+        "title": "Član 95",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u \"Službenom glasniku Republike Srbije\".",
+            "",
+            "Samostalni članovi Pravilnika o izmenama i dopunamaPravilnika o organizaciji, normativima i standardima rada centra za socijalni rad",
+            "(\"Sl. glasnik RS\", br. 37/2010)"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizaciji_normativima_i_standardima_rada.html#clan_95"
+    },
+    {
+        "title": "Član 15",
+        "texts": [
+            "Usklađivanje broja i strukture radnika na poslovima javnih ovlašćenja u centru sa normativima kadrova utvrđenim ovim pravilnikom izvršiće se u roku od tri godine, od dana stupanja na snagu ovog pravilnika."
+        ],
+        "link": null
+    },
+    {
+        "title": "Član 16",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u \"Službenom glasniku Republike Srbije\".",
+            "",
+            "Samostalni član Pravilnika o   dopuniPravilnika o organizaciji, normativima i standardima rada centra za socijalni rad",
+            "(\"Sl. glasnik RS\", br. 10/2025)"
+        ],
+        "link": null
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu narednog dana od dana objavljivanja u \"Službenom glasniku Republike Srbije\".",
+            "",
+            "Obrazac broj 1",
+            "",
+            "PRIJEMNI LIST",
+            "(Prestao da važi)***",
+            "Obrazac broj 2",
+            "",
+            "PROCENA - DECA I MLADI",
+            "(Prestao da važi)***",
+            "Obrazac broj 3",
+            "",
+            "PROCENA - ODRASLI I STARI",
+            "(Prestao da važi)***",
+            "Obrazac broj 4",
+            "",
+            "LIST PRAĆENJA KONTAKATA I RADA NA SLUČAJU",
+            "(Prestao da važi)***",
+            "Obrazac broj 5",
+            "",
+            "PLAN USLUGA",
+            "(Prestao da važi)***",
+            "Obrazac broj 6",
+            "",
+            "REGISTAR KORISNIKA",
+            "(Prestao da važi)***",
+            "Obrazac broj 7",
+            "",
+            "DOSIJEKORISNIKA USLUGA SOCIJALNE ZAŠTITE",
+            "(Prestao da važi)***",
+            "Obrazac MO",
+            "",
+            "ZAHTEVZA OSTVARIVANJE PRAVA NA MATERIJALNO OBEZBEĐENJE",
+            "(Prestao da važi)*",
+            "Obrazac MO - 1",
+            "",
+            "LIČNI PODACI O ČLANU PORODICE",
+            "(Prestao da važi)*",
+            "Obrazac MO - 2",
+            "",
+            "NALAZ I MIŠLJENJEO ČINJENICAMA O KOJIMA SE NE VODI SLUŽBENA EVIDENCIJA",
+            "(Prestao da važi)*",
+            "Ako ne probate više različitih izbora nikada nećete biti sigurni da li imate najbolju opciju u svojim rukama. Mi Vam tu mogućnost nudimo besplatno! Popunite formular i dobićete priliku da bez ikakvih troškova saznate da li je Paragraf dobar izbor za Vas.",
+            "Ukoliko želite da Vas obaveštavamo o novostima i aktivnostima kompanije Paragraf prijavite se na našu mailing listu. Vaš e-mail neće biti upotrebljen u druge svrhe."
+        ],
+        "link": null
+    }
+]

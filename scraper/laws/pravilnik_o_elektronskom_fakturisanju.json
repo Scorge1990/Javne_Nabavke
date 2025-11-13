@@ -1,0 +1,793 @@
+[
+    {
+        "title": "Član 1",
+        "texts": [
+            "Ovim pravilnikom bliže se uređuju određena pitanja,\r\nodnosno rešenja iz Zakona o elektronskom fakturisanju (\"Službeni\r\nglasnik RS\", br. 44/21, 129/21, 138/22, 92/23 i 94/24 - u daljem\r\ntekstu: Zakon), a naročito:",
+            "1) način i postupak registrovanja za pristup sistemu elektronskih faktura;",
+            "2) način pristupanja i korišćenja sistema elektronskih faktura;",
+            "2a) način iskazivanja podataka o statusu subjekta i usklađivanje statusa subjekta u sistemu elektronskih faktura;",
+            "2b) sadržina liste carinskih deklaracija u sistemu elektronskih faktura;",
+            "3) način primene standarda elektronskog fakturisanja;",
+            "4) minimalni sadržaj elektronske fakture neophodan za\r\nnjeno procesuiranje kroz sistem, slučajevi u kojima pojedini elementi\r\nelektronske fakture mogu biti izostavljeni, slučajevi u kojima je\r\npredviđena obaveza iskazivanja dodatnih elemenata, na osnovu drugih\r\npropisa kojima se uređuje izdavanje određenih vrsta faktura i forma i\r\nnačin dostave prateće i druge dokumentacije kroz sistem elektronskih\r\nfaktura (u daljem tekstu: elementi elektronske fakture i prilozi\r\nelektronskoj fakturi);",
+            "5) način i postupak elektronskog evidentiranja\r\nobračuna poreza na dodatu vrednost i korekcije obračuna poreza na\r\ndodatu vrednost u sistemu elektronskih faktura;",
+            "5a) način i postupak elektronskog evidentiranja prethodnog poreza i korekcije prethodnog poreza u sistemu elektronskih faktura;",
+            "6) postupanje u slučaju nastupanja privremenog prekida u radu sistema elektronskih faktura;",
+            "7) korišćenje podataka dostupnih u sistemu elektronskih faktura;",
+            "8) način postupanja Centralnog informacionog posrednika;",
+            "9) sadržina liste korisnika sistema elektronskih\r\nfaktura, uslovi za brisanje sa liste korisnika sistema elektronskih\r\nfaktura, kao i način i postupak brisanja sa liste korisnika sistema\r\nelektronskih faktura.",
+            "II NAČIN I POSTUPAK REGISTROVANJA ZA PRISTUP SISTEMU ELEKTRONSKIH FAKTURA"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_1"
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Pravno lice, preduzetnik i drugo fizičko lice koje\r\nima obavezu, odnosno koje se opredelilo da koristi sistem elektronskih\r\nfaktura u skladu sa Zakonom registruje se za pristup sistemu\r\nelektronskih faktura (u daljem tekstu: subjekt registracije).",
+            "Registrovanje za pristup sistemu elektronskih faktura\r\n(u daljem tekstu: registrovanje) vrši se preko odgovarajućeg veb\r\ninterfejsa (u daljem tekstu: interfejs za registrovanje), koji je\r\nsastavni deo sistema elektronskih faktura.",
+            "Registrovanje je moguće samo za subjekte registracije\r\nkoji poseduju poreski identifikacioni broj (u daljem tekstu: PIB) u\r\nskladu sa zakonom.",
+            "Izuzetno od stava 2. ovog člana, ukoliko je prethodno sprovedeno brisanje sa liste korisnika sistema elektronskih faktura, ponovno registrovanje vrši se na zahtev koji subjekt registracije podnosi Centralnom informacionom posredniku, uz navođenje matičnog broja, PIB-a i jedinstvenog broja korisnika javnih sredstava (u daljem tekstu: JBKJS) ukoliko je subjektu registracije dodeljen JBKJS, osim ako ovim pravilnikom nije drukčije propisano.",
+            "Registrovanje vrši zakonski zastupnik subjekta\r\nregistracije, poreski punomoćnik stranog lica subjekta registracije\r\nodređen u skladu sa Zakonom o porezu na dodatu vrednost (\"Službeni\r\nglasnik RS\", br. 84/04, 86/04 - ispravka, 61/05, 61/07, 93/12, 108/13,\r\n68/14 - dr. zakon, 142/14, 83/15, 108/16, 113/17, 30/18, 72/19, 153/20,\r\n138/22 i 94/24 - u daljem tekstu: ZPDV), odnosno subjekt registracije\r\nlično u slučaju kada je subjekt registracije preduzetnik i drugo\r\nfizičko lice."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_2"
+    },
+    {
+        "title": "Član 3",
+        "texts": [
+            "Identitet fizičkog lica koje koristi interfejs za\r\nregistrovanje utvrđuje se putem Portala za elektronsku identifikaciju\r\nuz primenu šeme elektronske identifikacije visokog nivoa pouzdanosti.",
+            "Provera PIB-a vrši se na osnovu podataka iz\r\nJedinstvenog registra poreskih obveznika, a provera statusa zakonskog\r\nzastupnika subjekta registracije na osnovu podataka iz odgovarajućeg\r\nregistra koji sadrži podatke o zakonskim zastupnicima određenog tipa\r\nsubjekta registracije."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_3"
+    },
+    {
+        "title": "Član 4",
+        "texts": [
+            "U interfejs za registrovanje unose se osnovni identifikacioni podaci o subjektu registracije, i to:",
+            "1) tip subjekta registracije;",
+            "2) identifikacioni broj subjekta registracije.",
+            "Unos podatka o tipu subjekta registracije iz stava 1.\r\ntačka 1) ovog člana vrši se odabirom jednog od ponuđenih tipova iz\r\npadajuće liste tipova subjekata registracije, i to:",
+            "1) privredno društvo;",
+            "2) preduzetnik;",
+            "3) udruženje;",
+            "4) stečajna masa;",
+            "5) fondacija/zadužbina;",
+            "6) sportsko udruženje;",
+            "7) komora;",
+            "8) korisnik javnih sredstava;",
+            "9) drugo.",
+            "Identifikacioni broj subjekta registracije iz stava\r\n1. tačka 2) ovog člana je broj koji odgovara određenom tipu subjekta\r\nregistracije, i to:",
+            "1) matični broj privrednog subjekta upisan u Registar\r\nprivrednih subjekata Agencije za privredne registre za odabrano\r\nprivredno društvo, preduzetnika, udruženje, stečajnu masu,\r\nfondaciju/zadužbinu, sportsko udruženje ili komoru;",
+            "2) PIB za odabran tip subjekta registracije \"drugo\";",
+            "3) JBKJS za odabranog korisnika javnih sredstava, osim\r\nkorisnika javnih sredstava koji pripada tipu osam korisnika javnih\r\nsredstava u skladu sa propisima kojima se uređuje budžetski sistem."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_4"
+    },
+    {
+        "title": "Član 5",
+        "texts": [
+            "Lice koje postane subjekt javnog sektora, odnosno\r\nsubjekt privatnog sektora registruje se po automatizmu, ukoliko se pre\r\nautomatske registracije nije registrovalo u sistem elektronskih\r\nfaktura."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_5"
+    },
+    {
+        "title": "Član 6",
+        "texts": [
+            "Subjekt registracije postaje korisnik sistema elektronskih faktura danom registracije.",
+            "III NAČIN PRISTUPANJA I KORIŠĆENJA SISTEMA ELEKTRONSKIH FAKTURA"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_6"
+    },
+    {
+        "title": "Član 7",
+        "texts": [
+            "Korisnik sistema elektronskih faktura može da\r\npristupi i koristi sistem elektronskih faktura neposredno, odnosno\r\npreko informacionog posrednika u skladu sa Zakonom i ovim pravilnikom."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_7"
+    },
+    {
+        "title": "Član 8",
+        "texts": [
+            "Ako se korisnik sistema elektronskih faktura opredeli\r\nza neposredno pristupanje i korišćenje sistema elektronskih faktura,\r\nkorisnik sistema elektronskih faktura može:",
+            "1) kreirati podatke za autentikaciju pristupa i korišćenja putem aplikativnog interfejsa;",
+            "2) odrediti ovlašćena lica za pristup i korišćenje putem korisničkog interfejsa.",
+            "Za korisnika sistema elektronskih faktura iz stava 1.\r\novog člana omogućena su dva tehnička rešenja za pristupanje i\r\nkorišćenje sistema elektronskih faktura, i to:",
+            "1) putem korisničkog interfejsa, kada ovlašćeno lice\r\nputem internet pretraživača može da vrši kreiranje i izdavanje\r\nelektronskih faktura i/ili prihvatanje i odbijanje elektronskih faktura\r\ni elektronsko evidentiranje poreza na dodatu vrednost (u daljem tekstu:\r\nPDV) u ime korisnika sistema elektronskih faktura u okviru svojih\r\novlašćenja;",
+            "2) putem aplikativnog interfejsa (eng. API -\r\nApplication Programming Interface) koji omogućava povezivanje sa\r\nsoftverskim sistemom korisnika sistema elektronskih faktura i vršenje\r\nradnji navedenih u tački 1) ovog stava."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_8"
+    },
+    {
+        "title": "Član 9",
+        "texts": [
+            "Ako se korisnik sistema elektronskih faktura opredeli\r\nza pristupanje i korišćenje sistema elektronskih faktura preko\r\ninformacionog posrednika, korisnik sistema elektronskih faktura preko\r\nodgovarajuće opcije korisničkog interfejsa:",
+            "1) vrši odabir informacionog posrednika iz padajuće\r\nliste informacionih posrednika, sa kojim je prethodno zaključio ugovor\r\nu skladu sa Zakonom;",
+            "2) opredeljuje se da li će izdate i primljene\r\nelektronske fakture čuvati u sistemu informacionog posrednika ili u\r\nsistemu elektronskih faktura, ako je korisnik sistema elektronskih\r\nfaktura subjekt privatnog sektora.",
+            "Informacioni posrednik iz stava 1. ovog člana\r\nprihvata odabir korisnika sistema elektronskih faktura i korisniku\r\nsistema elektronskih faktura omogućava da korišćenjem njegovog\r\ntehničkog rešenja pristupi i koristi sistem elektronskih faktura.",
+            "Korisnik sistema elektronskih faktura ne može istovremeno imati više od jednog informacionog posrednika.",
+            "Korisnik sistema elektronskih faktura iz stava 1.\r\novog člana može da promeni opredeljenje u vezi sa pristupanjem i\r\nkorišćenjem sistema elektronskih faktura i da se opredeli za neposredan\r\npristup i korišćenje sistema elektronskih faktura.",
+            "Korisnik sistema elektronskih faktura iz stava 2.\r\novog člana može vršiti uvid u izdate i primljene elektronske fakture i\r\nneposrednim pristupom sistemu."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_9"
+    },
+    {
+        "title": "Član 9a",
+        "texts": [
+            "U sistemu elektronskih faktura korisnik sistema\r\nelektronskih faktura opredeljuje status subjekta u Zakonom propisanom\r\nroku, i to:",
+            "1) obveznik PDV, ako je subjekt obveznik PDV u skladu sa ZPDV;",
+            "2) nije obveznik PDV, ako subjekt nije obveznik PDV u skladu sa ZPDV.",
+            "Subjekt iz stava 1. tačka 1) ovog člana iskazuje\r\npodatak o datumu otpočinjanja PDV aktivnosti i opredeljuje poreski\r\nperiod za koji podnosi poresku prijavu PDV u skladu sa ZPDV, i to:",
+            "1) kalendarski mesec;",
+            "2) kalendarsko tromesečje.",
+            "Ako više korisnika sistema elektronskih faktura\r\nposluje pod istim PIB-om, zakonski zastupnik poreskog obveznika\r\nobaveštava Centralnog informacionog posrednika koji od tih korisnika\r\nmože da opredeli status subjekta iz stava 1. ovog člana.",
+            "Ako dođe do promene statusa subjekta iz stava 1. ovog\r\nčlana, odnosno promene poreskog perioda iz stava 2. ovog člana,\r\nkorisnik sistema elektronskih faktura usklađuje status subjekta u\r\nZakonom propisanom roku.",
+            "Podatak o datumu otpočinjanja PDV aktivnosti iz stava\r\n2. ovog člana je podatak o datumu otpočinjanja PDV aktivnosti u skladu\r\nsa ZPDV, a ako je obveznik PDV više puta otpočinjao PDV aktivnost,\r\npodatak o datumu otpočinjanja PDV aktivnosti je podatak o poslednjem\r\ndatumu otpočinjanja PDV aktivnosti."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_9a"
+    },
+    {
+        "title": "Član 9b",
+        "texts": [
+            "Lista carinskih deklaracija sačinjava se u sistemu elektronskih faktura automatski, na osnovu carinskih deklaracija i druge dokumentacije koja se odnosi na carinjenje uvezenih, odnosno dopremljenih dobara stavljenih u slobodan promet u skladu sa carinskim propisima (u daljem tekstu: lista carinskih deklaracija).",
+            "Lista carinskih deklaracija omogućava korisniku sistema elektronskih faktura uvid u podatke iz carinskih deklaracija i podatke koji se odnose na carinjenje dobara iz stava 1. ovog člana.",
+            "Lista carinskih deklaracija sadrži podatke o:",
+            "1) godini;",
+            "2) šifri carinske ispostave kojoj je podneta jedinstvena carinska isprava (deklaracija);",
+            "3) vrsti isprave;",
+            "4) broju carinskog računa;",
+            "5) broju jedinstvene carinske isprave (deklaracije);",
+            "6) PIB-u podnosioca deklaracije;",
+            "7) dažbinama;",
+            "8) datumu prihvatanja deklaracije,",
+            "9) datumu informacije o carinjenju;",
+            "10) datumu poslednje verzije carinske deklaracije;",
+            "11) ukupnom broju naimenovanja po deklaraciji.",
+            "Korisniku sistema elektronskih faktura omogućen je i uvid u podatke o pojedinačnom uvozu, odnosno dopremanju dobara iz stava 1. ovog člana, po celinama:",
+            "1) podaci o uvozu, odnosno dopremanju;",
+            "2) obračun dažbina;",
+            "3) evidencija plaćanja.",
+            "Podaci o uvozu, odnosno dopremanju iz stava 4. tačka 1) ovog člana odnose se naročito na broj jedinstvene carinske isprave (deklaracije), datum informacije o carinjenju, datum prihvatanja deklaracije, verziju, status i datum poslednje verzije deklaracije, PIB primaoca i PIB podnosioca deklaracije.",
+            "Podaci o obračunu dažbina iz stava 4. tačka 2) ovog člana odnose se naročito na broj računa, vrstu isprave, vrstu i iznos dažbine (PDV, akciza i dr.), ukupan iznos dažbina i ukupan iznos PDV.",
+            "Evidencija plaćanja iz stava 4. tačka 3) ovog člana odnosi se na broj jedinstvene carinske isprave (deklaracije), PIB uplatioca, datum uplate, iznos uplate, iznos plaćenog PDV, iznos ukupno plaćenog PDV, preostala zaduženja - PDV, preostala zaduženja - ostale dažbine i ukupna preostala zaduženja.",
+            "IV NAČIN PRIMENE STANDARDA ELEKTRONSKOG FAKTURISANJA"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_9b"
+    },
+    {
+        "title": "Član 10",
+        "texts": [
+            "Srpski standard elektronskog fakturisanja (SRPS EN\r\n16931-1:2019/A2:2020) u smislu člana 6. stav 1. Zakona zasnovan je na\r\nevropskom standardu elektronskog fakturisanja (EN\r\n16931-1:2017+A1:2019/AC:2020) koji je harmonizovan sa Direktivom\r\nEvropske unije br. 2014/55/EU od 16. aprila 2014. godine o elektronskom\r\nfakturisanju u javnim nabavkama i podrazumeva format faktura zasnovan\r\nna UBL (eng. UBL - Universal Business Language) strukturi, a utvrđen od\r\nstrane Instituta za standardizaciju Srbije.",
+            "Evropski standard elektronskog fakturisanja utvrđuje Evropski komitet za standardizaciju na zahtev Evropske komisije.",
+            "U smislu propisa o elektronskom fakturisanju primenjuje se srpski standard elektronskog fakturisanja iz stava 1. ovog člana.",
+            "U slučaju izmene srpskog standarda elektronskog\r\nfakturisanja iz stava 1. ovog člana, datum početka primene izmene ovog\r\nstandarda za svrhu primene propisa o elektronskom fakturisanju utvrđuje\r\nse ovim pravilnikom.",
+            "V ELEMENTI ELEKTRONSKE FAKTURE I PRILOZI ELEKTRONSKOJ FAKTURI"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_10"
+    },
+    {
+        "title": "Član 11",
+        "texts": [
+            "Sistem elektronskih faktura procesuira elektronsku fakturu, i to:",
+            "1) fakturu;",
+            "2) avansnu fakturu;",
+            "3) dokument o povećanju;",
+            "4) dokument o smanjenju.",
+            "Fakturom, u smislu stava 1. tačka 1) ovog člana, smatra se faktura koja se izdaje:",
+            "1) po osnovu izvršenog prometa dobara, odnosno usluga;",
+            "2) za usluge iz člana 16. tačka 2a) ZPDV pre prijema\r\navansa i izvršenog prometa, odnosno posle prijema avansa, a pre\r\nizvršenog prometa;",
+            "3) zahtev za isplatu ka subjektu javnog sektora iz člana 3. stav 1. tač. 2), 4) i 5) Zakona;",
+            "4) drugi zahtev za isplatu, nezavisno od toga da li\r\npo osnovu zahteva za isplatu postoji obaveza izdavanja elektronske\r\nfakture u skladu sa Zakonom ili ova obaveza Zakonom nije propisana.",
+            "Zahtevom za isplatu iz stava 2. tačka 3) ovog člana\r\nsmatra se zahtev za isplatu na osnovu kojeg dolazi do prenosa novčanih\r\nsredstava podnosiocu zahteva, u skladu sa propisima kojima se uređuju\r\nobligacioni odnosi (npr. zahtev za isplatu naknade štete, ugovorne\r\nkazne, sredstava obezbeđenja, kamate za neblagovremeno plaćanje, prenos\r\nvišenamenskih vrednosnih vaučera i dr.).",
+            "Avansnom fakturom, u smislu stava 1. tačka 2) ovog\r\nčlana, smatra se faktura koja se izdaje po osnovu primljenog avansa za\r\nbudući promet dobara, odnosno usluga.",
+            "Avansom u smislu stava 4. ovog člana ne smatraju se\r\nnovčana sredstva primljena na dan izvršenog prometa, odnosno posle\r\nizvršenog prometa.",
+            "Dokumentom o povećanju, u smislu stava 1. tačka 3)\r\novog člana, smatra se dokument koji se izdaje po osnovu povećanja\r\nnaknade, odnosno osnovice za obračunavanje PDV (u daljem tekstu:\r\nosnovica) za izvršeni promet dobara, odnosno usluga u skladu sa ZPDV.",
+            "Dokumentom o smanjenju, u smislu stava 1. tačka 4)\r\novog člana, smatra se dokument koji se izdaje po osnovu smanjenja\r\nnaknade, odnosno osnovice za izvršeni promet dobara, odnosno usluga,\r\nuključujući i dokument koji se izdaje po osnovu smanjenja avansa, u\r\nskladu sa ZPDV."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_11"
+    },
+    {
+        "title": "Član 12",
+        "texts": [
+            "Sistem elektronskih faktura procesuira elektronsku fakturu koja minimalno sadrži:",
+            "1) naziv, adresu i PIB izdavaoca, kao i JBKJS\r\nizdavaoca ukoliko je izdavalac korisnik javnih sredstava, osim\r\nkorisnika javnih sredstava koji pripada tipu osam korisnika javnih\r\nsredstava u skladu sa propisima kojima se uređuje budžetski sistem;",
+            "2) naziv, adresu i PIB primaoca, kao i JBKJS primaoca\r\nukoliko je primalac korisnik javnih sredstava, osim korisnika javnih\r\nsredstava koji pripada tipu osam korisnika javnih sredstava u skladu sa\r\npropisima kojima se uređuje budžetski sistem;",
+            "3) redni broj i datum izdavanja elektronske fakture;",
+            "4) poresku kategoriju;",
+            "5) datum avansne uplate, ukoliko se radi o avansnoj\r\nfakturi, odnosno datum prometa dobara, odnosno usluga, ukoliko se radi\r\no elektronskoj fakturi za izvršeni promet dobara, odnosno usluga;",
+            "6) dan nastanka poreske obaveze u skladu sa ZPDV;",
+            "7) šifru, odnosno naziv dobra ili usluge, količinu i\r\njedinicu mere za isporučena dobra ili obim pruženih usluga za svaku\r\nstavku elektronske fakture, odnosno opis zahteva za isplatu;",
+            "8) jediničnu cenu dobra, odnosno usluge;",
+            "9) iznos osnovice;",
+            "10) poresku stopu PDV;",
+            "11) iznos PDV koji je obračunat na osnovicu;",
+            "12) iznos avansne uplate i osnov za avansnu uplatu, ukoliko se radi o avansnoj fakturi;",
+            "13) iznos naknade u slučaju kada se ne obračunava PDV;",
+            "14) ukupan iznos;",
+            "14a) šifru za primenu određene poreske kategorije;",
+            "15)  broj odluke, odnosno potvrde nadležnog organa ako se na osnovu odluke, odnosno potvrde ostvaruje poresko oslobođenje;",
+            "16) napomenu da se za promet dobara i usluga primenjuje sistem naplate;",
+            "17) broj dokumenta koji prethodi izdavanju\r\nelektronske fakture (okvirni sporazum, ugovor, narudžbenica, ponuda i\r\ndr.), u slučaju kada se elektronska faktura izdaje subjektu javnog\r\nsektora.",
+            "Elektronska faktura za izvršeni promet dobara,\r\nodnosno usluga, za koji je u potpunosti ili delimično izvršeno avansno\r\nplaćanje, sadrži i redni broj i datum avansne fakture, kao i podatke o\r\niznosu za koji se po osnovu avansa umanjuje iznos naknade, osnovice i\r\nPDV za izvršeni promet dobara, odnosno usluga.",
+            "Podatak o jediničnoj ceni dobra, odnosno usluge u\r\nstavkama elektronske fakture može biti iskazan sa više od dve decimale,\r\ndok podaci o ostalim iznosima mogu biti iskazani sa najviše dve\r\ndecimale.",
+            "Podaci iz stava 3. ovog člana iskazuju se u dinarima,\r\nosim u slučaju kada se naplata vrši u stranoj valuti kada se podaci\r\niskazuju u valuti u kojoj se vrši naplata.",
+            "Ako se naplata vrši u stranoj valuti, podaci o\r\nukupnom iznosu naknade (za transakciju za koju ne postoji obaveza\r\nobračunavanja PDV), osnovice i PDV iskazuju se i u dinarima."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_12"
+    },
+    {
+        "title": "Član 13",
+        "texts": [
+            "Poreske kategorije iz člana 12. stav 1. tačka 4) ovog\r\npravilnika u elektronskoj fakturi označavaju se slovnim oznakama kojima\r\nse određuje PDV tretman transakcije, odnosno čijom se upotrebom\r\nomogućava tačno iskazivanje ukupnog iznosa transakcije za koju se\r\nizdaje elektronska faktura.",
+            "Slovne oznake poreskih kategorija iz stava 1. ovog člana su:",
+            "1) S20 - Standardno obračunavanje PDV po stopi od 20%;",
+            "2) S10 - Standardno obračunavanje PDV po stopi od 10%;",
+            "2a) AE20 - Obrnuto obračunavanje PDV po stopi od 20%;",
+            "2b) AE10 - Obrnuto obračunavanje PDV po stopi od 10%;",
+            "3) Z - Poresko oslobođenje sa pravom na odbitak prethodnog poreza;",
+            "4) E - Poresko oslobođenje bez prava na odbitak prethodnog poreza;",
+            "5) R - Izuzimanje od PDV;",
+            "6) O - Nije predmet oporezivanja PDV;",
+            "7) OE - Nije predmet oporezivanja PDV 2;",
+            "8) SS - Posebni postupci oporezivanja;",
+            "9) N - Anuliranje.",
+            "U elektronskoj fakturi mogu da se iskažu podaci o\r\nrazličitim transakcijama koje imaju različite poreske kategorije, a u\r\nokviru jedne poreske kategorije podaci o transakcijama koje imaju\r\nnajviše jednu šifru iz člana 12. stav 1. tačka 14a) ovog pravilnika.",
+            "Izuzetno od stava 3. ovog člana, u elektronskoj\r\nfakturi koja se izdaje za promet objekata, ekonomski deljivih celina u\r\nokviru tih objekata i vlasničkih udela na tim dobrima određenih\r\npropisima kojima se uređuje PDV (u daljem tekstu: građevinski objekti),\r\nnezavisno od toga da li postoji obaveza obračunavanja PDV, stope PDV po\r\nkojoj se obračunava PDV i da li je poreski dužnik isporučilac ili\r\nprimalac dobara u skladu sa ZPDV, ne mogu se iskazati podaci o drugim\r\ntransakcijama.",
+            "Ako se izdaje elektronska faktura sa poreskim\r\nkategorijama koje su označene slovnim oznakama iz stava 2. tač. 1) i 2)\r\novog člana, izdavalac elektronske fakture koji vrši prvi prenos prava\r\nraspolaganja na novoizgrađenim građevinskim objektima, ekonomski\r\ndeljivim celinama u okviru tih objekata i vlasničkim udelima na tim\r\ndobrima određenih propisima kojima se uređuje PDV (u daljem tekstu:\r\nprvi prenos prava raspolaganja na novoizgrađenim građevinskim\r\nobjektima) unosi podatak o šifri za primenu poreske kategorije.",
+            "Ako se izdaje elektronska faktura sa poreskim\r\nkategorijama koje su označene slovnim oznakama iz stava 2. tač. 2a)-9)\r\novog člana, izdavalac elektronske fakture unosi podatak o šifri za\r\nprimenu poreske kategorije.",
+            "Šifre za primenu poreskih kategorija iz st. 5. i 6.\r\novog člana određene su internim tehničkim uputstvom koje se objavljuje\r\nna internet stranici Ministarstva finansija i koje sadrži tehnička\r\nobjašnjenja za rad u sistemu.",
+            "Ako se izdaje elektronska faktura sa odgovarajućom poreskom kategorijom, iznos koji se ne naplaćuje (u novcu, dobrima, odnosno uslugama) iskazuje se upotrebom poreske kategorije N uz unos podatka o šifri za primenu te poreske kategorije (npr. za promet za koji postoji obaveza plaćanja poreza po odbitku u skladu sa zakonom)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_13"
+    },
+    {
+        "title": "Član 14",
+        "texts": [
+            "Ukoliko elektronska faktura predstavlja dokument o\r\npovećanju, odnosno smanjenju, kao tip dokumenta koji se nužno vezuje za\r\njednu ili više drugih elektronskih faktura, drugih računa, odnosno\r\njedne avansne fakture ili jednog avansnog računa, ta elektronska\r\nfaktura naročito sadrži:",
+            "1) naziv, adresu i PIB izdavaoca, kao i JBKJS\r\nizdavaoca ukoliko je izdavalac korisnik javnih sredstava, osim\r\nkorisnika javnih sredstava koji pripada tipu osam korisnika javnih\r\nsredstava u skladu sa propisima kojima se uređuje budžetski sistem;",
+            "2) naziv, adresu i PIB primaoca, kao i JBKJS primaoca\r\nukoliko je primalac korisnik javnih sredstava, osim korisnika javnih\r\nsredstava koji pripada tipu osam korisnika javnih sredstava u skladu sa\r\npropisima kojima se uređuje budžetski sistem;",
+            "3) redni broj, datum povećanja, odnosno smanjenja i datum izdavanja dokumenta o povećanju, odnosno smanjenju;",
+            "4) iznosu povećanja (naknada, osnovica i PDV), odnosno smanjenja (naknada, osnovica, avans i PDV);",
+            "5) broj elektronske fakture ili drugog računa,\r\nodnosno datum početka i datum završetka vremenskog perioda u kojem su\r\nizdate elektronske fakture, odnosno drugi računi, u slučaju da se\r\nizmena vrši za sve elektronske fakture, odnosno druge račune izdate\r\njednom primaocu u tom vremenskom periodu;",
+            "6) broj avansne fakture, odnosno drugog avansnog računa u slučaju smanjenja avansa.",
+            "Podaci o naknadi, osnovici, avansu i PDV iskazuju se u zavisnosti od vrste transakcije."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_14"
+    },
+    {
+        "title": "Član 15",
+        "texts": [
+            "Pored podataka iz čl. 12. i 14. ovog pravilnika,\r\nelektronska faktura može da sadrži i druge podatke u skladu sa ZPDV,\r\nodnosno drugim propisima kojima se uređuje izdavanje određenih vrsta\r\nfaktura, kao i druge podatke koji su od značaja za izdavaoca, primaoca\r\nili druge zainteresovane strane.",
+            "Uz elektronsku fakturu može se priložiti\r\ndokumentacija koja je od značaja za izdavaoca, primaoca ili druge\r\nzainteresovane strane (npr. privremene situacije, specifikacije,\r\nobračuni, otpremnice, prevozna dokumenta)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_15"
+    },
+    {
+        "title": "Član 16",
+        "texts": [
+            "Elektronsku fakturu koja je primljena preko sistema elektronskih faktura izdavalac može da stornira, osim ako zakonom nije drukčije propisano.",
+            "VI NAČIN I POSTUPAK ELEKTRONSKOG EVIDENTIRANJA OBRAČUNA POREZA NA DODATU VREDNOST U SISTEMU ELEKTRONSKIH FAKTURA"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_16"
+    },
+    {
+        "title": "Član 17",
+        "texts": [
+            "Elektronsko evidentiranje obračuna PDV u sistemu\r\nelektronskih faktura vrši poreski dužnik u skladu sa ZPDV (u daljem\r\ntekstu: poreski dužnik) po osnovu nastanka, odnosno korekcije poreske\r\nobaveze u skladu sa ZPDV, i to:",
+            "1) obveznik PDV;",
+            "2) lice koje nije obveznik PDV, a koje je subjekt javnog sektora ili dobrovoljni korisnik sistema elektronskih faktura.",
+            "Izuzetno od stava 1. ovog člana, obavezu elektronskog evidentiranja obračuna PDV nema:",
+            "1) obveznik PDV za izvršeni promet dobara i usluga, uključujući i primljeni avans za taj promet, za koji postoji obaveza izdavanja elektronske fakture sa iskazanim PDV u skladu sa Zakonom, sa izuzetkom obveznika PDV koji primenjuje sistem naplate u skladu sa ZPDV za iznos PDV iskazanog u elektronskoj fakturi za koji ne nastaje poreska obaveza za poreski period na koji se odnosi elektronska faktura;",
+            "2) poreski dužnik za uvoz dobara."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_17"
+    },
+    {
+        "title": "Član 18",
+        "texts": [
+            "Elektronsko evidentiranje obračuna PDV, uključujući povećanje, odnosno smanjenje, vrši se zbirno, odnosno pojedinačno za poreski period, po isteku poreskog perioda, zaključno sa 12. danom kalendarskog meseca koji sledi poreskom periodu za koji se vrši evidentiranje obračuna PDV.",
+            "Izuzetno od stava 1. ovog člana, pojedinačno elektronsko evidentiranje obračuna PDV može se vršiti i u toku poreskog perioda.",
+            "Elektronsko evidentiranje obračuna PDV vrši se unosom određenih podataka u odgovarajući interfejs sistema elektronskih faktura, i to:",
+            "1) Zbirna evidencija PDV;",
+            "2) Pojedinačna evidencija PDV.",
+            "Pojedinačna evidencija PDV odnosi se na evidentiranje podataka o nabavkama, odnosno isporukama u skladu sa Zakonom.",
+            "Podaci u Zbirnoj evidenciji PDV i Pojedinačnoj evidenciji PDV iskazuju se u dinarima, sa najviše dve decimale."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_18"
+    },
+    {
+        "title": "Član 19",
+        "texts": [
+            "Zbirna evidencija PDV sadrži podatke o:",
+            "1) broju Zbirne evidencije PDV, statusu i datumu evidentiranja;",
+            "2) godini, poreskom periodu (mesec ili tromesečje) i periodu (konkretan mesec ili tromesečje);",
+            "3) avansu za promet, i to:",
+            "(1) avansu za promet po stopi od 20% (iznos avansne uplate, osnovica i obračunati PDV),",
+            "(2) avansu za promet po stopi od 10% (iznos avansne uplate, osnovica i obračunati PDV);",
+            "4) prometu uz naknadu, i to:",
+            "(1) prometu po stopi od 20% (osnovica i obračunati PDV),",
+            "(2) prometu po stopi od 10% (osnovica i obračunati PDV);",
+            "5) prometu bez naknade, i to:",
+            "(1) prometu po stopi od 20% (osnovica i obračunati PDV),",
+            "(2) prometu po stopi od 10% (osnovica i obračunati PDV);",
+            "6) posebnim postupcima oporezivanja koji se odnose na:",
+            "(1) turističke usluge (osnovica za\r\npromet po stopi od 20%, obračunati PDV po stopi od 20%, osnovica -\r\navans po stopi od 20% i obračunati PDV - avans po stopi od 20%);",
+            "(2)\r\npolovna dobra, umetnička dela, kolekcionarska dobra i antikviteti\r\n(osnovica za promet po stopi od 20%, obračunati PDV po stopi od 20%,\r\nosnovica - avans po stopi od 20%, obračunati PDV - avans po stopi od\r\n20%, osnovica za promet po stopi od 10%, obračunati PDV po stopi od\r\n10%, osnovica - avans po stopi od 10% i obračunati PDV - avans po stopi\r\nod 10%);",
+            "7) povećanju/smanjenju osnovice, odnosno PDV - poreski dužnik isporučilac, i to:",
+            "(1) povećanju osnovice, odnosno PDV\r\n(povećanje osnovice za promet po stopi od 20%, povećanje PDV za promet\r\npo stopi od 20%, povećanje osnovice za promet po stopi od 10% i\r\npovećanje PDV za promet po stopi od 10%),",
+            "(2)\r\nsmanjenju osnovice, odnosno PDV (smanjenje osnovice za promet po stopi\r\nod 20%, smanjenje PDV za promet po stopi od 20%, smanjenje osnovice za\r\npromet po stopi od 10%, smanjenje PDV za promet po stopi od 10%,\r\nsmanjenje osnovice - avans po stopi od 20%, smanjenje PDV - avans po\r\nstopi od 20%, smanjenje osnovice - avans po stopi od 10% i smanjenje\r\nPDV - avans po stopi od 10%,);",
+            "8) povećanju/smanjenju osnovice, odnosno PDV - poreski dužnik primalac, i to:",
+            "(1) povećanju osnovice, odnosno PDV\r\n(povećanje osnovice za promet po stopi od 20%, povećanje PDV za promet\r\npo stopi od 20%, povećanje osnovice za promet po stopi od 10% i\r\npovećanje PDV za promet po stopi od 10%),",
+            "(2)\r\nsmanjenju osnovice, odnosno PDV (smanjenje osnovice za promet po stopi\r\nod 20%, smanjenje PDV za promet po stopi od 20%, smanjenje osnovice za\r\npromet po stopi od 10%, smanjenje PDV za promet po stopi od 10%,\r\nsmanjenje osnovice - avans po stopi od 20%, smanjenje PDV - avans po\r\nstopi od 20%, smanjenje osnovice - avans po stopi od 10% i smanjenje\r\nPDV - avans po stopi od 10%);",
+            "9) storniranju - poreski dužnik isporučilac, na osnovu kojeg dolazi do:",
+            "(1) povećanja osnovice, odnosno PDV\r\n(povećanje osnovice za promet po stopi od 20%, povećanje PDV za promet\r\npo stopi od 20%, povećanje osnovice za promet po stopi od 10% i\r\npovećanje PDV za promet po stopi od 10%),",
+            "(2)\r\nsmanjenja osnovice, odnosno PDV (smanjenje osnovice za promet po stopi\r\nod 20%, smanjenje PDV za promet po stopi od 20%, smanjenje osnovice za\r\npromet po stopi od 10%, smanjenje PDV za promet po stopi od 10%,\r\nsmanjenje osnovice - avans po stopi od 20%, smanjenje PDV - avans po\r\nstopi od 20%, smanjenje osnovice - avans po stopi od 10% i smanjenje\r\nPDV - avans po stopi od 10%).",
+            "10) storniranju - poreski dužnik primalac, na osnovu kojeg dolazi do:",
+            "(1) povećanja osnovice, odnosno PDV\r\n(povećanje osnovice za promet po stopi od 20%, povećanje PDV za promet\r\npo stopi od 20%, povećanje osnovice za promet po stopi od 10% i\r\npovećanje PDV za promet po stopi od 10%),",
+            "(2)\r\nsmanjenja osnovice, odnosno PDV (smanjenje osnovice za promet po stopi\r\nod 20%, smanjenje PDV za promet po stopi od 20%, smanjenje osnovice za\r\npromet po stopi od 10%, smanjenje PDV za promet po stopi od 10%,\r\nsmanjenje osnovice - avans po stopi od 20%, smanjenje PDV - avans po\r\nstopi od 20%, smanjenje osnovice - avans po stopi od 10% i smanjenje\r\nPDV - avans po stopi od 10%).",
+            "Podaci iz stava 1. tačka 10) ovog člana iskazuju se na osnovu podataka iz pojedinačnih evidencija PDV koje su u statusu: poništeno, a koje su sačinjene za isti poreski period za koji se sačinjava zbirna evidencija PDV.",
+            "Podaci iz stava 1. tač. 3)-10) ovog člana iskazuju se\r\n  zbirno za sve promete i druge transakcije u poreskom periodu, osim za\r\n  one za koje je, u skladu sa Zakonom, propisana obaveza pojedinačnog\r\n  elektronskog evidentiranja obračuna PDV."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_19"
+    },
+    {
+        "title": "Član 20",
+        "texts": [
+            "Pojedinačna evidencija PDV, koja se odnosi na nabavke, a koja se sačinjava po osnovu prometa dobara i usluga za koji je primalac dobara i usluga poreski dužnik u skladu sa ZPDV, datog avansa za taj promet, povećanja i smanjenja, sadrži podatke o:",
+            "1) broju Pojedinačne evidencije PDV, statusu i datumu evidentiranja;",
+            "2) godini, poreskom periodu (mesec ili tromesečje) i periodu (konkretan mesec ili tromesečje);",
+            "3) identifikatoru lica koje vrši promet (PIB/PIB i JBKJS/Poreski broj stranog lica);",
+            "4) tipu i broju dokumenta (Interni račun - strano\r\nlice, odnosno Interni račun - obveznik PDV određen propisima kojima se\r\nkojima se uređuje PDV);",
+            "5) osnovu odabira dokumenta (promet, avans, povećanje, odnosno smanjenje);",
+            "6) povezanom internom računu;",
+            "7) datumu avansa i osnovu za avansno plaćanje kod osnova odabira dokumenta avans;",
+            "8) prometu po stopi od 20% (uz naknadu, odnosno bez\r\nnaknade), povećanju/smanjenju naknade, avansu i smanjenju avansa za taj\r\npromet (opis, osnovica i obračunati PDV), osim o prometu građevinskih\r\nobjekata, sa oznakom \"AE20, osim OBJ\";",
+            "9) prometu po stopi od 20% građevinskih objekata (uz\r\nnaknadu, odnosno bez naknade), povećanju/smanjenju naknade, avansu i\r\nsmanjenju avansa za taj promet (opis, osnovica i obračunati PDV), sa\r\noznakom \"AE20-OBJ\";",
+            "10) prometu po stopi od 10% (uz naknadu, odnosno bez\r\nnaknade), povećanju/smanjenju naknade, avansu i smanjenju avansa za taj\r\npromet (opis, osnovica i obračunati PDV), osim o prometu građevinskih\r\nobjekata, sa oznakom \"AE10, osim OBJ\";",
+            "11) prometu po stopi od 10% građevinskih objekata (uz\r\nnaknadu, odnosno bez naknade), povećanju/smanjenju naknade, avansu i\r\nsmanjenju avansa za taj promet (opis, osnovica i obračunati PDV), sa\r\noznakom \"AE10-OBJ\";",
+            "12) ukupno obračunatom PDV.",
+            "Podaci iz stava 1. tač. 8)-12) ovog člana iskazuju se\r\npo svakom dokumentu iz stava 1. tačka 4) ovog člana, koji može da\r\nsadrži jednu ili više stavki."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_20"
+    },
+    {
+        "title": "Član 20a",
+        "texts": [
+            "Pojedinačna evidencija PDV, koja se odnosi na isporuke, sačinjava se po osnovu:",
+            "1) prometa dobara i usluga koji se vrši uz naknadu obvezniku poreza na prihod od samostalne delatnosti u smislu zakona kojim se uređuje porez na dohodak građana i obvezniku poreza na dobit pravnih lica u smislu zakona kojim se uređuje porez na dobit pravnih lica za koji je isporučilac dobara, odnosno pružalac usluga poreski dužnik u skladu sa ZPDV, primljenog avansa za taj promet, povećanja i smanjenja, osim po osnovu:",
+            "(1) prometa turističkih agencija na koji se primenjuje poseban postupak oporezivanja u skladu sa ZPDV, primljenog avansa za taj promet, povećanja i smanjenja,",
+            "(2) prometa polovnih dobara, umetničkih dela, kolekcionarskih dobara i antikviteta na koji se primenjuje poseban postupak oporezivanja u skladu sa ZPDV, primljenog avansa za taj promet, povećanja i smanjenja;",
+            "(3) prometa na malo u skladu sa zakonom kojim se uređuje fiskalizacija, primljenog avansa za taj promet, povećanja i smanjenja;",
+            "2) prvog prenosa prava raspolaganja na novoizgrađenim građevinskim objektima, ekonomski deljivim celinama u okviru tih objekata i vlasničkih udela na tim dobrima, određenih ZPDV, primljenog avansa za taj promet, povećanja i smanjenja, nezavisno od toga da li je reč o prometu na malo ili o prometu koji se ne smatra prometom na malo u skladu sa zakonom kojim se uređuje fiskalizacija.",
+            "Podaci o transakcijama za koje su propisani izuzeci od obaveze sačinjavanja Pojedinačne evidencije PDV u skladu sa stavom 1. ovog člana iskazuju se u Zbirnoj evidenciji PDV u skladu sa ovim pravilnikom.",
+            "Pojedinačna evidencija PDV, koja se odnosi na isporuke, sadrži podatke o:",
+            "1) broju Pojedinačne evidencije PDV, statusu i datumu evidentiranja;",
+            "2) godini, poreskom periodu (mesec ili tromesečje) i periodu (konkretan mesec ili tromesečje);",
+            "3) identifikatoru lica kojem se vrši promet (PIB/PIB i JBKJS);",
+            "4) tipu i broju dokumenta (faktura za promet dobara, odnosno usluga, dokument o povećanju, dokument o smanjenju i avansna faktura);",
+            "5) povezanom dokumentu;",
+            "6) datumu avansa i osnovu za avansno plaćanje kod avansne fakture;",
+            "7) prometu po stopi od 20%, povećanju/smanjenju naknade, avansu i smanjenju avansa za taj promet (opis, osnovica i obračunati PDV), sa oznakom \"S20\";",
+            "8) prometu po stopi od 20% građevinskih objekata (uz naknadu, odnosno bez naknade), povećanju/smanjenju naknade, avansu i smanjenju avansa za taj promet (opis, osnovica i obračunati PDV), sa oznakom \"S20-PDV-RS-OBJ\";",
+            "9) prometu po stopi od 10%, povećanju/smanjenju naknade, avansu i smanjenju avansa za taj promet (opis, osnovica i obračunati PDV), sa oznakom \"S10\";",
+            "10) prometu po stopi od 10% građevinskih objekata (uz naknadu, odnosno bez naknade), povećanju/smanjenju naknade, avansu i smanjenju avansa za taj promet (opis, osnovica i obračunati PDV), sa oznakom \"S10-PDV-RS-OBJ\";",
+            "11) ukupno obračunatom PDV.",
+            "Podaci iz stava 3. tač. 7)-11) ovog člana iskazuju se po svakom dokumentu iz stava 3. tačka 4) ovog člana, koji može da sadrži jednu ili više stavki.",
+            "U slučaju transakcija iz stava 3. tač. 8) i 10) ovog člana sa fizičkim licem koje nije obveznik PDV, kao podatak o identifikatoru lica navodi se \"1\" (jedan)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_20a"
+    },
+    {
+        "title": "Član 21",
+        "texts": [
+            "Elektronsko evidentiranje obračuna PDV može se korigovati u slučaju pogrešno ili nepotpuno iskazanih podataka."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_21"
+    },
+    {
+        "title": "Član 22",
+        "texts": [
+            "U slučaju smanjenja osnovice, nezavisno od toga da li je obvezniku PDV izdat dokument o smanjenju (elektronska faktura, fiskalni račun ili drugi dokument), obveznik PDV - izdavalac u Zbirnoj evidenciji PDV za poreski period u kojem je došlo do smanjenja osnovice iskazuje podatke o iznosu za koji je smanjena osnovica u odgovarajućim poljima.",
+            "Smanjenje PDV po osnovu smanjenja osnovice iz stava 1. ovog člana iskazuje se za poreski period u kojem su ispunjeni uslovi za smanjenje PDV, u skladu sa propisima kojima se uređuje PDV (posedovanje obaveštenja obveznika PDV kojem je izvršen promet dobara i usluga da je ispravio odbitak prethodnog poreza, odnosno da obračunati PDV nije koristio kao prethodni porez, uz ispunjenje ostalih uslova).",
+            "Obaveštenje iz stava 2. ovog člana može se izdati preko sistema elektronskih faktura.",
+            "U slučaju smanjenja osnovice, nezavisno od toga da li je licu koje nije obveznik PDV izdat dokument o smanjenju (elektronska faktura, fiskalni račun ili drugi dokument), obveznik PDV - izdavalac u Zbirnoj evidenciji PDV za poreski period u kojem je došlo do smanjenja osnovice iskazuje podatke o iznosu za koji je smanjena osnovica u odgovarajućim poljima.",
+            "Smanjenje PDV po osnovu smanjenja osnovice iz stava 4. ovog člana iskazuje se za poreski period u kojem su ispunjeni uslovi za smanjenje PDV, u skladu sa propisima kojima se uređuje PDV (izdat je dokument o smanjenju, odnosno drugi dokument o smanjenju naknade, potvrđen od strane primaoca dobara i usluga, uz ispunjenje ostalih uslova).",
+            "Dokument iz stava 5. ovog člana može biti potvrđen na samom dokumentu o smanjenju ili izdavanjem posebnog dokumenta koji je poslat elektronskim putem ili na drugi način.",
+            "Potvrđivanje dokumenta iz stava 5. ovog člana ne vrši se preko sistema elektronskih faktura, osim ako je dokument o smanjenju izdat licu koje nije obveznik PDV preko sistema elektronskih faktura, kada se prihvatanjem dokumenta o smanjenju smatra da je taj dokument potvrđen."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_22"
+    },
+    {
+        "title": "Član 23",
+        "texts": [
+            "Kod storniranja elektronske fakture iz člana 11. stav\r\n1. ovog pravilnika i drugih istovrsnih dokumenata koji se ne smatraju\r\nelektronskom fakturom, u Zbirnoj evidenciji PDV iskazuju se podaci o\r\nsmanjenju, odnosno povećanju osnovice i PDV u odgovarajućim poljima, za\r\nodgovarajući poreski period, u skladu sa ovim pravilnikom i propisima\r\nkojima se uređuje PDV."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_23"
+    },
+    {
+        "title": "Član 24",
+        "texts": [
+            "Ako je sačinjena Pojedinačna evidencija PDV sa\r\nosnovom odabira smanjenje, u Zbirnoj evidenciji PDV za poreski period u\r\nkojem je došlo do smanjenja evidentira se iznos za koji je smanjena\r\nosnovica, a za poreski period u kojem su ispunjeni uslovi da poreski\r\ndužnik - primalac dobara, odnosno usluga smanji obračunati PDV u skladu\r\nsa ZPDV, evidentira se iznos za koji je smanjen obračunati PDV, u\r\nodgovarajućim poljima.",
+            "Ako je sačinjena Pojedinačna evidencija PDV po osnovu\r\npovećanja, koja se odnosi na nabavke, odnosno isporuke, u Zbirnoj\r\nevidenciji PDV za poreski period u kojem je došlo do povećanja\r\nevidentira se iznos za koji je povećana osnovica i iznos za koji je\r\npovećan PDV, u odgovarajućim poljima."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_24"
+    },
+    {
+        "title": "Član 25",
+        "texts": [
+            "Ako je naplaćen avans za promet dobara, odnosno\r\nusluga za koji je poreski dužnik obveznik PDV - isporučilac dobara,\r\nodnosno pružalac usluga, podaci o PDV evidentiraju se tako što se za\r\nporeski period u kojem je avans naplaćen evidentira iznos PDV po osnovu\r\nnaplate avansa, a za poreski period u kojem je promet izvršen,\r\nuključujući i poreski period u kojem je primljen avans, iznos razlike\r\nizmeđu iznosa PDV za promet dobara, odnosno usluga i iznosa PDV po\r\nosnovu naplate avansa.",
+            "Ako je plaćen avans za promet dobara, odnosno usluga\r\nza koji je poreski dužnik primalac dobara, odnosno usluga, podaci o PDV\r\nevidentiraju se tako što se za poreski period u kojem je avans plaćen\r\nevidentira iznos PDV po osnovu uplate avansa, a za poreski period u\r\nkojem je promet izvršen, uključujući i poreski period u kojem je plaćen\r\navans, iznos razlike između iznosa PDV za promet dobara, odnosno usluga\r\ni iznosa PDV po osnovu plaćanja avansa."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_25"
+    },
+    {
+        "title": "Član 26",
+        "texts": [
+            "(Brisan)"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_26"
+    },
+    {
+        "title": "Član 27",
+        "texts": [
+            "Elektronsko evidentiranje obračuna PDV za usluge iz\r\nčlana 16. tačka 2a) ZPDV vrši se uz primenu pravila koja se odnose na\r\nnastanak poreske obaveze propisanih ZPDV."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_27"
+    },
+    {
+        "title": "Član 28",
+        "texts": [
+            "Zbirna evidencija PDV, odnosno Pojedinačna evidencija PDV mogu biti u statusu: evidentirano, korigovano i poništeno.",
+            "Zbirnoj evidenciji PDV, odnosno Pojedinačnoj evidenciji PDV dodeljuje se status: evidentirano po izvršenom elektronskom evidentiranju obračuna PDV, odnosno status: korigovano ako je korisnik sistema elektronskih faktura korigovao iskazane podatke.",
+            "Ako korisnik sistema elektronskih faktura nije trebalo da izvrši elektronsko evidentiranje obračuna PDV, Zbirna evidencija PDV, odnosno Pojedinačna evidencija PDV može da se poništi.",
+            "U slučaju iz stava 3. ovog člana Zbirnoj evidenciji PDV, odnosno Pojedinačnoj evidenciji PDV dodeljuje se status: poništeno.",
+            "VIA NAČIN I POSTUPAK ELEKTRONSKOG EVIDENTIRANJA PRETHODNOG POREZA U SISTEMU ELEKTRONSKIH FAKTURA"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_28"
+    },
+    {
+        "title": "Član 28a",
+        "texts": [
+            "Elektronsko evidentiranje prethodnog poreza, uključujući i povećanje, odnosno smanjenje, vrši se zbirno za poreski period, po isteku poreskog perioda, a najkasnije 12. dana kalendarskog meseca koji sledi poreskom periodu za koji se vrši elektronsko evidentiranje prethodnog poreza, sa stanjem na dan koji prethodi danu elektronskog evidentiranja prethodnog poreza.",
+            "Izuzetno od stava 1. ovog člana, elektronsko evidentiranje prethodnog poreza vrši se sa stanjem na 10. dan kalendarskog meseca koji sledi poreskom periodu za koji se evidentira prethodni porez, ako se elektronsko evidentiranje prethodnog poreza vrši posle 10. dana tog kalendarskog meseca.",
+            "Elektronsko evidentiranje prethodnog poreza vrši se unosom, odnosno automatskim unosom određenih podataka za odgovarajući poreski period preko korisničkog, odnosno aplikativnog interfejsa Evidencije prethodnog poreza u okviru sistema elektronskih faktura.",
+            "Posle izvršenog elektronskog evidentiranja prethodnog poreza za određeni poreski period, podaci iz stava 3. ovog člana iskazuju se u Evidenciji prethodnog poreza za odgovarajući poreski period uzimajući u obzir dan kada je Evidenciji prethodnog poreza dodeljen status: evidentirano.",
+            "Podaci koji se odnose na nabavku dobara i usluga od obveznika PDV - poreskog dužnika evidentiraju se zbirno po izvorima - vrstama računa, i to:",
+            "1) elektronskim fakturama;",
+            "2) fiskalnim računima;",
+            "3) drugim računima.",
+            "Podaci koji se odnose na nabavku dobara i usluga od stranog lica, odnosno obveznika PDV, po osnovu koje je primalac dobara, odnosno usluga poreski dužnik, evidentiraju se zbirno iz pojedinačnih evidencija PDV sačinjenih na osnovu internih računa, i to:",
+            "1) internih računa - strano lice;",
+            "2) internih računa - obveznik PDV.",
+            "Podaci u Evidenciji prethodnog poreza iskazuju se u dinarima, sa najviše dve decimale."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_28a"
+    },
+    {
+        "title": "Član 28b",
+        "texts": [
+            "Evidencija prethodnog poreza sadrži podatke o:",
+            "1) broju Evidencije prethodnog poreza, statusu i datumu evidentiranja;",
+            "2) godini, poreskom periodu (mesec ili tromesečje) i periodu (konkretan mesec ili tromesečje);",
+            "3) nabavkama dobara i usluga u Republici Srbiji od\r\nobveznika PDV - promet za koji je poreski dužnik isporučilac dobara,\r\nodnosno pružalac usluga;",
+            "4) nabavkama dobara i usluga u Republici Srbiji  - promet za koji je poreski dužnik primalac dobara, odnosno usluga;",
+            "5) PDV plaćenom za uvoz/dopremanje dobara stavljenih u slobodan promet u skladu sa carinskim propisima;",
+            "6) PDV nadoknadi plaćenoj poljoprivredniku, uključujući povećanje;",
+            "7) ispravkama odbitka prethodnog poreza.",
+            "Podaci iz stava 1. tačka 3) ovog člana odnose se na:",
+            "1) prvi prenos prava raspolaganja na novoizgrađenim\r\ngrađevinskim objektima (osnovica i PDV po izvorima - vrstama računa i\r\nukupan iznos PDV koji se može odbiti kao prethodni porez - po stopi od\r\n20%, odnosno po stopi od 10%);",
+            "2) promet dobara i usluga, osim prvog prenosa prava\r\nraspolaganja na novoizgrađenim građevinskim objektima (osnovica i PDV\r\npo izvorima - vrstama računa i ukupan iznos PDV koji se može odbiti kao\r\nprethodni porez - po stopi od 20%, odnosno po stopi od 10%);",
+            "3) povećanje osnovice, odnosno PDV (osnovica i PDV po\r\nizvorima - vrstama računa i ukupan iznos PDV koji se može odbiti kao\r\nprethodni porez - po stopi od 20%, odnosno po stopi od 10%);",
+            "4) smanjenje osnovice, odnosno PDV (osnovica i PDV po izvorima - vrstama računa - po stopi od 20%, odnosno po stopi od 10%);",
+            "5) naknadu ili deo naknade koji je plaćen pre\r\nizvršenog prometa - avans (osnovica i PDV po izvorima - vrstama računa\r\ni ukupan iznos PDV koji se može odbiti kao prethodni porez - po stopi\r\nod 20%, odnosno po stopi od 10%);",
+            "6) smanjenje avansa (osnovica i PDV po izvorima - vrstama računa - po stopi od 20%, odnosno po stopi od 10%).",
+            "Podaci iz stava 1. tačka 4) ovog člana odnose se na:",
+            "1) prenos prava raspolaganja na građevinskim\r\nobjektima za koji je poreski dužnik primalac dobara (osnovica i PDV po\r\nizvorima - pojedinačnim evidencijama PDV i ukupan iznos PDV koji se\r\nmože odbiti kao prethodni porez - po stopi od 20%, odnosno po stopi od\r\n10%);",
+            "2) promet dobara i usluga, osim prenosa prava\r\nraspolaganja na građevinskim objektima (osnovica i PDV po izvorima -\r\npojedinačnim evidencijama PDV i ukupan iznos PDV koji se može odbiti\r\nkao prethodni porez - po stopi od 20%, odnosno po stopi od 10%);",
+            "3) povećanje osnovice, odnosno PDV (osnovica i PDV po\r\nizvorima - pojedinačnim evidencijama PDV i ukupan iznos PDV koji se\r\nmože odbiti kao prethodni porez - po stopi od 20%, odnosno po stopi od\r\n10%);",
+            "4) smanjenje osnovice, odnosno PDV (osnovica po\r\nizvorima - pojedinačnim evidencijama PDV i ukupan iznos smanjenja\r\nprethodnog poreza - po stopi od 20%, odnosno po stopi od 10%);",
+            "5) naknadu ili deo naknade koji je plaćen pre\r\nizvršenog prometa - avans (osnovica i PDV po izvorima - pojedinačnim\r\nevidencijama PDV i ukupan iznos PDV koji se može odbiti kao prethodni\r\nporez - po stopi od 20%, odnosno po stopi od 10%);",
+            "6) smanjenje avansa (osnovica po izvorima -\r\npojedinačnim evidencijama PDV i ukupan iznos smanjenja prethodnog\r\nporeza - po stopi od 20%, odnosno po stopi od 10%).",
+            "Podaci iz stava 1. tačka 5) ovog člana odnose se na\r\nPDV za uvoz/dopremanje dobara stavljenih u slobodan promet u skladu sa\r\ncarinskim propisima (plaćeni PDV i plaćeni PDV koji se može odbiti kao\r\nprethodni porez po stopi od 20%, plaćeni PDV i plaćeni PDV koji se može\r\nodbiti kao prethodni porez po stopi od 10%, ukupno plaćeni PDV i ukupno\r\nplaćeni PDV koji se može odbiti kao prethodni porez).",
+            "Podaci iz stava 1. tačka 6) ovog člana odnose se na\r\nPDV nadoknadu plaćenu poljoprivredniku, uključujući i povećanje (ukupna\r\nPDV nadoknada plaćena poljoprivredniku i ukupna PDV nadoknada koja se\r\nmože odbiti kao prethodni porez).",
+            "Podaci iz stava 1. tačka 7) ovog člana odnose se na\r\nispravke odbitka prethodnog poreza - povećanje, odnosno smanjenje\r\n(osnov i iznos ispravke).",
+            "Podaci koji se odnose na ispravku odbitka prethodnog poreza - povećanje su podaci o povećanju prethodnog poreza po osnovu:",
+            "1) sticanja prava na odbitak prethodnog poreza zbog naknadnog prihvatanja elektronske fakture;",
+            "2) naknadnog sticanja prava na odbitak prethodnog\r\nporeza za opremu i objekte za vršenje delatnosti, odnosno ulaganja u\r\nobjekte za vršenje delatnosti;",
+            "3) odluke poreskog organa;",
+            "4) povećanja srazmernog poreskog odbitka u poslednjem poreskom periodu kalendarske godine ili poslednjem poreskom periodu;",
+            "5) sticanja prava na odbitak prethodnog poreza kod evidentiranja za obavezu plaćanja PDV;",
+            "6) druge promene koja dovodi do povećanja odbitka\r\nprethodnog poreza (npr. storniranje određenih dokumenata u skladu sa\r\npropisima kojima se uređuje PDV).",
+            "Podaci koji se odnose na ispravku odbitka prethodnog poreza - smanjenje su podaci o smanjenju prethodnog poreza po osnovu:",
+            "1) prestanka uslova za ostvarivanje prava na odbitak\r\nprethodnog poreza za opremu i objekte za vršenje delatnosti, odnosno\r\nulaganja u objekte za vršenje delatnosti;",
+            "2) odluke poreskog organa;",
+            "3) smanjenja srazmernog poreskog odbitka u poslednjem poreskom periodu kalendarske godine ili poslednjem poreskom periodu;",
+            "4) podnošenja zahteva za brisanje iz evidencije obveznika PDV;",
+            "5) odluke carinskog organa na osnovu koje dolazi do smanjenja PDV;",
+            "6) smanjenja PDV nadoknade plaćene poljoprivredniku;",
+            "7) druge promene koja dovodi do smanjenja odbitka\r\nprethodnog poreza (npr. storniranje određenih dokumenata u skladu sa\r\npropisima kojima se uređuje PDV)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_28b"
+    },
+    {
+        "title": "Član 28v",
+        "texts": [
+            "Automatski unos podataka vrši se po isteku poreskog\r\nperioda za koji se vrši elektronsko evidentiranje prethodnog poreza, najkasnije 12. dana kalendarskog meseca koji sledi tom poreskom\r\nperiodu, postupanjem obveznika PDV.",
+            "Prilikom automatskog unosa evidentiraju se podaci sa stanjem na dan koji prethodi danu automatskog unosa.",
+            "Izuzetno od stava 2. ovog člana, ako se elektronsko evidentiranje prethodnog poreza vrši posle 10. dana kalendarskog meseca koji sledi poreskom periodu za koji se evidentira prethodni porez, prilikom automatskog unosa evidentiraju se podaci sa stanjem na 10. dan tog kalendarskog meseca.",
+            "Podaci koji se automatski unose odnose se na:",
+            "1) nabavke dobara i usluga u Republici Srbiji od\r\nobveznika PDV - promet za koji je poreski dužnik isporučilac dobara,\r\nodnosno pružalac usluga, i to: osnovicu i PDV iz elektronskih faktura\r\niz člana 11. stav 1. tač. 1)-3) ovog pravilnika, kao i osnovicu iz elektronske fakture iz člana 11. stav 1. tačka 4) ovog pravilnika;",
+            "2) nabavke dobara i usluga u Republici Srbiji - promet za koji je poreski dužnik primalac dobara, odnosno usluga, i to:",
+            "(1) osnovicu i PDV iz pojedinačnih evidencija PDV za promet, povećanje i avans;",
+            "(2) osnovicu iz pojedinačnih evidencija PDV za smanjenje, uključujući i smanjenje avansa;",
+            "3) PDV plaćen za uvoz/dopremanje dobara stavljenih u slobodan promet u skladu sa carinskim propisima.",
+            "Automatski unos podataka iz stava 3. tačka 1) ovog\r\nčlana vrši se nezavisno od toga da li je elektronska faktura\r\nprihvaćena, stornirana i dr.",
+            "Automatski unos podataka iz stava 3. tačka 2) ovog\r\nčlana vrši se iz pojedinačnih evidencija PDV kojima je dodeljen status:\r\nevidentirano.",
+            "Podaci iz stava 3. ovog člana automatski se unose po stopi od 20%, odnosno po stopi od 10%."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_28v"
+    },
+    {
+        "title": "Član 28g",
+        "texts": [
+            "Elektronsko evidentiranje prethodnog poreza može se korigovati u slučaju pogrešno ili nepotpuno iskazanih podataka, sa izuzetkom podataka koji se automatski unose.",
+            "Ako se korigovanje elektronskog evidentiranja prethodnog poreza vrši zaključno sa 12. danom kalendarskog meseca koji sledi poreskom periodu za koji se vrši elektronsko evidentiranje prethodnog poreza, automatski unos podataka vrši se sa stanjem:",
+            "1) na dan koji prethodi danu korigovanja elektronskog evidentiranja prethodnog poreza;",
+            "2) na 10. dan kalendarskog meseca koji sledi poreskom periodu za koji se vrši korigovanje elektronskog evidentiranja prethodnog poreza ako se korigovanje vrši 11. ili 12. dana tog kalendarskog meseca.",
+            "Ako se korigovanje elektronskog evidentiranja prethodnog poreza vrši po isteku 12. dana kalendarskog meseca koji sledi poreskom periodu za koji se vrši korigovanje elektronskog evidentiranja prethodnog poreza, automatski uneti podaci ostaju nepromenjeni."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_28g"
+    },
+    {
+        "title": "Član 28d",
+        "texts": [
+            "Evidencija prethodnog poreza može biti u statusu: evidentirano i korigovano.",
+            "Evidenciji prethodnog poreza dodeljuje se status:\r\nevidentirano po izvršenom elektronskom evidentiranju prethodnog poreza,\r\nodnosno status: korigovano ako je korisnik sistema elektronskih faktura\r\nkorigovao iskazane podatke.",
+            "Elektronsko evidentiranje prethodnog poreza u skladu sa ovim pravilnikom, odnosno sa stanjem na dan koji je propisan ovim pravilnikom, može se izvršiti svakog dana od 09.00 do 24.00 časova.",
+            "VII POSTUPANJE U SLUČAJU NASTUPANJA PRIVREMENOG PREKIDA U RADU SISTEMA ELEKTRONSKIH FAKTURA"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_28d"
+    },
+    {
+        "title": "Član 29",
+        "texts": [
+            "Sistem elektronskih faktura dostupan je korisnicima\r\nsistema elektronskih faktura svakog dana, osim u periodu redovnog\r\nodržavanja koji traje od 01.00 do 06.00 časova.",
+            "U slučaju privremenog prekida u radu sistema\r\nelektronskih faktura, Centralni informacioni posrednik obaveštava\r\nkorisnike sistema elektronskih faktura o privremenom prekidu u radu\r\nputem portala sistema elektronskih faktura.",
+            "Po ponovnom uspostavljanju rada sistema elektronskih\r\nfaktura, Centralni informacioni posrednik obaveštava korisnike sistema\r\nelektronskih faktura o ponovnom uspostavljanju rada putem portala\r\nsistema elektronskih faktura.",
+            "Ako nastupi privremeni prekid u radu sistema\r\nelektronskih faktura, elektronska faktura smatra se dostavljenom u\r\ntrenutku ponovnog uspostavljanja rada sistema elektronskih faktura.",
+            "U slučaju da privremeni prekid u radu sistema\r\nelektronskih faktura iz stava 2. ovog člana nastupi poslednjeg dana\r\nroka za prihvatanje ili odbijanje elektronske fakture, usled čega je\r\nelektronskoj fakturi izdatoj subjektu javnog sektora, suprotno njegovoj\r\nnameri, dodeljen status: prihvaćena, subjekt javnog sektora obaveštava\r\nCentralnog informacionog posrednika da elektronska faktura treba da ima\r\nstatus: odbijena.",
+            "Obaveštenje iz stava 5. ovog člana dostavlja se elektronskim putem i sadrži:",
+            "1) naziv i PIB, kao i JBKJS subjekta javnog sektora, ukoliko subjekt javnog sektora poseduje JBKJS;",
+            "2) jedinstveni identifikator elektronske fakture čija se promena statusa zahteva;",
+            "3) kontakt podatke zakonskog ili drugog zastupnika subjekta javnog sektora.",
+            "Ako su ispunjeni uslovi iz stava 6. ovog člana,\r\nCentralni informacioni posrednik menja status elektronskoj fakturi u\r\nstatus: odbijena.",
+            "Ako poslednjeg dana roka za elektronsko evidentiranje\r\nporeza na dodatu vrednost u skladu sa Zakonom korisnik sistema\r\nelektronskih faktura, usled privremenog prekida u radu sistema\r\nelektronskih faktura iz stava 2. ovog člana, bude onemogućen da izvrši\r\nelektronsko evidentiranje PDV, elektronsko evidentiranje PDV vrši\r\nnajkasnije prvog narednog radnog dana od dana ponovnog uspostavljanja\r\nrada sistema elektronskih faktura.",
+            "VIII KORIŠĆENJE PODATAKA IZ SISTEMA ELEKTRONSKIH FAKTURA"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_29"
+    },
+    {
+        "title": "Član 30",
+        "texts": [
+            "Državnim organima i organizacijama, organima i\r\norganizacijama autonomne pokrajine, organima i organizacijama jedinica\r\nlokalne samouprave, javnim preduzećima, posebnim organima preko kojih\r\nse ostvaruje regulatorna funkcija i pravnim i fizičkim licima kojima su\r\npoverena javna ovlašćenja (u daljem tekstu: organ), kao i subjektima\r\njavnog sektora koji su ugovorne strane u okvirnim sporazumima u smislu\r\nčlana 5. stav 3. Zakona, biće dostavljeni podaci iz sistema\r\nelektronskih faktura samo ako su im ti podaci neophodni za vršenje\r\nposlova iz svoje nadležnosti, a te podatke mogu obrađivati isključivo u\r\nsvrhe nesmetanog obavljanja poslova iz svoje nadležnosti i to samo u\r\nonoj meri u kojoj je to neophodno.",
+            "Pristup podacima iz sistema elektronskih faktura vrši\r\nse u skladu sa odredbama i procedurama predviđenim propisima kojima se\r\nuređuje obavljanje poslova uprave organa kojima su poverena javna\r\novlašćenja upotrebom informaciono-komunikacionih tehnologija.",
+            "IX NAČIN POSTUPANJA CENTRALNOG INFORMACIONOG POSREDNIKA"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_30"
+    },
+    {
+        "title": "Član 31",
+        "texts": [
+            "Centralni informacioni posrednik upravlja sistemom elektronskih faktura i odgovoran je za njegovo funkcionisanje.",
+            "Centralni informacioni posrednik:",
+            "1) uspostavlja odgovarajuću organizaciju poslova i radnih zadataka;",
+            "2) imenuje administratore sistema elektronskih faktura;",
+            "3) uspostavlja mehanizme za autentikaciju i\r\nautorizovani pristup sistemu elektronskih faktura, u skladu sa\r\npropisima kojima se uređuju informaciona bezbednost i elektronska\r\nidentifikacija i zaštita podataka o ličnosti;",
+            "4) ažurno upravlja pravima pristupa infrastrukturi i softverskim rešenjima koje uspostavlja i koje koristi;",
+            "5) preduzima druge mere u cilju razvoja i ispravnog funkcionisanja sistema elektronskih faktura u skladu sa potrebama."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_31"
+    },
+    {
+        "title": "Član 32",
+        "texts": [
+            "Korisnik sistema elektronskih faktura kod kojeg je\r\ndošlo do promene koja ima uticaj na korišćenje sistema elektronskih\r\nfaktura od strane tog korisnika sistema elektronskih faktura obaveštava\r\ncentralnog informacionog posrednika o nastaloj promeni.",
+            "Obaveštenje iz stava 1. ovog člana dostavlja se elektronskim putem.",
+            "Centralni informacioni posrednik, u zavisnosti od\r\nnastale promene, preduzima radnje koje obezbeđuju funkcionisanje\r\nsistema elektronskih faktura."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_32"
+    },
+    {
+        "title": "Član 33",
+        "texts": [
+            "Centralni informacioni posrednik vodi Registar informacionih posrednika koji su dobili saglasnost Ministarstva finansija.",
+            "Registar informacionih posrednika iz stava 1. ovog člana je javna evidencija informacionih posrednika.",
+            "Registar informacionih posrednika iz stava 1. ovog člana naročito sadrži:",
+            "1) naziv informacionog posrednika;",
+            "2) PIB informacionog posrednika;",
+            "3) matični broj informacionog posrednika;",
+            "4) adresu sedišta informacionog posrednika;",
+            "5) ime i prezime lica kojem je informacioni posrednik dodelio pristup sistemu elektronskih faktura;",
+            "6) broj i datum rešenja kojim se odobrava obavljanje poslova informacionog posrednika;",
+            "7) broj i datum rešenja kojim se opoziva odobrenje za obavljanje poslova informacionog posrednika.",
+            "Ako se nakon dobijanja saglasnosti Ministarstva\r\nfinansija promene podaci koji se vode u registru iz stava 2. ovog\r\nčlana, informacioni posrednik obaveštava Centralnog informacionog\r\nposrednika o nastalim promenama u elektronskom obliku.",
+            "U slučaju da se promena podataka koji se vode u\r\nregistru iz stava 2. ovog člana odnosi na promenu lica koja su\r\ninformacionom posredniku poverila poslove u vezi sa izdavanjem,\r\nslanjem, primanjem, odnosno čuvanjem elektronskih faktura, informacioni\r\nposrednik o sopstvenom trošku preduzima odgovarajuće mere radi\r\nobezbeđenja prenosa podataka lica koja su informacionom posredniku\r\npoverila poslove u vezi sa izdavanjem, slanjem, primanjem, odnosno\r\nčuvanjem elektronskih faktura."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_33"
+    },
+    {
+        "title": "Član 34",
+        "texts": [
+            "Centralni informacioni posrednik registrovanom\r\ninformacionom posredniku dostavlja tehničko uputstvo za povezivanje\r\nsistema informacionog posrednika sa sistemom elektronskih faktura i\r\ntehničke parametre koji su specifični za konkretnog informacionog\r\nposrednika, kao što su podaci za autentikaciju i drugi pristupni\r\nparametri.",
+            "IXa LISTA KORISNIKA SISTEMA ELEKTRONSKIH FAKTURA I BRISANJE SA LISTE KORISNIKA SISTEMA ELEKTRONSKIH FAKTURA"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_34"
+    },
+    {
+        "title": "Član 34a",
+        "texts": [
+            "Lista korisnika sistema elektronskih faktura sadrži podatke o:",
+            "1) PIB-u korisnika sistema elektronskih faktura;",
+            "2) JBKJS-u korisnika javnih sredstava, osim korisnika\r\njavnih sredstava koji pripada tipu osam korisnika javnih sredstava u\r\nskladu sa propisima kojima se uređuje budžetski sistem;",
+            "3) datumu registracije;",
+            "4) datumu brisanja sa liste korisnika sistema\r\nelektronskih faktura, ukoliko je korisnik sistema elektronskih faktura\r\nizbrisan sa te liste."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_34a"
+    },
+    {
+        "title": "Član 34b",
+        "texts": [
+            "Korisnik sistema elektronskih faktura može biti\r\nizbrisan sa liste korisnika sistema elektronskih faktura ako su\r\nispunjeni uslovi za brisanje sa te liste.",
+            "Smatra se da su uslovi iz stava 1. ovog člana\r\nispunjeni ako je za određenog korisnika sistema elektronskih faktura\r\nprestala obaveza korišćenja sistema elektronskih faktura u skladu sa\r\nZakonom (npr. brisanje iz registra privrednih subjekata, istek roka iz\r\nčlana 5. stav 8. Zakona u kojem dobrovoljni korisnik sistema\r\nelektronskih faktura ima obavezu da koristi sistem elektronskih faktura\r\ni dr.)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_34b"
+    },
+    {
+        "title": "Član 34v",
+        "texts": [
+            "Ako su ispunjeni uslovi za brisanje sa liste\r\nkorisnika sistema elektronskih faktura, na zahtev korisnika sistema\r\nelektronskih faktura Centralni informacioni posrednik briše korisnika\r\nsistema elektronskih faktura sa te liste.",
+            "Zahtev iz stava 1. ovog člana dostavlja se\r\nelektronskim putem i sadrži podatke o nazivu i PIB-u korisnika sistema\r\nelektronskih faktura na koga se zahtev odnosi, kao i o osnovu za\r\nbrisanje sa liste korisnika sistema elektronskih faktura.",
+            "Uz zahtev iz stava 1. ovog člana mogu se priložiti i\r\nelektronska ili druga dokumenta kojima se dokazuje postojanje osnova za\r\nbrisanje sa liste korisnika sistema elektronskih faktura.",
+            "Izuzetno od stava 1. ovog člana, Centralni\r\ninformacioni posrednik može po službenoj dužnosti izbrisati korisnika\r\nsistema elektronskih faktura sa liste korisnika sistema elektronskih\r\nfaktura ako u toku svog postupanja dođe do saznanja da je korisnik\r\nsistema elektronskih faktura prestao da postoji.",
+            "X POSEBNE ODREDBE"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_34v"
+    },
+    {
+        "title": "Član 35",
+        "texts": [
+            "Kontakt centar sistema elektronskih faktura zakonskim\r\nzastupnicima i ovlašćenim korisnicima omogućava dobijanje podrške u\r\nvezi sa određenim funkcionalnostima sistema."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_35"
+    },
+    {
+        "title": "Član 36",
+        "texts": [
+            "Detaljna objašnjenja o sistemu elektronskih faktura,\r\nspisak šifri za poreske kategorije, objašnjenja o funkcionisanju\r\nsistema elektronskih faktura i radu u tom sistemu data su u internom\r\ntehničkom uputstvu koje se objavljuje na internet stranici Ministarstva\r\nfinansija i koje sadrži tehnička objašnjenja za rad u sistemu."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_36"
+    },
+    {
+        "title": "Član 36a",
+        "texts": [
+            "Korisnik sistema elektronskih faktura odgovarajućom radnjom u sistemu elektronskih faktura opredeljuje dan elektronskog evidentiranja PDV, u skladu sa Zakonom.",
+            "XI PRELAZNA I ZAVRŠNE ODREDBE"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_36a"
+    },
+    {
+        "title": "Član 37",
+        "texts": [
+            "U periodu od 1. jula 2023. godine zaključno sa 31.\r\ndecembrom 2023. godine, u postupcima provere pravilnosti elektronskog\r\nevidentiranja obračuna PDV, u smislu da li su podaci o obračunatom PDV\r\niskazani u Zbirnoj evidenciji PDV ili Pojedinačnoj evidenciji PDV,\r\nnadležni organ ne uzima u obzir pogrešno iskazane podatke ako je tačan\r\nukupan iznos evidentiranog PDV."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_37"
+    },
+    {
+        "title": "Član 38",
+        "texts": [
+            "Danom stupanja na snagu ovog pravilnika prestaju da važe:",
+            "1) Pravilnik o načinu i postupku registrovanja za\r\npristup sistemu elektronskih faktura, načinu pristupanja i korišćenja\r\nsistema elektronskih faktura i načinu korišćenja podataka koji su\r\ndostupni u sistemu elektronskih faktura (\"Službeni glasnik RS\", br.\r\n69/21, 132/21 i 46/22);",
+            "2) Pravilnik o elementima elektronske fakture, formi\r\ni načinu dostave prateće i druge dokumentacije kroz sistem elektronskih\r\nfaktura, načinu i postupku elektronskog evidentiranja obračuna poreza\r\nna dodatu vrednost u sistemu elektronskih faktura i načinu primene\r\nstandarda elektronskog fakturisanja (\"Službeni glasnik RS\", br. 69/21,\r\n132/21 i 46/22);",
+            "3) Pravilnik o načinu postupanja Centralnog informacionog posrednika (\"Službeni glasnik RS\", br. 69/21 i 132/21)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_38"
+    },
+    {
+        "title": "Član 39",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu 1. jula 2023. godine.",
+            "",
+            "Samostalni član Pravilnika o izmenama i dopunamaPravilnika o elektronskom fakturisanju",
+            "(\"Sl. glasnik RS\", br. 116/2023)"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskom-fakturisanju.html#clan_39"
+    },
+    {
+        "title": "Član 7",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu 1. januara 2024.\r\ngodine, osim odredaba člana 6. koje se odnose na podatke koje sadrži\r\nlista korisnika sistema elektronskih faktura, koje stupaju na snagu 1.\r\nmarta 2024. godine.",
+            "",
+            "Samostalni član Pravilnika o izmenama i dopunamaPravilnika o elektronskom fakturisanju",
+            "(\"Sl. glasnik RS\", br. 65/2024 i 73/2024)"
+        ],
+        "link": null
+    },
+    {
+        "title": "Član 16",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu osmog dana od dana\r\nobjavljivanja u \"Službenom glasniku Republike Srbije\", a primenjivaće\r\nse od 1. septembra 2024. godine, osim odredaba koje se odnose na\r\nelektronsko evidentiranje poreza na dodatu vrednost koje će se\r\nprimenjivati za poreske periode određene zakonom kojim se uređuje porez\r\nna dodatu vrednost koji počinju posle 31. avgusta 2024. godine.",
+            "",
+            "Samostalni članovi Pravilnika o izmenamaPravilnika o elektronskom fakturisanju",
+            "(\"Sl. glasnik RS\", br.  73/2024)"
+        ],
+        "link": null
+    },
+    {
+        "title": "Član 7",
+        "texts": [
+            "U periodu od 1. septembra 2024. godine zaključno sa\r\n31. decembrom 2024. godine, u postupcima provere pravilnosti\r\nelektronskog evidentiranja poreza na dodatu vrednost, Ministarstvo\r\nfinansija ne uzima u obzir eventualne greške pri iskazivanju podataka u\r\nevidencijama poreza na dodatu vrednost."
+        ],
+        "link": null
+    },
+    {
+        "title": "Član 8",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu 1. septembra 2024.\r\ngodine, osim odredaba koje se odnose na elektronsko evidentiranje\r\nporeza na dodatu vrednost koje će se primenjivati za poreske periode\r\nodređene zakonom kojim se uređuje porez na dodatu vrednost koji počinju\r\nposle 31. avgusta 2024. godine.",
+            "",
+            "Samostalni član Pravilnika o izmenama i dopunamaPravilnika o elektronskom fakturisanju",
+            "(\"Sl. glasnik RS\", br. 101/2024)"
+        ],
+        "link": null
+    },
+    {
+        "title": "Član 4",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu danom objavljivanja u \"Službenom glasniku Republike Srbije\".",
+            "",
+            "Samostalni članovi Pravilnika o izmenama i dopunamaPravilnika o elektronskom fakturisanju",
+            "(\"Sl. glasnik RS\", br. 107/2024 i 56/2025)"
+        ],
+        "link": null
+    },
+    {
+        "title": "Član 22",
+        "texts": [
+            "U periodu od 1. januara 2025. godine zaključno sa 31. decembrom 2025. godine, u postupcima provere pravilnosti elektronskog evidentiranja poreza na dodatu vrednost, Ministarstvo finansija ne uzima u obzir eventualne greške pri iskazivanju podataka u evidencijama poreza na dodatu vrednost."
+        ],
+        "link": null
+    },
+    {
+        "title": "Član 23",
+        "texts": [
+            "Član 7. i odredba člana 18. ovog pravilnika koja se odnosi na osnovicu iz elektronske fakture koja se smatra dokumentom o smanjenju, primenjuju se počev za poreske periode, u skladu sa zakonom kojim se uređuje porez na dodatu vrednost, koji počinju 1. jula 2025. godine."
+        ],
+        "link": null
+    },
+    {
+        "title": "Član 24",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu 1. januara 2025. godine.",
+            "",
+            "Samostalni član Pravilnika o izmeniPravilnika o elektronskom fakturisanju",
+            "(\"Sl. glasnik RS\", br. 56/2025)"
+        ],
+        "link": null
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu 1. jula 2025. godine.",
+            "",
+            "Samostalni član Pravilnika o izmeniPravilnika o elektronskom fakturisanju",
+            "(\"Sl. glasnik RS\", br. 85/2025)"
+        ],
+        "link": null
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u \"Službenom glasniku Republike Srbije\".",
+            "Ako ne probate više različitih izbora nikada nećete biti sigurni da li imate najbolju opciju u svojim rukama. Mi Vam tu mogućnost nudimo besplatno! Popunite formular i dobićete priliku da bez ikakvih troškova saznate da li je Paragraf dobar izbor za Vas.",
+            "Ukoliko želite da Vas obaveštavamo o novostima i aktivnostima kompanije Paragraf prijavite se na našu mailing listu. Vaš e-mail neće biti upotrebljen u druge svrhe.",
+            "Pratite Paragraf na Viberu"
+        ],
+        "link": null
+    }
+]

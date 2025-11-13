@@ -6,15 +6,17 @@ from pathlib import Path
 from dotenv import find_dotenv, load_dotenv
 from loguru import logger
 from qdrant_client import QdrantClient
+from qdrant_client.http import models as rest
 from tqdm.auto import tqdm
 
 from database.utils import (
-    create_collection,
+    SRPSKO_PRAVO_COLLECTION,
     create_embeddings,
-    get_count,
     load_and_process_embeddings,
     upsert,
 )
+
+VECTOR_SIZE = 1536
 
 
 def main(args: argparse.Namespace) -> None:
@@ -34,7 +36,14 @@ def main(args: argparse.Namespace) -> None:
     qdrant_client = QdrantClient(
         url=os.environ["QDRANT_CLUSTER_URL"],
         api_key=os.environ["QDRANT_API_KEY"],
+        timeout=180,
     )
+    if not qdrant_client.collection_exists(collection_name=SRPSKO_PRAVO_COLLECTION):
+        logger.info(f'Creating target collection "{SRPSKO_PRAVO_COLLECTION}".')
+        qdrant_client.create_collection(
+            collection_name=SRPSKO_PRAVO_COLLECTION,
+            vectors_config=rest.VectorParams(size=VECTOR_SIZE, distance=rest.Distance.COSINE),
+        )
     # Get list of scraped files to match with embeddings
     scraped_files = {f.stem for f in args.scraped_dir.iterdir() if f.is_file() and f.suffix == ".json"}
     
@@ -45,36 +54,47 @@ def main(args: argparse.Namespace) -> None:
             continue
             
         # Check if this is necessary
-        collection_name = path.stem.replace("-", "_")
-        collection_name = collection_name
-        points = load_and_process_embeddings(path=path)
+        law_name = path.stem.replace("-", "_")
+        points = load_and_process_embeddings(path=path, law_name=law_name)
         
         # Skip if no points (embedding failed)
         if not points:
-            logger.warning(f"Skipping {collection_name} - no valid embeddings")
+            logger.warning(f"Skipping {law_name} - no valid embeddings")
             continue
-
-        # Check if collection already exists and has correct number of points
+        
+        # Skip if law already exists (based on source_collection payload)
         try:
-            if qdrant_client.collection_exists(collection_name=collection_name):
-                existing_count = get_count(client=qdrant_client, collection=collection_name)
-                if existing_count == len(points):
-                    logger.info(f'Collection "{collection_name}" already exists with {existing_count} points. Skipping.')
-                    continue
-                else:
-                    logger.info(f'Collection "{collection_name}" exists but has {existing_count} points, expected {len(points)}. Recreating.')
-        except Exception as e:
-            logger.warning(f"Error checking collection {collection_name}: {e}. Proceeding with creation.")
+            existing, _ = qdrant_client.scroll(
+                collection_name=SRPSKO_PRAVO_COLLECTION,
+                limit=1,
+                with_payload=False,
+                with_vectors=False,
+                filter=rest.Filter(
+                    must=[
+                        rest.FieldCondition(
+                            key="source_collection",
+                            match=rest.MatchValue(value=law_name),
+                        )
+                    ]
+                ),
+            )
+            if existing:
+                logger.info(
+                    f'Law "{law_name}" already present in {SRPSKO_PRAVO_COLLECTION}. Skipping.'
+                )
+                continue
+        except Exception as exc:
+            logger.warning(f"Could not verify existing records for {law_name}: {exc}")
 
-        create_collection(client=qdrant_client, name=collection_name)
-        upsert(client=qdrant_client, collection=collection_name, points=points)
-
-        point_num = get_count(client=qdrant_client, collection=collection_name)
-        if not point_num == len(points):
-            logger.error(f"There are missing points in {collection_name} collection.")
+        upsert(
+            client=qdrant_client,
+            collection=SRPSKO_PRAVO_COLLECTION,
+            points=points,
+            batch_size=50,
+        )
 
         logger.info(
-            f'Created "{collection_name}" collection with {point_num} data points.'
+            f'Upserted {len(points)} points for "{law_name}" into {SRPSKO_PRAVO_COLLECTION}.'
         )
 
 

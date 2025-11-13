@@ -1,0 +1,774 @@
+[
+    {
+        "title": "Član 1",
+        "texts": [
+            "Ovim pravilnikom propisuju se obrazac i sadržina lekarskog recepta za lekove\nkoji se upotrebljavaju u humanoj medicini (u daljem tekstu: lek), a koji se izdaju uz lekarski\nrecept, kao i način izdavanja i propisivanja lekova.",
+            "1. Definicije pojmova"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-obrascu-i-sadrzini-lekarskog-recepta-nacinu-izdavanja-i-propisivanja-lekova.html#clan_1"
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Izrazi upotrebljeni u ovom pravilniku imaju sledeće značenje:",
+            "1) lekarski recept (u daljem tekstu: recept) je obrazac (u elektronskom,\nodnosno papirnom obliku) na kom doktor medicine, odnosno doktor stomatologije (u daljem tekstu:\nlekar) propisuje lek za pojedinačnog pacijenta, a koji u apoteci izdaje diplomirani farmaceut,\nodnosno magistar farmacije (u daljem tekstu: farmaceut);",
+            "2) jednokratno izdavanje leka (u daljem tekstu: neobnovljivo izdavanje)\nje način izdavanja leka kojim lekar na receptu propisuje lek za koji je Agencija za lekove\ni medicinska sredstva Srbije (u daljem tekstu: Agencija) u postupku izdavanja, odnosno izmene,\ndopune ili obnove dozvole za lek odlučila da se izdaje uz lekarski recept za jednokratno\nizdavanje, odnosno na lekarski recept na osnovu koga se lek izdaje jedanput;",
+            "3) višekratno izdavanje leka (u daljem tekstu: obnovljivo izdavanje) način\nizdavanja leka kojim lekar na receptu propisuje lek za koji je Agencija u postupku izdavanja,\nodnosno izmene, dopune ili obnove dozvole za lek odlučila da može da se izdaje uz lekarski\nrecept za višekratno izdavanje, odnosno na lekarski recept na osnovu koga se lek izdaje više\nputa;",
+            "4) poseban recept je recept za neobnovljivo izdavanje na kom lekar propisuje\nlek za koji je Agencija u postupku izdavanja, odnosno izmene, dopune ili obnove dozvole za\nlek odredila da: sadrži psihoaktivnu kontrolisanu supstancu u količini većoj od dozvoljene,\nu skladu sa propisima kojima se uređuje upotreba psihoaktivnih kontrolisanih supstanci, odnosno\nmeđunarodnim konvencijama; postoji velika verovatnoća da, i kad se lek pravilno primenjuje,\npredstavlja značajan rizik od medicinske zloupotrebe ili sadrži supstancu za koju bi se,\nzbog toga što je nova ili zbog njenih svojstava moglo smatrati da može da dovede do zavisnosti\nili upotrebe leka u nezakonite svrhe;",
+            "5) recept uz ograničenje za primenu u određenim specijalizovanim oblastima\n(u daljem tekstu: ograničen recept) je recept za neobnovljivo izdavanje na kom lekar propisuje\nlek za koji je Agencija u postupku izdavanja, odnosno izmene, dopune ili obnove dozvole za\nlek odredila da se izdaju uz lekarski recept uz ograničenje za primenu u određenim specijalizovanim\noblastima;",
+            "6) apoteka je zdravstvena ustanova u kojoj se obavlja farmaceutska zdravstvena\ndelatnost i koja se osniva kao samostalna zdravstvena ustanova, kao i apoteka osnovana kao\nprivatna praksa, u skladu sa zakonom kojim se uređuje zdravstvena zaštita;",
+            "7) bolnička apoteka je apoteka u organizacionom delu stacionarne zdravstvene\nustanove, odnosno u drugom organizacionom delu zdravstvene ustanove koji obezbeđuje snabdevanje\nlekovima i određenim vrstama medicinskih sredstava, u skladu sa zakonom kojim se uređuje\nzdravstvena zaštita. Izraz apoteka u smislu ovog pravilnika podrazumeva i bolničku apoteku;",
+            "8) međusobno zamenljivi lekovi su lekovi koji imaju\nistu aktivnu supstancu (imaju isti INN), isti kvantitativni sastav,\nodnosno sadržaj aktivne supstance i isti farmaceutski oblik, razlikuju\nse po pomoćnim supstancama i zaštićenom imenu, a koji na osnovu\ndokumentacije o leku pokazuju takav stepen sličnosti da je njihovo\ndejstvo u odnosu na efikasnost i bezbednost suštinski slično. Listu\nmeđusobno zamenljivih lekova objavljuje i ažurira Agencija na svojoj\ninternet stranici, na osnovu dokumentacije o leku i kriterijumima za\nzamenljivost koji su dati u Prilogu 3. koji je odštampan uz ovaj\npravilnik i čini njegov sastavni deo;",
+            "9) magistralni lek je lek izrađen u apoteci po receptu (formuli) za određenog\npacijenta, odnosno korisnika u skladu sa zakonom kojim se uređuju lekovi;",
+            "10) galenski lek je lek izrađen na osnovu važećih farmakopeja ili važećih\nmagistralnih formula u galenskoj laboratoriji i namenjen je za pacijente apoteke, odnosno\ndruge zdravstvene ustanove, odnosno drugog oblika zdravstvene službe (u daljem tekstu: privatna\npraksa) kada ne postoji ili nije dostupan lek za koji je izdata dozvola za lek u skladu sa\nzakonom kojim se uređuju lekovi i podzakonskim aktima donetim za sprovođenje ovog zakona.",
+            "2. Zaštita podataka o ličnosti"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-obrascu-i-sadrzini-lekarskog-recepta-nacinu-izdavanja-i-propisivanja-lekova.html#clan_2"
+    },
+    {
+        "title": "Član 3",
+        "texts": [
+            "Lica ovlašćena za propisivanje i izdavanje lekova, kao i druga lica koja\nimaju pristup podacima iz recepta, odnosno podacima o korisniku leka te podatke čuvaju u\nskladu sa zakonom kojim se uređuje zaštita podataka o ličnosti.",
+            "3. Integrisani zdravstveni informacioni sistem"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-obrascu-i-sadrzini-lekarskog-recepta-nacinu-izdavanja-i-propisivanja-lekova.html#clan_3"
+    },
+    {
+        "title": "Član 4",
+        "texts": [
+            "Propisivanje i izdavanje leka na recept vrši se posredstvom integrisanog\nzdravstvenog informacionog sistema u skladu sa zakonom.",
+            "Izuzetno od stava 1. ovog člana propisivanje i izdavanje leka na recept\nmože da se vrši i u papirnom obliku ako ne postoje tehnički uslovi za propisivanje i izdavanje\nleka u elektronskoj formi.",
+            "Propisivanje i izdavanje drugih proizvoda koji se obezbeđuju iz sredstava\nobaveznog zdravstvenog osiguranja (lek čiji je režim izdavanja bez recepta (\"over the\ncounter\" OTC), dijetetski suplement, medicinsko-tehničko pomagalo i sl.) za pojedinačnog\npacijenta može da se vrši preko integrisanog zdravstvenog informacionog sistema u skladu\nsa zakonom i ovim pravilnikom.",
+            "Podatke o lekovima koji su ispunili uslove za promet u skladu sa zakonom\nkojim se uređuju lekovi ministarstvo nadležno za poslove zdravlja dostavlja rukovaocu podacima\nkoji čine Integrisani zdravstveni informacioni sistem u skladu sa zakonom.",
+            "Stručno-metodološko uputstvo za propisivanje i izdavanje lekova posredstvom\nintegrisanog zdravstvenog informacionog sistema, postupanje u slučaju nemogućnosti upotrebe\novog sistema, donosi institut za javno zdravlje osnovan za teritoriju Republike Srbije u\nskladu sa zakonom kojim se uređuje zdravstvena zaštita.",
+            "II SADRŽINA RECEPTA"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-obrascu-i-sadrzini-lekarskog-recepta-nacinu-izdavanja-i-propisivanja-lekova.html#clan_4"
+    },
+    {
+        "title": "Član 5",
+        "texts": [
+            "Recept sadrži administrativne i stručne podatke.",
+            "Administrativni podaci koje sadrži recept su:",
+            "1) ime i prezime pacijenta;",
+            "2) šifra dijagnoze prema Međunarodnoj klasifikaciji bolesti - MKB;",
+            "3) bar kod recepta;",
+            "4) broj zdravstvenog kartona/protokola (BZKt/P);",
+            "5) lični broj osiguranika LBO, ako ga pacijent ima;",
+            "6) naziv i adresa zdravstvene ustanove, odnosno privatne prakse u kojoj\nje lek propisan;",
+            "7) elektronska identifikacija lekara koji je propisao lek u skladu sa zakonom,\nodnosno potpis lekara u slučaju korišćenja recepta u papirnom obliku (u daljem tekstu: identifikacija\nlekara);",
+            "8) datum propisivanja leka;",
+            "9) datum izdavanja leka;",
+            "10) naziv i adresa apoteke;",
+            "11) elektronska identifikacija farmaceuta koji izdaje lek u skladu sa zakonom,\nodnosno potpis farmaceuta u slučaju korišćenja recepta u papirnom obliku (u daljem tekstu:\nidentifikacija farmaceuta);",
+            "12) napomena.",
+            "Stručni podaci koje sadrži recept su:",
+            "1) ime propisanog leka, farmaceutski oblik i jačina leka;",
+            "2) količina propisanog leka, koja je, po pravilu, izražena brojem originalnih\npakovanja leka;",
+            "3) količina izdatog leka, koja je, po pravilu, izražena brojem originalnih\npakovanja leka;",
+            "4) doziranje i način upotrebe leka;",
+            "5) šifra propisanog leka;",
+            "6) šifra izdatog leka u slučaju iz člana 24. stav 1. ovog pravilnika;",
+            "7) oznaka za obnovljivo izdavanje: \"repetatur\" ili neobnovljivo\nizdavanje \"non repetatur\";",
+            "8) zamenljivost leka iz člana 10. st. 1. i 2. ovog pravilnika;",
+            "9) hitnost iz člana 8. stav 5. ovog pravilnika.",
+            "Podaci iz stava 3. tač. 1), 2), i 4) ovog člana unose se u deo recepta\noznačen oznakom \"Rp./\" na receptu.",
+            "Recept koji je propisan za lice mlađe od 15 godina života sadrži i podatak\no godinama života, a za lice mlađe od jedne godine života dan, mesec i godinu rođenja.",
+            "Sadržina recepta iz st. 2-5. ovog člana data je na Obrascu 1. koji je odštampan\nuz ovaj pravilnik i čini njegov sastavni deo.",
+            "Pored podataka iz st. 2-5. ovog člana za lekove koji se propisuju na teret\nsredstava obaveznog zdravstvenog osiguranja recept sadrži i:",
+            "1) osnov oslobađanja od participacije u skladu sa zakonom;",
+            "2) broj zdravstvene kartice, odnosno potvrde za korišćenje zdravstvene\nzaštite (BZK/PZK);",
+            "3) ID broj lekara;",
+            "4) posebno stanje od značaja za ostvarivanje prava na lek u skladu sa zakonom\n(atribut);",
+            "5) redni broj recepta u slučaju korišćenja recepta u papirnom obliku.",
+            "Sadržina recepta iz stava 7. ovog člana data je na Obrascu 2. koji je odštampan\nuz ovaj pravilnik i čini njegov sastavni deo.",
+            "Podaci iz recepta unose se elektronskim putem, a izuzetno svojeručno u\nskladu sa stručno-metodološkim uputstvom iz člana 4. stav 5. ovog pravilnika."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-obrascu-i-sadrzini-lekarskog-recepta-nacinu-izdavanja-i-propisivanja-lekova.html#clan_5"
+    },
+    {
+        "title": "Član 6",
+        "texts": [
+            "Pored podataka iz člana 5. st. 2-5. ovog pravilnika, recept koji se koristi\nu bolničkoj apoteci, odnosno u toku ambulantnog lečenja sadrži:",
+            "1) kontakt podatke pacijenta;",
+            "2) broj istorije bolesti.",
+            "Sadržina recepta iz stava 1. ovog člana data je na Obrascu 3. koji je odštampan\nuz ovaj pravilnik i čini njegov sastavni deo.",
+            "Pored podataka iz člana 5. st. 2-5. i stav 7. ovog pravilnika i stava 1.\novog člana, za lekove koji se propisuju na teret sredstava obaveznog zdravstvenog osiguranja\nrecept koji se koristi u bolničkoj apoteci, odnosno u toku ambulantnog lečenja sadrži i:",
+            "1) šifru zdravstvene ustanove;",
+            "2) šifru osnova osiguranja;",
+            "3) šifru filijale;",
+            "4) indikaciju;",
+            "5) broj i datum donošenja mišljenja tri lekara specijaliste, odnosno konzilijarnog\nmišljenja kada je potrebno.",
+            "Sadržina recepta iz stava 3. ovog člana data je na Obrascu 4. koji je odštampan\nuz ovaj pravilnik i čini njegov sastavni deo.",
+            "1. Ime leka"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-obrascu-i-sadrzini-lekarskog-recepta-nacinu-izdavanja-i-propisivanja-lekova.html#clan_6"
+    },
+    {
+        "title": "Član 7",
+        "texts": [
+            "Ime leka ispisuje se na receptu kao zaštićeno ime, odnosno kao generičko\nime leka - internacionalno nezaštićeno ime (INN) za lekove za koje nije izdata dozvola za\nlek, u skladu sa zakonom kojim se uređuju lekovi.",
+            "Ime leka iz stava 1. ovog člana ne sme se skraćivati.",
+            "Ime magistralnog ili galenskog leka ispisuje se na receptu, po pravilu,\nna latinskom jeziku, prema imenu iz važeće farmakopeje ili stručno prihvaćenom imenu u metodologiji\nizrade lekova (Formule magistrales) i drugim stručnim priručnicima i može se skraćivati na\nnačin utvrđen važećom farmakopejom.",
+            "Imena sastojaka magistralnog leka pišu se, po pravilu, na latinskom jeziku\ni to po imenima iz važećih farmakopeja ili drugih stručnih priručnika.",
+            "Ime galenskog leka piše se u skladu sa imenom u važećim farmakopejama ili\ndrugim stručnim priručnicima, ili se piše sastav galenskog leka na način koji je određen\nza magistralni lek.",
+            "2. Količina leka"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-obrascu-i-sadrzini-lekarskog-recepta-nacinu-izdavanja-i-propisivanja-lekova.html#clan_7"
+    },
+    {
+        "title": "Član 8",
+        "texts": [
+            "Lek se propisuje u količini potrebnoj za lečenje pacijenta za period od\nnajduže 30 dana.",
+            "Broj pakovanja leka lekar upisuje u recept rimskim brojem i slovima u zagradi.",
+            "Izuzetno od st. 1. i 2. ovog člana na bolnički recept, odnosno recept na\nkome se propisuje injekcija lek se propisuje u količini potrebnoj za lečenje pacijenta za\nodgovarajući period, a količina leka može biti određena i na drugi način (npr. broj tableta,\nkapsula, ampula, internacionalnih jedinica i sl.).",
+            "Kod propisivanja magistralnog leka, na receptu se označava masa u gramima\ni to arapskim brojevima, odnosno rimskim brojevima ako se radi o kapima ili drugim jedinicama\nkoje se ne mogu izraziti u gramima.",
+            "Ukoliko je zbog prirode bolesti potrebno hitno izdati lek, na jedan recept\nmože da se propiše lek u količini potrebnoj za lečenje najviše do tri dana, a lekar to označava\nna receptu rečima \"hitno\", \"cito\", \"statim\" ili \"periculum\nin mora\".",
+            "3. Doziranje i način upotrebe"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-obrascu-i-sadrzini-lekarskog-recepta-nacinu-izdavanja-i-propisivanja-lekova.html#clan_8"
+    },
+    {
+        "title": "Član 9",
+        "texts": [
+            "Lekar na receptu jasno i potpuno navodi uputstvo o doziranju i načinu upotrebe\nleka (nije dovoljno da se navedu reči: \"po uputstvu\", \"po šemi\", \"po\npotrebi\", \"po preporuci specijaliste\" i sl.).",
+            "Ako se propisuje lek koji se koristi po potrebi, lekar na receptu navodi\nnajveću dnevnu dozu za pacijenta.",
+            "Ako se lek primenjuje u bolničkim uslovima od strane zdravstvenog radnika,\nodnosno na drugom mestu uz poseban nadzor tokom lečenja, na receptu se upisuju reči \"u\nruke lekaru\" ili \"ad manum medici\".",
+            "Ako lekar propiše lek na recept u dozi koja je veća od maksimalne, odnosno\nnajviše dozvoljene doze ili propiše drugačije doziranje  ili ako propisani magistralni\nlek sadrži supstancu u količini koja je veća od maksimalne, odnosno najviše dozvoljene doze\nkoja je utvrđena za tu supstancu i objavljena u stručnoj literaturi, dužan je da takvu dozu,\nodnosno takav način upotrebe naznači i rečima i da pored te oznake stavi znak uzvika (!).",
+            "4. Druge oznake iz recepta"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-obrascu-i-sadrzini-lekarskog-recepta-nacinu-izdavanja-i-propisivanja-lekova.html#clan_9"
+    },
+    {
+        "title": "Član 10",
+        "texts": [
+            "Recept može da sadrži i napomenu za mogućnost zamene leka u skladu sa ovim\npravilnikom.",
+            "Ako zamena propisanog leka odgovarajućim međusobno\nzamenljivim lekom može da dovede do klinički značajnih razlika u\nefikasnosti leka ili se lek ne može na bezbedan način zameniti istim\nlekom drugog proizvođača, odnosno nosioca dozvole za lek, propisani lek\nne može da se zameni tim lekom, što lekar označava na receptu.",
+            "U slučaju propisivanja leka za neobnovljivo izdavanje u količini većoj\nod potreba lečenja za period od 30 dana u skladu sa članom 13. stav 4. ovog pravilnika, lekar\nto označava u delu recepta koji se odnosi na napomene i navodi razlog za izdavanje u većoj\nkoličini.",
+            "III PROPISIVANJE LEKA"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-obrascu-i-sadrzini-lekarskog-recepta-nacinu-izdavanja-i-propisivanja-lekova.html#clan_10"
+    },
+    {
+        "title": "Član 11",
+        "texts": [
+            "Lek propisuje lekar koji obavlja zdravstvenu delatnost, odnosno određene\nposlove zdravstvene delatnosti u zdravstvenoj ustanovi, odnosno privatnoj praksi u skladu\nsa zakonom kojim se uređuje zdravstvena zaštita.",
+            "U ustanovama socijalne zaštite sa kojima Republički fond za zdravstveno\nosiguranje (u daljem tekstu: Republički fond) ima zaključen ugovor o pružanju zdravstvenih\nusluga, osiguranom licu smeštenom u ustanovu socijalne zaštite, lek propisuje i lekarski\nrecept izdaje lekar ustanove socijalne zaštite, u skladu sa zakonom i ovim pravilnikom.",
+            "Prilikom propisivanja leka, lekar uzima u obzir preporuke Dobre prakse\nu propisivanju lekova, koja je data u Prilogu 1. koji je odštampan uz ovaj pravilnik i čini\nnjegov sastavni deo.",
+            "Prilikom propisivanja leka na teret sredstava\nobaveznog zdravstvenog osiguranja lekar uzima u obzir i ranije\npropisanu i izdatu količinu istog leka, u skladu sa doziranjem i\nnačinom upotrebe leka.",
+            "Lekar na odgovarajući način informiše pacijenta o propisanom leku i obaveštava\nga o mogućnosti zamene drugim međusobno zamenljivim lekom, kao i razlici u participaciji\nkoju pacijent plaća.",
+            "Kad se lek propisuje na osnovu mišljenja lekara specijaliste odgovarajuće\ngrane medicine, lekar specijalista dostavlja medicinski izveštaj u elektronskoj formi lekaru\nkoji propisuje lek u roku od 24 časa od prijema obaveštenja nakon čega se lek može preuzeti\nu apoteci."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-obrascu-i-sadrzini-lekarskog-recepta-nacinu-izdavanja-i-propisivanja-lekova.html#clan_11"
+    },
+    {
+        "title": "Član 12",
+        "texts": [
+            "Na receptu se propisuje lek za koji je izdata dozvola za lek od strane\nAgencije u skladu sa zakonom kojim se uređuju lekovi.",
+            "Izuzetno od stava 1. ovog člana, na receptu se propisuje i lek za koji\nnije izdata dozvola za lek u Republici Srbiji, u skladu sa zakonom kojim se uređuju lekovi\ni propisom kojim se uređuje uvoz lekova za koje nije izdata dozvola za lek.",
+            "Na jednom receptu propisuje se jedan lek za jednog pacijenta.",
+            "1. Propisivanje leka za neobnovljivo izdavanje"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-obrascu-i-sadrzini-lekarskog-recepta-nacinu-izdavanja-i-propisivanja-lekova.html#clan_12"
+    },
+    {
+        "title": "Član 13",
+        "texts": [
+            "Lekar propisuje lek za neobnovljivo izdavanje označavanjem \"non repetatur\" na\nreceptu.",
+            "Recept za neobnovljivo izdavanje važi 15 dana od dana propisivanja leka.",
+            "Izuzetno od stava 2. ovog člana, recept za neobnovljivo izdavanje važi:",
+            "1) jedan dan za lekove iz člana 8. stav 5. ovog pravilnika;",
+            "2) tri dana od dana propisivanja ako je propisan antibiotik;",
+            "3) sedam dana od dana propisivanja ako su propisani lekovi koji sadrže\npsihoaktivne kontrolisane supstance za koje je propisan režim izdavanja leka na poseban recept;",
+            "4) 30 dana od dana propisivanja ako je propisan lek za koji nije izdata\ndozvola za lek u Republici Srbiji.",
+            "Izuzetno od člana 8. stav 1. ovog člana, lek propisan za neobnovljivo izdavanje\nmože da se izda i u količini većoj od potreba lečenja za period od 30 dana, pod uslovom da\nlekar proceni da za to postoje opravdani razlozi, a najviše u količini koja je potrebna za\n60 dana.",
+            "2. Propisivanje leka za obnovljivo izdavanje"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-obrascu-i-sadrzini-lekarskog-recepta-nacinu-izdavanja-i-propisivanja-lekova.html#clan_13"
+    },
+    {
+        "title": "Član 14",
+        "texts": [
+            "Lekar za potrebe primene leka u dužem periodu,\nodnosno za pacijenta sa\nhroničnim oboljenjem i ustanovljenom terapijom lekom istog\ninternacionalnog nezaštićenog naziva istog farmaceutskog oblika i\njačine, a na osnovu\nstručne procene zdravstvenog stanja pacijenta i\nfarmakološko-terapijskih karakteristika leka\ni prirode bolesti, propisuje lek za obnovljivo izdavanje, i to do prve\nsledeće kontrole,\na najviše za šest ponovljenih izdavanja.",
+            "Recept za obnovljivo izdavanje važi za period označen na receptu, a najviše\nšest meseci od dana propisivanja leka.",
+            "Lekar propisuje lek za potreban broj ponovljenih\nizdavanja i za svako ponovljeno izdavanje određuje količinu istog leka\nu skladu sa veličinom originalnog pakovanja leka, doziranjem i načinom\nupotrebe leka, uzimajući u obzir broj ranije propisanih i izdatih\noriginalnih pakovanja leka.",
+            "Lekar propisuje lek za obnovljivo izdavanje označavanjem \"repetatur\" i\nunošenjem broja ponovljenih izdavanja leka na taj recept i količine leka koja je potrebna\nza lečenje za period koji odgovara jednokratnom izdavanju leka, a najduže za period od 30\ndana.",
+            "Ako dođe do promene zdravstvenog stanja pacijenta kome je lek propisan\nza obnovljivo izdavanje ili nastanu druge okolnosti zbog kojih je potrebno izmeniti propisanu\nterapiju, lekar poništava recept propisan za naredni period i propisuje odgovarajuću terapiju\npacijentu.",
+            "Magistralni, odnosno galenski lek može da se propiše za obnovljivo izdavanje\nu skladu sa st. 1-4. ovog člana.",
+            "3. Propisivanje leka na poseban recept"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-obrascu-i-sadrzini-lekarskog-recepta-nacinu-izdavanja-i-propisivanja-lekova.html#clan_14"
+    },
+    {
+        "title": "Član 15",
+        "texts": [
+            "Poseban recept sadrži podatke propisane ovim pravilnikom osim oznake za\nmogućnost obnovljivosti izdavanja. Posebni recepti u elektronskom obliku čuvaju se radi vođenja\nknjige evidencije o izdatim receptima po leku u skladu sa zakonom.",
+            "U slučaju korišćenja recepta u papirnom obliku poseban recept sastoji se\nod dva primerka (drugi primerak je kopija). Drugi primerak posebnog recepta sadrži oznaku \"duplikat\",\nkao i redni broj iz knjige evidencije o izdatim receptima po leku u skladu sa zakonom."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-obrascu-i-sadrzini-lekarskog-recepta-nacinu-izdavanja-i-propisivanja-lekova.html#clan_15"
+    },
+    {
+        "title": "Član 16",
+        "texts": [
+            "Lekom iz člana 15. ovog pravilnika smatra se lek koji sadrži jednu ili\nviše psihoaktivnih kontrolisanih supstanci koje su određene da se mogu stavljati u promet\nu svrhu lečenja u skladu sa zakonom kojim se uređuju psihoaktivne kontrolisane supstance\ni podzakonskim propisima donetim za njegovo sprovođenje.",
+            "Stav 1. ovog člana ne primenjuje se na lekove koji u svom sastavu ne sadrže\nviše od:",
+            "1) 100 mg folkodina u pojedinačnoj dozi, odnosno više od 2,5% u nepodeljenom\nobliku leka;",
+            "2) 30 mg kodeina u kombinacijama sa drugim lekovitim supstancama, u pojedinačnoj\ndozi, odnosno više od 2,5% u nepodeljenom obliku leka (preračunato na bazu)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-obrascu-i-sadrzini-lekarskog-recepta-nacinu-izdavanja-i-propisivanja-lekova.html#clan_16"
+    },
+    {
+        "title": "Član 17",
+        "texts": [
+            "Lekar na poseban recept može da propiše lek iz člana 15. ovog pravilnika\nu količini potrebnoj za lečenje za period od najviše 30 dana.",
+            "Na poseban recept ne propisuju se lekovi koji sadrže psihoaktivne kontrolisane\nsupstance date u Prilogu 2. koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-obrascu-i-sadrzini-lekarskog-recepta-nacinu-izdavanja-i-propisivanja-lekova.html#clan_17"
+    },
+    {
+        "title": "Član 18",
+        "texts": [
+            "Na poseban recept lekar može da propiše lek koji sadrži najviše:",
+            "1) 0,6 g buprenofrina;",
+            "2) 6,0 g morfina;",
+            "3) 15,0 g pentazocina;",
+            "4) 7,5 g kodeina;",
+            "5) 1,0 g fentanila;",
+            "6) 2,4 g metadona;",
+            "7) 15 g oksikodona;",
+            "8) 18,1 g tapentadola."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-obrascu-i-sadrzini-lekarskog-recepta-nacinu-izdavanja-i-propisivanja-lekova.html#clan_18"
+    },
+    {
+        "title": "Član 19",
+        "texts": [
+            "Lekovi koji sadrže kokain-hlorid ne smeju da se propisuju, niti izdaju\nna recept.",
+            "Izuzetno od stava 1. ovog člana kokain-hlorid može da se izda za potrebe\nzdravstvene ustanove, odnosno privatne prakse samo u obliku rastvora koji sadrži do 20% kokaina,\nodnosno u obliku masti za oči koja sadrži do 2% kokaina.",
+            "4. Propisivanje leka na ograničen recept"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-obrascu-i-sadrzini-lekarskog-recepta-nacinu-izdavanja-i-propisivanja-lekova.html#clan_19"
+    },
+    {
+        "title": "Član 20",
+        "texts": [
+            "Agencija može da u postupku izdavanja, odnosno izmene, dopune ili dozvole\nza lek utvrdi da se lek propisuje na recept uz ograničenje za izdavanje, odnosno primenu\nu određenim specijalizovanim oblastima, i to:",
+            "1) kada se terapija sprovodi isključivo u bolničkim uslovima (SZ) zbog\nnjegovih farmaceutskih karakteristika, odnosno zato što je nov, ili je to potrebno u interesu\nzaštite zdravlja stanovništva;",
+            "2) kada se lek koristi za lečenje stanja koja se dijagnostikuju u bolničkim\nuslovima ili u ustanovama sa odgovarajućim dijagnostičkim sredstvima, ako se primena leka\ni stanja pacijenta naknadno mogu pratiti i na drugim mestima (SZR);",
+            "3) kada je lek namenjen za pacijente na ambulantnom lečenju, s tim da njegova\nprimena može dovesti do veoma ozbiljnih neželjenih reakcija koji se, primenjuje uz poseban\nnadzor pacijenta tokom njegovog lečenja (Z).",
+            "IV IZDAVANJE LEKOVA",
+            "1. Izdavanje lekova na recept"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-obrascu-i-sadrzini-lekarskog-recepta-nacinu-izdavanja-i-propisivanja-lekova.html#clan_20"
+    },
+    {
+        "title": "Član 21",
+        "texts": [
+            "Lek čiji je režim izdavanja na recept izdaje farmaceut koji ima odobrenje\nza samostalan rad, u apoteci ili bolničkoj apoteci u skladu sa zakonom kojim je uređena zdravstvena\nzaštita.",
+            "Farmaceut može da izda lek čiji je režim izdavanja na recept samo ukoliko\nje taj lek propisan na receptu u skladu sa zakonom kojim se uređuju lekovi i ovim pravilnikom.",
+            "Farmaceut može da izda lek pacijentu ili drugom licu koje preuzima lek\nu ime i za račun pacijenta (u daljem tekstu: pacijent) u skladu sa zakonom i ovim pravilnikom.",
+            "Lice koje preuzima lek zdravstvenom karticom pacijenta kome je lek propisan\npotvrđuje da je preuzelo lek (npr. davanjem na uvid, učitavanjem i sl. u skladu sa tehničkim\nmogućnostima), odnosno svojeručnim potpisom u slučaju korišćenja recepta u papirnom obliku.\nPreuzimanje leka može se potvrditi i ličnim dokumentom u skladu sa zakonom.",
+            "Lekovi koji sadrže psihoaktivne kontrolisane supstance izdaju se na način\nkoji je utvrđen u dozvoli za lek, odnosno izmeni, dopuni ili obnovi dozvole za lek koju izdaje\nAgencija."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-obrascu-i-sadrzini-lekarskog-recepta-nacinu-izdavanja-i-propisivanja-lekova.html#clan_21"
+    },
+    {
+        "title": "Član 22",
+        "texts": [
+            "Na recept se izdaje lek za koji je Agencija u postupku izdavanja dozvole\nza lek, odnosno izmene, dopune ili obnove dozvole za lek utvrdila režim izdavanja na recept,\nkao i proizvodi iz člana 4. stav 3. ovog pravilnika.",
+            "Lek čiji je režim izdavanja na recept izdaje farmaceut ako apoteka ima\nna raspolaganju taj lek i ako je recept propisan u skladu zakonom i ovim pravilnikom."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-obrascu-i-sadrzini-lekarskog-recepta-nacinu-izdavanja-i-propisivanja-lekova.html#clan_22"
+    },
+    {
+        "title": "Član 23",
+        "texts": [
+            "Farmaceut ne izdaje lek na recept ako:",
+            "1) stručno proceni da bi lek mogao da ugrozi zdravlje korisnika leka;",
+            "2) recept ne sadrži podatke propisane odredbama ovog pravilnika.",
+            "Farmaceut ne izdaje lek na recept ako je propisan suprotno odredbama zakona\nkojim se uređuju lekovi, zakona kojim se uređuje zdravstvena zaštita, zakona kojim se uređuje\nzdravstveno osiguranje, odredbama ovog pravilnika i opštih akata Republičkog fonda.",
+            "2. Izdavanje međusobno zamenljivog leka"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-obrascu-i-sadrzini-lekarskog-recepta-nacinu-izdavanja-i-propisivanja-lekova.html#clan_23"
+    },
+    {
+        "title": "Član 24",
+        "texts": [
+            "Ako apoteka ne raspolaže propisanim lekom, farmaceut može da izda međusobno\nzamenljiv lek samo ukoliko pacijent, nakon dobijenog objašnjenja od strane farmaceuta, pristane\nna predloženu zamenu.",
+            "Lek može da se zameni međusobno zamenljivim lekom bez konsultacije sa lekarom\nuz pristanak pacijenta, ako lekar na receptu nije označio da zamena nije dozvoljena rečima \"Ne\nzamenjuj\".",
+            "Svaka zamena leka mora da se označi na receptu.",
+            "Lek na recept sa oznakom hitnosti izdaje se bez odlaganja.",
+            "U slučaju izdavanja međusobno zamenljivog leka farmaceut daje korisniku\njasna, a po potrebi i kratka pismena uputstva o upotrebi leka.",
+            "3. Izdavanje leka u originalnom pakovanju"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-obrascu-i-sadrzini-lekarskog-recepta-nacinu-izdavanja-i-propisivanja-lekova.html#clan_24"
+    },
+    {
+        "title": "Član 25",
+        "texts": [
+            "Lek može da se izda samo u originalnom pakovanju, odnosno pakovanju za\nkoje je od strane Agencije izdata dozvola za lek, odnosno izmena, dopuna ili obnova dozvole\nza lek.",
+            "Izuzetno u opravdanim slučajevima, lek čiji je režim izdavanja na recept može da se izda i u količini manjoj\nod originalnog pakovanja, a za samostalnu upotrebu od strane pacijenta samo ako je farmaceutski\noblik leka (tablete, kapsule, supozitorije i dr.) u takvom unutrašnjem pakovanju, odnosno\nu originalnom pojedinačnom pakovanju (npr. kesica, folija, karpula i dr.) koje je obeleženo\nimenom leka, brojem serije i datumom isteka roka upotrebe leka.",
+            "Izdavanje leka iz originalnog pakovanja vrši se na takav način da se fizički\nne naruši originalnost pojedinačnog unutrašnjeg pakovanja.",
+            "Pri izdavanju leka za samostalnu upotrebu od strane pacijenta iz stava\n2. ovog člana, farmaceut označava, način upotrebe i čuvanja, kao i druge podatke značajne\nza pravilnu upotrebu leka, u skladu sa zakonom, a pacijentu izdaje kopiju uputstva za lek.",
+            "Ako na receptu nije naznačena količina leka, odnosno broj pakovanja leka\nkoje treba izdati, na recept može da se izda najviše jedno originalno pakovanje leka, a ukoliko\nnije naznačena jačina leka za lek za koji je izdata dozvola za lek od Agencije u više različitih\njačina, na recept može da se izda lek u najmanjoj jačini, odnosno dozi."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-obrascu-i-sadrzini-lekarskog-recepta-nacinu-izdavanja-i-propisivanja-lekova.html#clan_25"
+    },
+    {
+        "title": "Član 26",
+        "texts": [
+            "Ako recept nije propisan u skladu sa odredbama ovog pravilnika, farmaceut\no tome obaveštava lekara koji je propisao lek radi usaglašavanja recepta sa odredbama ovog\npravilnika.",
+            "U slučaju da ne postoji mogućnost za usaglašavanje recepta sa odredbama\novog pravilnika iz stava 1. ovog člana, farmaceut postupa na sledeći način:",
+            "1) ako recept nije propisan u skladu sa odredbama ovog pravilnika, vraća\nrecept lekaru uz potrebno objašnjenje u pismenoj formi;",
+            "2) ako su u receptu prekoračene maksimalne, odnosno najviše dozvoljene\ndoze leka, a lekar koji ga je propisao nije stavio propisane oznake, lek izdaje u količini\nkoja odgovara preporučenoj terapijskoj dozi za određenu indikaciju, a ispravku označava na\nreceptu i o tome obaveštava lekara koji je propisao lek;",
+            "3) ako je pogrešno naveden farmaceutski oblik leka, izdaje lek u drugom,\nnajprikladnijem farmaceutskom obliku u skladu sa propisanim načinom upotrebe leka;",
+            "4) ako je pogrešno navedena jačina leka, lek izdaje u najmanjoj jačini;",
+            "5) ako je pogrešno navedena veličina pakovanja, izdaje najmanje pakovanje\nleka.",
+            "Ispravka na receptu označava se i potvrđuje identifikacijom farmaceuta."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-obrascu-i-sadrzini-lekarskog-recepta-nacinu-izdavanja-i-propisivanja-lekova.html#clan_26"
+    },
+    {
+        "title": "Član 27",
+        "texts": [
+            "Pri svakom izdavanju leka, farmaceut označava na receptu:",
+            "1) naziv apoteke;",
+            "2) datum izdavanja leka na recept;",
+            "3) količinu izdatog leka, a za recept na kome je lekar naznačio obnovljivo\nizdavanje količinu izdatog leka za svako izdavanje osim slučaju korišćenja recepta u papirnom\nobliku;",
+            "4) identifikaciju farmaceuta.",
+            "4. Neobnovljivo izdavanje"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-obrascu-i-sadrzini-lekarskog-recepta-nacinu-izdavanja-i-propisivanja-lekova.html#clan_27"
+    },
+    {
+        "title": "Član 28",
+        "texts": [
+            "Lek koji je propisan za neobnovljivo izdavanje izdaje se jedanput na isti\nrecept.",
+            "Farmaceut može da izda lek koji je lekar propisao za neobnovljivo izdavanje\ni u količini većoj od potreba lečenja za period od 30 dana, ali ne za period duži od 60 dana,\nsamo ako je lekar u delu recepta koji se odnosi na napomenu naznačio da je odjednom potrebno\nizdati količinu leka koja je potrebna za period lečenja duži od 30 dana u skladu sa članom\n13. stav 4. ovog pravilnika.",
+            "5. Obnovljivo izdavanje"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-obrascu-i-sadrzini-lekarskog-recepta-nacinu-izdavanja-i-propisivanja-lekova.html#clan_28"
+    },
+    {
+        "title": "Član 29",
+        "texts": [
+            "Lek koji je propisan za obnovljivo izdavanje izdaje se na osnovu jednog\nrecepta više puta u periodu označenom na receptu, odnosno onoliko puta koliko je označeno\nna receptu u periodu važenja recepta.",
+            "Izdavanje leka iz stava 1. ovog člana vrši se u bilo kojoj apoteci po izboru\npacijenta u periodu koji je označen na receptu.",
+            "Farmaceut izdaje lek za obnovljivo izdavanje u skladu sa naznakom lekara\nna receptu.",
+            "Farmaceut na receptu označava datum izdavanja leka, količinu izdatog leka,\noznačava recept identifikacijom farmaceuta i upisuje u evidenciju recepata za obnovljivo\nizdavanje.",
+            "Pacijent može putem telefona ili elektronske pošte najaviti apoteci koja\nmu izdaje lek svako naredno izdavanje leka, kako bi apoteka mogla blagovremeno da obezbedi\npotrebnu količinu leka.",
+            "Farmaceut se prilikom svakog izdavanja leka informiše\no zdravstvenom stanju\npacijenta, neželjenim reakcijama na lek, kao i o drugim lekovima,\nmedicinskim sredstvima, dijetetskim suplementima (i drugim proizvodima,\nako je primenjivo) koje koristi ili je prestao\nda koristi u periodu obnovljivog izdavanja leka.",
+            "Lek za obnovljivo izdavanje preuzima se najkasnije u roku od 15 dana od\ndana propisivanja leka. Svako sledeće izdavanje vrši se najviše sedam dana pre ili najkasnije\nsedam posle roka predviđenog za svako sledeće izdavanje leka.",
+            "7. Magistralni lek"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-obrascu-i-sadrzini-lekarskog-recepta-nacinu-izdavanja-i-propisivanja-lekova.html#clan_29"
+    },
+    {
+        "title": "Član 30",
+        "texts": [
+            "Ako na receptu nisu označene količina i vrsta pomoćne supstance koja je\npotrebna za izradu magistralnog leka, farmaceut na receptu upisuje količinu i vrstu supstance\nkoju je upotrebio za izradu leka.",
+            "Ako lekar pod skraćenim nazivom propiše neki magistralni lek koji je naveden\nu važećoj farmakopeji ili u drugim stručnim propisima u metodologiji izrade lekova (Formule\nmagistrales), farmaceut, pri izdavanju leka, na receptu upisuje sve supstance koje je upotrebio\npri izradi leka, kao i njihove količine.",
+            "Podaci iz st. 1. i 2. ovog člana unose se u delu recepta koji se odnosi\nna napomene."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-obrascu-i-sadrzini-lekarskog-recepta-nacinu-izdavanja-i-propisivanja-lekova.html#clan_30"
+    },
+    {
+        "title": "Član 31",
+        "texts": [
+            "Pacijent kome je propisan magistralni lek bira apoteku u kojoj će lek biti\nizrađen, a koja pacijentu izdaje potvrdu na osnovu koje se izrađeni lek može preuzeti.",
+            "Potvrda iz stava 1. ovog člana izdaje se elektronskom poštom ili u štampanoj\nformi.",
+            "Potvrda iz stava 1. ovog člana sadrži:",
+            "1) naziv, adresu i broj telefona apoteke;",
+            "2) broj potvrde i datum izdavanja;",
+            "3) datum i vreme od kada je moguće da pacijent preuzme lek, kao i rok u\nkome se izrađeni lek mora preuzeti.",
+            "Farmaceut izdaje magistralni lek pacijentu, odnosno licu koje donese potvrdu\niz stava 1. ovog člana."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-obrascu-i-sadrzini-lekarskog-recepta-nacinu-izdavanja-i-propisivanja-lekova.html#clan_31"
+    },
+    {
+        "title": "Član 32",
+        "texts": [
+            "Magistralni lek izdaje se u pakovanju koje je prilagođeno farmaceutskom\nobliku izrađenog leka i koje obezbeđuje kvalitet leka tokom njegove planirane primene."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-obrascu-i-sadrzini-lekarskog-recepta-nacinu-izdavanja-i-propisivanja-lekova.html#clan_32"
+    },
+    {
+        "title": "Član 33",
+        "texts": [
+            "Magistralni lek obeležava se prema načinu upotrebe:",
+            "1) za unutrašnju upotrebu (peroralnu upotrebu), nalepnicom (u daljem tekstu:\nsignaturom) bele boje sa naznakom: \"za unutrašnju upotrebu\";",
+            "2) za spoljašnju upotrebu, signaturom crvene boje sa naznakom \"za\nspoljašnju upotrebu\".",
+            "Ako je magistralni lek izrađen od supstanci, koje nisu potpuno rastvorljive,\nveć su dispergovane u rastvaraču koji se koristi pri izradi leka, (npr. suspenzije i emulzije),\npakovanje magistralnog leka obeležava se signaturom: \"Pre upotrebe promućkati\".",
+            "Ako magistralni lek za spoljašnju upotrebu sadrži supstance koje spadaju\nu grupu otrovnih supstanci, pakovanje magistralnog leka obeležava se signaturom: \"otrov\".\nAko se magistralni lek čuva na hladnom, pakovanje magistralnog leka obeležava se signaturom \"Čuvati\nna hladnom mestu\".",
+            "Režim čuvanja leka mora biti vidno obeležen ukoliko se lek čuva na temperaturi\nod 2 °C - 8 °C."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-obrascu-i-sadrzini-lekarskog-recepta-nacinu-izdavanja-i-propisivanja-lekova.html#clan_33"
+    },
+    {
+        "title": "Član 34",
+        "texts": [
+            "Signatura na pakovanju magistralnog leka mora da sadrži sledeće podatke:",
+            "1) naziv i adresu zdravstvene ustanove, apoteke, bolničke apoteke, odnosno\nprivatne prakse u kojoj je izrađen lek;",
+            "2) način upotrebe;",
+            "3) količinu magistralnog leka;",
+            "4) broj pod kojim je recept zaveden u evidenciji izrade magistralnih lekova;",
+            "5) broj potvrde sa kojom pacijent može da preuzme magistralni lek;",
+            "6) datum izrade magistralnog leka;",
+            "7) rok upotrebe;",
+            "8) način čuvanja;",
+            "9) identifikaciju farmaceuta koji je izradio magistralni lek.",
+            "Farmaceut na signaturi čitko navodi uputstvo za upotrebu magistralnog leka.\nPrilikom izdavanja magistralnog leka, farmaceut upoznaje pacijenta sa pravilnom i bezbednom\nupotrebom leka, kao i načinom čuvanja.",
+            "Ako je u važećoj farmakopeji ili u drugim stručnim propisima u metodologiji\nizrade lekova (Formule magistrales), propisan rok upotrebe magistralnog leka, na signaturi\nse upisuje i taj podatak.",
+            "V PRELAZNE I ZAVRŠNE ODREDBE"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-obrascu-i-sadrzini-lekarskog-recepta-nacinu-izdavanja-i-propisivanja-lekova.html#clan_34"
+    },
+    {
+        "title": "Član 35",
+        "texts": [
+            "Za lekove za koje Agencija u postupku izdavanja dozvole za lek, odnosno\nizmene, dopune ili obnove dozvole za lek utvrdi potkategoriju leka, u skladu sa zakonom kojim\nse uređuju lekovi, lekar može da propiše lek za obnovljivo izdavanje samo ako je Agencija\nutvrdila da se taj lek može propisivati za obnovljivo izdavanje.",
+            "Agencija prilikom izdavanja dozvole za lek, odnosno\nprve naredne izmene,\ndopune ili obnove, izdavanja dozvole za lek na neograničeno vreme,\nodnosno na zahtev za utvrđivanje obnovljivog izdavanja leka nosioca\ndozvole za lek od dana stupanja na snagu ovog pravilnika utvrđuje da li\nse lek\nmože propisivati za obnovljivo izdavanje u skladu sa zakonom kojim se\nuređuju lekovi.",
+            "Do izdavanja dozvole za lek u skladu sa st. 1. i 2. ovog člana, za lekove\nza koje je izdata dozvola za lek, odnosno izmena, dopuna ili obnova dozvole za lek pre stupanja\nna snagu Zakona o lekovima i medicinskim sredstvima (\"Službeni glasnik RS\", br.\n30/10, 107/12, 105/17 - dr. zakon i 113/17 - dr. zakon), odnosno za lekove za koje Agencija\nu postupku izdavanja dozvole za lek, odnosno izmene, dopune ili obnove dozvole za lek nije\nutvrdila potkategorije lekova koji se propisuju na recept, mogućnost propisivanja određenog\nleka za obnovljivo izdavanje određuje lekar, u skladu sa farmakološko-terapijskim dejstvom\nleka i zdravstvenim stanjem pacijenta.",
+            "Do dana početka primene ovog pravilnika u domovima zdravlja u privatnoj\nsvojini i u apotekama u privatnoj svojini koje nemaju zaključene ugovore sa Republičkim fondom\nradi pružanja usluge izdavanja lekova koji se propisuju i izdaju na teret sredstava obaveznog\nzdravstvenog osiguranja (u daljem tekstu: neugovorene apoteke), ovi domovi zdravlja mogu\nda preuzimaju i štampaju obrasce recepta propisane ovim pravilnikom iz integrisanog zdravstvenog\ninformacionog sistema u skladu sa zakonom."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-obrascu-i-sadrzini-lekarskog-recepta-nacinu-izdavanja-i-propisivanja-lekova.html#clan_35"
+    },
+    {
+        "title": "Član 36",
+        "texts": [
+            "Danom stupanja na snagu ovog pravilnika prestaje da važi Pravilnik o načinu\npropisivanja i izdavanja lekova (\"Službeni list SRJ\", br. 16/94, 22/97 i 52/02)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-obrascu-i-sadrzini-lekarskog-recepta-nacinu-izdavanja-i-propisivanja-lekova.html#clan_36"
+    },
+    {
+        "title": "Član 37",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u \"Službenom\nglasniku Republike Srbije\", a primenjuje se:",
+            "1) od 1. marta 2019. godine u domovima zdravlja i\nzavodima za zdravstvenu zaštitu iz Plana mreže zdravstvenih ustanova u\nskladu sa zakonom kojim se uređuje zdravstvena zaštita (u daljem\ntekstu: Plan mreže), drugim davaocima zdravstvenih usluga primarnog\nnivoa zdravstvene zaštite van Plana mreže i ustanovama socijalne\nzaštite, u kojima se propisuju lekovi na teret sredstava obaveznog\nzdravstvenog osiguranja u skladu sa ugovorima zaključenim sa\nRepubličkim fondom i apotekama sa kojima Republički fond ima zaključene\nugovore radi pružanja usluge izdavanja lekova koji se obezbeđuju iz\nsredstava obaveznog zdravstvenog osiguranja, kao i za lekove koje\npacijent plaća;",
+            "2) od 1. januara 2020. godine u domovima zdravlja u\nprivatnoj svojini i privatnoj praksi i apotekama sa kojima Republički\nfond nema zaključene ugovore radi pružanja usluge propisivanja i\nizdavanja lekova;",
+            "3) od 1. januara 2026. godine u zdravstvenim ustanovama sekundarnog i tercijarnog\nnivoa zdravstvene zaštite iz Plana mreže;",
+            "4) od 1. januara 2026. godine u zdravstvenim ustanovama sekundarnog i tercijarnog nivoa zdravstvene zaštite van Plana mreže.",
+            "Član 11. stav 5. ovog pravilnika primenjuje najkasnije po isteku dve godine\nod dana stupanja na snagu ovog pravilnika u zdravstvenim ustanovama iz Plana mreže zdravstvenih\nustanova u skladu sa zakonom kojim se uređuje zdravstvena zaštita i ugovorenim apotekama,\na u zdravstvenim ustanovama u privatnoj svojini i neugovorenim apotekama najkasnije po isteku\ntri godine od dana stupanja na snagu ovog pravilnika.",
+            "",
+            "Samostalni član Pravilnika o izmeniPravilnika o obrascu i sadržini lekarskog recepta, načinu izdavanja i propisivanja lekova",
+            "(\"Sl. glasnik RS\", br. 47/2019)"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-obrascu-i-sadrzini-lekarskog-recepta-nacinu-izdavanja-i-propisivanja-lekova.html#clan_37"
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu danom objavljivanja u \"Službenom glasniku Republike Srbije\".",
+            "",
+            "Samostalni član Pravilnika o izmeniPravilnika o obrascu i sadržini lekarskog recepta, načinu izdavanja i propisivanja lekova",
+            "(\"Sl. glasnik RS\", br. 90/2019)"
+        ],
+        "link": null
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu narednog dana od dana objavljivanja u \"Službenom\nglasniku Republike Srbije\".",
+            "",
+            "Samostalni član Pravilnika o izmeniPravilnika o obrascu i sadržini lekarskog recepta, načinu izdavanja i propisivanja lekova",
+            "(\"Sl. glasnik RS\", br. 150/2020)"
+        ],
+        "link": null
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u \"Službenom glasniku Republike Srbije\".",
+            "",
+            "Samostalni član Pravilnika o izmenama i dopunamaPravilnika o obrascu i sadržini lekarskog recepta, načinu izdavanja i propisivanja lekova",
+            "(\"Sl. glasnik RS\", br. 127/2021)"
+        ],
+        "link": null
+    },
+    {
+        "title": "Član 5",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu narednog dana od dana objavljivanja u \"Službenom glasniku Republike Srbije\".",
+            "",
+            "Samostalni član Pravilnika o izmeniPravilnika o obrascu i sadržini lekarskog recepta, načinu izdavanja i propisivanja lekova",
+            "(\"Sl. glasnik RS\", br. 101/2024)"
+        ],
+        "link": null
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u \"Službenom glasniku Republike Srbije\".",
+            "",
+            "Obrasce 1-4 objavljene u \"Sl. glasniku RS\",\nbr. 87/2018 i Obrazac 5 objavljen u \"Sl. glasniku RS\", br. 134/2022,\nkoji su sastavni deo ovog pravilnika, možete pogledatiOVDE",
+            "",
+            "Prilog 1.",
+            "DOBRA PRAKSA U PROPISIVANJU LEKOVA",
+            "Dobra praksa u propisivanju lekova (u daljem tekstu: Dobra praksa) propisuje\nnačin postupanja lekara u vezi sa propisivanjem lekova. Lekari bi trebalo da postupaju u\nskladu sa smernicama propisanim ovom dobrom praksom, odnosno da objasne i opravdaju bili\nkoju odluku koja je doneta shodno preporukama Dobre prakse.",
+            "I. PRINCIPI PROPISIVANJA LEKOVA",
+            "Lek propisuje doktor medicine ili doktor stomatologije (u daljem tekstu:\nlekar), odnosno lekar koji ima licencu za obavljanje zdravstvene delatnosti, odnosno određenih\nposlova zdravstvene delatnosti u zdravstvenoj ustanovi, odnosno privatnoj praksi u skladu\nsa zakonom kojim se uređuje zdravstvena zaštita.",
+            "Propisi od značaja u oblasti propisivanja lekova:",
+            "1) zakon kojim se uređuju lekovi;",
+            "2) zakon kojim se uređuje zdravstveno osiguranje;",
+            "3) zakon kojim se uređuje zdravstvena zaštita;",
+            "4) pravilnika kojim se uređuje lista lekova koji se propisuju i izdaju\nna teret sredstava obaveznog zdravstvenog osiguranja;",
+            "5) pravilnika kojim se uređuje sadržaj i obim prava na zdravstvenu zaštitu\niz obaveznog zdravstvenog osiguranja i participacija za svaku kalendarsku godinu;",
+            "6) pravilnika kojim se uređuje način i postupak ostvarivanja prava\niz obaveznog zdravstvenog osiguranja;",
+            "7) pravilnik kojim se uređuje način prijavljivanja, prikupljanja i\npraćenja neželjenih reakcija na lekove;",
+            "8) Nacionalni registar lekova koji izdaje Agencija za lekove i medicinska\nsredstva Srbije;",
+            "9) lista lekova kojom se uređuju lekovi koji se izdaju bez recepta i koji\nse mogu reklamirati u sredstvima javnog informisanja;",
+            "10) pravilnik kojim se uređuje način oglašavanja leka.",
+            "Lekar propisuje samo onaj lek koji odgovara utvrđenim potrebama pacijenta,\na ne na osnovu svog ličnog ubeđenja ili zato što to pacijent zahteva.",
+            "Objektivnost je od suštinskog značaja u obezbeđivanju dobre zdravstvene\nzaštite. Nezavisna zdravstvena zaštita treba da bude načelo, a posebno u slučaju bliske lične\npovezanosti pacijenta sa lekarom. Lekar treba da izbegava propisivanje lekova sebi i bliskim\nosobama (npr. članovima uže porodice).",
+            "U propisivanju lekova lekar je odgovoran za propisivanje leka u skladu\nsa medicinskim indikacijama, odnosno u najboljem interesu pacijenta. Da bi se to postiglo\nneophodno je da:",
+            "1) bude upoznat sa propisima koji se odnose na propisivanje lekova odraslim\nosobama i deci, uključujući neželjene reakcije na lek i kontraindikacije;",
+            "2) poseduje ili pribavi podatke o istoriji bolesti od pacijenta, uključujući\nrazličite alergijske i neželjene reakcije na lekove, trenutno zdravstveno stanje, kao i podatke\no drugim lekovima koje koristi ili je nedavno koristio, uključujući i lekove čiji je režim\nizdavanja bez recepta;",
+            "3) se dogovori sa pacijentom o upotrebi predloženog leka, odnosno načinu\nlečenja kroz razgovor sa pacijentom u cilju otklanjanja nedoumica i zabrinutosti. Svaki pacijent\nima pravo na sve vrste informacija nezavisno od stanja zdravlja, zdravstvene službe i načina\nkako je koristi, kao i na sve informacije koje su na osnovu naučnih istraživanja i tehnoloških\ninovacija dostupne. Uzimajući obzir navedeno lekar:",
+            "- ohrabruje pacijenta da postavlja pitanja o leku koji uzima i predloženoj\nterapiji,",
+            "- obaveštava pacijenta i o drugim načinima lečenja u skladu sa pravilima\nmedicinske nauke i prakse,",
+            "- pruža pacijentu odgovarajuće informacije, na način koji pacijent može\nrazume, i to o: neželjenim reakcijama na lek, potencijalnim ozbiljnim neželjenim reakcijama\nna lek, načinu postupanja u slučaju pojave neželjene reakcije na lek, interakciji sa drugim\nlekovima i načinu upotrebe leka,",
+            "- treba da se uveri da je pacijent razumeo kako da uzima propisani lek,\nodnosno da je u stanju da uzima propisani lek na odgovarajući način.",
+            "Kada propisuje lek pacijentu, lekar treba da:",
+            "1) propiše dozu leka koja odgovara pacijentu i njegovom zdravstvenom stanju;",
+            "2) postigne dogovor sa pacijentom o odgovarajućem praćenju zdravstvenog\nstanja, ako je potrebno (npr. buduće kontrole, analize krvi ili drugi testovi, prilagođavanje\npropisane doze leka, zamena leka, kao i pitanja u vezi obnovljivog izdavanja leka),",
+            "3) informiše Agenciju za lekove i medicinska sredstva Srbije o neželjenim\nreakcijama na lek o kojima je obavešten od strane pacijenata, kao i da informiše pacijenta\no postupku prijavljivanja neželjenih reakcija na lek u skladu sa propisima kojima se uređuju\nlekovi;",
+            "4) vodi jasnu, preciznu i urednu evidenciju o svim propisanim lekovima.",
+            "Ako lekar propisuje lek na predlog drugog lekara koji nema pravo da propisuje\nlekove, treba da bude siguran da je lek odgovarajući za pacijenta, kao i da je lice koje\nje dalo preporuku kompetentno za lečenje pacijenta.",
+            "2. Informisanje pacijentovog izabranog lekara",
+            "Ako lekar koji propisuje lek nije pacijentov izabrani lekar, a leči pacijenta\nbez uputa izabranog lekara, treba da:",
+            "1) objasni pacijentu značaj i koristi obaveštavanja izabranog lekara o\nleku koji mu je propisan;",
+            "2) informiše izabranog lekara o propisanom leku, osim u slučaju kada se\npacijent tome protivi;",
+            "3) kada je to moguće, informiše izabranog lekara pre započinjanja lečenja,\nosim u slučaju kada se pacijent tome protivi.",
+            "Ako pacijent ne želi da izabrani lekar bude informisan ili nema izabranog\nlekara, lekar koji propisuje lek treba da:",
+            "1) se uveri da pacijent nije takvog zdravstvenog stanja, odnosno da se\nveć ne leči na način koji bi propisivanje leka učinio neodgovarajućim ili opasnim,",
+            "2) preuzme odgovornost da se pacijentu obezbedi sva potrebna naknadna zdravstvena\nzaštita dok ga njegov lekar ne preuzme.",
+            "3. Podsticanje na propisivanje, izdavanje, nabavku, odnosno\npotrošnju leka",
+            "Lekar ne sme da traži niti primi bilo kakvo materijalno ili nematerijalno\ndavanje kao podsticaj za propisivanje, izdavanje, nabavku, odnosno potrošnju leka.",
+            "Pacijent slobodno bira u kojoj apoteci će preuzeti propisani lek. Lekar\nmože da informiše pacijenta o apotekama koje izdaju određene specifične lekove (insulini,\ncitostatici, neregistrovani lekovi sa Liste D Liste lekova i sl.).",
+            "Lekar ne sme da dozvoli da njegovi ili finansijski interesi zdravstvene\nustanove utiču na izbor leka za pacijenta (npr. ako učestvuje u kliničkom ispitivanju leka).\nLekar ne sme da vrši pritisak na pacijenta da koristi određeni lek, da navodi na utisak da\nlek nema neželjene reakcije, da uzimanje leka garantuje uspeh u lečenju, da je propisani\nlek bolji od drugih lekova, da će lek u narednom periodu dobiti dozvolu za lek. Lekar ne\nsme na bilo koji način, a naročito putem neosnovanih kritika, da podriva poverenje koje pacijent\nima u određenu apoteku, odnosno farmaceuta.",
+            "II PROPISIVANJE KOJE ZAHTEVA POSEBNU PREDOSTROŽNOST",
+            "1. Propisivanje lekova koji sadrže psihoaktivne kontrolisane\nsupstance sebi ili bliskim licima",
+            "Lekar, kad god je to moguće, treba da izbegava da propisuje lek koji sadrži\npsihoaktivne kontrolisane supstance sebi ili osobi sa kojom je u bliskoj ličnoj vezi. Lekovi\nkoji sadrže psihoaktivne kontrolisane supstance mogu da dovedu do gubitka objektivnosti,\nneodgovarajućeg ponašanja, odnosno da zloupotrebe leka.",
+            "Lekar treba da izbegava da propisuje lek koji sadrži psihoaktivne kontrolisane\nsupstance osobi sa kojom je u bliskoj ličnoj vezi, a koju ne leči, osim ako je lek potrebno\nhitno primeniti radi spašavanja života pacijenta, izbegavanja ozbiljnog pogoršanja zdravstvenog\nstanja pacijenta ili izbegavanja bola koji se na drugi način ne može kontrolisati.",
+            "Lekar treba da opravda svoje postupanje u slučaju propisivanja leka koji\nsadrži kontrolisanu psihoaktivnu supstancu osobi sa kojoj je u bliskoj ličnoj vezi i evidentira\nokolnosti koje su dovele do tog propisivanja, kao i da o tome obavesti izabranog, odnosno\ndrugog lekara koji leči to lice.",
+            "2. Propisivanje leka za koji nije izdata dozvola za stavljanje\nleka u promet",
+            "Lek za koji je izdata dozvola za stavljanje u promet od strane Agencije\nza lekove i medicinska sredstva Srbije (registrovan lek) je lek koji ima dokazan kvalitet,\nefikasnost i bezbednost.",
+            "Ako lekar propisuje leka za koji nije izdata dozvola za stavljanje u promet\nod strane Agencije za lekove i medicinska sredstva Srbije (neregistrovan lek), treba da:",
+            "1) bude siguran da dostupan registrovani lek nije odgovarajući za lečenje\nzdravstvenog stanja,",
+            "2) poseduje dovoljno dokaza o bezbednosti i efikasnosti leka baziranih\nna iskustvu upotrebe neregistrovanog leka, odnosno za medicinsku indikaciju koja je utvrđena\nu dozvoli za stavljanje u promet u zemljama Evropske unije, odnosno u državi porekla,",
+            "3) preuzme odgovornost za propisivanje neregistrovanog leka i praćenje\nzdravstvenog stanja pacijenta kome je propisan neregistrovani lek, kao i neželjenih reakcija\nna taj lek,",
+            "4) vodi evidenciju o propisanim neregistrovanim lekovima u zdravstvenom\nkartonu pacijenta sa navedenim medicinskim razlozima za odabir tog leka.",
+            "3. Odgovornost za propisivanje lekova pacijentima koji se\nne leče u toj zdravstvenoj ustanovi",
+            "Svi lekari koji učestvuju o lečenju treba da budu informisani o lekovima\nkoji su propisani pacijentu. Kada u lečenju pacijenta učestvuje više lekara iz iste ili različitih\nzdravstvenih ustanova, izabrani lekar, odnosno lekar koji je zadužen za lečenje pacijenta\ntreba da bude obavešten o lečenju, odnosno o lekovima koji su propisani tom pacijentu od\nstrane drugog lekara u toj, odnosno drugoj zdravstvenoj ustanovi.",
+            "Treba da postoji razmena informacija između izabranog lekara i lekara specijaliste,\nodnosno iz zdravstvene ustanove na sekundarnom ili tercijarnom nivou zdravstvene zaštite\no indikacijama i potrebi za određenim lečenjem.",
+            "4. Propisivanje leka za obnovljivo izdavanje",
+            "Propisivanje leka za obnovljivo izdavanje omogućava racionalniju upotrebu\nvremena lekara, odnosno pacijenta, kao i korišćenje znanja farmaceuta. Propisivanje leka\nza obnovljivo izdavanje treba da ponudi pacijentu za koga je to odgovarajuće, kao što su\nhronični bolesnici, odnosno pacijenti čije će zdravstveno stanje ostati stabilno do prve\nnaredne kontrole. Propisivanje leka za obnovljivo izdavanje vrši se samo ako je to u najboljem\ninteresu pacijenta.",
+            "Pacijent treba da pristane da bude uključen u obnovljivo izdavanje. Lekar\ntreba da bude siguran da pacijent razume proceduru propisivanja i izdavanja leka za obnovljivo\nizdavanje.",
+            "Lekar može da vodi evidenciju apoteka koje vrše obnovljivo izdavanje, u\nslučaju potrebe da sa njima kontaktira.",
+            "Pre propisivanja leka za obnovljivo izdavanje lekar treba da bude siguran\nda je propisivanje bezbedno i odgovarajuće i da obezbedi da:",
+            "1) je pacijentu propisan odgovarajući lek,",
+            "2) prilikom svake naredne kontrole, odnosno novog propisivanja leka za\nobnovljivo izdavanje proveri da li je lek i dalje potreban pacijentu,",
+            "3) je propisana tačna doza leka u slučajevima gde doza varira tokom lečenja.",
+            "Lekar treba da obezbedi da kod propisivanja leka za obnovljivo izdavanje\nobezbedi praćenje zdravstvenog stanja pacijenta, kao i da uputi pacijenta na dodatne preglede,\nodnosno analize. Ovo je naročito važno kod lekova sa ozbiljnim neželjenim reakcijama.",
+            "5. Propisivanje leka za upotrebu koja nije sadržana u dozvoli za stavljanje leka u promet (off-label)",
+            "Propisivanje leka za upotrebu koja nije sadržana u\ndozvoli za stavljanje leka u promet (off-label) podrazumeva indikacije,\ndoze, način primene ili uzrast pacijenta koji nisu sadržani u dozvoli\nza stavljanje leka u promet.",
+            "Doktor specijalista odgovarajuće grane medicine\npropisuje lek za primenu off-label i obezbeđuje prethodno ispunjenje\nsledećih uslova:",
+            "1) etički odbor zdravstvene ustanove u kojoj se\npacijent leči je dao mišljenje da je primena leka neophodna na osnovu\nkonzilijarne odluke da je u pitanju najbolja dostupna terapija u skladu\nsa stanjem pacijenta i prethodno urađenim analizama karakterističnim za\nbolest pacijenta, kao i da nema etičkih prepreka za upotrebu u skladu\nsa odgovarajućim protokolom lečenja;",
+            "2) na osnovu stručnih i naučnih saznanja je zaključio da je lek siguran i odgovarajući za pacijenta;",
+            "3) poseduje dovoljno dokaza zasnovanih na iskustvu o sigurnosti i efikasnosti leka za tu medicinsku indikaciju;",
+            "4) preuzima odgovornost za propisivanje leka i praćenje lečenja pacijenta;",
+            "5) vodi jasnu, preciznu i urednu evidenciju o\nlekovima propisanim off-label u zdravstvenom kartonu pacijenta sa\nnavedenim medicinskim razlozima za propisivanje tog leka.",
+            "6. Informisanje pacijenta o dozvoli za lek",
+            "Neki lekovi se rutinski koriste za upotrebu koja nije\nsadržana u dozvoli za stavljanje leka u promet, na primer za decu.\nLekar mora pacijentu, odnosno licu koje daje saglasnost za lečenje da\npruži dovoljno informacija o predloženom načinu lečenja, uključujući\nsve poznate neželjene reakcije na lek, kako bi mu omogućio donošenje\nodluke o upotrebi leka. Za upotrebu leka koja nije sadržana u dozvoli\nza stavljanje leka u promet, lekar pribavlja dobrovoljni informisani\npristanak pacijenta, odnosno lica koje daje saglasnost za lečenje -\npismenu izjavu sa datumom i potpisom koju je dao pacijent koji je\nsposoban da da saglasnost ili, ako pacijent nije sposoban da da\nsaglasnost, koju je dao njegov zakonski zastupnik, a koja je data\ndobrovoljno posle davanja svih dostupnih informacija o leku, kao i\nneželjenim reakcijama na lek, i to na Obrascu dobrovoljnog informisanog\npristanka koji je odštampan uz ovaj pravilnik i čini njegov sastavni\ndeo (Obrazac 5).",
+            "",
+            "Prilog 2.",
+            "SPISAK PSIHOTROPNIH SUPSTANCI KOJE SE NE PROPISUJU NA POSEBAN\nRECEPT",
+            "",
+            "Psihotropna supstanca",
+            "Psihotropnasupstanca (međunarodnonezaštićeno ime INN)",
+            "Psihotropna supstanca(hemijsko ime)",
+            "alprazolam",
+            "Alprazolam",
+            "8-klor-1-metil-6-fenil-4H-s-triazolo[4,3-a][1,4]benzodiazepin",
+            "bromazepam",
+            "Bromazepam",
+            "7-brom-1,3-dihidro-5-(2-piridil)-2H-1,4-benzodiazepin-2-on",
+            "brotizolam",
+            "Brotizolam",
+            "2-brom-4-(o-klorfenil)-9-metil-6H-tieno[3,2-f]-s-triazolo[4,3-a][1,4]diazepin",
+            "delorazepam",
+            "Delorazepam",
+            "7-klor-5-(o-klorfenil)-1,3-dihidro-2H-1,4-benzodiazepin-2-on",
+            "diazepam",
+            "Diazepam",
+            "7-klor-1,3-dihidro-1-metil-5-fenil-2H-1,4-benzodiazepin-2-one",
+            "estazolam",
+            "Estazolam",
+            "8-klor-6-fenil-4H-s-triazolo[4,3-a][1,4]benzodiazepin",
+            "etil-loflazepat",
+            "Ethyl loflazepate",
+            "etil-7-klor-5-(o-fluorfenil)-2,3-dihidro-2-okso-1H-1,4-benzodiazepin-3-karboksilat",
+            "fludiazepam",
+            "Fludiazepam",
+            "7-klor-5-(o-fluorfenil)-1,3-dihidro-1-metil-2H-1,4-benzodiazepin-2-on",
+            "flurazepam",
+            "Flurazepam",
+            "7-klor-1-[2-(dietilamino)etil]-5-(o-fluorofenil)-1,3-dihidro-2H-1,4-benzodiazepin-2-on",
+            "halazepam",
+            "Halazepam",
+            "7-klor-1,3-dihidro-5-fenil-1-(2,2,2-trifluoretil)-2H-1,4-benzodiazepin-2-on",
+            "haloksazolam",
+            "Haloxazolam",
+            "10-brom-11b-(o-fluorfenil)-2,3,7,11b-tetrahidrooksazolo[3,2-d][1,4]benzodiazepin-6(5H)-on",
+            "kamazepam",
+            "Camazepam",
+            "7-klor-1,3-dihidro-3-hidroksi-1-metil-5-fenil-2H-1,4-benzodiazepin-2-on-dimetilkarbamat\n(ester)",
+            "ketazolam",
+            "Ketazolam",
+            "11-klor-8,12b-dihidro-2,8-dimetil-12b-fenil-4H-[1,3]oksazino[3,2-d][1,4]benzodiazepin-4,7(6H)-dion",
+            "klobazam",
+            "Clobazam",
+            "7-klor-1-metil-5-fenil-1H-1,5-benzodiazepin-2,4(3H,5H)-dion",
+            "kloksazolam",
+            "Cloxazolam",
+            "10-klor-11b-(o-klorfenil)-2,3,7,11b-tetrahidrooksazolo-[3,2-d][1,4]benzodiazepin-6(5H)-on",
+            "klonazepam",
+            "Clonazepam",
+            "5-(o-klorfenil)-1,3-dihidro-7-nitro-2H-1,4-benzodiazepin-2-on",
+            "klorazepat",
+            "Clorazepate",
+            "7-klor-2,3-dihidro-2-okso-5-fenil-1H-1,4-benzodiazepin-3-karboksilna\nkiselina",
+            "klordiazepoksid",
+            "Chlordiazepoxide",
+            "7-klor-2-(metilamino)-5-fenil-3H-1,4-benzodiazepin-4-oksid",
+            "klotiazepam",
+            "Clotiazepam",
+            "5-(o-klorfenil)-7-etil-1,3-dihidro-1-metil-2H-tieno[2,3-e]-1,4-diazepin-2-on",
+            "loprazolam",
+            "Loprazolam",
+            "6-(o-klorfenil)-2,4-dihidro-2-[(4-metil-1-piperazinil)metilen]-8-nitro-1H-imidazo[1,2-a][1,4]benzodiazepin-1-on",
+            "lorazepam",
+            "Lorazepam",
+            "7-klor-5-(o-klorfenil)-1,3-dihidro-3-hidroksi-2H-1,4-benzodiazepin-2-on",
+            "lormetazepam",
+            "Lormetazepam",
+            "7-klor-5-(o-klorfenil)-1,3-dihidro-3-hidroksi-1-metil-2H-1,4-benzodiazepin-2-on",
+            "medazepam",
+            "Medazepam",
+            "7-klor-2,3-dihidro-1-metil-5-fenil-1H-1,4-benzodiazepin",
+            "midazolam",
+            "Midazolam",
+            "8-klor-6-(o-fluorfenil)-1-metil-4H-imidazo[1,5-a][1,4]benzodiazepin",
+            "nimetazepam",
+            "Nimetazepam",
+            "1,3-dihidro-1-metil-7-nitro-5-fenil-2H-1,4-benzodiazepin-2-on",
+            "nitrazepam",
+            "Nitrazepam",
+            "1,3-dihidro-7-nitro-5-fenil-2H-1,4-benzodiazepin-2-on",
+            "nordazepam",
+            "Nordazepam",
+            "7-klor-1,3-dihidro-5-fenil-2H-1,4-benzodiazepin-2-on",
+            "oksazepam",
+            "Oxazepam",
+            "7-klor-1,3-dihidro-3-hidroksi-5-fenil-2H-1,4-benzodiazepin-2-on",
+            "oksazolam",
+            "Oxazolam",
+            "10-klor-2,3,7,11b-tetrahidro-2-metil-11b-feniloksazolo[3,2-d][1,4]benzodiazepin-6(5H)-on",
+            "pinazepam",
+            "Pinazepam",
+            "7-klor-1,3-dihidro-5-fenil-1-(2-propinil)-2H-1,4-benzodiazepin-2-on",
+            "prazepam",
+            "Prazepam",
+            "7-klor-1-(ciklopropilmetil)-1,3-dihidro-5-fenil-2H-1,4-benzodiazepin-2-on",
+            "temazepam",
+            "Temazepam",
+            "7-klor-1,3-dihidro-3-hidroksi-1-metil-5-fenil-2H-1,4-benzodiazepin-2-on",
+            "tetrazepam",
+            "Tetrazepam",
+            "7-klor-5-(1-cikloheksen-1-il)-1,3-dihidro-1-metil-2H-1,4-benzodiazepin-2-on",
+            "triazolam",
+            "Triazolam",
+            "8-klor-6-(o-klorfenil)-1-metil-4H-s-triazolo[4,3-a][1,4]benzodiazepin",
+            "zolpidem",
+            "Zolpidem",
+            "N,N,6-trimetil-2-p-tolilimidazo[1,2-a]piridin-3-acetamid",
+            "",
+            "Prilog 3.",
+            "KRITERIJUMI ZA ZAMENLJIVOST",
+            "Agencija za lekove i medicinska sredstva Srbije određuje listu zamenljivih lekova, odnosno grupe međusobno zamenljivih lekova.",
+            "Svrha određivanja zamenljivosti lekova prema ovim\nkriterijumima je ušteda, odnosno racionalno korišćenje sredstva\nzdravstvenog osiguranja, kao i obezbeđivanje kontinuiteta snabdevanja\ntj. obezbeđivanja lekova iz obaveznog zdravstvenog osiguranja u\nokolnostima kada ne postoji kontinuirano, dovoljno ili je došlo do\nprestanka snabdevanja određenim lekom koji se nalaze na listi\nzamenljivih lekova. Pored toga, na ovaj način obezbeđuje se bolje\nsnabdevanje celog tržišta Republike Srbije, odnosno farmaceutska\nzaštita građana koji plaćaju lekove iz sopstvenih sredstava.",
+            "Na ovaj način dozvoljeno je farmaceutu u apoteci da\nizvrši zamenu lekom iz grupe međusobno zamenljivih lekova ukoliko na\nreceptu nije naznačeno da se zamena ne izvrši u skladu sa odredbama\novog pravilnika.",
+            "Međusobno zamenljivi lek može se izdati samo ukoliko\nto ne predstavlja dodatni trošak za pacijenta ili zdravstveni sistem,\nkao i ukoliko time nije ugrožena bezbednost pacijenta.",
+            "Predmet ovog propisa nije određivanje cene leka, kao\nni stavljanje leka na listu lekova koji se obezbeđuju iz sredstava\nobaveznog zdravstvenog osiguranja u skladu sa zakonom.",
+            "Ovaj prilog odnosi se isključivo na lekove za koje je Agencija izdala dozvolu za lek i čiji je režim izdavanja na recept.",
+            "U primeni ovog pravilnika primenjuju definicije date\nzakonom kojim se uređuju lekovi i medicinska sredstva, a koje se donose\nna referentni i generički lek, odnosno lek sa potpunom i lek sa\nskraćenom dokumentacijom, kao i zahtevi propisani ovim zakonom i\npropisima donetim za njegovo sprovođenje.",
+            "Generički lek je lek koji ima isti kvalitativni i\nkvantitativni sastav aktivnih supstanci i isti farmaceutski oblik kao i\nreferentni lek i čija je biološka ekvivalencija u odnosu na referentni\nlek dokazana odgovarajućim ispitivanjima biološke raspoloživosti.",
+            "Istom aktivnom supstancom generičkog leka smatraju se\nrazličite soli, estri, etri, izomeri, mešavine izomera, kompleksi ili\nderivati aktivnih supstanci, osim ako se znatno ne razlikuju po svojoj\nbezbednosti, odnosno efikasnosti. Istim farmaceutskim oblikom\ngeneričkog leka smatraju se različiti oralni oblici sa trenutnim\noslobađanjem.",
+            "Generički lek se primenjuje u terapiji istih\noboljenja u jednakim dozama kao referentni lek, ispunjava iste\nstandarde kvaliteta i bezbednosti i ima podjednaku efikasnost kao\nreferentni lek. Za dobijanje dozvole za lek generičkog leka podnose se\nskraćeni (redukovani) podaci. Dosije leka sadrži potpune farmaceutske\npodatke, dok klinički deo dokumentacije sadrži podatke o biološkoj\nekvivalenciji generičkog u odnosu na referentni lek na osnovu\nodgovarajućih ispitivanja biološke raspoloživosti na zdravim\ndobrovoljcima uglavnom. Zahtevi za podatke o bioekvivalentnosti lekovi\nharmonizovani su sa zahtevima Evropske unije.",
+            "Kada je za generički lek dokazana bioekvivalentnost u\nodnosu na referentni lek, može se smatrati da je odnos koristi i rizika\nisti za oba leka, tako da generički lek može da bude zamenja za\nreferentni lek.",
+            "MEĐUSOBNA ZAMENLJIVOST LEKOVA",
+            "Svrha međusobne zamenljivosti lekova je da se omogući supstitucija onih lekova koji se smatraju međusobno zamenljivim.",
+            "Međusobno zamenljivi su lekovi koji:",
+            "1) imaju isti kvalitativni i kvantitativni sastav aktivnih supstanci;",
+            "2) imaju isti farmaceutski oblik;",
+            "3) imaju isti način primene;",
+            "4) ne sadrže više od dve aktivne supstance.",
+            "U slučaju kada se radi o farmaceutskim oblicima kao\nšto su oblici sa modifikovanim oslobađanjem, ne mogu se smatrati\nmeđusobno zamenljivim ukoliko to Agencija ne utvrdi, kao i ukoliko se\nradi o lekovima koji su sastavni deo medicinskog sredstva (gde\nmedicinsko sredstvo predstavlja\"pakovanje\" leka). Takođe, biološki\nlekovi, kao i biološki slični lekovi nisu predmet ovog priloga tj.\nnavedeni kriterijumi se ne mogu primeniti na ove lekove.",
+            "Zamena lekova male terapijske širine, kao što su na\nprimer antiepileptici, antiaritmici, antikoagulansi, imunosupresivi i\ndrugi, odnosno situacije u kojima može doći do značajnih kliničkih\nrazlika ako se zamena ne isprati odgovarajućim dijagnostičkim\npostupcima i metodama, predstavlja rizik po bezbednost pacijenta i\nzamenljivost tj. međusobna zamenljivost tih lekova određivaće se od\nslučaja do slučaja.",
+            "Okolnosti u kojima se lekovi ne mogu smatrati\nmeđusobno zamenljivim su kada postoje klinički značajne razlike među\nlekovima ili kada lekovi ne mogu da budu bezbedna zamena za druge\nlekove.",
+            "Kriterijum",
+            "Naziv",
+            "Opis",
+            "1.",
+            "Kvalitativni i kvantitativni sastav",
+            "Kvalitatitivni\ni kvantitativni sastav aktivnih supstanci mora da bude isti. Prema\nregulatornim zahtevima za generičke lekove, različite soli, estri,\netri, izomeri, miksture izomera, komoleksi ili derivati aktivne\nsupstance smatraju se istom aktivnom supstancom, osim ukoliko ne\npostoje značajne razlike u svojstvima u odnosu na bezbednost i\nefikasnost.",
+            "2.",
+            "Farmaceutski oblik",
+            "Farmaceutski\noblik mora da bude isti ili približan. Prema regulatornim zahtevima za\ngeneričke lekove, ta različite farmaceutske forme sa trenutnim (brzim)\noslobađanje može se smatrati predstavljaju isti farmaceutski oblik,\nnpr. tablete i kapsule.",
+            "3.",
+            "Način primene",
+            "Način primene mora da bude isti.",
+            "4.",
+            "Bioevaluabilnost",
+            "Za\ngenerički lek mora da bude pokazana bioekvivalentnost u odnosu na\nreferentni lek. U slučajevima kada postoji razlika u bioevaluabilnosti\nkoje je od kliničkog značaja u pogledu efikasnosti, lekovi ne mogu da\nbudu međusobno zamenljivi. (Videti vodiče za ispitivanje\nbioekvivalnce).",
+            "5.",
+            "Broj aktivnih supstanci",
+            "Koncept međusobne zamenljivosti odnosi se samo na lekovi koji sadrže dve ili manje aktivnih supstanci.",
+            "6.",
+            "Medicinsko sredstvo",
+            "Proizvodi\nkoji se primenjuju posredstvom medicinskog sredstva, a postoje značajne\nrazlike u uputstvima za njihovu upotrebu, nisu međusobno zamenljivi.",
+            "7.",
+            "Biološki lekovi",
+            "Koncept zamenljivosti ne odnosi se na biološke lekove.",
+            "8.",
+            "Bezbedna supstitucija",
+            "Pojedini\nproizvodi ne mogu da se smatraju međusobno zamenljivim, jer se ne mogu\nbezbedno supstituisati. U takvim slučajevima odluke o supstituciji\nmoraju da se donose za svaki slučaj pojedinačno.Primeri za ovo\nuključuju lekove sa malom terapijskom širinom, kod kojih postoji\nminimalna razlika između koristi i rizika.Ovo se takođe odnosi i na neke lekove sa modifikovanim oslobađanjem ili\ntransdermalne proizvode sa različitim načinima primene.",
+            "LISTA ZAMENLJIVIH LEKOVA",
+            "Shodno odredbama ovog pravilnika, listu zamenljivih\nlekova objavljuje Agencija na svojoj internet stranici, a prema\nkriterijumima datim u ovom prilogu u skladu sa pravnim osnovom po kom\nje izdata dozvola za lek u skladu sa zakonom kojim se uređuju lekovi i\nmedicinska sredstva, vrstom dokumentacije, podacima o bezbednosti, kao\ni drugim podacima koji se tiču farmaceutskih oblika, jačine leka,\nnačina primene, sastava leka.",
+            "Sledeći kriterijumi primenjuju se za određivanje liste zamenljivih lekova:",
+            "1) stavljanjem leka na listu zamenljivih lekova,\nAgencija potvrđuje da je lek zamenljiv sa drugim lekovima navedenim u\ntoj grupi zamenljivih lekova. Sažetak karakteristika svakog leka\nnavedenog na spisku dostupan je na internet stranici Agencija i\ninformacije date u njemu mogu poslužiti zdravstvenom radniku da bi\nutvrdio eventualne razlike u indikacijama, pomoćnim supstancama,\nveličini pakovanja ili drugim osobinama leka odnosno lekova koji se\nnalaze na spisku;",
+            "2) međusobno zamenljivi lekovi nalaze se u istoj\ngrupi na listi. Lekovi koji sadrže istu aktivnu supstancu u istoj\njačini, istom farmaceutskom obliku i primenjuju se istim putem tj. na\nisti način nalaze se u jednoj grupi;",
+            "3) na listi se mogu naći isključivo lekovi za koje je\nu Republici Srbiji izdata dozvola za lek, a svi lekovi koje sa liste ne\nmoraju biti i u prometu u svakom momentu;",
+            "4) sva pitanja koja se odnose na određivanje cene\nleka kao i obezbeđivanja leka iz sredstava obaveznog zdravstvenog\nosiguranja nisu predmet ovog priloga;",
+            "5) lekovi koji za koje u Republici Srbiji nije izdata\ndozvola za lek ne nalaze se na ovoj listi odnosno ne mogu biti\nrazmatrani kao međusobno zamenljivi ili nezamenljivi;",
+            "6) primarni cilj jeste se da omogući uštede u\nzdravstvenom sistemu Republike Srbije, ali i kontinuirana dostupnost\nlekova pacijentima u situacijama kada svi lekovi iz grupe međusobno\nzamenljivih nisu dostupni. Lekovi čiji je režim izdavanja bez recepta\nne nalaze se na ovoj listi. Ukoliko je za isti lek istog proizvođača,\nodnosno nosioca dozvole za lek izdato više dozvola za lek sa različitim\nrežimom izdavanja i različitim indikacijama, odredbe ovog pravilnika\nodnose se samo na onu veličinu pakovanja tj. onu dozvolu za koju je\nodobren režim izdavanja na recept;",
+            "7) ako se neki lek nalazi na listi zamenljivih\nlekova, lekar koji propisuje lek nije u obavezi da isti propiše kao\nzamenljiv ako iz opravdanih razloga smatra da to za pacijenta nije\nklinički opravdano. U tom slučaju, na samom receptu pored reči ZAMENJUJ\nlekar označava polje \"ne\". Ukoliko je lekar označio \"ne\" na receptu, a\npropisani lek se nalazi na listi međusobno zamenljivih lekova i iz\nopravdanih razloga nije dostupan u apoteci, zamena je moguća jedino uz\nsaglasnost lekara tj., uz obaveštavanje lekara i promenu zaštićenog\nimena propisanog leka.",
+            "POSTUPAK STAVLJANJA LEKA NA LISTU ZAMENLJIVIH LEKOVA",
+            "Agencija stavlja lek na listu međusobno zamenljivih\nlekova u skladu sa odredbama ovog pravilnika, kao i na predlog\nMinistarstva zdravlja i Republičkog fonda za zdravstveno osiguranje. Da\nbi se ostvarila svrha potencijalnih ušteda po pacijenta i zdravstveni\nsistem, Ministarstvo zdravlja ili Republički fond za zdravstveno\nosiguranje mogu da predlože Agenciji pisanim putem da prioritetno\nodredi zamenljivost za one lekove tj. INN-ove koji potencijalno mogu da\nu najvećoj meri ostvare planirane uštede. Pored toga, ako može da dođe\ndo nedovoljnog, neredovnog ili obustave snabdevanja tržišta, na predlog\nMinistarstva zdravlja ili Republičkog fonda za zdravstveno osiguranje\nAgencija može prioritetno razmatrati zamenljivost tog leka lekovima\nistog INN-a koji imaju dozvolu za lek u Republici Srbiji.",
+            "Ako za lek određenog INN-a, farmaceutskog oblika,\njačine i načina primene Agencija utvrdi da pripada grupi međusobno\nzamenljivih lekova na listi zamenljivih lekova, o tome obaveštava\npisanim putem nosioca dozvole za lek. Ako nosilac dozvole smatra da ne\nispunjava kriterijume za zamenljivost propisane ovim prilogom o tome\nbez odlaganja obaveštava Agenciju. Agencija procenjuje mišljenje\nnosioca dozvole za lek i odlučuje o ispunjenosti kriterijuma za\nzamenljivost leka u skladu sa ovim prilogom.",
+            "Prilikom procene zahteva za izdavanje, obnovu,\nizmene, odnosno dopune, kao i izdavanje dozvole na neograničeno vreme,\nako lek istog INN-a, farmaceutskog oblika, jačine i načina primene već\npostoji na listi zamenljivih lekova, odnosno ako Agencija utvrdi da je\ntaj lek zamenljiv sa lekom za koji je izdata dozvola za lek o tome\nobaveštava predlagača. Prilikom sledećeg redovnog ažuriranja liste\nzamenljivih lekova, ovaj lek stavlja se na listi zamenljivih lekova.",
+            "Takođe, nosilac dozvole za lek može da podnese zahtev\nza utvrđivanje zamenljivosti Agenciji, za lek za koji je Agencija\nizdala dozvolu za lek u skladu sa ovim pravilnikom.",
+            "IZMENE I DOPUNE LISTE ZAMENLJIVIH LEKOVA",
+            "Listu zamenljivih lekova Agencija objavljuje na svojoj internet stranici nakon svake izmene, odnosno:",
+            "1) nakon utvrđivanja grupe ili grupa međusobno zamenljivih lekova na zahtev nadležnog ministarstva;",
+            "2) nakon utvrđivanja grupe ili grupa međusobno\nzamenljivih lekova na predlog Ministarstva zdravlja ili Republičkog\nfonda za zdravstveno osiguranje;",
+            "3) nakon utvrđivanja grupe ili grupa međusobno zamenljivih lekova na zahtev nosioca dozvole za lek;",
+            "4) nakon izdavanja dozvole za lek za lek koji se ne nalazi ne listi zamenljivih lekova, nakon prestanka dozvole za lek.",
+            "Administrativne izmene liste zamenljivih lekova koje\nobuhvataju promene imena nosioca dozvole za lek, naziva proizvođača,\nizmene zaštićenog imena, odnosno imena leka, ispravka tehničkih greški\ni slično, objavljuju se uz naredno ažuriranje liste, kao i uklanjanje\nonih lekova za koje dozvola za lek nije obnovljena u skladu sa zakonom.",
+            "U slučajevima kada podaci farmakovigilance pokazuju\nda se međusobno zamenljivi lekovi sa liste zamenljivih lekova ne mogu\nbezbedno zamenjivati u kliničkoj praksi, Agencija briše taj lek ili\ngrupu lekova sa liste zamenljivih lekova. Ako se lek nalazi na listi\nzamenljivih lekova a Agencija donese ili nadležnom ministarstvu\npredloži određenu u skladu sa zakonom kojim se uređuju o lekovi i\nmedicinska sredstva Agencija preispituje odluku o zamenljivosti. U tom\nslučaju obaveštenje opštoj i stručnoj javnosti sadrži i podatak da li\nse taj lek nalazi na listi zamenljivih lekova, kao i da li je mera\ndoneta iz razloga kvaliteta ili bezbednosti leka.",
+            "Ako ne probate više različitih izbora nikada nećete biti sigurni da li imate najbolju opciju u svojim rukama. Mi Vam tu mogućnost nudimo besplatno! Popunite formular i dobićete priliku da bez ikakvih troškova saznate da li je Paragraf dobar izbor za Vas.",
+            "Ukoliko želite da Vas obaveštavamo o novostima i aktivnostima kompanije Paragraf prijavite se na našu mailing listu. Vaš e-mail neće biti upotrebljen u druge svrhe."
+        ],
+        "link": null
+    }
+]

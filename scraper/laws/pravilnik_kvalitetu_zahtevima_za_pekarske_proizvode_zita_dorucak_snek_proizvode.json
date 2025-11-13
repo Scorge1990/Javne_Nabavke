@@ -1,0 +1,550 @@
+[
+    {
+        "title": "Član 1",
+        "texts": [
+            "Ovim pravilnikom propisuju se kvalitet i drugi zahtevi za fine \r\n pekarske proizvode, žita za doručak i snek proizvode (u daljem tekstu: proizvodi), \r\n koji moraju biti ispunjeni u proizvodnji i prometu."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_1"
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Za proizvode za koje ovim pravilnikom nisu propisani kvalitet \r\n i drugi zahtevi, proizvođač je dužan da pre početka proizvodnje donese proizvođačku \r\n specifikaciju.",
+            "Proizvođačka specifikacija mora da sadrži kratak opis tehnološkog \r\n postupka proizvodnje proizvoda, osnovne zahteve kvaliteta, izveštaj o izvršenom \r\n ispitivanju zahteva kvaliteta (zdravstvena ispravnost, senzorne, fizičke i hemijske \r\n karakteristike), kao i podatke iz deklaracije u skladu sa Pravilnikom o deklarisanju \r\n i označavanju upakovanih namirnica.",
+            "O donesenim proizvođačkim specifikacijama proizvođač vodi evidenciju, \r\n koja mora da sadrži sledeće podatke:",
+            "1) evidencijski broj specifikacije;",
+            "2) datum donošenja proizvođačke specifikacije;",
+            "3) datum početka proizvodnje prema proizvođačkoj specifikaciji;",
+            "4) datum izvršenog ispitivanja zahteva kvaliteta utvrđenih \r\n u proizvođačkoj specifikaciji."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_2"
+    },
+    {
+        "title": "Član 3",
+        "texts": [
+            "Proizvodi koji se stavljaju u promet u originalnom pakovanju \r\n moraju na omotu, pakovanju, sudu ili nalepnici imati deklaraciju koja je u skladu \r\n sa Pravilnikom o deklarisanju i označavanju upakovanih namirnica."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_3"
+    },
+    {
+        "title": "Član 4",
+        "texts": [
+            "Proizvodima se mogu dodavati aditivi u skladu sa Pravilnikom \r\n o kvalitetu i uslovima upotrebe aditiva u namirnicama i o drugim zahtevima za \r\n aditive i njihove mešavine, kao i arome u skladu sa Pravilnikom o kvalitetu \r\n i drugim zahtevima za arome."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_4"
+    },
+    {
+        "title": "Član 5",
+        "texts": [
+            "Šećeri koji se prema odredbama ovog pravilnika upotrebljavaju \r\n u proizvodnji proizvoda su: saharoza, dekstroza (bezvodna i monohidratna), invertni \r\n šećer, glukozni sirupi, fruktoza i laktoza (u daljem tekstu: šećeri).",
+            "Kod svih proizvoda iz ovog pravilnika šećeri se mogu u potpunosti \r\n ili delimično zameniti zaslađivačima u skladu sa Pravilnikom o kvalitetu i uslovima \r\n upotrebe aditiva u namirnicama i o drugim zahtevima za aditive i njihove mešavine."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_5"
+    },
+    {
+        "title": "Član 6",
+        "texts": [
+            "Dozvoljena odstupanja neto količine pojedinačno upakovanih \r\n proizvoda data su u tabelama od 1 do 5:",
+            "Tabela 1",
+            "KEKS, ČAJNO PECIVO, KREKERI, SLANO PECIVO",
+            "Redni broj",
+            "Deklarisana neto količina",
+            "Dozvoljeno odstupanje od deklarisane neto \r\n količine",
+            "1",
+            "do 100 g",
+            "± 10%",
+            "2",
+            "preko 100 do 250 g",
+            "± 6%",
+            "3",
+            "preko 250 g",
+            "± 3%",
+            "Tabela 2",
+            "VAFLI",
+            "Redni broj",
+            "Deklarisana neto količina",
+            "Dozvoljeno odstupanje od deklarisane neto \r\n količine",
+            "1",
+            "do 100 g",
+            "± 12%",
+            "2",
+            "preko 100 do 250 g",
+            "± 8%",
+            "3",
+            "preko 250 g",
+            "± 5%",
+            "Tabela 3",
+            "BISKVITI",
+            "Redni broj",
+            "Deklarisana neto količina",
+            "Dozvoljeno odstupanje od deklarisane neto \r\n količine",
+            "1",
+            "do 100 g",
+            "± 15%",
+            "2",
+            "preko 100 do 300 g",
+            "± 10%",
+            "3",
+            "preko 300 g",
+            "± 7%",
+            "Tabela 4",
+            "POSLASTIČARSKI PROIZVODI, MEDENJACI I TRAJNI SLATKI KOLAČ",
+            "Redni broj",
+            "Deklarisana neto količina",
+            "Dozvoljeno odstupanje od deklarisane neto \r\n količine",
+            "1",
+            "do 100 g",
+            "± 10%",
+            "2",
+            "preko 100 do 300 g",
+            "± 7%",
+            "3",
+            "preko 300 g",
+            "± 5%",
+            "Tabela 5",
+            "ŽITA ZA DORUČAK I SNEK PROIZVODI",
+            "Redni broj",
+            "Deklarisana neto količina",
+            "Dozvoljeno odstupanje od deklarisane neto \r\n količine",
+            "1",
+            "do 100 g",
+            "± 10%",
+            "2",
+            "preko 100 do 250 g",
+            "± 7%",
+            "3",
+            "preko 250 do 500 g",
+            "± 5%",
+            "4",
+            "preko 500 do 1000 g",
+            "± 3%",
+            "5",
+            "preko 1000 do 5000 g",
+            "± 1,5%",
+            "Srednja vrednost stvarnog odstupanja od deklarisane neto količine \r\n za uzorak od 10 nasumice izuzetnih pojedinačnih pakovanja mora biti manja ili \r\n jednaka 40% od dozvoljenog odstupanja za date deklarisane neto količine navedene \r\n u tabelama od 1 do 5 stava 1 ovog člana."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_6"
+    },
+    {
+        "title": "Član 7",
+        "texts": [
+            "Proizvodi koji se stavljaju u promet moraju imati izgled, ukus \r\n i miris svojstven za određenu grupu proizvoda.",
+            "Proizvodi koji se stavljaju u promet moraju biti upakovani \r\n u odgovarajući materijal predviđen za pakovanje prehrambenih proizvoda.",
+            "Proizvodi čiji je kvalitet propisan ovim pravilnikom, mogu \r\n se stavljati u promet na malo u rinfuzi u specijalizovanim prodavnicama, pod \r\n uslovom da se na prodajnom mestu na posudi ili ambalaži iz koje se proizvod \r\n nudi potrošaču istakne odgovarajuća deklaracija proizvoda."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_7"
+    },
+    {
+        "title": "Član 8",
+        "texts": [
+            "Proizvodi se moraju čuvati na suvom i hladnom mestu, ne smeju \r\n biti izloženi sunčevoj svetlosti, vlazi i velikoj promeni temperature i ne smeju \r\n stajati blizu proizvoda čiji miris mogu da apsorbuju.",
+            "II POSEBNE ODREDBE",
+            "1. Fini pekarski proizvodi"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_8"
+    },
+    {
+        "title": "Član 9",
+        "texts": [
+            "Fini pekarski proizvodi, u smislu ovog pravilnika, su keks \r\n i srodni proizvodi i poslastičarski proizvodi."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_9"
+    },
+    {
+        "title": "Član 10",
+        "texts": [
+            "Keks i srodni proizvodi, u smislu ovog pravilnika, su proizvodi \r\n od brašna žita i drugih mlinskih proizvoda, šećera, masti i ulja (u daljem tekstu: \r\n masnoća), namirnica sa sadržajem belančevina i drugih namirnica, karakteristične \r\n strukture, termički obrađeni, sa rokom trajanja od najmanje trideset dana.",
+            "Prema sastavu i načinu obrade keks i srodni proizvodi stavljaju \r\n se u promet kao:",
+            "1) keks;",
+            "2) kreker;",
+            "3) čajno pecivo:",
+            "4) medenjak;",
+            "5) trajni slatki kolač;",
+            "6) biskvit;",
+            "7) vafel;",
+            "8) slana peciva."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_10"
+    },
+    {
+        "title": "Član 11",
+        "texts": [
+            "Keks je proizvod od brašna žita i drugih mlinskih proizvoda, \r\n masnoća, šećera i drugih namirnica, homogenizovanih u testo, oblikovan i pečen. \r\n Keks može biti slatkog ili slanog ukusa.",
+            "Keks sadrži najmanje 5% masnoća računato na gotov proizvod, \r\n a keks sa maslacem sadrži najmanje 3% mlečne masti računato na gotov proizvod.",
+            "Slani keks sadrži najviše 4% soli računato na gotov proizvod.",
+            "Keks se može stavljati u promet i kao:",
+            "1) punjen;",
+            "2) preliven;",
+            "3) delimično preliven;",
+            "4) ukrašen;",
+            "5) mleven."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_11"
+    },
+    {
+        "title": "Član 12",
+        "texts": [
+            "Kreker je proizvod slojevite, prhke strukture, proizveden od \r\n brašna žita i drugih mlinskih proizvoda, masnoća i drugih namirnica, sa ili \r\n bez dodatka kvasca i enzima.",
+            "Kreker sadrži najmanje 10% masnoća računato na gotov proizvod. \r\n Slani kreker sadrži najviše 4% soli računato na gotov proizvod."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_12"
+    },
+    {
+        "title": "Član 13",
+        "texts": [
+            "Čajno pecivo je proizvod od testa izrađenog od brašna žita \r\n i drugih mlinskih proizvoda, masnoća, šećera i drugih namirnica.",
+            "Čajno pecivo sadrži najmanje 10% masnoća računato na gotov \r\n proizvod.",
+            "Čajno pecivo može biti slatkog ili slanog ukusa.",
+            "Slano čajno pecivo sadrži najviše 4% soli računato na gotov \r\n proizvod.",
+            "Čajno pecivo se može stavljati u promet i kao:",
+            "1) punjeno;",
+            "2) preliveno;",
+            "3) delimično preliveno;",
+            "4) ukrašeno."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_13"
+    },
+    {
+        "title": "Član 14",
+        "texts": [
+            "Medenjak je proizvod dobijen od medenog testa izrađenog od \r\n brašna žita i drugih mlinskih proizvoda, meda, šećera i drugih namirnica.",
+            "Medeno testo sadrži najmanje 40% ukupnog šećera, a od toga \r\n najmanje 15% prirodnog meda.",
+            "Medenjak se može stavljati u promet i kao:",
+            "1) punjen;",
+            "2) preliven;",
+            "3) delimično preliven;",
+            "4) ukrašen."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_14"
+    },
+    {
+        "title": "Član 15",
+        "texts": [
+            "Trajni slatki kolač je kolač sličan medenjaku, proizveden od \r\n testa izrađenog od brašna žita i drugih mlinskih proizvoda, invertnog šećera, \r\n šećera i drugih namirnica.",
+            "Trajni slatki kolač se može stavljati u promet i kao:",
+            "1) punjen;",
+            "2) preliven;",
+            "3) delimično preliven;",
+            "4) ukrašen."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_15"
+    },
+    {
+        "title": "Član 16",
+        "texts": [
+            "Biskvit se stavlja u promet kao biskvit i masni biskvit."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_16"
+    },
+    {
+        "title": "Član 17",
+        "texts": [
+            "Biskvit je proizvod dobijen od biskvitnog testa izrađenog od \r\n brašna žita i drugih mlinskih proizvoda, šećera, jaja i drugih namirnica, osim \r\n masnoća.",
+            "Biskvitno testo može da sadrži masnoće u onim količinama koje \r\n su sadržane u sirovinama od kojih je proizvedeno.",
+            "Biskvit se može stavljati u promet i kao:",
+            "1) punjen;",
+            "2) preliven;",
+            "3) delimično preliven;",
+            "4) ukrašen."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_17"
+    },
+    {
+        "title": "Član 18",
+        "texts": [
+            "Masni biskvit je proizvod dobijen od brašna žita i drugih mlinskih \r\n proizvoda, šećera, jaja, masnoća i drugih namirnica.",
+            "Masni biskvit se može stavljati u promet i kao:",
+            "1) punjen;",
+            "2) preliven;",
+            "3) delimično preliven;",
+            "4) ukrašen."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_18"
+    },
+    {
+        "title": "Član 19",
+        "texts": [
+            "Vafel se stavlja u promet kao vafel list i vafel proizvod."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_19"
+    },
+    {
+        "title": "Član 20",
+        "texts": [
+            "Vafel list je proizvod dobijen od testa izrađenog od brašna \r\n žita i drugih mlinskih proizvoda i drugih namirnica.",
+            "Vafel list može biti ravan i oblikovan."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_20"
+    },
+    {
+        "title": "Član 21",
+        "texts": [
+            "Vafel proizvod se dobija stavljanjem mase za punjenje na vafel \r\n list ili između dva ili više vafel listova, odnosno punjenjem oblikovanih vafel \r\n listova.",
+            "Vafel proizvod može biti slanog i slatkog ukusa.",
+            "Masa za punjenje vafel proizvoda izrađuje se od masnoća, šećera \r\n i drugih namirnica.",
+            "Slani vafel proizvod sadrži najviše 2% soli, računato na gotov \r\n proizvod.",
+            "Vafel proizvod se može stavljati u promet i kao:",
+            "1) preliven;",
+            "2) delimično preliven;",
+            "3) ukrašen."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_21"
+    },
+    {
+        "title": "Član 22",
+        "texts": [
+            "Slana peciva su proizvodi dobijeni od testa koje se izrađuje \r\n od brašna žita i drugih mlinskih proizvoda, soli i drugih namirnica.",
+            "U proizvodnji slanih peciva dozvoljena je upotreba natrijum-hidroksida \r\n u količini do 0,5% računato na gotov proizvod. Slana peciva sadrže najviše 4% \r\n soli računato na gotov proizvod.",
+            "Slana peciva se mogu stavljati u promet i kao:",
+            "1) punjena;",
+            "2) prelivena;",
+            "3) delimično prelivena;",
+            "4) ukrašena."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_22"
+    },
+    {
+        "title": "Član 23",
+        "texts": [
+            "Kada se proizvodi iz čl. 11 do 22 ovog pravilnika prodaju u \r\n mešavinama, nazivi proizvoda mogu da se zamene izrazom \"mešavina finih \r\n pekarskih proizvoda\" ili sličnim nazivom. U tom slučaju može da postoji \r\n jedna lista sastojaka za sve proizvode iz mešavine."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_23"
+    },
+    {
+        "title": "Član 24",
+        "texts": [
+            "Poslastičarski proizvodi, u smislu ovog pravilnika, su proizvodi \r\n izrađeni od različitih vrsta testa dobijenih od brašna žita i drugih mlinskih \r\n proizvoda, šećera, namirnica sa sadržajem belančevina, masnoća i drugih namirnica, \r\n karakteristične strukture, ukusa i mirisa, termički ili na drugi način obrađeni, \r\n sa rokom trajanja do trideset dana."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_24"
+    },
+    {
+        "title": "Član 25",
+        "texts": [
+            "Prema sastavu i načinu obrade poslastičarski proizvodi stavljaju \r\n se u promet kao:",
+            "1) kolači;",
+            "2) ostali poslastičarski proizvodi.",
+            "Poslastičarski proizvodi se mogu stavljati u promet i kao:",
+            "1) punjeni;",
+            "2) preliveni;",
+            "3) delimično preliveni;",
+            "4) ukrašeni."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_25"
+    },
+    {
+        "title": "Član 26",
+        "texts": [
+            "Za proizvodnju poslastičarskih proizvoda koriste se testa izrađena \r\n od namirnica navedenih u članu 24 ovog pravilnika, i dele se na:",
+            "1) biskvitno testo za poslastičarske proizvode;",
+            "2) lisnato testo za poslastičarske proizvode;",
+            "3) prhko (sipkavo) testo za poslastičarske proizvode;",
+            "4) kuvano testo za poslastičarske proizvode;",
+            "5) fermentisano testo za poslastičarske proizvode;",
+            "6) vučeno testo za poslastičarske proizvode;",
+            "7) testo od krompira za poslastičarske proizvode;",
+            "8) testo od jezgrastog i koštičavog voća za poslastičarske \r\n proizvode;",
+            "9) ostala testa za poslastičarske proizvode."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_26"
+    },
+    {
+        "title": "Član 27",
+        "texts": [
+            "Biskvitno testo za poslastičarske proizvode izrađuje se od \r\n brašna žita i drugih mlinskih proizvoda, šećera, jaja i drugih namirnica, osim \r\n masnoća."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_27"
+    },
+    {
+        "title": "Član 28",
+        "texts": [
+            "Lisnato testo za poslastičarske proizvode izrađuje se sa ili \r\n bez dodatka kvasca ili drugih sredstava za dizanje testa.",
+            "Lisnato testo za poslastičarske proizvode sa dodatkom kvasca \r\n ili drugih sredstava za dizanje testa sadrži najmanje 20% masnoća računato na \r\n brašno žita i druge mlinske proizvode.",
+            "Lisnato testo za poslastičarske proizvode bez dodatka kvasca \r\n ili drugih sredstava za dizanje testa sadrži najmanje 30% masnoća računato na \r\n brašno žita i druge mlinske proizvode."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_28"
+    },
+    {
+        "title": "Član 29",
+        "texts": [
+            "Prhko (sipkavo) testo za poslastičarske proizvode sadrži najmanje \r\n 15% masnoća računato na brašno žita i druge mlinske proizvode."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_29"
+    },
+    {
+        "title": "Član 30",
+        "texts": [
+            "Kuvano testo za poslastičarske proizvode izrađuje se prethodnim \r\n kuvanjem brašna žita i drugih mlinskih proizvoda, masnoća i soli, uz naknadno \r\n dodavanje drugih namirnica."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_30"
+    },
+    {
+        "title": "Član 31",
+        "texts": [
+            "Fermentisano testo za poslastičarske proizvode izrađuje se \r\n uz dodatak kvasca ili drugih sredstava za dizanje testa."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_31"
+    },
+    {
+        "title": "Član 32",
+        "texts": [
+            "Vučeno testo za poslastičarske proizvode izrađuje se u obliku \r\n tankih listova."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_32"
+    },
+    {
+        "title": "Član 33",
+        "texts": [
+            "Testo od krompira za poslastičarske proizvode sadrži najmanje \r\n 40% krompira, ili odgovarajuću količinu proizvoda od krompira, računato na brašno \r\n žita i druge mlinske proizvode."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_33"
+    },
+    {
+        "title": "Član 34",
+        "texts": [
+            "Testo od jezgrastog i koštičavog voća za poslastičarske proizvode \r\n sadrži najmanje 10% sirove mase izrađene od jezgrastog voća, marcipan mase, \r\n odnosno persipan mase."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_34"
+    },
+    {
+        "title": "Član 35",
+        "texts": [
+            "Testa za poslastičarske proizvode i proizvode od testa za poslastičarske \r\n proizvode iz člana 26 ovog pravilnika mogu se stavljati u promet kao sveži, \r\n sušeni, polupečeni, pečeni i brzo smrznuti.",
+            "Brzo smrznuta testa za poslastičarske proizvode i brzo smrznuti \r\n proizvodi od testa za poslastičarske proizvode moraju se čuvati na temperaturi \r\n od -18 °C, sa dozvoljenim odstupanjem od ±2oC."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_35"
+    },
+    {
+        "title": "Član 36",
+        "texts": [
+            "Punjeni poslastičarski proizvodi sadrže najmanje 20% punjenja \r\n računato na gotov proizvod. Kada je punjenje od voća, prerađevina voća ili čokolade, \r\n proizvod sadrži najmanje 5% punjenja računato na gotov proizvod."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_36"
+    },
+    {
+        "title": "Član 37",
+        "texts": [
+            "Kada se razne vrste poslastičarskih proizvoda prodaju u mešavinama, \r\n nazivi proizvoda mogu da se zamene izrazom \"mešavina poslastičarskih proizvoda\" \r\n ili sličnim nazivima. U tom slučaju može da postoji jedna lista sastojaka za \r\n sve proizvode iz mešavine."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_37"
+    },
+    {
+        "title": "Čl. 38-41*",
+        "texts": [
+            "(Prestalo da važi)",
+            "3. Snek proizvodi"
+        ],
+        "link": null
+    },
+    {
+        "title": "Član 42**",
+        "texts": [
+            "Snek proizvodi, u smislu ovog pravilnika, su pikantni proizvodi \r\n od krompira, žita, mlinskih proizvoda, skroba,  semenki i sl.",
+            "Prema sastavu i načinu obrade snek proizvodi se stavljaju u \r\n promet kao:",
+            "1) čips;",
+            "2) čips proizvodi;",
+            "3) proizvodi na bazi peleta;",
+            "4) flips;",
+            "5) ekspandirani proizvodi;",
+            "6) prženi i suvopečeni plodovi, semenke i srodni proizvodi."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_42**"
+    },
+    {
+        "title": "Član 43",
+        "texts": [
+            "Čips je slani, suvi i hrskavi proizvod od krompira, proizveden \r\n prženjem u ulju ili masti tankih listića, prutića i drugih oblika. U proizvodnji \r\n čipsa mogu se koristiti začini i druge namirnice.",
+            "Čips sadrži:",
+            "1) najviše 48% masnoća računato na gotov proizvod;",
+            "2) najviše 3,5% soli računato na gotov proizvod;",
+            "3) najviše 4% vode računato na gotov proizvod."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_43"
+    },
+    {
+        "title": "Član 44",
+        "texts": [
+            "Čips proizvodi su proizvodi dobijeni mešanjem suvih prerađevina \r\n od krompira, skrobova, modifikovanih skrobova, brašna žita i drugih mlinskih \r\n proizvoda, namirnica sa sadržajem belančevina, masnoća, soli, začina i drugih \r\n namirnica sa vodom, oblikovanjem testa u pogodne oblike, prženjem u ulju (bez \r\n ekspandiranja).",
+            "Čips proizvodi sadrže:",
+            "1) najviše 48% masnoća računato na gotov proizvod;",
+            "2) najviše 3,5% soli računato na gotov proizvod;",
+            "3) najviše 4% vode računato na gotov proizvod."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_44"
+    },
+    {
+        "title": "Član 45",
+        "texts": [
+            "Čips proizvodi mogu nositi naziv prema sirovini (osim krompira) \r\n čiji je sadržaj u mešavini iz člana 44 ovog pravilnika veći od 50%."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_45"
+    },
+    {
+        "title": "Član 46",
+        "texts": [
+            "Proizvodi na bazi peleta su proizvodi različitog oblika, dobijeni \r\n prženjem u ulju ili drugim tehnološkim postupcima obrade poluproizvoda (peleta) \r\n i naknadnim soljenjem, odnosno aromatizovanjem.",
+            "Proizvodi na bazi peleta sadrže najviše 5% vode računato na \r\n gotov proizvod i najviše 4% soli računato na gotov proizvod.",
+            "Pelet je poluproizvod dobijen termoekstruzijom, hlađenjem, \r\n oblikovanjem i sušenjem testa izrađenog od brašna žita i drugih mlinskih proizvoda, \r\n krompira, masnoća i drugih namirnica."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_46"
+    },
+    {
+        "title": "Član 47",
+        "texts": [
+            "Flips je proizvod dobijen postupkom ekstrudiranja i ekspandiranja \r\n sirovina na bazi žita, mahunjača, krompira i drugih namirnica, uz dodatak masnoća, \r\n šećera, soli i drugih namirnica.",
+            "Flips proizvodi mogu biti slanog ili slatkog ukusa.",
+            "Slani flips sadrži najviše 3,5% soli računato na gotov proizvod \r\n i najviše 6% vode računato na gotov proizvod.",
+            "Slatki flips sadrži najviše 8% vode računato na gotov proizvod.",
+            "Flips se može stavljati u promet i kao:",
+            "1) punjen;",
+            "2) preliven;",
+            "3) delimično preliven;",
+            "4) ukrašen."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_47"
+    },
+    {
+        "title": "Član 48",
+        "texts": [
+            "Ekspandirani proizvodi su proizvodi različitih oblika dobijeni \r\n postupkom ekspandiranja žita, odnosno mahunjača uz dodatak drugih namirnica.",
+            "Ekspandirani proizvodi se mogu stavljati u promet i kao:",
+            "1) punjeni;",
+            "2) preliveni;",
+            "3) delimično preliveni;",
+            "3) ukrašeni."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_48"
+    },
+    {
+        "title": "Član 49**",
+        "texts": [
+            "Prženi i suvopečeni plodovi, semenke i srodni\r\nproizvodi su snek proizvodi dobijeni suvim pečenjem, odnosno prženjem u\r\nulju jezgra suncokreta, soje, bundevskih semenki i sl. uz dodatak soli\r\ni drugih namirnica, koji se u promet mogu stavljati i kao obloženi\r\nslatkim ili slanim nanosom.",
+            "Prženi i suvopečeni plodovi, semenke i srodni proizvodi sadrže \r\n najviše 3,5% soli računato na gotov proizvod."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_49**"
+    },
+    {
+        "title": "Član 50",
+        "texts": [
+            "Kada se proizvodi iz čl. 42 do 49 ovog pravilnika prodaju u \r\n mešavinama ili u kombinaciji sa suvim voćem i drugim namirnicama, nazivi proizvoda \r\n mogu da se zamene izrazom \"mešavina snek proizvoda\", ili sličnim nazivima. \r\n U tom slučaju može da postoji jedna lista sastojaka za sve proizvode iz mešavine, \r\n odnosno kombinacije.",
+            "III ZAVRŠNE ODREDBE"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_50"
+    },
+    {
+        "title": "Član 51",
+        "texts": [
+            "Danom stupanja na snagu ovog pravilnika prestaje da važi: Pravilnik \r\n o kvalitetu keksa i proizvoda sličnih keksu (\"Službeni list SFRJ\", \r\n br. 68/78 i 63/79) i odredba člana 228 Pravilnika o kvalitetu proizvoda od voća, \r\n povrća i pečurki i pektinskih preparata (\"Službeni list SFRJ\", br. \r\n 1/79) u delu koji se odnosi na čips."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_51"
+    },
+    {
+        "title": "Član 52",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu po isteku šest meseci od dana \r\n objavljivanja u \"Službenom listu SCG\".",
+            "Ako ne probate više različitih izbora nikada nećete biti sigurni da li imate najbolju opciju u svojim rukama. Mi Vam tu mogućnost nudimo besplatno! Popunite formular i dobićete priliku da bez ikakvih troškova saznate da li je Paragraf dobar izbor za Vas.",
+            "Ukoliko želite da Vas obaveštavamo o novostima i aktivnostima kompanije Paragraf prijavite se na našu mailing listu. Vaš e-mail neće biti upotrebljen u druge svrhe.",
+            "Pratite Paragraf na Viberu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-kvalitetu-zahtevima-za-pekarske-proizvode-zita-dorucak-snek-proizvode.html#clan_52"
+    }
+]

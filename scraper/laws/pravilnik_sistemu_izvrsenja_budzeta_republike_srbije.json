@@ -1,0 +1,487 @@
+[
+    {
+        "title": "Član 1",
+        "texts": [
+            "Ovim pravilnikom propisuju se procesi i postupci funkcionisanja izvršenja budžeta, koji se sprovode kroz Sistem za pripremu, izvršenje, računovodstvo i izveštavanje (u daljem tekstu: Sistem), koji se vodi u Ministarstvu finansija - Upravi za trezor (u daljem tekstu: Uprava za trezor), a kojima se evidentiraju ostvareni prihodi i primanja i izvršavaju rashodi i izdaci korisnika budžetskih sredstava Republike Srbije i korisnika budžetskih sredstava autonomnih pokrajina i jedinica lokalne samouprave, utvrđeni zakonom o budžetu Republike Srbije, odlukom o budžetu autonomnih pokrajina i jedinica lokalne samouprave, odnosno aktom o privremenom finansiranju.",
+            "Sistem obuhvata postupke i procedure za promenu aproprijacija, postupke i procedure za promenu kvota, način nastanka obaveze, izveštavanje o preuzetim obavezama, evidentiranje i promenu preuzetih obaveza, kao i način plaćanja koja se vrše iz budžeta Republike Srbije, odnosno budžeta autonomnih pokrajina i jedinica lokalne samouprave."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-sistemu-izvrsenja-budzeta-republike-srbije.html#clan_1"
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Pojedini izrazi u ovom pravilniku imaju sledeće značenje:",
+            "- Korisnik je korisnik budžetskih sredstava Republike Srbije i korisnik budžetskih sredstava autonomnih pokrajina i jedinica lokalne samouprave (u daljem tekstu: Korisnik) koji ostvaruje prihode i primanja i izvršava rashode i izdatke, utvrđene zakonom o budžetu Republike Srbije, odlukom o budžetu autonomnih pokrajina i jedinica lokalne samouprave, odnosno aktom o privremenom finansiranju, korišćenjem namenske komunikacione mreže Uprave za trezor za pristup Sistemu u skladu sa odredbama ovog pravilnika;",
+            "- Lokalna vlast su autonomne pokrajine i jedinice lokalne samouprave;",
+            "- Lokalni administrator/Administrator JLV je ovlašćeno fizičko lice Korisnika koje ima pravo i pristup svim ovlašćenjima za rad u Sistemu i pravo upravljanja i dodeljivanja svih korisničkih naloga i njihovim pravima pristupa Sistemu za tog korisnika i eventualno za drugog korisnika;",
+            "- Korisnički nalog je pravo pristupa Sistemu za ovlašćeno fizičko lice Korisnika;",
+            "- Evidencija šifarnika je pregled šifri jedinstvene budžetske klasifikkacije i platnog prometa;",
+            "- Evidencija korisnika je pregled korisnika koji su uključeni u konsolidovani račun trezora Republike Srbije i konsolidovani račun trezora lokalne vlasti, koji ostvaruju prihode i primanja i izvršavaju rashode i izdatke, utvrđene zakonom o budžetu Republike Srbije, odlukom o budžetu lokalne vlasti, odnosno aktom o privremenom finansiranju, kroz Sistem, u skladu sa odredbama ovog pravilnika;",
+            "- Evidencija računa korisnika je pregled svih evidencionih računa na kojima se evidentiraju izvršeni rashodi i izdaci, kao i ostvareni prihodi i primanja korisnika u toku budžetske godine;",
+            "- Evidencija računa pravnih i fizičkih lica je pregled računa primaoca sredstava kojima korisnici vrše plaćanja;",
+            "- Evidencija aproprijacija je pregled aproprijacija korisnika utvrđenih zakonom o budžetu Republike Srbije, odlukom o budžetu lokalne vlasti, odnosno aktom o privremenom finansiranju, kao i promena tih aproprijacija za budžetsku godinu;",
+            "- Evidencija kvota je pregled kvota korisnika za određeni vremenski period i promena tih kvota za budžetsku godinu;",
+            "- Evidencija ugovora je pregled podataka o pokrenutim postupcima javnih nabavki i sklopljenim ugovorima korisnika;",
+            "- Evidencija preuzetih obaveza korisnika sadrži pregled podataka o obavezama koje je preuzeo Korisnik, na osnovu podnetih zahteva za preuzimanje obaveza;",
+            "- Evidencija plaćanja sadrži pregled podnetih i izvršenih zahteva za plaćanje;",
+            "- Evidencioni račun je račun korisnika budžetskih sredstava u okviru sistema izvršenja budžeta Republike Srbije, odnosno lokalne vlasti, na kome se evidentiraju izvršeni rashodi i izdaci, kao i ostvareni prihodi i primanja tog korisnika, za sve transakcije preko računa izvršenja budžeta Republike Srbije, odnosno lokalne vlasti, a koji ne učestvuje u platnom prometu;",
+            "- Evidencioni podračun za uplatu javnih prihoda i primanja je račun iz grupe 845, propisan u skladu sa pravilnikom kojim se uređuje plan podračuna konsolidovanog računa trezor, na koji se uplaćuju i evidentiraju javni prihodi i primanja koje ostvaruju korisnici;",
+            "- Plaćanje predstavlja realizaciju naloga za plaćanje na osnovu unetog zahteva za preuzimanje obaveze i zahteva za plaćanje u Sistem."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-sistemu-izvrsenja-budzeta-republike-srbije.html#clan_2"
+    },
+    {
+        "title": "Član 3",
+        "texts": [
+            "Evidencija šifarnika sadrži šifarnike za budžet Republike Srbije i šifarnike za budžet lokalne vlasti.",
+            "Evidencija šifarnika za budžet Republike Srbije sadrži:",
+            "1) šifarnik jedinstvene budžetske klasifikacije (ekonomska klasifikacija prihoda i primanja, ekonomska klasifikacija rashoda i izdataka, organizaciona klasifikacija, funkcionalna klasifikacija, programska klasifikacija i klasifikacija prema izvorima finansiranja);",
+            "2) šifarnik podekonomske klasifikacije za prihode, primanja, rashode i izdatke;",
+            "3) šifarnik platnog prometa (šifre plaćanja, banaka, valuta, trezora i kursna lista).",
+            "Ministarstvo finansija i Uprava za trezor održavaju i ažuriraju podatke o šifarnicima iz stava 2. tač. 1) i 3) ovog člana.",
+            "Korisnik budžetskih sredstava Republike Srbije otvara i ažurira šifarnike iz stava 2. tačka 2) ovog člana.",
+            "Evidencija šifarnika za budžet lokalne vlasti sadrži:",
+            "1) šifarnik ekonomske klasifikacije prihoda i primanja, ekonomske klasifikacije rashoda i izdataka, funkcionalne klasifikacije i klasifikacije prema izvorima finansiranja;",
+            "2) šifarnik uniformnih programa i programskih aktivnosti za jedinice lokalne samouprave propisane uputstvom Ministarstva finansija kojim je propisana izrada programskog budžeta;",
+            "3) šifarnik programskih aktivnosti za autonomne pokrajine koji utvrđuju nadležni organ autonomne pokrajine i Ministarstvo finansija;",
+            "4) šifarnik organizacione klasifikacije i projektne strukture;",
+            "5) šifarnik podekonomske klasifikacije za prihode, primanja, rashode i izdatke;",
+            "6) šifarnik platnog prometa (šifre plaćanja, banaka, valuta, trezora i kursna lista).",
+            "Uprava za trezor ažurira i održava podatke o šifarnicima iz stava 5. tač. 1) i 6) ovog člana.",
+            "Ministarstvo finansija i Uprava za trezor održavaju i ažuriraju podatke o šifarnicima iz stava 5. tačka 2) ovog člana.",
+            "Korisnik budžetskih sredstava lokalne vlasti otvara i ažurira podatke o šifarnicima iz stava 5. tač. 3), 4) i 5) ovog člana.",
+            "II PRISTUP SISTEMU"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-sistemu-izvrsenja-budzeta-republike-srbije.html#clan_3"
+    },
+    {
+        "title": "Član 4",
+        "texts": [
+            "Postupak za pristup Sistemu sadržan je u Prilogu 1 - Procedura za pristup sistemu, koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo.",
+            "Korisnik podnosi Upravi za trezor zahtev za otvaranje korisničkog naloga za rad lokalnog administratora/administratora JLV u Sistemu.",
+            "Zahtev iz stava 2. ovog člana Korisnik podnosi na Prilogu 1.1 - Ovlašćenje lokalnom administratoru / administratoru JLV za rad u sistemu za pripremu, izvršenje, računovodstvo i izveštavanje, koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo.",
+            "Uprava za trezor dostavlja Korisniku, elektronskim putem, odobrenje za pristup Sistemu, na adresu elektronske pošte navedenu u obrascu iz stava 3. ovog člana.",
+            "Korisnik može da dostavi i zahtev za kreiranje korisničkog naloga za rad u ime drugog korisnika na Prilogu 1.2 - Zahtev za kreiranje korisničkog naloga za rad u sistemu za pripremu, izvršenje, računovodstvo i izveštavanje, koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-sistemu-izvrsenja-budzeta-republike-srbije.html#clan_4"
+    },
+    {
+        "title": "Član 5",
+        "texts": [
+            "Korisnički nalog sa ovlašćenjima za sprovođenje transakcija direktnog korisnika budžetskih sredstava sadrži ovlašćenja za pregled transakcija i indirektnog korisnika budžetskih sredstava koji je u nadležnosti tog direktnog korisnika budžetskih sredstava.",
+            "Korisnički nalog sa ovlašćenjima za sprovođenje transakcija indirektnog korisnika budžetskih sredstava sadrži ovlašćenja za pristup podacima samo tog korisnika.",
+            "Korisnički nalog može imati ovlašćenje za pristup podacima više Korisnika.",
+            "Korisnički nalog sa ovlašćenjima za sprovođenje transakcija kod nosioca budžeta lokalne vlasti sadrži ovlašćenja za pregled transakcija svih korisnika budžetskih sredstava koji su u njegovoj nadležnosti."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-sistemu-izvrsenja-budzeta-republike-srbije.html#clan_5"
+    },
+    {
+        "title": "Član 6",
+        "texts": [
+            "Uprava za trezor će onemogućiti pristup Sistemu na osnovu zahteva Korisnika, najkasnije u roku od 24 časa od prijema zahteva.",
+            "Izuzetno, Uprava za trezor može korisničkom nalogu, bez podnošenja zahteva, onemogućiti pristup Sistemu u slučajevima postojanja sumnje da je došlo do:",
+            "- zloupotrebe ovlašćenja od strane imaoca korisničkog naloga i/ili",
+            "- zloupotrebe od strane neovlašćenog lica.",
+            "U slučaju postupanja iz stava 2. ovog člana Uprava za trezor, bez odlaganja, obaveštava Korisnika, u cilju vršenja provera.",
+            "Uprava za trezor će omogućiti pristup Sistemu na osnovu pisane potvrde Korisnika da nije došlo do slučajeva iz stava 2. ovog člana.",
+            "Opoziv korisničkog naloga vrši Uprava za trezor na osnovu zahteva koji dostavlja Korisnik na Prilogu 1.3 - Zahtev za opoziv korisničkog naloga, koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo.",
+            "III EVIDENCIONI RAČUNI"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-sistemu-izvrsenja-budzeta-republike-srbije.html#clan_6"
+    },
+    {
+        "title": "Član 7",
+        "texts": [
+            "Sistem sadrži evidencione račune. Evidencioni računi ne učestvuju u platnom prometu.",
+            "Struktura broja evidencionog računa sastoji se od organizacione šifre korisnika, izvora finansiranja i rednog broja evidencionog računa.",
+            "Na evidencionom računu za izvor finansiranja 01 - Opšti prihodi i primanja budžeta evidentiraju se:",
+            "- izvršene transakcije plaćanja od strane korisnika;",
+            "- refundacije rashoda i izdataka.",
+            "Za izvor finansiranja 01 - Opšti prihodi i primanja budžeta uslov za izvršavanje rashoda i izdataka je raspoloživa aproprijacija rashoda. Početno stanje na evidencionom računu izvora 01 u svakoj godini iznosi 0 (nula). Po izvršenim transakcijama plaćanja u toku godine na evidencionom računu izvora 01 iskazuje se negativan saldo.",
+            "Za ostale izvore finansiranja korisnik može da ima više evidencionih računa po istom izvoru finansiranja.",
+            "Na evidencionim računima ostalih izvora finansiranja evidentiraju se:",
+            "- ostvareni prihodi i primanja korisnika;",
+            "- izvršene transakcije plaćanja od strane korisnika;",
+            "- refundacije rashoda i izdataka.",
+            "Uslov za evidentiranje prihoda i primanja na evidencionim računima ostalih izvora finansiranja je otvorena aproprijacija prihoda. Uslov za izvršenje rashoda i izdataka iz ostalih izvora finansiranja je raspoloživi saldo na evidencionom računu i raspoloživa aproprijacija rashoda. Po izvršenim transakcijama plaćanja u toku godine na evidencionim računima ostalih izvora finansiranja saldo ne može da bude negativan.",
+            "U toku budžetske godine može se izvršiti preraspodela sredstava sa jednog na drugi evidencioni račun, u okviru istog izvora finansiranja, i to za sledeće izvore finansiranja:",
+            "- izvor 03 - Socijalni doprinosi,",
+            "- izvor 10 - Primanja od domaćih zaduživanja,",
+            "- izvor 11 - Primanja od inostranih zaduživanja,",
+            "- izvor 13 - Neraspoređeni višak prihoda i primanja iz ranijih godina,",
+            "- izvor 14 - Neutrošena sredstva od privatizacije iz ranijih godina,",
+            "- izvor 15 - Neutrošena sredstva donacija, pomoći i transfera iz ranijih godina i",
+            "- izvor 17 - Neutrošena sredstva transfera od drugih nivoa vlasti.",
+            "Ukoliko korisnik budžetskih sredstava Republike Srbije sredstva prenosi korisniku budžetskih sredstava Republike Srbije koji nije u njegovoj nadležnosti, pored unetog zahteva u sistem, Korisnik dostavlja Upravi za trezor, popunjen Prilog 2.1 - Zahtev za preraspodelu stanja evidencionih računa, koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo.",
+            "Evidencioni računi za izvore finansiranja iz stava 8. ovog člana mogu da imaju početno stanje koje proističe iz neutrošenih sredstava prethodne godine.",
+            "Otvaranje evidencionog računa, preraspodela sredstava i prenos neutrošenih sredstava iz prethodne godine vrši se u skladu sa procedurom opisanom u Prilogu 2 - Procedura za evidencione račune, koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo.",
+            "IV APROPRIJACIJE"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-sistemu-izvrsenja-budzeta-republike-srbije.html#clan_7"
+    },
+    {
+        "title": "Član 8",
+        "texts": [
+            "U Sistem se učitavaju aproprijacije utvrđene zakonom o budžetu Republike Srbije, zakonom o izmenama i dopunama zakona o budžetu Republike Srbije, odnosno aktom o privremenom finansiranju Republike Srbije, odlukom o budžetu lokalne vlasti, odlukom o izmenama i dopunama odluke o budžetu lokalne vlasti, odnosno aktom o privremenom finansiranju lokalne vlasti, kao i evidentiranje promena na aproprijacijama tokom budžetske godine.",
+            "Postupci koji se odnose na evidentiranje i promene aproprijacija sadržani su u Prilogu 3 - Procedura za evidentiranje i promenu aproprijacija, koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-sistemu-izvrsenja-budzeta-republike-srbije.html#clan_8"
+    },
+    {
+        "title": "Član 9",
+        "texts": [
+            "Po donošenju zakona o budžetu Republike Srbije, zakona o izmenama i dopunama zakona o budžetu Republike Srbije, odnosno akta o privremenom finansiranju Republike Srbije, odluke o budžetu lokalne vlasti, odluke o izmenama i dopunama odluke o budžetu lokalne vlasti, odnosno akta o privremenom finansiranju lokalne vlasti, Ministarstvo finansija, odnosno lokalni organ uprave nadležan za finansije, učitava i verifikuje utvrđene aproprijacije.",
+            "U roku od 30 dana od dana stupanja na snagu zakona o budžetu Republike Srbije, odnosno akta o privremenom finansiranju Republike Srbije, odluke o budžetu lokalne vlasti, odnosno akta o privremenom finansiranju lokalne vlasti, direktni korisnik budžetskih sredstava vrši raspodelu sredstava svojim indirektnim korisnicima budžetskih sredstava u okviru svojih odobrenih aproprijacija i o tome obaveštava svakog indirektnog korisnika."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-sistemu-izvrsenja-budzeta-republike-srbije.html#clan_9"
+    },
+    {
+        "title": "Član 10",
+        "texts": [
+            "Promene u aproprijacijama mogu se izvršiti u slučaju:",
+            "- donošenja zakona o izmenama i dopunama zakona o budžetu Republike Srbije;",
+            "- donošenjem odluke o izmenama i dopunama odluke o budžetu lokalne vlasti;",
+            "- donošenjem akta o izmenama i dopunama akta o privremenom finansiranju Republike Srbije;",
+            "- donošenjem akta o izmenama i dopunama akta o privremenom finansiranju lokalne vlasti;",
+            "- korišćenja sredstava budžetske rezerve;",
+            "- prenosa aproprijacija čiji se iznos ne može iskoristiti u tekuću budžetsku rezervu;",
+            "- preusmeravanja aproprijacija odobrenih direktnom korisniku u iznosu do 10% vrednosti aproprijacije za rashod i izdatak čiji se iznos umanjuje;",
+            "- ostvarenja prihoda iz drugih izvora finansiranja izuzev izvora 01 - Opšti prihodi i primanja budžeta;",
+            "- prinudne naplate."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-sistemu-izvrsenja-budzeta-republike-srbije.html#clan_10"
+    },
+    {
+        "title": "Član 11",
+        "texts": [
+            "Korisnik podnosi zahtev za promenu aproprijacije koji obavezno sadrži sledeće elemente:",
+            "- broj zahteva;",
+            "- tip zahteva;",
+            "- datum kreiranja;",
+            "- datum promene;",
+            "- opis;",
+            "- osnov promene;",
+            "- iznos u korist, iznos na teret.",
+            "V PLANIRANJE LIKVIDNOSTI BUDŽETA"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-sistemu-izvrsenja-budzeta-republike-srbije.html#clan_11"
+    },
+    {
+        "title": "Član 12",
+        "texts": [
+            "Uprava za trezor planira budžetsku likvidnost gotovinskih tokova budžeta Republike Srbije za budžetsku godinu na osnovu planova izvršenja budžeta koje priprema korisnik budžetskih sredstava Republike Srbije.",
+            "Plan izvršenja budžeta za korisnike budžetskih sredstava Republike Srbije sadrži planirane prihode i primanja, rashode i izdatke na trećem nivou ekonomske klasifikacije, raspoređene na mesečnom nivou, do kraja budžetske godine, za sve izvore finansiranja.",
+            "Po donošenju zakona o budžetu Republike Srbije, odnosno akta o privremenom finansiranju Republike Srbije i evidentiranja aproprijacija u Sistemu, Uprava za trezor utvrđuje korisnicima budžetskih sredstava Republike Srbije kvote za januar.",
+            "Korisnik budžetskih sredstava Republike Srbije, nakon dodeljenih kvota za januar, kroz Sistem dostavljaju plan izvršenja budžeta svakog meseca, najkasnije do 5. u mesecu.",
+            "Direktnim korisnicima budžetskih sredstava Republike Srbije koji imaju svoje indirektne korisnike budžetskih sredstava uključene u Sistem, rok za unos planova produžava se za dva radna dana radi provere i korekcije planova indirektnih korisnika budžetskih sredstava.",
+            "Ukoliko rok iz stava 4. ovog člana ističe u neradan dan, plan izvršenja budžeta se dostavlja najkasnije prvog narednog radnog dana.",
+            "Korisnik budžetskih sredstava Republike Srbije može korigovati ranije dostavljene planove izvršenja budžeta za naredne mesece.",
+            "Izuzetno, Uprava za trezor može zahtevati od korisnika budžetskih sredstava Republike Srbije da sačine i dostave planove izvršenja budžeta, sa sadržajem i u rokovima utvrđenim posebnim obaveštenjem Uprave za trezor.",
+            "U slučaju donošenja zakona o izmenama i dopunama zakona o budžetu Republike Srbije, vrši se usklađivanje plana izvršenja budžeta prema posebnom obaveštenju koje dostavlja Uprava za trezor."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-sistemu-izvrsenja-budzeta-republike-srbije.html#clan_12"
+    },
+    {
+        "title": "Član 13",
+        "texts": [
+            "Uprava za trezor za korisnike budžetskih sredstava Republike Srbije utvrđuje kvote najkasnije do 15. u mesecu za naredni mesec.",
+            "Izuzetno od stava 1. ovog člana Uprava za trezor može utvrditi kvote i nakon roka iz stava 1. ovog člana.",
+            "Lokalni organ uprave nadležan za finansije utvrđuje kvote za korisnike lokalne vlasti najkasnije prvog radnog dana za tekući mesec.",
+            "Kvote se utvrđuju na mesečnom nivou do kraja budžetske godine na trećem nivou ekonomske klasifikacije.",
+            "Ograničenje potrošnje aproprijacija odnosi se samo na izvor finansiranja 01 - Opšti prihodi i primanja budžeta.",
+            "Korisnik može da vrši plaćanja do visine rashoda i izdataka koji su utvrđeni kvotama za određeni vremenski period."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-sistemu-izvrsenja-budzeta-republike-srbije.html#clan_13"
+    },
+    {
+        "title": "Član 14",
+        "texts": [
+            "Korisnik dostavlja zahtev za promenu kvota kroz Sistem.",
+            "Zahtev iz stava 1. ovog člana obavezno sadrži sledeće:",
+            "- broj zahteva;",
+            "- tip zahteva;",
+            "- period kvote;",
+            "- datum kreiranja;",
+            "- datum primene;",
+            "- opis;",
+            "- razlog promene;",
+            "- ukupan iznos umanjenja/uvećanja.",
+            "Sadržaj i procedure za podnošenje zahteva za promenu kvota dati su u Prilogu 4 - Procedura za evidentiranje i promenu kvota, koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo.",
+            "Uz zahtev za promenu kvota Korisnik je dužan da dostavi potpisan i overen dopis u kojem navodi razlog promene i dokumentaciju na osnovu kojih se ta promena kvota zahteva.",
+            "Prilikom odlučivanja o zahtevu za promenu kvota Uprava za trezor, odnosno lokalni organ uprave nadležan za finansije rukovodi se projekcijom prihoda i primanja budžeta, izvršenjem budžeta Korisnika iz prethodnog perioda, kao i razlozima, pozivom na propis i dokumentacijom iz stava 4. ovog člana.",
+            "Zahtev za promenu kvota indirektnog korisnika budžetskih sredstava odobrava nadležni direktni korisnik budžetskih sredstava.",
+            "Promene kvota koje nastaju kao posledica promene, preusmeravanja ili kreiranja aproprijacije po odluci Vlade ili ministra finansija za korisnike budžetskih sredstava Republike Srbije, Uprava za trezor će sprovesti u skladu sa donetom odlukom.",
+            "Izuzetno, zahtev za promenu kvota korisnika budžetskih sredstava Republike Srbije, koji se odnosi na ekonomske klasifikacije navedene u članu 18. stav 4. ovog pravilnika, odobrava se bez razmatranja.",
+            "VI UPRAVLJANJE PREUZETIM OBAVEZAMA I PLAĆANJIMA"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-sistemu-izvrsenja-budzeta-republike-srbije.html#clan_14"
+    },
+    {
+        "title": "Član 15",
+        "texts": [
+            "Korisnik u Sistem unosi preuzetu obavezu, sa podacima o iznosima i rokovima za plaćanje preuzete obaveze.",
+            "Obaveze koje preuzima Korisnik moraju biti u skladu sa raspoloživim aproprijacijama.",
+            "Postupci koji se odnose na kreiranje i promene zahteva za preuzimanje obaveza i plaćanja sadržani su u Prilogu 5 - Procedura za evidentiranje i promenu preuzetih obaveza i plaćanja, koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-sistemu-izvrsenja-budzeta-republike-srbije.html#clan_15"
+    },
+    {
+        "title": "Član 16",
+        "texts": [
+            "Korisnik u Sistemu kreira zahtev za preuzimanje obaveze.",
+            "Za kreiranje zahteva za preuzimanje obaveze neophodno je da račun primaoca sredstava bude evidentiran u spisku računa pravnih, odnosno fizičkih lica u Sistemu.",
+            "Zahtev za preuzimanje obaveze obavezno sadrži sledeće elemente:",
+            "- tip zahteva;",
+            "- naziv primaoca sredstava;",
+            "- račun primaoca sredstava;",
+            "- broj, datum i vrstu računovodstveno-finansijskog dokumenta;",
+            "- datum dospeća;",
+            "- iznos preuzete obaveze.",
+            "Nakon kreiranja zahteva za preuzimanje obaveze, u Sistemu se rezerviše potreban iznos sredstava na aproprijaciji i kvoti, pri čemu se istovremeno smanjuje i iznos raspoložive aproprijacije i kvote za izvor finansiranja 01 - opšti prihodi i primanja iz budžeta, odnosno raspoloživog iznosa na evidencionom računu za ostale izvore finansiranja.",
+            "Zahtev za preuzimanje obaveze u Sistemu može se menjati ili otkazati.",
+            "U slučaju da za izvršenje određenog plaćanja nije postojao pravni osnov, Korisnik je obavezan da odmah zatraži povraćaj sredstava u budžet Republike Srbije, odnosno budžet lokalne vlasti."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-sistemu-izvrsenja-budzeta-republike-srbije.html#clan_16"
+    },
+    {
+        "title": "Član 17",
+        "texts": [
+            "Plaćanja se vrše iz sredstva budžeta ili iz sredstava ostalih prihoda i primanja.",
+            "U slučaju da je plaćanje jedne obaveze potrebno izvršiti iz sredstava budžeta i iz sredstava ostalih prihoda i primanja, plaćanje se izvršava prvo iz sredstava ostalih prihoda i primanja.",
+            "Izvršena plaćanja smanjuju saldo na računu izvršenja budžeta Republike Srbije, odnosno računu izvršenja budžeta lokalne vlasti."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-sistemu-izvrsenja-budzeta-republike-srbije.html#clan_17"
+    },
+    {
+        "title": "Član 18",
+        "texts": [
+            "Korisnik budžetskih sredstva Republike Srbije zahteve za plaćanje obaveze u iznosu od minimalno 100.000,00 dinara i višim iznosima, unosi u Sistem najkasnije pet radnih dana pre očekivanog datuma plaćanja.",
+            "Zahteve za plaćanje obaveza u iznosima nižem od minimalnog iznosa iz stava 1. ovog člana korisnik budžetskih sredstva Republike Srbije unosi u Sistem najkasnije jedan radni dan pre očekivanog datuma plaćanja.",
+            "Zahtev za plaćanje iz st. 1. i 2. ovog člana mora biti u potpunosti u skladu sa unetim zahtevom za preuzimanje obaveze.",
+            "Korisnik budžetskih sredstva Republike Srbije u Sistem unosi zahtev za preuzimanje obaveze i zahtev za plaćanje sa rokom dospeća koji je kraći od pet radnih dana od datuma kreiranja zahteva za plaćanje, za sledeće ekonomske klasifikacije:",
+            "- rashodi po osnovu otplate javnog duga Republike Srbije (kategorije 44 i 61);",
+            "- rashodi za zaposlene (kategorija 41);",
+            "- troškovi putovanja (grupa 422);",
+            "- tekuće dotacije organizacijama za obavezno socijalno osiguranje (grupa 464);",
+            "- tekući transferi ostalim nivoima vlasti (grupa 463);",
+            "- naknade za socijalnu zaštitu iz budžeta (grupa 472);",
+            "- porezi, obavezne takse, kazne, penali (grupa 482);",
+            "- plaćanja na osnovu prinudne naplate (grupe 483 i 485);",
+            "- sva plaćanja u korist računa Narodne banke Srbije - 880.",
+            "Izuzetno od st. 1. i 2. ovog člana, zahtev za preuzimanje obaveze i zahtev za plaćanje koji proističu iz promene, preusmeravanja ili kreiranja aproprijacije po odluci Vlade ili ministra finansija, mogu se uneti u kraćem roku.",
+            "Nalozi za plaćanje koji proističu iz zahteva za plaćanje iz stava 5. ovog člana izvršiće se u skladu sa donetom odlukom.",
+            "Postupci koji se odnose na kreiranje i promene zahteva za plaćanje sadržani su u Prilogu 5 - Procedura za evidentiranje i promenu preuzetih obaveza i plaćanja."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-sistemu-izvrsenja-budzeta-republike-srbije.html#clan_18"
+    },
+    {
+        "title": "Član 19",
+        "texts": [
+            "Korisnik budžetskih sredstva Republike Srbije može podneti zahtev za odobravanje kraćeg roka od pet radnih dana.",
+            "Zahtev iz stava 1. ovog člana direktni korisnik budžetskih sredstava Republike Srbije dostavlja Upravi za trezor na realizaciju.",
+            "Zahtev iz stava 1. ovog člana indirektni korisnik budžetskih sredstava Republike Srbije podnosi svom nadređenom direktnom korisniku budžetskih sredstava Republike Srbije koji po razmatranju i odlučivanju zahtev dostavlja Upravi za trezor na realizaciju.",
+            "Zahtev iz stava 1. ovog člana podnosi se na Prilogu 5.1 - Zahtev za odobravanje kraćeg roka za preuzimanje obaveza i plaćanja za korisnike budžetskih sredstava Republike Srbije u sistem za pripremu, izvršenje, računovodstvo i izveštavanje, koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo.",
+            "Direktni korisnik budžetskih sredstava Republike Srbije dostavlja Upravi za trezor jedan zbirni zahtev iz stava 3. ovog člana za sve svoje indirektne korisnike budžetskih sredstava Republike Srbije."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-sistemu-izvrsenja-budzeta-republike-srbije.html#clan_19"
+    },
+    {
+        "title": "Član 20",
+        "texts": [
+            "Zahtev za plaćanje obavezno sadrži sledeće elemente:",
+            "- jedinstveni broj zahteva za plaćanje;",
+            "- datum kreiranja zahteva;",
+            "- ukupan iznos sredstava;",
+            "- očekivani datum plaćanja;",
+            "- elemente naloga za prenos (račun odobrenja, model i poziv na broj odobrenja, šifru plaćanja i svrhu plaćanja).",
+            "Korisnik može otkazati zahtev za plaćanje do momenta slanja naloga za plaćanje u platni promet, pri čemu se obavezno unosi razlog otkazivanja."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-sistemu-izvrsenja-budzeta-republike-srbije.html#clan_20"
+    },
+    {
+        "title": "Član 21",
+        "texts": [
+            "Prilikom kreiranja zahteva za preuzimanje obaveze i zahteva za plaćanje Sistem kreira poziv na broj zaduženja.",
+            "Poziv na broj zaduženja iz stava 1. ovog člana sastoji se od šest delova, i to:",
+            "1) dvocifreni kontrolni broj po modelu 97,",
+            "2) petocifreni jedinstveni broj korisnika javnih sredstava (JBKJS),",
+            "3) četvorocifrena oznaka programa,",
+            "4) četvorocifrena oznaka programske aktivnosti/projekta,",
+            "5) šestocifreni broj ekonomske klasifikacije,",
+            "6) dvocifreni broj izvora finansiranja."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-sistemu-izvrsenja-budzeta-republike-srbije.html#clan_21"
+    },
+    {
+        "title": "Član 22",
+        "texts": [
+            "U Sistemu se vrši kontrola ispravnosti zahteva za plaćanje.",
+            "U slučaju da nalog za plaćanje bude odbijen u platnom prometu, Korisnik otkazuje ili menja postojeći zahtev za plaćanje.",
+            "Ukoliko otkaže zahtev za plaćanje i zahtev za preuzimanje obaveze, Korisnik kreira nove zahteve u skladu sa ovim pravilnikom."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-sistemu-izvrsenja-budzeta-republike-srbije.html#clan_22"
+    },
+    {
+        "title": "Član 23",
+        "texts": [
+            "Korisnik budžetskih sredstva Republike Srbije unosi u Sistem zahtev za preuzimanje obaveze i zahtev za plaćanje u dinarskoj protivvrednosti u slučaju plaćanja deviznih obaveza prema inostranstvu, prenosa deviza u Republici Srbiji, kao i obezbeđenja efektivnog stranog novca, a kada je potrebno obezbediti sredstva iz dinarskih sredstava kupovinom kod Narodne banke Srbije.",
+            "Zahteve iz stava 1. ovog člana direktni korisnik budžetskih sredstva Republike Srbije unosi najkasnije do 13.00 časova, na dan očekivanog plaćanja Narodnoj banci Srbije.",
+            "Indirektni korisnik budžetskih sredstva Republike Srbije i korisnik budžetskih sredstava lokalne vlasti zahteve iz stava 1. ovog člana unose u Sistem najkasnije do 12.00 časova, na dan očekivanog plaćanja Narodnoj banci Srbije.",
+            "Kada treba izvršiti plaćanje u dinarima po osnovu programa i projekata koji se finansiraju iz finansijske pomoći Evropske unije, Korisnik unosi zahtev za preuzimanje obaveze u Sistem na dan očekivanog plaćanja.",
+            "Nalog za plaćanje obaveze koji proističe iz zahteva za plaćanje podnetog u skladu sa st. 1, 2. i 3. ovog člana, izvršava se istog dana."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-sistemu-izvrsenja-budzeta-republike-srbije.html#clan_23"
+    },
+    {
+        "title": "Član 24",
+        "texts": [
+            "Uprava za trezor, kroz Sistem, Korisnicima obezbeđuje svakog dana izvode o izvršenim transakcijama od prethodnog dana."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-sistemu-izvrsenja-budzeta-republike-srbije.html#clan_24"
+    },
+    {
+        "title": "Član 25",
+        "texts": [
+            "Korisnik budžetskih sredstava Republike Srbije koji samostalno vrši obračun primanja zaposlenih, dostavlja Upravi za trezor, radi učitavanja podataka u Sistem, overenu dokumentaciju obračunatih primanja zaposlenih i podatke.",
+            "Korisnik budžetskih sredstava Republike Srbije, za koga Uprava za trezor vrši centralizovan obračun primanja zaposlenih, dostavlja Upravi za trezor, radi učitavanja podataka u Sistem, overenu dokumentaciju obračunatih primanja zaposlenih.",
+            "Korisnik budžetskih sredstava lokalne vlasti, podatke o primanjima zaposlenih samostalno učitava u Sistem."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-sistemu-izvrsenja-budzeta-republike-srbije.html#clan_25"
+    },
+    {
+        "title": "Član 26",
+        "texts": [
+            "Prinudna naplata se vrši sa računa izvršenja budžeta Republike Srbije, odnosno lokalne vlasti, na teret aproprijacija Korisnika namenjenih za novčane kazne i penale po rešenju sudova (483000) ili naknade štete za povrede ili štetu nanetu od strane državnih organa (485000), a saglasno Zakonu o budžetskom sistemu.",
+            "Prinudnu naplatu iz stava 1. ovog člana vrši Uprava za trezor na osnovu naloga Narodne banke Srbije.",
+            "Preusmeravanje aproprijacija se ne može vršiti sa aproprijacija namenjenih za finansiranje plata i penzija, za otplatu duga i datih garancija i izvršavanje rashoda i izdataka iz sredstava donacija, za finansiranje učešća Republike Srbije, odnosno lokalne vlasti u sprovođenju finansijske pomoći Evropske unije, aproprijacije koje se finansiraju iz finansijske pomoći Evropske unije kada su ista data na upravljanje Republici Srbiji, odnosno lokalnoj vlasti, sredstva samodoprinosa, prihodi od privatizacije, kao i sredstva čije je izvršenje izuzeto zakonom, odnosno aktom Vlade.",
+            "Prinudna naplata koja se odnosi na Korisnika može se sprovesti do iznosa 50% ukupnog obima sredstava opredeljenog tom budžetskom korisniku.",
+            "U slučaju da je iskorišćena ukupna aproprijacija namenjena za izvršenje prinudne naplate, Uprava za trezor, odnosno lokalni organ uprave nadležan za finansije vrši preusmeravanje aproprijacija i postupa po proceduri datoj u Prilogu 3 - Procedura za evidentiranje i promenu aproprijacija.",
+            "Iznos za koji se vrši preusmeravanje aproprijacija iz stava 5. ovog člana, nije ograničen u iznosu do 10%.",
+            "Na način iz stava 5. ovog člana Uprava za trezor, odnosno lokalni organ uprave nadležan za finansije postupa i u slučaju kada je ukupna godišnja aproprijacija za izvršenje prinudne naplate opredeljena direktnom korisniku budžetskih sredstava iskorišćena, a taj korisnik dostavi Upravi za trezor, odnosno lokalnom organu uprave nadležanom za finansije predlog iznosa štete koji je potrebno platiti po osnovu zaključenog vansudskog poravnanja ili izvršnog rešenja.",
+            "Po izvršenom preusmeravanju aproprijacija za direktne korisnike budžetskih sredstava Republike Srbije, Uprava za trezor, odnosno lokalni organ uprave nadležan za finansije vrši i preusmeravanje kvota, radi izvršenja naloga prinudne naplate.",
+            "Lokalni organ uprave nadležan za finansije odgovoran je za obezbeđivanje sredstava na aproprijacijama, odnosno kvoti namenjenoj za izvršenje prinudne naplate."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-sistemu-izvrsenja-budzeta-republike-srbije.html#clan_26"
+    },
+    {
+        "title": "Član 27",
+        "texts": [
+            "Nad indirektnim korisnikom budžetskih sredstava, prinudna naplata sprovodi se na teret aproprijacija u okviru glave u budžetu, koja se odnosi na tu vrstu indirektnih korisnika budžetskih sredstava.",
+            "U slučaju da na ekonomskim klasifikacijama 483000 ili 485000, nema dovoljan iznos sredstava za izvršenje prinudne naplate, direktni korisnik budžetskih sredstava obavezan je da istog dana, a najkasnije narednog radnog dana od dana unosa osnova za izvršavanje prinudne naplate u sistem izvršenja budžeta, obezbedi sredstva za indirektnog korisnika budžetskih sredstava na čiji teret se izvršava prinudna naplata. Postupa se po proceduri datoj u Prilogu 3 - Procedura za evidentiranje i promenu aproprijacija."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-sistemu-izvrsenja-budzeta-republike-srbije.html#clan_27"
+    },
+    {
+        "title": "Član 28",
+        "texts": [
+            "Identifikacione podatke za plaćanje (naziv, odnosno ime i prezime, adresa, broj izvršnog rešenja, broj tekućeg računa poverioca i dr.), po osnovu naloga za prinudnu naplatu, obezbeđuje Narodna banka Srbije kroz naloge za plaćanje koje formira i prosleđuje Upravi za trezor elektronskim putem.",
+            "Identifikacioni podaci iz stava 1. ovog člana omogućavaju da se u Sistemu sravnjivanje stavki prinudne naplate izvrši automatski.",
+            "U slučaju kada Narodna banka Srbije ne može da identifikuje korisnika budžetskih sredstava Republike Srbije, odnosno lokalne vlasti, na koga se prinudna naplata odnosi (u rešenju je kao dužnik navedena Republika Srbija, odnosno autonomna pokrajina, grad ili opština), takve isplate se evidentiraju na teret aproprijacija Ministarstva finansija, odnosno razdela gradske/opštinske uprave ili lokalnog organa uprave nadležnog za finansije.",
+            "VII EVIDENTIRANJE PRIHODA I PRIMANJA I RASHODA I IZDATAKA"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-sistemu-izvrsenja-budzeta-republike-srbije.html#clan_28"
+    },
+    {
+        "title": "Član 29",
+        "texts": [
+            "Za uplate koje nemaju karakter prihoda i primanja (povraćaji, refundacije, obustave i dr.) u korist računa izvršenja budžeta Republike Srbije, odnosno lokalne vlasti Korisnik je dužan da uplatiocu dostavi instrukciju za plaćanje koja obavezno sadrži poziv na broj odobrenja, po modelu 97.",
+            "Struktura elemenata poziva na broj odobrenja sastoji se od šest delova, i to:",
+            "1) dvocifreni kontrolni broj po modelu 97,",
+            "2) petocifreni jedinstveni broj korisnika javnih sredstava (JBKJS),",
+            "3) četvorocifrena oznaka programa,",
+            "4) četvorocifrena oznaka programske aktivnosti/projekta,",
+            "5) šestocifreni broj ekonomske klasifikacije,",
+            "6) dvocifreni broj izvora finansiranja."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-sistemu-izvrsenja-budzeta-republike-srbije.html#clan_29"
+    },
+    {
+        "title": "Član 30",
+        "texts": [
+            "Izvršena uplata prihoda i primanja koja nema sve potrebne elemente u nalogu za plaćanje u Sistemu se evidentira se kao neprepoznata stavka - uplata (u daljem tekstu: uplata).",
+            "Korisnik kome je uplata u Sistemu dodeljena, uplatu sravnjuje na odgovarajuću aproprijaciju ili istu odbija ukoliko utvrdi da se uplata ne odnosi na njega.",
+            "U slučaju iz stava 2. ovog člana i u slučaju kada se ne može utvrditi Korisnik na kojeg se odnosi uplata, Uprava za trezor, odnosno lokalni organ uprave nadležan za finansije, u odeljku \"Oglasna tabla\", omogućava svim Korisnicima pregled svih tih uplata.",
+            "Ukoliko Korisnik utvrdi da se uplata odnosi na njega, kroz Sistem obaveštava Upravu za trezor, odnosno lokalni organ uprave nadležan za finansije.",
+            "Uprava za trezor, odnosno lokalni organ uprave nadležan za finansije dodeljuje uplatu tom korisniku.",
+            "Korisnik iz st. 2. i 5. ovog člana dužan je da istog dana, a najkasnije u roku od pet radnih dana od dana dodele uplate, izvrši sravnjenje u Sistemu.",
+            "Ukoliko Korisnik ne postupi u skladu sa stavom 6. ovog člana, radnje iz tog stava će preduzeti Uprava za trezor, odnosno lokalni organ uprave nadležan za finansije i uplatu evidentirati kao prihod budžeta."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-sistemu-izvrsenja-budzeta-republike-srbije.html#clan_30"
+    },
+    {
+        "title": "Član 31",
+        "texts": [
+            "Izvršeno plaćanje koje nema sve potrebne elemente u nalogu za plaćanje u Sistemu se evidentira kao nesravnjena stavka - isplata (u daljem tekstu: Isplata).",
+            "Sistem omogućava svim korisnicima pregled svih Isplata u odeljku \"neprepoznate stavke\" - isplate.",
+            "Korisnik koji utvrdi da se Isplata odnosi na njega, kroz Sistem obaveštava Upravu za trezor, odnosno lokalni organ uprave nadležan za finansije.",
+            "Uprava za trezor, odnosno lokalni organ uprave nadležan za finansije dodeljuje Isplatu tom korisniku.",
+            "Korisnik je dužan da istog dana, a najkasnije u roku od pet radnih dana od dana dodele isplate, izvrši sravnjenje u Sistemu.",
+            "Za sravnjenje Isplate iz stava 5. ovog člana, uslov je da Korisnik ima raspoloživa sredstva na aproprijaciji i raspoloživa sredstva na evidencionom računu za ostale izvore finansiranja.",
+            "Ukoliko Korisnik ne postupi u skladu sa stavom 5. ovog člana, radnje iz tog stava će sprovesti Uprava za trezor, odnosno lokalni organ uprave nadležan za finansije."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-sistemu-izvrsenja-budzeta-republike-srbije.html#clan_31"
+    },
+    {
+        "title": "Član 32",
+        "texts": [
+            "Za ostvarivanje prihoda i primanja, Uprava za trezor otvara Korisniku evidencioni podračun za uplatu javnih prihoda i primanja.",
+            "Postupak otvaranja podračuna iz stava 1. ovog člana i struktura poziva na broj odobrenja za uplate na predmetni podračun, propisani su pravilnikom kojim se uređuju uslovi i način vođenja računa za uplatu javnih prihoda i raspored sredstava sa tih računa u Upravi za trezor.",
+            "Ostvareni prihodi i primanja iz stava 2. ovog člana, evidentiraju se na odgovarajućem evidencionom računu Korisnika u Sistemu."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-sistemu-izvrsenja-budzeta-republike-srbije.html#clan_32"
+    },
+    {
+        "title": "Član 33",
+        "texts": [
+            "Preknjižavanjem rashoda i izdataka mogu se menjati: funkcionalna, ekonomska i podekonomska klasifikacija, izvor finansiranja, redni broj evidencionog računa, program, projekat i iznos.",
+            "Korisnik kreira zahtev za preknjižavanje u Sistemu.",
+            "Zahtev iz stava 2. ovog člana obavezno sadrži sledeće elemente:",
+            "- broj dokumenta na osnovu koga je izvršeno plaćanje;",
+            "- naziv i broj računa primaoca sredstava;",
+            "- razlog preknjižavanja;",
+            "- ukupan iznos obaveze sa zahtevanim elementima klasifikacije izvršenog plaćanja po preuzetoj obavezi koja se preknjižava;",
+            "- iznos obaveze sa zahtevanim elementima klasifikacije na koju se izvršava preknjižavanje.",
+            "Preknjižavanje iz ovog člana vrši se po proceduri datoj u Prilogu 6 - Procedura za preknjižavanje rashoda i izdataka, koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-sistemu-izvrsenja-budzeta-republike-srbije.html#clan_33"
+    },
+    {
+        "title": "Član 34",
+        "texts": [
+            "Korisnik je dužan da čuva izveštaje o svim izvršenim transakcijama u Sistemu, sa priloženom originalnom dokumentacijom koja je korišćena za te transakcije."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-sistemu-izvrsenja-budzeta-republike-srbije.html#clan_34"
+    },
+    {
+        "title": "Član 35",
+        "texts": [
+            "U slučaju kada je uplata sredstava pogrešno izvršena Korisniku ili je uplaćen veći iznos sredstava u odnosu na ugovoreni, rešenje o povraćaju, odnosno preknjižavanju sredstava, u skladu sa Zakonom o budžetskom sistemu, donosi direktni korisnik budžetskih sredstava Republike Srbije, odnosno lokalni organ uprave nadležan za finansije, za sebe i svoje indirektne korisnike budžetskih sredstava.",
+            "Izuzetno, rešenje iz stava 1. ovog člana može doneti indirektni korisnik budžetskih sredstava Republike Srbije ukoliko je ovlašćen za to od strane nadležnog direktnog korisnika budžetskih sredstava Republike Srbije.",
+            "Rešenje iz st. 1. i 2. ovog člana dostavlja se Upravi za trezor, na izvršenje.",
+            "Ukoliko na evidencionom računu i prihodnoj aproprijaciji sa koje treba da se izvrši povraćaj, odnosno preknjižavanje, ne postoji dovoljan iznos sredstava za njegovo izvršenje, Uprava za trezor obaveštava donosioca da je neophodno, u roku od dva dana od dana prijema obaveštenja, obezbediti sredstva na evidencionom računu i prihodnoj apoprijaciji.",
+            "Ukoliko je rešenje doneo indirektni korisnik budžetskih sredstava iz stava 2. ovog člana, Uprava za trezor će istovremeno obavestiti i njegovog nadležnog direktnog korisnika budžetskih sredstava Republike Srbije.",
+            "Uprava za trezor izvršava rešenje u skladu sa rokovima propisanim pravilnikom kojim se uređuju uslovi i način vođenja računa za uplatu javnih prihoda i raspored sredstava sa tih računa u Upravi za trezor.",
+            "U slučaju greške u platnom prometu, pružalac platnih usluga koji je načinio grešku podnosi Upravi za trezor zahtev za povraćaj pogrešno doznačenih sredstava, u skladu sa odredbama zakona kojim se uređuju uslovi i način pružanja platnih usluga, elektronski novac, platni sistemi i nadzor nad primenom odredaba ovog zakona i pravilnika kojim se propisuje način i postupak obavljanja platnog prometa u dinarima preko podračuna korisnika javnih sredstava, računa za uplatu javnih prihoda i drugih podračuna uključenih u sistem konsolidovanog računa trezora koji se vode kod Uprave za trezor.",
+            "VIII ZAVRŠNE ODREDBE"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-sistemu-izvrsenja-budzeta-republike-srbije.html#clan_35"
+    },
+    {
+        "title": "Član 36",
+        "texts": [
+            "Danom stupanja na snagu ovog pravilnika prestaju da važe Pravilnik o sistemu izvršenja budžeta Republike Srbije (\"Službeni glasnik RS\", br. 144/22 i 95/24) i Pravilnik o sistemu izvršenja budžeta autonomnih pokrajina i jedinica lokalne samouprave (\"Službeni glasnik RS\", broj 154/20)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-sistemu-izvrsenja-budzeta-republike-srbije.html#clan_36"
+    },
+    {
+        "title": "Član 37",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu 1. januara 2025. godine.",
+            "Priloge 1-6, koji su sastavni deo ovog pravilnika, objavljene u \"Sl. glasniku RS\", br. 103/2024, možete pogledatiOVDE",
+            "Ako ne probate više različitih izbora nikada nećete biti sigurni da li imate najbolju opciju u svojim rukama. Mi Vam tu mogućnost nudimo besplatno! Popunite formular i dobićete priliku da bez ikakvih troškova saznate da li je Paragraf dobar izbor za Vas.",
+            "Ukoliko želite da Vas obaveštavamo o novostima i aktivnostima kompanije Paragraf prijavite se na našu mailing listu. Vaš e-mail neće biti upotrebljen u druge svrhe.",
+            "Pratite Paragraf na Viberu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-sistemu-izvrsenja-budzeta-republike-srbije.html#clan_37"
+    }
+]

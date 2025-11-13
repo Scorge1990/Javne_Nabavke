@@ -1,0 +1,68 @@
+[
+    {
+        "title": "Član 1",
+        "texts": [
+            "Ovim pravilnikom bliže se propisuje način obračuna prosečne veleprodajne cene derivata nafte EVRO DIZEL i EVRO PREMIJUM BMB 95."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-obracun-prosecne-veleprodajne-cene-derivata-nafte-evro-dizel-premijum-bmb-95.html#clan_1"
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Prosečne veleprodajne cene derivata nafte iz člana 1. ovog pravilnika izražene u din/l određuju se na osnovu obračunskih cena derivata nafte (OB) u obračunskom periodu, a obračunavaju se prema sledećoj formuli:",
+            "PC = (((OB x ρ)/1000) + FD) * 1,2",
+            "gde su:",
+            "OB = obračunska cena derivata nafte;",
+            "ρ = gustina derivata nafte koja iznosi 0,845 kg/l za EVRO DIZEL i 0,755 kg/l za EVRO PREMIJUM BMB 95;",
+            "FD = iznos fiskalnih dažbina koji uključuje akcizu, naknadu za obavezne rezerve i naknadu za energetsku efikasnost."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-obracun-prosecne-veleprodajne-cene-derivata-nafte-evro-dizel-premijum-bmb-95.html#clan_2"
+    },
+    {
+        "title": "Član 3",
+        "texts": [
+            "Obračunska cena derivata nafte (OB) izražena u din./t izračunava se prema sledećoj formuli:",
+            "OB = (X1 + (X2 * X3)) * X4",
+            "gde su:",
+            "X1 = prosečna srednja kotacijska cena referentnog derivata nafte prema podacima iz \"Platts Mediterranean product cargo assesments\", na paritetu FOB Med (Genova/Lavera) za obračunski period, izražena u USD/t;",
+            "X2 = zavisni troškovi nabavke koji iznose 43 USD/t za EVRO PREMIJUM BMB 95 i 64 USD/t za EVRO DIZEL;",
+            "X3 = korektivni faktor;",
+            "X4 = prosečni prodajni kurs USD Narodne Banke Srbije za obračunski period."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-obracun-prosecne-veleprodajne-cene-derivata-nafte-evro-dizel-premijum-bmb-95.html#clan_3"
+    },
+    {
+        "title": "Član 4",
+        "texts": [
+            "Referentni derivati nafte su derivati nafte iz \"Platts Mediterranean product cargo assesments\", na paritetu FOB Med (Genova/Lavera), i to za:",
+            "1) EVRO PREMIJUM BMB 95 - \"Premium UNL 10 ppm\";",
+            "2) EVRO DIZEL \"10 ppm ULSD\".",
+            "Obračun prosečnih veleprodajnih cena derivata nafte iz člana 1. ovog pravilnika vrši se svakog petka u mesecu.",
+            "Izuzetno, u slučajevima kada je petak državni ili verski praznik koji se u Republici Srbiji praznuje neradno, prosečna veleprodajna cena će se obračunavati prvog prethodnog radnog dana.",
+            "Za određivanje Platts kotacija koje će se primenjivati u obračunu referentan dan je petak, nezavisno od toga da li je petak radni dan.",
+            "Obračun obuhvata raspoložive podatke o srednjoj ceni referentnih derivata iz stava 1. ovog člana izražene u USD/t i prodajnom kursu USD Narodne banke Srbije na dan kada se objavljuju Platts kotacije, od prvog ponedeljka koji prethodi petku u kojem se vrši obračun do petka u kojem se vrši obračun, uključujući i podatke na dan u kojem se vrši obračun."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-obracun-prosecne-veleprodajne-cene-derivata-nafte-evro-dizel-premijum-bmb-95.html#clan_4"
+    },
+    {
+        "title": "Član 5",
+        "texts": [
+            "Energetski subjekti koji obavljaju delatnost trgovine naftom, derivatima nafte, biogorivima, biotečnostima, komprimovanim prirodnim gasom, utečnjenim prirodnim gasom i vodonikom svakog četvrtka dostavljaju ministarstvu nadležnom za poslove energetike informaciju o zavisnim troškovima nabavke derivata nafte iz člana 1. ovog pravilnika sa prikazom svih relevantnih podataka, na osnovu kojih se određuje korektivni faktor za obračunski period.",
+            "Informacija iz stava 1. ovog člana se dostavlja uz izjavu pod punom materijalnom i krivičnom odgovornošću zakonskog zastupnika energetskog subjekta da su prikazani podaci tačni. Odgovornost za tačnost prikazanih podataka u skladu sa ovim pravilnikom snosi isključivo subjekt iz stava 1. ovog člana, odnosno njegov zakonski zastupnik.",
+            "Korektivni faktor iz stava 1. ovog člana utvrđuje se zajedničkim konsultacijama ministarstva nadležnog za poslove energetike, ministarstva nadležnog za poslove trgovine, ministarstva nadležnog za poslove finansija i energetskih subjekata iz stava 1. ovog člana, koje se održavaju četvrtkom i/ili petkom.",
+            "Izuzetno, u slučaju iz člana 4. stav 3. ovog pravilnika, energetski subjekti informaciju iz stava 1. ovog člana dostavljaju sredom, a sredom se utvrđuje i korektivni faktor iz stava 3. ovog člana. Ako je i četvrtak državni ili verski praznik koji se u Republici Srbiji praznuje neradno, informacija se dostavlja i korektivni faktor se utvrđuje utorkom.",
+            "Energetski subjekti koji obavljaju energetske delatnosti u oblasti nafte na zahtev ministarstva nadležnog za poslove energetike dostavljaju podatke potrebne za praćenje prosečne veleprodajne cene derivata nafte iz člana 1. ovog pravilnika."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-obracun-prosecne-veleprodajne-cene-derivata-nafte-evro-dizel-premijum-bmb-95.html#clan_5"
+    },
+    {
+        "title": "Član 6",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu danom objavljivanja u \"Službenom glasniku Republike Srbije\".",
+            "Ako ne probate više različitih izbora nikada nećete biti sigurni da li imate najbolju opciju u svojim rukama. Mi Vam tu mogućnost nudimo besplatno! Popunite formular i dobićete priliku da bez ikakvih troškova saznate da li je Paragraf dobar izbor za Vas.",
+            "Ukoliko želite da Vas obaveštavamo o novostima i aktivnostima kompanije Paragraf prijavite se na našu mailing listu. Vaš e-mail neće biti upotrebljen u druge svrhe.",
+            "Pratite Paragraf na Viberu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-obracun-prosecne-veleprodajne-cene-derivata-nafte-evro-dizel-premijum-bmb-95.html#clan_6"
+    }
+]

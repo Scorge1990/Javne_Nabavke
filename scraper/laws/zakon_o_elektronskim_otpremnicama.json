@@ -1,0 +1,251 @@
+[
+    {
+        "title": "Član 1",
+        "texts": [
+            "Ovim zakonom uređuju se slanje, prijem, obrada, odbijanje, prihvatanje i predstavljanje elektronskih otpremnica u vezi sa kretanjem i inspekcijskim nadzorom kretanja dobara subjekata javnog sektora i subjekata privatnog sektora, kao i druga pitanja koja su od značaja za elektronske otpremnice.",
+            "Odredbe ovog zakona ne odnose se na fizička lica koja nisu obveznici poreza na prihod od samostalne delatnosti u smislu zakona kojim se uređuje porez na dohodak građana.",
+            "Značenje pojedinih pojmova"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskim-otpremnicama.html#clan_1"
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Pojedini pojmovi upotrebljeni u ovom zakonu imaju sledeće značenje:",
+            "1) sistem je informatičko-tehnološko rešenje za elektronske otpremnice kojim upravlja Centralni informacioni posrednik i preko koga se vrši slanje, prijem, evidentiranje, obrada i čuvanje elektronskih otpremnica i elektronskih prijemnica;",
+            "2) kretanje dobara je:",
+            "(1) svaka otprema dobara sa jednog mesta na drugo, u slučaju prometa čije je mesto u Republici Srbiji u smislu propisa kojima se uređuje porez na dodatu vrednost;",
+            "(2) otprema dobara sa jednog mesta na drugo u slučaju koji ne predstavlja promet u smislu propisa o porezu na dodatu vrednost, ukoliko se prevoz dobara u celosti ili delimično obavlja na teritoriji Republike Srbije;",
+            "3) subjekt javnog sektora ima značenje kako je propisano zakonom kojim se uređuje elektronsko fakturisanje;",
+            "4) subjekt privatnog sektora je obveznik poreza na dodatu vrednost, osim subjekta javnog sektora i prevoznika, kao i lice koje nije obveznik poreza na dodatu vrednost koje učestvuje u otpremi, kretanju ili prijemu dobara koji su akcizni proizvodi;",
+            "5) dobrovoljni korisnik sistema ima značenje kako je propisano zakonom kojim se uređuje elektronsko fakturisanje;",
+            "6) operater prevoza je lice koje po nalogu drugog korisnika sistema, u svoje ime i za račun nalogodavca evidentira kretanje dobara slanjem i primanjem elektronskih otpremnica i elektronskih prijemnica;",
+            "7) prevoznik je lice kojem je shodno nacionalnom zakonodavstvu države u kojoj se nalazi njegovo sedište, odnosno prebivalište odobreno obavljanje prevoza tereta, kao i lice koje obavlja prevoz tereta za sopstvene potrebe;",
+            "8) prevozno sredstvo je sredstvo prevoza koje koristi prevoznik u okviru kretanja dobara, u smislu odredaba ovog zakona;",
+            "9) elektronska otpremnica je isprava koja prati dobra koja se šalje radi evidentiranja kretanja dobara i koja je poslata i primljena preko sistema u strukturiranom formatu koji omogućava potpuno automatizovanu elektronsku obradu podataka;",
+            "10) elektronska prijemnica je dokument o kvalitativnom i kvantitativnom prihvatanju dobara koja se sačinjava i šalje na osnovu primljene elektronske otpremnice;",
+            "11) centralni informacioni posrednik je nadležna jedinica, u okviru ministarstva nadležnog za poslove finansija, koja upravlja sistemom i odgovorna je za njegovo funkcionisanje;",
+            "12) Zavod je Narodna banka Srbije - Zavod za izradu novčanica i kovanog novca Topčider;",
+            "13) pošiljalac elektronske otpremnice je subjekt javnog sektora, subjekt privatnog sektora, dobrovoljni korisnik sistema i operater prevoza, koji šalje elektronsku otpremnicu preko sistema;",
+            "14) primalac elektronske otpremnice je subjekt javnog sektora, subjekt privatnog sektora, dobrovoljni korisnik sistema i operater prevoza, koji prihvata ili odbija elektronsku otpremnicu preko sistema;",
+            "15) potvrda fizičkog prijema dobara je radnja kojom primalac elektronske otpremnice evidentira u sistemu da je isporuka izvršena u mestu i na adresi preuzimanja (istovara);",
+            "16) predstavljanje je radnja kojom korisnik sistema i prevoznik iz stava 1. tačka 7) ovog člana koji nije korisnik sistema, u postupku nadzora daje na uvid, odnosno pokazuje elektronsku otpremnicu, odštampani spoljni prikaz elektronske otpremnice ili elektronsku otpremnicu u papirnom obliku.",
+            "Na dobrovoljnog korisnika sistema i na operatera prevoza shodno se primenjuju odredbe ovog zakona koje se primenjuju na subjekte privatnog sektora.",
+            "II ELEKTRONSKA OTPREMNICA",
+            "Obaveza slanja elektronske otpremnice"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskim-otpremnicama.html#clan_2"
+    },
+    {
+        "title": "Član 3",
+        "texts": [
+            "Obavezu slanja elektronske otpremnice ima subjekt privatnog sektora i subjekt javnog sektora po osnovu svakog kretanja dobara nad kojima ima pravo raspolaganja, kao i operater prevoza po osnovu kretanja dobara nalogodavca.",
+            "Izuzetno od stava 1. ovog člana, obaveza slanja elektronske otpremnice ne postoji za:",
+            "1) kretanje dobara koja se isporučuju preko prenosne, transportne i distributivne mreže, uključujući naročito vodu, električnu energiju, prirodni gas, energiju za grejanje, odnosno hlađenje i slično;",
+            "2) kretanje dobara po osnovu prometa na malo u skladu sa zakonom kojim se uređuje fiskalizacija;",
+            "3) kretanje dobara u okviru ispunjavanja ugovorne obaveze usmerene prema korisnicima sredstava iz međunarodnih okvirnih sporazuma;",
+            "4) kretanje dobara u okviru nabavke, modernizacije i remonta vojnih i/ili bezbednosno osetljivih dobara, kao i sa njima povezanih kretanja dobara;",
+            "5) kretanje dobara koja podrazumevaju isporuku u okviru jednog subjekta javnog sektora;",
+            "6) kretanje dobara kod kojih primalac dobara ili isporučilac dobara nije subjekt javnog sektora, subjekt privatnog sektora niti lice na koje se shodno primenjuju odredbe ovog zakona koje se primenjuju na subjekte privatnog sektora.",
+            "Sistem"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskim-otpremnicama.html#clan_3"
+    },
+    {
+        "title": "Član 4",
+        "texts": [
+            "Sistem obavezno koriste subjekt javnog sektora i subjekt privatnog sektora, kao i lica na koja se shodno primenjuju odredbe ovog zakona koje se odnose na subjekte privatnog sektora.",
+            "Subjekt javnog sektora, subjekt privatnog sektora i operater prevoza pristupaju i koriste sistem za slanje, prijem, prihvatanje, odbijanje i čuvanje elektronskih otpremnica, potvrdu fizičkog prijema dobara i preuzimanje elektronskih otpremnica u cilju predstavljanja u postupku nadzora, u skladu sa propisima kojima se uređuje nadzor.",
+            "Izuzetno od stava 1. ovog člana, i dobrovoljni korisnik sistema može pristupiti i koristiti sistem za slanje, prijem, prihvatanje, odbijanje i čuvanje elektronskih otpremnica, kao i za preuzimanje elektronskih otpremnica u cilju predstavljanja u postupku nadzora, u skladu sa propisima kojima se uređuje nadzor.",
+            "Dobrovoljni korisnik sistema može da se prijavi za korišćenje sistema elektronskih otpremnica pristupanjem sistemu na način propisan ovim zakonom.",
+            "U slučaju iz stava 4. ovog člana, dobrovoljni korisnik sistema je u obavezi da koristi sistem u tekućoj i narednoj kalendarskoj godini.",
+            "Prevoznik pristupa i koristi sistem za preuzimanje elektronskih otpremnica u cilju predstavljanja u postupku nadzora, u skladu sa propisima kojima se uređuje nadzor.",
+            "Izuzetno od stava 6. ovog člana prevoznik nema obavezu pristupanja i korišćenja sistema u slučaju kada elektronsku otpremnicu, čiji je spoljni prikaz odštampao pošiljalac elektronske otpremnice na način koji obezbeđuje verodostojnost porekla i integritet sadržine odštampane otpremnice, potpiše i preda pošiljaocu elektronske otpremnice neposredno pre otpočinjanja prevoza.",
+            "U slučaju iz stava 7. ovog člana, jedan potpisani primerak odštampanog spoljnog prikaza elektronske otpremnice prevoznik je dužan da drži u posedu tokom kretanja dobara.",
+            "Izuzetno od stava 6. ovog člana prevoznik nema obavezu preuzimanja elektronske otpremnice ukoliko je poštanski operator, odnosno davalac poštanskih usluga, za prevoz poštanskih pošiljki, u skladu sa zakonom kojim se uređuju poštanske usluge.",
+            "Korišćenje podataka koji su dostupni u sistemu dozvoljeno je u skladu sa zakonom.",
+            "Lista korisnika sistema je javna lista koja sadrži poreske identifikacione brojeve subjekata javnog sektora, subjekata privatnog sektora i dobrovoljnih korisnika sistema, kao i jedinstvene brojeve korisnika budžetskih sredstava subjekata koji su upisani u Evidenciju korisnika javnih sredstava i koja se vodi kod Centralnog informacionog posrednika upotrebom informaciono-komunikacionih tehnologija.",
+            "Ministarstvo finansija u cilju omogućavanja rada sistema, preuzima podatke koji se vode kod nadležnih organa u vezi sa korisnicima sistema.",
+            "Aktom ministra nadležnog za poslove finansija bliže se uređuju način prijave na sistem, pristupanje i korišćenje sistema i korišćenje podataka u smislu ovog člana, kao i sadržina liste korisnika sistema, uslovi za brisanje sa liste korisnika, kao i način i postupak brisanja sa liste korisnika sistema.",
+            "Elektronska otpremnica u papirnom obliku"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskim-otpremnicama.html#clan_4"
+    },
+    {
+        "title": "Član 5",
+        "texts": [
+            "Elektronska otpremnica u papirnom obliku je otpremnica odštampana na papiru i obeležena sigurnosnom hologramskom nalepnicom.",
+            "U slučaju privremenog prekida veze sa sistemom usled kvara ili nedostataka na sistemu, ili prekida internet veze, korisnicima se preko posebnih funkcionalnosti omogućava korišćenje sistema u cilju evidentiranja informacija o elektronskoj otpremnici u papirnom obliku.",
+            "U slučaju iz stava 2. ovog člana, pošiljalac elektronske otpremnice dužan je da odštampa dva primerka elektronske otpremnice u papirnom obliku obeležene sigurnosnim hologramskim nalepnicama sa istom numeracijom, pri čemu jedan primerak zadržava za sebe, a drugi primerak predaje prevozniku ili operateru prevoza u cilju predstavljanja i dalje predaje radi potvrde fizičkog prijema iz člana 2. stav 1. tačka 14) ovog zakona.",
+            "Sigurnosne hologramske nalepnice iz stava 1. ovog člana štampa Zavod na način koji obezbeđuje posebnu zaštitu kakva se koristi za štampanje vrednosnica, a pribavlja ih pošiljalac elektronske otpremnice.",
+            "Pošiljalac elektronske otpremnice iz stava 1. ovog člana dužan je da najkasnije prvog narednog radnog dana po ponovnom uspostavljanju veze sa sistemom izvrši evidentiranje svih nedostajućih podataka u sistemu.",
+            "Ugovorom između Ministarstva finansija i Zavoda reguliše se način zaštite od falsifikovanja i drugi tehnički detalji sigurnosne hologramske nalepnice, kao i druga pitanja od značaja za slanje, preuzimanje i dostavljanje elektronske otpremnice u papirnom obliku.",
+            "Aktom ministra nadležnog za poslove finansija bliže se uređuju uslovi, način i postupak korišćenja posebnih funkcionalnosti sistema elektronskih otpremnica iz ovog člana, minimalni sadržaj elektronske otpremnice u papirnom obliku i postupanje sa elektronskom otpremnicom u papirnom obliku.",
+            "Osnovni elementi elektronske otpremnice"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskim-otpremnicama.html#clan_5"
+    },
+    {
+        "title": "Član 6",
+        "texts": [
+            "Elektronska otpremnica uobičajeno sadrži:",
+            "1) naziv, adresu, poreski identifikacioni broj i matični broj pošiljaoca elektronske otpremnice;",
+            "2) naziv, adresu i poreski identifikacioni broj i matični broj primaoca elektronske otpremnice;",
+            "3) naziv, adresu i poreski identifikacioni broj i matični broj prevoznika uključenih u kretanje dobara;",
+            "4) broj i datum slanja elektronske otpremnice;",
+            "5) osnov kretanja dobara;",
+            "6) vreme i datum planiranog početka kretanja dobara;",
+            "7) vreme i datum početka kretanja dobara;",
+            "8) vreme i datum planiranog završetka kretanja dobara;",
+            "9) mesto i adresu otpreme (utovara) dobara;",
+            "10) mesto i adresu preuzimanja (istovara) dobara;",
+            "11) podatke o vrsti i količini isporučenih dobara, uključujući i slovne oznake akciznih proizvoda ukoliko se radi o akciznim proizvodima;",
+            "12) jedinstveni identifikacioni broj elektronske otpremnice nalogodavca, ako elektronsku otpremnicu šalje operater prevoza;",
+            "13) podatke o prevoznim sredstvima za prevoz dobara, odnosno identifikacione podatke lica koje prenosi dobra u slučaju lične dostave;",
+            "14) dvodimenzionalni bar-kod (eng. QR - Quick Response) za verifikaciju koji sadrži hiperlink ka sistemu.",
+            "Elektronska otpremnica može sadržati i druge podatke od značaja za pošiljaoca, primaoca ili druge zainteresovane strane, u skladu sa zakonom.",
+            "Spoljni prikaz elektronske otpremnice u slučaju štampanja za potrebe prevoza ili čuvanja elektronske otpremnice omogućava se posebnom funkcionalnošću u sistemu na način koji obezbeđuje vidljivost svih elemenata elektronske otpremnice.",
+            "U slučaju da je vreme početka kretanja dobara, u smislu stava 1. tačka 7) ovog člana, određeno u vremenskom intervalu, smatraće se da je otprema započela početkom tog intervala.",
+            "Ovaj zakon ne utiče na primenu odredaba zakona kojim se uređuju obračunavanje i plaćanje poreza na dodatu vrednost i podzakonskih akata usvojenih na osnovu tog zakona i odredaba zakona kojim se uređuje računovodstvo u delu odredaba kojim se uređuje računovodstvena isprava.",
+            "Aktom ministra nadležnog za poslove finansija bliže se uređuju forma i način unosa podataka u sistem, minimalni sadržaj elektronske otpremnice neophodan za njeno procesuiranje kroz sistem, slučajevi u kojima pojedini elementi elektronske otpremnice mogu biti izostavljeni, slovne oznake akciznih proizvoda, slučajevi u kojima je predviđena obaveza iskazivanja dodatnih elemenata na osnovu drugih propisa kojima se uređuje slanje određenih vrsta otpremnica, kao i forma i način dostave prateće dokumentacije kroz sistem.",
+            "III POSTUPANJE SA ELEKTRONSKIM OTPREMNICAMA",
+            "Slanje, prijem i predstavljanje elektronske otpremnice"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskim-otpremnicama.html#clan_6"
+    },
+    {
+        "title": "Član 7",
+        "texts": [
+            "Pošiljalac elektronske otpremnice dužan je da pošalje elektronsku otpremnicu u skladu sa zakonom najkasnije pre početka kretanja dobara.",
+            "Prevoznik iz člana 2. stav 1. tačka 7) ovog zakona preko sistema preuzima elektronsku otpremnicu u cilju predstavljanja u postupku nadzora u skladu sa propisima kojima se uređuje nadzor.",
+            "Izuzetno od stava 2. ovog člana, kada prevoznik nije korisnik sistema u smislu člana 4. stav 7. ovog zakona, pošiljalac elektronske otpremnice dužan je da potpisani odštampani spoljni prikaz elektronske otpremnice priloži preko sistema uz elektronsku otpremnicu najkasnije pred početak kretanja dobara.",
+            "Primalac elektronske otpremnice dužan je da izvrši potvrdu fizičkog prijema dobara na dan preuzimanja dobara ili najkasnije tri radna dana nakon otpočinjanja prijema dobara, osim u slučaju iz člana 5. stav 2. ovog zakona.",
+            "Elektronska otpremnica na osnovu koje nije izvršena potvrda fizičkog prijema dobara u smislu stava 4. ovog člana prestaje da važi istekom 30 dana od dana otpočinjanja kretanja dobara.",
+            "Elektronska otpremnica smatra se primljenom u trenutku slanja primaocu preko sistema.",
+            "Pošiljalac elektronske otpremnice može preko sistema stornirati elektronsku otpremnicu do potvrde fizičkog prijema dobara u skladu sa stavom 4. ovog člana, uz navođenje razloga za storniranje.",
+            "Aktom ministra nadležnog za poslove finansija uređuju se način i postupak slanja, storniranja, prijema i predstavljanja elektronskih otpremnica u okviru postupaka inspekcijskog nadzora.",
+            "Prihvatanje i odbijanje elektronske otpremnice"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskim-otpremnicama.html#clan_7"
+    },
+    {
+        "title": "Član 8",
+        "texts": [
+            "Primalac elektronske otpremnice proverava primljenu elektronsku otpremnicu pristupom sistemu i prihvata je ili odbija, u celosti ili delimično, u roku od osam dana od dana kada je izvršena potvrda fizičkog prijema u smislu člana 7. stav 4. ovog zakona, slanjem elektronske prijemnice.",
+            "Ako primalac elektronske otpremnice koji je subjekt javnog sektora ne pošalje elektronsku prijemnicu u roku iz stava 1. ovog člana, elektronska otpremnica smatra se prihvaćenom u celosti.",
+            "Ako primalac elektronske otpremnice koji je subjekt privatnog sektora ne pošalje elektronsku prijemnicu u roku iz stava 1. ovog člana, elektronska otpremnica smatra se odbijenom u celosti.",
+            "Primalac elektronske otpremnice delimično prihvata, odnosno delimično odbija primljenu elektronsku otpremnicu slanjem elektronske prijemnice preko sistema sa naznačenim odstupanjima ili drugim utvrđenim nedostacima, o čemu se pošiljalac elektronske otpremnice naknadno može saglasiti u roku od 30 dana od dana prispeća takve elektronske prijemnice, a u suprotnom će se smatrati da je u celosti odbio elektronsku prijemnicu.",
+            "Aktom ministra nadležnog za poslove finansija uređuju se način i postupak prihvatanja i odbijanja elektronskih otpremnica, slanja elektronske prijemnice, usaglašavanja preko sistema i način postupanja sa odbijenim elektronskim otpremnicama u sistemu.",
+            "Centralni informacioni posrednik"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskim-otpremnicama.html#clan_8"
+    },
+    {
+        "title": "Član 9",
+        "texts": [
+            "Centralni informacioni posrednik upravlja sistemom i odgovoran je za njegovo funkcionisanje, daje obaveštenja ili informacije iz sistema i omogućava uvid, pristup ili korišćenje sistema korisnicima u skladu sa njihovim pravima, dužnostima, obavezama ili ovlašćenjima u smislu ovog zakona.",
+            "Aktom ministra nadležnog za poslove finansija bliže se uređuje način postupanja Centralnog informacionog posrednika u obavljanju poslova iz stava 1. ovog člana.",
+            "Zaštita podataka"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskim-otpremnicama.html#clan_9"
+    },
+    {
+        "title": "Član 10",
+        "texts": [
+            "Centralni informacioni posrednik i subjekti ovlašćeni da pristupaju sistemu dužni su da obrađuju podatke o ličnosti samo u svrhu određenu ovim zakonom i štite ih u skladu sa zakonom kojim se uređuje zaštita podataka o ličnosti.",
+            "Centralni informacioni posrednik dužan je da preduzima mere zaštite od bezbednosnih rizika u skladu sa zakonom kojim se uređuje informaciona bezbednost.",
+            "Čuvanje elektronskih otpremnica"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskim-otpremnicama.html#clan_10"
+    },
+    {
+        "title": "Član 11",
+        "texts": [
+            "Elektronska otpremnica poslata ili primljena od strane subjekta javnog sektora čuva se trajno u sistemu.",
+            "Elektronska otpremnica poslata od strane subjekta privatnog sektora čuva se u sistemu deset godina od isteka godine u kojoj je poslata elektronska otpremnica.",
+            "Pošiljalac elektronske otpremnice čuva potpisani odštampani spoljni prikaz elektronske otpremnice iz člana 7. stav 3. ovog zakona, u roku od deset godina od isteka godine u kojoj je poslata elektronska otpremnica.",
+            "Elektronsku otpremnicu u papirnom obliku iz člana 5. stav 1. ovog zakona pošiljalac čuva u roku od deset godina od isteka godine u kojoj je poslata takva otpremnica.",
+            "Verodostojnost porekla i integritet sadržine elektronske otpremnice obezbeđuje se od njenog slanja do isteka roka do kojeg postoji obaveza njenog čuvanja.",
+            "Verodostojnost porekla i integritet sadržine elektronske otpremnice obezbeđuju se slanjem u formatu propisanim ovim zakonom, kao i čuvanjem u formatu pogodnom za elektronsko čuvanje dokumenta.",
+            "Subjekt privatnog sektora koji je poslao, odnosno primio elektronsku otpremnicu može odštampati elektronsku otpremnicu u jednom ili više primeraka do isteka roka za obavezno čuvanje elektronskih otpremnica iz stava 2. ovog člana, na način koji obezbeđuje verodostojnost porekla i integritet sadržine odštampane otpremnice.",
+            "Prevoznik koji je korisnik sistema u smislu člana 4. stav 6. ovog zakona može odštampati elektronsku otpremnicu u jednom ili više primeraka do isteka roka za obavezno čuvanje elektronskih otpremnica iz stava 3. ovog člana, na način koji obezbeđuje verodostojnost porekla i integritet sadržine odštampane otpremnice.",
+            "Otpremnica iz st. 7. i 8. ovog člana smatra se autentičnom i posle isteka roka za obavezno čuvanje elektronskih otpremnica iz st. 1. i 2. ovog člana.",
+            "Odredbe st. 1, 2, 5, 6, 7. i 9. ovog člana shodno se primenjuju i na elektronsku prijemnicu.",
+            "Aktom ministra nadležnog za poslove finansija bliže se uređuju uslovi i način čuvanja elektronskih otpremnica, potpisanih odštampanih spoljnih prikaza elektronske otpremnice, elektronskih otpremnica u papirnom obliku i elektronskih prijemnica, način obezbeđivanja verodostojnosti i integriteta sadržine odštampanog spoljnog prikaza elektronskih otpremnica i elektronskih prijemnica, kao i način predstavljanja elektronskih otpremnica na osnovu zahteva nadležnog organa.",
+            "IV NADZOR",
+            "Vršenje i obaveze prilikom vršenja nadzora"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskim-otpremnicama.html#clan_11"
+    },
+    {
+        "title": "Član 12",
+        "texts": [
+            "Nadzor nad primenom ovog zakona vrši ministarstvo nadležno za poslove finansija.",
+            "Drugi državni organi, u skladu sa ovlašćenjima iz posebnih propisa, vrše u okviru postupka inspekcijskog nadzora i nadzor nad primenom ovog zakona.",
+            "Pošiljalac elektronske otpremnice, primalac elektronske otpremnice, operater prevoza, prevoznik i centralni informacioni posrednik dužni su da u cilju nesmetanog vršenja inspekcijskog nadzora i prikupljanja podataka od značaja za vršenje inspekcijskog nadzora nad određenim subjektom nadzora omoguće licu koje vrši inspekcijski nadzor uvid u elektronsku otpremnicu, odštampani spoljni prikaz elektronske otpremnice, elektronsku otpremnicu u papirnom obliku, elektronsku prijemnicu, prateću tehničku opremu i uređaje koji su u vezi sa obavezama propisanim zakonom.",
+            "V KAZNENE ODREDBE"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskim-otpremnicama.html#clan_12"
+    },
+    {
+        "title": "Član 13",
+        "texts": [
+            "Novčanom kaznom u iznosu od 200.000 do 2.000.000 dinara kazniće se za prekršaj pravno lice - subjekt privatnog sektora, prevoznik, odnosno javno preduzeće ako:",
+            "1) povredi obavezu slanja elektronske otpremnice (član 3. stav 1);",
+            "2) povredi obavezu predstavljanja elektronske otpremnice u okviru postupka inspekcijskog nadzora (član 4. st. 2. i 6);",
+            "3) ne izvrši evidentiranje svih nedostajućih podataka u sistemu po ponovnom uspostavljanju veze sa sistemom u propisanom roku (član 5. stav 5);",
+            "4) ne priloži preko sistema potpisani odštampani spoljni prikaz elektronske otpremnice uz elektronsku otpremnicu u propisanom roku (član 7. stav 3);",
+            "5) ne izvrši potvrdu fizičkog prijema u propisanom roku (član 7. stav 4);",
+            "6) koristi podatke koji su dostupni u sistemu u svrhe koje nisu propisane zakonom (član 10. stav 1).",
+            "Za prekršaj iz stava 1. ovoga člana kazniće se odgovorno lice pravnog lica - subjekta privatnog sektora, prevoznika, odnosno javnog preduzeća, novčanom kaznom od 50.000 do 150.000 dinara.",
+            "Za prekršaj iz stava 1. ovog člana kazniće se preduzetnik - subjekt privatnog sektora i prevoznik novčanom kaznom u iznosu od 50.000 do 500.000 dinara."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskim-otpremnicama.html#clan_13"
+    },
+    {
+        "title": "Član 14",
+        "texts": [
+            "Novčanom kaznom u iznosu od 300.000 dinara kazniće se za prekršaj pravno lice - pošiljalac elektronske otpremnice, primalac elektronske otpremnice i prevoznik ako licu koje vrši inspekcijski nadzor, u cilju nesmetanog vršenja inspekcijskog nadzora i prikupljanja podataka od značaja za vršenje inspekcijskog nadzora nad određenim subjektom:",
+            "1) ne omogući uvid u elektronsku otpremnicu, odštampani spoljni prikaz elektronske otpremnice, elektronsku otpremnicu u papirnom obliku, elektronsku prijemnicu, prateću tehničku opremu i uređaje koji su predmet nadzora prema odredbama člana 12. ovog zakona;",
+            "2) prikaže elektronsku otpremnicu koja nije verodostojna, u smislu člana 11. ovog zakona.",
+            "Za prekršaj iz stava 1. ovoga člana kazniće se odgovorno lice pravnog lica - subjekta privatnog sektora i prevoznika novčanom kaznom u iznosu od 50.000 dinara.",
+            "Za prekršaj iz stava 1. ovog člana kazniće se preduzetnik - subjekt privatnog sektora i prevoznik novčanom kaznom u iznosu od 150.000 dinara.",
+            "VI PRELAZNE I ZAVRŠNE ODREDBE",
+            "Rok za donošenje podzakonskih akata"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskim-otpremnicama.html#clan_14"
+    },
+    {
+        "title": "Član 15",
+        "texts": [
+            "Podzakonski akti za sprovođenje ovog zakona doneće se u roku od 90 dana od stupanja na snagu ovog zakona.",
+            "Početak primene"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskim-otpremnicama.html#clan_15"
+    },
+    {
+        "title": "Član 16",
+        "texts": [
+            "Sistem može da koristi subjekt javnog sektora, subjekt privatnog sektora i prevoznik po uspostavljanju tehničko-tehnoloških uslova.",
+            "Obaveza subjekta javnog sektora da primi elektronsku otpremnicu, obaveza subjekta javnog sektora da pošalje elektronsku otpremnicu subjektu javnog sektora, kao i obaveza prevoznika da predstavi elektronsku otpremnicu poslatu u ovim kretanjima dobara u okviru postupaka inspekcijskog nadzora u skladu sa odredbama zakona kojima se uređuje inspekcijski nadzor, u skladu sa ovim zakonom, primenjuju se od 1. januara 2026. godine.",
+            "Obaveza subjekta privatnog sektora da u slučaju kretanja dobara koji su akcizni proizvodi pošalje elektronsku otpremnicu, kao i obaveza prevoznika da predstavi elektronsku otpremnicu poslatu u ovim kretanjima dobara u okviru postupaka inspekcijskog nadzora u skladu sa odredbama zakona kojima se uređuje inspekcijski nadzor, u skladu sa ovim zakonom, primenjuju se od 1. januara 2026. godine.",
+            "Obaveza subjekta privatnog sektora koji po bilo kom osnovu prima akcizne proizvode da primi elektronsku otpremnicu, u skladu sa ovim zakonom, primenjuje se od 1. januara 2026. godine.",
+            "Obaveza subjekta privatnog sektora da pošalje elektronsku otpremnicu subjektu javnog sektora, kao i obaveza prevoznika da predstavi elektronsku otpremnicu poslatu u ovim kretanjima dobara u okviru postupaka inspekcijskog nadzora u skladu sa odredbama zakona kojima se uređuje inspekcijski nadzor, u skladu sa ovim zakonom, primenjuju se od 1. januara 2026. godine.",
+            "Obaveza subjekta javnog sektora da u slučaju kretanja dobara pošalje elektronsku otpremnicu, kao i obaveza prevoznika da predstavi elektronsku otpremnicu poslatu u ovim kretanjima dobara u okviru postupaka inspekcijskog nadzora u skladu sa odredbama zakona kojima se uređuje inspekcijski nadzor, u skladu sa ovim zakonom, primenjuju se od 1. januara 2026. godine.",
+            "Obaveza subjekta privatnog sektora da u slučaju kretanja dobara primi elektronsku otpremnicu, u skladu sa ovim zakonom, primenjuje se od 1. oktobra 2027. godine.",
+            "Odredbe ovog zakona koje se odnose na obavezu slanja elektronske otpremnice gde su pošiljalac i primalac subjekti privatnog sektora, kao i obaveza prevoznika da predstavi elektronsku otpremnicu poslatu u ovim kretanjima dobara u okviru postupaka inspekcijskog nadzora u skladu sa odredbama zakona kojima se uređuje inspekcijski nadzor, u skladu sa ovim zakonom, primenjuju se od 1. oktobra 2027. godine.",
+            "Stupanje na snagu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskim-otpremnicama.html#clan_16"
+    },
+    {
+        "title": "Član 17",
+        "texts": [
+            "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u \"Službenom glasniku Republike Srbije\".",
+            "Ako ne probate više različitih izbora nikada nećete biti sigurni da li imate najbolju opciju u svojim rukama. Mi Vam tu mogućnost nudimo besplatno! Popunite formular i dobićete priliku da bez ikakvih troškova saznate da li je Paragraf dobar izbor za Vas.",
+            "Ukoliko želite da Vas obaveštavamo o novostima i aktivnostima kompanije Paragraf prijavite se na našu mailing listu. Vaš e-mail neće biti upotrebljen u druge svrhe.",
+            "Pratite Paragraf na Viberu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskim-otpremnicama.html#clan_17"
+    }
+]

@@ -1,0 +1,392 @@
+[
+    {
+        "title": "Član 1",
+        "texts": [
+            "Ovim pravilnikom bliže se uređuju određena pitanja, odnosno rešenja iz Zakona o elektronskim otpremnicama (\"Službeni glasnik RS\", broj 94/24 - u daljem tekstu: Zakon), a naročito:",
+            "1) način prijave na sistem elektronskih otpremnica (u daljem tekstu: sistem), pristupanje i korišćenje sistema;",
+            "2) korišćenje podataka iz sistema;",
+            "3) sadržina liste korisnika sistema, uslovi za brisanje sa liste korisnika, kao i način i postupak brisanja sa liste korisnika sistema;",
+            "4) uslovi, način i postupak korišćenja posebnih funkcionalnosti sistema elektronskih otpremnica iz člana 5. Zakona, minimalni sadržaj elektronske otpremnice u papirnom obliku i postupanje sa elektronskom otpremnicom u papirnom obliku;",
+            "5) forma i način unosa podataka u sistem, minimalni sadržaj elektronske otpremnice neophodan za njeno procesuiranje kroz sistem, slučajevi u kojima pojedini elementi elektronske otpremnice mogu biti izostavljeni, slovne oznake akciznih proizvoda, slučajevi u kojima je predviđena obaveza iskazivanja dodatnih elemenata na osnovu drugih propisa kojima se uređuje slanje određenih vrsta otpremnica, kao i forma i način dostave prateće dokumentacije kroz sistem;",
+            "6) način i postupak slanja, storniranja, prijema i predstavljanja elektronskih otpremnica u okviru postupaka inspekcijskog nadzora;",
+            "7) način i postupak prihvatanja i odbijanja elektronskih otpremnica, slanja elektronske prijemnice, usaglašavanja preko sistema i način postupanja sa odbijenim elektronskim otpremnicama u sistemu;",
+            "8) način postupanja Centralnog informacionog posrednika u obavljanju poslova iz člana 9. stav 1. Zakona;",
+            "9) uslovi i način čuvanja elektronskih otpremnica, potpisanih odštampanih spoljnih prikaza elektronske otpremnice, elektronskih otpremnica u papirnom obliku i elektronskih prijemnica, način obezbeđivanja verodostojnosti i integriteta sadržine odštampanog spoljnog prikaza elektronskih otpremnica i elektronskih prijemnica, kao i način predstavljanja elektronskih otpremnica na osnovu zahteva nadležnog organa.",
+            "II NAČIN PRIJAVE I PRISTUPANJE SISTEMU"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskim-otpremnicama.html#clan_1"
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Pravno lice, preduzetnik i drugo fizičko lice koje ima obavezu, odnosno koje se opredelilo da koristi sistem u skladu sa Zakonom registruje se za pristup sistemu elektronskih otpremnica (u daljem tekstu: subjekt registracije).",
+            "Registrovanje za pristup sistemu (u daljem tekstu: registrovanje) vrši se preko odgovarajućeg veb interfejsa (u daljem tekstu: interfejs za registrovanje), koji je sastavni deo sistema.",
+            "Registrovanje je moguće izvršiti:",
+            "1) preko sistema elektronskih faktura, što je omogućeno subjektu registracije koji je korisnik sistema elektronskih faktura;",
+            "2) direktnim registrovanjem.",
+            "Registrovanje je moguće samo za subjekte registracije koji poseduju poreski identifikacioni broj (u daljem tekstu: PIB) u skladu sa zakonom.",
+            "Registrovanje vrši zakonski zastupnik subjekta registracije, odnosno subjekt registracije lično u slučaju kada je subjekt registracije preduzetnik i drugo fizičko lice."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskim-otpremnicama.html#clan_2"
+    },
+    {
+        "title": "Član 3",
+        "texts": [
+            "Identitet fizičkog lica koje koristi interfejs za registrovanje utvrđuje se putem Portala za elektronsku identifikaciju uz primenu šeme elektronske identifikacije visokog nivoa pouzdanosti.",
+            "Provera PIB-a vrši se na osnovu podataka iz Jedinstvenog registra poreskih obveznika, a provera statusa zakonskog zastupnika subjekta registracije na osnovu podataka iz odgovarajućeg registra koji sadrži podatke o zakonskim zastupnicima određenog tipa subjekta registracije."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskim-otpremnicama.html#clan_3"
+    },
+    {
+        "title": "Član 4",
+        "texts": [
+            "Ako se registracija na sistem vrši direktnim registrovanjem iz člana 2. stav 3. tačka 2) ovog pravilnika, u interfejs za registrovanje unose se osnovni identifikacioni podaci o subjektu registracije, i to:",
+            "1) tip subjekta registracije;",
+            "2) identifikacioni broj subjekta registracije.",
+            "Unos podatka o tipu subjekta registracije iz stava 1. tačka 1) ovog člana vrši se odabirom jednog od ponuđenih tipova iz padajuće liste tipova subjekata registracije, i to:",
+            "1) privredno društvo;",
+            "2) preduzetnik;",
+            "3) udruženje;",
+            "4) stečajna masa;",
+            "5) fondacija/zadužbina;",
+            "6) sportsko udruženje;",
+            "7) komora;",
+            "8) korisnik javnih sredstava;",
+            "9) drugo.",
+            "Identifikacioni broj subjekta registracije iz stava 1. tačka 2) ovog člana je broj koji odgovara određenom tipu subjekta registracije, i to:",
+            "1) matični broj privrednog subjekta upisan u Registar privrednih subjekata Agencije za privredne registre za odabrano privredno društvo, preduzetnika, udruženje, stečajnu masu, fondaciju/zadužbinu, sportsko udruženje ili komoru;",
+            "2) PIB za odabran tip subjekta registracije \"drugo\";",
+            "3) jedinstveni broj korisnika javnih sredstava (u daljem tekstu: JBKJS) za odabranog korisnika javnih sredstava, osim korisnika javnih sredstava koji pripada tipu osam korisnika javnih sredstava u skladu sa propisima kojima se uređuje budžetski sistem."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskim-otpremnicama.html#clan_4"
+    },
+    {
+        "title": "Član 5",
+        "texts": [
+            "Lice koje postane subjekt javnog sektora, odnosno subjekt privatnog sektora registruje se po automatizmu, ukoliko se pre automatske registracije nije registrovalo u sistem."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskim-otpremnicama.html#clan_5"
+    },
+    {
+        "title": "Član 6",
+        "texts": [
+            "Subjekt registracije postaje korisnik sistema danom registracije."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskim-otpremnicama.html#clan_6"
+    },
+    {
+        "title": "Član 7",
+        "texts": [
+            "Korisnik sistema koji se smatra subjektom javnog sektora ili subjektom privatnog sektora, kao i korisnik sistema na koga se shodno primenjuju odredbe Zakona koje se primenjuju na subjekte privatnog sektora može:",
+            "1) kreirati podatke za autentikaciju pristupa i korišćenja putem aplikativnog interfejsa;",
+            "2) odrediti ovlašćena lica za pristup i korišćenje putem korisničkog interfejsa.",
+            "Za korisnika sistema iz stava 1. ovog člana omogućena su dva tehnička rešenja za pristupanje i korišćenje sistema, i to:",
+            "1) putem korisničkog interfejsa, kada ovlašćeno lice putem internet pretraživača može da vrši slanje i prijem elektronskih otpremnica i elektronskih prijemnica u ime korisnika sistema u okviru svojih ovlašćenja;",
+            "2) putem aplikativnog interfejsa (eng. API - Application Programming Interface) koji omogućava povezivanje sa softverskim sistemom korisnika sistema i vršenje radnji navedenih u tački 1) ovog stava.",
+            "Za korisnika sistema koji se smatra prevoznikom u smislu Zakona, omogućeno je korišćenje sistema putem mobilne aplikacije za transportna preduzeća (u daljem tekstu: MATP), kojoj se, nakon registrovanja u skladu sa članom 2. ovog pravilnika, može pristupiti putem Portala za elektronsku identifikaciju uz primenu šeme elektronske identifikacije niskog nivoa pouzdanosti, odnosno uz primenu šeme elektronske identifikacije visokog nivoa pouzdanosti."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskim-otpremnicama.html#clan_7"
+    },
+    {
+        "title": "Član 8",
+        "texts": [
+            "Korisnik sistema iz člana 7. stav 1. ovog pravilnika ima mogućnost da pristupi listi i sadržaju elektronskih otpremnica i elektronskih prijemnica koje šalje, odnosno koje je primio.",
+            "Korisnik sistema iz člana 7. stav 3. ovog pravilnika ima mogućnost da, korišćenjem MATP-a, pristupi listi i sadržaju poslatih elektronskih otpremnica u kojima je označen kao prevoznik.",
+            "III SADRŽINA LISTE KORISNIKA SISTEMA, USLOVI ZA BRISANJE SA LISTE KORISNIKA, NAČIN I POSTUPAK BRISANJA SA LISTE KORISNIKA SISTEMA"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskim-otpremnicama.html#clan_8"
+    },
+    {
+        "title": "Član 9",
+        "texts": [
+            "Lista korisnika sistema sadrži podatke o:",
+            "1) PIB-u korisnika sistema;",
+            "2) JBKJS-u korisnika javnih sredstava, osim korisnika javnih sredstava koji pripada tipu osam korisnika javnih sredstava u skladu sa propisima kojima se uređuje budžetski sistem;",
+            "3) datumu registracije;",
+            "4) datumu brisanja sa liste korisnika sistema, ukoliko je korisnik sistema izbrisan sa te liste."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskim-otpremnicama.html#clan_9"
+    },
+    {
+        "title": "Član 10",
+        "texts": [
+            "Korisnik sistema može biti izbrisan sa liste korisnika sistema ako su ispunjeni uslovi za brisanje sa te liste.",
+            "Smatra se da su uslovi iz stava 1. ovog člana ispunjeni ako je za određenog korisnika sistema prestala obaveza korišćenja sistema u skladu sa Zakonom (npr. brisanje iz registra privrednih subjekata, istek roka iz člana 4. stav 5. Zakona u kojem dobrovoljni korisnik sistema ima obavezu da koristi sistem i dr.)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskim-otpremnicama.html#clan_10"
+    },
+    {
+        "title": "Član 11",
+        "texts": [
+            "Ako su ispunjeni uslovi za brisanje sa liste korisnika sistema, na zahtev korisnika sistema Centralni informacioni posrednik briše korisnika sistema sa te liste.",
+            "Zahtev iz stava 1. ovog člana dostavlja se elektronskim putem i sadrži podatke o nazivu i PIB-u korisnika sistema na koga se zahtev odnosi, kao i o osnovu za brisanje sa liste korisnika sistema.",
+            "Uz zahtev iz stava 1. ovog člana mogu se priložiti i elektronska ili druga dokumenta kojima se dokazuje postojanje osnova za brisanje sa liste korisnika sistema.",
+            "Izuzetno od stava 1. ovog člana, Centralni informacioni posrednik može po službenoj dužnosti izbrisati korisnika sistema sa liste korisnika sistema ako u toku svog postupanja dođe do saznanja da je korisnik sistema prestao da postoji.",
+            "IV KORIŠĆENJE SISTEMA, FORMA I NAČIN UNOSA PODATAKA U SISTEM, MINIMALNI SADRŽAJ ELEKTRONSKE OTPREMNICE NEOPHODAN ZA NJENO PROCESUIRANJE KROZ SISTEM"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskim-otpremnicama.html#clan_11"
+    },
+    {
+        "title": "Član 12",
+        "texts": [
+            "Preko sistema evidentira se elektronska otpremnica koja najmanje sadrži:",
+            "1) oznaku da li je elektronska otpremnica interna ili eksterna;",
+            "2) broj elektronske otpremnice;",
+            "3) datum izdavanja elektronske otpremnice;",
+            "4) datum i vreme početka kretanja dobara;",
+            "5) planirani datum i vreme završetka otpreme;",
+            "6) podatke o pošiljaocu elektronske otpremnice (naziv, adresu, PIB i matični broj, kao i JBKJS korisnika javnih sredstava, osim korisnika javnih sredstava koji pripada tipu osam korisnika javnih sredstava u skladu sa propisima kojima se uređuje budžetski sistem);",
+            "7) podatke o primaocu elektronske otpremnice (naziv, adresu, PIB i matični broj, kao i JBKJS korisnika javnih sredstava, osim korisnika javnih sredstava koji pripada tipu osam korisnika javnih sredstava u skladu sa propisima kojima se uređuje budžetski sistem);",
+            "8) podatke o dobru koje se otprema, i to:",
+            "(1) redni broj,",
+            "(2) šifra artikla,",
+            "(3) naziv,",
+            "(4) količina,",
+            "(5) jedinica mere;",
+            "9) adresu otpreme dobara;",
+            "10) adresu odredišta;",
+            "11) način otpreme i podatke o prevoznom sredstvu ili licu koje učestvuje u kretanju dobara;",
+            "12) jedinstveni identifikacioni broj.",
+            "Podatak iz stava 1. tačka 12) ovog člana sistem automatski dodeljuje elektronskoj otpremnici prilikom njenog sačinjavanja.",
+            "Elektronska otpremnica koju po nalogu drugog korisnika sistema, u svoje ime i za račun nalogodavca šalje operater prevoza sadrži oznaku: dobra treće strane, kao i jedinstveni identifikacioni broj elektronske otpremnice nalogodavca."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskim-otpremnicama.html#clan_12"
+    },
+    {
+        "title": "Član 13",
+        "texts": [
+            "Podatak iz člana 12. stav 1. tačka 11) ovog pravilnika unosi se izborom jedne od navedenih opcija:",
+            "1) sopstveni prevoz, u slučaju da prevoz dobara navedenih u elektronskoj otpremnici obavlja pošiljalac elektronske otpremnice;",
+            "2) prevoznik, u slučaju da prevoz dobara navedenih u elektronskoj otpremnici obavlja prevoznik, odnosno operater prevoza;",
+            "3) prevoz primaoca, u slučaju da prevoz dobara navedenih u elektronskoj otpremnici obavlja primalac elektronske otpremnice;",
+            "4) lično preuzimanje, u slučaju da otpremanje dobara navedenih u elektronskoj otpremnici obavlja primalac elektronske otpremnice ne koristeći prevozno sredstvo;",
+            "5) lična dostava, u slučaju da otpremanje dobara navedenih u elektronskoj otpremnici obavlja pošiljalac elektronske otpremnice ne koristeći prevozno sredstvo.",
+            "U zavisnosti od izabrane opcije, u elektronskoj otpremnici iskazuje se jedan ili više podataka koji se odnose na prevoznika, prevozno sredstvo ili identifikacione podatke lica koje učestvuje u kretanju dobara, i to:",
+            "1) ukoliko je izabrana opcija iz stava 1. tač. 1)-3) ovog člana:",
+            "(1) naziv,",
+            "(2) matični broj,",
+            "(3) PIB,",
+            "(4) adresa,",
+            "(5) registarski broj vozila;",
+            "2) Ukoliko je izabrana opcija iz stava 1. tač. 4) ili 5) ovog člana:",
+            "(1) ime i prezime,",
+            "(2) broj lične karte.",
+            "Podaci iz stava 2. tačka 1) ovog člana iskazuju se i u slučaju da se u elektronskoj otpremnici evidentira planirani, odnosno neplanirani pretovar, posebno za svaki od odnosnih pretovara."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskim-otpremnicama.html#clan_13"
+    },
+    {
+        "title": "Član 14",
+        "texts": [
+            "Elektronska otpremnica koja se šalje radi evidentiranja kretanja dobara koje se smatraju opasnim materijama, u skladu sa propisima kojima se uređuje prevoz opasnih materija, sadrži i posebnu oznaku: opasne materije.",
+            "U slučaju iz stava 1. ovog člana, elektronska otpremnica sadrži i dodatne podatke o nazivu i opisu odnosnih dobara."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskim-otpremnicama.html#clan_14"
+    },
+    {
+        "title": "Član 15",
+        "texts": [
+            "Elektronska otpremnica koja se šalje radi evidentiranja kretanja određenih dobara koja su akcizni proizvodi, sadrži naziv akcizne kategorije, koji može biti:",
+            "1) duvan;",
+            "2) kafa;",
+            "3) alkoholna pića.",
+            "U slučaju iz stava 1. ovog člana, elektronska otpremnica sadrži i podatak o masi u gramima za kafu, podatak o zapremini u litrima za alkoholna pića i podatke o tipu pakovanja i šifri robne marke za duvanske proizvode.",
+            "U slučaju iz stava 1. tačka 1) ovog člana, elektronska otpremnica sadrži i podatak o planiranom datumu i vremenu početka kretanja dobara."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskim-otpremnicama.html#clan_15"
+    },
+    {
+        "title": "Član 16",
+        "texts": [
+            "Pored podataka iz čl. 12-15. ovog pravilnika, elektronska otpremnica može da sadrži i druge podatke u skladu sa propisima kojima se uređuje dokumentovanje kretanja određenih vrsta dobara, kao i druge podatke koji su od značaja za pošiljaoca, primaoca ili druge zainteresovane strane.",
+            "Uz elektronsku otpremnicu može se priložiti dokumentacija koja je od značaja za izdavaoca, primaoca ili druge zainteresovane strane.",
+            "Detaljna objašnjenja mogućnosti unosa podataka u sistem sadržana su u tehničkom uputstvu za korišćenje sistema, koje se objavljuje na internet stranici Ministarstva finansija i koje sadrži tehnička objašnjenja za rad u sistemu (u daljem tekstu: tehničko uputstvo za korišćenje sistema).",
+            "V MINIMALNI SADRŽAJ ELEKTRONSKE OTPREMNICE U PAPIRNOM OBLIKU I POSTUPANJE SA ELEKTRONSKOM OTPREMNICOM U PAPIRNOM OBLIKU"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskim-otpremnicama.html#clan_16"
+    },
+    {
+        "title": "Član 17",
+        "texts": [
+            "U slučaju iz člana 5. stav 2. Zakona, pre početka kretanja dobara pošiljalac dostavlja Centralnom informacionom posredniku podatke o:",
+            "1) serijskom broju sigurnosnih hologramskih nalepnica koje koristi radi obeležavanja;",
+            "2) PIB-u pošiljaoca;",
+            "3) PIB-u primaoca.",
+            "Centralni informacioni posrednik vrši potvrdu registracije elektronske otpremnice u papirnom obliku saopštavanjem jedinstvenog alfanumeričkog koda pošiljaocu.",
+            "Nakon što Centralni informacioni posrednik potvrdi da je izvršena registracija, pošiljalac u elektronsku otpremnicu u papirnom obliku upisuje jedinstveni alfanumerički kod iz stava 2. ovog člana i jedan primerak zadržava, a drugi predaje prevozniku ili operateru prevoza u cilju predstavljanja i dalje predaje radi potvrde fizičkog prijema, u skladu sa Zakonom.",
+            "Detaljna objašnjenja načina kontaktiranja Centralnog informacionog posrednika u slučaju slanja elektronske otpremnice u papirnom obliku sadržana su u tehničkom uputstvu za korišćenje sistema."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskim-otpremnicama.html#clan_17"
+    },
+    {
+        "title": "Član 18",
+        "texts": [
+            "Elektronska otpremnica u papirnom obliku najmanje sadrži:",
+            "1) sigurnosnu hologramsku nalepnicu;",
+            "2) jedinstveni alfanumerički kod iz člana 17. stav 2. ovog pravilnika;",
+            "3) podatke iz čl. 13-16. ovog pravilnika."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskim-otpremnicama.html#clan_18"
+    },
+    {
+        "title": "Član 19",
+        "texts": [
+            "Primalac elektronske otpremnice u papirnom obliku potvrđuje fizički prijem u sistemu i prihvata je ili odbija, u celosti ili delimično, slanjem elektronske prijemnice.",
+            "Po ponovnom uspostavljanju veze sa sistemom, pošiljalac elektronske otpremnice vrši evidentiranje svih nedostajućih podataka iz elektronske otpremnice u papirnom obliku, prilažući u sistem digitalizovani izvorni dokument elektronske otpremnice u papirnom obliku.",
+            "Izuzetno od stava 1. ovog člana, ukoliko kod primaoca elektronske otpremnice nastupe okolnosti iz člana 5. stav 2. Zakona, potvrda fizičkog prijema i prihvatanje ili odbijanje elektronske otpremnice može se izvršiti na odštampanom spoljnom prikazu elektronske otpremnice, odnosno na samoj elektronskoj otpremnici u papirnom obliku.",
+            "U slučaju iz stava 3. ovog člana, po ponovnom uspostavljanju veze sa sistemom, primalac vrši evidentiranje fizičkog prijema i nedostajućih podataka iz elektronske prijemnice, prilažući u sistem digitalizovani izvorni dokument.",
+            "VI NAČIN I POSTUPAK SLANJA, STORNIRANJA I PRIJEMA ELEKTRONSKIH OTPREMNICA"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskim-otpremnicama.html#clan_19"
+    },
+    {
+        "title": "Član 20",
+        "texts": [
+            "Pošiljalac elektronske otpremnice sačinjava, šalje, odnosno stornira elektronsku otpremnicu odgovarajućim radnjama u sistemu, u skladu sa kojima se poslatoj elektronskoj otpremnici dodeljuje status, i to:",
+            "1) poslato;",
+            "2) stornirano.",
+            "Pošiljaocu je omogućeno da izvrši radnju storniranja poslate elektronske otpremnice do trenutka kada primalac elektronske otpremnice izvrši potvrdu fizičkog prijema dobara.",
+            "Izuzetno od stava 1. ovog člana, elektronskoj otpremnici može biti automatski dodeljen jedan od tehničkih statusa:",
+            "1) nacrt;",
+            "2) u slanju;",
+            "3) neispravno.",
+            "U slučaju iz stava 3. ovog člana, elektronska otpremnica ne smatra se poslatom niti primljenom."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskim-otpremnicama.html#clan_20"
+    },
+    {
+        "title": "Član 21",
+        "texts": [
+            "Poslata elektronska otpremnica primaocu se prikazuje sa automatski dodeljenim statusom: primljeno.",
+            "U slučaju iz člana 20. stava 2. ovog pravilnika, primaocu elektronske otpremnice podatak o storniranju prikazuje se promenom statusa primljene elektronske otpremnice u status: stornirano.",
+            "Primalac elektronske otpremnice svojom radnjom u sistemu elektronskoj otpremnici dodeljuje status: fizički prijem.",
+            "Nakon što izvrši potvrdu fizičkog prijema, primaocu elektronske otpremnice omogućeno je da sačini elektronsku prijemnicu."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskim-otpremnicama.html#clan_21"
+    },
+    {
+        "title": "Član 22",
+        "texts": [
+            "Prihvatanje ili odbijanje elektronske otpremnice primalac vrši sačinjavanjem i slanjem elektronske prijemnice, u kojoj navodi broj elektronske prijemnice, pristiglu količinu i primljenu količinu svakog posebnog dobra navedenog u elektronskoj otpremnici.",
+            "Nakon slanja elektronske prijemnice, njoj se dodeljuje status: poslato.",
+            "Pošiljalac elektronske prijemnice može da stornira poslatu elektronsku prijemnicu sačinjavanjem i slanjem nove elektronske prijemnice, čime se prethodnoj elektronskoj prijemnici automatski dodeljuje status: stornirano.",
+            "Pošiljaocu elektronske prijemnice omogućeno je vršenje radnje iz stava 3. ovog člana do trenutka kada primalac izvrši radnju prihvatanja elektronske prijemnice.",
+            "Izuzetno od st. 2. i 3. ovog člana, elektronskoj prijemnici može biti automatski dodeljen jedan od tehničkih statusa:",
+            "1) nacrt;",
+            "2) u slanju;",
+            "3) neispravno.",
+            "U slučaju iz stava 5. ovog člana, elektronska prijemnica ne smatra se poslatom niti primljenom."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskim-otpremnicama.html#clan_22"
+    },
+    {
+        "title": "Član 23",
+        "texts": [
+            "Poslata elektronska prijemnica primaocu se prikazuje sa automatski dodeljenim statusom: primljeno.",
+            "U slučaju iz člana 22. stava 3. ovog pravilnika, primaocu elektronske prijemnice podatak o storniranju prikazuje se promenom statusa primljene elektronske prijemnice u status: stornirano.",
+            "Primalac elektronske prijemnice svojom radnjom u sistemu elektronskoj prijemnici dodeljuje odgovarajući status, i to:",
+            "1) prihvaćeno;",
+            "2) odbijeno.",
+            "Ukoliko je elektronskoj prijemnici dodeljen status: prihvaćeno, odnosnoj elektronskoj otpremnici automatski se dodeljuje status: usaglašeno.",
+            "Ukoliko je elektronska prijemnica i nakon isteka roka iz člana 8. stav 4. Zakona u statusu: odbijeno, odnosna elektronska otpremnica zadržava poslednji status koji joj je dodeljen u sistemu.",
+            "VII PREDSTAVLJANJE ELEKTRONSKIH OTPREMNICA U OKVIRU POSTUPAKA INSPEKCIJSKOG NADZORA I NA OSNOVU ZAHTEVA NADLEŽNOG ORGANA"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskim-otpremnicama.html#clan_23"
+    },
+    {
+        "title": "Član 24",
+        "texts": [
+            "Ovlašćenom licu koje vrši inspekcijski nadzor omogućava se uvid u poslate elektronske otpremnice korišćenjem mobilne aplikacije za kontrolu (u daljem tekstu: MAK).",
+            "Centralni informacioni posrednik omogućava pristup MAK-u ovlašćenom licu iz stava 1. ovog člana na način opisan u tehničkom uputstvu za korišćenje sistema."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskim-otpremnicama.html#clan_24"
+    },
+    {
+        "title": "Član 25",
+        "texts": [
+            "U okviru postupka nadzora, odnosno na zahtev nadležnog organa, Centralni informacioni posrednik, subjekt javnog sektora, subjekt privatnog sektora, operater prevoza i prevoznik predstavljaju elektronsku otpremnicu pristupom sistemu i omogućavanjem uvida u sadržaj elektronske otpremnice, odnosno elektronske prijemnice.",
+            "Prevozniku je omogućeno da ispuni obavezu iz stava 1. ovog člana korišćenjem MATP-a.",
+            "U okviru postupka nadzora, odnosno na zahtev nadležnog organa, u slučajevima iz člana 5. stav 2. Zakona i iz člana 7. stav 3. Zakona, subjekt javnog sektora, subjekt privatnog sektora, operater prevoza i prevoznik omogućavaju uvid u odštampani spoljni prikaz elektronske otpremnice koji je potpisao prevoznik iz člana 4. stav 7. Zakona, kao i u elektronsku otpremnicu u papirnom obliku."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskim-otpremnicama.html#clan_25"
+    },
+    {
+        "title": "Član 26",
+        "texts": [
+            "Državnim organima i organizacijama, organima i organizacijama autonomne pokrajine, organima i organizacijama jedinica lokalne samouprave, javnim preduzećima, posebnim organima preko kojih se ostvaruje regulatorna funkcija i pravnim i fizičkim licima kojima su poverena javna ovlašćenja (u daljem tekstu: organ), biće dostavljeni podaci iz sistema samo ako su im ti podaci neophodni za vršenje poslova iz svoje nadležnosti, a te podatke mogu obrađivati isključivo u svrhe nesmetanog obavljanja poslova iz svoje nadležnosti i to samo u onoj meri u kojoj je to neophodno.",
+            "Pristup podacima iz sistema vrši se u skladu sa odredbama i procedurama predviđenim propisima kojima se uređuje obavljanje poslova uprave organa kojima su poverena javna ovlašćenja upotrebom informaciono-komunikacionih tehnologija.",
+            "VIII ČUVANJE ELEKTRONSKIH OTPREMNICA I ELEKTRONSKIH PRIJEMNICA, POTPISANIH ODŠTAMPANIH SPOLJNIH PRIKAZA ELEKTRONSKE OTPREMNICE I ELEKTRONSKIH OTPREMNICA U PAPIRNOM OBLIKU"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskim-otpremnicama.html#clan_26"
+    },
+    {
+        "title": "Član 27",
+        "texts": [
+            "Čuvanje elektronskih otpremnica i elektronskih prijemnica u sistemu vrši se korišćenjem postupaka i tehnoloških rešenja kojima se obezbeđuje verodostojnost porekla i integritet sadržine elektronske otpremnice i elektronske prijemnice preuzete iz sistema, uz obavezno ispunjavanje uslova i standarda informacione bezbednosti, u skladu sa propisima kojima se uređuje informaciona bezbednost, nezavisno od načina preuzimanja i formata preuzete elektronske otpremnice, odnosno elektronske prijemnice.",
+            "Korisnici sistema mogu pretraživati i preuzimati elektronske otpremnice i elektronske prijemnice koje se čuvaju u sistemu, a koje su oni izdali i primili."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskim-otpremnicama.html#clan_27"
+    },
+    {
+        "title": "Član 28",
+        "texts": [
+            "Način čuvanja elektronskih otpremnica i elektronskih prijemnica omogućava njihovo stavljanje na uvid u slučaju zahteva nadležnog organa koji ima pristup podacima iz sistema u skladu sa zakonom.",
+            "Stavljanje na uvid elektronskih otpremnica i elektronskih prijemnica u slučaju zahteva nadležnog organa vrši se na način koji omogućava brz, efikasan i bezbedan prenos podataka, za jednog ili više subjekta javnog sektora, odnosno subjekta privatnog sektora, odnosno dobrovoljnog korisnika sistema i tako da podaci o njima budu predstavljeni na pregledan i sistematičan način."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskim-otpremnicama.html#clan_28"
+    },
+    {
+        "title": "Član 29",
+        "texts": [
+            "Elektronske otpremnice i elektronske prijemnice u papirnom obliku i potpisani odštampani spoljni prikaz elektronske otpremnice čuvaju se u skladu sa propisima kojima se uređuje arhivska građa.",
+            "IX NAČIN OBEZBEĐIVANJA VERODOSTOJNOSTI I INTEGRITETA SADRŽINE ODŠTAMPANOG SPOLJNOG PRIKAZA ELEKTRONSKIH OTPREMNICA I ELEKTRONSKIH PRIJEMNICA"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskim-otpremnicama.html#clan_29"
+    },
+    {
+        "title": "Član 30",
+        "texts": [
+            "Smatra se da preuzimanje i štampanje elektronske otpremnice i elektronske prijemnice od strane subjekta privatnog sektora, odnosno dobrovoljnog korisnika sistema izvršeno do isteka roka za obavezno čuvanje iz člana 11. stav 2. Zakona obezbeđuje verodostojnost porekla i integritet sadržine ukoliko:",
+            "1) papirni oblik elektronske otpremnice, odnosno elektronske prijemnice sadrži sve elemente koje je sadržao i elektronski oblik, kao i oznaku da je elektronska otpremnica, odnosno elektronska prijemnica generisana u sistemu, jedinstveni identifikator i datum i vreme slanja;",
+            "2) papirni oblik elektronske otpremnice, odnosno elektronske prijemnice prikazuje sve elemente iz tačke 1) ovog člana na čitak način;",
+            "3) je preuzimanje i štampanje elektronske otpremnice, odnosno elektronske prijemnice izvršeno u skladu sa odredbama o preuzimanju i štampanju primerka elektronskog dokumenta iz propisa kojima se uređuje elektronski dokument.",
+            "X NAČIN POSTUPANJA CENTRALNOG INFORMACIONOG POSREDNIKA"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskim-otpremnicama.html#clan_30"
+    },
+    {
+        "title": "Član 31",
+        "texts": [
+            "Centralni informacioni posrednik upravlja sistemom i odgovoran je za njegovo funkcionisanje.",
+            "Centralni informacioni posrednik:",
+            "1) uspostavlja odgovarajuću organizaciju poslova i radnih zadataka, uključujući kontakt centar i stara se o posebnim funkcionalnostima iz člana 5. stav 2. Zakona;",
+            "2) imenuje administratore sistema;",
+            "3) uspostavlja mehanizme za autentikaciju i autorizovani pristup sistemu, u skladu sa propisima kojima se uređuju informaciona bezbednost i elektronska identifikacija i zaštita podataka o ličnosti;",
+            "4) ažurno upravlja pravima pristupa infrastrukturi i softverskim rešenjima koje uspostavlja i koje koristi;",
+            "5) ažurira tehničko uputstvo za korišćenje sistema;",
+            "6) preduzima druge mere u cilju razvoja i ispravnog funkcionisanja sistema elektronskih otpremnica u skladu sa potrebama.",
+            "Kontakt centar sistema zakonskim zastupnicima i korisnicima sistema omogućava dobijanje podrške u vezi sa određenim funkcionalnostima sistema."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskim-otpremnicama.html#clan_31"
+    },
+    {
+        "title": "Član 32",
+        "texts": [
+            "Korisnik sistema kod kojeg je došlo do promene koja ima uticaj na korišćenje sistema od strane tog korisnika sistema obaveštava Centralnog informacionog posrednika o nastaloj promeni.",
+            "Obaveštenje iz stava 1. ovog člana dostavlja se elektronskim putem.",
+            "Centralni informacioni posrednik, u zavisnosti od nastale promene, preduzima radnje koje obezbeđuju funkcionisanje sistema.",
+            "XI ZAVRŠNA ODREDBA"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskim-otpremnicama.html#clan_32"
+    },
+    {
+        "title": "Član 33",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u \"Službenom glasniku Republike Srbije\", a primenjivaće se od 1. januara 2026. godine.",
+            "Ako ne probate više različitih izbora nikada nećete biti sigurni da li imate najbolju opciju u svojim rukama. Mi Vam tu mogućnost nudimo besplatno! Popunite formular i dobićete priliku da bez ikakvih troškova saznate da li je Paragraf dobar izbor za Vas.",
+            "Ukoliko želite da Vas obaveštavamo o novostima i aktivnostima kompanije Paragraf prijavite se na našu mailing listu. Vaš e-mail neće biti upotrebljen u druge svrhe.",
+            "Pratite Paragraf na Viberu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-elektronskim-otpremnicama.html#clan_33"
+    }
+]

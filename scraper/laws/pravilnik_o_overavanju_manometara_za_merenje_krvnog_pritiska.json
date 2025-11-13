@@ -1,0 +1,179 @@
+[
+    {
+        "title": "Član 1",
+        "texts": [
+            "Ovim pravilnikom bliže se propisuju način i uslovi periodičnog i vanrednog overavanja (u daljem tekstu: overavanje) manometara za neinvanzivno merenje krvnog pritiska (u daljem tekstu: manometar), zahtevi koje manometar mora da ispuni pri overavanju, kao i način utvrđivanja ispunjenosti zahteva za manometre.",
+            "Značenje pojedinih izraza"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-overavanju-manometara-za-merenje-krvnog-pritiska.html#clan_1"
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Pojedini izrazi upotrebljeni u ovom pravilniku imaju sledeće značenje:",
+            "1) krvni pritisak je pritisak u arterijskom sistemu ljudskog tela;",
+            "2) neinvanzivno merenje arterijskog krvnog pritiska je indirektno merenje krvnog pritiska bez prodiranja u arteriju;",
+            "3) manžetna je deo manometra koji se obmotava oko zgloba šake ili nadlaktice ruke i koji u napumpanom stanju sprečava protok krvi kroz krvni sud tako da se kontrolisanim smanjenjem pritiska mogu registrovati karakteristične vrednosti krvnog pritiska;",
+            "4) pneumatski sistem čine svi delovi manometra koji su pod pritiskom i svi delovi koji služe za kontrolu pritiska, kao što su manžetna, pripadajuća savitljiva creva, spojnice, ispusni ventil, pumpica i merni element pritiska;",
+            "5) elektromehanički merni pretvarač pritiska je deo manometra koji pretvara pritisak u električni izlazni signal;",
+            "6) mehanički manometar je manometar sa stubom tečnosti, aneroidni manometar ili drugi mehanički uređaj za neinvanzivno merenje arterijskog krvnog pritiska pomoću pneumatskog sistema;",
+            "7) elektromehanički manometar je manometar koji u svom sastavu ima elektromehanički merni pretvarač pritiska, odnosno koji radi na principu pretvaranja pritiska u električni signal koji se prikazuje digitalno na pokaznom uređaju;",
+            "8) automatski manometar je elektromehanički manometar kod kojeg je proces merenja krvnog pritiska automatski;",
+            "9) ispusni ventil je sastavni deo manometra koji služi za kontrolisano ručno ili automatsko umanjenje pritiska u pneumatskom sistemu tokom merenja;",
+            "10) histerezis je razlika izmerenih vrednosti istog pritiska u opterećenju i rasterećenju;",
+            "11) greška merenja je izmerena vrednost pritiska koju pokazuje manometar umanjena za referentnu vrednosti merene veličine;",
+            "12) najveća dozvoljena greška merenja (u daljem tekstu: NDG) je ekstremna vrednost greške merenja u odnosu na poznatu referentnu vrednost pritiska, propisana ovim pravilnikom.",
+            "Drugi izrazi koji se upotrebljavaju u ovom pravilniku, a nisu definisani u stavu 1. ovog člana, imaju značenje definisano zakonima kojima se uređuju metrologija, standardizacija i medicinska sredstva.",
+            "Oblast primene"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-overavanju-manometara-za-merenje-krvnog-pritiska.html#clan_2"
+    },
+    {
+        "title": "Član 3",
+        "texts": [
+            "Ovaj pravilnik primenjuje se na manometre u upotrebi koji se koriste u zdravstvenim ustanovama, i to:",
+            "1) mehaničke manometre (manometri sa živinim stubom, aneroidni manometri sa elastičnim mernim elementom);",
+            "2) elektromehaničke manometre i merne sisteme za merenje krvnog pritiska.",
+            "Zahtevi i utvrđivanje ispunjenosti zahteva"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-overavanju-manometara-za-merenje-krvnog-pritiska.html#clan_3"
+    },
+    {
+        "title": "Član 4",
+        "texts": [
+            "Zahtevi za overavanje manometara dati su u Prilogu 1 - Zahtevi, koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo.",
+            "Metode merenja i način ispitivanja manometara dati su u Prilogu 2 - Utvrđivanje ispunjenosti zahteva, koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo.",
+            "Overavanje"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-overavanju-manometara-za-merenje-krvnog-pritiska.html#clan_4"
+    },
+    {
+        "title": "Član 5",
+        "texts": [
+            "Overavanje manometra obuhvata:",
+            "1) proveru funkcionalnosti i vizuelni pregled manometra na način propisan u odeljku 4. Priloga 2 ovog pravilnika;",
+            "2) ispitivanje greške na način propisan u pododeljku 5.1. Priloga 2 ovog pravilnika;",
+            "3) ispitivanje histerezisa kod mehaničkih aneroidnih manometara na način propisan u pododeljku 5.2. Priloga 2 ovog pravilnika;",
+            "4) ispitivanje pada (curenje) pritiska u pneumatskom sistemu na način propisan u pododeljku 5.3. Priloga 2 ovog pravilnika;",
+            "5) proveru ispravnosti rada ispusnog ventila na način propisan u pododeljku 5.4. Priloga 2 ovog pravilnika;",
+            "6) proveru i ispitivanje uticaja uređaja za sprečavanje prosipanja žive kod mehaničkih manometara sa živinim stubom na način propisan u pododeljku 5.5. Priloga 2 ovog pravilnika;",
+            "7) označavanje (žigosanje).",
+            "Manometri se overavaju pojedinačno.",
+            "Pri overavanju manometra koristi se oprema iz odeljka 1. Priloga 2 ovog pravilnika, a sledivost se obezbeđuje u skladu sa odeljkom 2. Priloga 2 ovog pravilnika.",
+            "Ispitivanja iz stava 1. ovog člana sprovode se u referentnim uslovima iz odeljka 3. Priloga 2 ovog pravilnika.",
+            "Ukoliko se u postupku overavanja potvrdi da manometar ispunjava propisane zahteve, manometar se žigoše u skladu sa zakonom kojim se uređuje metrologija i propisom donetim na osnovu tog zakona.",
+            "Žigosanje manometra vrši se tako da nije moguće izvršiti bilo kakve izmene koje utiču na metrološke karakteristike manometra, bez oštećenja žiga/žigova."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-overavanju-manometara-za-merenje-krvnog-pritiska.html#clan_5"
+    },
+    {
+        "title": "Član 6",
+        "texts": [
+            "Manometar se može overavati samo ako je za manometar izdata isprava o odobrenju tipa ili izvršeno ocenjivanje usaglašenosti u skladu sa zakonom kojim se uređuju medicinska sredstva i podzakonskim propisima donetim za njegovo sprovođenje.",
+            "Prelazne i završna odredba"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-overavanju-manometara-za-merenje-krvnog-pritiska.html#clan_6"
+    },
+    {
+        "title": "Član 7",
+        "texts": [
+            "Manometri koje su do dana stupanja na snagu ovog pravilnika stavljeni u upotrebu overavaju se ukoliko zadovoljavaju zahteve ovog pravilnika."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-overavanju-manometara-za-merenje-krvnog-pritiska.html#clan_7"
+    },
+    {
+        "title": "Član 8",
+        "texts": [
+            "Stupanjem na snagu ovog pravilnika prestaje da važi Pravilnik o manometrima za merenje krvnog pritiska (\"Službeni glasnik RS\", br. 86/14 i 26/15)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-overavanju-manometara-za-merenje-krvnog-pritiska.html#clan_8"
+    },
+    {
+        "title": "Član 9",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u \"Službenom glasniku Republike Srbije\".",
+            "",
+            "Prilog 1",
+            "ZAHTEVI",
+            "1.1. Najveća dozvoljena greška",
+            "Greške merenja pritiska manometra pri overavanju, u opterećenju i rasterećenju, nisu veće od NDG koja iznosi ± 3 mmHg (± 0,4 kPa).",
+            "Greške merenja pritiska manometra pri nadzoru merila, u opterećenju i rasterećenju, nisu veće od ± 4 mmHg (± 0,5 kPa).",
+            "1.2. Histerezis",
+            "Apsolutna vrednost histerezisa u bilo kojoj mernoj tački nije veća od 4 mmHg (0,5 kPa).",
+            "1.3. Pad (curenje) pritiska",
+            "Pad pritiska u pneumatskom sistemu kod mehaničkih manometara nije veći od 4 mmHg/min, odnosno 0,5 kPa/min.",
+            "Pad pritiska u pneumatskom sistemu kod elektromehaničkih manometara nije veći od 6 mmHg/min (0,8 kPa/min), odnosno 4 mmHg/min (0,5 kPa/min), kod onih elektromehaničkih manometara kod kojih se krvni pritisak određuje uz pomoć stetoskopa.",
+            "1.4. Ispusni ventil",
+            "Pad pritiska od 260 mmHg do 15 mmHg (35 kPa do 2 kPa), kada se potpuno otvori ispusni ventil pneumatskog sistema manometra ne traje duže od 10 s.",
+            "Kod elektromehaničkih manometara kojima se može meriti krvni pritisak novorođenčadi i beba, pad pritiska od 150 mmHg (20 kPa) do 5 mmHg (0,7 kPa), kada se potpuno otvori ispusni ventil pneumatskog sistema manometra, ne traje duže od 5 s.",
+            "1.5. Uređaj za sprečavanje prosipanja žive",
+            "Manometri sa živinim stubom imaju uređaj koji sprečava prosipanje žive tokom upotrebe ili transporta.",
+            "Uređaj iz stava 1. ovog pododeljka konstruiše se tako da omogući da pad pritiska od 200 mmHg (25 kPa) do 40 mmHg (5 kPa), ne traje duže od 1,5 s (ispusno vreme).",
+            "1.6. Natpisi i oznake",
+            "Na manometru se nalaze sledeći natpisi i oznake:",
+            "1) službena oznaka tipa iz uverenja o odobrenju tipa merila ili znak usaglašenosti sa brojem imenovanog tela;",
+            "2) naziv proizvođača, registrovani komercijalni naziv ili registrovani zaštitni znak;",
+            "3) proizvodna oznaka manometra (tip, odnosno model);",
+            "4) serijski broj ili šifra serije;",
+            "5) godina proizvodnje, osim za manometre za koje je izdata isprava o odobrenju tipa (ova oznaka može da se uključi u šifru serije ili serijski broj);",
+            "6) merni opseg i merna jedinica (u rasponu od 0 mmHg do najmanje 260 mmHg).",
+            "Rezultat merenja manometrom prikazuje se u milimetrima živinog stuba (mmHg) ili u kilopaskalima (kPa).",
+            "Vrednost podeljka kod mehaničkih manometara iznosi 2 mmHg (0,2 kPa), dok vrednost podeljka kod elektromehaničkih manometara iznosi 1 mmHg (0,1 kPa).",
+            "Prilog 2",
+            "UTVRĐIVANJE ISPUNJENOSTI ZAHTEVA",
+            "1. OPREMA ZA ISPITIVANJE",
+            "Oprema za ispitivanje manometra u pogledu njegove usaglašenosti sa zahtevima propisanim ovim pravilnikom, sastoji se od:",
+            "1) referentnog etalona pritiska čija vrednost proširene merne nesigurnosti za normalnu raspodelu odgovara nivou poverenja od približno 95% i manja je od 0,8 mmHg (0,1 kPa) i čija vrednost podeljka nije veća od 1 mmHg;",
+            "2) sekundomera čija vrednost proširene merne nesigurnosti za normalnu raspodelu odgovara nivou poverenja od približno 95% i manja je od 0,1 s;",
+            "3) termometra za merenje temperature tokom ispitivanja čija vrednost proširene merne nesigurnosti za normalnu raspodelu odgovara nivou poverenja od približno 95% i nije veća od 0,2 °C;",
+            "4) metalne posude (zatvoreni cilindar) zapremine 0,1 l ± 5% i 0,5 l ± 5%;",
+            "5) generatora pritiska sa ispusnim ventilom;",
+            "6) T-konektora i creva za povezivanje sa pneumatskim sistemom.",
+            "2. SLEDIVOST",
+            "Etaloni i merni uređaji koji se koriste za ispitivanje manometra etaloniraju se radi obezbeđivanja sledivosti rezultata merenja do nacionalnih ili međunarodnih etalona.",
+            "3. REFERENTNI USLOVI",
+            "Manometar se, osim ako postupak ispitivanja ne predviđa drugačije, ispituje u sledećim referentnim uslovima:",
+            "1) temperatura okoline je u opsegu od 15 °C do 25 °C pri relativnoj vlažnosti okoline između 20% i 85%, pri čemu se tokom ispitivanja temperatura ne može promeniti za više od 2 °C;",
+            "2) referentni radni položaj manometra koji je naveo proizvođač, ako je primenljivo;",
+            "3) napon napajanja: nazivni opseg napona napajanja koji je naveo i odredio proizvođač.",
+            "4. VIZUELNI PREGLED I PROVERA FUNKCIONALNOSTI",
+            "Vizuelnim pregledom, odnosno proverom funkcionalnosti proverava se opšta funkcionalnost i kompletnost manometra kojima se potvrđuje da nema vidljivih oštećenja koja mogu uticati na ispravan rad.",
+            "Vizuelnim pregledom proverava se da li su ispunjeni zahtevi iz pododeljka 1.6. Priloga 1 ovog pravilnika.",
+            "Vizuelnim pregledom proverava se da li je živa u manometru takvog kvaliteta da omogućava jasan menisk i da u stubu tečnosti nema mehurića vazduha kod manometra sa živinim stubom.",
+            "Vizuelnim pregledom proverava se da li je manometar u potpunosti u skladu sa ispravom o odobrenju tipa izdatom za taj tip manometra ili da li je usaglašenost manometra ocenjena u skladu sa propisima kojima se uređuju medicinska sredstva.",
+            "5. POSTUPCI ISPITIVANJA MANOMETARA",
+            "5.1. Ispitivanje greške merenja",
+            "Manžetna ispitivanog manometra se zamenjuje metalnom posudom zapremine 0,5 l. Referentni etalon pritiska se T-konektorom i crevima povezuje sa pneumatskim sistemom ispitivanog manometra. Ukoliko manometar ima elektromehaničku pumpu ona se isključuje i nakon toga se na pneumatski sistem, preko još jednog T-konektora, povezuje generator pritiska. Način povezivanja prikazan je na slici 1.",
+            "",
+            "Ispitivanje se vrši u najmanje šest ravnomerno raspoređenih mernih tačaka duž celog mernog opsega manometra, u opterećenju i rasterećenju, sa korakom ne većim od 50 mmHg (7 kPa).",
+            "Pri ispitivanju vrše se najmanje dva ponavljanja i određuje se srednja vrednost, koja predstavlja referentnu vrednost greške za proveru ispunjenosti zahteva za NDG iz pododeljka 1.1. Priloga 1 ovog pravilnika.",
+            "Pre početka ispitivanja manometar se optereti do gornje granice mernog opsega, a nakon rasterećenja, ukoliko je moguće pokazivanje manometra se postavlja na nulu.",
+            "Očitavanja vrednosti pritiska u rasterećenju vrše se 15 s nakon što je manometar bio izložen pritisku na gornjoj granici mernog opsega.",
+            "5.2. Ispitivanje histerezisa kod mehaničkih aneroidnih manometara",
+            "Manžetna se zamenjuje metalnom posudom zapremine 0,5 l. Referentni etalon pritiska se T-konektorom i crevima povezuje sa pneumatskim sistemom ispitivanog manometra. Ukoliko manometar ima elektromehaničku pumpu ona se isključuje i nakon toga se na pneumatski sistem, preko još jednog T-konektora, povezuje generator pritiska.",
+            "Ispitivanje se vrši u najmanje šest ravnomerno raspoređenih mernih tačaka duž celog mernog opsega manometra, u opterećenju i rasterećenju, sa korakom ne većim od 50 mmHg (7 kPa), pri čemu se proverava ispunjenost zahteva iz pododeljka 1.2. Priloga 1 ovog pravilnika.",
+            "Očitavanja vrednosti pritiska u rasterećenju vrše se 5 min nakon što je manometar bio izložen pritisku na gornjoj granici mernog opsega.",
+            "Za vreme čekanja od 5 min referentni etalon pritiska je odvojen od pneumatskog sistema.",
+            "Pre početka ispitivanja manometar se optereti do gornje granice mernog opsega.",
+            "5.3. Ispitivanje pada pritiska (curenja) u pneumatskom sistemu",
+            "Manžetna se obmota oko cilindra odgovarajuće dimenzije. Ispitivani manometar se dovodi na ispitnu vrednost pritiska. Aktivira se sekundomer i meri brzina curenja (pada pritiska) u periodu od tačno 5 min. Pokazivanje manometra se beleži na početku i kraju perioda od 5 min curenja. Rezultat merenja se izražava kao pad pritiska po minuti.",
+            "Pri overavanju, ispitivanje se vrši u mernim tačkama koje imaju vrednost pritiska 50 mmHg (7 kPa) i 200 mmHg (27 kPa), pri čemu se proverava ispunjenost zahteva iz pododeljka 1.3. Priloga 1 ovog pravilnika.",
+            "Napomena: Elektromehanička pumpa ispitivanog manometra može se koristiti za potrebe ovog ispitivanja.",
+            "5.4. Ispitivanje sigurnosnog ispusnog ventila manometra",
+            "Manžetna ispitivanog manometra se zamenjuje metalnom posudom zapremine 0,5 l. Kod manometara kojima se može meriti krvni pritisak novorođenčadi i beba ili se krvni pritisak meri na zglobu šake, metalna posuda je zapremine 0,1 l.",
+            "Referentni etalon pritiska se T-konektorom i crevima povezuje sa pneumatskim sistemom ispitivanog manometra i generiše se maksimalni pritisak ispitivanog manometra.",
+            "Merenje vremena potrebnog za pad pritiska:",
+            "- od 260 mmHg (35 kPa) do 15 mmHg (2 kPa), za sve vrste manometara, ili",
+            "- od 150 mmHg (20 kPa) do 5 mmHg (0,7 kPa), kod elektromehaničkih manometara kojima se može meriti krvni pritisak novorođenčadi i beba, sprovodi se potpunim otvaranjem sigurnosnog ispusnog ventila i aktiviranjem sekundomera, pri čemu se proverava ispunjenost zahteva iz pododeljka 1.4. Priloga 1 ovog pravilnika.",
+            "5.5. Provera i ispitivanje uticaja uređaja za sprečavanje prosipanja žive kod mehaničkih manometara sa živinim stubom",
+            "5.5.1. Obezbeđenje od prosipanja žive",
+            "Manometar se postavlja u posudu za sakupljanje žive odgovarajuće veličine. Generator pritiska i referentni etalon pritiska se preko T-konektora direktno povezuju na crevo koje vodi do rezervoara sa živom. Generisati pritisak čija je vrednost za 100 mmHg (13,3 kPa) veća od najveće vrednosti na pokaznoj skali ispitivanog manometra i održavati na tom pritisku u trajanju od 5 s, a nakon toga potpuno rasteretiti sistem. Proveriti da li je došlo do prosipanja žive u posudu.",
+            "5.5.2. Ispitivanje uticaja uređaja za sprečavanje prosipanja žive",
+            "Generator pritiska se povezuje direktno na crevo koje vodi do rezervoara sa živom (bez povezane manžetne). Kada se dostigne pritisak ne manji od 200 mmHg (27 kPa) cev stuba žive se zatvori uređajem za sprečavanje prosipanja žive i odvoji se generator pritiska.",
+            "Merenje vremena potrebnog za pad pritiska od 200 mmHg (27 kPa) do 40 mmHg (5 kPa), potpunim otvaranjem uređaja za sprečavanje prosipanja žive, vrši se aktiviranjem sekundomera, pri čemu se proverava ispunjenost zahteva iz pododeljka 1.5. Priloga 1 ovog pravilnika.",
+            "Ako ne probate više različitih izbora nikada nećete biti sigurni da li imate najbolju opciju u svojim rukama. Mi Vam tu mogućnost nudimo besplatno! Popunite formular i dobićete priliku da bez ikakvih troškova saznate da li je Paragraf dobar izbor za Vas.",
+            "Ukoliko želite da Vas obaveštavamo o novostima i aktivnostima kompanije Paragraf prijavite se na našu mailing listu. Vaš e-mail neće biti upotrebljen u druge svrhe."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-overavanju-manometara-za-merenje-krvnog-pritiska.html#clan_9"
+    }
+]

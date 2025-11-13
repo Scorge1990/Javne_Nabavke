@@ -1,0 +1,1038 @@
+[
+    {
+        "title": "Član 1",
+        "texts": [
+            "Ovim pravilnikom propisuje se Kontni okvir i sadržina\r\nračuna u Kontnom okviru za privredna društva, zadruge i preduzetnike\r\nkoji, u skladu sa Zakonom o računovodstvu (\"Službeni glasnik RS\", broj\r\n73/19 - u daljem tekstu: Zakon), poslovne knjige vode po sistemu\r\ndvojnog knjigovodstva (u daljem tekstu: pravna lica i preduzetnici).",
+            "Kontni okvir za privredna društva, zadruge i\r\npreduzetnike (u daljem tekstu: Kontni okvir) odštampan je uz ovaj\r\npravilnik i čini njegov sastavni deo.",
+            "Odredbe ovog pravilnika odnose se na sva pravna lica,\r\nosim na Narodnu banku Srbije, banke, društva za osiguranje, davaoce\r\nfinansijskog lizinga, dobrovoljne penzijske fondove i društva za\r\nupravljanje dobrovoljnim penzijskim fondovima, investicione fondove i\r\ndruštva za upravljanje investicionim fondovima, Centralni registar,\r\ndepo i kliring hartija od vrednosti, berze i brokersko-dilerska\r\ndruštva, kao i druga pravna lica definisana Zakonom.",
+            "Odredbe ovog pravilnika odnose se na institucije\r\nelektronskog novca, platne institucije, društva za posredovanje u\r\nosiguranju, društva za zastupanje u osiguranju i\r\npreduzetnike-zastupnike u osiguranju.",
+            "Odredbe ovog pravilnika odnose se i na:",
+            "1) druga pravna lica koja primenjuju Međunarodne\r\nstandarde finansijskog izveštavanja (MSFI), odnosno Međunarodni\r\nstandard finansijskog izveštavanja za mala i srednja pravna lica (MSFI\r\nza MSP);",
+            "2) pravna lica i preduzetnike u postupku stečaja ili likvidacije (osim pravnih lica navedenih u stavu 3. ovog člana);",
+            "3) ogranke i druge organizacione delove pravnih lica\r\nsa sedištem u inostranstvu, koji obavljaju privrednu delatnost u\r\nRepublici Srbiji, ako posebnim propisima nije drukčije uređeno; i",
+            "4) stečajne mase stečajnih dužnika nad kojima je\r\nobustavljen, odnosno zaključen postupak stečaja, osim ako nisu u\r\npitanju stečajne mase banaka, društava za osiguranje, davaoca\r\nfinansijskog lizinga, penzijskih fondova i društava za upravljanje\r\ndobrovoljnim penzijskim fondovima, investicionih fondova i društava za\r\nupravljanje investicionim fondovima, berzi i brokersko-dilerskih\r\ndruštava, kao i drugih pravnih lica definisanih Zakonom."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_1"
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Pravna lica i preduzetnici iskazuju stanje i promene\r\nimovine, kapitala i obaveza, rashode i prihode i utvrđuju rezultate\r\nposlovanja prema sadržini pojedinih računa u Kontnom okviru."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_2"
+    },
+    {
+        "title": "Član 3",
+        "texts": [
+            "Stanje i promene imovine, kapitala i obaveza, prihodi\r\ni rashodi i utvrđivanje rezultata poslovanja evidentiraju se na\r\nosnovnim (trocifrenim) računima propisanim u Kontnom okviru, u skladu\r\nsa regulativom koju pravno lice, odnosno preduzetnik primenjuje za\r\npriznavanje, vrednovanje, prezentaciju i obelodanjivanje pozicija u\r\nfinansijskim izveštajima (MSFI, MSFI za MSP ili podzakonski akt kojim\r\nse uređuje način priznavanja, vrednovanja, prezentacije i\r\nobelodanjivanja pozicija u pojedinačnim finansijskim izveštajima mikro\r\ni drugih pravnih lica) i usvojenim računovodstvenim politikama.",
+            "Propisani osnovni (trocifreni) računi mogu se u\r\nskladu sa odredbama ovog pravilnika i potrebama obveznika primene ovog\r\npravilnika dalje raščlanjavati.",
+            "II SADRŽINA RAČUNA",
+            "Klasa 0: Upisani a neuplaćeni kapital i stalna imovina"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_3"
+    },
+    {
+        "title": "Član 4",
+        "texts": [
+            "Na računima grupe 00 - Upisani a neuplaćeni kapital,\r\niskazuju se iznosi upisanih a neuplaćenih akcija i upisanih a\r\nneuplaćenih udela i uloga prema nazivima računa ove grupe.",
+            "Kursne razlike po osnovu preračuna upisanog a\r\nneuplaćenog kapitala u stranoj valuti knjiže se zaduženjem računa grupe\r\n00 a u korist računa grupe 31 - Upisani a neuplaćeni kapital.",
+            "U slučaju da je kursna razlika negativna, knjiženje se vrši odobrenjem računa grupe 00, a na teret računa grupe 31.",
+            "Na računu 000 - Upisane a neuplaćene akcije, iskazuju\r\nse iznosi upisanih a neuplaćenih akcija u nominalnom iznosu, odnosno u\r\ndinarskoj protivvrednosti strane valute na dan upisa.",
+            "Uplata upisanih akcija knjiži se na teret računa 241\r\n- Tekući (poslovni) računi u korist računa 000 za nominalnu vrednost\r\nupisanih akcija, uz istovremeno knjiženje na teret računa 310 - Upisane\r\na neuplaćene akcije i u korist računa 300 - Akcijski kapital.",
+            "Na računu 001 - Upisani a neuplaćeni udeli i ulozi,\r\niskazuju se iznosi upisanih a neuplaćenih udela i uloga u nominalnom\r\niznosu, odnosno u dinarskoj protivvrednosti strane valute na dan upisa.",
+            "Uplata upisanih udela i uloga knjiži se na teret\r\nračuna 241 - Tekući (poslovni) računi u korist računa 001 - Upisani a\r\nneuplaćeni udeli i ulozi, za nominalnu vrednost upisanih udela, odnosno\r\nuloga uz istovremeno knjiženje na teret računa 311 - Upisani a\r\nneuplaćeni udeli i ulozi i u korist računa 301 - Udeli društava s\r\nograničenom odgovornošću, odnosno računa 302 - Ulozi."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_4"
+    },
+    {
+        "title": "Član 5",
+        "texts": [
+            "Na računima grupe 01 - Nematerijalna imovina,\r\niskazuju se ulaganja u određena nemonetarna sredstva bez fizičkog\r\nsadržaja, koja služe za proizvodnju ili isporuku robe ili usluga, za\r\niznajmljivanje ili se koriste u administrativne svrhe.",
+            "Na računu 010 - Ulaganja u razvoj, iskazuju se ulaganja u razvoj čiji se efekti očekuju u periodu dužem od jedne godine.",
+            "Na računu 011 - Koncesije, patenti, licence, robne i\r\nuslužne marke, iskazuju se ulaganja u nematerijalna prava koja se\r\npriznaju u skladu sa računovodstvenom politikom.",
+            "Na računu 012 - Softver i ostala prava, iskazuje se\r\nsoftver koji je kupljen odvojeno od računara na osnovu licencnog\r\nugovora na osnovu kojeg se može koristiti u periodu dužem od godinu\r\ndana (uključujući i pravo na neograničeno korišćenje) i druga prava u\r\nskladu sa računovodstvenom politikom.",
+            "Na računu 013 - Gudvil, iskazuje se višak prenete\r\nnaknade u odnosu na učešće sticaoca u fer vrednosti stečenih\r\nidentifikovanih sredstava i obaveza na datum transakcije razmene po\r\nosnovu poslovnih kombinacija, u skladu sa računovodstvenom politikom.",
+            "Na računu 014 - Ostala nematerijalna imovina,\r\niskazuju se ulaganja u ostalu nematerijalnu imovinu koja se priznaje u\r\nskladu sa računovodstvenom politikom.",
+            "Na računu 015 - Nematerijalna imovina uzeta u lizing,\r\niskazuje se nematerijalna imovina sa pravom korišćenja preko godinu\r\ndana koja ispunjava uslove da se prizna kao imovina u skladu sa MSFI\r\n16.",
+            "Na računu 016 - Nematerijalna imovina u pripremi,\r\niskazuju se svi oblici nematerijalne imovine koji se priznaju u skladu\r\nsa računovodstvenom politikom od dana ulaganja do dana njihovog\r\naktiviranja na nekom od računa grupe 01.",
+            "Na računu 017 - Avansi za nematerijalnu imovinu, iskazuju se dati avansi za sticanje svih oblika nematerijalne imovine.",
+            "Na posebnom računu, odnosno računima otvorenim u\r\nokviru odgovarajućeg trocifrenog računa ove grupe, iskazuje se ispravka\r\nvrednosti po osnovu obračunate amortizacije i eventualnog obezvređenja\r\nnematerijalne imovine.",
+            "Gubitak po osnovu obezvređenja nematerijalne imovine\r\nknjiži se vrednosnim usklađivanjem otvorenih računa nabavne vrednosti i\r\nispravke vrednosti, a na teret računa 581 - Rashodi od usklađivanja\r\nvrednosti nematerijalne imovine, odnosno na teret raspoloživih\r\nrevalorizacionih rezervi na računu 330 - Revalorizacione rezerve po\r\nosnovu revalorizacije nematerijalne imovine, nekretnina, postrojenja i\r\nopreme, ako su prethodno formirane za konkretno nematerijalno ulaganje.",
+            "Dobitak po osnovu usklađivanja vrednosti\r\nnematerijalne imovine knjiži se vrednosnim usklađivanjem otvorenih\r\nračuna nabavne vrednosti i ispravke vrednosti, u korist računa 330 -\r\nRevalorizacione rezerve po osnovu revalorizacije nematerijalne imovine,\r\nnekretnina, postrojenja i opreme ili u korist računa 681 - Prihodi od\r\nusklađivanja vrednosti nematerijalne imovine do visine rashoda koji su\r\nu prethodnom/im periodu/ima proknjiženi na teret računa 581 - Rashodi\r\nod usklađivanja vrednosti nematerijalne imovine."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_5"
+    },
+    {
+        "title": "Član 6",
+        "texts": [
+            "Na računima grupe 02 - Nekretnine, postrojenja i\r\noprema, iskazuju se zemljište, građevinski objekti, investicione\r\nnekretnine, postrojenja i oprema, alat i inventar sa kalkulativnim\r\notpisom i ostale nekretnine, postrojenja i oprema, uključujući stanove,\r\nstambene zgrade i odmarališta koji ispunjavaju uslov za priznavanje u\r\nskladu sa računovodstvenom politikom, kao i ulaganja za pribavljanje\r\nnekretnina, postrojenja i opreme.",
+            "Na računu 020 - Poljoprivredno i ostalo zemljište,\r\niskazuju se poljoprivredno i ostalo zemljište, u skladu sa\r\nračunovodstvenom politikom.",
+            "Na računu 021 - Građevinsko zemljište, iskazuje se građevinsko zemljište, u skladu sa računovodstvenom politikom.",
+            "Na računu 022 - Građevinski objekti, iskazuju se građevinski objekti, u skladu sa računovodstvenom politikom.",
+            "Na računu 023 - Postrojenja i oprema, iskazuju se postrojenja i oprema, u skladu sa računovodstvenom politikom.",
+            "Na računu 024 - Investicione nekretnine, iskazuju se investicione nekretnine, u skladu sa računovodstvenom politikom.",
+            "Na računu 025 - Nekretnine, postrojenja i oprema\r\nuzeti u lizing sa pravom korišćenja preko godinu dana, iskazuju se kod\r\nkorisnika zakupa nekretnine, postrojenja i oprema koji su uzeti u zakup\r\nili lizing koji ispunjavaju uslove da se priznaju kao imovina u skladu\r\nsa MSFI 16.",
+            "Na računu 026 - Ostale nekretnine, postrojenja i\r\noprema, iskazuju se vrednosti onih sredstava koja nisu iskazana na\r\ndrugim računima ove grupe, kao što su: spomenici kulture i istorijski\r\nspomenici, dela likovne, vajarske, filmske i druge umetnosti, muzejske\r\nvrednosti, knjige u bibliotekama i druga osnovna sredstva.",
+            "Na računu 027 - Nekretnine, postrojenja i oprema u\r\npripremi, iskazuju se ulaganja u ove oblike sredstava od dana ulaganja\r\ndo dana njihovog aktiviranja na nekom od računa grupe 02.",
+            "Na račun 028 - Ulaganja na tuđim nekretninama,\r\npostrojenjima i opremi, iskazuju se ulaganja koja se vrše na tuđim\r\nsredstvima radi obavljanja delatnosti.",
+            "Na računu 029 - Avansi za nekretnine, postrojenja i opremu, iskazuju se dati avansi za sticanje ovih oblika sredstava.",
+            "Na posebnom računu, odnosno računima otvorenim u\r\nokviru odgovarajućeg trocifrenog računa ove grupe, iskazuje se ispravka\r\nvrednosti po osnovu obračunate amortizacije i eventualnog obezvređenja\r\nnekretnina, postrojenja i opreme.",
+            "Gubitak po osnovu obezvređenja nekretnina,\r\npostrojenja i opreme knjiži se vrednosnim usklađivanjem otvorenih\r\nračuna nabavne vrednosti i ispravke vrednosti, a na teret računa računa\r\n582 - Rashodi od usklađivanja vrednosti nekretnina, postrojenja i\r\nopreme, odnosno na teret raspoloživih revalorizacionih rezervi na\r\nračunu 330 - Revalorizacione rezerve po osnovu revalorizacije\r\nnematerijalne imovine, nekretnina, postrojenja i opreme, ako su\r\nprethodno formirane za konkretno sredstvo.",
+            "Dobitak po osnovu usklađivanja vrednosti nekretnina,\r\npostrojenja i opreme knjiži se, vrednosnim usklađivanjem otvorenih\r\nračuna nabavne vrednosti i ispravke vrednosti, u korist računa 330 -\r\nRevalorizacione rezerve po osnovu revalorizacije nematerijalne imovine,\r\nnekretnina, postrojenja i opreme ili u korist računa 682 - Prihodi od\r\nusklađivanja vrednosti, nekretnina, postrojenja i opreme do visine\r\nrashoda koji su u prethodnom/im periodu/ima proknjiženi na teret računa\r\n582 - Rashodi od usklađivanja vrednosti nekretnina, postrojenja i\r\nopreme."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_6"
+    },
+    {
+        "title": "Član 7",
+        "texts": [
+            "Na računima grupe 03 - Biološka sredstva, iskazuju se\r\nšume, višegodišnji zasadi, osnovno stado, biološka sredstva u pripremi\r\ni ostala biološka sredstva u skladu sa računovodstvenom politikom.",
+            "Na računu 030 - Šume, iskazuje se vrednost drvne mase u šumama u skladu sa računovodstvenom politikom.",
+            "Na računu 031 - Plodonosni višegodišnji zasadi,\r\niskazuju se voćnjaci, vinogradi, hmeljnjaci i ostali višegodišnji\r\nzasadi koji se drže radi davanja prinosa, proizvodnje poljoprivrednih\r\nproizvoda, odnosno ubiranja plodova u periodu dužem od godinu dana.",
+            "Na računu 032 - Ostali višegodišnji zasadi, iskazuje\r\nse drveće i višegodišnje žbunje koje se ne drži primarno radi davanja\r\nprinosa, odnosno proizvodnje poljoprivrednih proizvoda u smislu\r\nubiranja plodova.",
+            "Na računu 033 - Osnovno stado, iskazuju se biološka\r\nsredstva, koja saglasno računovodstvenoj politici predstavljaju\r\nživotinje koje se koriste kao radna i priplodna stoka.",
+            "Na računu 037 - Biološka sredstva u pripremi,\r\niskazuju se ulaganja u ove oblike sredstava izvršena od dana ulaganja\r\ndo dana njihovog aktiviranja na nekom od računa grupe 03.",
+            "Na računu 038 - Avansi za biološka sredstva, iskazuju se dati avansi za sticanje ovih oblika sredstava.",
+            "Na posebnom računu, odnosno računima otvorenim u\r\nokviru odgovarajućeg trocifrenog računa ove grupe, iskazuje se ispravka\r\nvrednosti po osnovu obračunate amortizacije i eventualnog obezvređenja\r\nbioloških sredstava.",
+            "Gubitak po osnovu obezvređenja bioloških sredstava\r\nknjiži se na teret računa 580 - Rashodi od usklađivanja vrednosti\r\nbioloških sredstava, a dobitak u korist računa 680 - Prihodi od\r\nusklađivanja vrednosti bioloških sredstava."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_7"
+    },
+    {
+        "title": "Član 8",
+        "texts": [
+            "Na računima grupe 04 - Dugoročni finansijski\r\nplasmani, iskazuju se učešća u kapitalu i druge hartije od vrednosti\r\nkoje se vrednuju po fer vrednosti kroz ostali ukupan rezultat, krediti\r\ni zajmovi sa rokom dospeća preko godinu dana od dana njihovog nastanka,\r\nodnosno od datuma bilansa, dugoročne hartije od vrednosti koje se drže\r\ndo dospeća, otkupljene sopstvene akcije i ostali dugoročni plasmani.",
+            "Na računima ove grupe iskazuju se i pripisane kamate\r\npo dugoročnim finansijskim plasmanima (interkalarne kamate, odnosno\r\nkamate u toku grejs perioda).",
+            "Na računu 040 - Učešća u kapitalu zavisnih pravnih\r\nlica, iskazuju se akcije i udeli u kapitalu pravnih lica nad čijim\r\nposlovanjem postoji kontrola u smislu Zakona.",
+            "Na računu 041 - Učešća u kapitalu pridruženih pravnih\r\nlica i zajedničkim poduhvatima, iskazuju se učešća u kapitalu pravnih\r\nlica na čije poslovanje postoji značajan uticaj i učešće u zajedničkim\r\naranžmanima dva ili više lica, u skladu sa računovodstvenom politikom.",
+            "Na računu 042 - Učešća u kapitalu ostalih pravnih\r\nlica i dugoročne hartije od vrednosti koje se vrednuju po fer vrednosti\r\nkroz ostali ukupni rezultat, iskazuju se akcije i udeli u kapitalu\r\ndrugih pravnih lica nad čijim poslovanjem ne postoji kontrola, niti\r\nznačajan uticaj i druge dugoročne hartije od vrednosti koje se vrednuju\r\npo fer vrednosti kroz ostali ukupan rezultat.",
+            "Na računu 043 - Dugoročni plasmani matičnom, zavisnim\r\ni ostalim povezanim licima u zemlji, iskazuju se dugoročni krediti i\r\nzajmovi povezanim pravnim licima u zemlji prema nazivu ovog računa.",
+            "Na računu 044 - Dugoročni plasmani matičnom, zavisnim\r\ni ostalim povezanim licima u inostranstvu, iskazuju se dugoročni\r\nkrediti i zajmovi dati pravnim licima u inostranstvu prema nazivu ovog\r\nračuna.",
+            "Na računu 045 - Dugoročni plasmani u zemlji i\r\ninostranstvu, iskazuju se dugoročni krediti i zajmovi dati pravnim\r\nlicima u zemlji i inostranstvu.",
+            "Na računu 046 - Hartije od vrednosti koje se vrednuju\r\npo amortizovanoj vrednosti, iskazuju se finansijska sredstva sa fiksnim\r\nili odredivim iznosima plaćanja i sa fiksnom dospelošću, za koje pravno\r\nlice i preduzetnik imaju verovatnu nameru i sposobnost da ih drže do\r\ndospeća (obveznice i sl.).",
+            "Na računu 047 - Otkupljene sopstvene akcije i\r\notkupljeni sopstveni udeli, iskazuju se otkupljene sopstvene akcije i\r\notkupljeni sopstveni udeli u nominalnoj vrednosti, koje je pravno lice\r\ndužno da otuđi u roku dužem od godinu dana od dana sticanja.",
+            "Na računu 048 - Ostali dugoročni finansijski\r\nplasmani, iskazuju se ostala dugoročna ulaganja koja nisu iskazana na\r\nostalim računima u okviru grupe 04.",
+            "Na posebnom računu, odnosno računima otvorenim u\r\nokviru odgovarajućeg trocifrenog računa ove grupe, iskazuje se ispravka\r\nvrednosti dugoročnih finansijskih plasmana utvrđena po osnovu\r\nobezvređenja, u skladu sa računovodstvenom politikom.",
+            "Gubitak po osnovu obezvređenja dugoročnih\r\nfinansijskih plasmana knjiži se na teret računa 583 - Rashodi od\r\nusklađivanja vrednosti dugoročnih finansijskih plasmana i drugih\r\nhartija od vrednosti koje se vrednuju po fer vrednosti kroz ostali\r\nukupan rezultat, a dobitak u korist računa 683 - Prihodi od\r\nusklađivanja vrednosti dugoročnih finansijskih plasmana i hartija od\r\nvrednosti koje se vrednuju po fer vrednosti kroz ostali ukupan\r\nrezultat."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_8"
+    },
+    {
+        "title": "Član 9",
+        "texts": [
+            "Na računima grupe 05 - Dugoročna potraživanja,\r\niskazuju se potraživanja sa rokom dospelosti dužim od 12 meseci posle\r\nizveštajnog perioda u skladu sa računovodstvenom politikom.",
+            "Na računu 050 - Potraživanja od matičnog i zavisnih\r\npravnih lica, iskazuju se potraživanja iz odnosa sa povezanim licima\r\nkoja čine grupu pravnih lica u smislu Zakona.",
+            "Na računu 051 - Potraživanja od ostalih povezanih\r\nlica, iskazuju se potraživanja iz odnosa sa ostalim povezanim licima na\r\nčije poslovanje postoji značajan uticaj i učešće u zajedničkim\r\nposlovima dva ili više lica u skladu sa računovodstvenom politikom.",
+            "Na računu 052 - Potraživanja po osnovu prodaje na\r\nrobni kredit, iskazuju se potraživanja po osnovu prodaje na robni\r\nkredit sa odloženim plaćanjem dužim od 12 meseci posle izveštajnog\r\nperioda.",
+            "Na računu 053 - Potraživanja za prodaju po ugovorima\r\no finansijskom lizingu, iskazuju se potraživanja po osnovu prodaje\r\npokretnih i nepokretnih stvari po ugovoru o finansijskom lizingu u\r\nskladu sa računovodstvenom politikom.",
+            "Na računu 054 - Potraživanja po osnovu jemstva,\r\niskazuju se potraživanja na ime plaćenog jemstva sa rokom dospelosti\r\ndužim od 12 meseci posle izveštajnog perioda.",
+            "Na računu 055 - Sporna i sumnjiva potraživanja,\r\niskazuju se potraživanja u sudskom sporu i sumnjiva potraživanja sa\r\nprocenjenim rokom naplate dužim od 12 meseci posle izveštajnog perioda.",
+            "Na računu 056 - Ostala dugoročna potraživanja,\r\niskazuju se druga potraživanja sa rokom naplate dužim od 12 meseci\r\nposle izveštajnog perioda.",
+            "Na posebnom računu, odnosno računima otvorenim u\r\nokviru odgovarajućeg trocifrenog računa ove grupe, iskazuje se ispravka\r\nvrednosti dugoročnih potraživanja utvrđena po osnovu obezvređenja, u\r\nskladu sa računovodstvenom politikom. Formiranje, smanjenje i ukidanje\r\nispravke vrednosti dugoročnih potraživanja vrši se shodno postupanju sa\r\nračunima ispravke potraživanja u grupi 20.",
+            "Klasa 1: Zalihe i stalna sredstva namenjena prodaji"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_9"
+    },
+    {
+        "title": "Član 10",
+        "texts": [
+            "Na računima grupe 10 - Zalihe materijala, iskazuju se\r\nzalihe materijala, rezervnih delova, alata i sitog inventara koji se u\r\ncelini otpisuje u obračunskom periodu, prema nazivima računa ove grupe.",
+            "Na računu 100 - Obračun nabavne vrednosti zaliha\r\nmaterijala, rezervnih delova, alata i sitnog inventara, iskazuje se\r\nvrednost po obračunu dobavljača i zavisni troškovi nabavke, ako pravno\r\nlice i preduzetnik odluči da obračun nabavke zaliha vrši preko ovog\r\nračuna. Na ovom računu iskazuje se fakturna vrednost nabavljenih zaliha\r\numanjena za popuste iskazane u računu dobavljača i za porez na dodatu\r\nvrednost i druge dažbine koje se mogu povratiti, zavisni troškovi\r\nnabavke koji se mogu direktno pripisati konkretnoj nabavci zaliha,\r\ncarine i druge uvozne dažbine koje se uključuju u nabavnu vrednost\r\nzaliha, porez na dodatu vrednost i akciza koji se ne mogu povratiti. Za\r\nnabavnu vrednost nabavljenih zaliha zadužuju se računi 101, 102, 103 i\r\n104 u korist ovog računa. Upotreba računa 100 nije obavezna.",
+            "Na računu 101 - Materijal, iskazuju se zalihe sirovina, osnovnog i pomoćnog materijala, ostalog materijala, goriva i maziva.",
+            "Na računu 102 - Rezervni delovi, iskazuje se zalihe rezervnih delova.",
+            "Na računu 103 - Alat i sitan inventar, iskazuje se\r\nvrednost zaliha alata i sitnog inventara koji se u celini otpisuju u\r\nmomentu davanja na korišćenje (kao što su sitan inventar, auto - gume i\r\nambalaža, ako se u celini otpisuju u izveštajnom periodu).",
+            "Na računu 104 - Materijal, rezervni delovi, alat i\r\nsitan inventar u obradi, doradi i manipulaciji, iskazuje se materijal,\r\nrezervni delovi, alat i sitan inventar dati u obradu, doradu i\r\nmanipulaciju.",
+            "Na posebnim računima otvorenim u okviru računa ove\r\ngrupe, iskazuje se ispravka vrednosti materijala, rezervnih delova,\r\nalata i sitnog inventara utvrđena kao pozitivna razlika između njihove\r\nknjigovodstvene vrednosti i neto ostvarive cene, odnosno po osnovu\r\nobezvređenja. Deo ispravke vrednosti koji se odnosi na utrošene,\r\nprodate ili rashodovane zalihe materijala, rezervnih delova, alata i\r\nsitnog inventara prenosi se sa računa ispravke vrednosti u korist\r\nodgovarajućeg računa na kojem je iskazan trošak, gubitak ili dobitak po\r\nosnovu trošenja, prodaje ili rashodovanja ovih sredstava.",
+            "Pravna lica i preduzetnici koja se bave proizvodnjom\r\ni pružanjem usluga se mogu opredeliti za vođenje evidencije materijala,\r\nrezervnih delova, alata i sitnog inventara u okviru grupe 10 ili u\r\nokviru klase 9."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_10"
+    },
+    {
+        "title": "Član 11",
+        "texts": [
+            "Na računima grupe 11 - Nedovršena proizvodnja,\r\niskazuje se početno stanje i povećanje ili smanjenje vrednosti zaliha\r\nproizvodnje, nedovršene proizvodnje, poluproizvoda i delova, kao i\r\nnedovršene usluge po ceni koja je obračunata u skladu sa\r\nračunovodstvenom politikom.",
+            "Na računu 110 - Nedovršena proizvodnja, odnosno na\r\nračunima otvorenim u okviru ovog računa, iskazuje se početno stanje, a\r\nna kraju izveštajnog perioda - povećanje ili smanjenje zaliha\r\nproizvodnje, nedovršenih proizvoda, poluproizvoda i delova (u daljem\r\ntekstu: nedovršena proizvodnja), po ceni koja je obračunata u skladu sa\r\nračunovodstvenom politikom.",
+            "Na računu 111 - Nedovršene usluge, odnosno na\r\nračunima otvorenim u okviru ovog računa, iskazuje se početno stanje, a\r\nna kraju izveštajnog perioda - povećanje ili smanjenje zaliha\r\nnedovršenih usluga po ceni koja je obračunata u skladu sa\r\nračunovodstvenom politikom."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_11"
+    },
+    {
+        "title": "Član 12",
+        "texts": [
+            "Na računima grupe 12 - Gotovi proizvodi, iskazuje se\r\npočetno stanje, povećanje ili smanjenje vrednosti zaliha gotovih\r\nproizvoda po ceni koja je obračunata u skladu sa računovodstvenom\r\npolitikom.",
+            "Na računu 120 - Gotovi proizvodi, odnosno na računima\r\notvorenim u okviru ovog računa, iskazuje se početno stanje, a na kraju\r\nizveštajnog perioda - povećanje ili smanjenje zaliha gotovih proizvoda\r\npo ceni koja je obračunata u skladu sa računovodstvenom politikom."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_12"
+    },
+    {
+        "title": "Član 13",
+        "texts": [
+            "Na računima grupe 13 - Roba, iskazuju se zalihe robe\r\nu magacinu, prodajnim objektima na veliko i prodajnim objektima na\r\nmalo, roba u obradi, doradi i manipulaciji, roba u tranzitu, roba na\r\nputu, ukalkulisani porez na dodatu vrednost (PDV) i ukalkulisana\r\nrazlika u ceni robe.",
+            "Na računu 130 - Obračun nabavke robe, iskazuje se\r\nvrednost po obračunu dobavljača i zavisni troškovi nabavke u skladu sa\r\nračunovodstvenom politikom. Upotreba računa 130 nije obavezna.",
+            "Na računu 131 - Roba u magacinu, iskazuje se vrednost zaliha robe u magacinu pre stavljanja robe u promet.",
+            "Na računu 132 - Roba u prometu na veliko, iskazuje se vrednost zaliha robe u prodajnim objektima na veliko.",
+            "Na računu 133 - Roba u skladištu, stovarištu i\r\nprodavnicama kod drugih lica, iskazuje se vrednost zaliha robe koja je\r\ndata na skladištenje, komisionu i konsignacionu prodaju.",
+            "Na računu 134 - Roba u prometu na malo, iskazuje se vrednost zaliha robe u prodajnim objektima na malo po maloprodajnoj ceni.",
+            "Ako se roba na zalihama vodi po prodajnim cenama,\r\nrazlika u ceni i ukalkulisani PDV vode se na računima otvorenim u\r\nokviru računa na kojem se evidentira roba.",
+            "Na računu 135 - Roba u obradi, doradi i manipulaciji,\r\niskazuje se vrednost zaliha robe koja je data na pakovanje i druge\r\noblike dorade i obrade.",
+            "Na računu 136 - Roba u tranzitu, iskazuje se vrednost\r\nrobe koja se po nalogu kupca neposredno isporučuje bez prethodnog\r\nskladištenja.",
+            "Na računu 137 - Roba na putu, iskazuje se vrednost robe isporučene kupcu, do trenutka potvrde prijema robe od strane kupca.",
+            "Na posebnim računima otvorenim u okviru računa ove\r\ngrupe, iskazuje se ispravka vrednosti robe utvrđena kao pozitivna\r\nrazlika između knjigovodstvene i neto ostvarive vrednosti robe, odnosno\r\npo osnovu obezvređenja. Deo ispravke vrednosti koji se odnosi na\r\nprodate, rashodovane ili utrošene zalihe robe prenosi se sa računa\r\nispravke vrednosti u korist odgovarajućeg računa na kojem je iskazan\r\nrashod, gubitak ili dobitak po osnovu prodaje, rashodovanja ili\r\ntrošenja ovih sredstava.",
+            "Pravna lica i preduzetnici koja se bave proizvodnjom\r\nmogu se opredeliti za vođenje evidencije robe u okviru grupe 13 ili u\r\nokviru klase 9.",
+            "Izuzetno od stava 12. ovog člana, pravna lica i\r\npreduzetnici koji obavljaju proizvodnu delatnost i koja vrše prodaju\r\nproizvoda i robe u sopstvenim maloprodajnim objektima, mogu vršiti\r\nprenos zaliha sopstvenih proizvoda na račun 134 - Roba u prometu na\r\nmalo, zaduženjem tog računa u korist računa 621 - Prihod od aktiviranja\r\nili potrošnje proizvoda i usluga za sopstvene potrebe. Na računima\r\nklase 9, taj prenos knjiži se zaduženjem računa 980 - Troškovi prodatih\r\nproizvoda i usluga, u korist računa grupe 96 - Gotovi proizvodi. U tom\r\nslučaju, na kraju godine zalihe gotovih proizvoda koje su prenete na\r\nrobu svode se na cenu koštanja ili neto prodajnu cenu ako je niža u\r\nskladu sa relevantnom računovodstvenom politikom."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_13"
+    },
+    {
+        "title": "Član 14",
+        "texts": [
+            "Na računima grupe 14 - Stalna imovina koja se drži za\r\nprodaju i prestanak poslovanja, iskazuju se nematerijalna imovina,\r\nzemljišta, građevinski objekti i druge nekretnine i postrojenja, oprema\r\ni biološka sredstva namenjena prodaji, odnosno koja su preneta sa\r\nračuna korišćenih sredstava na osnovu odluke o prodaji, kao i sredstva\r\nposlovanja koje će biti obustavljeno, a sredstva otuđena u skladu sa\r\nMSFI 5.",
+            "Na računu 140 - Nematerijalna imovina namenjena\r\nprodaji, iskazuje se korišćena nematerijalna imovina za koju je doneta\r\nodluka o prodaji.",
+            "Na računu 141 - Zemljište namenjeno prodaji, iskazuje se korišćeno zemljište za koje je doneta odluka o prodaji.",
+            "Na računu 142 - Građevinski objekti namenjeni\r\nprodaji, iskazuju se korišćeni građevinski objekti za koje je doneta\r\nodluka o prodaji.",
+            "Na računu 143 - Investicione nekretnine namenjene\r\nprodaji, iskazuju se korišćene investicione nekretnine za koje je\r\ndoneta odluka o prodaji.",
+            "Na računu 144 - Ostale nekretnine namenjene prodaji, iskazuju se korišćene druge nekretnine za koje je doneta odluka o prodaji.",
+            "Na računu 145 - Postrojenja i oprema namenjena\r\nprodaji, iskazuje se korišćena postrojenja i oprema za koju je doneta\r\nodluka o prodaji.",
+            "Na računu 146 - Biološka sredstva namenjena prodaji,\r\niskazuju se korišćena biološka sredstva za koja je doneta odluka o\r\nprodaji, a koja nisu obuhvaćena na računima 140 do 143.",
+            "Na računu 147 - Sredstva poslovanja koje se\r\nobustavlja, iskazuju se sredstva organizacionog dela pravnog lica i\r\npreduzetnika čije se poslovanje obustavlja, u skladu sa MSFI 5. Na\r\nračunima otvorenim u okviru računa 147, sredstva se iskazuju u skladu\r\nsa potrebama pravnog lica, odnosno preduzetnika.",
+            "Na posebnim računima otvorenim u okviru računa grupe\r\n14, iskazuje se ispravka vrednosti utvrđena po osnovu obezvređenja\r\nstalne imovine koja se drži za prodaju i poslovanja koje prestaje."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_14"
+    },
+    {
+        "title": "Član 15",
+        "texts": [
+            "Na računima grupe 15 - Plaćeni avansi za zalihe i\r\nusluge, iskazuje se vrednost avansa plaćenih za nabavku zaliha\r\nmaterijala, rezervnih delova, alata, sitnog inventara, robe i usluga.",
+            "Na računu 150 - Plaćeni avansi za materijal, rezervne\r\ndelove i sitan inventar u zemlji, iskazuju se avansi dati za nabavku\r\nmaterijala, rezervnih delova i sitnog inventara u zemlji, zaduženjem\r\novog računa a odobrenjem odgovarajućeg računa novčanih sredstava.",
+            "Na računu 151 - Plaćeni avansi za materijal, rezervne\r\ndelove i sitan inventar u inostranstvu, iskazuju se avansi dati za\r\nnabavku materijala, rezervnih delova i sitnog inventara u inostranstvu,\r\nzaduženjem ovog računa a odobrenjem odgovarajućeg računa novčanih\r\nsredstava.",
+            "Na računu 152 - Plaćeni avansi za robu i stalna\r\nsredstva koja se pribavljaju radi prodaje u zemlji, iskazuju se avansi\r\ndati za nabavku robe i stalna sredstva koja se pribavljaju radi prodaje\r\nu zemlji, zaduženjem ovog računa a odobrenjem odgovarajućeg računa\r\nnovčanih sredstava.",
+            "Na računu 153 - Plaćeni avansi za robu i stalna\r\nsredstva koja se pribavljaju radi prodaje u inostranstvu, iskazuju se\r\navansi dati za nabavku robe i stalna sredstva koja se pribavljaju radi\r\nprodaje u inostranstvu, zaduženjem ovog računa a odobrenjem\r\nodgovarajućeg računa novčanih sredstava.",
+            "Na računu 154 - Plaćeni avansi za usluge u zemlji,\r\niskazuju se avansi dati za nabavku usluga u zemlji, zaduženjem ovog\r\nračuna a odobrenjem odgovarajućeg računa novčanih sredstava.",
+            "Na računu 155 - Plaćeni avansi za usluge u\r\ninostranstvu, iskazuju se avansi dati za nabavku usluga u inostranstvu,\r\nzaduženjem ovog računa a odobrenjem odgovarajućem računu novčanih\r\nsredstava.",
+            "Na posebnim računima otvorenim u okviru računa ove\r\ngrupe, iskazuje se ispravka vrednosti plaćenih avansa utvrđena kao\r\npozitivna razlika između njihove knjigovodstvene i procenjene\r\nvrednosti, odnosno po osnovu obezvređenja.",
+            "Klasa 2: Kratkoročna potraživanja i plasmani, novčana sredstva i aktivna vremenska razgraničenja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_15"
+    },
+    {
+        "title": "Član 16",
+        "texts": [
+            "Na računima grupe 20 - Potraživanja po osnovu\r\nprodaje, iskazuju se potraživanja od kupaca - matičnih i zavisnih,\r\nostalih povezanih lica i ostalih kupaca u zemlji i inostranstvu po\r\nosnovu prodaje proizvoda, robe i usluga.",
+            "Na računu 200 - Kupci u zemlji - matično i zavisna\r\npravna lica, iskazuju se potraživanja po osnovu prodaje proizvoda, robe\r\ni usluga pravnim licima u zemlji koja čine grupu pravnih lica u smislu\r\nZakona.",
+            "Na računu 201 - Kupci u inostranstvu - matično i\r\nzavisna pravna lica, iskazuju se potraživanja po osnovu prodaje\r\nproizvoda, robe i usluga pravnim licima u inostranstvu koja čine grupu\r\npravnih lica u smislu Zakona.",
+            "Na računu 202 - Kupci u zemlji - ostala povezana\r\nlica, iskazuju se potraživanja po osnovu prodaje proizvoda, robe i\r\nusluga ostalim povezanim licima u zemlji.",
+            "Na računu 203 - Kupci u inostranstvu - ostala\r\npovezana lica, iskazuju se potraživanja po osnovu prodaje proizvoda,\r\nrobe i usluga ostalim povezanim licima u inostranstvu.",
+            "Na računu 204-Kupci u zemlji, iskazuju se\r\npotraživanja po osnovu prodaje proizvoda, robe i usluga u zemlji, osim\r\nmatičnom, zavisnim i ostalim povezanim licima.",
+            "Na računu 205 - Kupci u inostranstvu, iskazuju se\r\npotraživanja od stranih lica po osnovu izvoza robe i usluga u\r\ninostranstvu, osim potraživanja po osnovu izvoza robe i usluga\r\nmatičnom, zavisnim i ostalim povezanim licima u inostranstvu. Na ovom\r\nračunu izvoznici evidentiraju i potraživanja iz inostranstva na osnovu\r\nizvoza u svoje ime za tuđi račun.",
+            "Na računu 206 - Ostala potraživanja po osnovu\r\nprodaje, iskazuju se ostala potraživanja po osnovu sredstava, osim\r\npotraživanja po osnovu prodaje proizvoda, robe i usluga.",
+            "Na posebnim računima otvorenim u okviru računa ove\r\ngrupe, iskazuje se ispravka vrednosti potraživanja od prodaje utvrđena\r\nkao pozitivna razlika između njihove knjigovodstvene i procenjene\r\nvrednosti, odnosno po osnovu obezvređenja. Otvoreni račun ispravke nije\r\nobavezno dalje raščlanjavati po kupcima.",
+            "Najkasnije na datum bilansa utvrđuje se da li je\r\nstanje procenjene ispravke vrednosti (umanjenja) na ovom računu\r\npovećano ili smanjeno.",
+            "Ako je stanje procenjenih ispravki vrednosti\r\npovećano, razlika se knjiži na teret računa 585 - Rashodi od\r\nusklađivanja vrednosti potraživanja i kratkoročnih finansijskih\r\nplasmana, a u korist odgovarajućeg računa ispravke vrednosti. Ako je\r\nstanje procenjene ispravke vrednosti smanjeno, razlika se knjiži na\r\nteret odgovarajućeg računa ispravke vrednosti, u korist računa 685 -\r\nPrihodi od usklađivanja vrednosti potraživanja i kratkoročnih\r\nfinansijskih plasmana.",
+            "U slučaju direktnog isknjižavanja potpuno ili\r\ndelimično ispravljenog potraživanja po osnovu prodaje zadužuje se\r\nodgovarajući račun ispravke vrednosti a odobrava račun potraživanja iz\r\ngrupe 20, uz zaduženje računa 576 za deo potraživanja koje prethodno\r\nnije bilo indirektno ispravljeno preko odgovarajućeg računa ispravke\r\nvrednosti."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_16"
+    },
+    {
+        "title": "Član 17",
+        "texts": [
+            "Na računima grupe 21 - Potraživanja iz specifičnih\r\nposlova, iskazuju se potraživanja od izvoznika, po osnovu uvoza za tuđ\r\nračun, od komisione i konsignacione prodaje i ostala potraživanja iz\r\nspecifičnih poslova.",
+            "Na računu 210 - Potraživanja od izvoznika, iskazuju\r\nse potraživanja po osnovu izvoza koji je izvršio izvoznik u svoje ime a\r\nza račun vlasnika izvezenih proizvoda i usluga.",
+            "Na računu 211 - Potraživanja po osnovu uvoza za tuđ\r\nračun, iskazuju se potraživanja, troškovi i provizija po osnovu\r\npojedinačnih uvoznih zaključaka.",
+            "Na računu 212 - Potraživanja iz komisione i konsignacione prodaje, iskazuju se potraživanja po osnovu te prodaje.",
+            "Na računu 218 - Ostala potraživanja iz specifičnih\r\nposlova, iskazuju se sva ostala kratkoročna potraživanja po osnovu\r\nspecifičnih poslova za koja u grupi 21 nije predviđen poseban račun,\r\nkao što su potraživanja po osnovu zajedničkih poslova i ostala\r\npotraživanja.",
+            "Na posebnim računima otvorenim u okviru računa ove\r\ngrupe, iskazuje se ispravka vrednosti potraživanja iz specifičnih\r\nposlova utvrđena kao pozitivna razlika između njihove knjigovodstvene i\r\nprocenjene vrednosti koja može da bude naplaćena, odnosno po osnovu\r\nobezvređenja. Formiranje, smanjenje i ukidanje ispravke vrednosti\r\npotraživanja iz specifičnih poslova radi se shodno postupanju sa\r\nračunima ispravke potraživanja u grupi 20."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_17"
+    },
+    {
+        "title": "Član 18",
+        "texts": [
+            "Na računima grupe 22 - Druga potraživanja, iskazuju\r\nse potraživanja za kamatu i dividende, potraživanja od zaposlenih,\r\npotraživanja od državnih organa i organizacija, potraživanja po osnovu\r\npreplaćenih poreza i doprinosa i potraživanja po osnovu naknada šteta\r\nod društava za osiguranje i drugih lica.",
+            "Na računu 220 - Potraživanja za kamatu i dividende,\r\niskazuju se potraživanja za ugovorenu i zateznu kamatu po dužničko -\r\npoverilačkim odnosima i kreditima, kao i potraživanja za dividende.",
+            "Na računu 221 - Potraživanja od zaposlenih, iskazuju\r\nse potraživanja od zaposlenih po osnovu akontacija za službena\r\nputovanja, po osnovu naknada šteta koje su zaposleni pričinili pravnom\r\nlicu i preduzetniku, po osnovu manjkova koji se naknađuju od zaposlenih\r\ni sl.",
+            "Na računu 222 - Potraživanja od državnih organa i\r\norganizacija, iskazuju se potraživanja za regres, premije, stimulacije,\r\nsubvencije, dotacije, kompenzacije i sl.",
+            "Na računu 223 - Potraživanja za više plaćen porez na\r\ndobitak, iskazuju se potraživanja po osnovu više plaćenog poreza na\r\ndobitak.",
+            "Na računu 224 - Potraživanja po osnovu preplaćenih\r\nostalih poreza i doprinosa, iskazuju se potraživanja za više plaćene\r\nporeze, doprinose i druge dažbine utvrđene na datum bilansa.",
+            "Na računu 225 - Potraživanja za naknade zarada koje\r\nse refundiraju, iskazuju se potraživanja po osnovu naknada zarada koje\r\nse refundiraju od državnih organa i drugih subjekata.",
+            "Na računu 226 - Potraživanja po osnovu naknada šteta,\r\niskazuju se potraživanja po osnovu naknada šteta od društava za\r\nosiguranje i drugih lica.",
+            "Na računu 227 - Potraživanja za prihode po posebnim\r\npropisima, iskazuju se potraživanja za prihode u skladu sa posebnim\r\npropisima.",
+            "Na računu 228 - Ostala kratkoročna potraživanja,\r\niskazuju se ostala kratkoročna potraživanja koja nisu iskazana na\r\ndrugim računima grupe 22.",
+            "Na posebnim računima otvorenim u okviru računa ove\r\ngrupe, iskazuje se ispravka vrednosti drugih potraživanja utvrđena kao\r\npozitivna razlika između njihove knjigovodstvene i procenjene vrednosti\r\nkoja može da bude naplaćena, odnosno po osnovu obezvređenja.\r\nFormiranje, smanjenje i ukidanje ispravke vrednosti drugih potraživanja\r\nradi se shodno postupanju sa računima ispravke potraživanja u grupi 20."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_18"
+    },
+    {
+        "title": "Član 19",
+        "texts": [
+            "Na računima grupe 23 - Kratkoročni finansijski\r\nplasmani, iskazuju se krediti i zajmovi, hartije od vrednosti i ostali\r\nkratkoročni plasmani sa rokom dospeća, odnosno prodaje kraćem od 12\r\nmeseci posle izveštajnog perioda, odnosno od datuma bilansa.",
+            "Na računu 230 - Kratkoročni krediti i plasmani -\r\nmatična i zavisna pravna lica, iskazuju se krediti i zajmovi, hartije\r\nod vrednosti i ostali kratkoročni plasmani u pravna lica koja čine\r\ngrupu pravnih lica u smislu Zakona.",
+            "Na računu 231 - Kratkoročni krediti i plasmani -\r\nostala povezana lica, iskazuju se krediti i zajmovi, hartije od\r\nvrednosti i ostali kratkoročni plasmani u ostala povezana lica.",
+            "Na računu 232 - Kratkoročni krediti i zajmovi u\r\nzemlji, iskazuju se kratkoročni robni, potrošački i ostali krediti i\r\nzajmovi sa rokom dospeća kraćim od 12 meseci posle izveštajnog perioda,\r\ndati pravnim i fizičkim licima u zemlji.",
+            "Na računu 233 - Kratkoročni krediti i zajmovi u\r\ninostranstvu, iskazuju se kratkoročni robni, potrošački i ostali\r\nkrediti i zajmovi sa rokom dospeća kraćim od 12 meseci posle\r\nizveštajnog perioda, dati pravnim i fizičkim licima u inostranstvu u\r\nskladu sa propisima o deviznom i spoljnotrgovinskom poslovanju.",
+            "Na računu 234 - Deo dugoročnih finansijskih plasmana\r\nkoji dospeva do jedne godine, iskazuju se anuiteti, odnosno otplate\r\ndugoročnih kredita i zajmova koje dospevaju za plaćanje u roku kraćem\r\nod 12 meseci posle izveštajnog perioda i ostali dugoročni finansijski\r\nplasmani koji dospevaju u roku kraćem od 12 meseci posle izveštajnog\r\nperioda. Na datum pod kojim se sastavlja Bilans stanja, na taj račun\r\nprenose se otplate dugoročnog kredita i zajma i ostali dugoročni\r\nfinansijski plasmani koji dospevaju u roku kraćem od 12 meseci posle\r\nizveštajnog perioda.",
+            "Na računu 235 - Hartije od vrednosti koje se vrednuju\r\npo amortizovanoj vrednosti - deo koji dospeva do jedne godine, iskazuju\r\nse otplate dugoročnih hartija od vrednosti koje dospevaju za plaćanje u\r\nroku kraćem od 12 meseci posle izveštajnog perioda. Na datum pod kojim\r\nse sastavlja Bilans stanja, na taj račun prenose se otplate hartija od\r\nvrednosti koje dospevaju u roku kraćem od 12 meseci posle izveštajnog\r\nperioda.",
+            "Na računu 236 - Finansijska sredstva koja se vrednuju\r\npo fer vrednosti kroz Bilans uspeha, iskazuju se finansijska sredstva\r\npribavljena ili nastala prvenstveno u svrhe ostvarivanja dobitka iz\r\nkratkoročnih fluktuacija cena ili marže dilera.",
+            "Na ovom računu iskazuju se plasmani u kupljene ili na\r\ndrugi način stečene kratkoročne i dugoročne prenosive hartije od\r\nvrednosti (akcije, obveznice, blagajnički zapisi, komercijalni zapisi,\r\ndržavni zapisi, sertifikati o depozitu i ostale hartije od vrednosti\r\nkojima se trguje) koje su, u skladu sa poslovnom politikom pravnog lica\r\ni preduzetnika, pribavljene sa namerom da se u kratkom roku ponovo\r\nprodaju sa ciljem sticanja dobitka na razlici u ceni.",
+            "Na računu 237 - Otkupljene sopstvene akcije namenjene\r\nprodaji ili poništavanju i otkupljeni sopstveni udeli namenjeni prodaji\r\nili poništavanju, iskazuju se otkupljene sopstvene akcije ili sopstveni\r\nudele po nominalnoj vrednosti.",
+            "Na računu 238 - Potraživanja po osnovu finansijskih\r\nderivata, iskazuju se potraživanja po osnovu finansijskih derivata,\r\nkoja uključuju i sve efekte promene vrednosti ovih derivata\r\nevidentirane u okviru prihoda i rashoda ili u okviru kapitala. Na\r\nposebnim računima otvorenim u okviru ovog računa, iskazuju se derivati\r\nu skladu sa njihovom namenom.",
+            "Na računu 239 - Ostali kratkoročni finansijski\r\nplasmani, iskazuju se ostali kratkoročni finansijski plasmani koji nisu\r\niskazani na drugim računima grupe 23.",
+            "Na ovom računu iskazuju se potraživanja po menicama\r\nkao instrumentima plaćanja, s tim što se na posebnom računu otvorenom u\r\nokviru ovog računa može iskazati kamata budućeg perioda sadržana u\r\nmeničnoj vrednosti.",
+            "Na posebnim računima otvorenim u okviru računa ove\r\ngrupe, iskazuju se ispravke vrednosti kratkoročnih finansijskih\r\nplasmana utvrđenih kao pozitivna razlika između njihove knjigovodstvene\r\ni procenjene vrednosti koja može da bude naplaćena, odnosno po osnovu\r\nobezvređenja. Formiranje, smanjenje i ukidanje ispravke vrednosti\r\nkratkoročnih finansijskih plasmana radi se shodno postupanju sa\r\nračunima ispravke potraživanja u grupi 20."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_19"
+    },
+    {
+        "title": "Član 20",
+        "texts": [
+            "Na računima grupe 24 - Gotovinski ekvivalenti i\r\ngotovina, iskazuju se neposredno unovčive hartije od vrednosti,\r\ndepoziti po viđenju, gotovina, plemeniti metali i predmeti od\r\nplemenitih metala.",
+            "Na računu 240 - Hartije od vrednosti - gotovinski\r\nekvivalenti, iskazuju se neposredno unovčive hartije od vrednosti, uz\r\nbeznačajni rizik smanjenja vrednosti.",
+            "Na računu 241 - Tekući (poslovni) računi, iskazuju se\r\nnovčana sredstva na poslovnim računima, kao i iskorišćeni okvirni\r\nkrediti. Na posebnim računima otvorenim u okviru ovog računa iskazuju\r\nse novčana sredstva ponaosob po otvorenim tekućim (poslovnim) računima.",
+            "Pravno lice i preduzetnik u okviru ovog računa po potrebi koristi poseban prelazni račun.",
+            "Na računu 242 - Izdvojena novčana sredstva i\r\nakreditivi, iskazuju se sredstva izdvojena na posebnim računima kod\r\nposlovne banke za otvorene akreditive u zemlji, za isplatu čekova, za\r\ninvesticije i za druge namene.",
+            "Na računu 243 - Blagajna, iskazuju se dinarske uplate i isplate gotovog novca i drugih vrednosnica.",
+            "Na računu 244 - Devizni račun, iskazuju se stanja i promene na deviznom računu.",
+            "Na računu 245 - Devizni akreditivi, iskazuju se otvoreni devizni akreditivi kod banke za plaćanja u inostranstvu.",
+            "Na računu 246 - Devizna blagajna, iskazuju se uplate\r\ni isplate efektivnog stranog novca i drugih vrednosnica naplativih u\r\nstranoj valuti.",
+            "Na računu 248 - Ostala novčana sredstva, iskazuju se\r\nnovčana sredstva koja nisu iskazana na ostalim računima novčanih\r\nsredstava u okviru grupe računa 24.",
+            "Na računu 249 - Novčana sredstva čije je korišćenje\r\nograničeno ili vrednost umanjena, iskazuju se novčana sredstva prema\r\nnazivu ovog računa."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_20"
+    },
+    {
+        "title": "Član 21",
+        "texts": [
+            "Na računima grupe 27 - Porez na dodatu vrednost,\r\niskazuje se prethodni porez na dodatu vrednost prema nazivima računa\r\nove grupe.",
+            "Na računu 270 - Porez na dodatu vrednost u primljenim\r\nfakturama po opštoj stopi (osim plaćenih avansa), obuhvata se\r\nzaračunati PDV po opštoj stopi zaduženjem ovog računa i odobrenjem\r\nračuna 430, 431, 432, 433, 434, 435, 436 i 439 i drugim računima\r\nobaveza iz klase 4 sa čijim nastankom je povezano i plaćanje prethodnog\r\nPDV.",
+            "Na računu 271 - Porez na dodatu vrednost u primljenim\r\nfakturama po posebnoj stopi (osim plaćenih avansa), obuhvata se\r\nzaračunati PDV po posebnoj stopi zaduženjem ovog računa i odobrenjem\r\nračuna 430, 431, 432, 433, 434, 435, 436 i 439 i drugim računima\r\nobaveza iz klase 4 sa čijim nastankom je povezano i plaćanje prethodnog\r\nPDV.",
+            "Na računu 272 - Porez na dodatu vrednost u datim\r\navansima po opštoj stopi, obuhvata se u datim avansima zaračunati PDV\r\npo opštoj stopi zaduženjem ovog računa i odobrenjem računa novčanih\r\nsredstava.",
+            "Na računu 273 - Porez na dodatu vrednost u datim\r\navansima po posebnoj stopi, obuhvata se, u datim avansima, zaračunati\r\nPDV po posebnoj stopi zaduženjem ovog računa i odobrenjem računa\r\nnovčanih sredstava.",
+            "Na računu 274 - Porez na dodatu vrednost pri uvozu\r\ndobara po opštoj stopi, obuhvata se zaračunati PDV (pri uvozu dobara)\r\npo opštoj stopi zaduženjem ovog računa i odobrenjem računa 482 ili na\r\nteret troškova.",
+            "Na računu 275 - Porez na dodatu vrednost pri uvozu\r\ndobara po posebnoj stopi, obuhvata se zaračunati PDV (pri uvozu dobara)\r\npo posebnoj stopi zaduženjem ovog računa i odobrenjem računa 482 ili na\r\nteret troškova.",
+            "Na računu 276 - Porez na dodatu vrednost obračunat na\r\nusluge inostranih lica, obuhvata se zaračunati PDV (pri korišćenju\r\nusluga inostranih lica) po opštoj stopi zaduženjem ovog računa i\r\nodobrenjem računa 470.",
+            "Na računu 277 - Naknadno vraćen porez na dodatu\r\nvrednost kupcima - stranim državljanima, obuhvata se vraćeni PDV\r\nkupcima - stranim državljanima zaduženjem ovog računa i odobrenjem\r\nračuna novčanih sredstava.",
+            "Na računu 278 - Nadoknada poreza na dodatu vrednost\r\nisplaćena poljoprivrednicima, obuhvata se zaračunati PDV nadoknada (pri\r\nnabavci dobara od registrovanih poljoprivrednika) po stopi od 8%\r\nzaduženjem ovog računa i odobrenjem obaveza ili novčanih sredstava, ako\r\nje plaćanje izvršeno u gotovu.",
+            "Na računu 279 - Potraživanja za više plaćeni porez na\r\ndodatu vrednost, obuhvata se razlika između prethodnog poreza\r\n(iskazanog na računima grupe 27) i iznosa poreza na dodatu vrednost\r\niskazanu u izlaznim fakturama pravnog lica, odnosno preduzetnika\r\n(iskazanog na računima grupe 47), pod uslovom da je stanje iskazano na\r\nračunima grupe 27 veće od stanja iskazanog na računima grupe 47.",
+            "Na posebnim računima otvorenim u okviru računa grupe 27, iskazuje se razgraničeni PDV."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_21"
+    },
+    {
+        "title": "Član 22",
+        "texts": [
+            "Na računima grupe 28 - Aktivna vremenska\r\nrazgraničenja, iskazuju se troškovi plaćeni u toku poslovne godine koji\r\nse odnose na narednu poslovnu godinu i prihodi po osnovu kojih su\r\nnastali troškovi u tekućoj godini, a koji nisu fakturisani za tekuću\r\ngodinu.",
+            "Na računu 280 - Unapred plaćeni troškovi, iskazuju se\r\ntroškovi koji su unapred plaćeni. U korist ovog računa iskazuje se\r\nobračunati otpis unapred plaćenih troškova za odnosni period.",
+            "Na računu 281 - Potraživanja za nefakturisani prihod,\r\niskazuju se prihodi tekućeg perioda koji nisu mogli biti fakturisani, a\r\nza koje su nastali troškovi u tekućem periodu.",
+            "Na računu 282 - Razgraničeni troškovi po osnovu\r\nobaveza, iskazuju se plaćeni transakcioni troškovi po osnovu primljenih\r\nkredita i emitovanih dužničkih instrumenata, koji se, u skladu sa\r\nrelevantnom računovodstvenom politikom, vode po amortizovanoj\r\nvrednosti, primenom efektivne kamatne stope. Ovi troškovi terete\r\nrashode u periodu otplate kredita ili drugih dužničkih instrumenata.",
+            "Na računu 288 - Odložena poreska sredstva, iskazuju\r\nse iznosi poreza iz dobiti nadoknadivi u narednim periodima po osnovu\r\nodbitnih privremenih razlika, neiskorišćenih poreskih gubitaka i\r\nkredita, u skladu sa računovodstvenom politikom.",
+            "Na računu 289 - Ostala aktivna vremenska\r\nrazgraničenja, iskazuju se ostala aktivna vremenska razgraničenja koja\r\nnisu iskazana na drugim računima grupe 28.",
+            "Klasa 3: Kapital"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_22"
+    },
+    {
+        "title": "Član 23",
+        "texts": [
+            "Na računima grupe 30 - Osnovni kapital, iskazuju se\r\nakcijski kapital, udeli društva s ograničenom odgovornošću, ulozi,\r\ndržavni kapital, društveni kapital, zadružni i ostali kapital, kao i\r\nemisiona premija prema nazivima računa ove grupe.",
+            "Na računu 300 - Akcijski kapital, iskazuju se obične\r\ni prioritetne akcije sa pravom učešća u upravljanju, pravom na učešće u\r\ndobiti akcionarskog društva i pravom na deo likvidacione mase u skladu\r\ns aktom o osnivanju, odnosno odlukom o emisiji akcija.",
+            "Na računu 301 - Udeli društava s ograničenom\r\nodgovornošću, iskazuju se udeli koji čine osnovni kapital u skladu sa\r\naktom o osnivanju.",
+            "Na računu 302 - Ulozi, iskazuju se ulozi članova\r\nortačkog i komanditnog društva u skladu sa ugovorom o osnivanju koji\r\nčine osnovni kapital.",
+            "Na računu 303 - Državni kapital, iskazuje se kapital\r\npravnih lica koje osniva država, odnosno jedinica lokalne samouprave,\r\nto jest u kojima država ili jedinica lokalne samouprave ima učešće.",
+            "Na računu 304 - Društveni kapital, iskazuje se kapital društvenog preduzeća podeljen na obračunske akcije ili udele.",
+            "Na računu 305 - Zadružni udeli, iskazuje se zadružni kapital podeljen na udele zadrugara.",
+            "Na računu 306 - Emisiona premija, iskazuje se razlika\r\n(pozitivna ili negativna) između postignute prodajne vrednosti akcija,\r\nodnosno udela i njihove nominalne vrednosti.",
+            "Negativna emisiona premija, odnosno dugovni saldo na\r\novom računu, na datum bilansa prenosi se na račun 340 - Neraspoređeni\r\ndobitak ranijih godina ili račun 350 - Gubitak ranijih godina.",
+            "Na računu 307 - Ulozi - sopstveni izvori drugih\r\npravnih lica - ulozi osnivača i drugih lica, iskazuju se ulozi\r\nformirani od osnivača i drugih lica.",
+            "Na računu 309 - Ostali osnovni kapital, iskazuju se\r\nostali oblici osnovnog kapitala koji nisu iskazani na posebnim računima\r\nu okviru grupe računa 30 (kapital preduzetnika osnovni kapital kod\r\nkojeg još nije završen postupak registracije, deo kapitala pravnog lica\r\nkoji pripada ogranku stranog pravnog lica i dr.)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_23"
+    },
+    {
+        "title": "Član 24",
+        "texts": [
+            "Na računima grupe 31 - Upisani a neuplaćeni kapital,\r\niskazuju se iznosi upisanih a neuplaćenih akcija i upisanih a\r\nneuplaćenih udela i uloga, prema nazivima računa ove grupe.",
+            "Na računu 310 - Upisane a neuplaćene akcije, iskazuje\r\nse iznos upisanih a neuplaćenih akcija koji se utvrđuje na osnovu\r\nodluke skupštine akcionarskog društva o izdavanju akcija.",
+            "Na računu 311 - Upisani a neuplaćeni udeli i ulozi,\r\niskazuje se iznos upisanih a neuplaćenih udela i uloga koji se utvrđuje\r\nna osnovu ugovora o osnivanju društva s ograničenom odgovornošću,\r\nortačkog i komanditnog društva."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_24"
+    },
+    {
+        "title": "Član 25",
+        "texts": [
+            "Na računima grupe 32 - Rezerve, iskazuje se, rezerve iz dobiti, zakonske, statutarne i druge rezerve.",
+            "Na računu 321 - Zakonske rezerve, iskazuju se obavezne rezerve koje se formiraju u skladu sa zakonom.",
+            "Na računu 322 - Statutarne i druge rezerve, iskazuju\r\nse rezerve koje se formiraju u skladu sa opštim i drugim aktom pravnog\r\nlica i preduzetnika.",
+            "Na računu 323 - Dodatne uplate kojima se ne povećava\r\nkapital, iskazuju se dodatne uplate vlasnika privrednog društva kojima\r\nse ne povećava osnovni kapital registrovan kod nadležnog organa i za\r\nkoje ne postoji obaveza njihovog vraćanja."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_25"
+    },
+    {
+        "title": "Član 26",
+        "texts": [
+            "Na računima grupe 33 - Revalorizacione rezerve i\r\nnerealizovani dobici i gubici, iskazuju se efekti revalorizacije i\r\nnerealizovani dobici i gubici koji se uključuju u Izveštaj o ostalom\r\nrezultatu.",
+            "Na računima ove grupe iskazuju se: efekti promena fer\r\nvrednosti nekretnina, postrojenja, opreme, nematerijalne imovine;\r\naktuarski dobici i gubici po osnovu planova definisanih primanja;\r\ndobici i gubici po osnovu ulaganja u vlasničke instrumente kapitala i\r\nhartija od vrednosti koje se vrednuju po fer vrednosti kroz ostali\r\nukupan rezultat; dobici i gubici po osnovu preračuna finansijskih\r\nizveštaja prikazanih u drugoj funkcionalnoj valuti; dobici ili gubici\r\nod instrumenata zaštite neto ulaganja u inostrano poslovanje; dobici\r\nili gubici po osnovu instrumenata zaštite rizika (hedžinga) novčanog\r\ntoka; dobici i gubici po osnovu udela u ostalom sveobuhvatnom dobitku\r\nili gubitku pridruženih društava, kao i ostali dobici i gubici koji se\r\niskazuju u okviru ostalog sveobuhvatnog dobitka utvrđeni u skladu sa\r\nračunovodstvenom politikom.",
+            "Na računu 330 - Revalorizacione rezerve po osnovu\r\nrevalorizacije nematerijalne imovine, nekretnina, postrojenja i opreme,\r\niskazuju se promene revalorizacionih rezervi nastalih po osnovu promena\r\nfer vrednosti predmetnih dobara u skladu sa računovodstvenom politikom.",
+            "Na računu 331 - Aktuarski dobici ili gubici po osnovu\r\nplanova definisanih primanja, iskazuju se aktuarski dobici i/ili gubici\r\nu skladu sa računovodstvenom politikom.",
+            "Na računu 332 - Dobici ili gubici po osnovu ulaganja\r\nu vlasničke instrumente kapitala, iskazuju se dobici i/ili gubici na\r\nvlasničkim instrumentima kapitala vrednovanim po fer vrednosti kroz\r\nostali sveobuhvatni dobitak ili gubitak.",
+            "Na računu 333 - Dobici ili gubici po osnovu udela u\r\nostalom sveobuhvatnom dobitku ili gubitku pridruženih društava,\r\niskazuje se udeo ulagača u promenama u ostalom sveobuhvatnom dobitku\r\npridruženog društva u skladu sa računovodstvenom politikom.",
+            "Na računu 334 - Dobici ili gubici po osnovu preračuna\r\nfinansijskih izveštaja inostranog poslovanja, iskazuju se efekti\r\nkursnih razlika koje su nastale po osnovu ulaganja u inostrano\r\nposlovanje, koji se priznaju u okviru ostalog sveobuhvatnog dobitka ili\r\ngubitka u skladu sa računovodstvenom politikom.",
+            "Na računu 335 - Dobici ili gubici od instrumenata\r\nzaštite neto ulaganja u inostrano poslovanje, iskazuju se dobici i\r\ngubici od instrumenata zaštite neto ulaganja u inostrano poslovanje,\r\nuključujući i zaštitu monetarne imovine koja se smatra delom neto\r\nulaganja u skladu računovodstvenom politikom.",
+            "Na računu 336 - Dobici ili gubici po osnovu\r\ninstrumenata zaštite rizika (hedžinga) novčanog toka, iskazuje se deo\r\ndobitka ili gubitka od instrumenata zaštite novčanog toka u skladu sa\r\nračunovodstvenom politikom.",
+            "Na računu 337 - Dobici ili gubici po osnovu hartija\r\nod vrednosti koje se vrednuju po fer vrednosti kroz ostali ukupan\r\nrezultat, iskazuju se promene fer vrednosti finansijske imovine koje se\r\nvrednuju po fer vrednosti kroz ostali ukupan rezultat u skladu sa\r\nračunovodstvenom politikom."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_26"
+    },
+    {
+        "title": "Član 27",
+        "texts": [
+            "Na računima grupe 34 - Neraspoređeni dobitak, iskazuje se neraspoređeni dobitak ranijih godina i tekuće godine.",
+            "Na računu 340 - Neraspoređeni dobitak ranijih godina, iskazuje se kumulirani neraspoređeni dobitak ranijih godina.",
+            "U korist ili na teret ovog računa evidentiraju se i\r\nefekti promene računovodstvene politike i ispravke materijalno značajne\r\ngreške, u skladu sa usvojenom računovodstvenom politikom.",
+            "Na računu 341 - Neraspoređeni dobitak tekuće godine,\r\niskazuje se neraspoređeni dobitak tekuće godine. Prilikom otvaranja\r\nposlovnih knjiga na početku naredne poslovne godine saldo sa ovog\r\nračuna prenosi se na račun 340.",
+            "Na teret računa 340 evidentira se iznos raspoređenog dobitka.",
+            "Na teret ovog računa evidentira se i iznos utvrđene\r\nobaveze za porez iz rezultata po rešenju poreskog organa, iznad iznosa\r\nkoji je utvrdilo pravno lice, odnosno preduzetnik."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_27"
+    },
+    {
+        "title": "Član 28",
+        "texts": [
+            "Na računima grupe 35 - Gubitak, iskazuje se gubitak ranijih godina i gubitak tekuće godine prema nazivima računa ove grupe.",
+            "Na računu 350 - Gubitak ranijih godina, iskazuje se gubitak iz ranijih godina prenosom sa računa 351 - Gubitak tekuće godine.",
+            "U korist ili na teret ovog računa evidentiraju se i\r\nefekti po osnovu promene računovodstvene politike i ispravke\r\nmaterijalno značajne greške, u skladu sa usvojenom računovodstvenom\r\npolitikom.",
+            "Na računu 351 - Gubitak tekuće godine, iskazuje se gubitak utvrđen na kraju izveštajnog perioda zaduženjem ovog računa.",
+            "Gubitak tekuće godine koji je iskazan na računu 351,\r\nprilikom prenosa početnog stanja u narednom obračunskom periodu prenosi\r\nse na račun 350.",
+            "Pokriće gubitka vrši se na teret računa 340 -\r\nNeraspoređeni dobitak ranijih godina i računa grupa 30 i 32 u skladu sa\r\nzakonom i opštim ili drugim aktom pravnog lica, odnosno preduzetnika.",
+            "Klasa 4: Rezervisanja, obaveze i pasivna vremenska razgraničenja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_28"
+    },
+    {
+        "title": "Član 29",
+        "texts": [
+            "Na računima grupe 40 - Dugoročna rezervisanja,\r\niskazuju se dugoročna rezervisanja za troškove i rizike koji se\r\npriznaju i vrednuju u skladu sa računovodstvenom politikom.",
+            "Na računu 400 - Rezervisanja za troškove u garantnom\r\nroku, iskazuju se dugoročna rezervisanja za rizike po osnovu troškova\r\ngarantnog roka.",
+            "Na računu 401 - Rezervisanja za troškove obnavljanja\r\nprirodnih bogatstava, iskazuju se dugoročna rezervisanja za obnavljanje\r\nzemljišta i za obnavljanje šuma u skladu sa računovodstvenom politikom.",
+            "Na računu 402 - Rezervisanja za zadržane kaucije i\r\ndepozite, iskazuju se dugoročna rezervisanja za troškove koji će se s\r\nvelikom izvesnošću javiti u narednim godinama po osnovu zadržanih\r\nkaucija i depozita za posao izvršen kvalitetno i u roku i sl.",
+            "Na računu 403 - Rezervisanja za troškove\r\nrestrukturiranja, iskazuju se dugoročna rezervisanja za troškove po\r\nosnovu restrukturiranja u skladu sa računovodstvenom politikom.",
+            "Na računu 404 - Rezervisanja za naknade i druge\r\nbeneficije zaposlenih, iskazuju se dugoročna rezervisanja po osnovu\r\nbeneficija, kao što su otpremnine prilikom odlaska u penziju, jubilarne\r\nnagrade i druge obaveze prema zaposlenima, koje se isplaćuju u skladu\r\nsa stečenim pravima u toku trajanja i nakon prestanka zaposlenja.",
+            "Na računu 405 - Rezervisanja za troškove sudskih\r\nsporova, iskazuju se rezervisanja po osnovu postojećih sudskih sporova\r\nkoji se vode protiv pravnih lica i preduzetnika, a koje je potrebno\r\niskazati u skladu sa računovodstvenom politikom.",
+            "Na računu 409 - Ostala dugoročna rezervisanja,\r\niskazuju se rezervisanja za izdate garancije i druga jemstva i ostala\r\nrezervisanja u skladu sa računovodstvenom politikom.",
+            "Kada nastane odliv sredstava po osnovu obaveze za\r\nkoju je prethodno izvršeno rezervisanje, stvarni troškovi se ne\r\niskazuju ponovo kao rashod, već se knjiženje sprovodi zaduženjem računa\r\nrezervisanja, a u korist odgovarajućeg računa obaveza (prema vrstama)\r\nili odgovarajućeg računa sredstava (zalihe, novčana sredstva) u\r\nzavisnosti od karaktera rezervisanja, vrste nastale obaveze i načina na\r\nkoji je ona izmirena. Neiskorišćeni iznos rezervisanja ukida se u\r\nkorist računa 678 - Prihodi od ukidanja dugoročnih i kratkoročnih\r\nrezervisanja."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_29"
+    },
+    {
+        "title": "Član 30",
+        "texts": [
+            "Na računima grupe 41 - Dugoročne obaveze, iskazuju se\r\ndugoročne obaveze prema matičnom, zavisnim i povezanim pravnim licima,\r\ndugoročni krediti i zajmovi, obaveze po hartijama od vrednosti i ostale\r\ndugoročne obaveze. Dugoročne obaveze su obaveze koje dospevaju u roku\r\ndužem od 12 meseci posle izveštajnog perioda, odnosno od datuma\r\nbilansa.",
+            "Na računu 410 - Obaveze koje se mogu konvertovati u\r\nkapital, iskazuju se dugoročne obaveze koje se prema ugovoru mogu\r\nkonvertovati u odgovarajući oblik kapitala, u skladu sa zakonom.",
+            "Na računu 411 - Dugoročne obaveze prema matičnom i\r\nzavisnim pravnim licima, iskazuju se obaveze po osnovu primljenih\r\ndugoročnih kredita i zajmova od pravnih lica koja čine grupu pravnih\r\nlica u smislu Zakona.",
+            "Na računu 412 - Dugoročne obaveze prema ostalim\r\npovezanim licima, iskazuju se obaveze po osnovu primljenih dugoročnih\r\nkredita i zajmova od ostalih povezanih lica.",
+            "Na računu 413 - Obaveze po emitovanim hartijama od\r\nvrednosti u periodu dužem od godinu dana, iskazuju se obaveze po\r\nizdatim hartijama od vrednosti sa rokom dospeća preko godinu dana od\r\ndatuma bilansa.",
+            "Na računu 414 - Dugoročni krediti i zajmovi u zemlji,\r\niskazuju se obaveze po osnovu primljenih dugoročnih kredita i zajmova\r\nod pravnih i fizičkih lica u zemlji, osim od matičnog, zavisnih i\r\npovezanih lica.",
+            "Na računu 415 - Dugoročni krediti i zajmovi u\r\ninostranstvu, iskazuju se obaveze po osnovu primljenih dugoročnih\r\nkredita i zajmova od pravnih i fizičkih lica u inostranstvu, osim od\r\nmatičnog, zavisnih i povezanih lica.",
+            "Na računu 416 - Dugoročne obaveze po osnovu lizinga,\r\niskazuju se obaveze po osnovu finansijskog lizinga, odnosno obaveze po\r\nosnovu lizinga u skladu sa računovodstvenom politikom.",
+            "Na računu 419 - Ostale dugoročne obaveze, iskazuju se\r\nostale dugoročne obaveze koje nisu iskazane na ostalim računima u\r\nokviru grupe 41."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_30"
+    },
+    {
+        "title": "Član 31",
+        "texts": [
+            "Na računima grupe 42 - Kratkoročne finansijske\r\nobaveze, iskazuju se obaveze po kreditima i zajmovima, hartijama od\r\nvrednosti i ostale kratkoročne obaveze koje dospevaju u roku kraćem od\r\n12 meseci od datuma izveštavanja, odnosno od datuma bilansa.",
+            "Na računu 420 - Kratkoročni krediti i zajmovi od\r\nmatičnog i zavisnih pravnih lica, iskazuju se obaveze po osnovu\r\nprimljenih kratkoročnih kredita i zajmova od pravnih lica koja čine\r\ngrupu pravnih lica u smislu Zakona.",
+            "Na računu 421 - Kratkoročni krediti i zajmovi od\r\nostalih povezanih lica, iskazuju se obaveze po osnovu primljenih\r\nkratkoročnih kredita i zajmova od ostalih povezanih lica.",
+            "Na računu 422 - Kratkoročni krediti i zajmovi u\r\nzemlji, iskazuju se obaveze po kratkoročnim finansijskim, robnim i\r\nostalim kreditima i zajmovima koje dospevaju u roku kraćem od 12 meseci\r\nod datuma bilansa.",
+            "Na računu 423 - Kratkoročni krediti i zajmovi u\r\ninostranstvu, iskazuju se obaveze po kratkoročnim finansijskim, robnim\r\ni ostalim kreditima i zajmovima koje dospevaju u roku kraćem od 12\r\nmeseci od datuma izveštavanja, koji su primljeni od pravnih i fizičkih\r\nlica u inostranstvu, u skladu s propisima o deviznom i\r\nspoljnotrgovinskom poslovanju.",
+            "Na računu 424 - Deo dugoročnih kredita i zajmova koji\r\ndospeva do jedne godine, iskazuju se obaveze po anuitetima, odnosno po\r\notplatama dugoročnih kredita i zajmova koje dospevaju u roku kraćem od\r\n12 meseci od datuma izveštavanja. Na datum bilansa, na ovaj račun\r\nprenose se obaveze za otplate dugoročnog kredita i zajma koje dospevaju\r\nu roku do godinu dana od datuma bilansa.",
+            "Na računu 425 - Deo ostalih dugoročnih obaveza koje\r\ndospevaju do jedne godine, iskazuju se obaveze po otplatama koje\r\ndospevaju za plaćanje u roku kraćem od 12 meseci od datuma\r\nizveštavanja. Na datum pod kojim se sastavlja Bilans stanja, na ovaj\r\nračun prenose se obaveze za otplate dugoročnih obaveza koje dospevaju u\r\nroku kraćem od dvanaest meseci od datuma izveštavanja.",
+            "Na računu 426 - Obaveze po kratkoročnim hartijama od\r\nvrednosti, iskazuju se obaveze po emitovanim kratkoročnim hartijama od\r\nvrednosti u skladu sa računovodstvenom politikom.",
+            "Na računu 427 - Obaveze po osnovu stalnih sredstava i\r\nsredstava obustavljenog poslovanja namenjenih prodaji, iskazuju se\r\nobaveze po osnovu stalnih sredstava namenjenih prodaji i sredstava\r\nposlovanja koje se obustavlja u skladu sa računovodstvenom politikom,\r\nkoje se izmiruju ili gase prilikom otuđenja tih sredstava.",
+            "Na računu 428 - Obaveze po osnovu finansijskih\r\nderivata, iskazuju se obaveze po osnovu finansijskih derivata, koje\r\nuključuju i sve efekte promene vrednosti ovih derivata evidentirane u\r\nokviru prihoda i rashoda ili u okviru kapitala. Na posebnim računima\r\notvorenim u okviru ovog računa, iskazuju se derivati u skladu sa\r\nnjihovom namenom.",
+            "Na računu 429 - Ostale kratkoročne finansijske\r\nobaveze, iskazuju se ostale kratkoročne finansijske obaveze koje nisu\r\niskazane na drugim računima grupe 42."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_31"
+    },
+    {
+        "title": "Član 32",
+        "texts": [
+            "Na računima grupe 43 - Obaveze iz poslovanja,\r\niskazuju se obaveze za primljene avanse, depozite i kaucije, obaveze\r\nprema dobavljačima, obaveze po izdatim čekovima, obaveze po menicama i\r\nostale obaveze iz poslovanja.",
+            "Na računu 430 - Primljeni avansi, depoziti i kaucije,\r\niskazuju se unapred naplaćeni iznosi i novčana obezbeđenja za obrtna\r\nsredstva.",
+            "Na računu 431 - Dobavljači - matična i zavisna pravna\r\nlica u zemlji, iskazuju se obaveze prema dobavljačima u zemlji koji\r\nčine grupu pravnih lica u smislu Zakona.",
+            "Na računu 432 - Dobavljači - matična i zavisna pravna\r\nlica u inostranstvu, iskazuju se obaveze prema dobavljačima u\r\ninostranstvu koji čine grupu pravnih lica u smislu Zakona.",
+            "Na računu 433 - Dobavljači - ostala povezana lica u zemlji, iskazuju se obaveze prema ostalim povezanim licima u zemlji.",
+            "Na računu 434 - Dobavljači - ostala povezana lica u\r\ninostranstvu, iskazuju se obaveze prema ostalim povezanim licima u\r\ninostranstvu.",
+            "Na računu 435 - Dobavljači u zemlji, iskazuju se\r\nobaveze prema dobavljačima u zemlji, osim prema matičnom, zavisnim i\r\nostalim povezanim pravnim licima.",
+            "Na računu 436 - Dobavljači u inostranstvu, iskazuju\r\nse obaveze prema dobavljačima u inostranstvu, osim prema matičnom,\r\nzavisnim i ostalim povezanim pravnim licima.",
+            "Na računu 439 - Ostale obaveze iz poslovanja,\r\niskazuju se ostale kratkoročne obaveze iz poslovanja koje nisu iskazane\r\nna drugim računima ove grupe.",
+            "Na ovom računu iskazuju se i obaveze za izdate čekove\r\nkoji su predati poveriocima za izmirenje obaveza i obaveze po izdatim\r\nmenicama koje su predate poveriocima za izmirenje obaveza."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_32"
+    },
+    {
+        "title": "Član 33",
+        "texts": [
+            "Na računima grupe 44 - Obaveze iz specifičnih\r\nposlova, iskazuju se obaveze prema uvozniku, po osnovu izvoza za tuđ\r\nračun, obaveze po osnovu komisione i konsignacione prodaje i ostale\r\nobaveze iz specifičnih poslova.",
+            "Na računu 440 - Obaveze prema uvozniku, iskazuju se obaveze po osnovu uvoza koji je izvršio uvoznik u svoje ime i za tuđ račun.",
+            "Na računu 441 - Obaveze po osnovu izvoza za tuđ\r\nračun, iskazuju se obaveze, troškovi i provizija po osnovu pojedinačnih\r\nizvoznih zaključaka.",
+            "Na računu 442 - Obaveze po osnovu komisione i konsignacione prodaje, iskazuju se obaveze prema domaćem vlasniku robe.",
+            "Na računu 449 - Ostale obaveze iz specifičnih\r\nposlova, iskazuju se ostale kratkoročne obaveze iz specifičnih poslova\r\nza koje u grupi 44 nije predviđen poseban račun, kao što su obaveze po\r\nosnovu zajedničkih poslova i drugih specifičnih poslova."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_33"
+    },
+    {
+        "title": "Član 34",
+        "texts": [
+            "Na računima grupe 45 - Obaveze po osnovu zarada i\r\nnaknada zarada, iskazuju se obaveze za neto zarade i neto naknade\r\nzarade, kao i neto naknade zarade koja se refundira i porezi i\r\ndoprinosi po navedenim osnovama na teret zaposlenog i na teret\r\nposlodavca.",
+            "Na računu 450 - Obaveze za neto zarade i naknade\r\nzarada, osim naknada zarada koje se refundiraju, iskazuju se obaveze za\r\nneto zarade i neto naknade zarada.",
+            "Na računu 451 - Obaveze za porez na zarade i naknade zarada na teret zaposlenog, iskazuju se obaveze prema nazivu ovog računa.",
+            "Na računu 452 - Obaveze za doprinose na zarade i\r\nnaknade zarada na teret zaposlenog, iskazuju se obaveze prema nazivu\r\novog računa.",
+            "Na računu 453 - Obaveze za poreze i doprinose na\r\nzarade i naknade zarada na teret poslodavca, iskazuju se obaveze prema\r\nnazivu ovog računa.",
+            "Na računu 454 - Obaveze za neto naknade zarada koje se refundiraju, iskazuju se obaveze prema nazivu ovog računa.",
+            "Na računu 455 - Obaveze za poreze i doprinose na\r\nnaknade zarada na teret zaposlenog koje se refundiraju, iskazuju se\r\nobaveze prema nazivu ovog računa.",
+            "Na računu 456 - Obaveze za poreze i doprinose na\r\nnaknade zarada na teret poslodavca koje se refundiraju, iskazuju se\r\nobaveze prema nazivu ovog računa."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_34"
+    },
+    {
+        "title": "Član 35",
+        "texts": [
+            "Na računima grupe 46 - Druge obaveze, iskazuju se\r\nobaveze za kamate, troškove finansiranja, dividende, za učešće u\r\ndobitku, obaveze prema zaposlenima, članovima upravnog i nadzornog\r\nodbora, obaveze prema fizičkim licima za naknade prema ugovorima,\r\nobaveze za neto prihod preduzetnika koji akontaciju podiže u toku\r\ngodine i ostale obaveze.",
+            "Na računu 460 - Obaveze po osnovu kamata i troškova\r\nfinansiranja, iskazuju se obaveze po osnovu rashoda kamata i ostalih\r\nfinansijskih rashoda.",
+            "Na računu 461 - Obaveze za dividende, iskazuju se obaveze za dividende po osnovu raspodele dobitka.",
+            "Na računu 462 - Obaveze za učešće u dobitku, iskazuju se obaveze po osnovu raspodele dobitka.",
+            "Na računu 463 - Obaveze prema zaposlenima, iskazuju\r\nse neto obaveze prema zaposlenima po raznim osnovama, kao što su:\r\notpremnina za odlazak u penziju, jubilarne nagrade, dnevnice i naknade\r\ntroškova na službenom putu, naknade troškova prevoza na radno mesto i\r\nsa radnog mesta, naknade za smeštaj i ishranu na terenu i ostale\r\nnaknade troškova zaposlenima.",
+            "Na računu 464 - Obaveze prema direktoru, odnosno\r\nčlanovima organa upravljanja i nadzora, iskazuju se obaveze po osnovu\r\nprimanja direktora, odnosno članova organa upravljanja i nadzora u\r\nskladu sa aktima pravnog lica.",
+            "Na računu 465 - Obaveze prema fizičkim licima za\r\nnaknade po ugovorima, iskazuju se navedene obaveze u neto iznosu\r\nzaduženjem odgovarajućeg računa iz grupe 52.",
+            "Na računu 466 - Obaveze za neto prihod preduzetnika\r\nkoji akontaciju podiže u toku godine, iskazuju se akontacije neto\r\nprihoda koje preduzetnik podiže u toku godine zaduženjem računa 723 -\r\nLična primanja poslodavca, odnosno obaveze za neto prihod koji podiže\r\npo godišnjem finansijskom izveštaju, na teret računa 340 -\r\nNeraspoređeni dobitak ranijih godina.",
+            "Na računu 467 - Obaveze za kratkoročna rezervisanja,\r\niskazuju se kratkoročna rezervisanja za troškove i rizike koji se\r\npriznaju i vrednuju u skladu sa računovodstvenom politikom.",
+            "Na računu 468 - Obaveze za prikupljena sredstva\r\npomoći, iskazuju se obaveze po osnovu primljenih donacija, humanitarnih\r\nakcija i prikupljenih sredstava pomoći, koje pripadaju drugom pravnom\r\nlicu, prikupljenih radi podele drugima i koja se ne iskazuju kao prihod\r\nveć se ovaj račun zatvara sa računom na kojem su iskazana primljena\r\nsredstva koja se prenose primaocu pomoći.",
+            "Na računu 469 - Ostale obaveze, iskazuju se ostale\r\nkratkoročne obaveze koje nisu iskazane na posebnim računima u okviru\r\ngrupe računa 46, kao što su članarine, troškovi platnog prometa i sl."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_35"
+    },
+    {
+        "title": "Član 36",
+        "texts": [
+            "Na računima grupe 47 - Obaveze za porez na dodatu\r\nvrednost, iskazuju se obaveze nastale po osnovu obračunatog poreza na\r\ndodatu vrednost prema nazivima računa ove grupe.",
+            "Na računu 470 - Obaveze za porez na dodatu vrednost\r\npo izdatim fakturama po opštoj stopi (osim primljenih avansa), obuhvata\r\nse zaračunati PDV po opštoj stopi odobrenjem ovog računa i zaduženjem\r\nračuna grupe 20 ili nekog drugog računa iz klase 2.",
+            "Na računu 471 - Obaveze za porez na dodatu vrednost\r\npo izdatim fakturama po posebnoj stopi (osim primljenih avansa),\r\nobuhvata se zaračunati PDV po posebnoj stopi odobrenjem ovog računa i\r\nzaduženjem računa grupe 20 ili nekog drugog računa iz klase 2.",
+            "Na računu 472 - Obaveze za porez na dodatu vrednost\r\npo primljenim avansima po opštoj stopi, obuhvata se zaračunati PDV po\r\nopštoj stopi u primljenim avansima odobrenjem ovog računa i računa\r\nprimljenih avansa (za primljeni iznos umanjen za PDV) a zaduženjem za\r\nprimljeni iznos računa grupe 24.",
+            "Na računu 473 - Obaveze za porez na dodatu vrednost\r\npo primljenim avansima po posebnoj stopi obuhvata se zaračunati PDV po\r\nposebnoj stopi u primljenim avansima odobrenjem ovog računa i računa\r\nprimljenih avansa (za primljeni iznos umanjen za PDV) a zaduženjem za\r\nprimljeni iznos računa grupe 24.",
+            "Na računu 474 - Obaveze za porez na dodatu vrednost\r\npo osnovu sopstvene potrošnje po opštoj stopi, obuhvata se zaračunati\r\nPDV po opštoj stopi koji je obračunat po osnovu sopstvene potrošnje\r\ndobara i usluga na koju se obračunava PDV.",
+            "Na računu 475 - Obaveze za porez na dodatu vrednost\r\npo osnovu sopstvene potrošnje po posebnoj stopi, obuhvata se zaračunati\r\nPDV po posebnoj stopi koji je obračunat po osnovu sopstvene potrošnje\r\ndobara ili usluga na koju se obračunava PDV.",
+            "Na računu 476 - Obaveze za porez na dodatu vrednost\r\npo osnovu prodaje za gotovinu, obuhvata se zaračunati PDV po opštoj i\r\nposebnoj stopi koji je obračunat po osnovu prodaje dobara i usluga za\r\ngotovinu.",
+            "Na računu 479 - Obaveze za porez na dodatu vrednost\r\npo osnovu razlike obračunatog PDV i prethodnog poreza, obuhvata se\r\nrazlika između prethodnog poreza (iskazanog na računima grupe 27) i\r\niznosa poreza na dodatu vrednost iskazanu u izlaznim fakturama\r\npreduzeća (iskazanog na računima grupe 47), pod uslovom da je stanje\r\niskazano na računima grupe 47 veće od stanja iskazanog na računima\r\ngrupe 27.",
+            "Na posebnim računima otvorenim u okviru računa grupe 47, iskazuju se razgraničene obaveze za PDV."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_36"
+    },
+    {
+        "title": "Član 37",
+        "texts": [
+            "Na računima grupe 48 - Obaveze za ostale poreze,\r\ndoprinose i druge dažbine, iskazuju se obaveze za akcize, obaveze za\r\nporeze i doprinose koji terete troškove, obaveze za porez iz rezultata\r\ni ostale obaveze za poreze i doprinose i druge dažbine.",
+            "Dugovna salda na računima ove grupe utvrđena na datum\r\npod kojim se sastavlja Bilans stanja iskazuju se na računu 224 -\r\nPotraživanja po osnovu preplaćenih ostalih poreza i doprinosa.",
+            "Na računu 480 - Obaveze za akcize, iskazuju se akcize\r\nkoji se naplaćuju uz prodajnu cenu proizvoda, robe i usluga, zaduženjem\r\nodgovarajućeg računa potraživanja, zaliha i sl.",
+            "Na računu 481 - Obaveze za porez iz rezultata, iskazuje se obračunati porez na dobitak.",
+            "Na računu 482 - Obaveze za poreze, carine i druge\r\ndažbine iz nabavke ili na teret troškova, iskazuju se porezi, carine i\r\ndruge dažbine koji čine zavisne troškove nabavke zaliha i osnovnih\r\nsredstava, odnosno koji se nadoknađuju neposredno na teret troškova.",
+            "Na računu 483 - Obaveze za doprinose koji terete\r\ntroškove, iskazuju se obaveze za doprinose za preduzetnika i vlasnika\r\npravnog lica.",
+            "Na računu 489 - Ostale obaveze za poreze, doprinose i\r\ndruge dažbine, iskazuju se obaveze za ostale poreze, doprinose i\r\ndažbine koji nisu iskazani na posebnim računima u okviru grupe računa\r\n48, kao što su obaveze za poreze i doprinose koji su obračunati po\r\nugovoru o delu, ugovoru o autorstvu, drugim ugovorima uz naknadu,\r\nobaveze za takse, obaveze za naknade za nedovoljan broj zaposlenih\r\nosoba sa invaliditetom, obaveze za ostale naknade i slične obaveze."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_37"
+    },
+    {
+        "title": "Član 38",
+        "texts": [
+            "Na računima grupe 49 - Pasivna vremenska\r\nrazgraničenja, iskazuju se unapred naplaćeni, odnosno obračunati\r\nprihodi i troškovi tekućeg perioda za koje nije primljena isprava, ili\r\nkad obaveza plaćanja nastaje u budućem periodu, kao i odložene poreske\r\nobaveze i razgraničene obaveze za porez na dodatu vrednost.",
+            "Na računu 490 - Unapred obračunati troškovi, iskazuju\r\nse obračunati troškovi koji terete tekući obračunski period, a nisu\r\nfakturisani, kao što su obračunati troškovi zakupnine, grejanja,\r\nobračunate kamate i ostali troškovi koji nisu fakturisani u periodu na\r\nkoji se odnose.",
+            "Na računu 491 - Unapred naplaćeni prihodi, iskazuju\r\nse naplaćeni ili obračunati prihodi u tekućem periodu koji se odnose na\r\nnaredni izveštajni period.",
+            "Na računu 494 - Razgraničeni zavisni troškovi\r\nnabavke, iskazuju se zavisni troškovi nabavke osnovnih sredstava, robe,\r\nmaterijala, rezervnih delova i sl. koji nisu fakturisani u momentu\r\nevidentiranja nabavke.",
+            "Na računu 495 - Odloženi prihodi i primljene\r\ndonacije, iskazuju se primljene donacije i državna davanja u skladu sa\r\nračunovodstvenom politikom.",
+            "Na računu 496 - Razgraničeni prihodi po osnovu\r\npotraživanja, iskazuju se prihodi od naplate transakcionih troškova po\r\nosnovu datih kredita, kupljenih hartija od vrednosti i drugih plasmana.",
+            "Na računu 498 - Odložene poreske obaveze, iskazuju se\r\niznosi poreza na dobitak koji su plativi u narednim periodima po osnovu\r\noporezivih privremenih razlika u skladu sa računovodstvenom politikom.",
+            "Na računu 499 - Ostala pasivna vremenska\r\nrazgraničenja, iskazuju se ostala pasivna vremenska razgraničenja koja\r\nnisu iskazana na posebnim računima u okviru grupe 49.",
+            "Klasa 5: Rashodi"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_38"
+    },
+    {
+        "title": "Član 39",
+        "texts": [
+            "Na računima grupe 50 - Nabavna vrednost prodate robe,\r\niskazuje se nabavka robe, nabavna vrednost prodate robe i nabavna\r\nvrednost prodatih nekretnina pribavljenih radi prodaje.",
+            "Na računu 500 - Nabavka robe, iskazuje se nabavka robe kada se podaci o stanju, nabavci i prodaji robe vode na računu 911.",
+            "Na računu 501 - Nabavna vrednost prodate robe,\r\niskazuje se nabavna vrednost prodate robe, osim nabavne vrednosti\r\nstalnih sredstava pribavljenih radi prodaje.",
+            "Na računu 502 - Nabavna vrednost nekretnina\r\npribavljenih radi prodaje, iskazuje se nabavna vrednost prodatih\r\nnekretnina zaduženjem ovog računa u korist odgovarajućeg računa grupe\r\n14.",
+            "Na računu 503 - Nabavna vrednost ostalih stalnih\r\nsredstava namenjenih prodaji, iskazuje se nabavna vrednost ostalih\r\nstalnih sredstava koja su namenjena daljoj prodaji zaduženjem ovog\r\nračuna u korist odgovarajućih računa grupe 14."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_39"
+    },
+    {
+        "title": "Član 40",
+        "texts": [
+            "Na računima grupe 51 - Troškovi materijala i\r\nenergije, iskazuju se nabavka i troškovi materijala za izradu, troškovi\r\nostalog materijala i troškovi goriva i energije.",
+            "Na računu 510 - Nabavka materijala, iskazuje se\r\nnabavka materijala kada se podaci o stanju, nabavci i troškovima\r\nmaterijala vode na računu 910.",
+            "Na računu 511 - Troškovi materijala za izradu, iskazuju se troškovi materijala za izradu.",
+            "Na računu 512 - Troškovi ostalog materijala (režijskog), iskazuju se troškovi režijskog materijala.",
+            "Na računu 513 - Troškovi goriva i energije, iskazuju se troškovi goriva i energije.",
+            "Na računu 514 - Troškovi rezervnih delova, iskazuju\r\nse troškovi rezervnih delova utrošenih za tekuće održavanje nekretnina,\r\npostrojenja i opreme.",
+            "Na računu 515 - Troškovi jednokratnog otpisa alata i\r\ninventara, iskazuju se troškovi alata i sitnog inventara koji je\r\nstavljen u upotrebu."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_40"
+    },
+    {
+        "title": "Član 41",
+        "texts": [
+            "Na računima grupe 52 - Troškovi zarada, naknada\r\nzarada i ostali lični rashodi, evidentiraju se troškovi po osnovu\r\nobračunatih zarada, naknada zarada i drugih primanja zaposlenih, kao i\r\ntroškovi po osnovu obračunatih naknada po ugovorima sa fizičkim licima.",
+            "Na računu 520 - Troškovi zarada i naknada zarada\r\n(bruto), iskazuju se troškovi obračunatih zarada i ostali lični rashodi\r\nu skladu sa propisima kojima se uređuju radni odnosi. U okviru ovog\r\nračuna mogu se otvoriti posebni analitički računi kako bi se obezbedili\r\npodaci o troškovima neto zarade, poreza i doprinosa.",
+            "Na računu 521 - Troškovi poreza i doprinosa na zarade\r\ni naknade zarada na teret poslodavca, iskazuju se troškovi poreza i\r\ndoprinosa.",
+            "Na računu 522 - Troškovi naknada po ugovoru o delu, iskazuju se ukupni troškovi naknada po ugovoru o delu.",
+            "Na računu 523 - Troškovi naknada po autorskim ugovorima, iskazuju se ukupni troškovi naknada po osnovu autorskih ugovora.",
+            "Na računu 524 - Troškovi naknada po ugovoru o\r\nprivremenim i povremenim poslovima, iskazuju se ukupni troškovi naknada\r\npo osnovu privremenih i povremenih poslova.",
+            "Na računu 525 - Troškovi naknada fizičkim licima po\r\nosnovu ostalih ugovora, iskazuju se ukupni troškovi naknada fizičkim\r\nlicima po napred nepomenutim ugovorima.",
+            "Na računu 526 - Troškovi naknada direktoru, odnosno\r\nčlanovima organa upravljanja i nadzora, iskazuju se ukupni troškovi\r\nnaknada direktoru, odnosno članovima organa upravljanja i nadzora.",
+            "Na računu 528 - Troškovi angažovanja zaposlenih preko\r\nagencija i zadruga, iskazuju se ukupni troškovi angažovanja zaposlenih\r\npreko agencija za zapošljavanje i omladinskih i drugih zadruga.",
+            "Na računu 529 - Ostali lični rashodi i naknade,\r\niskazuju se ukupni troškovi ostalih ličnih rashoda i naknada kao što su\r\notpremnina za odlazak u penziju, jubilarne nagrade, naknade troškova\r\nsmeštaja i ishrane na službenom putu, naknade troškova prevoza na\r\nslužbenom putu, naknade troškova prevoza na radno mesto i sa radnog\r\nmesta, naknade za smeštaj i ishranu na terenu, i ostale naknade\r\ntroškova zaposlenima, poslodavcima i drugim fizičkim licima."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_41"
+    },
+    {
+        "title": "Član 42",
+        "texts": [
+            "Na računima grupe 53 - Troškovi proizvodnih usluga,\r\niskazuju se proizvodne usluge na izradi učinaka, transportne usluge,\r\nusluge održavanja, zakupnine, troškovi sajmova, reklame i propagande,\r\ntroškovi istraživanja i ostale proizvodne usluge.",
+            "Na računu 530 - Troškovi usluga na izradi učinaka,\r\niskazuju se usluge na izradi proizvoda, odnosno učinaka koji su\r\nsastavni deo procesa proizvodnje.",
+            "Na računu 531 - Troškovi transportnih usluga, iskazuju se transportne usluge drugih pravnih lica i preduzetnika.",
+            "Na računu 532 - Troškovi usluga održavanja, iskazuju\r\nse troškovi održavanja nekretnina, postrojenja i opreme, nematerijalne\r\nimovine i bioloških sredstava, koji se ne kapitalizuju.",
+            "Na računu 533 - Troškovi zakupa, iskazuju se\r\nzakupnine osnovnih sredstava (opreme i poslovnog, skladišnog i drugog\r\nprostora). Na ovom računu iskazuju se i troškovi zakupa nematerijalne\r\nimovine i bioloških sredstava.",
+            "Na računu 534 - Troškovi sajmova, iskazuju se\r\ntroškovi koji nastaju u vezi sa izlaganjem na sajmovima i drugim\r\nizložbama proizvoda, robe i usluga u zemlji i inostranstvu.",
+            "Na računu 535 - Troškovi reklame i propagande,\r\niskazuju se usluge po osnovu izvršene reklame i propagande, kao i\r\ntroškovi po osnovu reklamnog i propagandnog materijala.",
+            "Na računu 536 - Troškovi istraživanja, iskazuju se troškovi istraživanja.",
+            "Na računu 537 - Troškovi razvoja koji se ne\r\nkapitalizuju, iskazuju se troškovi razvoja koji ne ispunjavaju uslove\r\nda se kapitalizuju, u skladu sa računovodstvenom politikom.",
+            "Na računu 539 - Troškovi ostalih proizvodnih usluga,\r\niskazuju se ostale proizvodne usluge, usluge zaštite na radu, komunalne\r\nusluge, usluge u prometu, troškovi registracije vozila i mašina,\r\ntroškovi korišćenja auto puta i troškovi za ostale proizvodne usluge\r\nkoje nisu iskazane na posebnim računima u okviru grupe računa 53."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_42"
+    },
+    {
+        "title": "Član 43",
+        "texts": [
+            "Na računima grupe 54 - Troškovi amortizacije i\r\nrezervisanja, iskazuju se troškovi amortizacije nematerijalnih ulaganja\r\ni osnovnih sredstava i troškovi rezervisanja u skladu sa\r\nračunovodstvenom politikom pravnog lica i preduzetnika.",
+            "Na računu 540 - Troškovi amortizacije, iskazuju se\r\ntroškovi amortizacije nematerijalnih ulaganja i osnovnih sredstava\r\nobračunati prema računovodstvenoj politici pravnog lica i preduzetnika.",
+            "Na računima 541, 542, 543, 544, 545 i 549 - troškovi\r\nrezervisanja prema nazivima računa, iskazuju se rezervisanja za\r\ntroškove u garantnom roku, za zadržane kaucije i depozite i za\r\nobnavljanje prirodnih bogatstava, za restrukturiranje pravnog lica i\r\npreduzetnika, isplatu naknada i drugih beneficija zaposlenima i ostala\r\nrezervisanja u korist odgovarajućih računa grupe 40 i računa 467."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_43"
+    },
+    {
+        "title": "Član 44",
+        "texts": [
+            "Na računima grupe 55 - Nematerijalni troškovi,\r\niskazuju se troškovi neproizvodnih usluga, reprezentacije, premija\r\nosiguranja, troškovi platnog prometa, članarina, poreza, doprinosa i\r\nostali nematerijalni troškovi.",
+            "Na računu 550 - Troškovi neproizvodnih usluga,\r\niskazuju se troškovi advokatskih usluga, usluga revizije, usluga\r\nkonsaltinga, zdravstvenih usluga, usluga stručnog obrazovanja i\r\nusavršavanja zaposlenih i sl.",
+            "Na računu 551 - Troškovi reprezentacije, iskazuju se\r\nizdaci za reprezentaciju, uključujući i vrednost sopstvenih proizvoda,\r\nrobe i usluga.",
+            "Na računu 552 - Troškovi premija osiguranja, iskazuju\r\nse troškovi premija osiguranja, osim premija po osnovu osiguranja\r\nživota zaposlenih.",
+            "Na računu 553 - Troškovi platnog prometa, iskazuju se\r\nusluge platnog prometa i druge bankarske usluge koje se plaćaju za\r\nobavljeni platni promet i izvršene druge bankarske usluge.",
+            "Na računu 554 - Troškovi članarina, iskazuju se članarine poslovnim i drugim udruženjima, komorama i zadružnim savezima.",
+            "Na računu 555 - Troškovi poreza i naknada, iskazuju\r\nse troškovi poreza i naknada koji se naknađuju na teret troškova u\r\nkorist računa 482. Troškovi poreza i naknada uključuju sledeće: porez\r\nna imovinu, porez na upotrebu, držanje i nošenje dobara (motornih\r\nvozila, čamaca, aviona, ostalih letelica i oružja), naknadu za\r\nkorišćenje prirodnog lekovitog faktora u banji, naknadu za korišćenje\r\nvoda, naknadu za zaštitu voda i naknadu za izvađeni materijal iz\r\nvodotoka, naknadu za eksploataciju šuma i korišćenje ostalih šumskih\r\nproizvoda, naknadu za eksploataciju rudnog bogatstva, naknadu za\r\nkorišćenje nacionalnih parkova, naknadu za korišćenje ribarskog\r\npodručja, naknadu za puteve prilikom registracije vozila i naknadu za\r\npristup i priključenje na magistralni i regionalni put i korišćenje\r\nobjekata i zemljišta koje pripada tom putu, naknadu za građevinsko\r\nzemljište, akcizu plaćenu puštanjem u promet proizvoda, troškove PDV-a\r\nna koji obveznik nema pravo odbitka, niti mogućnosti da ih uključi u\r\nnabavnu vrednost nekog sredstva, druge poreze i naknade koje imaju\r\nkarakter troškova (razne vrste taksi i sl.).",
+            "Na računu 556 - Troškovi doprinosa, iskazuju se doprinosi koji terete troškove.",
+            "Na računu 559 - Ostali nematerijalni troškovi,\r\niskazuju se ostali troškovi za koje nije propisan poseban račun u\r\nokviru grupe računa 55 (troškovi oglasa u štampi i drugim medijima\r\n(osim za reklamu i propagandu), takse (administrativne, sudske,\r\nregistracione, konzularne, lokalne i dr.), pretplate na časopise i\r\nostali nematerijalni troškovi)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_44"
+    },
+    {
+        "title": "Član 45",
+        "texts": [
+            "Na računima grupe 56 - Finansijski rashodi, iskazuju\r\nse rashodi po osnovu kamata, kursnih razlika, negativni efekti po\r\nosnovu valutne klauzule i ostali finansijski rashodi.",
+            "Na računu 560 - Finansijski rashodi iz odnosa sa\r\nmatičnim i zavisnim pravnim licima, iskazuju se rashodi po osnovu\r\nkamata i kursnih razlika i ostali finansijski rashodi iz odnosa pravnih\r\nlica koja čine grupu pravnih lica u smislu Zakona.",
+            "Na računu 561 - Finansijski rashodi iz odnosa sa\r\nostalim povezanim licima, iskazuju se rashodi po osnovu kamata i\r\nkursnih razlika i ostali finansijski rashodi iz odnosa sa ostalim\r\npovezanim licima.",
+            "Na računu 562 - Rashodi kamata (prema trećim licima),\r\niskazuju se rashodi kamata po kreditima, po obavezama iz\r\ndužničko-poverilačkih odnosa, zatezne i druge kamate, osim kamata po\r\nosnovu obaveza prema matičnom, zavisnim i ostalim povezanim pravnim\r\nlicima.",
+            "Na ovom računu iskazuju se kod primaoca lizinga rashodi kamata po lizingu.",
+            "Na računu 563 - Negativne kursne razlike (prema\r\ntrećim licima), iskazuju se negativne kursne razlike nastale u\r\nobračunskom periodu, osim kursnih razlika iz odnosa prema matičnom,\r\nzavisnim i ostalim povezanim licima.",
+            "Na računu 564 - Rashodi po osnovu efekata valutne\r\nklauzule (prema trećim licima), iskazuju se negativni efekti proistekli\r\niz zaštite potraživanja, plasmana i obaveza valutnom klauzulom, osim\r\nrashoda po osnovu efekata valutne klauzule iz odnosa prema matičnom,\r\nzavisnim i ostalim povezanim licima.",
+            "Na računu 565 - Rashodi od učešća u gubitku\r\npridruženih pravnih lica i zajedničkih poduhvata, koji se obračunavaju\r\nkorišćenjem metoda udela, iskazuju se rashodi od učešća u gubitku\r\npridruženih pravnih lica i zajedničkih poduhvata.",
+            "Na računu 569 - Ostali finansijski rashodi, iskazuju\r\nse ostali finansijski rashodi za koje nisu propisani posebni računi u\r\ngrupi 56."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_45"
+    },
+    {
+        "title": "Član 46",
+        "texts": [
+            "Na računima grupe 57 - Ostali rashodi, iskazuju se\r\ngubici po osnovu prodaje i rashodovanja nekretnina, postrojenja i\r\nopreme i nematerijalnih ulaganja, gubici po osnovu rashodovanja i\r\nprodaje bioloških sredstava, gubici po osnovu prodaje hartija od\r\nvrednosti i učešća u kapitalu pravnih lica, gubici od prodaje\r\nmaterijala, manjkovi, rashodi po osnovu efekata ugovorene zaštite od\r\nrizika, rashodi po osnovu direktnih otpisa potraživanja, rashodi po\r\nosnovu rashodovanja zaliha i ostali nepomenuti rashodi.",
+            "Na računima grupe 57 iskazuju se i gubici po osnovu\r\nprodaje stalnih sredstava namenjenih prodaji, u smislu MSFI 5,\r\niskazanih na računima grupe 14, u iznosu manjem od neotpisane\r\nvrednosti.",
+            "Na računu 570 - Gubici po osnovu rashodovanja i\r\nprodaje nematerijalne imovine, nekretnina, postrojenja i opreme,\r\niskazuje se neotpisana vrednost i dodatni troškovi rashodovane i\r\notpisane nematerijalne imovine, nekretnina, postrojenja i opreme koji\r\nnisu pokriveni prihodom od prodaje, zaduženjem ovog računa, računa\r\nispravke vrednosti u okviru grupe računa 01 i 02, računa potraživanja\r\nza izvršenu prodaju i računa 330 - Revalorizacione rezerve po osnovu\r\nrevalorizacije nematerijalne imovine, nekretnina, postrojenja i opreme\r\n(ako su prethodno formirane za konkretno sredstvo), u korist\r\nodgovarajućeg računa na kojem se vode nematerijalna imovina,\r\nnekretnine, postrojenja i oprema.",
+            "Na računu 571 - Gubici po osnovu rashodovanja i\r\nprodaje bioloških sredstava, iskazuje se neotpisana vrednost i dodatni\r\ntroškovi otpisanih bioloških sredstava koji nisu pokriveni prihodom od\r\nprodaje.",
+            "Na računu 572 - Gubici po osnovu rashodovanja i\r\nprodaje učešća u kapitalu i hartija od vrednosti, iskazuje se manje\r\nostvaren iznos prihoda od prodaje učešća i hartija od vrednosti u\r\nodnosu na njihovu knjigovodstvenu vrednost.",
+            "Na računu 573 - Gubici od prodaje materijala,\r\niskazuje se manje ostvaren iznos prihoda od prodaje materijala u odnosu\r\nna njegovu knjigovodstvenu vrednost.",
+            "Na računu 574 - Manjkovi, iskazuju se manjkovi\r\nsredstava koji se utvrde na osnovu redovnog i vanrednog popisa.\r\nManjkovi učinaka (nedovršene proizvodnje i gotovih proizvoda) koji se\r\nevidentiraju na računima troškova i učinaka u klasi 9, knjiže se na\r\nračunima te klase zaduženjem računa 983 u korist računa na kojima se\r\niskazuju ti učinci (računi grupa 91, 95 i 96). U finansijskom\r\nknjigovodstvu manjkovi učinaka knjiže se zaduženjem računa 574 u korist\r\nračuna 630.",
+            "Na računu 575 - Rashodi po osnovu efekata ugovorene\r\nzaštite od rizika, koji ne ispunjavaju uslove da se iskažu u okviru\r\nostalog rezultata (sveobuhvatnog dobitka ili gubitka), iskazuje se\r\nnegativan efekat ugovorene revalorizacije ili ostalih oblika ugovorene\r\nzaštite od rizika, osim efekata po osnovu valutne klauzule.",
+            "Na računu 576 - Rashodi po osnovu direktnih otpisa\r\npotraživanja, iskazuju se rashodi po osnovu direktnih otpisa\r\npotraživanja čija je nenaplativost dokumentovana.",
+            "Na računu 577 - Rashodi po osnovu rashodovanja\r\nzaliha, iskazuju se rashodi po osnovu kala, rastura, kvara, loma i sl.\r\nzaliha. Rashodi učinaka koji se evidentiraju na računima troškova i\r\nučinaka u klasi 9, knjiže se na računima te klase zaduženjem računa 983\r\nu korist računa na kojima se iskazuju ti učinci (računi grupa 91, 95 i\r\n96). U finansijskom knjigovodstvu rashodi učinaka knjiže se zaduženjem\r\nračuna 577 u korist računa 630.",
+            "Na računu 579 - Ostali nepomenuti rashodi, iskazuju\r\nse ostali rashodi za koje nije propisan poseban račun u okviru računa\r\ngrupe 57."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_46"
+    },
+    {
+        "title": "Član 47",
+        "texts": [
+            "Na računima grupe 58 - Rashodi od usklađivanja\r\nvrednosti imovine, iskazuju se negativni efekti vrednosnih usklađivanja\r\nnematerijalne imovine, nekretnina, postrojenja, opreme i bioloških\r\nsredstava, dugoročnih i kratkoročnih finansijskih plasmana, zaliha,\r\nhartija od vrednosti koje se vrednuju po fer vrednosti kroz ostali\r\nukupan rezultat, potraživanja, finansijskih derivata i finansijskih\r\nsredstava u skladu sa računovodstvenom politikom.",
+            "Na računima ove grupe iskazuje se i negativan efekat promene fer vrednosti sredstava, u skladu sa računovodstvenom politikom."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_47"
+    },
+    {
+        "title": "Član 48",
+        "texts": [
+            "Na računima grupe 59 - Gubitak poslovanja koje se\r\nobustavlja, efekti promene računovodstvene politike, ispravke grešaka\r\nranijih perioda i prenos rashoda, iskazuju se rashodi prema nazivima\r\nračuna ove grupe i prenos ukupnih rashoda na kraju izveštajnog perioda.",
+            "Na računu 590 - Gubitak poslovanja koje se\r\nobustavlja, iskazuju se gubici organizacionih delova za koje je doneta\r\nodluka o obustavljanju poslovanja.",
+            "Na računu 591 - Rashodi po osnovu efekata promene\r\nračunovodstvenih politika, iskazuju se efekti promena računovodstvene\r\npolitike koji nisu materijalno značajni.",
+            "Na računu 592 - Rashodi po osnovu ispravki grešaka iz\r\nranijih godina koje nisu materijalno značajne, iskazuju se efekti\r\nispravke grešaka iz ranijih godina koje nisu materijalno značajne.",
+            "Na računu 599 - Prenos rashoda, iskazuju se efekti\r\nzatvaranja klase 5, koje se vrši na kraju izveštajnog perioda\r\nzaduživanjem ovog računa i odobravanjem svih računa klase 5. Nakon\r\ntoga, vrši se prenos rashoda na teret odgovarajućih računa u grupi 71.\r\nNa kraju godine vrši se zaključivanje ovog računa njegovim zaduženjem u\r\nkorist računa grupe 50 do 59, osim računa 599 - Prenos rashoda.",
+            "Klasa 6: Prihodi"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_48"
+    },
+    {
+        "title": "Član 49",
+        "texts": [
+            "Na računima grupe 60 - Prihodi od prodaje robe,\r\niskazuju se prihodi od prodaje robe na domaćem i inostranom tržištu\r\nprema nazivima ovih računa.",
+            "Na računu 600 - Prihodi od prodaje robe matičnom i\r\nzavisnim pravnim licima na domaćem tržištu, iskazuju se prihodi po\r\nosnovu prodaje robe pravnim licima na domaćem tržištu koja čine grupu\r\npravnih lica u smislu Zakona.",
+            "Na računu 601 - Prihodi od prodaje robe matičnom i\r\nzavisnim pravnim licima na inostranom tržištu, iskazuju se prihodi po\r\nosnovu prodaje robe pravnim licima na inostranom tržištu koja čine\r\ngrupu pravnih lica u smislu Zakona.",
+            "Na računu 602 - Prihodi od prodaje robe ostalim\r\npovezanim licima na domaćem tržištu iskazuju se prihodi po osnovu\r\nprodaje robe ostalim povezanim licima na domaćem tržištu.",
+            "Na računu 603 - Prihodi od prodaje robe ostalim\r\npovezanim licima na inostranom tržištu iskazuju se prihodi po osnovu\r\nprodaje robe ostalim povezanim pravnim licima na inostranom tržištu.",
+            "Na računu 604 - Prihodi od prodaje robe na domaćem\r\ntržištu, iskazuju se prihodi od prodaje robe na domaćem tržištu, osim\r\nprihoda od prodaje robe pravnim licima koja čine grupu pravnih lica i\r\nostalim povezanim licima.",
+            "Na ovom računu iskazuju se kod davaoca lizinga prihodi od davanja sredstava u finansijski lizing.",
+            "Na računu 605 - Prihodi od prodaje robe na inostranom\r\ntržištu, iskazuju se prihodi od prodaje robe na inostranom tržištu,\r\nosim prihoda od prodaje robe pravnim licima koja čine grupu pravnih\r\nlica i ostalim povezanim licima."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_49"
+    },
+    {
+        "title": "Član 50",
+        "texts": [
+            "Na računima grupe 61 - Prihodi od prodaje proizvoda i\r\nusluga, iskazuju se prihodi od prodaje proizvoda i usluga na domaćem i\r\ninostranom tržištu.",
+            "Na računu 610 - Prihodi od prodaje proizvoda i usluga\r\nmatičnom i zavisnim pravnim licima na domaćem tržištu, iskazuju se\r\nprihodi po osnovu prodaje proizvoda i usluga pravnim licima na domaćem\r\ntržištu koja čine grupu pravnih lica u smislu Zakona.",
+            "Na računu 611 - Prihodi od prodaje proizvoda i usluga\r\nmatičnom i zavisnim pravnim licima na inostranom tržištu, iskazuju se\r\nprihodi po osnovu prodaje proizvoda i usluga pravnim licima na\r\ninostranom tržištu koja čine grupu pravnih lica u smislu Zakona.",
+            "Na računu 612 - Prihodi od prodaje proizvoda i usluga\r\nostalim povezanim licima na domaćem tržištu, iskazuju se prihodi po\r\nosnovu prodaje proizvoda i usluga ostalim povezanim licima na domaćem\r\ntržištu.",
+            "Na računu 613 - Prihodi od prodaje proizvoda i usluga\r\nostalim povezanim licima na inostranom tržištu, iskazuju se prihodi po\r\nosnovu prodaje proizvoda i usluga ostalim povezanim licima na\r\ninostranom tržištu.",
+            "Na računu 614 - Prihodi od prodaje proizvoda i usluga\r\nna domaćem tržištu, iskazuju se prihodi od prodaje proizvoda i usluga\r\nna domaćem tržištu, osim prihoda od prodaje proizvoda i usluga pravnim\r\nlicima koja čine grupu pravnih lica i ostalim povezanim licima.",
+            "Na računu 615 - Prihodi od prodaje proizvoda i usluga\r\nna inostranom tržištu, iskazuju se prihodi od prodaje proizvoda i\r\nusluga na inostranom tržištu, osim prihoda od prodaje proizvoda i\r\nusluga pravnim licima koja čine grupu pravnih lica i ostalim povezanim\r\nlicima."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_50"
+    },
+    {
+        "title": "Član 51",
+        "texts": [
+            "Na računima grupe 62 - Prihodi od aktiviranja učinaka\r\ni robe, iskazuju se prihodi po osnovu upotrebe robe, proizvoda i usluga\r\nza nematerijalnu imovinu, nekretnine, postrojenja, opremu, biološka\r\nsredstva, materijal, sopstveni transport nabavke materijala i robe, kao\r\ni za reprezentaciju.",
+            "Na računu 620 - Prihodi od aktiviranja ili potrošnje\r\nrobe za sopstvene potrebe, iskazuju se prihodi po osnovu upotrebe robe\r\nza nematerijalnu imovinu, nekretnine, postrojenja, opremu, biološka\r\nsredstva, materijal i rezervne delove, kao i za reprezentaciju.",
+            "Na računu 621 - Prihodi od aktiviranja ili potrošnje\r\nproizvoda i usluga za sopstvene potrebe, iskazuju se prihodi po osnovu\r\nupotrebe proizvoda i usluga za nematerijalnu imovinu, nekretnine,\r\npostrojenja, opremu, biološka sredstva, materijal i rezervne delove i\r\nsopstveni transport nabavke materijala i robe, kao i za reprezentaciju."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_51"
+    },
+    {
+        "title": "Član 52",
+        "texts": [
+            "Na računima grupe 63 - Promena vrednosti zaliha\r\nučinaka, iskazuje se povećanje ili smanjenje vrednosti zaliha\r\nnedovršene proizvodnje, nedovršenih usluga i gotovih proizvoda na kraju\r\nizveštajnog perioda u odnosu na početak perioda.",
+            "Na računu 630 - Povećanje vrednosti zaliha nedovršene\r\nproizvodnje i usluga i gotovih proizvoda, iskazuje se povećanje\r\nvrednosti zaliha nedovršene proizvodnje, nedovršenih usluga i gotovih\r\nproizvoda na kraju izveštajnog perioda u odnosu na početak perioda,\r\nzaduženjem računa 110, 111 i 120.",
+            "Na računu 631 - Smanjenje vrednosti zaliha nedovršene\r\nproizvodnje i usluga i gotovih proizvoda, iskazuje se smanjenje\r\nvrednosti zaliha nedovršene proizvodnje, nedovršenih usluga i gotovih\r\nproizvoda na kraju izveštajnog perioda u odnosu na početak perioda,\r\nodobrenjem računa 110, 111 i 120."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_52"
+    },
+    {
+        "title": "Član 53",
+        "texts": [
+            "Na računima grupe 64 - Prihodi od premija,\r\nsubvencija, dotacija, donacija i sl., iskazuju se prihodi po osnovu\r\npotraživanja od državnih organa i organizacija od premija, subvencija,\r\ndotacija, regresa, kompenzacija i povraćaja poreskih dažbina.",
+            "Na računu 640 - Prihodi od premija, subvencija, dotacija, regresa, kompenzacija i povraćaja poreskih dažbina",
+            "Na računu 641 - Prihod po osnovu uslovljenih\r\ndonacija, iskazuju se ukidanja odloženih prihoda, u skladu sa\r\nračunovodstvenom politikom.",
+            "Na računu 642 - Prihodi od donacija, dotacija,\r\nsubvencija i sl. iz republičkog budžeta, iskazuju se navedeni prihodi\r\ndrugih pravnih lica koji su ostvareni iz republičkog budžeta.",
+            "Na računu 643 - Prihodi od donacija, dotacija,\r\nsubvencija i sl. iz budžeta autonomne pokrajine ili lokalne samouprave,\r\niskazuju se navedeni prihodi drugih pravnih lica koji su ostvareni iz\r\nbudžeta autonomne pokrajine, odnosno lokalne samouprave.",
+            "Na računu 644 - Prihodi od donacija, dotacija i sl.\r\nod inostranih vlada i međunarodnih organizacija, iskazuju se pomenuti\r\nprihodi drugih pravnih lica od strane inostranih vlada i međunarodnih\r\norganizacija.",
+            "Na računu 645 - Prihodi od donacija, dotacija i sl.\r\nod domaćih privrednih društava, preduzetnika i drugih pravnih lica,\r\niskazuju se pomenuti prihodi drugih pravnih lica od strane domaćih\r\npravnih lica i preduzetnika.",
+            "Na računu 646 - Prihodi od donacija, dotacija i sl.\r\nod fizičkih lica iz zemlje i inostranstva, iskazuju se pomenuti prihodi\r\ndrugih pravnih lica od strane domaćih i stranih fizičkih lica.",
+            "Na računu 649 - Ostali prihodi od donacija, dotacija,\r\nsubvencija i sl., iskazuju se ostali prihodi za koje nije predviđen\r\nposeban račun u okviru računa grupe 64."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_53"
+    },
+    {
+        "title": "Član 54",
+        "texts": [
+            "Na računima grupe 65 - Drugi poslovni prihodi,\r\niskazuju se prihodi po osnovu zakupnina, članarina i članskih doprinosa\r\nposlovnih i drugih udruženja, tantijema i ostali poslovni prihodi.",
+            "Na računu 650 - Prihodi od zakupa, iskazuju se\r\nprihodi po osnovu davanja u zakup (operativnog lizinga) nematerijalnih\r\nulaganja, nekretnina, postrojenja i opreme i bioloških sredstava.",
+            "Na računu 651 - Prihodi od članarina, iskazuju se prihodi od članarine poslovnih i drugih udruženja.",
+            "Na računu 652 - Prihodi od tantijema i licencnih\r\nnaknada, iskazuju se prihodi od naknada po osnovu patenata, žigova,\r\nautorskih i ostalih prava.",
+            "Na računu 653 - Prihodi od članskih doprinosa, iskazuju se prihodi od članskih doprinosa poslovnih i drugih udruženja.",
+            "Na računu 654 - Prihodi po posebnim propisima iz\r\nbudžeta, iskazuju se prihodi ostvareni iz budžeta u skladu sa iznosima\r\nutvrđenim po posebnim propisima.",
+            "Na računu 655 - Prihodi po posebnim propisima iz\r\nostalih izvora, iskazuju se prihodi ostvareni iz ostalih izvora\r\nfinansiranja predviđenih posebnim propisima.",
+            "Na računu 659 - Ostali poslovni prihodi, iskazuju se\r\nostali poslovni prihodi za koje nije predviđen poseban račun u okviru\r\nračuna grupe 65."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_54"
+    },
+    {
+        "title": "Član 55",
+        "texts": [
+            "Na računima grupe 66 - Finansijski prihodi, iskazuju\r\nse prihodi od kamata, kursnih razlika, prihodi po osnovu efekata\r\nvalutne klauzule, dividendi i ostali finansijski prihodi.",
+            "Na računu 660 - Finansijski prihodi od matičnog i\r\nzavisnih pravnih lica, iskazuju se prihodi od kamata, pozitivnih\r\nkursnih razlika, dividendi i ostali finansijski prihodi pravnih lica\r\nkoja čine grupu pravnih lica u smislu Zakona, osim udela u dobitku\r\nzavisnih pravnih lica i zajedničkih ulaganja, koji se obračunava\r\nkorišćenjem metoda udela.",
+            "Na računu 661 - Finansijski prihodi od ostalih\r\npovezanih lica, iskazuju se prihodi od kamata, pozitivnih kursnih\r\nrazlika, dividendi i ostali finansijski prihodi ostalih povezanih lica.",
+            "Na računu 662 - Prihodi od kamata (od trećih lica),\r\niskazuju se prihodi od kamata po datim kreditima trećim licima, po\r\npotraživanjima iz dužničko-poverilačkih odnosa, zateznim i drugim\r\nkamatama, osim kamata po osnovu obaveza prema matičnom i zavisnim i\r\nostalim povezanim pravnim licima.",
+            "Na ovom računu iskazuju se kod davaoca lizinga prihodi od kamata po finansijskom lizingu.",
+            "Na računu 663 - Pozitivne kursne razlike (prema\r\ntrećim licima), iskazuju se pozitivne kursne razlike po osnovu\r\npotraživanja i obaveza u obračunskom periodu, osim kursnih razlika iz\r\nodnosa prema matičnom i zavisnim i ostalim povezanim pravnim licima.",
+            "Na računu 664 - Prihodi po osnovu efekata valutne\r\nklauzule (prema trećim licima), iskazuju se pozitivni efekti proistekli\r\niz zaštite potraživanja, plasmana i obaveza valutnom klauzulom.",
+            "Na računu 665 - Prihodi od učešća u dobitku\r\npridruženih pravnih lica i zajedničkih poduhvata, iskazuju se prihodi\r\nod učešća u dobitku pridruženih pravnih lica i zajedničkih poduhvata,\r\nkoji se obračunavaju korišćenjem metoda udela.",
+            "Na računu 669 - Ostali finansijski prihodi, iskazuju\r\nse finansijski prihodi za koje nije propisan poseban račun u okviru\r\nračuna grupe 66."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_55"
+    },
+    {
+        "title": "Član 56",
+        "texts": [
+            "Na računima grupe 67 - Ostali prihodi, iskazuju se\r\ndobici po osnovu prodaje nekretnina, postrojenja i opreme (osnovnih\r\nsredstava) i nematerijalnih ulaganja, dobici od prodaje bioloških\r\nsredstava, dobici po osnovu prodaje dugoročnih hartija od vrednosti i\r\nučešća u kapitalu, dobici od prodaje materijala, naplaćena otpisana\r\npotraživanja, viškovi, prihodi po osnovu efekata ugovorene zaštite od\r\nrizika, prihodi od smanjenja obaveza, prihodi od ukidanja dugoročnih\r\nrezervisanja i ostali nepomenuti prihodi.",
+            "Na računima grupe 67 iskazuju se takođe i dobici po\r\nosnovu prodaje stalnih sredstava namenjenih prodaji, u smislu MSFI 5,\r\niskazani na računima grupe 14, u iznosu većem od neotpisane vrednosti.",
+            "Na računu 670 - Dobici od prodaje nematerijalne\r\nimovine, nekretnina, postrojenja i opreme, iskazuje se prihod od\r\nprodaje ovih oblika imovine u iznosu većem od neotpisane vrednosti.",
+            "Na računu 671 - Dobici od prodaje bioloških\r\nsredstava, iskazuje se prihod od prodaje bioloških sredstava u iznosu\r\nvećem od neotpisane vrednosti.",
+            "Na računu 672 - Dobici od prodaje učešća i hartija od\r\nvrednosti, iskazuje se više ostvaren iznos prihoda od prodaje učešća i\r\nhartija od vrednosti u odnosu na njihovu knjigovodstvenu vrednost.",
+            "Na računu 673 - Dobici od prodaje materijala,\r\niskazuje se više ostvaren iznos prihoda od prodaje materijala u odnosu\r\nna njegovu knjigovodstvenu vrednost.",
+            "Na računu 674 - Viškovi, iskazuju se viškovi\r\nsredstava koji se utvrde na osnovu redovnog ili vanrednog popisa.\r\nViškovi učinaka koji se evidentiraju na računima troškova i učinaka u\r\nklasi 9, knjiže se na računima te klase zaduženjem računa na kojima se\r\niskazuju ti učinci (računi grupa 91, 95 i 96) u korist računa 983. U\r\nfinansijskom knjigovodstvu viškovi učinaka knjiže se zaduženjem računa\r\n631 u korist računa 674.",
+            "Na računu 675 - Naplaćena otpisana potraživanja, iskazuju se prihodi po osnovu naplate direktno otpisanih potraživanja.",
+            "Na računu 676 - Prihodi po osnovu efekata ugovorene\r\nzaštite od rizika koji ne ispunjavaju uslove da se iskažu u okviru\r\nostalog rezultata, iskazuje se pozitivan efekat ugovorene\r\nrevalorizacije ili ostalih oblika ugovorene zaštite od rizika, osim\r\nefekata po osnovu valutne klauzule.",
+            "Na računu 677 - Prihodi od smanjenja obaveza,\r\niskazuje se smanjenje obaveza po osnovu zakona, vanparničnog poravnanja\r\ni sl., direktnim otpisivanjem, zaduženjem računa na kome je obaveza\r\niskazana.",
+            "Na računu 678 - Prihodi od ukidanja dugoročnih i\r\nkratkoročnih rezervisanja, iskazuje se ukidanje neiskorišćenih\r\ndugoročnih rezervisanja zaduženjem odgovarajućih računa grupe 40 i\r\nračuna 467.",
+            "Na računu 679 - Ostali nepomenuti prihodi, iskazuju\r\nse ostali nepomenuti prihodi za koje nije propisan poseban račun u\r\nokviru računa grupe 67."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_56"
+    },
+    {
+        "title": "Član 57",
+        "texts": [
+            "Na računima grupe 68 - Prihodi po osnovu usklađivanja\r\nvrednosti imovine, iskazuju se pozitivni efekti vrednosnih usklađivanja\r\nnematerijalnih ulaganja, nekretnina, postrojenja, opreme i bioloških\r\nsredstava, dugoročnih i kratkoročnih finansijskih plasmana, zaliha,\r\nhartija od vrednosti koje se vrednuju po fer vrednosti kroz ostali\r\nukupan rezultat, potraživanja, finansijskih derivata i finansijskih\r\nsredstava u skladu sa računovodstvenom politikom.",
+            "Na računima ove grupe iskazuje se i pozitivan efekat promene fer vrednosti sredstava, u skladu sa računovodstvenom politikom."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_57"
+    },
+    {
+        "title": "Član 58",
+        "texts": [
+            "Na računima grupe 69 - Dobitak poslovanja koje se\r\nobustavlja, efekti promene računovodstvene politike, ispravke grešaka\r\nranijih perioda i prenos prihoda, iskazuju se dobici prema nazivima\r\nračuna ove grupe i prenos ukupnih prihoda na kraju perioda.",
+            "Na računu 690 - Dobitak poslovanja koje se\r\nobustavlja, iskazuju se dobici organizacionih delova za koje je doneta\r\nodluka o obustavljanju poslovanja.",
+            "Na računu 691 - Prihodi od efekata promene\r\nračunovodstvenih politika, iskazuju se efekti promena računovodstvene\r\npolitike koji nisu materijalno značajni.",
+            "Na računu 692 - Prihodi po osnovu ispravki grešaka iz\r\nranijih godina koje nisu materijalno značajne, iskazuju se efekti\r\nispravke grešaka iz ranijih godina koje nisu materijalno značajne.",
+            "Na računu 699 - Prenos prihoda, iskazuje se prenos\r\nprihoda zaduženjem ovog računa u korist odgovarajućih računa grupe 71.\r\nNa kraju godine vrši se zaključivanje ovog računa njegovim odobrenjem,\r\na na teret pojedinih računa grupe 60 do 69, osim računa 699.",
+            "Klasa 7: Otvaranje i zaključak računa stanja i uspeha"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_58"
+    },
+    {
+        "title": "Član 59",
+        "texts": [
+            "Na računima grupe 70 - Otvaranje glavne knjige,\r\niskazuju se početna stanja pojedinih pozicija aktive i pasive na\r\npočetku svake nove poslovne godine ili u toku godine pri otpočinjanju\r\nposlovanja novog pravnog lica i preduzetnika.",
+            "Na računu 700 - Otvaranje glavne knjige finansijskog\r\nknjigovodstva, iskazuju se stanja početnih pozicija aktive i pasive na\r\npočetku svake nove poslovne godine ili u toku godine ili otpočinjanju\r\nposlovanja novog pravnog lica i preduzetnika. Otvaranje glavne knjige\r\nvrši se zaduženjem računa 700 u korist računa glavne knjige sa pasivnim\r\nsaldom, odnosno zaduženjem računa glavne knjige sa aktivnim početnim\r\nsaldom a odobrenjem računa 700."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_59"
+    },
+    {
+        "title": "Član 60",
+        "texts": [
+            "Na računima grupe 71 - Zaključak računa uspeha, na datum bilansa, iskazuje se zaključak računa rashoda i prihoda.",
+            "Na računu 710 - Rashodi i prihodi, iskazuje se\r\nzaključak računa rashoda i prihoda, osim dobitaka i gubitaka poslovanja\r\nkoje se obustavlja, zaduženjem ovog računa u korist računa 599, odnosno\r\nodobrenjem ovog računa na teret računa 699. Saldo računa 710 posle\r\nprenosa rashoda i prihoda prenosi se na račun 712.",
+            "Na računu 711 - Dobitak i gubitak poslovanja koje se\r\nobustavlja, iskazuje se zaključak računa, zaduženjem ovog računa u\r\nkorist računa 599, odnosno odobrenjem ovog računa na teret računa 699.\r\nSaldo računa 711 posle prenosa dobitka i gubitka poslovanja koje se\r\nobustavlja prenosi se na račun 712.",
+            "Na računu 712 - Prenos ukupnog rezultata, iskazuje se\r\nprenos dobitka na kraju izveštajnog perioda, zaduženjem ovog računa u\r\nkorist računa 720, odnosno zaduženjem računa 720 u korist ovog računa,\r\nako je ostvaren gubitak."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_60"
+    },
+    {
+        "title": "Član 61",
+        "texts": [
+            "Na računima grupe 72 - Račun dobitka i gubitka,\r\niskazuje se ostvareni dobitak ili gubitak na kraju izveštajnog perioda,\r\nporez na dobit, lična primanja poslodavca i prenos dobitka ili gubitka.",
+            "Na računu 720 - Dobitak ili gubitak, iskazuje se\r\nostvareni dobitak ili gubitak na kraju izveštajnog perioda odobrenjem\r\nili zaduženjem ovog računa na teret ili u korist računa 724.",
+            "Na računu 721 - Poreski rashod perioda, iskazuje se\r\nporeski rashod tekućeg perioda obračunat u skladu sa poreskim propisima\r\nzaduženjem ovog računa u korist računa 481 - Obaveze za porez iz\r\nrezultata.",
+            "Na računu 722 - Odloženi poreski rashodi i prihodi\r\nperioda, iskazuju se odloženi poreski rashodi i prihodi obračunati u\r\nskladu sa računovodstvenom politikom.",
+            "Na računu 723 - Lična primanja poslodavca, iskazuju\r\nse isplate ličnih primanja poslodavcu u društvima lica u toku godine.\r\nAko se iznos izvršenih isplata ne može pokriti iz ostvarenog dobitka,\r\nnepokriveni iznos se prenosi, na kraju izveštajnog perioda, na teret\r\nračuna 724.",
+            "Na računu 724 - Prenos dobitka ili gubitka, iskazuje\r\nse ostvareni dobitak ili gubitak na kraju izveštajnog perioda\r\nzaduženjem ili odobrenjem ovog računa u korist ili na teret računa 720,\r\n721, 722 i 723. Ostvareni dobitak koji nije raspoređen, na kraju\r\nizveštajnog perioda prenosi se zaduženjem računa 724 u korist računa\r\n341. Ostvareni gubitak na kraju izveštajnog perioda prenosi se na teret\r\nračuna 351, u korist računa 724.",
+            "U pravnom licu sa statusom društva lica u narednoj\r\ngodini ostvareni dobitak se pripisuje kapitalu ako je tako ugovorom\r\nutvrđeno, odnosno iskazuje kao obaveza za isplatu prema vlasnicima, a\r\nza iznos gubitka umanjuje se kapital po godišnjem bilansu."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_61"
+    },
+    {
+        "title": "Član 62",
+        "texts": [
+            "Na računima grupe 73 - Zaključak računa stanja, na datum bilansa, iskazuje se zaključak računa aktive i pasive Bilansa stanja.",
+            "Na računu 730 - Izravnanje računa stanja, iskazuje se\r\nzaključak računa glavne knjige finansijskog knjigovodstva zaduženjem\r\novog računa u korist računa aktive, odnosno odobrenjem ovog računa na\r\nteret računa pasive. Evidentiranje na računu 730 vrši se po pojedinim\r\npozicijama Bilansa stanja. Po izvršenom zaključku svih računa glavne\r\nknjige na ovom računu zbir dugovne i potražne strane je jednak."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_62"
+    },
+    {
+        "title": "Član 63",
+        "texts": [
+            "Na računima grupe 74 - Slobodna grupa, pravna lica i\r\npreduzetnici mogu otvarati posebne osnovne račune prema sopstvenim\r\npotrebama.",
+            "Klasa 8: Vanbilansna evidencija"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_63"
+    },
+    {
+        "title": "Član 64",
+        "texts": [
+            "Na računima grupe 88 - Vanbilansna aktiva, iskazuju\r\nse preuzeti proizvodi i roba za zajedničko poslovanje, komisiona roba,\r\nroba u konsignaciji, materijal i roba primljeni na obradu i doradu,\r\nsredstva uzeta u zakup po osnovu ugovora o poslovnom lizingu, data\r\njemstva, garancije i druga prava i ostala sredstva koja nisu u\r\nvlasništvu pravnog lica i preduzetnika.",
+            "Na računima ove grupe iskazuju se i hartije od\r\nvrednosti koje su van prometa, avali, garancije i druga jemstva, kao i\r\nimovina koja se nalazi kod drugih subjekata."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_64"
+    },
+    {
+        "title": "Član 65",
+        "texts": [
+            "Na računima grupe 89 - Vanbilansna pasiva, iskazuju se obaveze po osnovu sredstava iskazanih na računima grupe 88.",
+            "Klasa 9: Obračun troškova i učinaka"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_65"
+    },
+    {
+        "title": "Član 66",
+        "texts": [
+            "Pravna lica i preduzetnici koji obavljaju proizvodnu\r\ndelatnost u klasi 9 obavezno vode osnovne račune 900, 902, grupe računa\r\n95 i 96 i račune 980, 982 i 983.",
+            "Ostale račune predviđene u klasi 9, lica iz stava 1.\r\novog člana vode u skladu sa svojim potrebama i načinom obračuna\r\ntroškova i učinaka.",
+            "Pravna lica i preduzetnici koji ne obavljaju proizvodnu delatnost nisu obavezni da vode evidenciju u okviru računa klase 9."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_66"
+    },
+    {
+        "title": "Član 67",
+        "texts": [
+            "Na računima grupe 90 - Računi odnosa s finansijskim\r\nknjigovodstvom, iskazuje se preuzimanje zaliha, preuzimanje nabavke\r\nmaterijala i robe, preuzimanje troškova i preuzimanje prihoda.",
+            "Na računu 900 - Račun za preuzimanje zaliha, na\r\npočetku poslovne godine, iskazuje se preuzimanje zaliha materijala,\r\nnedovršene proizvodnje, gotovih proizvoda i robe zaduženjem računa\r\ngrupe 91, 95 i 96 u korist ovog računa. Preuzete zalihe na ovom računu\r\niskazuju se u iznosu koji je iskazan u finansijskom knjigovodstvu na\r\nračunima grupe 10, 11, 12 i 13.",
+            "Na računu 901 - Račun za preuzimanje nabavke\r\nmaterijala i robe, iskazuje se nabavka materijala i robe kada se\r\nstanje, nabavka, trošenje i prodaja tih zaliha vodi na računima 910,\r\n911 i 912 u okviru klase 9. Za preuzetu nabavku zadužuju se računi 910,\r\n911 i 912 u korist računa 901.",
+            "Na računu 902 - Račun za preuzimanje troškova,\r\niskazuju se troškovi koji su u finansijskom knjigovodstvu evidentirani\r\nna računima grupe 51 do 55, kao i troškovi finansiranja koji se\r\nzaduženjem odgovarajućih računa grupa 92, 93 i 94, ako se troškovi vode\r\npo mestima troškova, a na teret računa grupe 95 i računa 982, ako se\r\ntroškovi ne vode po mestima troškova.",
+            "Na računu 902 ne evidentira se preuzimanje troškova\r\nmaterijala kada se evidencija o stanju, nabavci i trošenju materijala\r\nvodi na računu 910, jer se u tom slučaju trošenje materijala evidentira\r\nna potražnoj strani računa 910, uz zaduženje odgovarajućih računa mesta\r\ntroškova i nosilaca (računi grupa 92, 93, 94 i 95), odnosno na teret\r\nračuna grupe 95 i računa 982, ako se troškovi materijala ne vode po\r\nmestima troškova.",
+            "Na računu 903 - Račun za preuzimanje vrednosti zaliha\r\npoljoprivrednih proizvoda koji se odmeravaju po fer vrednosti, iskazuju\r\nse poljoprivredni proizvodi koji se na dan ubiranja, odnosno žetve\r\nodmeravaju se po fer vrednosti umanjenoj za troškove prodaje.",
+            "Na računu 904 - Račun za preuzimanje prihoda,\r\niskazuje se preuzimanje poslovnih prihoda koji su evidentirani u\r\nfinansijskom knjigovodstvu, a koji se u posebnom knjigovodstvu obračuna\r\ntroškova i učinaka evidentiraju u korist računa 986, 987, 988 i 989."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_67"
+    },
+    {
+        "title": "Član 68",
+        "texts": [
+            "Na računima grupe 91 - Materijal i roba, iskazuju se\r\nzalihe materijala, robe i proizvoda i robe u prodavnicama proizvođača,\r\nkada se evidencija o stanju, nabavci, trošenju i prodaji tih zaliha\r\nvodi na računima ove grupe u okviru posebnog knjigovodstva obračuna\r\ntroškova i učinaka.",
+            "Kada se evidencija o stanju, nabavci, trošenju i\r\nprodaji zaliha materijala i robe vodi u finansijskom knjigovodstvu na\r\nračunima grupa 10 i 13, na računima grupe 91 ne vrši se evidentiranje.",
+            "Na računu 910 - Materijal, odnosno na posebnim\r\nanalitičkim računima u okviru ovog računa iskazuje se evidencija o\r\nstanju, nabavci i trošenju zaliha sirovina, osnovnog i pomoćnog\r\nmaterijala, ostalog materijala, goriva i maziva, alata i inventara koji\r\nse u celini otpisuju u obračunskom periodu (kao što su sitan inventar,\r\nauto-gume i ambalaža, ako se u celini otpisuju u obračunskom periodu).\r\nNa posebnim analitičkim računima u okviru ovog računa vode se\r\nodstupanja od planskih nabavnih cena, ispravka vrednosti i\r\nrevalorizacija zaliha. Preuzimanje početnog stanja materijala\r\nevidentira se zaduženjem računa 910 u korist računa 900, a nabavka u\r\nkorist računa 901.",
+            "Ako se podaci o stanju, nabavci i trošenju materijala\r\nvode na računu 910, nabavka materijala u finansijskom knjigovodstvu\r\nevidentira se zaduženjem računa 510, u korist odgovarajućeg računa\r\ngrupe 43. U tom slučaju, na osnovu izveštaja iz obračuna troškova i\r\nučinaka (pogonskog obračuna) o promeni stanja zaliha na datum bilansa,\r\nu finansijskom knjigovodstvu ova promena evidentira se na računima\r\ngrupe 10 i računu 510.",
+            "Utrošeni materijal evidentira se zaduženjem računa\r\ngrupe 92, 93, 94 i 95, a za prodat materijal zaduženjem računa 991, za\r\nmanjkove računa 992, za otpise računa 993, a sve u korist računa 910.\r\nZa viškove materijala zadužuje se račun 910, a odobrava 994.",
+            "Za izlaz materijala vrši se evidentiranje i u klasi\r\n5, zaduženjem računa 511, 512, 513, 514, 515, 573, 575, 576, a u korist\r\nračuna 510, a za viškove zaduženjem računa 510 u korist računa 674.",
+            "Na računu 911 - Roba, na posebnim analitičkim\r\nračunima, iskazuje se vrednost zaliha robe u skladištu i stovarištu na\r\nveliko, u prodavnicama i drugim maloprodajnim objektima, u obradi,\r\ndoradi i manipulaciji, kao i ukalkulisani PDV i razlika u ceni robe.",
+            "Preuzimanje početnog stanja robe evidentira se\r\nzaduženjem računa 911 u korist računa 900, a nabavka u korist računa\r\n901. Prodaja robe evidentira se zaduženjem računa 981, u korist računa\r\n911.",
+            "Ako pravno lice i preduzetnik odluči da stanje,\r\nnabavku i prodaju robe vodi na računu 911, u okviru klase 9, na\r\nračunima grupe 13, vodi se samo početno stanje zaliha robe i promene\r\nvrednosti tih zaliha na datum bilansa.",
+            "Ako se podaci o stanju, nabavci i prodaji robe vode\r\nna računu 911, nabavka robe u finansijskom knjigovodstvu evidentira se\r\nzaduženjem računa 500, u korist odgovarajućeg računa grupe 43. U tom\r\nslučaju, na osnovu izveštaja iz obračuna troškova i učinaka (pogonskog\r\nobračuna) o promeni stanja zaliha na datum bilansa u finansijskom\r\nknjigovodstvu ta promena evidentira se zaduženjem ili odobrenjem računa\r\ngrupe 13 i obrnutim evidentiranjem na računu 500.",
+            "Na računu 912 - Proizvodi i roba u prodavnicama\r\nproizvođača, na posebnim analitičkim računima, iskazuje se vrednost\r\nzaliha proizvoda i robe u prodavnicama i drugim maloprodajnim objektima\r\nproizvođačkih pravnih lica i preduzetnika, kao i ukalkulisani PDV i\r\nrazlika u ceni robe.",
+            "Pravna lica i preduzetnici koji obavljaju proizvodnu\r\ndelatnost koja na računu 912, vode evidenciju o stanju, ulazu, nabavci\r\ni prodaji zaliha proizvoda i robe, na računima grupe 13, vode\r\nevidenciju o početnom stanju zaliha robe i promene vrednosti na datum\r\nbilansa.",
+            "Izuzetno od stava 12. ovog člana, pravna lica i\r\npreduzetnici koji obavljaju proizvodnu delatnost i koja vrše prodaju\r\nproizvoda i robe u sopstvenim maloprodajnim objektima, mogu vršiti\r\nprenos zaliha sopstvenih proizvoda na račun 134, zaduženjem tog računa\r\nu korist računa 621. Na računima klase 9, taj prenos evidentira se\r\nzaduženjem računa 980, u korist računa grupe 96. U tom slučaju, na\r\nkraju godine zalihe gotovih proizvoda koje su prenete na robu svode se\r\nna cenu koštanja ili neto prodajnu cenu ako je niža u skladu sa\r\nračunovodstvenom politikom.",
+            "Preuzimanje početnog stanja proizvoda i robe\r\nevidentira se zaduženjem računa 912, u korist računa 900. Nabavke robe\r\nu toku perioda evidentiraju se zaduženjem računa 912, u korist računa\r\n901. Prijem sopstvenih proizvoda u prodavnicu u toku perioda evidentira\r\nse zaduženjem računa 912, u korist računa grupe 96.",
+            "Prodaja proizvoda i robe iz sopstvenih prodavnica evidentira se zaduženjem računa 981 i računa 980, u korist računa 912."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_68"
+    },
+    {
+        "title": "Član 69",
+        "texts": [
+            "Na računima grupe 92 - Računi mesta troškova nabavke,\r\ntehničke uprave i pomoćnih delatnosti, odnosno na posebnim osnovnim\r\nračunima koje pravno lice i preduzetnik otvori u okviru računa ove\r\ngrupe, posle evidentiranja u finansijskom knjigovodstvu, iskazuju se\r\nodgovarajući troškovi u korist računa 902, odnosno u korist računa 910.\r\nkada se zalihe materijala vode na ovom računu."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_69"
+    },
+    {
+        "title": "Član 70",
+        "texts": [
+            "Na računima grupe 93 - Računi glavnih proizvodnih\r\nmesta troškova, odnosno na posebnim osnovnim računima koje pravno lice\r\ni preduzetnik otvori u okviru računa ove grupe, posle evidentiranja u\r\nfinansijskom knjigovodstvu, iskazuju se odgovarajući troškovi u korist\r\nračuna 902, odnosno u korist računa 910, kada se zalihe materijala vode\r\nna ovom računu."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_70"
+    },
+    {
+        "title": "Član 71",
+        "texts": [
+            "Na računima grupe 94 - Računi mesta troškova uprave,\r\nprodaje i sličnih aktivnosti, odnosno na posebnim osnovnim računima\r\nkoje pravno lice i preduzetnik otvori u okviru računa ove grupe, posle\r\nevidentiranja u finansijskom knjigovodstvu, iskazuju se odgovarajući\r\ntroškovi u korist računa 902, odnosno u korist računa 910, kada se\r\nzalihe materijala vode na ovom računu."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_71"
+    },
+    {
+        "title": "Član 72",
+        "texts": [
+            "Na računima grupe 95 - Nosioci troškova, iskazuju se\r\npočetno stanje nosioca troškova, direktni troškovi koji se na osnovu\r\ndokumentacije mogu povezati za pojedine učinke i indirektni troškovi\r\nkoji se na osnovu odgovarajućih ključeva za raspodelu alociraju na\r\nučinke.",
+            "Preuzimanje početnog stanja nosioca troškova evidentira se zaduženjem računa 950 do 956 u korist računa 900.",
+            "Na računu 950 do 956 - Nosioci troškova, iskazuju se\r\ndirektni i indirektni troškovi zaduženjem pojedinih računa nosilaca\r\ntroškova u korist računa 902 i 910, odnosno u korist računa grupe 93.",
+            "Na računu 957 - Nedovršeni poljoprivredni proizvodi\r\nkoji se odmeravaju po fer vrednosti, iskazuju se neubrani proizvodi od\r\nbioloških sredstava pravnog lica koji se pouzdano mogu odmeriti po fer\r\nvrednosti umanjenoj za troškove prodaje u momentu ubiranja.",
+            "Na računu 958 - Poluproizvodi sopstvene proizvodnje,\r\niskazuju se poluproizvodi po ceni koštanja zaduženjem pojedinih računa\r\npoluproizvoda sopstvene proizvodnje u korist računa 950 do 957. Utrošak\r\npoluproizvoda iskazuje se odobrenjem računa 958 na teret računa grupe\r\n93 ili na računima 950 do 957.",
+            "Na računu 959 - Odstupanja u troškovima nosilaca\r\ntroškova, iskazuje se razlika između cena po kojima se vode zalihe\r\nnedovršenih učinaka i cena koštanja tih zaliha."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_72"
+    },
+    {
+        "title": "Član 73",
+        "texts": [
+            "Na računima grupe 96 - Gotovi proizvodi, iskazuju se\r\ngotovi proizvodi po ceni koštanja i odstupanja u troškovima gotovih\r\nproizvoda.",
+            "Preuzimanje početnog stanja gotovih proizvoda evidentira se zaduženjem računa 960 do 968, a u korist računa 900.",
+            "Na računu 960 do 967 - Gotovi proizvodi, iskazuju se\r\ngotovi proizvodi po ceni koštanja zaduženjem pojedinih računa gotovih\r\nproizvoda u korist računa grupe 95.",
+            "Na računu 968 - Gotovi poljoprivredni proizvodi koji\r\nse odmeravaju po fer vrednosti, iskazuju se ubrani proizvodi od\r\nbioloških sredstava pravnog lica koji se odmeravaju po fer vrednosti\r\numanjenoj za troškove prodaje u momentu ubiranja.",
+            "Na računu 969 - Odstupanja u troškovima gotovih\r\nproizvoda, iskazuje se razlika između cena po kojima se vode zalihe\r\nučinaka gotovih proizvoda i cena koštanja tih zaliha."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_73"
+    },
+    {
+        "title": "Član 74",
+        "texts": [
+            "Na računima grupe 97 - Slobodna grupa, pravna lica i\r\npreduzetnici mogu otvarati posebne osnovne račune prema sopstvenim\r\npotrebama."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_74"
+    },
+    {
+        "title": "Član 75",
+        "texts": [
+            "Na računima grupe 98 - Rashodi i prihodi, iskazuju se\r\ntroškovi prodatih proizvoda i usluga, nabavna vrednost prodate robe,\r\ntroškovi perioda, otpisi, manjkovi, obezvređenje i viškovi zaliha\r\nučinaka, ostali rashodi i prihodi po osnovu prodaje proizvoda i usluga,\r\nprihodi od prodaje robe i ostali prihodi.",
+            "Na računu 980 - Troškovi prodatih proizvoda i usluga,\r\niskazuje se vrednost prodatih proizvoda i usluga po stvarnim\r\ntroškovima, zaduženjem ovog računa u korist računa grupa 95 i 96.",
+            "Na teret ovog računa evidentira se i vrednost\r\nsopstvenih učinaka upotrebljenih za nematerijalnu imovinu, nekretnine,\r\npostrojenja i opremu, materijal i rezervne delove, biološka sredstva i\r\nsopstveni transport nabavke materijala i robe, uključujući i troškove\r\nutovara, istovara i sl.",
+            "Na računu 981 - Nabavna vrednost prodate robe, iskazuje se nabavna vrednost prodate robe u korist računa 911 i 912.",
+            "Na računu 982 - Troškovi perioda, iskazuju se\r\ntroškovi koji se ne uključuju u cenu koštanja zaliha nedovršene\r\nproizvodnje i gotovih proizvoda, već se direktno naknađuju na teret\r\nprihoda izveštajnog perioda.",
+            "Na računu 983 - Otpisi, manjkovi i viškovi zaliha\r\nučinaka, iskazuje se vrednost otpisa, manjkova i viškova zaliha\r\nnedovršene proizvodnje i gotovih proizvoda.",
+            "Otpisi i manjkovi evidentiraju se zaduženjem računa\r\n983 u korist računa grupe 95 i 96, a viškovi se evidentiraju zaduženjem\r\nračuna grupe 95 i 96 u korist računa 983.",
+            "Na ovom računu iskazuju se i gubici od obezvređenja zaliha nedovršene proizvodnje i gotovih proizvoda.",
+            "Na računu 984 - Realizovani poljoprivredni proizvodi\r\nkoji se odmeravaju po fer vrednosti, iskazuje se vrednost prodatih\r\npoljoprivrednih proizvoda koji se odmeravaju po fer vrednosti.",
+            "Na računu 985 - Slobodan račun, pravna lica i preduzetnici mogu otvarati posebne osnovne račune prema svojim potrebama.",
+            "Na računu 986 - Prihodi po osnovu proizvoda i usluga,\r\niskazuju se prihodi ostvareni od prodaje proizvoda i usluga na domaćem\r\ni stranom tržištu.",
+            "Na računu 987 - Prihodi po osnovu robe, iskazuju se prihodi ostvareni od prodaje robe na domaćem i inostranom tržištu.",
+            "Na računu 988 - Slobodan račun, pravna lica i\r\npreduzetnici mogu otvarati posebne osnovne račune prema sopstvenim\r\npotrebama za iskazivanje na pojedine vrste prihoda.",
+            "Na računu 989 - Drugi prihodi, iskazuju se drugi prihodi koji nisu iskazani drugim računima u okviru računa grupe 98."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_75"
+    },
+    {
+        "title": "Član 76",
+        "texts": [
+            "Na računima grupe 99 - Računi dobitka, gubitka i\r\nzaključka, iskazuju se poslovni dobitak i gubitak, gubitak i dobitak po\r\nosnovu prodaje materijala, manjkovi, otpisi i viškovi materijala i\r\nrobe, zaključak obračuna troškova i učinaka.",
+            "Na računu 990 - Poslovni dobitak i gubitak, iskazuje\r\nse poslovni dobitak ili gubitak koji se utvrđuje tako što se na teret\r\nračuna 990 prenose poslovni rashodi odobrenjem računa 980, 981, 982 i\r\n983. U korist računa 990 prenose se poslovni prihodi zaduženjem računa\r\n986, 987, 988 i 989.",
+            "Na računu 991 - Gubitak i dobitak po osnovu prodaje\r\nmaterijala, iskazuju se gubici od prodaje materijala zaduženjem ovog\r\nračuna, a dobici od prodaje materijala odobrenjem ovog računa.",
+            "Na računu 992 - Manjkovi materijala i robe, iskazuju\r\nse manjkovi materijala i robe zaduženjem ovog računa u korist računa\r\n910 i 911.",
+            "Na računu 993 - Otpisi materijala i robe, iskazuju se\r\notpisi materijala i robe zaduženjem ovog računa u korist računa 910,\r\n911 i deo računa 912.",
+            "Na računu 994 - Viškovi materijala i robe, iskazuju\r\nse viškovi materijala i robe zaduženjem računa 910, 911 i deo računa\r\n912 u korist ovog računa.",
+            "Na računu 999 - Zaključak obračuna troškova i\r\nučinaka, na datum bilansa, iskazuje se zaključak računa obračuna\r\ntroškova i učinaka zaduženjem računa 999 u korist računa koji imaju\r\ndugovni saldo i zaduženjem računa koji imaju potražni saldo u korist\r\nračuna 999.",
+            "III PRIZNAVANJE I MERENJE U SLUČAJU STEČAJA I LIKVIDACIJE"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_76"
+    },
+    {
+        "title": "Član 77",
+        "texts": [
+            "Pri sastavljanju finansijskih izveštaja na dan koji\r\nprethodi danu otvaranja, odnosno danu zaključenja postupka stečaja i\r\nlikvidacije, kao i u slučajevima kada se u toku trajanja tih postupaka\r\nsastavljaju godišnji finansijski izveštaji, pravna lica i preduzetnici\r\nprimenjuju odredbe ovog pravilnika, s tim što vrednovanje imovine koja\r\nčini stečajnu masu vrše u visini očekivanog unovčenja u skladu sa\r\npropisima kojima se uređuju stečaj i likvidacija pravnih lica.",
+            "IV PRELAZNE I ZAVRŠNE ODREDBE"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_77"
+    },
+    {
+        "title": "Član 78",
+        "texts": [
+            "Pravna lica i preduzetnici vrše preknjižavanje sa\r\nračuna Kontnog okvira propisanih Pravilnikom o Kontnom okviru i\r\nsadržini računa u Kontnom okviru za privredna društva, zadruge i\r\npreduzetnike (\"Službeni glasnik RS\", broj 95/14) na račune Kontnog\r\nokvira koji su propisani ovim pravilnikom na osnovu Uporednog pregleda\r\nza preknjižavanje sa računa prethodnog Kontnog okvira na račune novog\r\nKontnog okvira, koji je odštampan uz ovaj pravilnik i čini njegov\r\nsastavni deo."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_78"
+    },
+    {
+        "title": "Član 79",
+        "texts": [
+            "Odredbe ovog pravilnika primenjuju se počev od finansijskih izveštaja koji se sastavljaju na dan 31. decembra 2021. godine.",
+            "Danom početka primene ovog pravilnika prestaje da\r\nvaži Pravilnik o Kontnom okviru i sadržini računa u Kontnom okviru za\r\nprivredna društva, zadruge i preduzetnike (\"Službeni glasnik RS\", broj\r\n95/14).",
+            "Pravna lica i preduzetnici koji imaju poslovnu godinu\r\nrazličitu od kalendarske, a koja se završava pre 31. decembra 2021.\r\ngodine, kao i pravna lica i preduzetnici koji sastavljaju vanredne\r\nfinansijske izveštaje pre 31. decembra 2021. godine, za tu poslovnu\r\ngodinu, odnosno za te vanredne finansijske izveštaje, primenjuju\r\nPravilnik o Kontnom okviru i sadržini računa u Kontnom okviru za\r\nprivredna društva, zadruge i preduzetnike (\"Službeni glasnik RS\", broj\r\n95/14)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_79"
+    },
+    {
+        "title": "Član 80",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u \"Službenom glasniku Republike Srbije\"."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-kontnom-okviru-sadrzini-racuna-za-privredna-drustva-zadruge.html#clan_80"
+    }
+]

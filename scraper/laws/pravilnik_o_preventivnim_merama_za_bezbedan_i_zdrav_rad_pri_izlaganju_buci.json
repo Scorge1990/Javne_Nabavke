@@ -1,0 +1,337 @@
+[
+    {
+        "title": "Član 1",
+        "texts": [
+            "Ovim pravilnikom propisuju se minimalni zahtevi koje je poslodavac dužan da ispuni u obezbeđivanju primene preventivnih mera sa ciljem otklanjanja ili svođenja na najmanju moguću meru rizika od nastanka povrede ili oštećenja zdravlja zaposlenih koji nastaju ili mogu da nastanu pri izlaganju buci, a naročito rizika od nastanka oštećenja sluha, zahtevi koje su dužni da ispune pravna lica sa licencom za obavljanje poslova ispitivanja uslova radne okoline u postupku preventivnih i periodičnih ispitivanja uslova radne okoline, granične vrednosti izloženosti buci, akcione vrednosti izloženosti buci i vršne vrednosti zvučnog pritiska."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_preventivnim_merama_za_bezbedan_i_zdrav_rad_pri_izlaganju_buci.html#clan_1"
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Ovaj pravilnik se primenjuje na radnim mestima na kojima se obavljaju poslovi pri kojima zaposleni jesu ili mogu biti izloženi buci."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_preventivnim_merama_za_bezbedan_i_zdrav_rad_pri_izlaganju_buci.html#clan_2"
+    },
+    {
+        "title": "Član 3",
+        "texts": [
+            "Fizički parametri koji se koriste u postupku procene rizika usled izlaganja buci jesu:",
+            "1) vršna vrednost zvučnog pritiska (ppeak) - jeste maksimalna vrednost \"C\" frekvencijski ponderisanog trenutnog zvučnog pritiska;",
+            "2) nivo dnevne izloženosti buci LA,EX,8h(dB(A) u odnosu na referentnu vrednost od 20µPa) jeste vremenski ponderisana srednja vrednost nivoa izloženosti buci za osmočasovno radno vreme, koji se izračunava na način propisan ovim pravilnikom. Nivo dnevne izloženosti buci obuhvata svu buku prisutnu na radnom mestu uključujući i impulsnu buku;",
+            "3) nivo nedeljne izloženosti buci LA,EX,8hjeste vremenski ponderisana srednja vrednost nivoa izloženosti buci za radnu nedelju od pet osmočasovnih radnih dana, koji se izračunava na način propisan ovim pravilnikom.",
+            "Način izračunavanja nivoa dnevne i nedeljne izloženosti buci odštampan je uz ovaj pravilnik i čini njegov sastavni deo."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_preventivnim_merama_za_bezbedan_i_zdrav_rad_pri_izlaganju_buci.html#clan_3"
+    },
+    {
+        "title": "Član 4",
+        "texts": [
+            "Granične vrednosti izloženosti za nivo dnevne izloženosti buci, akcione vrednosti izloženosti za nivo dnevne izloženosti buci i vršne vrednosti zvučnog pritiska jesu:",
+            "1) granične vrednosti izloženosti buci jesu LA,EX,8h= 85 dB(A) i ppeak= 140 Pa (137 dB(C) u odnosu na referentnu vrednost od 20 µPa);",
+            "2) gornje akcione vrednosti izloženosti buci jesu LA,EX,8h= 83 dB(A) i ppeak= 126 Pa (136 dB(C) u odnosu na referentnu vrednost od 20 µPa);",
+            "3) donje akcione vrednosti izloženosti buci jesu LA,EX,8h= 80 dB(A) i ppeak= 112 Pa (135 dB(C) u odnosu na referentnu vrednost od 20 µPa)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_preventivnim_merama_za_bezbedan_i_zdrav_rad_pri_izlaganju_buci.html#clan_4"
+    },
+    {
+        "title": "Član 5",
+        "texts": [
+            "Prilikom utvrđivanja efektivne izloženosti zaposlenog buci, u odnosu na granične vrednosti izloženosti buci, uzima se u obzir smanjenje izloženosti usled korišćenja sredstava i opreme za zaštitu sluha.",
+            "Prilikom utvrđivanja efektivne izloženosti zaposlenog buci, u odnosu na akcione vrednosti izloženosti buci, ne uzima se u obzir smanjenje izloženosti usled korišćenja sredstava i opreme za zaštitu sluha."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_preventivnim_merama_za_bezbedan_i_zdrav_rad_pri_izlaganju_buci.html#clan_5"
+    },
+    {
+        "title": "Član 6",
+        "texts": [
+            "Za aktivnosti, kada dnevni nivo izloženosti na radnim mestima značajno varira od jednog do drugog radnog dana, u cilju primene graničnih vrednosti izloženosti i akcionih vrednosti izloženosti, mogu se koristiti nedeljni nivoi izloženosti buci umesto dnevnih nivoa izloženosti buci za procenu nivoa buke kojoj su zaposleni izloženi, pod uslovom da:",
+            "1) nedeljni nivo izloženosti buci ne prekoračuje graničnu vrednost izloženosti buci od 85 dB(A);",
+            "2) se preduzimaju odgovarajuće preventivne mere za smanjenje rizika usled izloženosti buci u skladu sa poslovima koji se obavljaju."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_preventivnim_merama_za_bezbedan_i_zdrav_rad_pri_izlaganju_buci.html#clan_6"
+    },
+    {
+        "title": "Član 6a",
+        "texts": [
+            "Rad je ometan bukom ako su pri poslovima karakterističnim za radno mesto prekoračeni maksimalno dozvoljeni ekvivalentni nivoi buke za neometan rad kod pojedinih vrsta poslova (Prilog 2.).",
+            "Prilikom utvrđivanja ispunjenosti zahteva iz stava 1. ovog člana određuju se na radnom mestu ekvivalentni nivoi buke u trajanju od 15 minuta.",
+            "Maksimalno dozvoljeni ekvivalentni nivoi buke za neometan rad kod pojedinih vrsta poslova (Prilog 2.) odštampan je uz ovaj pravilnik i čini njegov sastavni deo."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_preventivnim_merama_za_bezbedan_i_zdrav_rad_pri_izlaganju_buci.html#clan_6a"
+    },
+    {
+        "title": "Član 7",
+        "texts": [
+            "Pravno lice sa licencom za obavljanje poslova ispitivanja uslova radne okoline dužno je da preventivna i periodična ispitivanja uslova radne okoline obavlja u skladu sa standardom ISO 9612 i pri tome je dužno da koristi odgovarajuće instrumente i uređaje.",
+            "Pravno lice sa licencom za obavljanje poslova ispitivanja uslova radne okoline dužno je da koristi metodologiju koja obuhvata uzimanje uzoraka koji moraju biti reprezentativni za ličnu izloženost zaposlenog.",
+            "Pravno lice sa licencom za obavljanje poslova ispitivanja uslova radne okoline dužno je da uzme u obzir merne nesigurnosti u skladu sa metrološkom praksom.",
+            "II. Obaveze poslodavca"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_preventivnim_merama_za_bezbedan_i_zdrav_rad_pri_izlaganju_buci.html#clan_7"
+    },
+    {
+        "title": "Član 8",
+        "texts": [
+            "Poslodavac je dužan da u postupku procene rizika od nastanka povrede ili oštećenja zdravlja usled izloženosti zaposlenih buci proceni nivo buke, kao i da ukoliko je potrebno obezbedi da se izvrši merenje nivoa buke."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_preventivnim_merama_za_bezbedan_i_zdrav_rad_pri_izlaganju_buci.html#clan_8"
+    },
+    {
+        "title": "Član 9",
+        "texts": [
+            "Poslodavac je dužan da na osnovu utvrđenih štetnosti koje nastaju usled izloženosti zaposlenih buci angažuje pravno lice sa licencom radi sprovođenja preventivnih i periodičnih ispitivanja uslova radne okoline."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_preventivnim_merama_za_bezbedan_i_zdrav_rad_pri_izlaganju_buci.html#clan_9"
+    },
+    {
+        "title": "Član 10",
+        "texts": [
+            "Poslodavac je dužan da u postupku procene rizika koji se javlja usled izloženosti zaposlenih buci naročito uzme u obzir:",
+            "1) nivo, vrstu i trajanje izloženosti, uključujući i izloženost impulsnoj buci;",
+            "2) granične vrednosti i akcione vrednosti izloženosti buci;",
+            "3) aktivnosti koje mogu uticati na bezbednost i zdravlje zaposlenih koji pripadaju osetljivim grupama sa aspekta bezbednosti i zdravlja na radu;",
+            "4) uticaje na bezbednost i zdravlje zaposlenih koji proizilaze iz interakcije između buke i ototoksičnih supstanci i između buke i vibracija;",
+            "5) posredni uticaj na bezbednost i zdravlje zaposlenih koji je rezultat interakcije između buke i zvučnog signala, govorne komunikacije ili drugog zvuka koji zaposleni treba da čuje sa ciljem da se smanji rizik od nastanka povrede ili oštećenja zdravlja;",
+            "6) podatke o emisiji buke koji su dobijeni od proizvođača opreme za rad u skladu sa posebnim propisima;",
+            "7) drugu opremu za rad koja je projektovana za smanjenje emisije buke;",
+            "8) produženu izloženost buci za koju je odgovoran poslodavac;",
+            "9) informacije o rezultatima dobijenim na osnovu praćenja zdravstvenog stanja;",
+            "10) dostupnost sredstava i opreme za zaštitu sluha sa odgovarajućim prigušujućim delovanjem."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_preventivnim_merama_za_bezbedan_i_zdrav_rad_pri_izlaganju_buci.html#clan_10"
+    },
+    {
+        "title": "Član 11",
+        "texts": [
+            "Poslodavac je dužan da za sva radna mesta u radnoj okolini, na kojima jesu ili mogu biti izloženi buci izvrši procenu rizika od nastanka povređivanja i oštećenja zdravlja zaposlenih, odnosno da izvrši delimičnu izmenu i dopunu akta o proceni rizika ukoliko:",
+            "1) je procena rizika izvršena tako da nisu evidentirani i procenjeni svi faktori rizika koji nastaju usled izlaganja zaposlenih buci;",
+            "2) je došlo do promene u obavljanju poslova, odnosno pojave novih opasnosti i štetnosti ili",
+            "3) je to potrebno na osnovu rezultata dobijenih na osnovu praćenja zdravstvenog stanja.",
+            "Poslodavac je dužan da aktom o proceni rizika utvrdi koje mere će preduzeti u skladu sa odredbama čl. 12-19. ovog pravilnika."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_preventivnim_merama_za_bezbedan_i_zdrav_rad_pri_izlaganju_buci.html#clan_11"
+    },
+    {
+        "title": "Član 12",
+        "texts": [
+            "Poslodavac je dužan da uzimajući u obzir savremena tehnička rešenja i dostupnost mera za kontrolu rizika na njegovom izvoru, polazeći od načela primene preventivnih mera, rizik koji nastaje usled izloženosti zaposlenih buci otkloni ili da ih smanji na najmanju moguću meru i pri tome je dužan da uzme u obzir:",
+            "1) druge metode rada čijom primenom se smanjuje izloženost buci;",
+            "2) izbor odgovarajuće opreme za rad koja s obzirom na poslove koje zaposleni obavlja emituje najmanju moguću buku, uključujući i mogućnost da se zaposlenom stave na raspolaganje druga oprema za rad sa ciljem da se ograniči ili smanji izloženost buci;",
+            "3) projektovanje i raspored radnih mesta;",
+            "4) informisanje i osposobljavanje zaposlenih za bezbedan i zdrav rad sa ciljem da se zaposleni upoznaju sa pravilnim korišćenjem opreme za rad kako bi se njihova izloženost buci svela na najmanju moguću meru;",
+            "5) smanjenje buke primenom tehničkih sredstava, i to:",
+            "(1) smanjenje buke u vazduhu paravanima, kabinama i zvučno-apsorpcionim oblogama,",
+            "(2) smanjenje buke nastale u konstrukcijama prigušenjem ili izolacijom;",
+            "6) odgovarajuće programe održavanja radnog mesta i opreme za rad;",
+            "7) smanjenje izloženosti buci primenom organizacionih mera, i to:",
+            "(1) ograničavanje trajanja i intenziteta izloženosti,",
+            "(2) raspored rada koji sadrži odgovarajuće vreme odmora."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_preventivnim_merama_za_bezbedan_i_zdrav_rad_pri_izlaganju_buci.html#clan_12"
+    },
+    {
+        "title": "Član 13",
+        "texts": [
+            "Poslodavac je dužan da, ukoliko se u postupku procene rizika utvrdi da su gornje akcione vrednosti izloženosti buci prekoračene, aktom o proceni rizika utvrdi tehničke i/ili organizacione mere čija primena treba da obezbedi smanjenje izloženosti zaposlenih buci i pri tome je dužan da naročito uzme u obzir mere koje su navedene u članu 12. ovog pravilnika."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_preventivnim_merama_za_bezbedan_i_zdrav_rad_pri_izlaganju_buci.html#clan_13"
+    },
+    {
+        "title": "Član 14",
+        "texts": [
+            "Poslodavac je dužan da radna mesta, za koja je na osnovu procene rizika utvrđeno da postoji mogućnost da gornje akcione vrednosti izloženosti buci budu prekoračene, obeleži oznakama za bezbednost i/ili zdravlje na radu, kao i da taj prostor razgraniči i obezbedi od pristupa zaposlenih koji ne rade na tim radnim mestima."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_preventivnim_merama_za_bezbedan_i_zdrav_rad_pri_izlaganju_buci.html#clan_14"
+    },
+    {
+        "title": "Član 15",
+        "texts": [
+            "Poslodavac je dužan da obezbedi da u prostorijama za odmor buka bude svedena na nivo koji je u skladu sa njihovom namenom i uslovima korišćenja."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_preventivnim_merama_za_bezbedan_i_zdrav_rad_pri_izlaganju_buci.html#clan_15"
+    },
+    {
+        "title": "Član 16",
+        "texts": [
+            "Poslodavac je dužan da prilagodi mere za bezbednost i zdravlje na radu koje se odnose na smanjenje izloženosti buci zahtevima zaposlenih koji pripadaju osetljivim grupama sa aspekta bezbednosti i zdravlja na radu."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_preventivnim_merama_za_bezbedan_i_zdrav_rad_pri_izlaganju_buci.html#clan_16"
+    },
+    {
+        "title": "Član 17",
+        "texts": [
+            "Poslodavac je dužan da, u situaciji kada se rizik usled izloženosti zaposlenih buci ne može smanjiti primenom drugih mera za bezbedan i zdrav rad, omogući zaposlenom korišćenje odgovarajućih sredstava i opreme za zaštitu sluha, i to:",
+            "1) kada je izloženost veća od donjih akcionih vrednosti izloženosti buci poslodavac je dužan da sredstva i opremu za zaštitu sluha učini dostupnim zaposlenima;",
+            "2) kada je izloženost veća ili jednaka od gornjih akcionih vrednosti izloženosti buci zaposleni je dužan da nosi sredstva i opremu za zaštitu sluha koju mu je poslodavac dao na korišćenje.",
+            "Poslodavac je dužan da sredstva i opremu za zaštitu sluha proceni tako da se rizik od nastanka oštećenja sluha otkloni ili smanji na najmanju moguću meru.",
+            "Poslodavac je dužan da proveri efektivnost sprovedenih mera koje su preduzete u skladu sa ovim članom."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_preventivnim_merama_za_bezbedan_i_zdrav_rad_pri_izlaganju_buci.html#clan_17"
+    },
+    {
+        "title": "Član 18",
+        "texts": [
+            "Poslodavac je dužan da izloženost zaposlenih buci svede na najmanju moguću vrednost, a u svakom slučaju na vrednosti koje su manje od graničnih vrednosti izloženosti buci.",
+            "Poslodavac je dužan da što je moguće pre, ukoliko je i pored primene preventivnih mera izloženost veća od graničnih vrednosti izloženosti buci, preduzme odgovarajuće mere tako da smanji izloženost ispod granične vrednosti izloženosti buci, utvrdi razloge zbog kojih je došlo do prekoračenja granične vrednosti izloženosti buci i da koriguje primenu mera sa ciljem da se spreči da se prekoračenje granične vrednosti izloženosti buci ponovi."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_preventivnim_merama_za_bezbedan_i_zdrav_rad_pri_izlaganju_buci.html#clan_18"
+    },
+    {
+        "title": "Član 19",
+        "texts": [
+            "Poslodavac je dužan da zaposlenima koji jesu izloženi buci čija je vrednost jednaka ili veća od donjih akcionih vrednosti izloženosti buci ili njihovim predstavnicima za bezbednost i zdravlje na radu obezbedi sve informacije o merama koje se preduzimaju sa ciljem ostvarenja bezbednih i zdravih uslova rada pri izlaganju buci, kao i da te zaposlene u toku osposobljavanja za bezbedan i zdrav rad upozna sa svim vrstama rizika koji nastaju pri izlaganju buci, a naročito u odnosu na:",
+            "1) prirodu tih rizika;",
+            "2) mere koje se preduzimaju sa ciljem otklanjanja ili smanjenja na najmanju moguću meru rizika od oštećenja zdravlja usled izloženosti buci;",
+            "3) granične vrednosti izloženosti buci i akcione vrednosti izloženosti buci utvrđene članom 4. ovog pravilnika;",
+            "4) rezultate procene i merenja buke, kao i značenje tih rezultata;",
+            "5) pravilno korišćenje sredstava i opreme za zaštitu sluha;",
+            "6) načina za otkrivanje i prijavljivanje znakova oštećenja sluha;",
+            "7) okolnosti pod kojima imaju pravo na praćenje zdravstvenog stanja u skladu sa ovim pravilnikom kao i svrsi tog praćenja zdravstvenog stanja;",
+            "8) bezbedne načine rada kako bi se izloženost buci smanjila na najmanju moguću meru."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_preventivnim_merama_za_bezbedan_i_zdrav_rad_pri_izlaganju_buci.html#clan_19"
+    },
+    {
+        "title": "Član 20",
+        "texts": [
+            "Poslodavac je dužan da obezbedi propisano praćenje zdravstvenog stanja za zaposlene koji rade, ili treba da rade, na radnim mestima za koje se rezultatima procene rizika, iz člana 8. ovog pravilnika utvrdi da su radna mesta sa povećanim rizikom od nastanka povreda na radu ili oštećenja zdravlja.",
+            "Poslodavac je dužan da zaposlenog koji radi na radnom mestu na kojem je izloženost veća od gornjih akcionih vrednosti izloženosti buci uputi na ciljani lekarski pregled.",
+            "Ciljani lekarski pregledi, iz stava 2. ovog člana, vrše se na način, po postupku i u rokovima kao i prethodni i periodični lekarski pregledi zaposlenih na radnim mestima sa povećanim rizikom.",
+            "Kada se praćenjem zdravstvenog stanja utvrdi oštećenje sluha zaposlenog koje je prema nalazu službe medicine rada nastalo kao posledica izlaganja buci na radnom mestu, tada je:",
+            "1) služba medicine rada dužna da obavesti zaposlenog o rezultatima praćenja zdravstvenog stanja koji se odnose na njega;",
+            "2) poslodavac dužan da:",
+            "(1) izvrši proveru procene rizika koja je sprovedena u skladu sa članom 8. ovog pravilnika,",
+            "(2) izvrši korekciju preventivnih mera koje su predviđene za otklanjanje ili smanjenje rizika saglasno čl. 12-17. ovog pravilnika,",
+            "(3) uzme u obzir savet službe medicine rada pri sprovođenju preventivnih mera koje su predviđene za otklanjanje ili smanjenje rizika saglasno čl. od 12. do 17. ovog pravilnika, uključujući i premeštanje zaposlenog na drugo radno mesto na kojem neće biti izložen buci;",
+            "(4) obezbedi praćenje zdravstvenog stanja ostalih zaposlenih koji su bili na sličan način izloženi buci."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_preventivnim_merama_za_bezbedan_i_zdrav_rad_pri_izlaganju_buci.html#clan_20"
+    },
+    {
+        "title": "Član 20a",
+        "texts": [
+            "Poslodavac je dužan da vodi i čuva evidenciju o izvršenim ciljanim lekarskim pregledima zaposlenih iz člana 20. ovog pravilnika, u skladu sa propisima o bezbednosti i zdravlju na radu.",
+            "Poslodavac je dužan da evidenciju iz stava 1. ovog člana dostavi zaposlenom na njegov zahtev.",
+            "Kopije evidencije iz stava 1. ovog člana dostavljaju se zavodu, odnosno institutu za javno zdravlje na njegov zahtev.",
+            "III. Saradnja poslodavaca i zaposlenih"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_preventivnim_merama_za_bezbedan_i_zdrav_rad_pri_izlaganju_buci.html#clan_20a"
+    },
+    {
+        "title": "Član 21",
+        "texts": [
+            "Poslodavac i zaposleni, odnosno njihovi predstavnici za bezbednost i zdravlje na radu dužni su da sarađuju u vezi sa svim pitanjima koja se odnose na primenu preventivnih mera pri izlaganju buci, a naročito u vezi sa:",
+            "1) procenom rizika i utvrđivanjem preventivnih mera u skladu sa ovim pravilnikom;",
+            "2) primenom mera koje imaju za cilj otklanjanje ili smanjenje rizika koji nastaju usled izloženosti buci;",
+            "4) izborom sredstava i opreme za zaštitu sluha.",
+            "IV. Prelazna i završna odredba"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_preventivnim_merama_za_bezbedan_i_zdrav_rad_pri_izlaganju_buci.html#clan_21"
+    },
+    {
+        "title": "Član 22",
+        "texts": [
+            "Danom početka primene ovog pravilnika prestaje da važi Pravilnik o merama i normativima zaštite na radu od buke u radnim prostorijama (\"Službeni list SFRJ\", broj 21/92)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_preventivnim_merama_za_bezbedan_i_zdrav_rad_pri_izlaganju_buci.html#clan_22"
+    },
+    {
+        "title": "Član 23",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u \"Službenom glasniku Republike Srbije\", a primenjuje se od 1. januara 2016. godine.",
+            "",
+            "Samostalni član Pravilnika \no izmenama i dopuniPravilnika o preventivnim merama za bezbedan i zdrav rad pri izlaganju buci",
+            "(\"Sl. glasnik RS\", br. 78/2015)"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_preventivnim_merama_za_bezbedan_i_zdrav_rad_pri_izlaganju_buci.html#clan_23"
+    },
+    {
+        "title": "Član 3",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u \"Službenom glasniku Republike Srbije\".",
+            "",
+            "Samostalni članovi Pravilnika o izmenama i dopuniPravilnika o preventivnim merama za bezbedan i zdrav rad pri izlaganju buci",
+            "(\"Sl. glasnik RS\", br. 93/2019)"
+        ],
+        "link": null
+    },
+    {
+        "title": "Član 17",
+        "texts": [
+            "Način izračunavanja nivoa dnevne i nedeljne izloženosti buci, koji je, kao prilog, odštampan uz Pravilnik o preventivnim merama za bezbedan i zdrav rad pri izlaganju buci (\"Službeni glasnik RS\", br. 96/11 i 78/15), zamenjuje se Načinom izračunavanja nivoa dnevne i nedeljne izloženosti buci (Prilog 1.), koji je odštampan uz ovaj pravilnik i koji čini njegov sastavni deo."
+        ],
+        "link": null
+    },
+    {
+        "title": "Član 18",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u \"Službenom glasniku Republike Srbije\".",
+            "",
+            "Prilog 1.",
+            "Način izračunavanja nivoa dnevne i nedeljne izloženosti buci",
+            "1) Način izračunavanja nivoa dnevne izloženosti buci",
+            "Nivo dnevne izloženosti buci, normalizovan na nominalni osmočasovni radni dan, LA,EX,8h, izražen u decibelima, dat je jednačinom:",
+            "LA,EX,8h= LA,eq,Te+ 10 log (Te/To)",
+            "gde je:",
+            "- Teefektivno trajanje radnog dana;",
+            "- Toreferentno trajanje radnog dana (8 sati).",
+            "Ako je efektivno trajanje radnog dana Tejednako 8 sati, LA,EX,8hje jednak LA,eq,Te.",
+            "Maksimalno dozvoljeni ekvivalentni nivo zvučnog pritiska LA,eq,Tizražen u decibelima, dat je jednačinom:",
+            "",
+            "- T = t2- t1period u kome je izvršeno usrednjavanje zvučnog pritiska.",
+            "Period T, korišćen za direktno merenje ili računanje LA,eq,Ttreba da bude odabran tako da daje rezultate koji su reprezentativni za čitav period.",
+            "Za kontinualnu nepromenljivu buku umesto LA,eqmože se koristiti Lp,A(ponderisani vremenski usrednjeni nivo zvučnog pritiska).",
+            "2) Način izračunavanja nivoa nedeljne izloženosti buci",
+            "Kada je potrebno izračunati prosečno izlaganje buci u toku n dana, npr. ako se uzimaju u obzir dnevni nivoi izlaganja buci normalizovani na nominalni osmočasovni radni dan tokom nedeljnog izlaganja, prosečna vrednost LA,EX,8hu decibelima, tokom čitavog perioda može se odrediti iz vrednosti LA,EX,8hza svaki dan, koristeći sledeću jednačinu:",
+            "",
+            "Vrednost k određuje se u skladu sa svrhom usrednjavanja, biće jednaka n ako je potrebna srednja vrednost, odnosno biće fiksni broj ako se izlaganje normalizuje u odnosu na nominalni broj dana (npr.: k = 5 daje nivo dnevnog izlaganja buci normalizovan u odnosu na sedmicu od pet osmočasovnih radnih dana).",
+            "",
+            "Prilog 2.",
+            "Maksimalno dozvoljeni ekvivalentni nivoi buke za neometan rad kod pojedinih vrsta poslova",
+            "",
+            "Redni broj",
+            "Opis posla na radnom mestu",
+            "Maksimalno dozvoljeni ekvivalentni nivoi zvučnog pritiskaLA,eq,15 mindB(A)",
+            "(a)",
+            "(b)",
+            "1.",
+            "Najzahtevniji umni rad, vrlo velika usredsređenost, rad vezan za veliku odgovornost, najsloženiji poslovi upravljanja i rukovođenja",
+            "45",
+            "40",
+            "2.",
+            "Pretežno umni rad koji zahteva usredsređenost, kreativno razmišljanje, donošenje važnih odluka, istraživanje, projektovanje, komunikacija sa grupom ljudi",
+            "50",
+            "40",
+            "3.",
+            "Zahtevniji kancelarijski poslovi, lekarske ordinacije, sale za sastanke, nastava u školama, neposredna govorna i/ili telefonska komunikacija",
+            "55",
+            "45",
+            "4.",
+            "Manje zahtevni kancelarijski poslovi, pretežno rutinski umni rad koji zahteva usredsređenost ili neposredna govorna i/ili telefonska komunikacija, telefonske centrale",
+            "60",
+            "50",
+            "5.",
+            "Manje zahtevni i uglavnom mehanizovani kancelarijski poslovi, prodaja, vrlo zahtevno upravljanje sistemima, fizički rad koji zahteva nadzor čulom sluha, rad koji se obavlja na osnovu zvučnih signala",
+            "65",
+            "55",
+            "6.",
+            "Pretežno mehanizovani kancelarijski poslovi, zahtevno upravljanje sistemima, upravljačke kabine, fizički rad koji zahteva stalnu usredsređenost, rad koji zahteva nadzor čulom sluha, rad koji se obavlja na osnovu zvučnih signala",
+            "70",
+            "60",
+            "7.",
+            "Manje zahtevni fizički poslovi koji zahtevaju usredsređenost i oprez, manje zahtevno upravljanje sistemima",
+            "75",
+            "65",
+            "8.",
+            "Poslovi pri kojima su zaposlene za vreme trudnoće izložene buci",
+            "75",
+            "50",
+            "(a) - nivo buke na radnom mestu koji potiče od proizvodnih pogona u blizini radnog mesta,",
+            "(b) - nivo buke na radnom mestu koji potiče od neproizvodnih izvora (ventilacija, klimatizacija, saobraćajna buka i sl.).",
+            "Ako ne probate više različitih izbora nikada nećete biti sigurni da li imate najbolju opciju u svojim rukama. Mi Vam tu mogućnost nudimo besplatno! Popunite formular i dobićete priliku da bez ikakvih troškova saznate da li je Paragraf dobar izbor za Vas.",
+            "Ukoliko želite da Vas obaveštavamo o novostima i aktivnostima kompanije Paragraf prijavite se na našu mailing listu. Vaš e-mail neće biti upotrebljen u druge svrhe."
+        ],
+        "link": null
+    }
+]

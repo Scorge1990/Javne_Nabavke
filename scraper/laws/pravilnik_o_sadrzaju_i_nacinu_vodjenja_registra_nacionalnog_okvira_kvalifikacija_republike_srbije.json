@@ -1,0 +1,280 @@
+[
+    {
+        "title": "Član 1",
+        "texts": [
+            "Ovim pravilnikom uređuje se sadržaj i način vođenja Registra Nacionalnog okvira kvalifikacija Republike Srbije (u daljem tekstu: Registar NOKS) kao i druga pitanja od značaja za vođenje Registra NOKS-a.",
+            "Vođenje Registra NOKS-a"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-sadrzaju-i-nacinu-vodjenja-registra-nacionalnog-okvira-kvalifikacija-republike-srbije.html#clan_1"
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Registar NOKS-a vodi Agencija za kvalifikacije (u daljem tekstu: Agencija) u elektronskom obliku, u okviru jedinstvenog informacionog sistema prosvete (u daljem: tekstu JISP), u skladu sa zakonom.",
+            "Podaci iz Registra NOKS-a su otvoreni i dostupni preko zvanične internet stranice Agencije, koja se vodi dvojezično - na srpskom i engleskom jeziku.",
+            "Podatke o ustanovama obrazovanja i vaspitanja i visokoškolskim ustanovama, planovima i programima nastave i učenja i akreditovanim studijskim programima, Registar NOKS u elektronskom obliku preuzima iz JISP-a.",
+            "Identifikacione podatke o JPOA i poslodavcima kod kojih JPOA obavlja praktični deo programa, Registar NOKS-a u elektronskom obliku preuzima od Republičkog zavoda za statistiku.",
+            "Sadržina Registra NOKS-a"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-sadrzaju-i-nacinu-vodjenja-registra-nacionalnog-okvira-kvalifikacija-republike-srbije.html#clan_2"
+    },
+    {
+        "title": "Član 3",
+        "texts": [
+            "Registar NOKS-a se sastoji se od tri Podregistra:",
+            "1) Podregistra nacionalnih kvalifikacija;",
+            "2) Podregistra standarda kvalifikacija;",
+            "3) Podregistra javno priznatih organizatora aktivnosti obrazovanja odraslih sa poslodavcima kod kojih se obavlja praktičan rad (u daljem tekstu: Podregistar JPOA).",
+            "Podregistar nacionalnih kvalifikacija"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-sadrzaju-i-nacinu-vodjenja-registra-nacionalnog-okvira-kvalifikacija-republike-srbije.html#clan_3"
+    },
+    {
+        "title": "Član 4",
+        "texts": [
+            "Podregistar nacionalnih kvalifikacija se uspostavlja za potrebe upravljanja podacima o kvalifikacijama, razvrstanim prema nivou i vrsti, u skladu sa podzakonskim aktom kojim je uređen sistem prema kome se kvalifikacije razvrstavaju i šifriraju u NOKS-u (u daljem tekstu: KLASNOKS).",
+            "U Podregistar nacionalnih kvalifikacija upisuju se sve nove kvalifikacije nastale od dana početka primene ovog pravilnika, kao i kvalifikacije koje mogu da se steknu u sistemu obrazovanja koje su utvrđene do početka primene ovog pravilnika, odnosno do uspostavljanja Registra NOKS-a, i to:",
+            "1) za nivo 1 NOKS, kvalifikacije koje se stiču završavanjem osnovnog obrazovanja i vaspitanja, osnovnog obrazovanja odraslih i osnovnog muzičkog, odnosno baletskog obrazovanja i vaspitanja;",
+            "2) za nivo 2 NOKS kvalifikacije koje se stiču stručnim osposobljavanjem, u trajanju do jedne godine, obrazovanjem za rad u trajanju do dve godine, počev od Odluke o utvrđivanju osnovnih obrazovnih profila prvog, drugog, trećeg i četvrtog stepena stručne spreme (\"Službeni glasnik SRS\", broj 5/87), odnosno neformalnim obrazovanjem odraslih u trajanju od 120-360 sati obuke;",
+            "3) za nivoe 3 do 5 NOKS, kvalifikacije koje se stiču srednjim obrazovanje u trogodišnjem i četvorogodišnjem trajanju i specijalističko i majstorsko obrazovanje u trajanju od jedne do dve godine na obrazovnim profilima koji se realizuju u srednjim školama počev od Odluke o utvrđivanju osnovnih obrazovnih profila prvog, drugog, trećeg i četvrtog stepena stručne spreme (\"Službeni glasnik SRS\", broj 5/87);",
+            "4) za nivoe 6.1 do 8 NOKS, kvalifikacije koje se stiču prema propisima koji uređuju visoko obrazovanje od 10. septembra 2005. godine.",
+            "Podaci o kvalifikaciji"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-sadrzaju-i-nacinu-vodjenja-registra-nacionalnog-okvira-kvalifikacija-republike-srbije.html#clan_4"
+    },
+    {
+        "title": "Član 5",
+        "texts": [
+            "Podregistar nacionalnih kvalifikacija sadrži sledeće podatke o kvalifikaciji:",
+            "1) naziv kvalifikacije;",
+            "2) šifra kvalifikacije utvrđenu u skladu sa pravilnikom kojim je propisan KLASNOKS;",
+            "3) verzija kvalifikacije i nazivi prethodnih verzija kvalifikacije;",
+            "4) status kvalifikacije - aktivna ili arhivirana;",
+            "5) standard kvalifikacije, ukoliko postoji;",
+            "6) podsektor ISCED 13-F prema KLASNOKS-u;",
+            "7) nivo kvalifikacije u NOKS-u i evropskom okviru kvalifikacija (u daljem tekstu: EOK) i okviru kvalifikacija evropskog prostora visokog obrazovanja (u daljem tekstu: EPVO);",
+            "8) vrsta kvalifikacije;",
+            "9) oblici učenja/način sticanja kvalifikacije (formalno obrazovanje, neformalno obrazovanje, priznavanje prethodnog učenja);",
+            "10) obim kvalifikacije iskazan u kreditnim bodovima, odnosno godinama/satima trajanja ukoliko nije propisano da se iskazuje u kreditnim bodovima;",
+            "11) opšti opis kvalifikacije;",
+            "12) naziv i adresa veb stranice organizacije nadležne za izdavanje javne isprave iz registra ustanova i akreditovanih visokoškolskih ustanova iz JISP-a i Podregistra JPOA;",
+            "13) veza sa veb stranicom akta kojim je usvojena kvalifikacija na Pravno-informacionom sistemu Republike Srbije (u daljem tekstu: PIS);",
+            "14) naziv i adresa veb stranice programa obrazovanja na kojima se stiče kvalifikacija iz registra akreditovanih studijskih programa, odnosno registra planova i programa nastave i učenja iz JISP-a, odnosno Podregistra JPOA;",
+            "15) adresa veb stranice kvalifikacije u Registru NOKS-a.",
+            "Upis u Podregistar nacionalnih kvalifikacija"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-sadrzaju-i-nacinu-vodjenja-registra-nacionalnog-okvira-kvalifikacija-republike-srbije.html#clan_5"
+    },
+    {
+        "title": "Član 6",
+        "texts": [
+            "Opšte i stručne kvalifikacije nivoa od 1 do 5 NOKS-a Agencija upisuje u Podregistar nacionalnih kvalifikacija u roku od osam dana od dana prijema akta ministarstva nadležnog za poslove obrazovanja (u daljem tekstu: Ministarstvo) o usvajanju standarda kvalifikacije.",
+            "Akademske i strukovne kvalifikacije nivoa od 6.1 do 8 NOKS-a akreditovane u skladu sa zakonom koji uređuje visoko obrazovanje, Agencija upisuje u Podregistar nacionalnih kvalifikacija po dobijanju obaveštenja o akreditaciji od Nacionalnog tela za akreditaciju i proveru kvaliteta u visokom obrazovanju, u skladu sa Zakonom o Nacionalnom okviru kvalifikacija Republike Srbije (u daljem tekstu: Zakon).",
+            "Podatke o kvalifikacijama iz st. 1. i 2. ovog člana, Ministarstvo, odnosno Nacionalno telo za akreditaciju i proveru kvaliteta u visokom obrazovanju dostavlja Agenciji i u elektronskom obliku, u skladu sa članom 5. ovog pravilnika.",
+            "Kvalifikaciji koja zamenjuje postojeću kvalifikaciju dodeljuje se ista šifra i oznaka broja verzije sa prvim sledećim rednim brojem verzije, u skladu sa pravilnikom kojim je propisan KLASNOKS.",
+            "Arhiva Podregistra nacionalnih kvalifikacija"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-sadrzaju-i-nacinu-vodjenja-registra-nacionalnog-okvira-kvalifikacija-republike-srbije.html#clan_6"
+    },
+    {
+        "title": "Član 7",
+        "texts": [
+            "Kvalifikacija koje bude zamenjena novom kvalifikacijom, odnosno koja se stavi van snage, a ne bude zamenjena novom kvalifikacijom, zadržava šifru i broj verzije postojeće kvalifikacije i prebacuju se u arhivu Podregistra nacionalnih kvalifikacija.",
+            "Podaci iz arhive Podregistra nacionalnih kvalifikacija javno su dostupni u elektronskom obliku u okviru Registra NOKS-a.",
+            "Za kvalifikacije utvrđene pre kvalifikacija iz člana 4. stav 2. tač. 1)-4) ovog pravilnika, za koje je u skladu sa članom 49. Zakona utvrđena ekvivalencija nivoa NOKS-a, u arhivu su upisani podaci o:",
+            "1) nazivu kvalifikacije;",
+            "2) šifri kvalifikacije;",
+            "3) verziji kvalifikacije, ukoliko postoji;",
+            "4) vrsti obrazovne ustanove na kojoj se sticala kvalifikacija;",
+            "5) obimu kvalifikacije iskazanim u godinama/satima trajanja obrazovnog programa za sticanje kvalifikacije.",
+            "Uz naziv kvalifikacija iz stava 1. tačka 1) ovog člana nivoa 6.1 do 8, dodaje se znak \"*\" koji služi za razlikovanje kvalifikacija utvrđenih prema propisima koji se primenjuju pre i posle 10. septembra 2005. godine.",
+            "Izvod iz Podregistra nacionalnih kvalifikacija"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-sadrzaju-i-nacinu-vodjenja-registra-nacionalnog-okvira-kvalifikacija-republike-srbije.html#clan_7"
+    },
+    {
+        "title": "Član 8",
+        "texts": [
+            "Za potrebe vođenja evidencija o vrsti i nivou kvalifikacije, odnosno obrazovanja lica u Centralnom registru obaveznog socijalnog osiguranja, Nacionalnoj službi za zapošljavanje i Republičkom zavodu za statistiku, Agencija najkasnije do 1. aprila tekuće godine, objavljuje na svojoj zvaničnoj veb stranici izvod iz Podregistra nacionalnih kvalifikacija (u daljem tekstu: Lista kvalifikacija).",
+            "Lista kvalifikacija iz stava 1. ovog člana sadrži podatke o nazivu i šifri kvalifikacije za sve aktivne i arhivirane kvalifikacije iz Podregistra nacionalnih kvalifikacija.",
+            "Lista kvalifikacija iz stava 1. ovog člana sadrži i podatak o šifri za lica koja nemaju osnovno obrazovanje.",
+            "Šifra iz stava 3. ovog člana sadrži 11 cifara kojima se označavaju četiri grupe podataka koje su međusobno odvojene tačkama, u skladu sa pravilnikom kojim se uređuje sistem za razvrstavanje i šifriranje kvalifikacija u Nacionalnom okviru kvalifikacija Republike Srbije, tako da se sve cifre označavaju sa \"0\".",
+            "Podregistar standarda kvalifikacija"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-sadrzaju-i-nacinu-vodjenja-registra-nacionalnog-okvira-kvalifikacija-republike-srbije.html#clan_8"
+    },
+    {
+        "title": "Član 9",
+        "texts": [
+            "Podregistar standarda kvalifikacije se uspostavlja za potrebe upravljanja podacima o standardima kvalifikacija.",
+            "Podregistar standarda kvalifikacija sadrži sledeće podatke o kvalifikaciji:",
+            "1) naziv kvalifikacije;",
+            "2) šifra kvalifikacije utvrđenu u skladu sa pravilnikom kojim je propisan KLASNOKS;",
+            "3) verzija standarda kvalifikacije i nazivi prethodnih verzija;",
+            "4) status standarda kvalifikacije - aktivan ili arhiviran;",
+            "5) podsektor ISCED 13-F prema KLASNOKS-u;",
+            "6) nivo kvalifikacije u NOKS-u, EOK-u i EPVO-u;",
+            "7) vrsta kvalifikacije;",
+            "8) obim kvalifikacije iskazan u kreditnim bodovima, odnosno godinama/satima trajanja ukoliko nije propisano da se iskazuje u kreditnim bodovima;",
+            "9) oblici učenja/način sticanja kvalifikacije (formalno obrazovanje, neformalno obrazovanje, odnosno priznavanje prethodnog učenja);",
+            "10) preduslov za sticanje kvalifikacije;",
+            "11) dodatni preduslovi za sticanje kvalifikacije, ukoliko ih ima;",
+            "12) prohodnost u NOKS-u;",
+            "13) opšti opis kvalifikacije;",
+            "14) ishodi učenja;",
+            "15) način provere ostvarenosti ishoda učenja;",
+            "16) kvalifikacije realizatora programa kojim se stiče kvalifikacija;",
+            "17) naziv javne isprave o stečenoj kvalifikaciji;",
+            "18) naziv i adresa veb stranice organizacije nadležne za izdavanje javne isprave iz registra ustanova i akreditovanih visokoškolskih ustanova iz JISP-a i Podregistra JPOA;",
+            "19) naziv i adresa veb stranice programa obrazovanja na kojima se stiče kvalifikacija iz registra akreditovanih studijskih programa, odnosno registra planova i programa nastave i učenja iz JISP-a, odnosno Podregistra JPOA;",
+            "20) adresa veb stranice standarda kvalifikacije u Registru NOKS-a;",
+            "21) naziv i šifra standarda zanimanja sa kojima je kvalifikacija u vezi;",
+            "22) naziv i šifre zanimanja sa kojima je kvalifikacija u vezi, u skladu sa podzakonskim aktom kojim je uređen šifarnik zanimanja;",
+            "23) veza sa veb stranicom akta kojim je usvojena kvalifikacija na PIS-u;",
+            "24) datum stupanja na snagu standarda kvalifikacije;",
+            "25) datum stavljanja van snage standarda kvalifikacije.",
+            "Upis u Podregistar standarda kvalifikacija"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-sadrzaju-i-nacinu-vodjenja-registra-nacionalnog-okvira-kvalifikacija-republike-srbije.html#clan_9"
+    },
+    {
+        "title": "Član 10",
+        "texts": [
+            "Standarde opštih, stručnih, akademskih i strukovnih kvalifikacija nivoa od 1 do 8 NOKS-a Agencija upisuje u Podregistar standarda kvalifikacija u roku od osam dana od dana prijema akta Ministarstva o usvajanju standarda kvalifikacije.",
+            "Podatke o standardima kvalifikacija iz stava 1. ovog člana, Ministarstvo dostavlja Agenciji i u elektronskom obliku, u skladu sa članom 8. ovog pravilnika.",
+            "Standardu kvalifikacije koji zamenjuje postojeći standard kvalifikacije dodeljuje se ista šifra i oznaka broja verzije sa prvim sledećim rednim brojem verzije, u skladu sa pravilnikom kojim je propisan KLASNOKS.",
+            "Arhiva standarda kvalifikacija"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-sadrzaju-i-nacinu-vodjenja-registra-nacionalnog-okvira-kvalifikacija-republike-srbije.html#clan_10"
+    },
+    {
+        "title": "Član 11",
+        "texts": [
+            "Standard kvalifikacije koji bude zamenjen (osavremenjen) novim standardom kvalifikacije, odnosno koji se stavi van snage, a ne bude zamenjen novim standardom kvalifikacije, zadržava postojeću šifru i broj verzije i prebacuje se u arhivu Podregistra standarda kvalifikacija.",
+            "Podaci iz arhiva Podregistra standarda kvalifikacija javno su dostupni u elektronskom obliku u okviru Registra NOKS-a.",
+            "Podregistar JPOA"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-sadrzaju-i-nacinu-vodjenja-registra-nacionalnog-okvira-kvalifikacija-republike-srbije.html#clan_11"
+    },
+    {
+        "title": "Član 12",
+        "texts": [
+            "Podregistar JPOA uspostavlja se za potrebe upravljanja podacima o JPOA kojima su data ili oduzeta odobrenja, odobrenim aktivnostima obrazovanja odraslih i poslodavcima kod kojih JPOA realizuju praktičan rad.",
+            "Podregistar JPOA sadrži:",
+            "1) naziv JPOA;",
+            "2) šifra JPOA u Podregistru;",
+            "3) status JPOA - aktivan ili arhiviran, i datum arhiviranja;",
+            "4) vrstu aktivnosti obrazovanja odraslih za koju je JPOA dobio odobrenje;",
+            "5) opšte podatke o JPOA:",
+            "(1) matični/registarski broj;",
+            "(2) poreski identifikacioni broj;",
+            "(3) adresu sedišta;",
+            "(4) kontakt podatke - ime kontakt osobe, broj telefona, adresa internet stranice i adresa elektronske pošte;",
+            "(5) poreski identifikacioni broj;",
+            "6) podatke o programima za koje je JPOA dobio odobrenje:",
+            "(1) naziv programa;",
+            "(2) šifra programa;",
+            "(3) status programa - aktivan ili arhiviran, i datum arhiviranja;",
+            "(4) vrsta aktivnosti obrazovanja odraslih;",
+            "(5) podsektor ISCED 13F prema KLASNOKS-u;",
+            "(6) naziv javne isprave, uverenja, odnosno potvrde koja se izdaje za završetak programa;",
+            "(7) podatke iz Podregistra standarda kvalifikacija, ukoliko se programom stiče kvalifikacija, standard stručnih kompetencija, odnosno delimično ostvaren standard stručnih kompetencija;",
+            "(8) kratak opis programa;",
+            "(9) preduslovi za upis na program;",
+            "(10) posebni preduslovi za upis na program;",
+            "(11) trajanje programa (teorijski, praktični deo i ukupno);",
+            "(12) podatke o kvalifikacijama realizatora teorijskog i praktičnog dela obuke i stručnih saradnika;",
+            "(13) podatke o uslovima u pogledu prostora, opreme i nastavnih sredstava i zapisnik prosvetnog inspektora o izvršenoj proveri ispunjenosti uslova;",
+            "(14) izdavalac, broj i datum izdavanja rešenja o odobrenju programa,;",
+            "(15) datum isteka odobrenja programa;",
+            "(16) izdavalac, broj, datum i razlog oduzimanja odobrenja programa;",
+            "(17) veb strana JPOA na kojoj se nalazi izveštaj o samovrednovanju;",
+            "(18) izveštaj o spoljašnjem vrednovanju kvaliteta;",
+            "7) podatke o poslodavcima kod kojih se realizuje praktični rad:",
+            "(1) naziv poslodavca;",
+            "(2) status poslodavca - aktivan ili arhiviran i datum arhiviranja;",
+            "(3) matični/registarski broj;",
+            "(4) poreski identifikacioni broj;",
+            "(5) adresu sedišta;",
+            "(6) kontakt podatke - broj telefona, internet stranicu i elektronsku adresu;",
+            "(7) naziv i registarski broj JPOA koji kod tog poslodavca obavlja praktični rad;",
+            "(8) naziv programa kod JPOA kod koga poslodavac realizuje praktični rad.",
+            "Upis u Podregistar JPOA"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-sadrzaju-i-nacinu-vodjenja-registra-nacionalnog-okvira-kvalifikacija-republike-srbije.html#clan_12"
+    },
+    {
+        "title": "Član 13",
+        "texts": [
+            "Podatke o drugim organizacijama kojima su data ili oduzeta odobrenja za sticanje statusa JPOA, Agencija upisuje u Podregistar JPOA narednog dana od dana donošenja rešenja o odobrenju ili oduzimanju odobrenja.",
+            "Podatke o osnovnim i srednjim školama kojima su data ili oduzeta odobrenja za sticanje statusa JPOA, Agencija upisuje u Podregistar JPOA narednog dana od dana dostavljanja obaveštenja o odobrenju ili oduzimanju odobrenja od strane Ministarstva.",
+            "Podatke o poslodavcima kod kojih se realizuje praktični rad Agencija upisuje zajedno sa podacima iz st. 1. i 2. ovog člana.",
+            "Podatke o osnovnim i srednjim školama iz stava 2. ovog člana, Ministarstvo dostavlja Agenciji i u elektronskom obliku, u skladu sa članom 12. ovog pravilnika.",
+            "Dodeljivanje šifre JPOA i šifre programa JPOA"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-sadrzaju-i-nacinu-vodjenja-registra-nacionalnog-okvira-kvalifikacija-republike-srbije.html#clan_13"
+    },
+    {
+        "title": "Član 14",
+        "texts": [
+            "JPOA koji prvi put dobije odobrenje za program, Agencija dodeljuje petocifrenu šifru pod kojom se vodi u Podregistru JPOA.",
+            "Agencija dodeljuje šifru programu JPOA koji je dobio odobrenje u skladu sa Zakonom.",
+            "Šifra programa se sastoji od 13 cifara, i to:",
+            "1) registarski broj JPOA koji sadrži pet cifara;",
+            "2) broj programa JPOA koji sadrži tri cifre;",
+            "3) vrsta aktivnosti obrazovanja odraslih koja sadrži jedan karakter - za neformalno obrazovanja odraslih kojima se stiču kompetencije i/ili kvalifikacije za obavljanje, usavršavanje ili promenu zanimanja, posla, radne funkcije ili radne operacije dodeljuje se cifra 1, za obrazovanja odraslih kojim se unapređuju znanja, veštine i sposobnosti, radi ličnog i profesionalnog razvoja i društveno odgovornog ponašanja, unapređivanja kvaliteta života, opšteg obrazovanja i kulture (neformalnim obrazovanjem i informalnim učenjem) dodeljuje se cifra 2, za karijerno vođenje i savetovanje dodeljuje se cifra 3 i za priznavanja prethodnog učenja dodeljuje se cifra 4;",
+            "4) podsektor ISCED 13-F prema KLASNOKS-u koji sadrži četiri cifre.",
+            "Arhiva Podregistra JPOA"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-sadrzaju-i-nacinu-vodjenja-registra-nacionalnog-okvira-kvalifikacija-republike-srbije.html#clan_14"
+    },
+    {
+        "title": "Član 15",
+        "texts": [
+            "Programi za koje JPOA ne dobije novo odobrenje, odnosno za koje se oduzme odobrenje, zadržavaju šifru programa i prebacuju se u arhivu Podregistra JPOA.",
+            "JPOA koji nema nijedan aktivan program zadržava šifru JPOA i prebacuje se u arhivu Podregistra JPOA.",
+            "Poslodavci kod kojih se realizuje praktični rad kojima prestane ugovor sa JPOA, odnosno koji prestanu da realizuju praktični rad, prebacuju se u arhivu Podregistra JPOA.",
+            "Ažuriranje podataka u podregistrima"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-sadrzaju-i-nacinu-vodjenja-registra-nacionalnog-okvira-kvalifikacija-republike-srbije.html#clan_15"
+    },
+    {
+        "title": "Član 16",
+        "texts": [
+            "Podaci iz čl. 5, 9. i 12. ovog pravilnika o ustanovama obrazovanja i vaspitanja, visokoškolskim ustanovama, JPOA kojima saglasnost daje Ministarstvo, planovima i programima nastave i učenja i akreditovanim studijskim programima ažuriraju se elektronskim putem preuzimanjem podataka iz odgovarajućeg registra JISP-a.",
+            "Podaci o poslodavcima kod kojih se realizuje praktični rad ažuriraju se elektronskim putem preuzimanjem podataka iz odgovarajuće baze podataka Republičkog zavoda za statistiku.",
+            "Promenu podataka o drugim organizacijama koje su stekle status JPOA, Agencija vrši u roku od osam dana od dana donošenja rešenja o izmeni odobrenja.",
+            "Prelazne odredbe"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-sadrzaju-i-nacinu-vodjenja-registra-nacionalnog-okvira-kvalifikacija-republike-srbije.html#clan_16"
+    },
+    {
+        "title": "Član 17",
+        "texts": [
+            "Podatke o nazivu i šifri kvalifikacije, preuzeće se u podregistar nacionalnih kvalifikacija iz izvoda iz baze kvalifikacija koju vodi Ministarstvo u skladu sa zakonom.",
+            "Izuzetno od člana 8. ovog pravilnika, do početka operativnog funkcionisanja elektronske platforme JISP-a i Registra NOKS-a, Ministarstvo objavljuje Listu kvalifikacija na osnovu izvoda iz baze kvalifikacija, na svojoj i veb stranici Agencije.",
+            "Podatke o kvalifikacijama, standardima kvalifikacija, JPOA i programima JPOA utvrđenim do stupanja na snagu ovog pravilnika, Agencija će uneti u odgovarajuće podregistre u roku od dve godine od dana početka operativnog funkcionisanja Registra NOKS-a i JISP-a.",
+            "Stupanje na snagu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-sadrzaju-i-nacinu-vodjenja-registra-nacionalnog-okvira-kvalifikacija-republike-srbije.html#clan_17"
+    },
+    {
+        "title": "Član 18",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu narednog dana od dana objavljivanja u \"Službenom glasniku Republike Srbije\".",
+            "",
+            "Samostalni član Pravilnika o dopuniPravilnika o sadržaju i načinu vođenja Registra Nacionalnog okvira kvalifikacija Republike Srbije",
+            "(\"Sl. glasnik RS\", br. 46/2022)"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-sadrzaju-i-nacinu-vodjenja-registra-nacionalnog-okvira-kvalifikacija-republike-srbije.html#clan_18"
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu osmog dana od objavljivanja u \"Službenom glasniku Republike Srbije\".",
+            "Ako ne probate više različitih izbora nikada nećete biti sigurni da li imate najbolju opciju u svojim rukama. Mi Vam tu mogućnost nudimo besplatno! Popunite formular i dobićete priliku da bez ikakvih troškova saznate da li je Paragraf dobar izbor za Vas.",
+            "Ukoliko želite da Vas obaveštavamo o novostima i aktivnostima kompanije Paragraf prijavite se na našu mailing listu. Vaš e-mail neće biti upotrebljen u druge svrhe."
+        ],
+        "link": null
+    }
+]

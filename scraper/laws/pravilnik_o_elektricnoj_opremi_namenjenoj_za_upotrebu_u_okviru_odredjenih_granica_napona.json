@@ -1,0 +1,423 @@
+[
+    {
+        "title": "Član 1",
+        "texts": [
+            "Ovim pravilnikom propisuju se: bitni elementi bezbednosnih ciljeva za električnu\nopremu i drugi zahtevi koje mora da ispuni električna oprema koja se isporučuje na tržištu;\npretpostavka usaglašenosti; postupci ocenjivanja usaglašenosti električne opreme; sadržina\ntehničke dokumentacije; znak usaglašenosti i označavanje usaglašenosti; deklaracija o usaglašenosti\ni model deklaracije o usaglašenosti i zaštitna klauzula.",
+            "Značenje pojedinih izraza"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_elektricnoj_opremi_namenjenoj_za_upotrebu_u_okviru_odredjenih_granica_napona.html#clan_1"
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Pojedini izrazi koji se upotrebljavaju u ovom pravilniku imaju sledeće značenje:",
+            "1)isporuka na tržištuje svako činjenje dostupnim električne opreme na tržištu Republike Srbije radi distribucije, potrošnje ili upotrebe, u okviru trgovačke delatnosti, sa ili bez naknade;",
+            "2)stavljanje na tržišteje prva isporuka električne opreme na tržištu Republike Srbije;",
+            "3)proizvođačje preduzetnik ili pravno lice koje izrađuje električnu opremu ili daje da se električna oprema projektuje i izradi sa ciljem da je stavi na tržište pod svojim poslovnim imenom ili trgovačkim znakom;",
+            "4)zastupnikje preduzetnik ili pravno lice registrovano u Republici Srbiji koje je proizvođač pismeno ovlastio da u njegovo ime izvršava određene aktivnosti propisane ovim pravilnikom;",
+            "5)uvoznikje preduzetnik ili pravno lice registrovano u Republici Srbiji koje stavlja na tržište Republike Srbije električnu opremu iz drugih zemalja;",
+            "6)distributerje preduzetnik ili pravno lice registrovano u Republici Srbiji koje je uključeno u lanac isporuke i koje isporučuje na tržištu električnu opremu, a nije proizvođač ili uvoznik;",
+            "7)isporučilacje proizvođač, zastupnik, uvoznik ili distributer;",
+            "8)tehnička specifikacijaje dokument u kome se utvrđuju tehnički zahtevi koje treba da ispuni električna oprema;",
+            "9)harmonizovani standardje evropski standard koji je donet na osnovu zahteva Evropske komisije za primenu u harmonizovanom zakonodavstvu Evropske unije;",
+            "10)ocenjivanje usaglašenostije postupak kojim se utvrđuje da li su za električnu opremu ispunjeni bezbednosni ciljevi iz člana 5. ovog pravilnika i Priloga 1 - Bitni elementi bezbednosnih ciljeva za električnu opremu namenjenu za upotrebu u okviru određenih granica napona, koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo;",
+            "11)opozivje svaka aktivnost ili mera kojom se vrši povraćaj električne opreme koja je već isporučena krajnjem korisniku;",
+            "12)povlačenjeje svaka aktivnost ili mera kojom se sprečava da se električna oprema u lancu isporuke isporuči na tržištu;",
+            "13)harmonizovano zakonodavstvo Evropske unijeje zakonodavstvo Evropske unije kojim se usaglašavaju uslovi za stavljanje proizvoda na tržište;",
+            "14)znak usaglašenostije oznaka koju proizvođač stavlja na električnu opremu i kojom potvrđuje da je ta električna oprema usaglašena sa zahtevima svih propisa kojima je utvrđena obaveza stavljanja tog znaka.",
+            "Drugi izrazi koji se upotrebljavaju u ovom pravilniku, a nisu definisani u stavu 1. ovog člana, imaju značenje definisano zakonima kojima se uređuju tehnički zahtevi za proizvode i ocenjivanje usaglašenosti, opšta bezbednost proizvoda, tržišni nadzor, akreditacija i standardizacija.",
+            "Primena"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_elektricnoj_opremi_namenjenoj_za_upotrebu_u_okviru_odredjenih_granica_napona.html#clan_2"
+    },
+    {
+        "title": "Član 3",
+        "texts": [
+            "Ovaj pravilnik primenjuje se na električnu opremu namenjenu za upotrebu u granicama napona između 50 V i 1000 V za naizmeničnu struju i između 75 V i 1500 V za jednosmernu struju, osim električne opreme i pojava iz člana 4. ovog pravilnika (u daljem tekstu: električna oprema).",
+            "Električna oprema i pojave na koje se ne primenjuje pravilnik"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_elektricnoj_opremi_namenjenoj_za_upotrebu_u_okviru_odredjenih_granica_napona.html#clan_3"
+    },
+    {
+        "title": "Član 4",
+        "texts": [
+            "Ovaj pravilnik se ne primenjuje na sledeću električnu opremu i pojave:",
+            "1) električnu opremu namenjenu za upotrebu u eksplozivnoj atmosferi;",
+            "2) električnu opremu koja se koristi u radiološke i medicinske svrhe;",
+            "3) električnu opremu liftova za prevoz lica i tereta;",
+            "4) brojila električne energije;",
+            "5) priključnice i utikače za upotrebu u domaćinstvu;",
+            "6) uređaje za kontrolu električnih ograda;",
+            "7) radio-električne smetnje;",
+            "8) specijalizovanu električnu opremu za upotrebu na brodovima, avionima ili železnici koja ispunjava zahteve za bezbednost propisane od strane odgovarajućih međunarodnih organizacija;",
+            "9) opremu izrađenu po meri, namenjenu stručnjacima isključivo za upotrebu na mestima na kojima se obavljaju istraživačke i razvojne delatnosti i u te svrhe.",
+            "II ISPORUKA ELEKTRIČNE OPREME NA TRŽIŠTU",
+            "Isporuka na tržištu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_elektricnoj_opremi_namenjenoj_za_upotrebu_u_okviru_odredjenih_granica_napona.html#clan_4"
+    },
+    {
+        "title": "Član 5",
+        "texts": [
+            "Električna oprema može biti isporučena na tržištu Republike Srbije samo ako, kada je izrađena u skladu s dobrom inženjerskom praksom u oblasti bezbednosti koja je na snazi u Republici Srbiji, ne ugrožava zdravlje i bezbednost ljudi ili domaćih životinja ili imovinu, pod uslovom da je ispravno ugrađena, održavana i da se koristi za predviđenu namenu.",
+            "Bitni elementi bezbednosnih ciljeva iz stava 1. ovog člana sadržani su u Prilogu 1 ovog pravilnika.",
+            "Slobodan promet"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_elektricnoj_opremi_namenjenoj_za_upotrebu_u_okviru_odredjenih_granica_napona.html#clan_5"
+    },
+    {
+        "title": "Član 6",
+        "texts": [
+            "Električna oprema koja koja je usaglašena sa zahtevima iz ovog pravilnika isporučuje se na tržištu slobodno, bez ikakvih ograničenja.",
+            "Zahtevi za priključivanje električne opreme na mrežu ili za isporuku električne energije"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_elektricnoj_opremi_namenjenoj_za_upotrebu_u_okviru_odredjenih_granica_napona.html#clan_6"
+    },
+    {
+        "title": "Član 7",
+        "texts": [
+            "Energetski subjekti, koji u smislu zakona kojim se uređuje oblast energetike, obavljaju distribuciju i isporuku električne energije, ne mogu korisnicima električne opreme postavljati strože zahteve za bezbednost električne opreme za priključivanje na mrežu ili za isporuku električne energije, od onih koji su propisani članom 5. i Prilogom 1 ovog pravilnika.",
+            "Zahtevi za električnu opremu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_elektricnoj_opremi_namenjenoj_za_upotrebu_u_okviru_odredjenih_granica_napona.html#clan_7"
+    },
+    {
+        "title": "Član 8",
+        "texts": [
+            "Električna oprema može da se isporuči na tržištu samo ako ispunjava sledeće zahteve:",
+            "1) da je projektovana i izrađena u skladu sa bezbednosnim ciljevima iz člana 5. i Priloga 1 ovog pravilnika;",
+            "2) da je za električnu opremu proizvođač sačinio tehničku dokumentaciju iz Priloga 2 - Interna kontrola proizvodnje, koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo (u daljem tekstu: tehnička dokumentacija);",
+            "3) da je sproveden postupak ocenjivanja usaglašenosti električne opreme u skladu sa Prilogom 2 ovog pravilnika;",
+            "4) da je za električnu opremu proizvođač sačinio deklaraciju o usaglašenosti iz člana 12. ovog pravilnika (u daljem tekstu: deklaracija o usaglašenosti) i da je na električnu opremu stavio znak usaglašenosti, ako električna oprema ispunjava bezbednosne ciljeve iz člana 5. i Priloga 1 ovog pravilnika;",
+            "5) da je proizvođač obezbedio odgovarajuće postupke kojima se ostvaruje kontinuiranost ispunjenosti zahteva ovog pravilnika u slučaju serijske proizvodnje električne opreme pri čemu se, na odgovarajući način, uzimaju u obzir izmene nastale u projektu ili karakteristikama električne opreme, kao i izmene u primenjenim standardima ili drugim tehničkim specifikacijama na osnovu kojih je deklarisana usaglašenost električne opreme;",
+            "6) da isporučilac koji stavlja električnu opremu na tržište, kada je to odgovarajuće s obzirom na rizike koje električna oprema predstavlja, a u cilju zaštite zdravlja i bezbednosti, vrši ispitivanje uzoraka električne opreme na tržištu, proverava opravdanost reklamacija i, ako je potrebno, vodi registar reklamacija i registar neusaglašene i opozvane električne opreme i o tome obaveštava distributere;",
+            "7) da je proizvođač električnu opremu koja se stavlja na tržište označio brojem tipa, šarže ili serije ili nekim drugim podatkom koji omogućava njenu identifikaciju ili, u slučajevima kada to ne dopuštaju dimenzije ili karakteristike električne opreme, da su identifikacioni podaci navedeni na njenoj ambalaži ili u dokumentaciji koja je prati;",
+            "8) da je proizvođač na električnoj opremi ili, kada to nije moguće, na njenoj ambalaži ili u dokumentaciji koja je prati, naveo svoje poslovno ime ili trgovački znak, kao i svoju poštansku adresu za kontakt;",
+            "9) da je uvoznik na električnoj opremi ili, kada to nije moguće, na njenoj ambalaži ili u dokumentaciji koja je prati, naveo svoje poslovno ime ili trgovački znak, kao i svoju poštansku adresu za kontakt, na srpskom jeziku;",
+            "10) da električnu opremu prate jasna i razumljiva uputstva i bezbednosne informacije na srpskom jeziku;",
+            "11) da uslovi skladištenja ili transporta ne ugrožavaju usaglašenost električne opreme sa bezbednosnim ciljevima iz člana 5. i Priloga 1 ovog pravilnika.",
+            "Deklaracija o usaglašenosti i tehnička dokumentacija čuva se u periodu od najmanje deset godina nakon stavljanja električne opreme na tržište i stavlja se na raspolaganje nadležnom inspektoru, u skladu sa zakonom kojim se uređuju tehnički zahtevi za proizvode i ocenjivanje usaglašenosti i propisom kojim se uređuje način sprovođenja ocenjivanja usaglašenosti.",
+            "III USAGLAŠENOST ELEKTRIČNE OPREME",
+            "Pretpostavka usaglašenosti na osnovu srpskih standarda kojima se preuzimaju harmonizovani standardi"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_elektricnoj_opremi_namenjenoj_za_upotrebu_u_okviru_odredjenih_granica_napona.html#clan_8"
+    },
+    {
+        "title": "Član 9",
+        "texts": [
+            "Smatra se da električna oprema ispunjava bezbednosne ciljeve iz člana 5. i Priloga 1 ovog pravilnika ako ispunjava zahteve srpskih standarda ili njihovih delova, kojima su preuzeti odgovarajući harmonizovani standardi, odnosno njihovi delovi, i to u meri u kojoj su ti ciljevi obuhvaćeni takvim standardima, odnosno njihovim delovima.",
+            "Spisak srpskih standarda iz stava 1. ovog člana (u daljem tekstu: spisak standarda) se sastavlja i objavljuje u skladu sa zakonom kojim se uređuju tehnički zahtevi za proizvode i ocenjivanje usaglašenosti.",
+            "Pretpostavka usaglašenosti na osnovu međunarodnih standarda"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_elektricnoj_opremi_namenjenoj_za_upotrebu_u_okviru_odredjenih_granica_napona.html#clan_9"
+    },
+    {
+        "title": "Član 10",
+        "texts": [
+            "U slučaju da nisu doneti i objavljeni srpski standardi iz člana 9. ovog pravilnika, smatra se da električna oprema ispunjava bezbednosne ciljeve iz člana 5. i Priloga 1 ovog pravilnika ako je izrađena u skladu sa zahtevima za bezbednost međunarodnih standarda Međunarodne elektrotehničke komisije (IEC) koji su objavljeni u službenom glasilu Evropske unije.",
+            "Pretpostavka usaglašenosti na osnovu nacionalnih standarda"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_elektricnoj_opremi_namenjenoj_za_upotrebu_u_okviru_odredjenih_granica_napona.html#clan_10"
+    },
+    {
+        "title": "Član 11",
+        "texts": [
+            "U slučaju da nisu doneti i objavljeni srpski standardi iz člana 9. ovog pravilnika, kao i da nisu objavljeni zahtevi za bezbednost međunarodnih standarda iz člana 10. ovog pravilnika, smatra se da električna oprema ispunjava bezbednosne ciljeve iz člana 5. i Priloga 1 ovog pravilnika ako je izrađena u skladu sa zahtevima za bezbednost iz nacionalnih standarda Republike Srbije ili države u kojoj je proizvedena kojima se obezbeđuje ispunjavanje tih bezbednosnih ciljeva.",
+            "Deklaracija o usaglašenosti"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_elektricnoj_opremi_namenjenoj_za_upotrebu_u_okviru_odredjenih_granica_napona.html#clan_11"
+    },
+    {
+        "title": "Član 12",
+        "texts": [
+            "Deklaracijom o usaglašenosti potvrđuje se da električna oprema ispunjava bezbednosne ciljeve iz člana 5. i Priloga 1 ovog pravilnika.",
+            "Deklaracija o usaglašenosti sačinjava se na srpskom jeziku po modelu iz Priloga 4 - Model deklaracije o usaglašenosti, koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo, tako da sadrži elemente iz postupka ocenjivanja usaglašenosti iz Priloga 2 ovog pravilnika i redovno se ažurira.",
+            "Izuzetno, za električnu opremu koja se uvozi u Republiku Srbiju, ukoliko deklaracija o usaglašenosti nije sačinjena na srpskom jeziku, lice koje stavlja tu električnu opremu na tržište obezbeđuje njen prevod na srpski jezik.",
+            "Ukoliko se na električnu opremu primenjuje više propisa kojima je utvrđena obaveza sačinjavanja deklaracije o usaglašenosti, sačinjava se jedinstvena deklaracija o usaglašenosti u skladu sa svim primenjenim propisima, u kojoj su navedeni svi ti propisi, pri čemu se pod jedinstvenom deklaracijom o usaglašenosti smatra i skup svih deklaracija o usaglašenosti u skladu sa pojedinačnim primenjenim propisima.",
+            "Sačinjavanjem deklaracije o usaglašenosti proizvođač preuzima odgovornost za usaglašenost električne opreme sa zahtevima ovog pravilnika.",
+            "Potvrda o usaglašenosti"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_elektricnoj_opremi_namenjenoj_za_upotrebu_u_okviru_odredjenih_granica_napona.html#clan_12"
+    },
+    {
+        "title": "Član 13",
+        "texts": [
+            "Pre stavljanja električne opreme na tržište, proizvođač, njegov zastupnik ili uvoznik za tu električnu opremu, u skladu sa postupkom iz Priloga 3 - Potvrda o usaglašenosti, koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo, obezbeđuje potvrdu o usaglašenosti ili izvod iz evidencije o izdatim potvrdama o usaglašenosti od tela za ocenjivanje usaglašenosti koje je imenovano za obavljanje poslova ocenjivanja usaglašenosti električne opreme sa bezbednosnim ciljevima iz člana 5. i Priloga 1 ovog pravilnika (u daljem tekstu: imenovano telo).",
+            "Potvrda o usaglašenosti ili izvod iz evidencije o izdatim potvrdama o usaglašenosti iz stava 1. ovog člana ne obezbeđuje se za električnu opremu za koju su zahtevi za bezbednost uređeni posebnim tehničkim propisima, a koji se u pogledu zahteva u vezi sa rizicima od električnih opasnosti pozivaju na primenu ovog pravilnika.",
+            "Potvrda o usaglašenosti važi za isti tip i/ili model električne opreme istog proizvođača pet godina od dana njenog izdavanja.",
+            "Označavanje usaglašenosti"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_elektricnoj_opremi_namenjenoj_za_upotrebu_u_okviru_odredjenih_granica_napona.html#clan_13"
+    },
+    {
+        "title": "Član 14",
+        "texts": [
+            "Električna oprema koja je usaglašena sa zahtevima ovog pravilnika, pre stavljanja na tržište, označava se znakom usaglašenosti iz Priloga 5 - Znak usaglašenosti, koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo.",
+            "Znak usaglašenosti stavlja se na električnu opremu ili njenu natpisnu pločicu tako da bude vidljiv, čitljiv i neizbrisiv, a ukoliko to nije moguće ili nije opravdano zbog karakteristika električne opreme, na njenu ambalažu ili dokumentaciju koja je prati.",
+            "Na električnu opremu se mogu stavljati i drugi znakovi, simboli, natpisi ili druge oznake, pod uslovom da se time ne smanjuje vidljivost, čitljivost i/ili značenje znaka usaglašenosti.",
+            "IV ZAHTEVI ZA IMENOVANO TELO ZA OCENJIVANJE USAGLAŠENOSTI",
+            "Zahtevi za obavljanje poslova ocenjivanja usaglašenosti električne opreme"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_elektricnoj_opremi_namenjenoj_za_upotrebu_u_okviru_odredjenih_granica_napona.html#clan_14"
+    },
+    {
+        "title": "Član 15",
+        "texts": [
+            "Telo za ocenjivanje usaglašenosti može da obavlja poslove ocenjivanja usaglašenosti električne opreme sa bezbednosnim ciljevima iz člana 5. i Priloga 1 ovog pravilnika ako ispunjava zahteve iz Priloga 6 - Zahtevi koje mora da ispuni telo za ocenjivanje usaglašenosti da bi bilo imenovano za ocenjivanje usaglašenosti, koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo i ako je imenovano u skladu sa zakonom kojim se uređuju tehnički zahtevi za proizvode i ocenjivanje usaglašenosti i propisom donetim na osnovu tog zakona.",
+            "Pretpostavka o ispunjenosti zahteva za imenovano telo"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_elektricnoj_opremi_namenjenoj_za_upotrebu_u_okviru_odredjenih_granica_napona.html#clan_15"
+    },
+    {
+        "title": "Član 16",
+        "texts": [
+            "Pretpostavlja se da telo za ocenjivanje usaglašenosti koje dokaže ispunjenost zahteva odgovarajućih srpskih standarda ili delova tih standarda, ispunjava i zahteve iz Priloga 6 ovog pravilnika, u meri u kojoj su ti zahtevi obuhvaćeni navedenim standardima.",
+            "Odgovarajući srpski standardi iz stava 1. ovog člana su srpski standardi kojima su preuzeti relevantni harmonizovani standardi koji sadrže zahteve za tela za ocenjivanje usaglašenosti.",
+            "Zahtevi za imenovano telo u vezi sa njegovim podizvođačima"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_elektricnoj_opremi_namenjenoj_za_upotrebu_u_okviru_odredjenih_granica_napona.html#clan_16"
+    },
+    {
+        "title": "Član 17",
+        "texts": [
+            "Ukoliko imenovano telo poveri podizvođaču obavljanje određenih aktivnosti u vezi sa ocenjivanjem usaglašenosti, za koje je to telo imenovano, u zemlji ili inostranstvu, imenovano telo obezbeđuje da taj podizvođač ispunjava zahteve iz Priloga 6 ovog pravilnika i dokaze o tome čuva i stavlja na raspolaganje ministru nadležnom za imenovanje tela za ocenjivanje usaglašenosti električne opreme sa bitnim zahtevima ovog pravilnika (u daljem tekstu: organ nadležan za imenovanje).",
+            "Imenovano telo, koje poverava određene aktivnosti u vezi sa ocenjivanjem usaglašenosti podizvođaču, ima punu odgovornost za obavljanje tih poverenih aktivnosti.",
+            "V PROVERE ELEKTRIČNE OPREME POSLE ISPORUKE NA TRŽIŠTU I ZAŠTITNA KLAUZULA",
+            "Zahtevi za bezbednost električne opreme posle isporuke na tržištu i/ili stavljanja u upotrebu, odnosno zahtevi za bezbednost električne opreme tokom veka upotrebe"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_elektricnoj_opremi_namenjenoj_za_upotrebu_u_okviru_odredjenih_granica_napona.html#clan_17"
+    },
+    {
+        "title": "Član 18",
+        "texts": [
+            "Isporučilac obezbeđuje da, bez odlaganja, budu preduzete sve neophodne korektivne radnje kako bi električna oprema koja je isporučena na tržištu i/ili stavljena u upotrebu, a koja nije usaglašena ili postoje razlozi da isporučilac smatra da nije usaglašena sa ovim pravilnikom, bila usaglašena sa ovim pravilnikom, povučena ili, ako je potrebno, opozvana.",
+            "Isporučilac, ako električna oprema predstavlja rizik za zdravlje i bezbednost ljudi, domaćih životinja ili za imovinu, odnosno nije usaglašena sa zahtevima ovog pravilnika, o tome nadležnom organu tržišnog nadzora, bez odlaganja, dostavlja obaveštenje koje sadrži i podatke o neusaglašenosti i preduzetim korektivnim radnjama, u skladu sa zakonom kojim se uređuju tehnički zahtevi za proizvode i ocenjivanje usaglašenosti.",
+            "Korektivne radnje iz stava 1. ovog člana se preduzimaju za svu neusaglašenu električnu opremu isporučenu na tržištu i to srazmerno riziku koji takva električna oprema predstavlja.",
+            "Ako je za električnu opremu iz stava 1. ovog člana izdata isprava o usaglašenosti u skladu sa ovim pravilnikom, imenovano telo koje je izdalo tu ispravu se obaveštava o utvrđenoj neusaglašenosti.",
+            "Ako nisu preduzete korektivne radnje u skladu sa stavom 1. ovog člana, preduzimaju se odgovarajuće mere, u skladu sa zakonom kojim se uređuju tehnički zahtevi za proizvode i ocenjivanje usaglašenosti.",
+            "Formalna neusaglašenost električne opreme"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_elektricnoj_opremi_namenjenoj_za_upotrebu_u_okviru_odredjenih_granica_napona.html#clan_18"
+    },
+    {
+        "title": "Član 19",
+        "texts": [
+            "Smatra se da je električna oprema formalno neusaglašena i, u slučaju neotklanjanja\nili ponavljanja formalne neusaglašenosti, preduzimaju se mere u skladu sa zakonom kojim se\nuređuju tehnički zahtevi za proizvode i ocenjivanje usaglašenosti, ako se posle isporuke\nelektrične opreme na tržištu utvrdi bilo koja od sledećih neusaglašenosti:",
+            "1) odsustvo znaka usaglašenosti;",
+            "2) stavljanje znaka usaglašenosti suprotno odredbama člana 14. ovog pravilnika;",
+            "3) nesačinjavanje deklaracije o usaglašenosti;",
+            "4) sačinjavanje deklaracije o usaglašenosti suprotno odredbama člana 12.\ni Priloga 4 ovog pravilnika;",
+            "5) nedostupnost ili nekompletnost tehničke dokumentacije;",
+            "6) odsustvo, nekompletnost ili netačnost informacija iz člana 8. stav 1.\ntač. 8) i 9) ovog pravilnika;",
+            "7) neispunjavanje drugih zahteva iz člana 8. ovog pravilnika, osim zahteva\niz stava 1. tačka 1) tog člana.",
+            "Zaštitna klauzula"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_elektricnoj_opremi_namenjenoj_za_upotrebu_u_okviru_odredjenih_granica_napona.html#clan_19"
+    },
+    {
+        "title": "Član 20",
+        "texts": [
+            "Isporuka ili upotreba električne opreme koja je isporučena na tržištu, čija je usaglašenost ocenjena u skladu sa ovim pravilnikom, na koju je stavljen znak usaglašenosti i za koju je sačinjena deklaracija o usaglašenosti, koju prati propisana dokumentacija i koja se koristi u skladu sa predviđenom namenom ili u uslovima koji se mogu razumno predvideti, a za koju se utvrdi da predstavlja rizik za zdravlje i bezbednost ljudi ili domaćih životinja ili za imovinu, može se ograničiti ili zabraniti ili ta električna oprema može biti povučena ili opozvana, u skladu sa zakonima kojima se uređuju tehnički zahtevi za proizvode i ocenjivanje usaglašenosti i tržišni nadzor i ovim pravilnikom.",
+            "VI USKLAĐENOST SA PROPISIMA EVROPSKE UNIJE"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_elektricnoj_opremi_namenjenoj_za_upotrebu_u_okviru_odredjenih_granica_napona.html#clan_20"
+    },
+    {
+        "title": "Član 21",
+        "texts": [
+            "Ovaj pravilnik je usklađen sa Direktivom 2014/35/EU Evropskog parlamenta i Saveta od 26. februara 2014. godine o usaglašavanju propisa država članica o isporučivanju na tržištu električne opreme namenjene za upotrebu u okviru određenih granica napona.",
+            "VII PRELAZNE I ZAVRŠNE ODREDBE"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_elektricnoj_opremi_namenjenoj_za_upotrebu_u_okviru_odredjenih_granica_napona.html#clan_21"
+    },
+    {
+        "title": "Član 22",
+        "texts": [
+            "Od dana stupanja na snagu potvrđenog međunarodnog ugovora o ocenjivanju usaglašenosti i prihvatanju industrijskih proizvoda sa Evropskom unijom (u daljem tekstu: ACAA sporazum) za električnu opremu na koju se primenjuje ovaj pravilnik ili, ako taj ugovor ne bude zaključen, od dana pristupanja Republike Srbije Evropskoj uniji, u svim odredbama i naslovima iz ovog pravilnika u kojima se navode, reči: \"znak usaglašenosti\" imaće značenje: \"CE znak\", a reči: \"deklaracija o usaglašenosti\" imaće značenje: \"EU deklaracija o usaglašenosti\".",
+            "Od dana pristupanja Republike Srbije Evropskoj uniji, u čl. 2. i 5. ovog pravilnika reči: \"Republika Srbija\" imaće značenje: \"Evropska unija\", u članu 11. ovog pravilnika reč: \"države\" imaće značenje: \"države članice Evropske unije\", a u članu 8. stav 1. tač. 9) i 10), reči: \"na srpskom jeziku\" imaće značenje: \"na srpskom jeziku ili na jeziku lako razumljivom krajnjim korisnicima i nadležnom inspektoru\"."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_elektricnoj_opremi_namenjenoj_za_upotrebu_u_okviru_odredjenih_granica_napona.html#clan_22"
+    },
+    {
+        "title": "Član 23",
+        "texts": [
+            "Od dana početka primene ovog pravilnika do dana stupanja na snagu ACAA sporazuma za električnu opremu na koju se primenjuje ovaj pravilnik ili, ako taj ugovor ne bude zaključen, do dana pristupanja Republike Srbije Evropskoj uniji, označavanje usaglašenosti električne opreme obavlja se stavljanjem Srpskog znaka usaglašenosti u skladu sa ovim pravilnikom i posebnim propisima.",
+            "Od dana stupanja na snagu ACAA sporazuma za električnu opremu na koju se primenjuje ovaj pravilnik ili, ako taj ugovor ne bude zaključen, od dana pristupanja Republike Srbije Evropskoj uniji, označavanje usaglašenosti električne opreme obavlja se stavljanjem CE znaka u skladu sa ovim pravilnikom i posebnim propisima."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_elektricnoj_opremi_namenjenoj_za_upotrebu_u_okviru_odredjenih_granica_napona.html#clan_23"
+    },
+    {
+        "title": "Član 24",
+        "texts": [
+            "Danom stupanja na snagu potvrđenog međunarodnog ugovora o ocenjivanju usaglašenosti\ni prihvatanju industrijskih proizvoda sa Evropskom unijom (ACAA sporazum) za električnu opremu\nna koju se primenjuje ovaj pravilnik ili, ako taj ugovor ne bude zaključen, danom pristupanja\nRepublike Srbije Evropskoj uniji, prestaju da se primenjuju odredbe tačke 2. Priloga 5 ovog\npravilnika."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_elektricnoj_opremi_namenjenoj_za_upotrebu_u_okviru_odredjenih_granica_napona.html#clan_24"
+    },
+    {
+        "title": "Član 25",
+        "texts": [
+            "Danom početka primene ovog pravilnika prestaju da važe sledeći propisi:",
+            "1) Pravilnik o električnoj opremi namenjenoj za upotrebu u okviru određenih granica napona (\"Službeni glasnik RS\", broj 13/10);",
+            "2) Pravilnik o tehničkim normativima za laserske uređaje i sisteme (\"Službeni list SFRJ\", broj 72/87);",
+            "3) Pravilnik o tehničkim merama za uređaje sa svetlećim cevima (\"Službeni list SFRJ\", broj 14/67);",
+            "4) Pravilnik o tehničkim i drugim zahtevima za obeležavanje laserskih proizvoda, zatvorenih prostorija i terena (\"Službeni glasnik RS\", broj 56/09).",
+            "Tela za ocenjivanje usaglašenosti koja su imenovana u skladu sa propisom iz stava 1. tačka 1) ovog člana, obavljaju te poslove, u skladu sa članom 13. ovog pravilnika, od dana početka primene ovog pravilnika do okončanja postupka imenovanja u skladu sa ovim pravilnikom.",
+            "Tela za ocenjivanje usaglašenosti iz stava 2. ovog člana mogu da organu nadležnom za imenovanje podnesu zahtev za imenovanje u skladu sa ovim pravilnikom najkasnije šest meseci od dana početka njegove primene.",
+            "Tela za ocenjivanje usaglašenosti iz stava 2. ovog člana, koja ne podnesu zahtev za imenovanje u roku iz stava 3. ovog člana, odnosno tela za ocenjivanje usaglašenosti za koja organ nadležan za imenovanje, po podnetom zahtevu, utvrdi da ne ispunjavaju zahteve iz ovog pravilnika, neće moći da obavljaju poslove ocenjivanja usaglašenosti kao imenovana tela u skladu sa ovim pravilnikom.",
+            "Isprave o usaglašenosti koje su, do dana početka primene ovog pravilnika, tela iz stava 2. ovog člana izdala sa rokom važenja, važe do isteka roka na koji su izdate, a isprave o usaglašenosti koje su ta tela, na osnovu propisa iz stava 1. tačka 1) ovog člana, izdala bez roka važenja, važe godinu dana od dana početka primene ovog pravilnika."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_elektricnoj_opremi_namenjenoj_za_upotrebu_u_okviru_odredjenih_granica_napona.html#clan_25"
+    },
+    {
+        "title": "Član 26",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u \"Službenom glasniku Republike Srbije\", a primenjuje se od 1. jula 2017. godine.",
+            "",
+            "Samostalni članovi Pravilnika o izmenamaPravilnika o električnoj opremi namenjenoj za upotrebu u okviru određenih granica napona",
+            "(\"Sl. glasnik RS\", br. 21/2020)"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_elektricnoj_opremi_namenjenoj_za_upotrebu_u_okviru_odredjenih_granica_napona.html#clan_26"
+    },
+    {
+        "title": "Član 5",
+        "texts": [
+            "Tela za ocenjivanje usaglašenosti koja su imenovana u skladu sa propisom\niz člana 25. stav 1. tačka 1) Pravilnika o električnoj opremi namenjenoj za upotrebu u okviru\nodređenih granica napona (\"Službeni glasnik RS\", broj 25/16), obavljaju te poslove,\nu skladu sa članom 13. tog pravilnika, najkasnije do 1. januara 2022. godine u skladu sa\novim pravilnikom."
+        ],
+        "link": null
+    },
+    {
+        "title": "Član 6",
+        "texts": [
+            "Odredbe čl. 13. i 15-17, Prilog 3 Potvrda o usaglašenosti, tačka 7. Priloga\n4 i Prilog 6 Zahtevi koje mora da ispuni telo za ocenjivanje usaglašenosti da bi bilo imenovano\nza ocenjivanje usaglašenosti, Pravilnika o električnoj opremi namenjenoj za upotrebu u okviru\nodređenih granica napona (\"Službeni glasnik RS\", broj 25/16), prestaju da važe\n1. januara 2022. godine."
+        ],
+        "link": null
+    },
+    {
+        "title": "Član 7",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u \"Službenom\nglasniku Republike Srbije\", osim člana 2. ovog pravilnika koji se primenjuje od 1. januara\n2022. godine.",
+            "",
+            "",
+            "Prilog 1",
+            "BITNI ELEMENTI BEZBEDNOSNIH CILJEVA ZA ELEKTRIČNU OPREMU NAMENJENU ZA UPOTREBU U OKVIRU ODREĐENIH GRANICA NAPONA",
+            "1. Opšti uslovi",
+            "1) na električnoj opremi ili, ako to nije moguće, na dokumentu koji prati ovu opremu, moraju biti označene bitne karakteristike čije će poznavanje i prepoznavanje obezbediti da se ta oprema koristi bezbedno i u skladu sa predviđenom namenom;",
+            "2) električna oprema i njene komponente izrađuju se tako da se osigura njihova bezbedna i pravilna montaža i priključivanje;",
+            "3) električna oprema projektuje se i izrađuje tako da obezbeđuje zaštitu od opasnosti iz tač. 2. i 3. ovog priloga, pod uslovom da se ta oprema upotrebljava u skladu sa predviđenom namenom i da se pravilno održava.",
+            "2. Zaštita od opasnosti koje mogu nastati od električne opreme",
+            "U skladu sa tačkom 1. ovog priloga primenjuju se tehničke mere koje obezbeđuju da:",
+            "1) ljudi i domaće životinje budu na odgovarajući način zaštićeni od opasnosti od fizičkih povreda ili druge štete koju može prouzrokovati direktan ili indirektan dodir sa delovima električne opreme pod naponom;",
+            "2) ne nastaju temperature, električni lukovi ili zračenja koja bi mogla prouzrokovati opasnost;",
+            "3) ljudi, domaće životinje i imovina budu na odgovarajući način zaštićeni od neelektričnih opasnosti za koje je iz prakse poznato da mogu biti prouzrokovane električnom opremom;",
+            "4) izolacija mora biti odgovarajuća za predvidive uslove.",
+            "3. Zaštita od opasnosti koje mogu prouzrokovati spoljni uticaji na električnu opremu",
+            "U skladu sa tačkom 1. ovog priloga primenjuju se tehničke mere koje obezbeđuju da električna oprema:",
+            "1) ispunjava očekivane mehaničke zahteve, tako da ne dovodi u opasnost ljude, domaće životinje i imovinu;",
+            "2) bude otporna na nemehaničke uticaje u predvidivim uslovima okruženja tako da ne dovodi u opasnost ljude, domaće životinje i imovinu;",
+            "3) ne dovodi u opasnost ljude, domaće životinje i imovinu u predvidivim uslovima preopterećenja.",
+            "",
+            "Prilog 2",
+            "INTERNA KONTROLA PROIZVODNJE",
+            "1. Interna kontrola proizvodnje je postupak ocenjivanja usaglašenosti kojim proizvođač ispunjava obaveze iz tač. 2, 3. i 4. ovog priloga i obezbeđuje i izjavljuje, isključivo na sopstvenu odgovornost, da je predmetna električna oprema usaglašena sa zahtevima iz ovog pravilnika koji se na nju primenjuju.",
+            "2. Tehnička dokumentacija",
+            "Proizvođač sačinjava tehničku dokumentaciju koja mora da omogući da se oceni usaglašenost električne opreme sa zahtevima koji se na tu električnu opremu primenjuju, kao i da obuhvati adekvatnu analizu i procenu rizika. Tehnička dokumentacija mora da sadrži precizno navedene zahteve koji se na električnu opremu primenjuju, a u meri u kojoj je potrebno za ocenjivanje usaglašenosti, tehnička dokumentacija mora da obuhvati projekat, izradu i rad proizvoda, i da sadrži:",
+            "- opšti opis električne opreme;",
+            "- projektne i radioničke crteže i šeme spajanja komponenata, podsklopova, strujnih kola itd.;",
+            "- opise i objašnjenja neophodna za razumevanje navedenih crteža i šema, kao i rada električne opreme;",
+            "- listu standarda iz čl. 9. do 11. ovog pravilnika, primenjenih u celosti ili delimično, a ako ti standardi nisu primenjeni, detaljan opis sa pratećim dokazima o adekvatnosti primenjenih rešenja za ispunjavanje bezbednosnih ciljeva iz ovog pravilnika, uključujući i spisak primenjenih relevantnih tehničkih specifikacija. U slučaju delimične primene standarda iz čl. 9. do 11. ovog pravilnika, u tehničkoj dokumentaciji mora da bude naznačeno koji delovi su primenjeni;",
+            "- rezultate izvedenih projektnih proračuna, sprovedenih ispitivanja, itd.;",
+            "- izveštaje o ispitivanju.",
+            "3. Proizvodnja",
+            "Proizvođač preduzima sve mere koje su potrebne da proizvodni proces i njegovo nadgledanje obezbede usaglašenost izrađene električne opreme sa tehničkom dokumentacijom iz tačke 2. ovog priloga i zahtevima ovog pravilnika koji se na tu električnu opremu primenjuju.",
+            "4. Znak usaglašenosti i deklaracija o usaglašenosti",
+            "4.1. Proizvođač stavlja znak usaglašenosti na svaku pojedinačnu električnu opremu koja je usaglašena sa odgovarajućim zahtevima iz ovog pravilnika.",
+            "4.2. Proizvođač sačinjava deklaraciju o usaglašenosti za svaki model električne opreme i čuva je, zajedno sa tehničkom dokumentacijom iz tačke 2. ovog priloga, tako da budu dostupni nadležnim organima, najmanje deset godina nakon što je poslednji komad tog modela električne opreme stavljen na tržište.",
+            "U deklaraciji o usaglašenosti identifikuje se električna oprema za koju je sačinjena.",
+            "Primerak deklaracije o usaglašenosti se, na zahtev, stavlja na raspolaganje nadležnim organima.",
+            "5. Zastupnik",
+            "Obaveze proizvođača iz tačke 4. ovog priloga, u njegovo ime i na njegovu odgovornost, može da ispuni njegov zastupnik ako je to navedeno u ovlašćenju.",
+            "",
+            "Prilog 3",
+            "POTVRDA O USAGLAŠENOSTI",
+            "1. Potvrda o usaglašenosti je isprava o usaglašenosti koju imenovano telo izdaje na osnovu pregleda dokumentacije iz tačke 2. ovog priloga i potvrđuje da tip i/ili model električne opreme ispunjava zahteve iz ovog pravilnika koji se na nju primenjuju.",
+            "2. Proizvođač, njegov zastupnik ili uvoznik podnosi zahtev za izdavanje potvrde o usaglašenosti imenovanom telu po svom izboru.",
+            "Zahtev mora da sadrži navode o identifikaciji električne opreme (proizvođač, tip i/ili model), kao i:",
+            "1) poslovno ime i adresu podnosioca zahteva;",
+            "2) pisanu izjavu da isti zahtev nije podnet drugom imenovanom telu;",
+            "3) dokumentaciju, koja uključuje deklaraciju o usaglašenosti i odgovarajuće delove tehničke dokumentacije iz Priloga 2 ovog pravilnika koji omogućavaju da se oceni usaglašenost električne opreme sa zahtevima koji se na tu električnu opremu primenjuju.",
+            "3. Imenovano telo pregleda dokumentaciju iz tačke 2. ovog priloga kako bi ocenilo da li tip i/ili model električne opreme ispunjava zahteve iz ovog pravilnika koji se na nju primenjuju.",
+            "4. Imenovano telo sačinjava izveštaj o ocenjivanju u kome se navode aktivnosti sprovedene u skladu sa tačkom 3. ovog priloga i rezultati tih aktivnosti. Ne dovodeći u pitanje obaveze koje ima prema organu nadležnom za imenovanje, imenovano telo može da objavi sadržaj sačinjenog izveštaja, u celosti ili delimično, isključivo uz prethodno pribavljenu saglasnost podnosioca zahteva.",
+            "5. Ako tip i/ili model električne opreme ispunjava zahteve iz ovog pravilnika koji se primenjuju na predmetnu električnu opremu, imenovano telo sačinjava i izdaje podnosiocu zahteva potvrdu o usaglašenosti.",
+            "Potvrda o usaglašenosti sadrži, naročito: poslovno ime proizvođača; izjavu da je električna oprema usaglašena sa ovim pravilnikom, uključujući i broj službenog glasila u kome je objavljen; broj potvrde; vrstu električne opreme; oznaku tipa i/ili modela električne opreme čija se usaglašenost potvrđuje.",
+            "Ako tip i/ili model električne opreme ne ispunjava odgovarajuće zahteve iz ovog pravilnika, imenovano telo odbija izdavanje potvrde o usaglašenosti i o tome obaveštava podnosioca zahteva, navodeći detaljne razloge za odbijanje.",
+            "6. Evidencija o izdatim potvrdama o usaglašenosti",
+            "Imenovano telo vodi i objavljuje na svojoj službenoj internet stranici evidenciju o izdatim potvrdama o usaglašenosti koja sadrži naročito podatke iz tačke 5. ovog priloga i na zahtev proizvođača ili njegovog zastupnika, odnosno uvoznika izdaje izvod iz te evidencije koji sadrži, naročito podatke o identifikaciji proizvođača i vrste, kao i tipa i/ili modela električne opreme za koju je izdata potvrda o usaglašenosti, broju i datumu izdavanja te potvrde.",
+            "7. Imenovano telo organu nadležnom za imenovanje i nadležnom organu tržišnog nadzora, periodično ili na zahtev, dostavlja liste potvrda o usaglašenosti koje je odbilo da izda, kao i liste potvrda o usaglašenosti i izvoda iz evidencije o izdatim potvrdama o usaglašenosti koje je izdalo.",
+            "Imenovano telo obaveštava druga imenovana tela o potvrdama o usaglašenosti koje je odbilo da izda, a na njihov zahtev, i o potvrdama o usaglašenosti koje je izdalo.",
+            "Imenovano telo, na zahtev nadležnih organa i drugih imenovanih tela, dostavlja kopije potvrda o usaglašenosti. Na zahtev nadležnih organa, imenovano telo dostavlja i kopiju dokumentacije na osnovu koje je izdalo potvrdu o usaglašenosti i rezultata pregleda koje je sprovelo.",
+            "Imenovano telo čuva primerak potvrde o usaglašenosti, izveštaj o ocenjivanju iz tačke 4. ovog priloga, kao i dokumentaciju koju je dostavio podnosilac zahteva, najmanje do isteka važenja potvrde o usaglašenosti.",
+            "8. Proizvođač, njegov zastupnik, odnosno uvoznik mora da čuva primerak potvrde o usaglašenosti ili izvoda iz evidencije o izdatim potvrdama o usaglašenosti, tako da bude dostupan nadležnim organima, najmanje deset godina nakon što je poslednji komad tog tipa, odnosno modela električne opreme stavljen na tržište.",
+            "9. Znak usaglašenosti",
+            "Proizvođač, njegov zastupnik, odnosno uvoznik stavlja Srpski znak usaglašenosti na svaku pojedinačnu električnu opremu istog tipa i/ili modela električne opreme opisane u potvrdi o usaglašenosti.",
+            "",
+            "Prilog 4",
+            "MODEL DEKLARACIJE O USAGLAŠENOSTI",
+            "Deklaracija o usaglašenosti se sačinjava po sledećem modelu, s tim da nije obavezno da u naslovu bude naveden broj deklaracije:",
+            "Deklaracija o usaglašenosti (br. XXXX)",
+            "1. Model električne opreme/Proizvod (naziv proizvoda, tip, šarža ili serijski broj):",
+            "2. Poslovno ime i adresa sedišta proizvođača, ili poslovno ime, i adresa sedišta njegovog zastupnika:",
+            "3. Za izdavanje ove deklaracije o usaglašenosti odgovoran je isključivo proizvođač.",
+            "4. Predmet deklaracije o usaglašenosti (identifikacija električne opreme kojom se omogućava sledljivost; može biti uključena i slika električne opreme u boji, dovoljne jasnoće, ako je to potrebno za identifikaciju električne opreme).",
+            "5. Predmet deklaracije o usaglašenosti opisan u tački 4. usaglašen je sa zahtevima sledećih propisa:",
+            "6. Pozivanje na primenjene standarde ili pozivanje na tehničke specifikacije u kojima su sadržani zahtevi za usaglašenost:",
+            "7. Ako je odgovarajuće, poslovno ime i registarski broj imenovanog tela koje je sprovelo postupak ocenjivanja usaglašenosti i izdalo ispravu o usaglašenosti, kao i broj te isprave.",
+            "8. Dodatne informacije:",
+            "Potpisano za i u ime:(mesto i datum izdavanja):(ime, funkcija) (potpis):",
+            "",
+            "Prilog 5",
+            "ZNAK USAGLAŠENOSTI",
+            "1. CE znak",
+            "CE znak usaglašenosti se sastoji od stilizovanog latiničnog slovnog znaka \"CE\" u sledećem obliku:",
+            "",
+            "Visina CE znaka iznosi, po pravilu, najmanje 5 mm.",
+            "Ako se CE znak smanjuje ili uvećava, moraju da se uzmu u obzir proporcije prikazane na ovom crtežu.",
+            "2. Srpski znak usaglašenosti",
+            "Srpski znak usaglašenosti se sastoji od tri velika slova A povezana u obliku jednakostraničnog trougla (3A), izgleda i sadržine kao na slici:",
+            "",
+            "Veličina znaka određuje se prema visini V znaka koja može da ima samo zaokružene vrednosti standardnih brojeva prema redu veličina R10 izraženih u milimetrima (mm) prema srpskom standardu SRPS A.A0.001 Standardni brojevi - Redovi standardnih brojeva.",
+            "Visina V znaka iznosi, po pravilu, najmanje 5 mm.",
+            "Uz Srpski znak usaglašenosti se stavlja registarski broj imenovanog tela iz registra imenovanih tela za ocenjivanje usaglašenosti, kao i poslednje dve cifre godine izdavanja isprave o usaglašenosti, ako je to telo sprovodilo, odnosno učestvovalo u ocenjivanju usaglašenosti.",
+            "",
+            "Prilog 6",
+            "ZAHTEVI KOJE MORA DA ISPUNI TELO ZA OCENJIVANJE USAGLAŠENOSTI DA BI BILO IMENOVANO ZA OCENJIVANJE USAGLAŠENOSTI",
+            "1. Da bi bilo imenovano za obavljanje poslova ocenjivanja usaglašenosti ovog pravilnika, telo za ocenjivanje usaglašenosti mora da ispuni zahteve iz tač. 2-11. ovog priloga.",
+            "2. Telo za ocenjivanje usaglašenosti mora da ima status pravnog lica registrovanog u Republici Srbiji.",
+            "3. Telo za ocenjivanje usaglašenosti mora da bude nezavisno od svih strana zainteresovanih za rezultate ocenjivanja usaglašenosti (\"treća strana\") i nezavisno od organizacije i električne opreme čiju usaglašenost ocenjuje.",
+            "Telo za ocenjivanje usaglašenosti koje je član poslovnog ili profesionalnog udruženja koje predstavlja organizacije uključene u aktivnosti projektovanja, proizvodnje, snabdevanja, sklapanja, korišćenja ili održavanja električne opreme čiju usaglašenost ocenjuje, može biti imenovano pod uslovom da dokaže svoju nezavisnost i odsustvo sukoba interesa.",
+            "4. Telo za ocenjivanje usaglašenosti, njegov direktor, odnosno članovi izvršnog odbora direktora, izvršni direktori ili članovi nadzornog odbora i sl. tog tela (u daljem tekstu: najviše rukovodstvo), kao i zaposlena i druga lica angažovana za sprovođenje aktivnosti ocenjivanja usaglašenosti (u daljem tekstu: osoblje) ne smeju da budu projektanti, proizvođači, isporučioci, instalateri, kupci, korisnici ili održavaoci električne opreme čiju usaglašenost ocenjuju, niti smeju da budu zastupnici bilo koje od tih strana. Ovim se ne dovodi u pitanje upotreba električne opreme koja je neophodna za rad tog tela ili upotreba električne opreme u lične svrhe.",
+            "Najviše rukovodstvo tela za ocenjivanje usaglašenosti, kao i njegovo osoblje ne smeju da budu direktno uključeni u aktivnosti projektovanja, proizvodnje, isporuke, instaliranja, korišćenja ili održavanja predmetne električne opreme, niti da budu zastupnici bilo koje strane uključene u te aktivnosti. Oni ne smeju da sprovode aktivnosti koje bi mogle da utiču na njihovo prosuđivanje i integritet u vezi sa poslovima ocenjivanja usaglašenosti za koje su imenovana, što se naročito odnosi na pružanje konsultantskih usluga.",
+            "Telo za ocenjivanje usaglašenosti mora da obezbedi da aktivnosti njegovih podizvođača ne ugrožavaju poverljivost, objektivnost i nepristrasnost u sprovođenju aktivnosti ocenjivanja usaglašenosti.",
+            "5. Telo za ocenjivanje usaglašenosti i njegovo osoblje dužno je da sprovodi aktivnosti ocenjivanja usaglašenosti sa najvišim stepenom profesionalnog integriteta i sa neophodnom tehničkom kompetentnošću u određenoj oblasti i ne sme da bude izloženo bilo kakvim pritiscima ili drugim razlozima i uticajima, posebno finansijskim, koji bi mogli da utiču na donošenje odluke i rezultate sprovedenih aktivnosti ocenjivanja usaglašenosti, naročito od strane lica ili grupa lica koje su zainteresovane za rezultate tih aktivnosti.",
+            "6. Telo za ocenjivanje usaglašenosti mora da bude kompetentno za sprovođenje aktivnosti ocenjivanja usaglašenosti u skladu sa postupkom ocenjivanja usaglašenosti za koji traži imenovanje, bez obzira da li te aktivnosti obavlja to telo ili se te aktivnosti obavljaju pod njegovom odgovornošću.",
+            "Za svaku vrstu električne opreme, kao i za svaki postupak ocenjivanja usaglašenosti, za koje telo za ocenjivanje usaglašenosti traži imenovanje, to telo, i pre i posle imenovanja, mora da ima na raspolaganju:",
+            "1) osoblje sa tehničkim znanjem, kao i dovoljnim i odgovarajućim iskustvom za obavljanje poslova ocenjivanja usaglašenosti;",
+            "2) opise procedura u skladu sa kojima se sprovodi ocenjivanje usaglašenosti, pri čemu mora da se obezbedi transparentnost, kao i staranje o istovetnoj primeni tih procedura. Takođe, telo za ocenjivanje usaglašenosti mora da ima i da primenjuje pravila i procedure kojima su jasno razgraničene aktivnosti ocenjivanja usaglašenosti koje sprovodi u svojstvu imenovanog tela i aktivnosti koje sprovodi u drugom svojstvu ili bilo koje druge aktivnosti;",
+            "3) procedure za izvršavanje aktivnosti ocenjivanja usaglašenosti koje uzimaju u obzir odgovarajuće aspekte organizacije isporučioca i električne opreme čiju usaglašenost ocenjuje, kao što su: veličina, delatnost i struktura isporučioca, nivo složenosti tehnologije predmetne električne opreme, masovna ili serijska priroda proizvodnog procesa.",
+            "Telo za ocenjivanje usaglašenosti mora da ima i da primenjuje odgovarajuću proceduru kojom je uredilo postupak odlučivanja po prigovorima na rad tog tela i donete odluke.",
+            "Telo za ocenjivanje usaglašenosti mora da raspolaže svim neophodnim sredstvima kako bi moglo da, na odgovarajući način, obavlja tehničke i administrativne poslove u vezi sa aktivnostima ocenjivanja usaglašenosti, kao i da ima pristup svoj neophodnoj opremi ili objektima.",
+            "7. Osoblje zaduženo za obavljanje poslova ocenjivanja usaglašenosti, mora da ima i:",
+            "1) odgovarajuće stručno i tehničko obrazovanje i radno iskustvo, odnosno odgovarajuću tehničku i stručnu obuku koja obuhvata sve aktivnosti ocenjivanja usaglašenosti u vezi sa kojima je telo imenovano;",
+            "2) odgovarajuće poznavanje zahteva za ocenjivanje koje sprovodi i ovlašćenje za obavljanje tih ocenjivanja;",
+            "3) odgovarajuće poznavanje i razumevanje bezbednosnih ciljeva iz člana 5. i Priloga 1 ovog pravilnika, relevantnih standarda iz čl. 14-16. ovog pravilnika i relevantnih odredaba zakona kojim se uređuju tehnički zahtevi za proizvode i ocenjivanje usaglašenosti i propisa koji su doneti na osnovu tog zakona, posebno propisa kojima se obezbeđuje usklađenost sa harmonizovanim zakonodavstvom Evropske unije;",
+            "4) sposobnost pripreme isprava o usaglašenosti, zapisa i izveštaja o izvršenim aktivnostima ocenjivanja usaglašenosti u skladu sa ovim pravilnikom.",
+            "8. Nepristrasnost tela za ocenjivanje usaglašenosti, odnosno njegovog najvišeg rukovodstva i osoblja koje sprovodi aktivnosti ocenjivanja usaglašenosti mora da bude garantovana.",
+            "Zarade, naknade, odnosno nagrade osoblja koje sprovodi aktivnosti ocenjivanja usaglašenosti ne smeju da zavise od broja obavljenih ocenjivanja, niti od rezultata takvih ocenjivanja.",
+            "9. Telo za ocenjivanje usaglašenosti mora da ima zaključen ugovor o osiguranju od odgovornosti za štetu od profesionalne delatnosti.",
+            "10. Telo za ocenjivanje usaglašenosti i njegovo osoblje moraju da poštuju poverljivost podataka i informacija u vezi sa ocenjivanjem usaglašenosti, u skladu sa zakonom. Ovim se ne dovode u pitanje obaveze koje telo za ocenjivanje usaglašenosti ima prema nadležnim organima. Prava svojine štite se u skladu sa zakonom.",
+            "11. Telo za ocenjivanje usaglašenosti mora da učestvuje u relevantnim aktivnostima organizacija za standardizaciju, odnosno da obezbedi da njegovo osoblje koje sprovodi aktivnosti ocenjivanja usaglašenosti bude upoznato sa aktivnostima tih organizacija.",
+            "Ako ne probate više različitih izbora nikada nećete biti sigurni da li imate najbolju opciju u svojim rukama. Mi Vam tu mogućnost nudimo besplatno! Popunite formular i dobićete priliku da bez ikakvih troškova saznate da li je Paragraf dobar izbor za Vas.",
+            "Ukoliko želite da Vas obaveštavamo o novostima i aktivnostima kompanije Paragraf prijavite se na našu mailing listu. Vaš e-mail neće biti upotrebljen u druge svrhe."
+        ],
+        "link": null
+    }
+]

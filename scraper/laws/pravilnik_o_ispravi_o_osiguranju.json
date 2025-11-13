@@ -1,0 +1,286 @@
+[
+    {
+        "title": "Član 1",
+        "texts": [
+            "Ovim pravilnikom uređuju se sadržaj i oblik isprave o osiguranju, način overe, kategorije osiguranih lica za koja Republički fond za zdravstveno osiguranje (u daljem tekstu: Republički fond) preuzima obavezu troškova izdavanja kartice zdravstvenog osiguranja, kao i druga pitanja od značaja za korišćenje isprave o osiguranju."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-ispravi-o-osiguranju.html#clan_1"
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Isprava o osiguranju iz člana 1. ovog pravilnika je kartica zdravstvenog osiguranja (u daljem tekstu: kartica) i potvrda o zdravstvenom osiguranju (u daljem tekstu: potvrda).",
+            "Licu kome je utvrđeno svojstvo osiguranog lica filijala Republičkog fonda (u daljem tekstu: matična filijala) izdaje, odnosno aktivira ispravu o osiguranju iz stava 1. ovog člana."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-ispravi-o-osiguranju.html#clan_2"
+    },
+    {
+        "title": "Član 3",
+        "texts": [
+            "Tekst u ispravi o osiguranju iz člana 2. ovog pravilnika ispisan je na srpskom jeziku ćiriličkim pismom.",
+            "Na području matične filijale na kome je, u skladu sa zakonom, u službenoj upotrebi i jezik nacionalnih manjina, u ispravi o osiguranju, pored teksta koji je ispisan na srpskom jeziku ćiriličkim pismom, tekst u ispravi o osiguranju ispisan je i na jeziku i pismu nacionalnih manjina.",
+            "U ispravu o osiguranju upisuju se u izvornom obliku podaci o imenu i prezimenu osiguranog lica kome se izdaje isprava o osiguranju, kako su upisani u ličnoj karti, odnosno izvodu iz matične knjige rođenih.",
+            "Podaci o imenu i prezimenu pripadnika nacionalnih manjina paralelno se upisuju i po pravopisu srpskog jezika i pisma.",
+            "II KARTICA"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-ispravi-o-osiguranju.html#clan_3"
+    },
+    {
+        "title": "Član 4",
+        "texts": [
+            "Kartica ima rok važnosti 10 godina od dana izdavanja kartice.",
+            "1. Zahtev za izdavanje kartice"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-ispravi-o-osiguranju.html#clan_4"
+    },
+    {
+        "title": "Član 5",
+        "texts": [
+            "Kartica se izdaje na osnovu zahteva za izdavanje kartice.",
+            "Zahtev za izdavanje kartice podnosi osiguranik za sebe i članove svoje porodice na obrascu KZO-P1, a poslodavac, odnosno drugo pravno lice podnosi zahtev za izdavanje kartice za zaposlene i članove njihovih porodica na obrascu KZO-P2.",
+            "Zahtev iz stava 2. ovog člana sa podacima o podnosiocu zahteva, odnosno o članu porodice, štampa se iz matične evidencije osiguranih lica Republičkog fonda (u daljem tekstu: matična evidencija), a podnosilac zahteva potpisom potvrđuje tačnost podataka unetih u zahtev.",
+            "Podaci o podnosiocu zahteva, odnosno zaposlenima i članovima njihovih porodica u zahtevima iz stava 2. ovog člana štampaju se ćiriličkim i latiničkim pismom, uz shodnu primenu člana 3. ovog pravilnika.",
+            "Zahtevi za izdavanje kartice iz stava 2. ovog člana odštampani su uz ovaj pravilnik i čini njegov sastavni deo.",
+            "2. Troškovi izdavanja kartice"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-ispravi-o-osiguranju.html#clan_5"
+    },
+    {
+        "title": "Član 6",
+        "texts": [
+            "Troškove izdavanja kartice snosi osiguranik za sebe i članove svoje porodice.",
+            "Izuzetno od stava 1. ovog člana, obveznik uplate doprinosa, odnosno drugo pravno ili fizičko lice, može preuzeti obavezu naknade troškova izdavanja kartice.",
+            "Za posebno socijalno ili zdravstveno osetljive kategorije osiguranih lica Republički fond može da obezbedi izdavanje kartica bez naknade zaključivanjem posebnih sporazuma sa drugim pravnim ili fizičkim licima o preuzimanju troškova izdavanja kartica.",
+            "3. Sadržaj i oblik kartice"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-ispravi-o-osiguranju.html#clan_6"
+    },
+    {
+        "title": "Član 7",
+        "texts": [
+            "Kartica sadrži vidljive podatke i podatke koje sadrži kontaktni mikrokontroler (u daljem tekstu: ČIP).",
+            "Vidljivi podaci su: ime, prezime, datum rođenja, lični broj osiguranog lica (u daljem tekstu: LBO), broj kartice i serijski broj ČIP-a.",
+            "Vidljivi podaci iz stava 2. ovog člana napisani su i Brajevim pismom za slepa i slabovida lica.",
+            "U ČIP se unose podaci iz matične evidencije.",
+            "ČIP sadrži sledeće identifikacione podatke o osiguraniku: ime, ime jednog roditelja, prezime, adresa (ulica i broj, mesto i opština), jedinstveni matični broj građana (u daljem tekstu: JMBG), odnosno evidencioni broj za strane državljane, datum rođenja, LBO, pol, osnov osiguranja i podatke o obvezniku plaćanja doprinosa.",
+            "ČIP sadrži sledeće podatke o članu porodice osiguranika: ime, ime jednog roditelja, prezime, adresa (ulica i broj, mesto i opština), JMBG, odnosno evidencioni broj za strane državljane, datum rođenja, LBO, pol, identifikacione podatke o osiguraniku iz stava 5. ovog člana i osnov osiguranja.",
+            "Podaci koje sadrži ČIP koriste se samo u slučaju da davalac zdravstvene usluge nema tehničke mogućnosti da pristupi podacima iz matične evidencije."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-ispravi-o-osiguranju.html#clan_7"
+    },
+    {
+        "title": "Član 8",
+        "texts": [
+            "Obrazac kartice je pravougaonog oblika, izrađen od sedam slojeva polikarbonata, dimenzija 86,60 mm x 53,98 mm, prema standardu ISO 7810A, štampan pantone bojama sa sigurnosnim dizajnom.",
+            "Zaštitni elementi na obrascu kartice su: gijoš linije, mikrotekst, iris štampa, UV nevidljiva boja, sito štampa optički varijabilnim bojama, transparentni OVD i reljefna laminacija na poleđini obrasca (Brajeva azbuka).",
+            "Obrazac kartice odštampan je uz ovaj pravilnik i čini njegov sastavni deo.",
+            "4. Izdavanje kartice"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-ispravi-o-osiguranju.html#clan_8"
+    },
+    {
+        "title": "Član 9",
+        "texts": [
+            "Karticu aktivira matična filijala i izdaje je osiguranom licu.",
+            "Osiguranom licu se dostavlja aktivirana kartica u koverti sa listom A4 formata na kome je nalepljena kartica sa ličnim podacima osiguranog lica i list na kome se nalazi PIN za karticu, kao zaštitni kod ličnih podataka vlasnika kartice.",
+            "Dostavljanje kartice osiguranom licu vrši se uručenjem na šalteru matične filijale, ličnom dostavom na kućnu adresu ili uručenjem ovlašćenom licu poslodavca za zaposlene i članove njihovih porodica, odnosno ovlašćenom licu drugog pravnog lica.",
+            "Prijem koverte iz stava 2. ovog člana, osigurano lice, odnosno ovlašćeno lice poslodavca ili drugog pravnog lica potvrđuje svojim potpisom u internoj evidenciji Republičkog fonda, odnosno na poštanskoj povratnici.",
+            "Prilikom izdavanja kartice matična filijala vrši poništavanje ranije izdate isprave o zdravstvenom osiguranju, perforacijom i poništavanjem u elektronskom obliku.",
+            "Matična filijala vodi evidenciju o poništenim ranije izdatim karticama.",
+            "5. Promena podataka u toku osiguranja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-ispravi-o-osiguranju.html#clan_9"
+    },
+    {
+        "title": "Član 10",
+        "texts": [
+            "Ako se promene vidljivi podaci na kartici, osigurano lice je dužno da podnese zahtev za izdavanje nove kartice u skladu sa članom 5. ovog pravilnika.",
+            "Ako se promene podaci sadržani u ČIP-u kartice, osiguranom licu se ne izdaje nova kartica, već se elektronskim putem vrši promena podataka u matičnoj evidenciji.",
+            "Na usmeni zahtev osiguranog lica, u slučaju promene podataka iz stava 2. ovog člana, matična filijala vrši fizičku sinhronizaciju podataka sadržanih u ČIP-u kartice sa podacima koji su izmenjeni u matičnoj evidenciji.",
+            "6. Overa kartice"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-ispravi-o-osiguranju.html#clan_10"
+    },
+    {
+        "title": "Član 11",
+        "texts": [
+            "Republički fond, odnosno matična filijala vrši overu kartice u skladu sa odredbama ovog pravilnika.",
+            "Overa kartice vrši se na osnovu podataka o plaćenim dospelim doprinosima za obavezno zdravstveno osiguranje (u daljem tekstu: doprinosi).",
+            "Republički fond, odnosno matična filijala utvrđuje da je plaćen doprinos iz stava 2. ovog člana uvidom u elektronske podatke o uplatama doprinosa dostavljenih od nadležnih organa, uvidom u elektronski dokument o uplati doprinosa ili na osnovu uplatnice sa potvrdom nosioca platnog prometa o izvršenoj uplati.",
+            "Overa kartice vrši se automatski ili u filijali neposrednim unosom podatka o overi u matičnu evidenciju.",
+            "Izuzetno, od stava 4. ovog člana ako se nisu stekli uslovi za automatsku overu kartice, overa kartica se vrši neposredno, u matičnoj filijali osiguranog lica uz dostavljanje dokaza, odnosno uz izvršen uvid u elektronsku evidenciju o propisanim dokazima."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-ispravi-o-osiguranju.html#clan_11"
+    },
+    {
+        "title": "Član 12",
+        "texts": [
+            "Overa kartice osiguranicima iz člana 11. Zakona o zdravstvenom osiguranju (u daljem tekstu: Zakon) vrši se:",
+            "1) licima u radnom odnosu u privrednom društvu, drugom pravnom licu, državnom organu, organu jedinice lokalne samouprave i autonomne pokrajine i kod fizičkih lica - na period kalendarskog polugodišta (januar-jun i jul-decembar), odnosno na rok trajanja ugovora o radu ako taj ugovor ističe pre isteka kalendarskog polugodišta;",
+            "2) civilnim licima na službi u Vojsci Srbije, jedinicama Vojske Srbije i ustanovama Vojske Srbije - na period kalendarskog polugodišta (januar-jun i jul-decembar), odnosno na rok trajanja ugovora o radu ako taj ugovor ističe pre isteka kalendarskog polugodišta;",
+            "3) izabranim, imenovanim ili postavljenim licima ako za obavljanje funkcije ostvaruju zaradu, odnosno platu ili naknadu zarade - na period kalendarskog polugodišta (januar-jun i jul-decembar), odnosno na period izbora, imenovanja, odnosno postavljenja ako taj period ističe pre isteka kalendarskog polugodišta;",
+            "4) licima koja u skladu zakonom kojim se uređuje rad, obavljaju poslove van prostorija poslodavca - na period kalendarskog polugodišta (januar-jun i jul-decembar), odnosno na rok trajanja ugovora o radu ako taj ugovor ističe pre isteka kalendarskog polugodišta;",
+            "5) licima koja, u skladu sa zakonom kojim se uređuje rad, obavljaju poslove kućnog pomoćnog osoblja - na period kalendarskog polugodišta (januar-jun i jul-decembar), odnosno na rok trajanja ugovora o radu ako taj ugovor ističe pre isteka kalendarskog polugodišta;",
+            "6) državljanima Republike Srbije koji su na teritoriji Republike Srbije zaposleni kod stranih ili međunarodnih organizacija i ustanova, stranih konzularnih ili diplomatskih predstavništava, ili su zaposleni kod stranih pravnih ili fizičkih lica, ako međunarodnim ugovorom nije drukčije određeno - na period kalendarskog polugodišta (januar-jun i jul-decembar), odnosno na rok trajanja ugovora o radu ako taj ugovor ističe pre isteka kalendarskog polugodišta;",
+            "7) zaposlenima upućenim na rad u inostranstvo, odnosno u privrednom društvu ili drugom pravnom licu koje obavlja delatnost ili usluge u inostranstvu, ako nisu obavezno osigurani po propisima te države ili ako međunarodnim ugovorom nije drukčije određeno - na period kalendarskog polugodišta (januar-jun i jul-decembar), odnosno na rok trajanja ugovora o radu ako taj ugovor ističe pre isteka kalendarskog polugodišta;",
+            "8) zaposlenom roditelju, usvojitelju, hranitelju, odnosno staratelju koji odsustvuje sa rada dok dete ne navrši tri godine života, dok mu miruju prava i obaveze po osnovu rada, u skladu sa propisima kojima se uređuje rad - na period kalendarskog polugodišta (januar-jun i jul-decembar), odnosno na rok trajanja ugovora o radu ako taj ugovor ističe pre isteka kalendarskog polugodišta, odnosno do datuma kada dete navršava tri godine ako je taj datum pre isteka kalendarskog polugodišta;",
+            "9) državljanima Republike Srbije zaposlenim u inostranstvu kod stranog poslodavca koji nemaju zdravstveno osiguranje stranog nosioca zdravstvenog osiguranja ili koji nisu obavezno osigurani prema propisima strane države, odnosno ako prava iz zdravstvenog osiguranja po propisima te države, za sebe ili članove svoje porodice, ne mogu ostvarivati ili koristiti van teritorije te države - na rok od šest meseci;",
+            "10) strancu koji je zasnovao radni odnos ili je radno angažovan u smislu propisa kojima je uređeno zapošljavanje stranaca u Republici Srbiji, ako međunarodnim ugovorom nije drukčije određeno - na rok od šest meseci;",
+            "11) državljanima Republike Srbije zaposlenim u domaćinstvima osiguranika koji su u radnom odnosu u inostranstvu kod organizacije čije je sedište na teritoriji Republike Srbije - na period kalendarskog polugodišta (januar-jun i jul-decembar), odnosno na rok trajanja ugovora o radu ako taj ugovor ističe pre isteka kalendarskog polugodišta;",
+            "12) licima koja ostvaruju pravo na novčanu naknadu po osnovu nezaposlenosti, prema propisima o zapošljavanju - na rok od godinu dana, odnosno na rok utvrđen za primanje novčane naknade ako je taj rok kraći od godinu dana, odnosno na rok od 60 dana ako je kartica izdata na osnovu potvrde Nacionalne službe za zapošljavanje o podnetom zahtevu za ostvarivanje prava na novčanu naknadu;",
+            "13) licima koja obavljaju privremene i povremene poslove u skladu sa zakonom kojim se uređuje rad - na rok od šest meseci;",
+            "14) licima koja, u skladu sa zakonom obavljaju privremene i povremene poslove preko omladinske, odnosno studenske zadruge, a imaju navršenih 26 godina života, odnosno bez obzira na godine života ako nisu na školovanju - na rok od šest meseci;",
+            "15) licima koja po prestanku radnog odnosa ostvaruju pravo na naknadu zarade zbog povrede na radu ili profesionalne bolesti, u skladu sa Zakonom - na rok od mesec dana, odnosno najduže na rok na koji je stručno-medicinski organ Republičkog fonda utvrdio trajanje privremene sprečenosti za rad;",
+            "16) licima koja obavljaju poslove po osnovu ugovora o delu, po osnovu autorskog ugovora, po osnovu ugovora o porodičnom smeštaju prema propisima o socijalnoj zaštiti, ugovora o stručnom osposobljavanju i usavršavanju uz naknadu, kao i po osnovu drugih ugovora kod kojih se za izvršeni posao ostvaruje naknada, odnosno nagrada (ugovorena naknada) - na rok od šest meseci;",
+            "17) licima koja su osnivači, odnosno članovi privrednih društava u skladu sa zakonom koji u njima rade bez zasnivanja radnog odnosa - na rok od šest meseci;",
+            "18) licima koja su registrovana za obavljanje delatnosti u vidu zanimanja radi samostalnog obavljanja delatnosti i obavljanja delatnosti slobodne profesije (preduzetnici), kao i samostalni umetnici u skladu sa zakonom - na rok od šest meseci;",
+            "19) sportistima, koji u skladu sa zakonom kojim se uređuje sport obavljaju sportsku delatnost kao samostalnu delatnost - na rok od šest meseci;",
+            "20) sveštenicima i verskim službenicima verskih zajednica registrovanih u Republici Srbiji koji te poslove obavljaju kao samostalnu delatnost - na rok od šest meseci;",
+            "21) poljoprivrednicima koji se bave poljoprivrednom proizvodnjom u skladu sa propisima kojima se uređuje poljoprivreda, odnosno poljoprivredna delatnost, ako nisu: osiguranici zaposleni, osiguranici osnivači, odnosno članovi privrednih društava koji u njima rade bez zasnivanja radnog odnosa, osiguranici preduzetnici, osiguranici samostalni umetnici, korisnici penzija i lica na školovanju - na rok od šest meseci;",
+            "22) licima koja obavljaju poljoprivrednu delatnost kao jedino ili osnovno zanimanje, a upisani su u registar poljoprivrednih gazdinstava u svojstvu nosioca ili člana porodice nosioca poljoprivrednog gazdinstva, ako nisu: osiguranici zaposleni, osiguranici osnivači, odnosno članovi privrednih društava koji u njima rade bez zasnivanja radnog odnosa, osiguranici preduzetnici, osiguranici samostalni umetnici, korisnici penzija i lica na školovanju - na rok od šest meseci;",
+            "23) javnim beležnicima i javnim izvršiteljima - na rok od šest meseci;",
+            "24) korisnicima penzija koji su pravo na penziju ostvarili u skladu sa propisima o penzijskom i invalidskom osiguranju - trajno, odnosno na rok od 60 dana ako je izdata potvrda Republičkog fonda za penzijsko i invalidsko osiguranje o podnetom zahtevu za ostvarivanje prava na penziju;",
+            "25) licima koja primaju penziju ili invalidninu isključivo od inostranog nosioca osiguranja, i koja imaju prebivalište ili boravište, odnosno stalno nastanjenje ili privremeni boravak u Republici Srbiji u skladu sa zakonom, odnosno ako sa državom od koje primaju penziju ili invalidninu ne postoji međunarodni ugovor o socijalnom osiguranju ili je međunarodnim ugovorom drugačije određeno - na rok od šest meseci;",
+            "26) licima koja primaju penziju ili invalidninu isključivo od inostranog nosioca osiguranja, i koja imaju prebivalište ili boravište, odnosno stalno nastanjenje ili privremeni boravak u Republici Srbiji u skladu sa zakonom, a kod kojih postoje određene pravne smetnje zbog kojih ne mogu da ostvare zdravstveno osiguranje primenom međunarodnog ugovora i to samo radi ostvarivanja prava iz zdravstvenog osiguranja na teritoriji Republike Srbije - na rok od šest meseci;",
+            "27) stranim državljanima koji na teritoriji Republike Srbije rade kod domaćih pravnih subjekata na osnovu posebnih ugovora o razmeni stručnjaka ili sporazuma o međunarodnoj tehničkoj saradnji - na rok od šest meseci;",
+            "28) stranim državljanima za vreme školovanja ili stručnog usavršavanja na teritoriji Republike Srbije koji su zdravstveno osigurani u skladu sa Zakonom do isteka školske godine, odnosno završetka akademske godine u kojoj su završili školovanje, ali ne duže od navršene 26 godine života - na rok od šest meseci (po semestru) ili do kraja školske godine za osnovno i srednje obrazovanje.",
+            "Svaka naredna overa kartice izdate na osnovu potvrde o podnetom zahtevu za ostvarivanje prava, za osiguranike iz stava 1. tač. 12) i 24) ovog člana, vrši se na osnovu potvrde da postupak za donošenje rešenja nije okončan, odnosno da rešenje o priznavanju prava nije doneto."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-ispravi-o-osiguranju.html#clan_12"
+    },
+    {
+        "title": "Član 13",
+        "texts": [
+            "Overa kartica osiguranicima iz člana 16. Zakona, vrši se:",
+            "1) deci do navršenih 18 godina života, a školskoj deci posle navršenih 18 godina i studentima do kraja propisanog školovanja, a najkasnije do navršenih 26 godina života - na rok od godinu dana, a najduže do kraja školske godine;",
+            "2) licima u vezi sa planiranjem porodice - na rok od godinu dana;",
+            "3) ženama iz u vezi sa planiranjem porodice, kao i u toku trudnoće i porođaja - na rok od godinu dana i 12 meseci nakon porođaja;",
+            "4) licima starijim od 65 godina života - na rok od šest meseci;",
+            "5) osobama sa invaliditetom čiji je invaliditet utvrđen u skladu sa zakonom - na rok od godinu dana;",
+            "6) licima u vezi sa lečenjem od zaraznih bolesti koje su utvrđene posebnim zakonom kojim se uređuje oblast zaštite stanovništva od zaraznih bolesti, malignih bolesti, šećerne bolesti, psihoze, epilepsije, multiple skleroze, licima u terminalnoj fazi hronične bubrežne insuficijencije, sistemske autoimune bolesti, reumatske groznice, bolesti zavisnosti, obolelima od retkih bolesti, kao i licima obuhvaćenim zdravstvenom zaštitom u vezi sa davanjem i primanjem organa, ćelija i tkiva - na rok od godinu dana;",
+            "7) monasima i monahinjama - na rok od šest meseci;",
+            "8) korisnicima novčane socijalne pomoći, odnosno korisnicima smeštaja u ustanove socijalne zaštite ili u druge porodice, odnosno korisnicima posebne novčane naknade za roditelja, u skladu sa zakonom - na rok od šest meseci;",
+            "9) korisnicima porodične invalidnine, odnosno mesečnog novčanog primanja po propisima o zaštiti boraca, vojnih invalida i civilnih invalida rata - na rok od godinu dana;",
+            "10) nezaposlenim licima čiji su mesečni prihodi ispod prihoda utvrđenih u skladu sa Zakonom - na rok od godinu dana;",
+            "11) korisnicima pomoći članovima porodice čiji je hranilac na odsluženju vojnog roka - na period u kome se hranilac nalazi na odsluženju vojnog roka;",
+            "12) licima romske nacionalnosti koja zbog tradicionalnog načina života nemaju stalno prebivalište, odnosno boravište u Republici Srbiji - na rok od godinu dana;",
+            "13) žrtvama nasilja u porodici - na rok od tri meseca;",
+            "14) žrtvama trgovine ljudima - na rok od tri meseca;",
+            "15) žrtvama terorizma - na rok od tri meseca;",
+            "16) borcima kojima je status borca utvrđen u skladu sa propisima o zaštiti boraca - na rok od godinu dana;",
+            "17) izbeglim i prognanim licima kojima je nadležni republički organ utvrdio status izbeglog, odnosno prognanog lica iz bivših republika SFRJ, ili status raseljenog lica ako ispunjavaju uslov u pogledu mesečnog iznosa prihoda kao cenzusa za sticanje svojstva osiguranog lica i ako imaju boravište na teritoriji Republike Srbije - na rok od šest meseci.",
+            "Osiguranicima iz stava 1. tač. 10) i 17) ovog člana, prilikom svake overe kartice, vrši se provera mesečnih prihoda u skladu sa Zakonom."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-ispravi-o-osiguranju.html#clan_13"
+    },
+    {
+        "title": "Član 14",
+        "texts": [
+            "Licima iz člana 17. Zakona - osiguranicima koji su uključeni u obavezno zdravstveno osiguranje, kartica se overava na rok od šest meseci."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-ispravi-o-osiguranju.html#clan_14"
+    },
+    {
+        "title": "Član 15",
+        "texts": [
+            "Članu porodice osiguranika overa kartice vrši se na rok na koji se kartica overava osiguraniku od koga član porodice izvodi prava iz obaveznog zdravstvenog osiguranja, ako ovim pravilnikom nije drugačije određeno.",
+            "Izuzetno od stava 1. ovog člana, ako je osiguraniku kartica overena trajno, overa kartice za člana porodice - dete vrši se do navršenih 18 godina života.",
+            "Članu porodice osiguranika - detetu od navršenih 18 godina života za vreme propisanog srednjoškolskog, odnosno visokoškolskog obrazovanja, kartica se overava do kraja školske godine.",
+            "Overa kartice članu porodice iz stava 3. ovog člana vrši se uz dokaz da je osigurano lice na školovanju, a ako je osigurano lice na školovanju u inostranstvu, dokaz o školovanju potrebno je da bude preveden na srpski jezik.",
+            "Dokaz da je osigurano lice na školovanju iz stava 4. ovog člana, dostavlja se jednom godišnje i to kod prve overe kartice posle upisa školske godine.",
+            "Izuzetno od stava 3. ovog člana, članu porodice osiguranika - detetu starijem od 18 godina života, koje na kraju školske godine dobija diplomu o stečenom srednjem obrazovanju i vaspitanju, kartica se overava do 30. septembra tekuće godine.",
+            "Članu porodice osiguranika - detetu koje je zbog bolesti prekinulo školovanje, kartica se overava posle navršenih 18 godina života, odnosno posle navršenih 26 godina života, najduže za onoliko vremena za koliko je lekarska komisija utvrdila trajanje prekida školovanja zbog bolesti.",
+            "7. Overa na osnovu započete uplate doprinosa"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-ispravi-o-osiguranju.html#clan_15"
+    },
+    {
+        "title": "Član 16",
+        "texts": [
+            "Za osigurana lica za koja doprinos nije redovno izmirivan, kartica se overava pod uslovom da je obveznik uplate doprinosa započeo sa izmirivanjem doprinosa i nastavio sa njihovim kontinuiranim izmirivanjem u skladu sa Zakonom.",
+            "Obveznik doprinosa započinje sa izmirivanjem doprinosa u smislu stava 1. ovog člana, kada izvrši uplatu doprinosa najmanje u visini doprinosa koji je utvrđen za jedan mesec.",
+            "Za svaku narednu overu kartice, obveznik doprinosa uz usmeni zahtev za overu kartice osiguranom licu, dostavlja dokaz o kontinuiranom izmirivanju doprinosa za mesece u periodu od prethodne overe kartice do podnošenja zahteva za novu overu kartice, ako to nije moguće utvrditi uvidom u elektronske podatke o uplatama doprinosa dostavljenih od nadležnih organa.",
+            "Rok na koji se overava kartica osiguranim licima iz stava 1. ovog člana je tri meseca.",
+            "Overa kartice na rok iz stava 4. ovog člana, vrši se dok obveznik uplate doprinosa ne izmiri sve doprinose."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-ispravi-o-osiguranju.html#clan_16"
+    },
+    {
+        "title": "Član 17",
+        "texts": [
+            "Za overu kartice u skladu sa članom 16. stav 1. ovog pravilnika, obveznik uplate doprinosa kao dokaz o započetom izmirivanju doprinosa, podnosi izvod iz pojedinačne poreske prijave o obračunatim porezima i doprinosima sa brojem odobrenja za plaćanje (BOP) za mesec za koji je uplaćen doprinos ako je, u skladu sa zakonom, i obveznik podnošenja pojedinačne poreske prijave.",
+            "Za svaku narednu overu kartice u skladu sa članom stavom 16. stav 3. ovog pravilnika, obveznik uplate doprinosa dostavlja izvod iz pojedinačne poreske prijave o obračunatim porezima i doprinosima sa brojem odobrenja za plaćanje (BOP) za perioda od poslednje overe kartica do momenta nove overe ako je, u skladu sa zakonom, i obveznik podnošenja pojedinačne poreske prijave.",
+            "Za overu kartice, obveznik doprinosa koji, u skladu sa zakonom, nije obveznik podnošenja pojedinačne poreske prijave, kao dokaz o započetom izmirivanju doprinosa, podnosi akt kojim je utvrđena visina doprinosa, odnosno visina ugovorene naknade koja čini osnovicu za obračun doprinosa i dokaz o uplati doprinosa najmanje u visini utvrđenog mesečnog iznosa doprinosa.",
+            "Za svaku narednu overu kartice osiguranom licu iz stava 3. ovog člana, obveznik uplate doprinosa dostavlja dokaze o redovnom i kontinuiranom izmirivanju doprinosa, za period od poslednje overe kartice do momenta podnošenja novog zahteva za overu.",
+            "8. Gubitak i oštećenje kartice"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-ispravi-o-osiguranju.html#clan_17"
+    },
+    {
+        "title": "Član 18",
+        "texts": [
+            "Osigurano lice koje je izgubilo karticu odnosno kome je oštećena kartica, pisanim putem o tome odmah obaveštava matičnu filijalu, radi podnošenja zahteva za izdavanje nove kartice.",
+            "Osigurano lice koje ne obavesti matičnu filijalu o gubitku kartice u skladu sa stavom 1. ovog člana, snosi troškove nastale zloupotrebom izgubljene kartice od strane drugog lica, solidarno sa davaocem zdravstvene usluge koji je pružio tu zdravstvenu uslugu.",
+            "III POTVRDA"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-ispravi-o-osiguranju.html#clan_18"
+    },
+    {
+        "title": "Član 19",
+        "texts": [
+            "Do izdavanja kartice, matična filijala osiguranom licu izdaje potvrdu na Obrascu PZK.",
+            "Potvrda iz stava 1. ovog člana štampa se iz matične evidencije na srpskom jeziku ćiriličkim, odnosno latiničkim pismom.",
+            "Potvrda iz stava 1. ovog člana odštampana je uz ovaj pravilnik i čini njegov sastavni deo.",
+            "Prilikom izdavanja kartice, potvrda izdata u skladu sa stavom 1. ovog člana, poništava se, o čemu matična filijala vodi evidenciju."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-ispravi-o-osiguranju.html#clan_19"
+    },
+    {
+        "title": "Član 20",
+        "texts": [
+            "Potvrda iz člana 19. ovog pravilnika izdaje se osiguranom licu sa rokom važenja:",
+            "1) na koji bi bila overena kartica osiguranom licu prema osnovu osiguranja u skladu sa odredbama ovog pravilnika;",
+            "2) na koji je bila overena kartica koja je izgubljena, ukradena ili oštećena;",
+            "3) najduže na tri meseca od dana izdavanja potvrde osiguranom licu kome je kartica ranije izdata, ali zbog prekida staža u obaveznom zdravstvenom osiguranju, osigurano lice u momentu izdavanja potvrde nije ispunilo uslov za overu u pogledu prethodnog staža osiguranja u skladu sa zakonom;",
+            "4) najduže na tri meseca od dana izdavanja Potvrde osiguranom licu koje nema prethodni staž osiguranja neophodan za sticanje svojstva osiguranog lica u skladu sa Zakonom;",
+            "5) tri meseca licu kome se prava iz obaveznog zdravstvenog osiguranja obezbeđuju samo u slučaju nastanka povrede na radu ili profesionalne bolesti;",
+            "6) upisivanjem znaka \"0\" (bez oznake roka) u prostor predviđen za upisivanje roka važnosti potvrde (datum važenja) za osigurana lica koja ne ispunjavaju uslov za overu isprave o osiguranju (nisu plaćeni dospeli doprinosi i sl.)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-ispravi-o-osiguranju.html#clan_20"
+    },
+    {
+        "title": "Član 21",
+        "texts": [
+            "Osigurano lice sa izdatom potvrdom u skladu sa članom 20. stav 1. tač. 1) i 2) ovog pravilnika, ostvaruje sva prava iz obaveznog zdravstvenog osiguranja u roku važenja potvrde.",
+            "Osigurano lice sa izdatom potvrdom u skladu sa članom 20. stav 1. tač. 3) i 4) ovog pravilnika ostvaruje pravo samo na hitnu zdravstvenu zaštitu do ispunjenja uslova za overu kartice.",
+            "Lice sa izdatom potvrdom u skladu sa članom 20. stav 1. tačka 5) ovog pravilnika ostvaruje pravo na zdravstvenu zaštitu samo u slučaju nastanka povrede na radu ili profesionalnog oboljenja u roku važenja potvrde.",
+            "Osigurano lice sa izdatom potvrdom u skladu sa članom 20. stav 1. tačka 6) ovog pravilnika ostvaruje pravo na hitnu medicinsku pomoć; ciljane preventivne preglede - skrining prema odgovarajućim nacionalnim programima; obaveznu imunizaciju prema propisima kojima se uređuje zdravstvena zaštita stanovništva od zaraznih bolesti; palijativno zbrinjavanje; prava iz zdravstvenog osiguranja propisana zakonom kojim se uređuje zdravstvena zaštita dece, trudnica i porodilja.",
+            "IV PRELAZNE I ZAVRŠNE ODREDBE"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-ispravi-o-osiguranju.html#clan_21"
+    },
+    {
+        "title": "Član 22",
+        "texts": [
+            "Osigurana lica za koja, do dana stupanja na snagu ovog pravilnika, nije izvršena zamena zdravstvene knjižice karticom, prava iz obaveznog zdravstvenog osiguranja do zamene koriste na osnovu zdravstvene knjižice izdate i overene po Pravilniku o ispravi o zdravstvenom osiguranju i posebnoj ispravi za korišćenje zdravstvene zaštite (\"Službeni glasnik RS\", br. 68/06, 49/07, 50/07 - ispravka, 95/07, 127/07, 37/08, 54/08, 61/08, 1/09, 25/09, 42/10, 45/10, 103/10, 89/11, 91/11 - ispravka, 34/12, 78/12, 81/12 - ispravka, 96/12, 98/12 - ispravka, 114/12, 110/13, 71/14, 17/15 - odluka US, 91/15, 98/16 i 44/18 - dr. zakon), a najkasnije do 31. decembra 2020. godine."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-ispravi-o-osiguranju.html#clan_22"
+    },
+    {
+        "title": "Član 23",
+        "texts": [
+            "Danom stupanja na snagu ovog pravilnika prestaje da važi Pravilnik o ispravi o zdravstvenom osiguranju i posebnoj ispravi za korišćenje zdravstvene zaštite (\"Službeni glasnik RS\", br. 68/06, 49/07, 50/07 - ispravka, 95/07, 127/07, 37/08, 54/08, 61/08, 1/09, 25/09, 42/10, 45/10, 103/10, 89/11, 91/11 - ispravka, 34/12, 78/12, 81/12 - ispravka, 96/12, 98/12 - ispravka, 114/12, 110/13, 71/14, 17/15 - odluka US, 91/15, 98/16 i 44/18 - dr. zakon)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-ispravi-o-osiguranju.html#clan_23"
+    },
+    {
+        "title": "Član 24",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u \"Službenom glasniku Republike Srbije\".",
+            "Obrasce, koji su sastavni deo ovog pravilnika, objavljene u \"Sl. glasniku RS\", br. 1/2021, možete pogledatiOVDE",
+            "Ako ne probate više različitih izbora nikada nećete biti sigurni da li imate najbolju opciju u svojim rukama. Mi Vam tu mogućnost nudimo besplatno! Popunite formular i dobićete priliku da bez ikakvih troškova saznate da li je Paragraf dobar izbor za Vas.",
+            "Ukoliko želite da Vas obaveštavamo o novostima i aktivnostima kompanije Paragraf prijavite se na našu mailing listu. Vaš e-mail neće biti upotrebljen u druge svrhe."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-ispravi-o-osiguranju.html#clan_24"
+    }
+]

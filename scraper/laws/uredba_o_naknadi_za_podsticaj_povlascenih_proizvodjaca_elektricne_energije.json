@@ -1,0 +1,701 @@
+[
+    {
+        "title": "Član 1",
+        "texts": [
+            "Ovom uredbom propisuje se način obračuna, plaćanja i raspodele sredstava po osnovu naknade za podsticaj povlašćenih proizvođača i način obračuna, plaćanja, prikupljanja i raspodele dodatnih podsticajnih sredstava, namena i način raspodele sredstava dobijenih na osnovu negativne tržišne premije, kao i praćenje i izveštavanje u vezi sa podsticajnim sredstvima i sredstvima dobijenim na osnovu negativne tržišne premije.",
+            "Značenje izraza"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-naknadi-za-podsticaj-povlascenih-proizvodjaca-elektricne-energije.html#clan_1"
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Pojedini izrazi koji se koriste u ovoj uredbi imaju sledeća značenja:",
+            "1) povlašćeni proizvođač električne energije iz obnovljivih izvora energije (u daljem tekstu: povlašćeni proizvođač) je pravno lice ili preduzetnik koji proizvodi električnu energiju iz obnovljivih izvora i ostvaruje pravo na fid-in tarifu ili tržišnu premiju u skladu sa zakonom kojim se uređuju obnovljivi izvori energije (u daljem tekstu: Zakon o OIE);",
+            "2) povlašćeni FiP proizvođač u sistemu podsticaja za balansiranje je povlašćeni proizvođač u sistemu podsticaja tržišnom premijom koji je preneo svoju balansnu odgovornost na garantovanog snabdevača u skladu sa članom 10. st. 1. i 3. Zakona o OIE;",
+            "3) povlašćeni proizvođač u sistemu podsticaja za balansiranje je:",
+            "(1) povlašćeni FiP proizvođač u sistemu podsticaja za balansiranje;",
+            "(2) povlašćeni proizvođač u sistemu podsticaja fid-in tarifom koji je preneo svoju balansnu odgovornost na garantovanog snabdevača u skladu sa Zakonom o OIE;",
+            "(3) povlašćeni proizvođač u sistemu podsticaja fid-in tarifom koji je preneo svoju balansnu odgovornost na garantovanog snabdevača u skladu sa prethodnom šemom podsticaja;",
+            "4) jedinična naknada je jedinična naknada za podsticaj povlašćenih proizvođača izražena u dinarima (u daljem tekstu: RSD)/kWh za period naplate, na osnovu koje se obračunava i plaća naknada za podsticaj povlašćenih proizvođača;",
+            "5) naknada za podsticaj povlašćenih proizvođača je ukupan iznos naknade u RSD koju plaća krajnji kupac za podsticaj povlašćenih proizvođača u skladu sa ovom uredbom;",
+            "6) FiT znači fid-in tarifa koja se meri u RSD/kWh;",
+            "7) FiP znači tržišna premija koja se meri u RSD/kWh;",
+            "8) Ministarstvo je ministarstvo nadležno za poslove energetike u smislu zakona kojim se uređuje obrazovanje i delokrug ministarstava i utvrđuje njihov delokrug;",
+            "9) snabdevač je snabdevač koji snabdeva krajnje kupce po osnovu ugovora o potpunom snabdevanju, pri čemu ti kupci nisu kupci na garantovanom snabdevanju;",
+            "10) garantovani snabdevač je snabdevač koji obezbeđuje javnu uslugu garantovanog snabdevanja, u smislu zakona kojim se uređuje oblast energetike, koji ima ulogu kupca u ugovorima o otkupu električne energije sa povlašćenim proizvođačima u sistemu fid-in tarife i balansno odgovorne strane za te proizvođače u skladu sa Zakonom o OIE i prethodnom šemom podsticaja i koji preuzima balansnu odgovornost za povlašćene proizvođače u sistemu tržišne premije u skladu sa Zakonom o OIE;",
+            "11) operator sistema je operator prenosnog sistema, distributivnog sistema ili zatvorenog distributivnog sistema električne energije;",
+            "12) period naplate je period od 12 meseci počev od 1. januara do 31. decembra naredne godine u odnosu na tekuću godinu u kojoj se određuje naknada za podsticaj povlašćenih proizvođača;",
+            "13) krajnji kupac je pravno ili fizičko lice ili preduzetnik koji kupuje električnu energiju za svoje potrebe;",
+            "14) ovlašćena ugovorna strana je pravno lice koje sa proizvođačima koji steknu pravo na tržišnu premiju zaključuje ugovor o tržišnoj premiji, u skladu sa propisima kojima se uređuje korišćenje obnovljivih izvora energije;",
+            "15) prethodna šema podsticaja je šema podsticaja za proizvodnju električne energije iz obnovljivih izvora koje su donete u skladu sa Zakonom o energetici (\"Službeni glasnik RS\", br. 57/11, 80/11 - ispravka, 93/12, 124/12 i 145/14), Zakonom o energetici (\"Službeni glasnik RS\", br. 145/14 i 95/18) i podzakonskim aktima donetim na osnovu ovih zakona;",
+            "16) prelazni period je period između kraja perioda usklađivanja i početka perioda naplate;",
+            "17) period usklađivanja je period od 12 meseci, počev od 1. oktobra u prethodnoj godini koji se završava 30. septembra tekuće godine, osim prve godine kada taj period počinje 1. januara i završava se 30. septembra;",
+            "18) dodatna podsticajna sredstva su sredstva za podsticaj povlašćenih proizvođača osim sredstava prikupljenih preko naknade za podsticaj povlašćenih proizvođača, koja obezbeđuje Vlada i koja se isplaćuju ovlašćenoj ugovornoj strani i/ili garantovanom snabdevaču u skladu sa ovom uredbom;",
+            "19) dan-unapred tržišna cena je cena električne energije ostvarena po satu na dan-unapred tržištu električne energije u Republici Srbije;",
+            "20) referentna tržišna cena je dan unapred tržišna cena u periodu usklađivanja;",
+            "21) očekivana referentna tržišna cena je očekivana dan unapred tržišna cena električne energije u periodu naplate.",
+            "Ostali izrazi koji se koriste u ovoj uredbi imaju značenja određena u zakonu kojim se uređuje energetika i Zakonu o OIE.",
+            "II ELEMENTI JEDINIČNE NAKNADE ZA OBRAČUN NAKNADE ZA PODSTICAJ POVLAŠĆENIH PROIZVOĐAČA",
+            "Jedinična naknada"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-naknadi-za-podsticaj-povlascenih-proizvodjaca-elektricne-energije.html#clan_2"
+    },
+    {
+        "title": "Član 3",
+        "texts": [
+            "Jedinična naknada, izražena u RSD/kWh, određuje se na način da obuhvati sve troškove garantovanog snabdevača i ovlašćene ugovorne strane u vezi sa izvršavanjem obaveza prema povlašćenim proizvođačima u skladu sa Zakonom o OIE i prethodnom šemom podsticaja:",
+            "1) troškove za podsticaje u vezi sa fid-in tarifama i pripadajućim troškovima balansiranja, koji se obračunavaju u skladu sa prethodnom šemom podsticaja;",
+            "2) troškove za podsticaje u vezi sa fid-in tarifama koji se obračunavaju u skladu sa Zakonom o OIE;",
+            "3) troškove za podsticaje koji se odnose na tržišne premije;",
+            "4) troškove za podsticaje koji se odnose na troškove balansiranja u skladu sa Zakonom o OIE;",
+            "5) troškovi koji se odnose na:",
+            "(1) raskid ugovora o otkupu električne energije bez krivice garantovanog snabdevača u sistemu podsticaja fid-in tarifom u skladu sa prethodnom šemom podsticaja;",
+            "(2) raskid ugovora o otkupu električne energije bez krivice ovlašćene ugovorne strane u sistemu podsticaja fid-in tarifom u skladu sa Zakonom o OIE;",
+            "(3) raskid ugovora o tržišnoj premiji bez krivice ovlašćene ugovorne strane.",
+            "",
+            "III NAČIN OBRAČUNA JEDINIČNE NAKNADE ZA PODSTICAJ",
+            "1. Način određivanja jedinične naknade i dodatnih podsticajnih sredstava",
+            "Iznos jedinične naknade"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-naknadi-za-podsticaj-povlascenih-proizvodjaca-elektricne-energije.html#clan_3"
+    },
+    {
+        "title": "Član 4",
+        "texts": [
+            "Vlada propisuje iznos jedinične naknade najkasnije u decembru svake godine za narednu godinu, a tako određen iznos jedinične naknade za podsticaj primenjuje se od 1. januara do 31. decembra naredne godine.",
+            "Za potrebe utvrđivanja iznosa jedinične naknade, Ministarstvo, svake godine u novembru, za narednu godinu utvrđuje, sledeće:",
+            "1) planiranu proizvodnju električne energije iz obnovljivih izvora energije u svakom od sistema podsticaja za proizvodnju električne energije iz obnovljivih izvora energije (u daljem tekstu: OIE);",
+            "2) očekivanu cenu električne energije po kojoj garantovani snabdevač nabavlja električnu energiju za garantovano snabdevanje;",
+            "3) plaćanja povlašćenim proizvođačima od strane garantovanog snabdevača na osnovu ugovora zaključenih u skladu sa FiT sistemom podsticaja;",
+            "4) plaćanja povlašćenim proizvođačima od strane ovlašćene ugovorne strane u skladu sa ugovorima zaključenim u skladu sa FiP sistemom podsticaja;",
+            "5) plaćanja od strane povlašćenih proizvođača ovlašćenoj ugovornoj strani po osnovu negativne tržišne premije u skladu sa FiP ugovorima koje su povlašćeni proizvođači zaključili sa ovlašćenom ugovornom stranom;",
+            "6) očekivanu referentnu tržišnu cenu i referentnu tržišnu cenu;",
+            "7) procenjena balansna odstupanja prouzrokovana od strane povlašćenih proizvođača koji imaju pravo na preuzimanje balansne odgovornosti u skladu sa Zakonom o OIE i prethodnom šemom podsticaja;",
+            "8) procenjene troškove nastale zbog balansnih odstupanja prouzrokovanih od strane povlašćenih proizvođača koji imaju pravo na preuzimanje balansne odgovornosti u skladu sa Zakonom o OIE i prethodnom šemom podsticaja;",
+            "9) planiranu potrošnju električne energije;",
+            "10) pretpostavljeni kurs evra (u daljem tekstu: EUR) za RSD;",
+            "11) druge podatke potrebne za obračun jedinične naknade.",
+            "Uzimajući u obzir efekte jedinične naknade na krajnje potrošače u narednoj kalendarskoj godini, Vlada može obezbediti dodatna podsticajna sredstva iz državnog budžeta za pokrivanje troškova za podsticaje koje snose krajnji kupci.",
+            "U slučaju da jedinična naknada, obračunata u skladu sa odredbama ovog člana i formulom iz člana 5. ove uredbe, dovede do negativnog krajnjeg iznosa, Vlada može aktom iz stava 1. ovog člana odlučiti da iznos jedinične naknade za odgovarajući period naplate bude nula.",
+            "Formula za izračunavanje jedinične naknade"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-naknadi-za-podsticaj-povlascenih-proizvodjaca-elektricne-energije.html#clan_4"
+    },
+    {
+        "title": "Član 5",
+        "texts": [
+            "Jedinična naknada izračunava se za period naplate (u daljem tekstu: Period naplate ili P), prema sledećoj formuli:",
+            "",
+            "gde su:",
+            "JNp- jedinična naknada za podsticaj za Period naplate;",
+            "Ap- troškovi povezani sa FiT plaćanjima u Periodu naplate, obračunati u skladu sa članom 6. ove uredbe u RSD;",
+            "Bp- troškovi povezani sa FiP plaćanjima u Periodu naplate, obračunati u skladu sa članom 13. ove uredbe u RSD;",
+            "Cp- troškovi balansiranja u Periodu naplate, obračunati u skladu sa članom 20. ove uredbe u RSD;",
+            "Gp- dodatna podsticajna sredstva koja se obezbeđuju ovlašćenoj ugovornoj strani, odnosno garantovanom snabdevaču, u skladu sa članom 4. stav 3. ove uredbe u RSD;",
+            "Qp- planirana potrošnja krajnjih kupaca koji su obveznici plaćanja jedinične naknade u Periodu naplate, obračunata u skladu sa članom 28. ove uredbe u kWh.",
+            "Naknadu iz stava 1. ovog člana pomnoženu sa kWh isporučene električne energije u svakom obračunskom periodu plaća krajnji kupac kao naknadu za podsticaj povlašćenih proizvođača.",
+            "Krajnji kupac koji je stekao status kupca-proizvođača u skladu sa posebnim propisima plaća naknadu za podsticaj povlašćenih proizvođača za neto električnu energiju, u skladu sa propisima kojima se uređuje korišćenje obnovljivih izvora energije.",
+            "2. Troškovi povezani sa FiT plaćanjima u Periodu naplate (A)",
+            "a) Formula za obračun troškova koji se odnose na FiT plaćanja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-naknadi-za-podsticaj-povlascenih-proizvodjaca-elektricne-energije.html#clan_5"
+    },
+    {
+        "title": "Član 6",
+        "texts": [
+            "Troškovi FiT plaćanja (element A formule jedinične naknade za podsticaj iz člana 5. ove uredbe), u Periodu naplate, obračunavaju se prema sledećoj formuli:",
+            "",
+            "gde su:",
+            "EGa,h- očekivana proizvodnja povlašćenih proizvođača u FiT sistemu podsticaja u MWh u satu h u Periodu naplate, izračunata u skladu sa članom 37. ove uredbe;",
+            "FPa- FiT plaćanje u RSD po MWhza FiT proizvođača a u Periodu naplate;",
+            "EPPh- očekivana nabavna cena električne energije garantovanog snabdevača, obračunata u skladu sa članom 37. stav 1. tačka 7) ove uredbe.",
+            "Element korekcijeA,P- element korekcije koji se odnosi na element A jedinične naknade, obračunat za potrebe usklađivanja iz glave VI. ove uredbe, a koji se obračunava na osnovu formule iz člana 7. ove uredbe.",
+            "b) Element korekcije za FiT plaćanja (faktor likvidnosti)"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-naknadi-za-podsticaj-povlascenih-proizvodjaca-elektricne-energije.html#clan_6"
+    },
+    {
+        "title": "Član 7",
+        "texts": [
+            "Element korekcije predstavlja element korekcije FiT plaćanja kao deo jedinične naknade (element A) i određuje se tako da obezbedi garantovanom snabdevaču adekvatni zaštitni faktor likvidnosti tokom narednog Perioda naplate.",
+            "Element korekcije se izračunava prema sledećoj formuli:",
+            "Element korekcijeA,P",
+            "= Ciljni nivo faktora likvidnostiA,P",
+            "- Trenutni nivo faktora likvidnostiA,T- Očekivano prelazno stanjeA,I",
+            "gde su:",
+            "Ciljni nivo faktora likvidnostiA,P- nivo faktora likvidnosti za FiT plaćanja planiran za Period naplate;",
+            "Trenutni nivo faktora likvidnostiA,T- iznos faktora likvidnosti za FiT plaćanja na kraju Perioda usklađivanja T. Za prvi Period naplate Trenutni nivo faktora likvidnostiA,Tjednak je nuli;",
+            "Očekivano prelazno stanjeA,I- očekivana razlika između prihoda od naknade za podsticaj povlašćenih proizvođača za FiT i neto FiT plaćanja u Prelaznom periodu I, koji traje od oktobra do decembra. Za prvi Period naplate Očekivano prelazno stanjeA,Ijednako je nuli.",
+            "Komponente elementa korekcije za FiT plaćanja obračunavaju se u skladu sa formulama iz čl. 8, 9. i 12. ove uredbe.",
+            "v) Komponente Elementa korekcije",
+            "Ciljni nivo faktora likvidnosti za FiT plaćanja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-naknadi-za-podsticaj-povlascenih-proizvodjaca-elektricne-energije.html#clan_7"
+    },
+    {
+        "title": "Član 8",
+        "texts": [
+            "Faktor likvidnosti je iznos novčanih rezervi koje garantovani snabdevač treba da održava iznad očekivanih troškova svakog elementa jedinične naknade kako bi pokrio neočekivana povećanja troškova ili promene potražnje u relevantnom Periodu naplate.",
+            "Ciljni nivo faktora likvidnosti za FiT plaćanja u Periodu naplate se izračunava korišćenjem sledeće formule:",
+            "Ciljni nivo faktora likvidnostiA,P",
+            "",
+            "gde je:",
+            "LBA- element faktora likvidnosti za FiT plaćanja, koji se određuje u iznosu od 0,05.",
+            "Svi ostali elementi su definisani u članu 6. ove uredbe.",
+            "Trenutni nivo faktora likvidnosti za FiT element jedinične naknade za podsticaj"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-naknadi-za-podsticaj-povlascenih-proizvodjaca-elektricne-energije.html#clan_8"
+    },
+    {
+        "title": "Član 9",
+        "texts": [
+            "Trenutni nivo faktora likvidnosti pokazuje akumulirani višak (ili deficit) u RSD pod svakim posebnim elementom jedinične naknade za podsticaj.",
+            "Trenutni faktor za likvidnost za FiT element jedinične naknade za podsticaj se izračunava korišćenjem sledeće formule:",
+            "Trenutni nivo faktora likvidnostiA,T",
+            "= Trenutni nivo faktora likvidnostiA,(T-1)+ Prihodi od naplateA,T",
+            "- Neto plaćanjaA,T",
+            "gde su:",
+            "Trenutni nivo faktora likvidnostiA,(T-1)- nivo faktora likvidnosti prenet iz prethodnog Perioda usklađivanja. Trenutni nivo faktora likvidnosti je jednak nuli za prvi Period usklađivanja (T = 1);",
+            "Prihodi od naplateA,T- ukupni prihodi od Naknade koju plaćaju krajnji kupci koji se odnose na FiT plaćanja (element A) u Periodu usklađivanja T, obračunati u skladu sa članom 10. ove uredbe;",
+            "Neto plaćanjaA,T- neto plaćanja za FiT od strane garantovanog snabdevača povlašćenim proizvođačima u FiT sistemu podsticaja u Periodu usklađivanja T, izračunata u skladu sa članom 11. ove uredbe.",
+            "g) Prihodi od naplate",
+            "Prihodi od naplate za FiT plaćanja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-naknadi-za-podsticaj-povlascenih-proizvodjaca-elektricne-energije.html#clan_9"
+    },
+    {
+        "title": "Član 10",
+        "texts": [
+            "Prihodi od naplate za FiT plaćanja predstavljaju deo ukupne Naknade koju plaćaju krajnji kupci, a koja se odnosi na FiT plaćanja (element A) u Periodu usklađivanja T.",
+            "Prihodi od naplate za FiT plaćanja (element A) u Periodu usklađivanja T obračunavaju se korišćenjem sledeće formule:",
+            "Prihodi od naplateA,T",
+            "= Ukupna naknada za podsticaj povlašćenih proizvođačaT",
+            "x Udeo naknadeA,T",
+            "gde su:",
+            "Ukupna naknada za podsticaj povlašćenih proizvođačaT -naknada za podsticaj povlašćenih proizvođača prikupljena od svih krajnjih kupaca tokom Perioda usklađivanja T;",
+            "Udeo naknadeA,T- udeo za FiT plaćanja (element A), u Periodu usklađivanja T. Udeo naknade se izračunava prema sledećoj formuli:",
+            "",
+            "gde je:",
+            "P-1 - oznaka u indeksu označava tekući Period naplate, P-1.",
+            "A, B i C su elementi definisani u članu 5. ove uredbe.",
+            "Neto plaćanja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-naknadi-za-podsticaj-povlascenih-proizvodjaca-elektricne-energije.html#clan_10"
+    },
+    {
+        "title": "Član 11",
+        "texts": [
+            "Neto plaćanja garantovanog snabdevača povlašćenim proizvođačima u FiT sistemu podsticaja predstavljaju ukupna FiT plaćanja, umanjena za iznos nabavne cene električne energije za garantovano snabdevanje.",
+            "Neto plaćanja se izračunavaju korišćenjem sledeće formule:",
+            "",
+            "gde su:",
+            "Ga,h- proizvodnja ostvarena od strane povlašćenih proizvođača u FiT sistemu podsticaja u MWh u satu h u Periodu usklađivanja T;",
+            "FPa- FiT plaćanje u RSD po MWh za povlašćene proizvođače u FiT sistemu podsticaja a u Periodu usklađivanja T;",
+            "PPh- nabavna cena električne energije za garantovano snabdevanje, koju primenjuje garantovani snabdevač u RSD po MWh u satu h u Periodu usklađivanja T.",
+            "Očekivano prelazno stanje sredstava"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-naknadi-za-podsticaj-povlascenih-proizvodjaca-elektricne-energije.html#clan_11"
+    },
+    {
+        "title": "Član 12",
+        "texts": [
+            "Očekivano prelazno stanje sredstava je procena novčanog deficita ili suficita koji se može pripisati FiT elementu u tri preostala meseca u godini od oktobra do decembra.",
+            "Očekivano prelazno stanje sredstava se izračunava korišćenjem sledeće formule:",
+            "",
+            "gde su:",
+            "Očekivana ukupna naknada koju plaća krajnji kupacI- ukupna naplata naknade za podsticaj povlašćenih proizvođača u periodu P-1 u RSD po MWh, pomnožena sa očekivanom ukupnom potražnjom krajnjih kupaca u MWh tokom Prelaznog perioda I;",
+            "Udeo naknadeAT- udeo za FiT plaćanja (element A) u Periodu usklađivanja T, kao što je određeno u članu 10. ove uredbe;",
+            "Elementi formule:i definisani su u članu 6. ove uredbe.",
+            "3. Troškovi povezani sa FiP plaćanjima u Periodu naplate (B)",
+            "a) Formula za obračun troškova koji se odnose na FiP plaćanja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-naknadi-za-podsticaj-povlascenih-proizvodjaca-elektricne-energije.html#clan_12"
+    },
+    {
+        "title": "Član 13",
+        "texts": [
+            "Troškovi FiP plaćanja (element B formule jedinične naknade iz člana 5. ove uredbe), u Periodu naplate, obračunavaju se prema sledećoj formuli:",
+            "",
+            "gde:",
+            "Oznaka u indeksu svi sati (h) gde EMRPh> 0) ∈ P, označava sve sate Perioda naplate, gde je očekivana cena električne energije pozitivna;",
+            "EGb,h- očekivana proizvodnja povlašćenih proizvođača u FiP sistemu podsticaja u MWh u satu h u Periodu naplate, izračunata u skladu sa članom 37. ove uredbe;",
+            "SPb- ostvarena cena iz FiP ugovora povlašćenih proizvođača u FiP sistemu podsticaja u EUR po MWh u Periodu naplate;",
+            "EMRPh- očekivana referentna tržišna cena u EUR po MWh u satu h u Periodu naplate, izračunata u skladu sa članom 37. ove uredbe;",
+            "- očekivani kurs (na dan obračuna jedinične naknade) za Period naplate obračunat u skladu sa članom 37. ove uredbe;",
+            "Element korekcijeB,T- element korekcije koji se primenjuje na element B jedinične naknade radi obezbeđenja adekvatne likvidnosti za FiP plaćanja, koji se obračunava na osnovu formule iz člana 14. ove uredbe.",
+            "b) Element korekcije za FiP plaćanja (faktor likvidnosti)"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-naknadi-za-podsticaj-povlascenih-proizvodjaca-elektricne-energije.html#clan_13"
+    },
+    {
+        "title": "Član 14",
+        "texts": [
+            "Obračun očekivanih FiP plaćanja uključuje element korekcije koji obezbeđuje potrebnu likvidnost ovlašćene ugovorne strane tokom Perioda naplate.",
+            "Element korekcije se izračunava prema sledećoj formuli:",
+            "Element korekcijeB,T",
+            "= Ciljni nivo faktora likvidnostiB,P",
+            "- Trenutni nivo faktora likvidnostiB,T",
+            "- Očekivano prelazno stanjeB,I",
+            "gde su:",
+            "Ciljni nivo faktora likvidnostiB,P- nivo faktora likvidnosti za FiP plaćanja planiranim u Periodu naplate, izračunat u skladu sa članom 15. ove uredbe;",
+            "Trenutni nivo faktora likvidnostiB,T- iznos faktora likvidnosti za plaćanja za FiP u Periodu usklađivanja T, izračunata u skladu sa članom 16. ove uredbe. Za prvi Period naplate Trenutni nivo faktora likvidnostiB,Ijednak je nuli;",
+            "Očekivano prelazno stanjeB,I- očekivana razlika između prihoda od naknade za podsticaj povlašćenih proizvođača za FiP i neto FiP plaćanja u Prelaznom periodu I, koji traje od oktobra do decembra, izračunata u skladu sa članom 19. ove uredbe. Za prvi Period naplate očekivano prelazno stanjeB,Ijednako je nuli.",
+            "Komponente Elementa korekcije za FiP plaćanja izračunavaju se u skladu sa formulama iz čl. 15-19. ove uredbe.",
+            "v) Komponente Elementa korekcije",
+            "Ciljni nivo faktora likvidnosti"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-naknadi-za-podsticaj-povlascenih-proizvodjaca-elektricne-energije.html#clan_14"
+    },
+    {
+        "title": "Član 15",
+        "texts": [
+            "Faktor likvidnosti je iznos novčanih rezervi koje ovlašćena ugovorna strana treba da održava iznad očekivanih troškova svakog elementa jedinične naknade, kako bi pokrila neočekivana povećanja troškova ili promene potražnje u relevantnom Periodu naplate.",
+            "Ciljni nivo faktora likvidnosti za FiP plaćanja u Periodu naplate obračunava se korišćenjem sledeće formule:",
+            "",
+            "gde je:",
+            "LBB- element faktora likvidnosti za FiP plaćanja, koji se određuje po sledećoj formuli:",
+            "",
+            "Svi ostali elementi su definisani u članu 13. ove uredbe.",
+            "Trenutni nivo faktora likvidnosti"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-naknadi-za-podsticaj-povlascenih-proizvodjaca-elektricne-energije.html#clan_15"
+    },
+    {
+        "title": "Član 16",
+        "texts": [
+            "Trenutni nivo faktora likvidnosti za FiP element jedinične naknade se izračunava korišćenjem sledeće formule:",
+            "Trenutni nivo faktora likvidnostiB,T",
+            "= Trenutni nivo faktora likvidnostiB,(T-1)+ Prihodi od naplateB,T",
+            "- Neto plaćanjaB,T",
+            "gde su:",
+            "Trenutni nivo faktora likvidnostiB,(T-1)- nivo faktora likvidnosti u RSD prenet iz prethodnog Perioda usklađivanja. Za prvi Period naplate Trenutni nivo faktora likvidnostiB,(T-1)jednak je nuli;",
+            "Prihodi od naplateB,T- ukupni prihodi od naknade za podsticaj povlašćenih proizvođača u RSD koju plaćaju krajnji kupci koji se odnose na FiP plaćanja (element B) u Periodu usklađivanja T, izračunati u skladu sa članom 17. ove uredbe;",
+            "Neto plaćanjaB,T- neto plaćanja za FiP od strane ovlašćene ugovorne strane povlašćenim proizvođačima u FiP sistemu podsticaja u Periodu usklađivanja T u RSD, izračunata u skladu sa članom 18. ove uredbe.",
+            "g) Prihodi od naplate",
+            "Prihodi od naplate za FiP plaćanja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-naknadi-za-podsticaj-povlascenih-proizvodjaca-elektricne-energije.html#clan_16"
+    },
+    {
+        "title": "Član 17",
+        "texts": [
+            "Prihodi od naplate predstavljaju deo ukupne naknade za podsticaj povlašćenih proizvođača, a koji se odnose na FiP plaćanja (element B) u Periodu usklađivanja T.",
+            "Prihodi od naplate za FiP plaćanja (element B) u Periodu usklađivanja T izračunavaju se korišćenjem sledeće formule:",
+            "Prihodi od naplateB,T= Ukupna naknada koju plaća krajnji kupacTx Udeo naknadeB,T",
+            "gde su:",
+            "Ukupna naknada koju plaća krajnji kupacT -naknada za podsticaj povlašćenih proizvođača koju plaća krajnji kupac prikupljena od svih krajnjih kupaca tokom perioda usklađivanja T;",
+            "Udeo naknadeB,T- udeo za FiP plaćanja (element B) u Periodu usklađivanja T. Udeo naknade se izračunava prema sledećoj formuli:",
+            "",
+            "gde je:",
+            "P-1 - oznaka u indeksu označava tekući Period naplate, P-1.",
+            "A, B, C, su elementi definisani u članu 5. ove uredbe.",
+            "Neto plaćanja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-naknadi-za-podsticaj-povlascenih-proizvodjaca-elektricne-energije.html#clan_17"
+    },
+    {
+        "title": "Član 18",
+        "texts": [
+            "Neto plaćanja ovlašćene ugovorne strane povlašćenim proizvođačima u FiP sistemu podsticaja predstavljaju ukupna FiP plaćanja od strane ovlašćene ugovorne strane FiP proizvođačima, umanjena za plaćanja povlašćenih proizvođača u FiP sistemu podsticaja ovlašćenoj ugovornoj strani u vremenima kada je referentna tržišna cena bila viša od ostvarenih cena iz FiP ugovora.",
+            "Neto plaćanja se izračunavaju korišćenjem sledeće formule:",
+            "",
+            "gde:",
+            "Oznaka u indeksu: svi sati (h) gde MRPb,h>  0∈ T, označava sve sate Perioda naplate T, gde je cena električne energije bila pozitivna;",
+            "Gb,h- proizvodnja ostvarena od strane povlašćenih proizvođača u FiP sistemu podsticaja u MWh u satu h u Periodu usklađivanja T;",
+            "SPb- ostvarena cena iz FiP ugovora povlašćenih proizvođača u FiP sistemu podsticaja u EUR po MWh u Periodu usklađivanja T;",
+            "MRPb,h- referentna tržišna cena primenjiva na proizvođača u EUR po MWh u satu h u Periodu usklađivanja T;",
+            "- prosečan kurs u Periodu usklađivanja T.",
+            "Očekivano prelazno stanje sredstava"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-naknadi-za-podsticaj-povlascenih-proizvodjaca-elektricne-energije.html#clan_18"
+    },
+    {
+        "title": "Član 19",
+        "texts": [
+            "Očekivano prelazno stanje sredstava pokazuje kako je očekivano da će se razvijati faktor likvidnosti za FiP plaćanja u tri preostala meseca tekuće godine od oktobra do decembra. Očekivano prelazno stanje sredstava se izračunava korišćenjem sledeće formule:",
+            "",
+            "gde:",
+            "Oznaka u indeksu svi sati gde MRPb,h> 0 ∈ I, označava sve sate Prelaznog perioda I, gde je očekivana cena električne energije pozitivna;",
+            "Očekivana ukupna naknada koju plaća krajnji kupacI- ukupna naplata naknade za podsticaj povlašćenih proizvođača u RSD po MWh u periodu P-1 pomnožena sa očekivanom ukupnom potražnjom krajnjih kupaca u MWh tokom prelaznog perioda I;",
+            "Udeo naknadeB;T- udeo za FiP plaćanja (element B), koji se primenjuje na Period usklađivanja T, kao što je određeno u članu 17. ove uredbe;",
+            "EGb,h- očekivana proizvodnja od strane FiP proizvođača u MWh u satu h u Prelaznom periodu I, obračunata u skladu sa članom 37. ove uredbe;",
+            "SPb- ostvarena cena iz FiP ugovora FiP proizvođača u EUR po MWh u Prelaznom periodu I;",
+            "EMRPb,h- očekivana referentna tržišna cena primenjiva na proizvođača u EUR po MWhu satu h u Prelaznom periodu I, izračunata u skladu sa članom 37. ove uredbe;",
+            "- očekivani srednji kurs (na dan obračuna jedinične naknade) za Prelazni period I, izračunat u skladu sa članom 37. ove uredbe.",
+            "d) Troškovi balansiranja (C)"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-naknadi-za-podsticaj-povlascenih-proizvodjaca-elektricne-energije.html#clan_19"
+    },
+    {
+        "title": "Član 20",
+        "texts": [
+            "Troškovi balansiranja, C, u Periodu naplate izračunavaju se prema sledećoj formuli:",
+            "CP= OIE troškovi balansiranjaP- Fiksna naknadaP- Element korekcijeC,T",
+            "gde su:",
+            "Fiksna naknadaP- plaćanja fiksne naknade garantovanom snabdevaču, kao balansno odgovornoj strani, za preuzimanje balansne odgovornosti, od strane povlašćenih FiP proizvođača u sistemu podsticaja za balansiranje, u RSD, obračunate u skladu sa članom 21. ove uredbe;",
+            "OIE troškovi balansiranjaP- očekivani troškovi balansiranja garantovanog snabdevača, kao balansno odgovorne strane, koji se mogu pripisati balansnim odstupanjima prouzrokovanim od strane povlašćenih proizvođača u sistemu podsticaja za balansiranje, u RSD, izračunati u skladu sa članom 22. ove uredbe;",
+            "Element korekcijeC,T- element korekcije za obezbeđivanje adekvatne likvidnosti garantovanog snabdevača, kao balansno odgovorne strane, izračunat u skladu sa članom 23. ove uredbe.",
+            "Plaćanje fiksnih naknada"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-naknadi-za-podsticaj-povlascenih-proizvodjaca-elektricne-energije.html#clan_20"
+    },
+    {
+        "title": "Član 21",
+        "texts": [
+            "Očekivani tokovi plaćanja fiksne naknade od strane povlašćenih FiP proizvođača u sistemu podsticaja za balansiranje garantovanom snabdevaču, kao balansno odgovornoj strani, izračunavaju se prema sledećoj formuli:",
+            "",
+            "gde su:",
+            "EGc,p- očekivana ukupna proizvodnja od strane povlašćenih FiP proizvođača u sistemu podsticaja za balansiranje u MWh u Periodu naplate P, izračunata u skladu sa članom 37. ove uredbe;",
+            "FFc- fiksna naknada koju plaćaju povlašćeni FiP proizvođači u sistemu podsticaja za balansiranje u EUR po MWh, obračunata kao fiksni procenat maksimalno ponuđene cene na aukciji, koju svaki povlašćeni FiP proizvođač u sistemu podsticaja za balansiranje plaća garantovanom snabdevaču, po svakom proizvedenom MWh;",
+            "- očekivani kurs (na dan obračuna jedinične naknade) za Period naplate izračunat u skladu sa članom 37. ove uredbe.",
+            "Troškovi balansiranja balansno odgovorne strane koji se mogu pripisati povlašćenim proizvođačima u sistemu podsticaja za balansiranje"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-naknadi-za-podsticaj-povlascenih-proizvodjaca-elektricne-energije.html#clan_21"
+    },
+    {
+        "title": "Član 22",
+        "texts": [
+            "Troškovi balansiranja koji se odnose na povlašćene proizvođače u sistemu podsticaja za balansiranje izračunavaju se prema sledećoj formuli:",
+            "",
+            "gde su:",
+            "ERIP- očekivana ukupna apsolutna vrednost balansnog odstupanja prouzrokovanog od strane povlašćenih proizvođača u sistemu podsticaja za balansiranje koji su deo balansne grupe garantovanog snabdevača u MWh u Periodu naplate;",
+            "TIT- ukupna apsolutna vrednost balansnog odstupanja svih članova balansne grupe balansno odgovorne strane u MWh u Periodu usklađivanja T;",
+            "BOS troškovi balansiranjaT-troškovi balansiranja balansno odgovorne strane u RSD za prethodni Period usklađivanja T, isključujući uplate koje je balansno odgovorna strana primila od operatora sistema za pružanje pomoćnih sistemskih usluga izračunata prema sledećoj formuli:",
+            "",
+            "gde su:",
+            "BOS odstupanjeh- apsolutna vrednost odstupanje balansne grupe balansno odgovorne strane u MWh u satu h,",
+            "ISPh- cena poravnanja za balansnu grupu balansno odgovorne strane u EUR po MWh u satu h uzimajući u obzir i koeficijent koja se primenjuje na balansno odgovorne strane u slučaju da je odstupanje balanse grupe balansno odgovorne strane veće od prihvatljivog odstupanja balansne grupe u skladu sa Pravilima o radu tržišta električne energije,",
+            "DAMh- tržišna cena na dan unapred tržištu Republike Srbije u EUR po MWh u tom satu.",
+            "- očekivani kurs (na dan obračuna jedinične naknade) za Period naplate izračunat u skladu sa članom 37. ove uredbe.",
+            "đ) Element korekcije za troškove balansiranja (faktor likvidnosti)"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-naknadi-za-podsticaj-povlascenih-proizvodjaca-elektricne-energije.html#clan_22"
+    },
+    {
+        "title": "Član 23",
+        "texts": [
+            "Element korekcije za troškove balansiranja u Periodu usklađivanja T izračunava se prema sledećoj formuli:",
+            "Element korekcijeC,T",
+            "= Ciljni nivo faktora likvidnostiP",
+            "-Trenutni nivo faktora likvidnostiC,T- Očekivano prelazno stanjeC,I",
+            "gde su:",
+            "Ciljni nivo faktora likvidnostiP- nivo faktora likvidnosti za troškove balansiranja koji je planiran u Periodu naplate, izračunat u skladu sa članom 24. ove uredbe;",
+            "Trenutni nivo faktora likvidnostiC,T- iznos faktora likvidnosti za troškove balansiranja u Periodu usklađivanja T, izračunat u skladu sa stavom sa članom 25. ove uredbe. Za prvi Period naplate Trenutni nivo faktora likvidnostiC,Tjednak je nuli;",
+            "Očekivano prelazno stanjeC,I- očekivano stanje faktora likvidnosti za obrtni kapital u Prelaznom periodu I, koji traje od oktobra do decembra, izračunat u skladu sa članom 27. ove uredbe. Za prvi Period naplate Očekivano prelazno stanjeC,Ijednako je nuli.",
+            "Ciljni nivo faktora likvidnosti"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-naknadi-za-podsticaj-povlascenih-proizvodjaca-elektricne-energije.html#clan_23"
+    },
+    {
+        "title": "Član 24",
+        "texts": [
+            "Ciljni nivo faktora likvidnosti za troškove balansiranja treba da obezbedi adekvatan obrtni kapital za balansno odgovornu stranu za troškove balansiranja i druga plaćanja u vezi sa balansnom odgovornosti koju je garantovani snabdevač preuzeo od povlašćenih proizvođača u sistemu podsticaja za balansiranje.",
+            "Nivo obrtnog kapitala koji se pretpostavlja za ovu formulu je jednak mesečnoj vrednosti plaćanja.",
+            "Ciljni nivo faktora za likvidnost za obrtni kapital u Periodu naplate izračunava se korišćenjem sledeće formule:",
+            "",
+            "gde su:",
+            "ERIp- očekivana ukupna apsolutna vrednost balansnog odstupanja prouzrokovanog od strane povlašćenih proizvođača u sistemu podsticaja za balansiranje koji su u balansnoj grupi garantovanog snabdevača, kao balansno odgovorne strane, u MWh u Periodu naplate;",
+            "FPZima- Fjučers cena električne energije u prvoj narednoj zimi u RSD po MWh, izračunata u skladu sa članom 37. stav 1. tačka 10) ove uredbe;",
+            "OIE troškovi balansiranjar- očekivani godišnji trošak balansno odgovorne strane koji se može pripisati balansnim odstupanjima koje su prouzrokovali povlašćeni proizvođači u sistemu podsticaja za balansiranje, kao što je definisano u članu 22. ove uredbe, za Period naplate;",
+            "LBc- Faktor likvidnosti za obrtni kapital, koji se određuje kao 1/12, odnosno kao mesec dana očekivanih godišnjih novčanih tokova;",
+            "1/2 - predstavlja pretpostavku da polovinu ukupnih balansnih odstupanja povlašćenih proizvođača u sistemu podsticaja za balansiranje čine pozitivna balansna odstupanja za koje balansno odgovorna strana isplaćuje naknadu tim proizvođačima u skladu sa propisima kojima se uređuje balansna odgovornost povlašćenih proizvođača.",
+            "Trenutni nivo faktora likvidnosti"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-naknadi-za-podsticaj-povlascenih-proizvodjaca-elektricne-energije.html#clan_24"
+    },
+    {
+        "title": "Član 25",
+        "texts": [
+            "Trenutni nivo faktora likvidnosti predstavlja iznos faktora likvidnosti za obrtni kapital i izračunava se prema sledećoj formuli:",
+            "Trenutni nivo faktora likvidnostiS,T",
+            "= Trenutni nivo faktora likvidnostiS,(T-1)+ Prihodi od naplateS,T",
+            "- Plaćanja neto naknade za balansna odstupanjaT",
+            "- OIE troškovi balansiranjaT+ Fiksna naknadaT",
+            "gde su:",
+            "Trenutni nivo faktora likvidnostiC(T-1)- nivo faktora likvidnosti prenet iz prethodnog Perioda usklađivanja. Za prvi Period naplateTrenutni nivo faktora likvidnostiC(T-1)jednak je nuli;",
+            "Prihodi od naplateC,T- prihodi od ukupne naknade za podsticaj povlašćenih proizvođača u RSD koji se mogu raspodeliti na troškove balansiranja u Periodu usklađivanja T;",
+            "Plaćanja neto naknade za balansna odstupanjaT- ukupna plaćanja za pozitivna balansna odstupanja od strane balansno odgovorne strane povlašćenim proizvođačima u sistemu podsticaja za balansiranje u RSD umanjena za ukupna plaćanja za negativna balansna odstupanja od strane povlašćenih proizvođača prema balansno odgovornoj strani u RSD u Periodu usklađivanja T;",
+            "OIE troškovi balansiranjaT- udeo troškova balansiranja balansno odgovorne strane za balansna odstupanja prouzrokovana od strane povlašćenih proizvođača u sistemu podsticaja za balansiranje u RSD u Periodu usklađivanja T. Udeo se izračunava kao odnos ukupnog apsolutnog balansnog odstupanja povlašćenih proizvođača u sistemu podsticaja za balansiranje prema zbiru apsolutnih balansnih odstupanja članova balansne grupe balansno odgovorne strane, isključujući pružanje usluga balansiranja;",
+            "Fiksna naknadaT- ukupna plaćanja fiksne naknade isplaćena od strane povlašćenih proizvođača u sistemu podsticaja balansno odgovornoj strani u Periodu usklađivanja T u RSD.",
+            "e) Prihodi od naplate"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-naknadi-za-podsticaj-povlascenih-proizvodjaca-elektricne-energije.html#clan_25"
+    },
+    {
+        "title": "Član 26",
+        "texts": [
+            "Prihodi od naplate predstavljaju udeo ukupne Naknade koju plaća krajnji kupac koja se može pripisati troškovima balansiranja u Periodu usklađivanja T, koji se izračunavaju prema sledećoj formuli:",
+            "Prihodi od naplateC,T= Ukupna Naknada koju plaća krajnji kupacTx Udeo naknadeC,T",
+            "gde su:",
+            "Ukupna Naknada koju plaća krajnji kupacT- naknada za podsticaj povlašćenih proizvođača koju plaća krajnji kupac prikupljena od svih krajnjih kupaca tokom Perioda usklađivanja T u RSD;",
+            "Udeo naknadeS,T- udeo za troškove balansiranja, C, koji se primenjuje na Period usklađivanja T. Udeo naknade se izračunava prema sledećoj formuli:",
+            "",
+            "gde se:",
+            "Oznaka u indeksu P-1 odnosi na tekući Period naplate, P-1.",
+            "A, B i C su elementi definisani u članu 5. ove uredbe.",
+            "Očekivano prelazno stanje sredstava"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-naknadi-za-podsticaj-povlascenih-proizvodjaca-elektricne-energije.html#clan_26"
+    },
+    {
+        "title": "Član 27",
+        "texts": [
+            "Očekivano stanje sredstava se izračunava prema sledećoj formuli:",
+            "Očekivano prelazno stanjeC,I=",
+            "Očekivana ukupna Naknada za podsticaj povlašćenih proizvođačaIx Udeo naknadeC,T-",
+            "OIE troškovi balansiranjaI+ Fiksna naknadaI",
+            "gde su:",
+            "I - indeks koji označava Prelazni period;",
+            "Očekivana ukupna Naknada za podsticaj povlašćenih proizvođačaI- ukupna isplata naknade za podsticaj povlašćenih proizvođača u periodu P-1 u RSD za MWh pomnožena sa očekivanom ukupnom potražnjom krajnjih kupaca u MWh tokom Prelaznog perioda I;",
+            "Udeo naknadeC,T- udeo za troškove balansiranja, C, koji se primenjuje na Period usklađivanja T, kako je iznad definisano;",
+            "OIE troškovi balansiranjaI- očekivani troškovi balansiranja balansno odgovorne strane koji se mogu pripisati povlašćenim proizvođačima u sistemu podsticaja za balansiranje u Prelaznom periodu I u RSD, isključujući troškove koji se odnose na pružanje usluga balansiranja od strane balansno odgovorne strane, u skladu sa sledećom formulom:",
+            "",
+            "gde su:",
+            "ERII- očekivani obim balansnog odstupanja povlašćenih proizvođača u sistemu podsticaja za balansiranje u Privremenom period I, a svi ostali parametri su definisani u članu 22. ove uredbe,",
+            "Fiksne naknadeI- očekivana plaćanja fiksne naknade za balansna odstupanja koju plaćaju povlašćeni FiP proizvođači u sistemu podsticaja za balansiranje balansno odgovornoj strani u RSD u Prelaznom periodu I i obračunavaju se na sledeći način:",
+            "",
+            "gde je:",
+            "EGc,I-očekivana ukupna proizvodnja od strane povlašćenih FiP proizvođača u sistemu podsticaja za balansiranje u MWh u Prelaznom periodu I,",
+            "FFci- elementi definisani u članu 21. ove uredbe.",
+            "Izračunavanje planirane potrošnje u periodu naplate"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-naknadi-za-podsticaj-povlascenih-proizvodjaca-elektricne-energije.html#clan_27"
+    },
+    {
+        "title": "Član 28",
+        "texts": [
+            "Planirana potrošnja Q u Periodu naplate izračunava se korišćenjem sledeće formule:",
+            "",
+            "gde je:",
+            "ETECp- očekivana ukupna potrošnja električne energije od strane kupaca koji su obveznici plaćanja naknade za podsticaj povlašćenih proizvođača u Periodu naplate, u kWh, obračunata u skladu sa članom 37. ove uredbe;",
+            "BPR - stopa naplate računa u procentima, zasnovana na istorijskim godišnjim stopama naplate računa, kako je definisana u članu 37. stav 1. tačka 3) ove uredbe.",
+            "IV NAČIN PLAĆANJA NAKNADE ZA KRAJNJEG KUPCA"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-naknadi-za-podsticaj-povlascenih-proizvodjaca-elektricne-energije.html#clan_28"
+    },
+    {
+        "title": "Član 29",
+        "texts": [
+            "Operator sistema, snabdevač, odnosno garantovani snabdevač je dužan da u računu koji dostavlja krajnjem kupcu za pristup sistemu, odnosno isporučenu električnu energiju, kao posebnu stavku naznači iznos ukupne naknade za podsticaj.",
+            "V NAČIN NAPLATE I RASPODELE SREDSTAVA OD NAKNADE ZA PODSTICAJ POVLAŠĆENIH PROIZVOĐAČA",
+            "Subjekti koji prikupljaju naknadu za podsticaj povlašćenih proizvođača"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-naknadi-za-podsticaj-povlascenih-proizvodjaca-elektricne-energije.html#clan_29"
+    },
+    {
+        "title": "Član 30",
+        "texts": [
+            "Subjekti odgovorni za naplatu naknade za podsticaj povlašćenih proizvođača su:",
+            "1) operator sistema, u odnosu na krajnje kupce koji nemaju ugovor o potpunom snabdevanju;",
+            "2) snabdevač, u odnosu na krajnje kupce po osnovu ugovora o potpunom snabdevanju, pri čemu ti kupci nisu na garantovanom snabdevanju;",
+            "3) garantovani snabdevač, u odnosu na krajnje kupce koji su na garantovanom snabdevanju.",
+            "Obaveze operatora sistema i snabdevača prema garantovanom snabdevaču"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-naknadi-za-podsticaj-povlascenih-proizvodjaca-elektricne-energije.html#clan_30"
+    },
+    {
+        "title": "Član 31",
+        "texts": [
+            "Operator sistema i snabdevači su dužni da prenesu garantovanom snabdevaču prikupljena sredstva na ime naknade za podsticaj povlašćenih proizvođača, koja odgovaraju iznosu naknade za podsticaj koji su fakturisali krajnjim kupcima za prethodni mesec, najkasnije do 23. u tekućem mesecu.",
+            "Operator sistema i odabrani snabdevač do desetog u mesecu za prethodni mesec, dostavljaju garantovanom snabdevaču podatke o količini preuzete, odnosno prodate električne energije, na osnovu kojih garantovani snabdevač obračunava i ispostavlja račun za uplatu sredstava po osnovu naknade za podsticaj.",
+            "Podatke iz stava 2. ovog člana operator sistema i odabrani snabdevač dostavljaju garantovanom snabdevaču na obrascu datom u Prilogu, koji je odštampan uz ovu uredbu i čini njen sastavni deo.",
+            "Garantovani snabdevač je ovlašćen da ispita tačnost podataka koje mu dostavi odabrani snabdevač ako posumnja u njihovu tačnost i da radi provere zatraži od operatora sistema da mu dostavi podatke o preuzetoj električnoj energiji krajnjih kupaca odabranog snabdevača.",
+            "Operator sistema je dužan da, na zahtev garantovanog snabdevača, dostavi podatke o preuzetoj količini električne energije za svakog subjekta iz člana 30. ove uredbe.",
+            "U slučaju da podaci snabdevača o isporučenoj električnoj energiji ne odgovaraju podacima o izmerenoj električnoj energiji koje je dostavio operator sistema, kao merodavni se uzimaju podaci dostavljeni od strane operatora sistema, na osnovu kojih će garantovani snabdevač obračunati naknadu i ispostaviti račun za plaćanje naknade za podsticaj povlašćenih proizvođača.",
+            "Operator sistema i snabdevač su dužni da do kraja januara svake godine predaju blanko menicu garantovanom snabdevaču, uz menično ovlašćenje, na ime sredstva obezbeđenja za prenos sredstava od naplate naknade za podsticaj povlašćenih proizvođača.",
+            "Obaveza garantovanog snabdevača prema ovlašćenoj ugovornoj strani"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-naknadi-za-podsticaj-povlascenih-proizvodjaca-elektricne-energije.html#clan_31"
+    },
+    {
+        "title": "Član 32",
+        "texts": [
+            "U roku od 45 dana od dana završetka meseca u kome je obračunata naknada za podsticaj povlašćenih proizvođača, garantovani snabdevač prenosi ovlašćenoj ugovornoj strani deo sredstava iz naknade za podsticaj povlašćenih proizvođača prikupljenih od subjekata iz člana 30. ove uredbe na ime troškova povezanih sa plaćanjima tržišne premije u Periodu naplate, u skladu sa čl. 13. i 15. ove uredbe.",
+            "Garantovani snabdevač izvršiće prenos sredstava iz stava 1. ovog člana na namenski račun u skladu sa članom 33. ove uredbe.",
+            "Namenski račun za naknadu za podsticaj povlašćenih proizvođača"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-naknadi-za-podsticaj-povlascenih-proizvodjaca-elektricne-energije.html#clan_32"
+    },
+    {
+        "title": "Član 33",
+        "texts": [
+            "Garantovani snabdevač i ovlašćena ugovorna strana dužni su da otvore i vode namenski račun na koji se uplaćuju sredstva prikupljena na osnovu naknade za podsticaj povlašćenih proizvođača i sa kojeg će vršiti plaćanja povlašćenim proizvođačima.",
+            "Garantovani snabdevač je dužan da prenese na svoj namenski račun, u roku od 45 dana od dana završetka meseca u kome je obračunata naknada za podsticaj povlašćenih proizvođača, deo sredstava iz naknade za podsticaj povlašćenih proizvođača prikupljenih od lica iz člana 30. ove uredbe na ime troškova povezanih sa plaćanjima fid-in tarife u Periodu naplate, u skladu sa čl. 6-8. ove uredbe i troškovima preuzimanja balansne odgovornosti u Periodu naplate iz člana 20. ove uredbe.",
+            "Garantovani snabdevač je dužan da prenese na svoj namenski račun i sredstva koja odgovaraju nabavnoj ceni električne energije garantovanog snabdevača iz člana 37. stav 1. tačka 7) ove uredbe pomnožena sa fakturiranom električnom energijom povlašćenih i privremeno povlašćenih proizvođača u prethodnom mesecu.",
+            "Namena sredstava prikupljenih po osnovu naknade za podsticaj povlašćenih proizvođača i način plaćanja proizvođačima iz OIE"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-naknadi-za-podsticaj-povlascenih-proizvodjaca-elektricne-energije.html#clan_33"
+    },
+    {
+        "title": "Član 34",
+        "texts": [
+            "Garantovani snabdevač i ovlašćena ugovorna strana će sredstva sa namenskog računa iz člana 33. ove uredbe koristiti za plaćanje svih naknada i troškova koje garantovani snabdevač i ovlašćena ugovorna strana imaju u vezi sa ugovorima zaključenim sa povlašćenim proizvođačima i drugim obavezama prema privremenim povlašćenim i povlašćenim proizvođačima koje proizlaze iz odgovarajućih propisa.",
+            "Plaćanje, prikupljanje i raspodela dodatnih podsticajnih sredstava"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-naknadi-za-podsticaj-povlascenih-proizvodjaca-elektricne-energije.html#clan_34"
+    },
+    {
+        "title": "Član 35",
+        "texts": [
+            "Plaćanje, prikupljanje i raspodela dodatnih podsticajnih sredstava vrši se u skladu sa odlukom Vlade kojom se ta dodatna podsticajna sredstva stavljaju na raspolaganje ovlašćenoj ugovornoj strani, odnosno garantovanom snabdevaču, u skladu sa članom 4. stav 3. ove uredbe.",
+            "VI USLOVI KOREKCIJE JEDINIČNE NAKNADE ZA PODSTICAJ I METODOLOŠKA PRAVILA ZA PROGNOZIRANJE CENA I TROŠKOVA",
+            "Inicijativa Ministarstvu za promenu iznosa jedinične naknade"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-naknadi-za-podsticaj-povlascenih-proizvodjaca-elektricne-energije.html#clan_35"
+    },
+    {
+        "title": "Član 36",
+        "texts": [
+            "Ako proceni da prikupljena sredstva nisu dovoljna za ispunjavanje obaveza iz člana 34. ove uredbe, ili dođe do promene regulisanih cena, garantovani snabdevač, odnosno ovlašćena ugovorna strane, podnosi Ministarstvu inicijativu za promenu iznosa jedinične naknade, uz koju dostavlja izveštaj sa detaljno navedenim prikupljenim i isplaćenim novčanim sredstvima za podsticaj povlašćenih proizvođača električne energije do dana podnošenja inicijative i projekcijom prihoda i troškova za podsticaj povlašćenih proizvođača električne energije do kraja tekuće godine.",
+            "Ako Ministarstvo utvrdi da je inicijativa iz stava 1. ovog člana osnovana, podnosi predlog Vladi za korekciju iznosa jedinične naknade u roku od 15 dana od dana podnošenja inicijative.",
+            "Varijabilni elementi za obračun jedinične naknade"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-naknadi-za-podsticaj-povlascenih-proizvodjaca-elektricne-energije.html#clan_36"
+    },
+    {
+        "title": "Član 37",
+        "texts": [
+            "Varijabilni elementi za obračun jedinične naknade koje treba utvrditi i principi koji se koriste za njihov proračun su:",
+            "1) očekivana ukupna potrošnja električne energije u Periodu naplate (EGa,h, EGb,h), na osnovu planirane potrošnje finalne električne energije u Republici Srbiji, na osnovu podataka koji služe za pripremu energetskog bilansa. Potrošnja finalne električne energije za koju se plaća naknada se izračunava kao suma raspoložive električne energije: za finalnu potrošnju, za energane, za toplane, za rafinerije, za proizvodnju nafte i gasa, za rudnike uglja i za preradu uglja;",
+            "2) očekivana ukupna potražnja krajnjih potrošača u kWh tokom prelaznog Perioda I, procenjuje se korišćenjem sledeće jednačine:",
+            "",
+            "gde je:",
+            "PotražnjaI- je projektovana tražnja u četvrtom kvartalu tekuće godine (međuperiod I),",
+            "PotražnjaY- je projektovana potražnja za tekuću godinu,",
+            "Potražnja(Y-1)- je stvarna potražnja za prošlu godinu,",
+            "Potražnja(I-1)- je stvarna potražnja u četvrtom kvartalu prošle godine (međuperiod I-1);",
+            "3) stopa naplate računa (BPR) u Periodu naplate i prelaznom periodu I, je jednaka stopi plaćanja računa u Periodu usklađivanja T;",
+            "4) Očekivana proizvodnja svakog povlašćenog proizvođača u FiT, odnosno FiP sistemu podsticaja, za svaki sat h u Periodu naplate (EGa,h, EGb,h) i prelaznom periodu I, određuje se na osnovu prognoza povlašćenih proizvođača za relevantne periode, a u nedostatku poslednjih ili kada se oni smatraju nepouzdanim, na osnovu proizvodnje u satu h u Periodu usklađivanja T (gde je dostupno) ili od drugih uporedivih proizvođača aktivnih na tržištu u Republici Srbiji. Ukoliko je dostupna mesečna projekcija proizvodnje električne energije povlašćenih proizvođača, očekivana proizvodnja električne energije na satnom nivou u periodu naplate računa se na sledeći način:",
+            "",
+            "gde je:",
+            "k - oznaka u indeksu koja označava elektranu povlašćenog proizvođača u FiT, odnosno FiP sistemu podsticaja,",
+            "- je očekivana proizvodnja elektrane povlašćenog proizvođača u FiT, odnosno FiP sistemu podsticaja u satu h unutar meseca M u Periodu naplate, izražena u MWh,",
+            "- je referentna proizvodnja elektrane povlašćenog proizvođača u FiT, odnosno FiP sistemu podsticaja u satu h, unutar meseca M, dobijena na osnovu realnih podataka njene proizvodnje u Periodu usklađivanja, izražena u MWh. U slučaju da za elektranu nema realnih podataka proizvodnje električne energije u Periodu usklađivanja, njena referentna satna proizvodnja električne energije računa se na osnovu uporedivih referentnih podataka drugih elektrana iste vrste koje rade na tržištu Republike Srbije,",
+            "- je referentna mesečna proizvodnja elektrane povlašćenog proizvođača u FiT, odnosno FiP sistemu podsticaja u mesecu M, dobijena na osnovu realnih podataka njene proizvodnje u Periodu usklađivanja, izražena u MWh. U slučaju da za elektranu nema realnih podataka proizvodnje električne energije u Periodu usklađivanja, njena referentna mesečna proizvodnja električne energije računa se na osnovu uporedivih referentnih podataka drugih elektrana iste vrste koje rade na tržištu Republike Srbije,",
+            "FEGkM- je očekivana mesečna proizvodnja elektrane povlašćenog proizvođača u MWh u FiT, odnosno, FiP sistemu podsticaja u mesecu M, u Periodu naplate;",
+            "5) očekivana nominalna ostvarena cena povlašćenih proizvođača u FiP sistemu podsticaja b u Periodu naplate (SPb), u skladu sa propisom kojim se uređuje tržišna premija i fid-in tarifa, FiP ugovorima i prognozama godišnje inflacije u evrozoni koju je objavila Evropska centralna banka na osnovu istraživanja eksperata za prognoziranje;",
+            "6) budući kurs evra prema dinaru u Periodu naplate (EERRSD/EUR) i prelaznom periodu I, na osnovu poslednjih prognoza kursa Narodne banke Srbije;",
+            "7) očekivana nabavna cena električne energije (EPPh) garantovanog snabdevača utvrđuje se kao cena nabavke električne energije za garantovano snabdevanje u RSD po kWh, koju je priznala i odobrila Agencija za energetiku Republike Srbije u poslednjoj dostupnoj i primenjivoj odluci o davanju saglasnosti na odluku o regulisanoj ceni električne energije za garantovano snabdevanje garantovanog snabdevača, u skladu sa važećom metodologijom za utvrđivanje cene električne energije za garantovano snabdevanje koju je donela Agencija za energetiku Republike Srbije, a pretvorena u RSD po MWh za potrebe proračuna. U slučaju da Agencija za energetiku Republike Srbije stavi van snage odluku o regulisanju cena garantovanog snabdevanja, u skladu sa zakonom kojim se uređuje elektroenergetika, očekivana nabavna cena električne energije (EPPh) će se odrediti u iznosu koji odgovara očekivanoj tržišnoj referentnoj ceni (EMRPh) utvrđenoj u skladu sa ovom uredbom;",
+            "8) satna Očekivana tržišna referentna cena električne energije u Periodu naplate, u EUR po MWh (EMRPh) i prelaznom periodu I, izračunava se kao istorijska dan-unapred tržišna cena, kako je definisana u članu 2. ove uredbe, podeljena sa prosečnom dan-unapred tržišnom cenom na mesečnom nivou i pomnoženom sa \"forward\" cenom u datom mesecu ili, ukoliko mesečna \"forward\" cena nije dostupna, sa \"forward\" cenama dostupnim u drugim periodima u toku Perioda naplate ili Prelaznog perioda I, na sledeći način:",
+            "",
+            "gde je:",
+            "M - mesec u toku Perioda naplate ili Prelaznog perioda I ili drugi vremenski period u toku bilo kog od dva perioda P ili I za koji period su dostupne \"forward\" cene za period kada nisu dostupne na mesečnom nivou,",
+            "- očekivana tržišna referentna cena električne energije u periodu M i satu h,",
+            "- dan-unapred tržišna cena za sat h i period M u EUR po MWh u prethodnoj godini,",
+            "NM- broj dan-unapred tržišnih cena iz prethodne godine dostupnih za period M,",
+            "FM- osnovna \"forward\" cena (baseload forward price) za period M u EUR po MWh koja se određuje kao prosta prosečna cena ponuđena (quoted) na SEEPEX u septembru tekuće godine ili na organizovanom tržištu električne energije druge države, ukoliko cena fjučersa na organizovanom tržištu električne energije u Republici Srbiji nije dostupna,",
+            "U slučaju Prelaznog perioda I,određuje se u istom iznosu kao dan-unapred tržišna cena za sat h i period M u Republici Srbiji u EUR po MWh u tekućoj godini, ako je ista poznata u trenutku proračuna i prognoze;",
+            "9) očekivani obim balansnih odstupanja svih povlašćenih proizvođača u Periodu naplate (ERIp) i prelaznom periodu I, koji se izračunava kao zbir predviđenih pojedinačnih dan-unapred grešaka u prognozi (u MWh) svih povlašćenih proizvođača koji imaju pravo na podsticaje za balansiranje i nalaze se u balansnoj grupi garantovanog snabdevača, kao balansno odgovorne strane, koji treba da se proceni na osnovu grešaka prognoze tih proizvođača u Periodu usklađivanja T ili, gde god to nije dostupno:",
+            "(1) na osnovu grešaka prognoze drugih uporedivih proizvođača aktivnih na tržištu u Republici Srbiji;",
+            "(2) na osnovu međunarodnih referentnih vrednosti;",
+            "10) FPZima, koji se dobija korišćenjem najviše SEEPEX \"forward\" cene ponuđene u septembru za bilo koji od zimskih meseci perioda naplate (od januara do marta i od oktobra do decembra) ili korišćenjem uporedivih cena na stranim organizovanim tržištima električne energije kao alternativnih opcija gde god cene fjučersa na organizovanom tržištu električne energije u Republici Srbiji nisu dostupne.",
+            "Ministarstvo prikuplja od operatora prenosnog i distributivnog sistema podatke o proizvodnji elektrana koje koriste obnovljive izvore energije za potrebe primene stava 1. tačka 4) ovog člana.",
+            "VII PRAĆENJE I IZVEŠTAVANJE",
+            "Obaveza dostavljanja podataka Ministarstvu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-naknadi-za-podsticaj-povlascenih-proizvodjaca-elektricne-energije.html#clan_37"
+    },
+    {
+        "title": "Član 38",
+        "texts": [
+            "Do kraja novembra svake godine, garantovani snabdevač dostavlja Ministarstvu podatke o:",
+            "1) ukupnom iznosu fakturisanom od strane povlašćenih proizvođača u skladu sa FiT ugovorima;",
+            "2) ukupnom iznosu fakturisanom subjektima odgovornim za naplatu naknade za podsticaj povlašćenih proizvođača u skladu sa članom 30. ove uredbe;",
+            "3) stanju na namenskom računu iz člana 33. ove uredbe na dan 1. novembar tekuće godine;",
+            "4) pregled svih uplata i isplata sa namenskih računa iz člana 33. ove uredbe;",
+            "5) elementima iz člana 37. tačka 3) i tač. 7-10) ove uredbe, kao i podatak o troškovima balansiranja, uključujući i proračun i iznose svih elemenata u formulama iz čl. 20-26. ove uredbe.",
+            "Garantovani snabdevač je dužan da element ISPhiz člana 22. ove uredbe dostavi u mernoj jedinici EUR/MWh, a element PPhdostavi u mernoj jedinici RSD/MWh.",
+            "Do kraja novembra svake godine, ovlašćena ugovorna strana dostavlja Ministarstvu podatke o:",
+            "1) ukupnom iznosu fakturisanom od strane povlašćenih proizvođača iz OIE u skladu sa FiP ugovorima;",
+            "2) ukupnom iznosu fakturisanom povlašćenim proizvođačima za negativnu tržišnu premiju u skladu sa FiP ugovorima;",
+            "3) ukupnom iznosu primljenom od garantovanog snabdevača na ime naknade za podsticaj povlašćenih proizvođača koje pripadaju ovlašćenoj ugovornoj strani u skladu sa članom 32. ove uredbe;",
+            "4) stanju na namenskom računu iz člana 33. ove uredbe na dan 1. novembra tekuće godine;",
+            "5) strukturi svih uplata i isplata sa namenskih računa iz člana 33. ove uredbe.",
+            "Uz podatke iz st. 1. i 3. ovog člana garantovani snabdevač i ovlašćena ugovorna strana dostavljaju odgovarajući deo izveštaja ovlašćenog revizora kojim se potvrđuje da garantovani snabdevač i ovlašćena ugovorna strana održavaju namenski račun u skladu sa propisima kojima se uređuje računovodstvo i revizija.",
+            "Garantovani snabdevač je dužan da kvartalno dostavi Ministarstvu izveštaj o prikupljenim i utrošenim sredstvima za naknadu za podsticaj proizvodnje povlašćenih proizvođača električne energije u prethodnom periodu sa detaljnom strukturom prihoda i rashoda kao i trenutno stanje na namenskom računu iz člana 33. ove uredbe.",
+            "Izveštaj garantovanog snabdevača o uplaćenim i isplaćenim sredstvima iz naknade za podsticaj povlašćenih proizvođača"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-naknadi-za-podsticaj-povlascenih-proizvodjaca-elektricne-energije.html#clan_38"
+    },
+    {
+        "title": "Član 39",
+        "texts": [
+            "Garantovani snabdevač i ovlašćena ugovorna strana dužni su da najkasnije do kraja februara tekuće godine objave izveštaj o uplaćenim i isplaćenim sredstvima za podsticaj povlašćenih proizvođača u prethodnoj kalendarskoj godini, koji posebno sadrži:",
+            "1) poslovno ime povlašćenih proizvođača i proizvedenu količinu električne energije u njegovoj elektrani;",
+            "2) iznos fakturisane i plaćene električne energije za svakog povlašćenog proizvođača koji je u FiT sistemu podsticaja;",
+            "3) iznos fakturisanog i plaćenog iznosa tržišne premije svakom povlašćenom proizvođaču koji je u FiP sistemu podsticaja;",
+            "4) iznos fakturisanih i naplaćenih naknada za podsticaj povlašćenih proizvođača od svakog od subjekata odgovornog za naplatu naknada za podsticaj povlašćenih proizvođača u skladu sa ovom uredbom;",
+            "5) iznos sredstava koje garantovani snabdevač prenosi na svoj namenski račun u skladu sa ovom uredbom;",
+            "6) iznos sredstava koje garantovani snabdevač prenosi na namenski račun ovlašćene ugovorne strane u skladu sa ovom uredbom, ukoliko je primenljivo;",
+            "7) iznos uplaćenih sredstava za balansnu odgovornost povlašćenih proizvođača u skladu sa ovom uredbom i uredbom kojom se uređuje balansna odgovornost;",
+            "8) iznos sredstava prikupljenih po osnovu naplate finansijskog sredstva obezbeđenja od privremenih povlašćenih proizvođača u skladu sa prethodnom šemom podsticaja, Zakonom o OIE i/ili menica za plaćanje negativne tržišne premije u skladu sa FiP ugovorima;",
+            "9) iznos sredstava prikupljenih po osnovu negativne premije u skladu sa FiP ugovorima zaključenim sa povlašćenim proizvođačima koji su u FiP sistemu podsticaja;",
+            "10) spisak drugih prihoda i rashoda koji se odnose na prikupljena i uplaćena sredstva za podsticaj povlašćenih proizvođača.",
+            "Garantovani snabdevač i ovlašćena ugovorna strana objavljuju izveštaj iz stava 1. ovog člana na svojim zvaničnim internet stranicama.",
+            "VIII KAZNENE ODREDBE"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-naknadi-za-podsticaj-povlascenih-proizvodjaca-elektricne-energije.html#clan_39"
+    },
+    {
+        "title": "Član 40",
+        "texts": [
+            "Novčanom kaznom od 1.500.000 od 3.000.000 dinara kazniće se za privredni prestup snabdevač - pravno lice, ako najkasnije do 23. u mesecu za prethodni mesec ne prenese garantovanom snabdevaču prikupljena sredstva od naknade za podsticaj iz člana 31. stav 1. ove uredbe ili do desetog u mesecu za prethodni mesec ne dostavi garantovanom snabdevaču podatke iz člana 31. stav 2. ove uredbe ili ne dostavi menicu u skladu sa članom 31. stav 7. ove uredbe ili ne izda račun krajnjem kupcu u skladu sa članom 29. ove uredbe.",
+            "Odgovorno lice u snabdevaču - pravnom licu kazniće se za privredni prestup iz stava 1. ovog člana novčanom kaznom od 100.000 do 200.000 dinara.",
+            "Za privredni prestup iz stava 1. ovog člana, pravnom licu se može izreći zaštitna mera zabrane da se bavi određenom privrednom delatnošću u trajanju od šest meseci do tri godine."
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-naknadi-za-podsticaj-povlascenih-proizvodjaca-elektricne-energije.html#clan_40"
+    },
+    {
+        "title": "Član 41",
+        "texts": [
+            "Novčanom kaznom od 1.500.000 od 3.000.000 dinara kazniće se za privredni prestup operator sistema - pravno lice, ako ne prenese garantovanom snabdevaču prikupljena sredstva od naknade za podsticaj najkasnije do 23. u mesecu za prethodni mesec iz člana 31. stav 1. ove uredbe ili ne dostavi garantovanom snabdevaču tražene podatke iz člana 31. st. 2. i 4. ove uredbe ili ne dostavi menicu u skladu sa članom 31. stav 7. ove uredbe ili ne izda račun krajnjem kupcu u skladu sa članom 29. ove uredbe.",
+            "Odgovorno lice u operatoru - pravnom licu kazniće se za privredni prestup iz stava 1. ovog člana novčanom kaznom od 100.000 do 200.000 dinara."
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-naknadi-za-podsticaj-povlascenih-proizvodjaca-elektricne-energije.html#clan_41"
+    },
+    {
+        "title": "Član 42",
+        "texts": [
+            "Novčanom kaznom od 1.500.000 od 3.000.000 dinara kazniće se za privredni prestup garantovani snabdevač - pravno lice ako ne vodi namenski račun u skladu sa čl. 33. i 34. ove uredbe ili ne podnosi izveštaje u skladu sa članom 39. ove uredbe ili ne izda račun krajnjem kupcu u skladu sa članom 29. ove uredbe.",
+            "Odgovorno lice u garantovanim snabdevaču kazniće se za privredni prestup iz stava 1. ovog člana novčanom kaznom od 100.000 do 200.000 dinara."
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-naknadi-za-podsticaj-povlascenih-proizvodjaca-elektricne-energije.html#clan_42"
+    },
+    {
+        "title": "Član 43",
+        "texts": [
+            "Novčanom kaznom od 10.000 do 500.000 dinara, kazniće se za prekršaj snabdevač - preduzetnik ako najkasnije do 23. u mesecu za prethodni mesec ne prenese garantovanom snabdevaču prikupljena sredstva od naknade za podsticaj iz člana 31. stav 1. ove uredbe ili do desetog u mesecu za prethodni mesec ne dostavi garantovanom snabdevaču podatke iz člana 31. stav 2. ove uredbe ili ne dostavi menicu u skladu sa članom 31. stav 7. ove uredbe ili ne izda račun krajnjem kupcu u skladu sa članom 29. ove uredbe.",
+            "Za prekršaj iz stava 1. ovog člana, preduzetniku se može izreći zaštitna mera zabrane da se bavi određenom privrednom delatnošću u trajanju od šest meseci do tri godine.",
+            "IX ZAVRŠNE ODREDBE"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-naknadi-za-podsticaj-povlascenih-proizvodjaca-elektricne-energije.html#clan_43"
+    },
+    {
+        "title": "Član 44",
+        "texts": [
+            "Danom stupanja na snagu ove uredbe prestaju da važe Uredba o načinu obračuna i načinu raspodele prikupljenih sredstava po osnovu naknade za podsticaj povlašćenih proizvođača električne energije (\"Službeni glasnik RS\", broj 8/13) i Uredba o naknadi za podsticaj povlašćenih proizvođača električne energije (\"Službeni glasnik RS\", broj 8/19)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-naknadi-za-podsticaj-povlascenih-proizvodjaca-elektricne-energije.html#clan_44"
+    },
+    {
+        "title": "Član 45",
+        "texts": [
+            "Ova uredba stupa na snagu osmog dana od dana objavljivanja u \"Službenom glasniku Republike Srbije\".",
+            "",
+            "PRILOG",
+            "Naziv operatora: _________________",
+            "Adresa:__________________",
+            "Isporuka električne energije za snabdevača u obračunskom periodu",
+            "Naziv snabdevača_____________________________",
+            "Obračunski period Količina isporučene EE (kWh)",
+            "__________. 2024. godine ________________",
+            "Korekcija za prethodne obračunske periode________________",
+            "Potpis ovlašćenog lica___________________",
+            "Ako ne probate više različitih izbora nikada nećete biti sigurni da li imate najbolju opciju u svojim rukama. Mi Vam tu mogućnost nudimo besplatno! Popunite formular i dobićete priliku da bez ikakvih troškova saznate da li je Paragraf dobar izbor za Vas.",
+            "Ukoliko želite da Vas obaveštavamo o novostima i aktivnostima kompanije Paragraf prijavite se na našu mailing listu. Vaš e-mail neće biti upotrebljen u druge svrhe.",
+            "Pratite Paragraf na Viberu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-naknadi-za-podsticaj-povlascenih-proizvodjaca-elektricne-energije.html#clan_45"
+    }
+]

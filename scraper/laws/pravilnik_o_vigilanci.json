@@ -1,0 +1,650 @@
+[
+    {
+        "title": "Član 1",
+        "texts": [
+            "Ovim pravilnikom uređuju se bliži uslovi i način sprovođenja sistema vigilance.",
+            "2. Definicije"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_1"
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Izrazi upotrebljeni u Zakonu o medicinskim sredstvima (u daljem tekstu: Zakon) i u ovom pravilniku imaju sledeće značenje:",
+            "1) vigilanca medicinskog sredstva je skup aktivnosti kojima se obezbeđuje prikupljanje, procena, razumevanje i reagovanje na saznanja o rizicima koji proizlaze iz upotrebe ili primene medicinskog sredstva, a posebno u pogledu prijavljivanja incidenata (incidents) u cilju poboljšanja i zaštite zdravlja i sigurnosti pacijenata, korisnika i drugih lica i ako je potrebno pružanje informacija koje smanjuju verovatnoću da se incident ponovi na drugom mestu ili kojim se ublažavaju posledice tog incidenta (u daljem tekstu: vigilanca);",
+            "2) lice odgovorno za vigilancu i praćenje medicinskog sredstva na tržištu je lice zaposleno sa punim radnim vremenom kod proizvođača, odnosno ovlašćenog predstavnika proizvođača, koje obavlja poslove vigilance i koje ima završen medicinski, stomatološki, farmaceutski, tehnološki, elektro-tehnički, mašinski, hemijski ili drugi odgovarajući fakultet zavisno od vrste medicinskog sredstva, kao i dodatne edukacije u oblasti vigilance (u daljem tekstu: lice odgovorno za vigilancu);",
+            "3) nepravilna upotreba je činjenje ili nečinjenje od strane lica koje rukuje medicinskim sredstvom ili korisnika, čija je posledica ponašanje medicinskog sredstva koje je izvan bilo kog načina kontrole rizika od strane proizvođača;",
+            "4) ovlašćeni predstavnik inostranog proizvođača medicinskog sredstva (u daljem tekstu: ovlašćeni predstavnik proizvođača) je pravno ili fizičko lice sa sedištem u Republici Srbiji koje je inostrani proizvođač u pismenoj formi jedino ovlastio da postupa u njegovo ime i da vodi postupke propisane ovim zakonom i koje je odgovorno za sigurnost i performanse određenog medicinskog sredstva na isti način kao i proizvođač tog medicinskog sredstva;",
+            "5) korektivna mera je aktivnost koju preduzima proizvođač, odnosno ovlašćeni predstavnik proizvođača u slučaju potencijalne ili utvrđene neusaglašenosti medicinskog sredstva ili druge neželjene situacije. Moguće je da postoji više neusaglašenosti. Korektivna mera se preduzima da bi se sprečilo ponavljanje, dok se preventivna mera preduzima da bi se sprečio takav događaj (Corrective and Preventive Action - CAPA);",
+            "6) proizvod koji je kombinacija leka i medicinskog sredstva je medicinsko sredstvo koje kao sastavni deo sadrži lek ili supstancu čije je dejstvo dopuna dejstvu medicinskog sredstva;",
+            "7) EUDAMED je evropska baza podataka za medicinska sredstva, koja centralizuje podatke o registraciji proizvođača, odnosno ovlašćenih predstavnika proizvođača i medicinskih sredstava koja su stavljena na tržište Evropske unije, podatke o izdatim, izmenjenim, dopunjenim, kao i sertifikatima koji su prestali da važe, koji su povučeni ili odbijeni, podatke dobijene u skladu sa postupkom vigilance medicinskih sredstava i podatke o kliničkim ispitivanjima;",
+            "8) Sigurnosna korektivna mera na terenu (Field safety corrective action - FSCA) je mera koju preduzima proizvođač, odnosno ovlašćeni predstavnik proizvođača kako bi smanjio rizik od smrti ili ozbiljnog pogoršanja zdravstvenog stanja povezanog sa upotrebom medicinskog sredstva koje je stavljeno na tržište. Takve mere, bez obzira da li su povezane sa direktnom ili indirektnom štetom, prijavljuju se i evidentiraju putem Sigurnosnog obaveštenja na terenu;",
+            "9) Sigurnosno obaveštenje na terenu (Field safety notice - FSN) je obaveštenje za kupce, odnosno korisnike poslato od proizvođača, odnosno ovlašćenog predstavnika proizvođača u vezi sa Sigurnosno korektivnom merom na terenu;",
+            "10) šteta je fizička povreda ili šteta po zdravlje ljudi ili šteta po imovinu ili životnu sredinu;",
+            "11) bez odlaganja je način hitnog postupanja, odnosno postupanje čije odlaganje ne može biti opravdano;",
+            "12) incident je svaka neispravnost ili pogoršanje karakteristika, odnosno performansi medicinskog sredstva, kao i neadekvatnost u obeležavanju ili u uputstvu za upotrebu koji je, neposredno ili posredno, doveo ili je mogao da dovede do smrti pacijenta, korisnika ili drugog lica ili do ozbiljnog pogoršanja njegovog zdravstvenog stanja;",
+            "13) indirektna šteta je šteta koja u većini slučajeva može nastati primenom dijagnostičkih sredstava, in vitro dijagnostičkih medicinskih sredstava i medicinskih sredstava za in vitro fertilizaciju i tehnologiju asistirane reprodukcije koja zbog svoje namene ne vode direktno do fizičke povrede ili štete po pojedinca. Ova medicinska sredstva po pravilu pre vode indirektnoj nego direktnoj šteti. Šteta može da nastupi kao posledica lekarske odluke ili mere koja je preduzeta, odnosno nije preduzeta na osnovu informacija ili rezultata dobijenih od medicinskog sredstva ili kao posledica tretmana ćelijama (npr. gameti i embrioni u slučaju medicinskih sredstava za in vitro fertilizaciju i tehnologiju asistirane reprodukcije) ili organa van organizma koji će naknadno biti transplantirani pacijentu. Indirektna šteta je npr. pogrešna dijagnoza, zakasnela dijagnoza, zakasnelo lečenje, neodgovarajuće lečenje, odsustvo lečenja, transfuzija neodgovarajućih supstanci. Indirektna šteta može biti izazvana nepreciznim rezultatima, neadekvatnim kontrolama kvaliteta, neadekvatnom kalibracijom, lažno pozitivnim ili lažno negativnim rezultatima. U slučaju in vitro dijagnostičkih medicinskih sredstava za samotestiranje, medicinsku odluku može da donese i korisnik medicinskog sredstva, koji je istovremeno i pacijent;",
+            "14) namena je upotreba za koju je medicinsko sredstvo namenjeno u skladu sa podacima koje je proizvođač naveo prilikom obeležavanja, u uputstvu za upotrebu, odnosno u promotivnom materijalu;",
+            "15) proizvođač medicinskog sredstva (u daljem tekstu: proizvođač) je pravno ili fizičko lice odgovorno za njegov dizajn, proizvodnju, pakovanje i obeležavanje pre nego što ga stavi na tržište pod svojim imenom, bez obzira da li je ove aktivnosti izvršio samostalno ili ih je u njegovo ime izvršilo drugo lice;",
+            "16) medicinsko sredstvo (opšte) je svaki instrument, aparat, uređaj, softver, implant, reagens, materijal i drugi proizvod koji se koristi samostalno ili u kombinaciji, uključujući i softver koji je proizvođač namenio za dijagnostičke ili terapeutske svrhe i koji je programska podrška neophodna za njegovu pravilnu primenu kod ljudi namenjenu od proizvođača, a koristi se radi:",
+            "(1) utvrđivanja dijagnoze, prevencije, praćenja, predviđanja, prognoze, lečenja ili ublažavanja bolesti,",
+            "(2) utvrđivanja dijagnoze, praćenja, lečenja, ublažavanja ili nadomeštanja povrede ili invaliditeta,",
+            "(3) ispitivanja, zamene ili modifikacije anatomskih ili fizioloških ili patoloških funkcija i stanja,",
+            "(4) obezbeđivanja informacija putem in vitro ispitivanja uzoraka iz ljudske krvi, uključujući donacije organa, krvi i tkiva,",
+            "(5) kontrole ili podrške začeća,",
+            "(6) čišćenja, dezinfekcije ili sterilizacije medicinskih sredstava.",
+            "Medicinsko sredstvo iz stava 1. ove tačke svoju osnovnu namenu ne ispunjava u ili na ljudskom organizmu farmakološkom, imunološkom ili metaboličkom aktivnošću, ali može u svojoj funkciji biti potpomognuto takvim sredstvima;",
+            "17) operater je lice koje rukuje opremom;",
+            "18) Periodični izveštaj o sigurnosti je način izveštavanja dogovoren između Agencije i proizvođača, odnosno ovlašćenog predstavnika proizvođača o izveštavanju sličnih incidenata istog medicinskog sredstva ili tipa medicinskog sredstva na objedinjen način kada je uzrok poznat ili je implementirana Sigurnosna korektivna mera na terenu;",
+            "19) ozbiljna pretnja po javno zdravlje je svaki događaj koji može da dovede do neposredne opasnosti od smrti, ozbiljnog pogoršanja zdravstvenog stanja ili ozbiljne bolesti koja zahteva brze korektivne mere, a što uključuje:",
+            "(1) događaje koji su značajni i neočekivane prirode tako da postaju alarmantni kao potencijalna opasnost po javno zdravlje, kao što je npr. virus humane imunodeficijencije (HIV) ili Creutzfeldt-Jakob bolest (CJD). Ovu pretnju po javno zdravlje može da identifikuje Ministarstvo, Agencija ili proizvođač, odnosno ovlašćeni predstavnik proizvođača,",
+            "(2) mogućnost nastanka više smrtnih slučajeva u kratkim vremenskim intervalima;",
+            "20) trend izveštavanje je vrsta izveštavanja koje proizvođač, odnosno ovlašćeni predstavnik proizvođača koristi kada se značajno poveća broj događaja koji se po pravilu ne smatraju incidentima i za koje se koriste prethodno definisani nivoi\"okidači\" kako bi se odredio prag za izveštavanje;",
+            "21) neočekivano pogoršanje zdravstvenog stanja je pogoršanje koje je dovelo do određenog slučaja koje nije bilo razmatrano u analizi rizika. U dosijeu dizajna je neophodan dokument koji dokazuje da je takva analiza korišćena da se rizik smanji na prihvatljiv nivo ili da je rizik dobro poznat korisniku kome je medicinsko sredstvo namenjeno;",
+            "22) greška prilikom upotrebe je činjenje ili nečinjenje čiji je rezultat drugačiji od onoga koji je namenio proizvođač ili očekivao operater;",
+            "23) korisnik je zdravstvena ustanova, privatna praksa, zdravstveni radnik ili pacijent koji upotrebljava ili održava medicinsko sredstvo;",
+            "24) neželjeni događaj u kliničkom ispitivanju je svaka neprijatna medicinska pojava, nenamerna bolest ili povreda ili nepovoljan klinički simptom (uključujući nepovoljan laboratorijski nalaz) pacijenta, korisnika ili drugih lica, bez obzira da li su ili nisu u vezi sa medicinskim sredstvom koje se klinički ispituje. Ova definicija obuhvata događaje u vezi sa medicinskim sredstvom koje se klinički ispituje ili sa medicinskim sredstvom sa kojim se poredi, kao i događaje u vezi sa uključenim procedurama. Za korisnike ili druga lica ova definicija je ograničena na događaje koji se odnose na medicinsko sredstvo koje se klinički ispituje;",
+            "25) ozbiljan neželjeni događaj u kliničkom ispitivanju je neželjeni događaj koji je doveo ili može da dovede do smrti ili ozbiljnog pogoršanja zdravlja pacijenta, čija je posledica životno opasna bolest ili povreda ili trajno oštećenje struktura ili funkcije tela, hospitalizacije pacijenta ili produžetka postojećeg bolničkog lečenja, medicinske ili hirurške intervencije kako bi se sprečila bolest ili povreda opasna po život ili trajno oštećenje strukture ili funkcije, kao i koji dovodi do fetalnog distresa, smrti fetusa ili urođenih anomalija ili defekta. Planirana hospitalizacija za prethodno postojeće stanje ili postupak koji zahteva Plan kliničkog ispitivanja, bez ozbiljnog narušavanja zdravlja, ne smatra se ozbiljnim neželjenim događajem;",
+            "26) neželjeni efekat u kliničkom ispitivanju je neželjeni događaj u vezi sa upotrebom medicinskog sredstva koje se klinički ispituje. Ova definicija uključuje neželjene efekte koji proističu iz nedovoljnog ili neadekvatnog uputstva za upotrebu, razvoja, implantacije, instalacije ili operacija ili bilo kakve neispravnosti medicinskog sredstva koje se klinički ispituje. Ova definicija obuhvata bilo koji događaj nastao usled greške prilikom upotrebe ili od namerne zloupotrebe medicinskog sredstva koje se klinički ispituje;",
+            "27) ozbiljan neželjeni efekat u kliničkom ispitivanju je neželjeni efekat čiji rezultat odgovara bilo kom ishodu ozbiljnog neželjenog događaja;",
+            "28) neočekivan ozbiljan neželjeni efekat u kliničkom ispitivanju je ozbiljan neželjeni efekat koji prema svojoj prirodi, učestalosti, ozbiljnosti ili ishodu nije opisan u važećoj verziji izveštaja analize rizika;",
+            "29) defekt medicinskog sredstva je nedostatak medicinskog sredstva u odnosu na identitet, kvalitet, izdržljivost, pouzdanost, sigurnost ili performanse. Nedostatak uključuje kvarove, greške prilikom upotrebe i neadekvatno obeležavanje.",
+            "II SISTEM VIGILANCE"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_2"
+    },
+    {
+        "title": "Član 3",
+        "texts": [
+            "Proizvođač, odnosno ovlašćeni predstavnik proizvođača vrši istraživanje incidenta, a Agencija vrši nadzor nad tim istraživanjem i preduzima mere potrebne da se izmene ili dopune mere koje preduzima proizvođač, odnosno ovlašćeni predstavnik proizvođača. U zavisnosti od rezultata istraživanja, Agencija daje sve informacije potrebne za prevenciju incidenata ili ograničavanje njihovih posledica posle stavljanja medicinskih sredstava na tržište i u upotrebu (u daljem tekstu: sistem vigilance) u skladu sa Zakonom.",
+            "Sistem vigilance medicinskih sredstava je skup aktivnosti kojima se obezbeđuje prikupljanje, procena, razumevanje i reagovanje na saznanja o rizicima koji proizlaze iz upotrebe ili primene medicinskog sredstva, a posebno u pogledu prijavljivanja incidenata u cilju poboljšanja i zaštite zdravlja i sigurnosti pacijenata, korisnika i drugih lica i ako je potrebno pružanje informacija koje smanjuju verovatnoću da se incident ponovi na drugom mestu ili kojim se ublažavaju posledice tog incidenta.",
+            "Takođe, sistem vigilance je namenjen da olakša direktnu, blagovremenu i harmonizovanu implementaciju Sigurnosno korektivne mere na terenu na čitavoj teritoriji Republike Srbije gde je medicinsko sredstvo u upotrebi.",
+            "Korektivne mere uključuju, ali nisu ograničene na: povlačenje medicinskog sredstva, izdavanje Sigurnosnog obaveštenja na terenu, dodatan nadzor, modifikaciju medicinskog sredstva u upotrebi, modifikaciju dizajna medicinskog sredstva ili dela procesa proizvodnje, modifikaciju obeležavanja ili uputstva za upotrebu.",
+            "1. Sigurnosno korektivna mera na terenu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_3"
+    },
+    {
+        "title": "Član 4",
+        "texts": [
+            "Sigurnosno korektivna mera na terenu može da uključi:",
+            "1) povraćaj medicinskog sredstva isporučiocu;",
+            "2) modifikaciju medicinskog sredstva;",
+            "3) zamenu medicinskog sredstva;",
+            "4) uništavanje medicinskog sredstva;",
+            "5) naknadna nadogradnja medicinskog sredstva dodavanjem određene komponente ili dodatka (\"retrofit\") ili izmena dizajna medicinskog sredstva;",
+            "6) savet proizvođača u odnosu na upotrebu medicinskog sredstva, odnosno praćenje pacijenata, korisnika ili drugih lica (npr. kada medicinsko sredstvo nije više na tržištu ili je povučeno, ali još uvek može da bude u upotrebi - implanti ili izmene analitičke osetljivosti ili specifičnosti dijagnostičkih medicinskih sredstava)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_4"
+    },
+    {
+        "title": "Član 5",
+        "texts": [
+            "Proizvođač može da, kao deo kontinuiranog obezbeđenja kvaliteta ili ispitivanja na mestu proizvodnje, identifikuje nemogućnost medicinskog sredstva da funkcioniše u skladu sa karakteristikama specificiranim u uputstvu za upotrebu.",
+            "Ako nemogućnost iz stava 1. ovog člana može da dovede ili je dovela do smrti ili ozbiljnog pogoršanja zdravstvenog stanja povezanog sa upotrebom medicinskog sredstva i ima značajan uticaj na proizvod koji je već stavljen na tržište, proizvođač inicira Sigurnosno korektivnu meru na terenu.",
+            "Nemogućnost iz stava 1. ovog člana može da uključi anomalije softvera (npr. netačnu korelaciju između uzorka pacijenta i dobijenih rezultata), nevažeće kontrole, nevažeće kalibracije ili propadanje reagenasa (npr. kontaminacija, greške u transkripciji, smanjena stabilnost)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_5"
+    },
+    {
+        "title": "Član 6",
+        "texts": [
+            "Modifikacija medicinskog sredstva može da uključi:",
+            "1) trajne ili privremene izmene obeležavanja i uputstva za upotrebu:",
+            "(1) savet u odnosu na izmenu u načinu upotrebe medicinskog sredstva, (npr. proizvođač savetuje reviziju procedure kontrole kvaliteta kao što je primena kontrola trećeg lica ili češća kalibracija ili modifikacija kontrolnih vrednosti za medicinsko sredstvo),",
+            "(2) izmene uslova skladištenja uzoraka koji se koriste sa in vitro dijagnostičkim medicinskim sredstvom,",
+            "(3) savet izdat korisnicima u odnosu na izmenu životnog veka medicinskih sredstava za in vitro fertilizaciju i tehnologiju asistirane reprodukcije (npr. proizvođač obaveštava korisnike o grešci na obeležavanju što indikuje duži životni vek medicinskog sredstva);",
+            "2) nadogradnju softvera nastalu nakon identifikacije greške u verziji softvera koja je na tržištu (prijavljuje se bez obzira da li je ažuriranje izvršeno od strane korisnika, servisnih inženjera na terenu ili daljinskim pristupom).",
+            "Savet proizvođača može da uključi modifikaciju kliničkog upravljanja pacijentima, odnosno uzorcima, kako bi se rešio (smanjio) rizik od smrti ili ozbiljnog pogoršanja zdravstvenog stanja pacijenta, koji je povezan isključivo sa karakteristikama medicinskog sredstva, kao što je:",
+            "1) za implantabilna medicinska sredstva je često klinički neopravdano eksplantirati medicinsko sredstvo. Korektivna mera u formi praćenja pacijenta konstituiše Sigurnosno korektivnu meru na terenu, bez obzira da li su pogođena neimplantirana medicinska sredstva ostala dostupna za povraćaj;",
+            "2) za dijagnostička medicinska sredstva (npr. in vitro dijagnostička, ili oprema ili medicinska sredstva za snimanje), korektivna mera u formi vraćanja pacijenata ili njihovih uzoraka za retestiranje ili revizija prethodnih rezultata konstituiše Sigurnosno korektivnu meru na terenu.",
+            "2. Prijavljivanje koje vrši proizvođač, odnosno ovlašćeni predstavnik proizvođača"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_6"
+    },
+    {
+        "title": "Član 7",
+        "texts": [
+            "Proizvođač, odnosno ovlašćeni predstavnik proizvođača prijavljuje Agenciji i Ministarstvu svaki incident i Sigurnosnu korektivnu meru na terenu ako su ispunjeni kriterijumi za prijavljivanje propisani ovim pravilnikom.",
+            "Proizvođač, odnosno ovlašćeni predstavnik proizvođača istražuje incidente i preduzima sve potrebne korektivne mere.",
+            "Ako se incident dogodi kao posledica kombinovane upotrebe dva ili više pojedinačnih medicinskih sredstava, odnosno pribora drugog proizvođača, svaki proizvođač, odnosno ovlašćeni predstavnik proizvođača to prijavljuje Agenciji i Ministarstvu.",
+            "Proizvođač, odnosno ovlašćeni predstavnik proizvođača obaveštava telo za ocenjivanje usaglašenosti o problemima koji se javljaju u fazi postprodukcije koji utiču na sertifikaciju, a što uključuje i promene koje su posledica primene sistema vigilance.",
+            "Prijavljivanje incidenta ne smatra se prihvatanjem odgovornosti za incident i njegove posledice. Pismeni izveštaji mogu da sadrže odricanje od odgovornosti.",
+            "U slučaju promene proizvođača, odnosno ovlašćenog predstavnika proizvođača, ako se obaveze vigilance i tržišnog nadzora prenose na drugo pravno lice, aktivnosti nadzora nad tržištem se nastavljaju i Agencija i Ministarstvo se obaveštavaju o posledicama, kao i novim kontakt podacima bez odlaganja, tako da se svaki štetni efekat na funkcionisanje sistema vigilance minimizira.",
+            "3. Obaveze proizvođača odnosno, ovlašćenog predstavnika proizvođača medicinskog sredstva koje nije namenjeno da deluje direktno na pacijenta"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_7"
+    },
+    {
+        "title": "Član 8",
+        "texts": [
+            "Za medicinsko sredstvo koje nije namenjeno da deluje direktno na pacijenta (većina dijagnostičkih, in vitro dijagnostičkih i medicinskih sredstava za in vitro fertilizaciju i tehnologiju asistirane reprodukcije), ako je direktna šteta za pacijenta teško dokaziva (osim ako je medicinsko sredstvo izazvalo pogoršanje zdravstvenog stanja) šteta se smatra indirektnom - rezultat činjenja ili nečinjenja na bazi netačnih rezultata dobijenih dijagnostičkim, in vitro dijagnostičkim medicinskim sredstvom ili kao posledica tretmana ćelijama (npr. gameti i embrioni u slučaju medicinskih sredstava za in vitro fertilizaciju i tehnologiju asistirane reprodukcije) ili organa van organizma koji se naknadno transplantiraju pacijentu. Do indirektne štete može dovesti i softver koji je medicinsko sredstvo. Incidenti i događaji koji dovode do indirektne štete prijavljuju se Agenciji i Ministarstvu.",
+            "Ako proizvođač, odnosno ovlašćeni predstavnik proizvođača medicinskog sredstva iz stava 1. ovog člana identifikuje događaj koji je doveo ili može da dovede do indirektne štete po pacijenta i koji je doveo ili može da dovede do smrti ili ozbiljnog pogoršanja zdravstvenog stanja pacijenta, incident prijavljuje Agenciji i Ministarstvu.",
+            "Svaka mera preduzeta od proizvođača, odnosno ovlašćenog predstavnika proizvođača da se smanji rizik od smrti ili ozbiljnog pogoršanja zdravstvenog stanja pacijenta koji su povezani sa upotrebom medicinskog sredstva koje je već stavljeno na tržište prijavljuje se putem Sigurnosnog obaveštenja na terenu. Ta mera se prijavljuje u skladu sa odredbama ovog pravilnika, bez obzira da li je povezana sa direktnom ili indirektnom štetom.",
+            "Može da bude teško da se odredi da je ozbiljno pogoršanje zdravstvenog stanja pacijenta bilo ili može biti posledica netačnog rezultata dobijenog od in vitro dijagnostičkog ili dijagnostičkog medicinskog sredstva, posledica neodgovarajućeg tretmana reproduktivnim ćelijama sa medicinskim sredstvom za in vitro fertilizaciju ili tehnologiju asistirane reprodukcije ili posledica greške korisnika ili trećeg lica. U slučaju sumnje podnosi se izveštaj u skladu sa odredbama ovog pravilnika.",
+            "U slučaju greške korisnika ili trećeg lica, obeležavanje i uputstvo za upotrebu pažljivo se pregledaju za slučaj neadekvatnosti, a naročito kod sredstava za samotestiranje kada medicinsku odluku može da donese pacijent. Neadekvatnosti u informacijama proizvođača koje su dovele ili mogu da dovedu do štete po korisnika, pacijenta ili treće lice prijavljuju se u skladu sa ovim pravilnikom.",
+            "4. Aktivnosti Agencije"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_8"
+    },
+    {
+        "title": "Član 9",
+        "texts": [
+            "Agencija vrši nadzor nad istraživanjem incidenata koje sprovodi proizvođač, odnosno ovlašćeni predstavnik proizvođača i preduzima potrebne dopunske mere u odnosu na mere koje preduzima proizvođač, odnosno ovlašćeni predstavnik proizvođača u skladu sa Zakonom.",
+            "Agencija na svojoj internet stranci objavljuje sve informacije potrebne za prevenciju budućih incidenata ili ograničavanje njihovih posledica, a u zavisnosti od istraživanja koje sprovodi proizvođač, odnosno ovlašćeni predstavnik proizvođača.",
+            "Agencija obezbeđuje podizanje svesti organizacija i pojedinca uključenih u sistem zdravstvene zaštite koji kupuju medicinska sredstva o značaju njihove saradnje i obezbeđivanju prvog koraka u sistemu vigilance.",
+            "U cilju povećavanja efikasnosti sistema vigilance, Agencija pospešuje prijavljivanje incidenata od korisnika i profesionalaca uključenih u distribuciju, isporuku ili stavljanje u upotrebu medicinskih sredstava. To uključuje organizaciju i pojedince odgovorne za obezbeđivanje kalibracije i održavanje medicinskih sredstava. Ovi izveštaji podnose se proizvođaču, odnosno ovlašćenom predstavniku proizvođača i Agenciji.",
+            "Informacije o sistemu vigilance Agencija čuva kao poverljive u skladu sa Zakonom. Izveštaj o incidentu, na zahtev, Agencija dostavlja inspekciji Ministarstva.",
+            "5. Prijavljivanje od strane korisnika"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_9"
+    },
+    {
+        "title": "Član 10",
+        "texts": [
+            "Korisnici prijavljuju incidente sa medicinskim sredstvom proizvođaču, odnosno ovlašćenom predstavniku proizvođača i Agenciji.",
+            "Ako je identifikovana korektivna ili druga mera, koordinator za vigilancu, zdravstveni radnik, odnosno predstavnik korisnika odgovoran za održavanje i sigurnost medicinskog sredstva, lice odgovorno za kalibraciju i održavanje medicinskog sredstva, odnosno lice odgovorno za vigilancu preduzima odgovarajuće aktivnosti. Te aktivnosti se, ako je izvodljivo, preduzimaju u saradnji sa proizvođačem, odnosno ovlašćenim predstavnikom proizvođača.",
+            "Prijava incidenata medicinskog sredstva za zdravstvene ustanove i zdravstvene radnike data je u Prilogu 8. koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo.",
+            "Prijava neželjene reakcije na medicinsko sredstvo za ostale korisnike, odnosno pacijente data je u Prilogu 9. koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo.",
+            "III SISTEM VIGILANCE PROIZVOĐAČA, ODNOSNO OVLAŠĆENOG PREDSTAVNIKA PROIZVOĐAČA",
+            "1. Sistem prijavljivanja incidenata"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_10"
+    },
+    {
+        "title": "Član 11",
+        "texts": [
+            "Proizvođač, odnosno ovlašćeni predstavnik proizvođača podnosi početni izveštaj o incidentu Agenciji, radi evidentiranja i procene. Svaki početni izveštaj vodi do finalnog izveštaja osim ako su kombinovani u jedan izveštaj, ali svaki izveštaj o incidentu ne vodi do korektivne mere. Podnošenje izveštaja uspostavlja se kao pravilo, a ne samo u slučaju sumnje da treba prijaviti incident.",
+            "U izveštaju proizvođač, odnosno ovlašćeni predstavnik proizvođača upućuje ili ih čuva u dosijeu u slučaju da odluči da ne prijavljuje:",
+            "1) incidente koji su se dogodili van Republike Srbije, EEA, Švajcarske i Turske koji ne vode do Sigurnosno korektivne mere na terenu relevantne za ove geografske oblasti ne prijavljuju se;",
+            "2) incidente koji su se dogodili van Republike Srbije, EEA, Švajcarske i Turske koji su doveli do Sigurnosno korektivne mere na terenu relevantne za ove geografske oblasti prijavljuju se kao Sigurnosno korektivna mera na terenu.",
+            "Ako je primenjivo, proizvođač obaveštava svog ovlašćenog predstavnika, lica odgovorna za stavljanje medicinskog sredstva na tržište i sva druga angažovana lica (npr. distributere) ovlašćena da postupaju u njegovo ime u slučaju incidenta i Sigurnosno korektivne mere na terenu koji se prijavljuju u okviru sistema vigilance.",
+            "Ako je sedište proizvođača van Republike Srbije, EEA, Švajcarske i Turske, obezbeđuje se kontakt lice. To može da bude ovlašćeni predstavnik proizvođača, lice odgovorno za stavljanje medicinskog sredstva na tržište, lice odgovorno za vigilancu i sva druga angažovana lica ovlašćena da postupaju u njegovo ime u svrhe povezane sa sistemom vigilance.",
+            "1.1. Kriterijumi za prijavljivanje incidenata koje proizvođač, odnosno ovlašćeni predstavnik proizvođača prijavljuje Agenciji"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_11"
+    },
+    {
+        "title": "Član 12",
+        "texts": [
+            "Incidentom se smatra i prijavljuje Agenciji svaki događaj koji ispunjava sledeće kriterijume:",
+            "1) događaj koji uključuje situacije kada provera tehničke ispravnosti, sprovedena na medicinskom sredstvu, provera informacija o medicinskom sredstvu navedenih na obeležavanju i uputstvu za upotrebu ili bilo koja naučna informacija ukazuje na faktor koji može da dovede ili je doveo do incidenta. Uobičajeni događaji uključuju, ali nisu ograničeni na:",
+            "(1) neispravnost ili pogoršanje karakteristika ili performansi medicinskog sredstva (neispravnost ili pogoršanje je nemogućnost medicinskog sredstva da funkcioniše u skladu sa namenom kada se upotrebljava u skladu sa uputstvima proizvođača),",
+            "(2) za in vitro dijagnostička medicinska sredstva, gde postoji rizik da će netačan rezultat dovesti do indirektne štete po pacijenta, što za posledicu ima životnu ugroženost testirane individue ili potomka, ili da indirektna šteta izazove smrt ili ozbiljan invaliditet individue, testiranog fetusa ili potomka, svaki lažno pozitivan ili lažno negativan rezultat smatra se incidentom. Za sva druga in vitro dijagnostička medicinska sredstva, lažno pozitivan ili lažno negativan rezultat van deklarisanih performansi testa, smatra se događajem,",
+            "(3) neočekivana neželjena reakcija ili neželjeni efekat,",
+            "(4) interakcija sa drugim supstancama ili proizvodima,",
+            "(5) degradacija, odnosno uništenje medicinskog sredstva (npr. u požaru),",
+            "(6) neodgovarajuća terapija,",
+            "(7) neispravnost u obeležavanju, uputstvu za upotrebu, odnosno promotivnom materijalu, uključujući greške i nedostatke. Greške ne uključuju odsustvo informacija koje su opšte poznate namenjenim korisnicima.",
+            "Za bliže pojedinosti o događajima primenjuje se ISO TS 19218 o tipovima neželjenih događaja i uzrocima, odnosno efektima kodiranja;",
+            "2) sumnja se da je medicinsko sredstvo uzrok koji je doprineo incidentu. U proceni povezanosti medicinskog sredstva i incidenta, proizvođač, odnosno ovlašćeni predstavnik proizvođača uzima u obzir:",
+            "(1) mišljenje zdravstvenog radnika, zasnovano na dostupnim dokazima,",
+            "(2) rezultat sopstvene preliminarne procene incidenta,",
+            "(3) dokaze o prethodnim, sličnim incidentima,",
+            "(4) druge dokaze koje poseduje.",
+            "Ova procena može da bude teška kada je više medicinskih sredstava i lekova uključeno u događaj koji je doveo do incidenta. U tom slučaju pretpostavlja se da je medicinsko sredstvo izazvalo ili doprinelo incidentu i proizvođač, odnosno ovlašćeni predstavnik proizvođača može biti u zabludi u odnosu na mere opreza;",
+            "3) događaj je doveo ili može da dovede do jednog od sledećih rezultata:",
+            "(1) smrti pacijenta, korisnika ili trećeg lica,",
+            "(2) ozbiljnog pogoršanja zdravstvenog stanja pacijenta, korisnika ili trećeg lica.",
+            "Ozbiljno pogoršanje zdravstvenog stanja iz stava 1. tačka 3) podtačka (2) ovog člana uključuje i:",
+            "1) životno ugrožavajuću bolest;",
+            "2) trajno oštećenje telesne funkcije ili trajno oštećenje telesne strukture;",
+            "3) stanje koje iziskuje medicinsku ili hirušku intervenciju da bi se sprečile posledice iz tač. 1) i 2) ovog stava (npr. klinički relevantno povećanje trajanja hirurške procedure, stanje koje zahteva hospitalizaciju ili značajno produženje postojeće hospitalizacije;",
+            "4) svaka indirektna šteta koja je posledica netačne dijagnostike ili za in vitro dijagnostičkog rezultata testa ili kao posledica upotrebe medicinskog sredstva za in vitro fertilizaciju ili tehnologiju asistirane reprodukcije u okviru uputstva za upotrebu proizvođača (mogu da se uzmu u obzir i greške u upotrebi koje se prijavljuju u skladu sa odredbama ovog pravilnika);",
+            "5) fetalni distres, fetalna smrt ili kongenitalna anomalija ili urođeni defekt.",
+            "Svi incidenti nemaju za posledicu smrt ili ozbiljno pogoršanje zdravstvenog stanja, zbog pozitivnih okolnosti ili intervencije zdravstvenih radnika. Iz tog razloga dovoljno je da je incident povezan sa medicinskim sredstvom i da je incident bio takav da je mogao da dovede do smrti ili ozbiljnog pogoršanja zdravstvenog stanja, odnosno da, ako se ponovi, može dovesti do smrti ili ozbiljnog pogoršanja zdravstvenog stanja pacijenta. Primeri incidenata i sigurnosnih korektivnih mera na terenu koje prijavljuje proizvođač, odnosno ovlašćeni predstavnik proizvođača dati su u Prilogu 1. koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo.",
+            "1.2. Uslovi za podnošenje Periodičnog izveštaja o sigurnosti"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_12"
+    },
+    {
+        "title": "Član 13",
+        "texts": [
+            "Agencija može da zatraži od proizvođača, odnosno ovlašćenog predstavnika proizvođača, da podnese Periodični izveštaj o sigurnosti ili trend izveštaj, nakon izdavanja jednog ili više početnih izveštaja koje su u saradnji procenili. O tome se postiže sporazum između proizvođača, odnosno ovlašćenog predstavnika proizvođača i Agencije i izveštaj se podnosi u dogovorenom formatu i u rokovima određenim za pojedini tip medicinskog sredstva i incidenta.",
+            "Periodični izveštaj o sigurnosti dat je u Prilogu 2. koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo.",
+            "Incidenti opisani u Sigurnosnom obaveštenju na terenu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_13"
+    },
+    {
+        "title": "Član 14",
+        "texts": [
+            "Incidenti opisani u Sigurnosnom obaveštenju na terenu, koji se dogode pošto je proizvođač, odnosno ovlašćeni predstavnik proizvođača izdao Sigurnosno obaveštenje na terenu i sproveo Sigurnosnu korektivnu meru na terenu, ne prijavljuju se pojedinačno. Proizvođač, odnosno ovlašćeni predstavnik proizvođača se sporazumeva sa Agencijom o učestalosti i sadržaju Periodičnog izveštaja o sigurnosti (npr. proizvođač je izdao Periodični izveštaj o sigurnosti i sproveo Sigurnosnu korektivnu meru na terenu za koronarni stent koji je migrirao usled neadekvatne inflacije vezanog balon mehanizma, sledeći primeri migracije stenta obrađuju se u kvartalnim izveštajima u vezi sa Sigurnosnom korektivnom merom na terenu, a pojedinačni incidenti ne moraju da budu prijavljeni).",
+            "Uobičajeni i dobro dokumentovani incidenti"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_14"
+    },
+    {
+        "title": "Član 15",
+        "texts": [
+            "Uobičajeni i dobro dokumentovani incidenti (koji su identifikovani u analizi rizika medicinskog sredstva i koji su već doveli do procene izveštaja o incidentu od Agencije i proizvođača, odnosno ovlašćenog predstavnika proizvođača), Agencija može da izuzme iz pojedinačnog prijavljivanja i prebaci na podnošenje Periodičnog izveštaja o sigurnosti.",
+            "Agencija vrši nadzor incidenata iz stava 1. ovog člana i određuje nivoe aktivacije. Nivoi aktivacije za izveštavanje u međuvremenu sporazumno određuju Agencija i proizvođač, odnosno ovlašćeni predstavnik proizvođača. Taj izveštaj sačinjava se svaki put kada su nivoi aktivacije pređeni.",
+            "1.3. Uslovi pod kojima se prijavljivanje u sistemu vigilance ne zahteva",
+            "Nedostatak medicinskog sredstva otkriven od korisnika pre upotrebe"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_15"
+    },
+    {
+        "title": "Član 16",
+        "texts": [
+            "Nedostaci medicinskog sredstva koji se uvek otkriju (ne mogu da se ne otkriju) od korisnika pre upotrebe, ne prijavljuju se u sistemu vigilance, bez obzira na postojanje odredaba u uputstvu za upotrebu proizvođača (npr. pakovanje sterilnog medicinskog sredstva za jednokratnu upotrebu je obeleženo merom opreza\"ne koristiti ako je pakovanje otvoreno ili oštećeno\" - pre upotrebe očigledno oštećenje pakovanja je primećeno i medicinsko sredstvo nije upotrebljeno; zaštitnik vrha seta za intravenoznu primenu je odvojen od seta tokom distribucije što ima za posledicu nesterilni put tečnosti - set nije upotrebljen; vaginalni spekulum ima više preloma, nakon aktiviranja ručke, medicinsko sredstvo se razdvojilo - medicinsko sredstvo nije upotrebljeno; u in vitro dijagnostičkom kitu za testiranje boca obeležena kao liofilizator je u tečnom stanju - ovo je otkriveno pre upotrebe).",
+            "U slučaju iz stava 1. ovog člana korisnik o tome obaveštava proizvođača, odnosno ovlašćeni predstavnik proizvođača pre upotrebe medicinskog sredstva.",
+            "Događaji izazvani stanjem pacijenta"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_16"
+    },
+    {
+        "title": "Član 17",
+        "texts": [
+            "Ako proizvođač, odnosno ovlašćeni predstavnik proizvođača ima informaciju da je uzrok događaja stanje pacijenta, događaj se ne prijavljuje. Ovaj uslov treba da postoji pre događaja tokom upotrebe medicinskog sredstva (npr. rana revizija ortopedskog implanta zbog slabljenja izazvanog razvojem osteolize kod pacijenta, što nije direktna posledica propasti implanta, a ovaj zaključak podržava se mišljenjem medicinskog eksperta; pacijent je preminuo nakon dijalize, a imao je bubrežnu bolest završnog stadijuma i preminuo je od bubrežne insuficijencije - istraživanje proizvođača otkriva da medicinsko sredstvo funkcioniše u skladu sa namenom i da incident nije povezan sa medicinskim sredstvom).",
+            "Da bi opravdao neprijavljivanje događaja iz stava 1. ovog člana, proizvođač, odnosno ovlašćeni predstavnik proizvođača zaključuje da medicinsko sredstvo funkcioniše u skladu sa namenom i da nije izazvalo ili doprinelo smrti ili ozbiljnom pogoršanju zdravstvenog stanja pacijenta. Lice kvalifikovano da donese medicinsku procenu treba da prihvati ovaj zaključak. Proizvođač, odnosno ovlašćeni predstavnik proizvođača uključuje kliničkog lekara u donošenje ove odluke.",
+            "Prekoračen rok upotrebe ili životni vek medicinskog sredstva"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_17"
+    },
+    {
+        "title": "Član 18",
+        "texts": [
+            "Ako je jedini razlog za događaj istek roka upotrebe ili životnog veka medicinskog sredstva, specificiran od proizvođača, a nedostatak nije neuobičajen, incident se ne prijavljuje (npr. gubitak osećaja pošto je pejsmejker dostigao kraj životnog veka, izborni zamenski indikator je prikazan u odgovarajućem vremenskom roku prema specifikaciji uređaja - potrebna je hirurška eksplantacija pejsmejkera; primećen je nedovoljan kontakt papučica defibrilatora sa pacijentom, pa pacijent ne može da bude defibriliran zbog nedovoljnog kontakta sa grudima - životni vek papučice je obeležen ali je prekoračen; pacijent je primljen u bolnicu sa hipoglikemijom zbog nepravilne doze insulina što je praćeno rezultatom glukoze u krvi - istraživanje pokazuje da je test traka korišćena posle isteka roka specificiranog od proizvođača).",
+            "Rok upotrebe ili životni vek medicinskog sredstva određuje proizvođač i uključen je u tehničku dokumentaciju (tehnički fajl) i, ako je primenjivo, uputstvo a upotrebu ili obeležavanje. Rok upotrebe ili životni vek medicinskog sredstva može da uključi npr. vreme upotrebe za koje je medicinsko sredstvo namenjeno da ostane funkcionalno, nakon što je proizvedeno, stavljeno u upotrebu i održavano, kako je specificirano. Procena za prijavljivanje bazira se na informacijama iz tehničke dokumentacije ili uputstva za upotrebu.",
+            "Zaštita od greške medicinskog sredstva koje ispravno funkcioniše"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_18"
+    },
+    {
+        "title": "Član 19",
+        "texts": [
+            "Događaji koji nisu doveli do ozbiljnog pogoršanja zdravstvenog stanja ili smrti, jer su osobine dizajna zaštićene od toga da greška postane opasnost (u skladu sa relevantnim standardima ili dokumentima o inputima dizajna) ne prijavljuju se. Preduslov je da nema opasnosti za pacijenta, čime se opravdava neprijavljivanje. Ako je korišćen alarmni sistem, koncept tog sistema je opšte poznat za taj tip proizvoda (npr. infuziona pumpa se zaustavila zbog kvara, ali daje odgovarajući alarm, u skladu sa relevantnim standardima i nije bilo štete po pacijenta; mikroprocesorom kontrolisani grejači radijatora ne funkcionišu i daju odgovarajući zvučni alarm, u skladu sa relevantnim standardima i nije bilo pogoršanja zdravstvenog stanja pacijenta; tokom tretmana radijacijom, uključena je automatska kontrola izloženosti, kada se tretman zaustavi iako je pacijent primio optimalnu dozu, pacijent nije izložen prekomernoj radijaciji; laboratorijski analizator se zaustavio tokom analize zbog greške modula za uzimanje uzorka, ali odgovarajuća poruka o grešci je data korisniku - intervencija korisnika ili blagovremena daljinska intervencija proizvođača dozvoljavaju da analizator nastavi analizu i dobije tačan rezultat).",
+            "Očekivani i predvidljivi neželjeni efekti"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_19"
+    },
+    {
+        "title": "Član 20",
+        "texts": [
+            "Očekivanim i predvidljivim neželjenim efektima, koji se po pravilu ne prijavljuju, smatraju se efekti koji su:",
+            "1) jasno identifikovani od proizvođača na obeležavanju, odnosno uputstvu za upotrebu medicinskog sredstva;",
+            "2) klinički dobro poznati kao predvidljivi i imaju određenu kvalitativnu i kvantitativnu predvidljivost kada se medicinsko sredstvo upotrebljava i funkcioniše u skladu sa namenom koju mu je dodelio proizvođač;",
+            "3) dokumentovani u tehničkoj dokumentaciji (tehničkom fajlu) sa odgovarajućom procenom rizika, pre nego što se incident dogodio;",
+            "4) klinički prihvatljivi u smislu individualne koristi za pacijenta.",
+            "U donošenje odluke iz stava 1. ovog člana proizvođač, odnosno ovlašćeni predstavnik proizvođača uključuje kliničkog lekara.",
+            "Promenu u odnosu koristi i rizika (npr. povećanje učestalosti, odnosno ozbiljnosti) na osnovu izveštaja o očekivanim i predvidljivim neželjenim efektima koji su doveli ili su mogli da dovedu do smrti ili ozbiljnog pogoršanja zdravstvenog stanja, proizvođač, odnosno ovlašćeni predstavnik proizvođača uzima u obzir kao pogoršanje karakteristika, odnosno performansi medicinskog sredstva.",
+            "U slučaju iz stava 2. ovog člana, proizvođač, odnosno ovlašćeni predstavnik proizvođača podnosi Agenciji trend izveštaj.",
+            "Neželjeni efekat se ne smatra incidentom, osim kada se ako promena odnosa koristi i rizika smatra pogoršanjem performansi medicinskog sredstva.",
+            "Očekivani i predvidljivi neželjeni efekti su i oni koji su dobro poznati u medicinskom, naučnom ili tehnološkom smislu i koji su jasno identifikovani tokom kliničkog ispitivanja ili kliničke prakse i navedeni na obeležavanju ili uputstvu za upotrebu proizvođača.",
+            "Uslovi koji dovode do neželjenog efekta mogu da se opišu i predvide u brojkama, ako je to izvodljivo.",
+            "Neželjeni efekti koji nisu dokumentovani i predvidljivi ili nisu klinički prihvatljivi u odnosu na korist za pojedinačnog pacijenta, prijavljuju se Agenciji.",
+            "Zanemarljiva verovatnoća nastanka smrti ili ozbiljnog pogoršanja zdravstvenog stanja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_20"
+    },
+    {
+        "title": "Član 21",
+        "texts": [
+            "Incident kod koga je rizik od smrti ili ozbiljnog pogoršanja zdravstvenog stanja kvantifikovan i procenjen kao zanemarljivo mali, ne prijavljuje se ako nije došlo do smrti ili ozbiljnog pogoršanja zdravstvenog stanja i rizik je opisan i dokumentovan kao prihvatljiv u okviru potpune procene rizika (npr. proizvođač pejsmejkera stavljenog na tržište identifikuje grešku u softveru i kvantifikuje verovatnoću ozbiljnog pogoršanja zdravstvenog stanja u postavljenom okruženju kao zanemarljivu, a nije bilo neželjenih efekata na zdravlje pacijenata).",
+            "Ako je posledica incidenta smrt ili ozbiljno pogoršanje zdravstvenog stanja, incident se prijavljuje i vrši se ponovna procena rizika. Ako ponovna procena rizika utvrdi da rizik ostaje zanemarljivo mali, prethodni incidenti istog tipa se ne prijavljuju retroaktivno. Odluka da se ne prijavljuju naknadni nedostaci istog tipa dokumentuje se. Promene u trendovima (uobičajeno povećanja) rezultata koji nisu ozbiljni se prijavljuju.",
+            "1.4. Trend izveštavanje"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_21"
+    },
+    {
+        "title": "Član 22",
+        "texts": [
+            "Proizvođač, odnosno ovlašćeni predstavnik proizvođača Agenciji podnosi izveštaj o značajnom povećanju ili trendu događaja ili incidenata koji po pravili nisu uključeni u pojedinačno prijavljivanje. U tom cilju proizvođač, odnosno ovlašćeni predstavnik proizvođača uspostavlja odgovarajući sistem za proaktivno istraživanje trendova reklamacija i incidenta sa medicinskim sredstvom.",
+            "Proizvođač, odnosno ovlašćeni predstavnik proizvođača, podnosi trend izveštaj Agenciji ako dođe do značajnog povećanja broja:",
+            "1) incidenata koji već podležu prijavljivanju;",
+            "2) incidenata koji se po pravilu ne prijavljuju;",
+            "3) događaja koji se po pravilu ne prijavljuju, bez obzira da li je dogovoreno podnošenje Periodičnog izveštaja o sigurnosti.",
+            "Trend izveštaj dat je u Prilogu 3. koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo.",
+            "1.5. Prijavljivanje greške u upotrebi i nepravilne upotrebe"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_22"
+    },
+    {
+        "title": "Član 23",
+        "texts": [
+            "Proizvođač, odnosno ovlašćeni predstavnik proizvođača procenjuje sve događaje, potencijalne greške u upotrebi i nepravilne upotrebe kao i druge reklamacije medicinskog sredstva. Ta procena zasniva se na upravljanju rizikom, inženjeringu upotrebljivosti, validaciji dizajna i postupcima korektivnih i preventivnih mera.",
+            "Rezultati procene iz stava 1. ovog člana dostavljaju se na zahtev Agencije.",
+            "Greške u upotrebi koje se prijavljuju"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_23"
+    },
+    {
+        "title": "Član 24",
+        "texts": [
+            "Proizvođač, odnosno ovlašćeni predstavnik proizvođača prijavljuje Agenciji greške u upotrebi medicinskog sredstva čija je posledica smrt ili ozbiljno pogoršanje zdravstvenog stanja ili ozbiljna pretnja po javno zdravlje.",
+            "Greške u upotrebi iz stava 1. ovog člana prijavljuju se ako proizvođač, odnosno ovlašćeni predstavnik proizvođača:",
+            "1) primeti značajnu promenu trenda (po pravilu povećanje učestalosti) ili u slučajevima značajne promene u obrascu događaja koji može da dovede do smrti ili ozbiljnog pogoršanja zdravstvenog stanja ili ozbiljne pretnje po javno zdravlje;",
+            "2) inicira Sigurnosno korektivnu meru na terenu da spreči smrt ili ozbiljno pogoršanje zdravstvenog stanja ili ozbiljnu pretnju po javno zdravlje.",
+            "Greške u upotrebi koje se po pravilu ne prijavljuju"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_24"
+    },
+    {
+        "title": "Član 25",
+        "texts": [
+            "Proizvođač, odnosno ovlašćeni predstavnik proizvođača ne prijavljuje Agenciji greške u upotrebi čija posledica nije smrt ili ozbiljno pogoršanje zdravstvenog stanja ili ozbiljna pretnja po javno zdravlje. Ti događaji se rešavaju u okviru sistema kvaliteta i upravljanja rizikom. Odluka da se ne prijavljuju ove greške, obrazlaže se i dokumentuje.",
+            "Nepravilna upotreba"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_25"
+    },
+    {
+        "title": "Član 26",
+        "texts": [
+            "Proizvođač, odnosno ovlašćeni predstavnik proizvođača ne prijavljuje Agenciji nepravilnu upotrebu. Ako se sazna za slučajeve nepravilne upotrebe o tome mogu da se obaveste zdravstvene ustanove, odnosno zdravstveni radnici.",
+            "1.6. Podaci o incidentu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_26"
+    },
+    {
+        "title": "Član 27",
+        "texts": [
+            "Podaci o incidentu koji se navode u svakom izveštaju koji proizvođač, odnosno ovlašćeni predstavnik proizvođača dostavlja Agenciji i koji se koriste za početni, prateći i završni izveštaj podnose se kao izveštaj proizvođača, odnosno ovlašćenog predstavnika proizvođača o incidentu koji je dat u Prilogu 4. koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo.",
+            "Prijavljivanje iz stava 1. ovog člana vrši se elektronski preko portala Agencije.",
+            "Ako je početni izveštaj dostavljen usmeno (npr. telefonom), proizvođač, odnosno ovlašćeni predstavnik proizvođača, bez odlaganja, dostavlja i pismeni izveštaj.",
+            "Izveštaj proizvođača, odnosno ovlašćenog predstavnika proizvođača o incidentu može da sadrži izjavu o tome da ne prihvata odgovornost za incident ili njegove posledice.",
+            "Početni, prateći i završni izveštaj podnose se na Prilogu 3. ovog pravilnika.",
+            "1.7. Vreme dostavljanja početnog izveštaja o incidentu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_27"
+    },
+    {
+        "title": "Član 28",
+        "texts": [
+            "Pošto sazna za događaj i da je medicinsko sredstvo izazvalo ili doprinelo tom događaju, proizvođač, odnosno ovlašćeni predstavnik proizvođača određuje da li je u pitanju incident.",
+            "Proizvođač, odnosno ovlašćeni predstavnik proizvođača prijavljuje Agenciji ozbiljnu pretnju po javno zdravlje bez odlaganja, a najkasnije dva kalendarska dana od dana saznanja za tu pretnju.",
+            "Proizvođač, odnosno ovlašćeni predstavnik proizvođača prijavljuje Agenciji smrt ili neočekivano pogoršanje zdravstvenog stanja bez odlaganja, pošto je ustanovio povezanost medicinskog sredstva i događaja, a najkasnije po isteku deset kalendarskih dana od dana saznanja za taj događaj.",
+            "Proizvođač, odnosno ovlašćeni predstavnik proizvođača prijavljuje Agenciji ostale incidente bez odlaganja, pošto je ustanovio povezanost medicinskog sredstva i događaja, a najkasnije po isteku 30 kalendarskih dana od dana saznanja za taj događaj.",
+            "Ako nakon saznanja o incidentu koji se potencijalno prijavljuje još uvek postoji neizvesnost u pogledu obaveznosti prijavljivanja, proizvođač dostavlja Agenciji izveštaj u roku određenom za taj tip incidenta iz st. 2, 3. i 4. ovog člana.",
+            "2. Postupanje Agencije sa prijavama korisnika"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_28"
+    },
+    {
+        "title": "Član 29",
+        "texts": [
+            "Ako Agencija prijavu korisnika dostavi proizvođaču, odnosno ovlašćenom predstavniku proizvođača, on je proverava u skladu sa kriterijumima iz člana 12. ovog pravilnika i dostavlja Agenciji početni ili prateći ili završni izveštaj o incidentu, ako događaj ispunjava odgovarajući kriterijum. Ako proizvođač, odnosno ovlašćeni predstavnik proizvođača smatra da događaj ne ispunjava te kriterijume dostavlja Agenciji obrazloženje sa podacima na koji način će iskoristiti dostavljene informacije (npr. dodaće ih u dokumentaciju o reklamacijama).",
+            "3. Istraživanje proizvođača, odnosno ovlašćenog predstavnika proizvođača"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_29"
+    },
+    {
+        "title": "Član 30",
+        "texts": [
+            "Proizvođač, odnosno ovlašćeni predstavnik proizvođača sprovodi istraživanje incidenta, a Agencija prati to sprovođenje. Proizvođač, odnosno ovlašćeni predstavnik proizvođača definiše vreme potrebno za praćenje, odnosno vreme potrebno da se završi istraživanje i ako je potrebno dostavlja izveštaje praćenja, kao i završni izveštaj.",
+            "Ako proizvođač, odnosno ovlašćeni predstavnik proizvođača ne može da sprovede istraživanje incidenta, o tome bez odlaganja obaveštava Agenciju.",
+            "Agencija može da interveniše u istraživanju ili da inicira nezavisno istraživanje, ako je potrebno. Kad god je praktično Agencija to radi u dogovoru sa proizvođačem, odnosno ovlašćenim predstavnikom proizvođača.",
+            "Pristup medicinskom sredstvu za koje se sumnja da je uključeno u incident"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_30"
+    },
+    {
+        "title": "Član 31",
+        "texts": [
+            "Pre dostavljanja izveštaja Agenciji, proizvođač, odnosno ovlašćeni predstavnik proizvođača može da se konsultuje sa korisnikom o pojedinom incidentu koji je prijavio.",
+            "Proizvođač, odnosno ovlašćeni predstavnik proizvođača ima pristup medicinskom sredstvu za koje se sumnja da je doprinelo incidentu da bi odlučio da li da prijavi incident Agenciji. U tom slučaju proizvođač, odnosno ovlašćeni predstavnik proizvođača preduzima razumne mere da dobije pristup medicinskom sredstvu kako bi započeo tehničku procenu bez odlaganja. Svako odlaganje može da ima za posledicu gubitak dokaza (npr. gubitak kratkotrajne memorije podataka sačuvanih u softveru medicinskog sredstva, propadanje određenih medicinskih sredstava kada su izložena krvi) što čini buduću analizu uzroka nemogućom.",
+            "Ako proizvođač, odnosno ovlašćeni predstavnik proizvođača dobije pristup medicinskom sredstvu i njegova početna procena (ili postupak čišćenja ili dekontaminacije) uključuje menjanje medicinskog sredstva na način koji može da utiče na naknadnu analizu, pre sprovođenja procene o tome obaveštava Agenciju. Agencija odlučuje da li je potrebno da učestvuje u proceni. Zbog učestalosti ovih zahteva, izjava uključena u početni izveštaj vigilance obuhvata ovaj zahtev (npr. proizvođač pretpostavlja da analiza štete treba da započne deset dana od početnog izveštaja o incidentu, osim ako se Agencija obrati proizvođaču u tom periodu suprotstavljajući se analizi štete medicinskog sredstva).",
+            "Odredbe st. 1, 2. i 3. ovog člana primenjuju se i na uzorke medicinskog sredstva i sve druge korisne informacije povezane sa incidentom.",
+            "4. Rezultat istraživanja i praćenje"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_31"
+    },
+    {
+        "title": "Član 32",
+        "texts": [
+            "Proizvođač, odnosno ovlašćeni predstavnik proizvođača preduzima sve mere koje su potrebne nakon istraživanja, uključujući i konsultacije sa Agencijom i sprovođenje Sigurnosne korektivne mere na terenu.",
+            "Agencija može da preduzme dalje mere za koje proceni da su odgovarajuće, u konsultaciji sa proizvođačem, odnosno ovlašćenim predstavnikom proizvođača kad je to moguće.",
+            "Izveštaj o praćenju"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_32"
+    },
+    {
+        "title": "Član 33",
+        "texts": [
+            "Proizvođač, odnosno ovlašćeni predstavnik proizvođača dostavlja Agenciji izveštaj o praćenju, ako trajanje istraživanja dostigne period o kome je Agencija obaveštena u okviru početnog izveštaja.",
+            "Završni izveštaj"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_33"
+    },
+    {
+        "title": "Član 34",
+        "texts": [
+            "Proizvođač, odnosno ovlašćeni predstavnik proizvođača dostavlja Agenciji završni izveštaj koji predstavlja pismenu izjavu o istrazi i svim preduzetim merama (npr. nije preduzeta mera, dodatni nadzor medicinskog sredstva u upotrebi, preventivna mera koja se odnosi na buduću proizvodnju, Sigurnosna korektivna mera na terenu).",
+            "Ako Agencija sprovede istraživanje, o rezultatu obaveštava proizvođača, odnosno ovlašćenog predstavnika proizvođača.",
+            "Sigurnosna korektivna mera na terenu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_34"
+    },
+    {
+        "title": "Član 35",
+        "texts": [
+            "Proizvođač, odnosno ovlašćeni predstavnik proizvođača prijavljuje Agenciji svaki tehnički ili medicinski razlog koji je doveo do sistematskog povlačenja sa tržišta medicinskog sredstva istog tipa od proizvođača, odnosno ovlašćenog predstavnika proizvođača. Ti razlozi obuhvataju svaku neispravnost ili pogoršanje karakteristika ili performansi medicinskog sredstva, kao i svaku neadekvatnost u uputstvu za upotrebu koja može da dovede ili je dovela do smrti pacijenta ili korisnika ili ozbiljnog pogoršanja zdravstvenog stanja. Sigurnosna korektivna mera na terenu obuhvata povraćaj, odnosno povlačenje medicinskog sredstva sa tržišta.",
+            "Povlačenje sa tržišta iz komercijalnih, odnosno razloga koji nisu vezani za sigurnost, ne smatraju se razlozima iz stava 1. ovog člana.",
+            "U proceni potrebe za preduzimanjem Sigurnosne korektivne mere na terenu proizvođač, odnosno ovlašćeni predstavnik proizvođača koristi metodologiju opisanu u harmonizovanom standardu upravljanja rizikom EN ISO 14971.",
+            "U slučaju sumnje, prijavljivanje i preduzimanje Sigurnosne korektivne mere na terenu se pretpostavlja.",
+            "Sigurnosna korektivna mera na terenu saopštava se korisnicima putem Sigurnosnog obaveštenja na terenu.",
+            "Telo za ocenjivanje usaglašenosti obaveštava se o Sigurnosnoj korektivnoj meri na terenu, ako je bilo uključeno u ocenjivanje usaglašenosti u skladu sa Zakonom.",
+            "Obaveštenje Agencije o Sigurnosnoj korektivnoj meri na terenu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_35"
+    },
+    {
+        "title": "Član 36",
+        "texts": [
+            "Proizvođač, odnosno ovlašćeni predstavnik proizvođača podnosi Agenciji Izveštaj proizvođača, odnosno ovlašćenog predstavnika proizvođača o sigurnosnoj korektivnoj meri na terenu dat u Prilogu 5. koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo.",
+            "Izveštaj iz stava 1. ovog člana uključuje svu dokumentaciju potrebnu Agenciji da izvrši nadzor Sigurnosne korektivne mere na terenu, i to:",
+            "1) tačan naziv medicinskog sredstva uz navođenje grupe generičkih medicinskih sredstava;",
+            "2) relevantne delove analize rizika;",
+            "3) informacije o pozadini i razlozima preduzimanja Sigurnosne korektivne mere na terenu (uključujući opis nedostatka medicinskog sredstva ili neispravnost, objašnjenje potencijalnih opasnosti povezanih sa nastavkom upotrebe medicinskog sredstva i povezanim rizicima po pacijenta, korisnika ili drugo lice i o svim mogućim rizicima po pacijenta povezanim sa prethodnom upotrebom medicinskog sredstva);",
+            "4) opis i obrazloženje mere (korektivne, odnosno preventivne);",
+            "5) predlog mera koje preduzima distributer i korisnik (uključujući identifikaciju i karantin medicinskog sredstva);",
+            "6) metod oporavka, odlaganja ili modifikacije medicinskog sredstva;",
+            "7) preporučeno praćenje pacijenta (ako je potrebno);",
+            "8) zahtev za dostavljanjem Sigurnosnog obaveštenja na terenu svima koji treba da budu upoznati sa njim unutar organizacije i da se saznanje o tome održava tokom odgovarajuće definisanog vremenskog perioda;",
+            "9) zahtev za podacima o svakom pogođenom medicinskom sredstvu dostavljenom drugim organizacijama i primerak Sigurnosnog obaveštenja na terenu koje će im se dostaviti;",
+            "10) broj serije, odnosno lota pogođenog medicinskog sredstva;",
+            "11) u slučaju da se mera odnosi na lot ili deo lota, objašnjenje zašto ostala medicinska sredstva nisu pogođena;",
+            "12) podatke o proizvođaču, odnosno ovlašćenom predstavniku proizvođača.",
+            "Uz obaveštenje iz stava 1. ovog člana Agenciji se dostavlja primerak Sigurnosnog obaveštenja na terenu, i to pre izdavanja Sigurnosne korektivne mere na terenu, kao i nacrt Sigurnosne korektivne mere na terenu.",
+            "Po pravilu proizvođač, odnosno ovlašćeni predstavnik proizvođača ostavlja najmanje 48 časova za prijem komentara Agencije na Sigurnosnu korektivnu meru na terenu, osim ako njena priroda zahteva kraće vreme (npr. ozbiljna pretnja po javno zdravlje).",
+            "Primerak Sigurnosne korektivne mere na terenu dostavlja se telu za ocenjivanje usaglašenosti, ako je bilo uključeno u ocenjivanje usaglašenosti u skladu sa Zakonom.",
+            "Sadržaj Sigurnosnog obaveštenja na terenu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_36"
+    },
+    {
+        "title": "Član 37",
+        "texts": [
+            "Proizvođač, odnosno ovlašćeni predstavnik proizvođača putem lanca distribucije obezbeđuje da su sve odgovarajuće organizacije dobile Sigurnosno obaveštenje na terenu (npr. potvrdom prijema).",
+            "Sigurnosno obaveštenje na terenu dostavlja se na memorandumu kompanije na srpskom jeziku i sadrži najmanje:",
+            "1) jasan naslov, sa naznakom\"Hitno Sigurnosno obaveštenje na terenu\" i komercijalnim imenom pogođenog medicinskog sredstva, identifikatorom Sigurnosne korektivne mere na terenu (npr. datum) i tipom mera koje se preduzimaju;",
+            "2) specifične podatke koji omogućavaju da se pogođeno medicinsko sredstvo lako identifikuje (npr. tip, ime modela i broj, broj serije, odnosno lota i deo ili broj naloga);",
+            "3) izjavu o činjenicama kojom se objašnjavaju razlozi za Sigurnosnu korektivnu meru na terenu, uključujući opis nedostatka ili neispravnosti medicinskog sredstva, pojašnjenje potencijalnih opasnosti povezanih sa nastavkom upotrebe medicinskog sredstva i povezane rizike po pacijenta, moguće rizike za korisnika ili drugo lice, kao i pacijenta povezane sa prethodnom upotrebom medicinskog sredstva;",
+            "4) predlog mera koje treba da preduzme korisnik, uključujući:",
+            "(1) identifikaciju i karantin medicinskog sredstva,",
+            "(2) metod oporavka, odlaganja ili modifikacije medicinskog sredstva,",
+            "(3) preporučeni pregled prethodnih rezultata ili praćenje pacijenata (npr. implanti, in vitro dijagnostička medicinska sredstva,",
+            "(4) vremenski okviri;",
+            "5) zahtev da se Sigurnosno obaveštenje na terenu prosledi svima u organizaciji koji treba da su upoznati i da se svest o tome održava u odgovarajućem periodu;",
+            "6) ako je relevantno, zahtev za podacima o svakom pogođenom medicinskom sredstvu koje je poslato drugoj organizaciji da bi se dostavilo proizvođaču, odnosno ovlašćenom predstavniku proizvođača i primerak Sigurnosnog obaveštenja na terenu koji će biti prosleđen organizaciji kojoj je medicinsko sredstvo poslato;",
+            "7) ako je relevantno, zahtev da primalac Sigurnosnog obaveštenja na terenu upozori druge organizacije kojima je poslat netačan rezultat testa od upotrebe medicinskog sredstva (npr. nedostatak dijagnostičkog testa);",
+            "8) potvrdu da je Agencija obaveštena o Sigurnosnoj korektivnoj meri na terenu;",
+            "9) komentare i opis pokušaja:",
+            "(1) koji služe za smanjenje nivoa rizika na neadekvatan način,",
+            "(2) da se oglašavanje proizvoda ili usluga izostavi;",
+            "10) kontakt lice za kupce, kako i na koji način doći do imenovanog lica.",
+            "Potvrda od primaoca Sigurnosnog obaveštenja na terenu može da bude uključena, naročito u svrhu kontrole od proizvođača, odnosno ovlašćenog predstavnika proizvođača.",
+            "Sigurnosno obaveštenje na terenu dato je u Prilogu 6. koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo.",
+            "IV ODGOVORNOST AGENCIJE"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_37"
+    },
+    {
+        "title": "Član 38",
+        "texts": [
+            "Agencija dostavlja potvrdu o prijemu prijave pošiljaocu.",
+            "Agencija, ako je praktično u konsultaciji sa proizvođačem, odnosno ovlašćenim predstavnikom proizvođača, procenjuje prijavu, daje savet i ako je potrebno interveniše.",
+            "1. Aktivnosti na prijavu korisnika ili drugih sistema"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_38"
+    },
+    {
+        "title": "Član 39",
+        "texts": [
+            "Prijava koja ispunjava kriterijume iz člana 12. ovog pravilnika, koju je Agenciji dostavio korisnik sistema za prijavljivanje ili drugi izvor dostavlja se proizvođaču, odnosno ovlašćenom predstavniku proizvođača bez odlaganja ili prevođenja. U tom postupku poštuju se prava pacijenata u skladu sa zakonom.",
+            "U slučaju iz stava 1. ovog člana proizvođač, odnosno ovlašćeni predstavnik proizvođača postupa u skladu sa čl. 11-37. ovog pravilnika.",
+            "2. Procena rizika i prateće mere",
+            "Procena rizika koju vrši Agencija"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_39"
+    },
+    {
+        "title": "Član 40",
+        "texts": [
+            "Procena rizika prijavljenog incidenta ili Sigurnosne korektivne mere na terenu može da uključi:",
+            "1) prihvatljivost rizika, uzimajući u obzir kriterijume kao što su: uzročnost, tehnički ili drugi uzrok, verovatnoća pojavljivanja problema, frekventnost upotrebe, detektivnost, verovatnoća dešavanja štete, ozbiljnost štete, namena i koristi proizvoda, zahtevi harmonizovanog evropskog, odnosno srpskog standarda, principi sigurnosti propisani zakonom i podzakonskim aktom kojim se uređuju osnovni zahtevi za medicinska sredstva, potencijalni korisnici i pogođena populacija i dr.;",
+            "2) potrebu za korektivnom merom i za kojom korektivnom merom;",
+            "3) adekvatnost predloženih ili mera preduzetih od proizvođača, odnosno ovlašćenog predstavnika proizvođača.",
+            "Nadzor pratećih mera proizvođača, odnosno ovlašćenog predstavnika proizvođača"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_40"
+    },
+    {
+        "title": "Član 41",
+        "texts": [
+            "Agencija nadzire istraživanje koje sprovodi proizvođač, odnosno ovlašćeni predstavnik proizvođača i može da interveniše u bilo kojoj fazi u konsultaciji sa njim i kada je to praktično.",
+            "Faze istraživanja proizvođača, odnosno ovlašćenog predstavnika proizvođača koje Agencija može da nadzire su i:",
+            "1) pravac (smer u kome se istraživanje kreće);",
+            "2) sprovođenje (kako se istraživanje sprovodi);",
+            "3) napredak (koliko brzo se istraživanje sprovodi);",
+            "4) rezultat (da li je rezultat analize medicinskog sredstva zadovoljavajući).",
+            "Činjenice koje su potrebne u nadzoru iz stava 1. ovog člana su:",
+            "1) broj uključenih medicinskih sredstava;",
+            "2) dužina postojanja medicinskih sredstava na tržištu;",
+            "3) podaci o promenama u dizajnu koje su izvršene.",
+            "U nadzoru iz stava 1. ovog člana može biti potrebno povezivanje sa:",
+            "1) telom za ocenjivanje usaglašenosti (koje je uključeno u atestiranje koje je dovelo do obeležavanja znakom usaglašenosti);",
+            "2) korisnicima;",
+            "3) drugim nadležnim organima u zemlji ili inostranstvu;",
+            "4) drugim nezavisnim telima, kućama za testiranje i dr.",
+            "Agencija može da izvrši nadzor upotrebe medicinskog sredstva iste vrste (npr. svih defibrilatora ili svih špriceva), ali drugih proizvođača. Nakon toga Agencija može da preduzme harmonizovane mere primenjive na sva medicinska sredstva te vrste (npr. inicira edukaciju korisnika ili predloži rekvalifikaciju).",
+            "Koordinacija koju vrši Agencija"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_41"
+    },
+    {
+        "title": "Član 42",
+        "texts": [
+            "Za kombinaciju leka i medicinskog sredstva na koju se primenjuju propisi kojima se uređuju medicinska sredstva u skladu sa Zakonom, kada dobije prijavu incidenta Agencija uspostavlja vezu sa drugim nadležnim organima u zemlji ili inostranstvu kada je to potrebno.",
+            "Agencija koordinira aktivnosti kojima obezbeđuje izvođenje istraživanje i u slučaju da je uključeno više proizvođača, odnosno ovlašćenih predstavnika proizvođača.",
+            "Mere koje preduzima Agencija kao rezultat prijave proizvođača, odnosno ovlašćenog predstavnika proizvođača mogu da uključe i:",
+            "1) nepreduzimanje daljih mera;",
+            "2) sakupljanje dodatnih informacija (npr. puštanjem u rad nezavisnih prijava);",
+            "3) sačinjavanje preporuka za proizvođače (npr. da bi se unapredile informacije o medicinskom sredstvu);",
+            "4) obaveštavanje drugih nadležnih organa u zemlji i inostranstvu (npr. o Sigurnosnoj korektivnoj meri na terenu i drugim merama koje će se preduzeti);",
+            "5) konsultacije sa odgovarajućim telom za ocenjivanje usaglašenosti u vezi sa ocenjivanjem usaglašenosti medicinskog sredstva;",
+            "6) konsultacije sa Ministarstvom ako je potrebno izvršiti rekvalifikaciju medicinskog sredstva;",
+            "7) sprovođenje dalje edukacije korisnika;",
+            "8) davanje daljih preporuka korisnicima;",
+            "9) druge mere kojima se dopunjavaju mere proizvođača, odnosno ovlašćenog predstavnika proizvođača.",
+            "3. Obaveštavanje koje vrši Agencija"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_42"
+    },
+    {
+        "title": "Član 43",
+        "texts": [
+            "Agencija pažljivo razmatra načine komunikacije, sačinjavanje i širenje informacija iz sistema vigilance.",
+            "Prilikom izrade nacrta upozorenja i obaveštenja i prilikom izbora načina i medija za prenošenje poruke, Agencija uzima u obzir pozitivne i negativne efekte informacije koja se širi.",
+            "Kada je proizvođač, odnosno ovlašćeni predstavnik proizvođača unapred obavestio Agenciju o početku Sigurnosne korektivne mere na terenu, Agencija čuva tu informaciju kao poverljivu dok se ne objavi.",
+            "Agencija prvo obaveštava zdravstvene radnike i zdravstvene ustanove, a zatim i javnost.",
+            "Kada je potrebno direktno obavestiti javnost, Agencija preporučuje pacijentima da se za savet obrate svom izabranom lekaru.",
+            "Kada je odgovarajuće, komunikacija Agencije uključuje izjavu da treba konsultovati izabranog lekara ili lekara odgovarajuće specijalnosti i da su dostavljene informacije namenjene samo za profesionalnu upotrebu.",
+            "Agencija posebnu pažnju posvećuje pripremi izjava za medije.",
+            "Odredbe st. 1-7. ovog člana primenjuju se i na širenje informacija od proizvođača, odnosno ovlašćenog predstavnika proizvođača u konsultaciji sa Agencijom.",
+            "Interfejsi sa komunikacionim medijima koordiniraju se kad god je to moguće između proizvođača, odnosno ovlašćenog predstavnika proizvođača i Agencije.",
+            "4. Završetak istraživanja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_43"
+    },
+    {
+        "title": "Član 44",
+        "texts": [
+            "Agencija evidentira završni izveštaj proizvođača, odnosno ovlašćenog predstavnika proizvođača i sprovodi sva druga potrebna posmatranja. Dokumentacija o istrazi označava se kao kompletna.",
+            "Ako Agencija sama sprovede istraživanje, o napretku i rezultatima obaveštava proizvođača, odnosno ovlašćenog predstavnika proizvođača.",
+            "Agencija obaveštava proizvođača, odnosno ovlašćenog predstavnika proizvođača o završetku istraživanja ili da sprovođenje istraživanja nije potrebno, što ne isključuje istraživanje koja je sastavni deo sistema obezbeđenja kvaliteta.",
+            "Agencija i proizvođač, odnosno ovlašćeni predstavnik proizvođača čuvaju dokumentaciju o incidentima u slučaju potrebe za ponovnim istraživanjem i da bi se olakšali sistemi za analizu trendova.",
+            "5. Uloga tela za ocenjivanje usaglašenosti"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_44"
+    },
+    {
+        "title": "Član 45",
+        "texts": [
+            "Iako telo za ocenjivanje usaglašenosti nema ključnu operativnu ulogu u sistemu vigilance, podržava taj sistem aktivnostima u sledećim oblastima:",
+            "1) procena procedura vigilance;",
+            "2) odit implementacije procedura vigilance i veza sa drugim sistemima (npr. korektivne i preventivne mere (CAPA), Sigurnosna korektivna mera na terenu);",
+            "3) procena uticaja pitanja vigilance na izdate sertifikate;",
+            "4) povezanost sa Agencijom (npr. specifična istraživanja ili oditi na zahtev Agencije).",
+            "6. Uloga korisnika"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_45"
+    },
+    {
+        "title": "Član 46",
+        "texts": [
+            "Korisnici ne moraju da učestvuju u sistemu vigilance, ali njihovo uključivanje je od vitalnog značaja za funkcionisanje sistema vigilance.",
+            "Proizvođač, odnosno ovlašćeni predstavnik proizvođača sarađuje sa korisnicima u pribavljanju podataka o sumnji na incident i implementaciji Sigurnosne korektivne mere na terenu.",
+            "Agencija promoviše uključenje korisnika i ohrabruje povezanost proizvođača, odnosno ovlašćenog predstavnika proizvođača sa korisnicima. Način promocije dat je u Vodiču za proizvođača, odnosno ovlašćenog predstavnika proizvođača koji uključuje korisnike u sistem vigilance koji je dat u Prilogu 7. koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo. Agencija može da pojača aktivnosti promocije davanjem pojedinačnog saveta.",
+            "V PRIJAVLJIVANJE OZBILJNIH NEŽELJENIH DOGAĐAJA TOKOM KLINIČKOG ISPITIVANJA MEDICINSKOG SREDSTVA"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_46"
+    },
+    {
+        "title": "Član 47",
+        "texts": [
+            "Sponzor kliničkog ispitivanja, odnosno njegov ovlašćeni predstavnik (u daljem tekstu: sponzor), Agenciju prijavljuje:",
+            "1) ozbiljan neželjeni događaj;",
+            "2) defekt medicinskog sredstva koji je mogao da dovede do ozbiljnog neželjenog događaja u toku sprovođenja kliničkog ispitivanja medicinskog sredstva ako nije sprovedena odgovarajuća radnja ili intervencija ili su okolnosti bile nepovoljne;",
+            "3) novi nalaz u vezi sa već prijavljenim događajem.",
+            "U slučaju multicentričnog kliničkog ispitivanja, sponzor je dužan da prijavi Agenciji događaje iz stava 1. ovog člana do kojih je došlo u bilo kom mestu kliničkog ispitivanja, u skladu sa ovim pravilnikom.",
+            "Prijave, odnosno incidenti u vezi sa postmarketinškim neintervencijskim kliničkim ispitivanjem medicinskog sredstva podležu sistemu vigilance medicinskih sredstava."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_47"
+    },
+    {
+        "title": "Član 48",
+        "texts": [
+            "Ozbiljan neželjeni događaj koji može da dovede do neposredne opasnosti od smrti, ozbiljne povrede ili ozbiljne bolesti i koji zahteva brze korektivne mere za druge ispitanike, korisnike ili osobe, kao i novi nalaz u vezi sa takvim ozbiljnim neželjenim događajem, sponzor prijavljuje Agenciji u roku od dva kalendarska dana od dana kada je došao do saznanja u vezi sa događajem ili nalazom koji se prijavljuje.",
+            "Ostale događaje iz člana 47. stav 1. ovog pravilnika sponzor prijavljuje Agenciji u roku od sedam kalendarskih dana od dana kada je došao do saznanja u vezi sa događajem ili nalazom koji se prijavljuje.",
+            "Sponzor kliničkog ispitivanja je dužan da obezbedi i održava sistem za prijavljivanje neženjenih događaja od strane istraživača sponzoru.",
+            "Događaje iz člana 47. stav 1. ovog pravilnika zdravstveni radnik koji učestvuje u kliničkom ispitivanju u svojstvu istraživača prijavljuje sponzoru u skladu sa odobrenim Protokolom kliničkog ispitivanja najkasnije tri kalendarska dana od dana kada je došao do saznanja o događaju ili nalazu koji se prijavljuju. Izuzetno, rok može biti drugačiji ukoliko je to opravdano i navedeno u odobrenom Protokolu kliničkog ispitivanja."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_48"
+    },
+    {
+        "title": "Član 49",
+        "texts": [
+            "Obrazac za prijavu događaja iz člana 47. stav 1. ovog pravilnika Agencija objavljuje na svojoj internet stranici. Obrazac se popunjava u skladu sa uputstvom koje Agencija objavljuje na svojoj internet stranici. Mogu da se koriste i druge forme, odnosno obrasci koji sadrže elemente date u tom uputstvu.",
+            "VI PRELAZNA I ZAVRŠNA ODREDBA"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_49"
+    },
+    {
+        "title": "Član 50",
+        "texts": [
+            "Danom stupanja na snagu ovog pravilnika prestaje da važi Pravilnik o načinu prijavljivanja, prikupljanja i praćenja neželjenih reakcija na medicinska sredstva (\"Službeni glasnik RS\", br. 64/11 i 21/14)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_50"
+    },
+    {
+        "title": "Član 51",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu danom objavljivanja u \"Službenom glasniku Republike Srbije\".",
+            "Priloge 1-9, koji su sastavni deo ovog pravilnika, objavljene u \"Sl. glasniku RS\", br. 3/2019, možete pogledatiOVDE",
+            "Ako ne probate više različitih izbora nikada nećete biti sigurni da li imate najbolju opciju u svojim rukama. Mi Vam tu mogućnost nudimo besplatno! Popunite formular i dobićete priliku da bez ikakvih troškova saznate da li je Paragraf dobar izbor za Vas.",
+            "Ukoliko želite da Vas obaveštavamo o novostima i aktivnostima kompanije Paragraf prijavite se na našu mailing listu. Vaš e-mail neće biti upotrebljen u druge svrhe."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-vigilanci.html#clan_51"
+    }
+]

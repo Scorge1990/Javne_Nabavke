@@ -1,0 +1,599 @@
+[
+    {
+        "title": "Član 1",
+        "texts": [
+            "Ovim zakonom uređuje se postupak registracije, evidentiranja i objavljivanja podataka i dokumenata koji su, u skladu sa posebnim zakonom, predmet registracije, evidencije i objavljivanja u registrima i evidencijama koje vodi Agencija za privredne registre (u daljem tekstu: Agencija), kao i druga pitanja od značaja za registraciju, evidenciju i objavljivanje.",
+            "Pojmovi"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_1"
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Pojedini izrazi upotrebljeni u ovom zakonu imaju sledeće značenje:",
+            "1) registar jeste jedinstvena, centralna, elektronska baza podataka i dokumenata koji su propisani kao predmet registracije kao i dokumenata na osnovu kojih je izvršena registracija;",
+            "2) podatak jeste činjenica koja je propisana kao predmet registracije ili evidencije ili koja je od značaja za pravni promet;",
+            "3) registracija jeste upis, promena ili brisanje podataka i dokumenata u registrima koje vodi Agencija;",
+            "4) registraciona prijava (u daljem tekstu: prijava) jeste podnesak kojim se pokreće postupak registracije;",
+            "5) registrator jeste fizičko lice koje vodi registar, imenovano u skladu sa zakonom kojim se uređuje pravni položaj Agencije;",
+            "6) podnosilac prijave jeste lice ovlašćeno za podnošenje prijave;",
+            "7) objavljivanje jeste elektronsko prikazivanje, na internet strani Agencije, podataka i dokumenata koji su predmet registracije i evidentiranja, odluka koje su donete u postupku registracije i evidentiranja i podataka i dokumenata koji nisu predmet registracije i evidentiranja, a objavljuju se u skladu sa propisima;",
+            "8) izvod o registrovanim ili evidentiranim podacima jeste javna isprava koja sadrži registrovane ili evidentirane podatke o pravnom ili fizičkom licu ili predmetu registracije ili evidentiranja, prema stanju u trenutku izdavanja izvoda;",
+            "9) potvrda jeste javna isprava kojom se potvrđuje da li je podatak ili dokument bio registrovan ili evidentiran, da li registar ili evidencija sadrži određeni podatak, odnosno dokument, da li su određene činjenice sadržane u dokumentima iz registra ili evidencije ili kojom se potvrđuju pravna stanja ili posledice registracije ili evidentiranja;",
+            "10) evidencija jeste jedinstvena, centralna, elektronska baza podataka i dokumenata koji su propisani kao predmet evidentiranja i dokumenata na osnovu kojih je izvršeno evidentiranje;",
+            "11) (brisana)",
+            "12) korisnička aplikacija jeste aplikativno softversko rešenje namenjeno podnošenju elektronske prijave;",
+            "13) zabeležba jeste upis podataka i dokumenata koji su kao takvi propisani kao predmet zabeležbe ili upis podataka i dokumenata koji po oceni registratora predstavljaju činjenice od značaja za pravni promet, a u vezi su sa podacima i dokumentima koji su predmet registracije.",
+            "Načela registracije"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_2"
+    },
+    {
+        "title": "Član 3",
+        "texts": [
+            "Postupak registracije zasniva se na načelima:",
+            "1) javnosti i dostupnosti, prema kome su registrovani podaci i dokumenti javni i dostupni svim licima, preko internet strane Agencije i neposrednim uvidom u registar, osim ako javnost i dostupnost nije ograničena ili isključena zakonom;",
+            "2) tačnosti i pretpostavke savesnosti, prema kome treća lica koja se u pravnom prometu pouzdaju u podatke iz registara ne snose štetne pravne posledice zbog netačnih podataka u registrima;",
+            "3) formalnosti, prema kome registrator donosi odluke na osnovu činjenica iz prijave, priloženih dokumenata i registrovanih podataka, bez ispitivanja tačnosti činjenica iz prijave, verodostojnosti priloženih dokumenata i pravilnosti i zakonitosti postupaka u kome su dokumenti doneti;",
+            "4) vremena nastanka, prema kome se podaci i dokumenti vode u registru prema vremenu nastanka podatka, odnosno dokumenta, izuzev ako zakonom nije drugačije određeno;",
+            "5) vremenskog redosleda, prema kome prvenstvo u odlučivanju ima ranije podneta prijava.",
+            "Supsidijarna primena zakona"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_3"
+    },
+    {
+        "title": "Član 4",
+        "texts": [
+            "Na pitanja koja se odnose na postupak registracije i evidentiranja, a koja ovim zakonom nisu posebno uređena, primenjuje se zakon kojim se uređuje opšti upravni postupak.",
+            "Izuzetno od stava 1. ovog člana, ako nadležni registrator ili drugostepeni organ poništi konačnu, odnosno pravnosnažnu odluku nadležnog registratora, ne uklanjaju se pravne posledice koje je poništena odluka proizvela.",
+            "II POSTUPAK REGISTRACIJE",
+            "Pokretanje postupka"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_4"
+    },
+    {
+        "title": "Član 5",
+        "texts": [
+            "Postupak registracije pokreće se podnošenjem prijave Agenciji, a može da se pokrene i po službenoj dužnosti.",
+            "Lice ovlašćeno za podnošenje prijave"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_5"
+    },
+    {
+        "title": "Član 5a",
+        "texts": [
+            "Lice ovlašćeno za podnošenje prijave je:",
+            "1) lice ovlašćeno za zastupanje pravnog lica;",
+            "2) zakonom ovlašćeno lice za registraciju podataka propisanih zakonom;",
+            "3) osnivač u postupku osnivanja privrednog društva;",
+            "4) fizičko lice koje se registruje ili je registrovano kao preduzetnik.",
+            "Izuzetno od stava 1. tačka 1) ovog člana, lice ovlašćeno za podnošenje prijave:",
+            "1) za registraciju prenosa udela u privrednom društvu može biti i sticalac odnosno prenosilac udela;",
+            "2) za registraciju ostavke lica ovlašćenog za zastupanje može biti i lice koje daje ostavku;",
+            "3) za registraciju razrešenja lica ovlašćenog za zastupanje, ako istovremeno nije imenovano drugo lice ovlašćeno za zastupanje, može biti član društva.",
+            "Pokretanje postupka podnošenjem prijave"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_5a"
+    },
+    {
+        "title": "Član 6",
+        "texts": [
+            "Prijava se podnosi na propisanom obrascu, a ako obrazac nije propisan, u formi podneska u kome se navode:",
+            "1) naziv registra kome se prijava podnosi;",
+            "2) predmet i vrsta registracije;",
+            "3) identifikacioni podaci podnosioca prijave;",
+            "4) na koji način, propisan ovim zakonom, podnosilac zahteva da mu se dostavi odluka registratora.",
+            "Uz prijavu se prilažu propisani dokumenti u originalu, overenom prepisu ili overenoj fotokopiji, ako drugačije nije propisano, kao i dokaz o uplati naknade za vođenje postupka registracije.",
+            "Ako je dokument podnet na stranom jeziku, prilaže se i prevod tog dokumenta sačinjen od strane ovlašćenog sudskog tumača.",
+            "Podatke i dokumente koji se u skladu sa ovim zakonom podnose uz prijavu, a o kojima se vode službene evidencije, registrator pribavlja po službenoj dužnosti, direktnim uvidom u službenu evidenciju, preko servisne magistrale organa ili na drugi prihvaćen način u skladu zakonom kojim se uređuje elektronska uprava, osim ako podnosilac prijave izjavi da će te podatke i dokumente pribaviti sam.",
+            "Pokretanje postupka po službenoj dužnosti"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_6"
+    },
+    {
+        "title": "Član 7",
+        "texts": [
+            "Postupak registracije pokreće se po službenoj dužnosti, ako je takva registracija predviđena zakonom ili kada je to u javnom interesu.",
+            "Zabeležba"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_7"
+    },
+    {
+        "title": "Član 8",
+        "texts": [
+            "Upis zabeležbe vrši se na osnovu prijave ili po službenoj dužnosti, ako registrator dođe do saznanja o činjenicama i dokumentima koji su od značaja za pravni promet, a u vezi su sa podacima i dokumentima koji su predmet registracije.",
+            "Ako oceni da činjenice i dokumenta nisu od značaja za pravni promet ili nisu u vezi sa podacima i dokumentima koji su predmet registracije, registrator u roku od pet radnih dana od dana podnošenja prijave rešenjem odbija prijavu.",
+            "Ako nisu ispunjeni uslovi za upis zabeležbe podataka i dokumenata koji su kao predmet zabeležbe propisani posebnim propisom, registrator donosi odluku u skladu sa članom 17. stav 2. ovog zakona.",
+            "Način podnošenja prijave"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_8"
+    },
+    {
+        "title": "Član 9",
+        "texts": [
+            "Prijava se podnosi Agenciji, neposredno u papirnoj ili elektronskoj formi ili putem pošte.",
+            "Izuzetno od stava 1. ovog člana, prijava za osnivanje privrednog društva podnosi se Agenciji samo u elektronskoj formi.",
+            "Kada se prijava podnosi putem pošte, kao datum i vreme podnošenja prijave uzimaju se datum i vreme prijema prijave u Agenciji.",
+            "Rok za podnošenje prijave"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_9"
+    },
+    {
+        "title": "Član 10",
+        "texts": [
+            "Podnosilac prijave je dužan da Agenciji podnese prijavu u roku od 15 dana od dana nastanka podatka ili dokumenta koji je predmet registracije, odnosno promene registrovanog podatka ili dokumenta, ako zakonom nije određen drugi rok.",
+            "Za prijavu koja je podneta po isteku roka iz stava 1. ovog člana plaća se naknada u skladu sa propisom kojim se uređuju naknade koje za svoje usluge naplaćuje Agencija.",
+            "Podnošenje elektronske prijave"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_10"
+    },
+    {
+        "title": "Član 11",
+        "texts": [
+            "Elektronska prijava Agenciji podnosi se putem korisničke aplikacije za prijem elektronske prijave kojom se obezbeđuje prijem elektronskih dokumenata i dokaza o uplati naknade za registraciju.",
+            "Potpisivanje elektronske prijave i dokumenata, kao i overa elektronskih dokumenata, vrši se u skladu sa propisima kojima se uređuje elektronski potpis i elektronski dokument.",
+            "Validacija kvalifikovanog elektronskog potpisa na prijavi iz stava 1. ovog člana vrši se prema vremenu prijema prijave.",
+            "Validacija kvalifikovanog elektronskog potpisa na dokumentima koji se prilažu uz prijavu iz stava 1. ovog člana vrši se prema vremenu učitavanja dokumenata u korisničku aplikaciju, osim u slučaju kada su dokumenta snabdevena kvalifikovanim elektronskim vremenskim žigom.",
+            "U trenutku validacije kvalifikovanog elektronskog potpisa iz st. 3. i 4. ovog člana Agencija će činjenicu validnosti tog potpisa potvrditi kvalifikovanim elektronskim vremenskim žigom.",
+            "Overa digitalizovanog akta od strane advokata"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_11"
+    },
+    {
+        "title": "Član 11a",
+        "texts": [
+            "Ako se uz prijavu dostavlja akt, odnosno dokument koji je prethodno izvorno sačinjen u papirnoj formi, dostavlja se primerak tog akta, odnosno dokumenta koji je digitalizovan i overen u skladu sa zakonom kojim se uređuju elektronski dokument, elektronska identifikacija i usluge od poverenja u elektronskom poslovanju.",
+            "Digitalizaciju akta, odnosno dokumenta i potvrđivanje istovetnosti originalu u skladu sa stavom 1. ovog člana, za potrebe sprovođenja postupka u skladu sa ovim zakonom, osim lica utvrđenih zakonom kojim se uređuju elektronski dokument, elektronska identifikacija i usluge od poverenja u elektronskom poslovanju, može izvršiti i advokat upisan u imenik advokata Advokatske komore Srbije, ako advokat svojim elektronskim potpisom, odnosno kvalifikovanim elektronskim pečatom istovremeno potpisuje i prijavu uz koju se taj akt, odnosno dokument dostavlja.",
+            "Advokat je dužan da čuva original akta, odnosno dokumenta koji je digitalizovao i podneo Agenciji u skladu sa stavom 2. ovog člana, kao i sam digitalizovani akt, odnosno dokument, u skladu sa zakonom.",
+            "Potvrda o primljenoj prijavi"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_11a"
+    },
+    {
+        "title": "Član 12",
+        "texts": [
+            "Potvrda o primljenoj prijavi izdaje se, na zahtev podnosioca prijave, prilikom neposrednog podnošenja prijave Agenciji.",
+            "Potvrda o primljenoj elektronskoj prijavi dostavlja se na elektronsku adresu koja je registrovana kao elektronska adresa za prijem pošte ili na elektronsku adresu navedenu u prijavi.",
+            "Potvrda o primljenoj prijavi naročito sadrži oznaku registra, broj pod kojim je prijava zavedena, datum i vreme prijema prijave, vrstu prijave, podatke o podnosiocu prijave i spisak priloženih dokumenata.",
+            "Na internet strani Agencije objavljuju se podaci o primljenoj prijavi koji sadrže:",
+            "1) oznaku registra;",
+            "2) broj pod kojim je prijava zavedena;",
+            "3) datum i vreme prijema prijave;",
+            "4) vrstu prijave;",
+            "5) podatak o podnosiocu prijave;",
+            "6) podatak o statusu u kome se prijava nalazi.",
+            "Izmena i odustanak od prijave"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_12"
+    },
+    {
+        "title": "Član 13",
+        "texts": [
+            "Podnosilac prijave može da izmeni prijavu ili da od nje odustane do donošenja odluke registratora o prijavi.",
+            "Ako podnosilac prijave odustane od prijave, registrator donosi rešenje kojim se postupak obustavlja.",
+            "Postupanje registratora po prijavi"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_13"
+    },
+    {
+        "title": "Član 14",
+        "texts": [
+            "Registrator proverava da li su ispunjeni uslovi za registraciju u momentu registracije, i to:",
+            "1) da li je nadležan za postupanje po prijavi;",
+            "2) da li je prijava podneta od strane lica ovlašćenog za podnošenje prijave i da li je potpisana u skladu sa ovim zakonom;",
+            "3) da li je podatak ili dokument predmet registracije;",
+            "4) da li je podatak ili dokument čija se registracija zahteva već registrovan;",
+            "5) da li prijava sadrži podatke i činjenice potrebne za registraciju;",
+            "6) da li su uz prijavu priloženi propisani dokumenti, čija je sadržina i forma određena zakonom;",
+            "7) da li su činjenice iz prijave saglasne činjenicama iz dokumenata priloženih uz prijavu i podacima koji su registrovani u registru koji postupa po prijavi, odnosno sa podacima registrovanim u nadležnom registru, a koji su javno dostupni;",
+            "8) da li je u registru koji postupa po prijavi pod istim nazivom već registrovano drugo pravno lice ili preduzetnik ili je već podneta prijava za registraciju pod istim nazivom ili je naziv već rezervisan u skladu sa ovim zakonom, odnosno da li je naziv određen u skladu sa zakonom;",
+            "9) da li je uz prijavu priložen dokaz o uplati naknade za vođenje postupka registracije na osnovu koga se može utvrditi da je uplaćena naknada na tekući račun Agencije;",
+            "10) da li je prijava podneta u zakonom propisanom roku, ako je rok uslov za registraciju;",
+            "11) da li je prijava iz člana 17. stav 3. ovog zakona podneta u propisanom roku i da li su otklonjeni utvrđeni nedostaci;",
+            "12) da li je registracija podatka ili dokumenta u suprotnosti sa posebnim zakonom;",
+            "13) da li je registracija podatka ili dokumenta u suprotnosti sa aktom nadležnog organa donetim u skladu sa zakonom.",
+            "Rok za odlučivanje o prijavi i donošenje rešenja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_14"
+    },
+    {
+        "title": "Član 15",
+        "texts": [
+            "Registrator rešenjem odlučuje o prijavi u roku od pet radnih dana od dana prijema prijave.",
+            "Ako je elektronska prijava podneta neradnog dana, smatra se da je podneta prvog narednog radnog dana, od kada počinje da teče rok iz stava 1. ovog člana.",
+            "Ako registrator pribavlja podatke i dokumenta po službenoj dužnosti, rok iz stava 1. ovog člana počinje da teče narednog dana od dana pribavljanja podataka, odnosno dokumenata, osim ako je pribavljanje podataka i dokumenata izvršeno neposrednim uvidom u službenu evidenciju drugog organa, preko servisne magistrale ili na drugi prihvaćen način u skladu zakonom kojim se uređuje elektronska uprava, kada se rok iz stava 1. računa od dana pribavljanja tih podataka i dokumenata.",
+            "Rešenje iz stava 1. ovog člana registrator potpisuje svojeručno, faksimilom ili elektronski u skladu sa propisima kojima se uređuju elektronski dokument, elektronska identifikacija i usluge od poverenja u elektronskom poslovanju.",
+            "Usvajanje prijave"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_15"
+    },
+    {
+        "title": "Član 16",
+        "texts": [
+            "Ako su ispunjeni uslovi za registraciju, registrator bez učešća podnosioca prijave u postupku, donosi rešenje kojim usvaja prijavu.",
+            "Odbacivanje prijave"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_16"
+    },
+    {
+        "title": "Član 17",
+        "texts": [
+            "Ako utvrdi da nisu ispunjeni uslovi za registraciju iz člana 14. stav 1. tač. 1), 3), 4), 10), 11), 12) i 13) ovog zakona, registrator donosi rešenje kojim odbacuje prijavu.",
+            "Ako nisu ispunjeni uslovi za registraciju iz člana 14. stav 1. tač. 2), 5), 6), 7), 8) i 9) ovog zakona, registrator donosi rešenje kojim odbacuje prijavu i utvrđuje koji uslovi za registraciju nisu ispunjeni.",
+            "Ako podnosilac prijave u roku od 30 dana od dana objavljivanja rešenja iz stava 2. ovog člana podnese novu registracionu prijavu, uz pozivanje na broj rešenja kojim je ranija prijava odbačena i otkloni sve utvrđene nedostatke, za vođenje postupka registracije plaća polovinu propisanog iznosa naknade za registraciju.",
+            "Pravo na plaćanje umanjenog iznosa naknade iz stava 3. ovog člana podnosilac prijave može ostvariti jednom, i to samo u odnosu na prijavu za registraciju podataka i dokumenata koja je odbačena rešenjem iz stava 2. ovog člana.",
+            "Uz prijavu iz stava 3. ovog člana podnosilac prijave dužan je da priloži samo nedostajuću, odnosno urednu dokumentaciju radi otklanjanja nedostataka utvrđenih rešenjem iz stava 2. ovog člana.",
+            "Delimično usvajanje prijave"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_17"
+    },
+    {
+        "title": "Član 18",
+        "texts": [
+            "Ako se prijava odnosi na registraciju dva ili više podatka ili dokumenta, prijava se delimično usvaja tako što se registruju podaci ili dokumenti za čiju su registraciju ispunjeni uslovi, a o prijavi u ostalom delu odlučuje se na način propisan članom 17. ovog zakona.",
+            "Propuštanje roka za odlučivanje o prijavi"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_18"
+    },
+    {
+        "title": "Član 19",
+        "texts": [
+            "Ako registrator ne odluči o prijavi u rokovima iz člana 15. ovog zakona, smatraće se da je prijava usvojena, o čemu donosi rešenje i traženu registraciju, bez odlaganja, sprovodi u registar, izuzev u slučajevima kada nisu ispunjeni uslovi propisani članom 14. tač. 1), 3), 4) i 10)-13) ovog zakona.",
+            "Prekid i odlaganje postupka"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_19"
+    },
+    {
+        "title": "Član 20",
+        "texts": [
+            "Registrator prekida ili odlaže postupak odlučivanja o prijavi, u slučajevima i na način propisan zakonom kojim se uređuje predmet te registracije.",
+            "Povraćaj u pređašnje stanje"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_20"
+    },
+    {
+        "title": "Član 21",
+        "texts": [
+            "U postupku registracije nije dozvoljen povraćaj u pređašnje stanje.",
+            "Objavljivanje i dejstvo registracije"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_21"
+    },
+    {
+        "title": "Član 22",
+        "texts": [
+            "Odluke registratora donete u postupku registracije istovremeno se i objavljuju.",
+            "Registrovani podaci i dokumenti istovremeno se objavljuju sa donošenjem rešenja kojim se prijava usvaja.",
+            "Registracija proizvodi pravno dejstvo prema trećim licima narednog dana od dana objavljivanja.",
+            "Registracija proizvodi pravno dejstvo za ubuduće.",
+            "Ispravka greške u registru"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_22"
+    },
+    {
+        "title": "Član 23",
+        "texts": [
+            "Ako je prilikom registracije načinjena greška u registru, koja se odnosi na greške u pisanju ili računanju i druge očigledne netačnosti, registrator će, odmah po saznanju za grešku ili u roku od pet radnih dana od dana podnošenja zahteva za ispravku, izvršiti ispravku i o tome pisanim putem obavestiti subjekta registracije, odnosno podnosioca zahteva za ispravku.",
+            "Ako je registrator za grešku u registru saznao po prijemu prijave, odmah će postupiti na način propisan u stavu 1. ovog člana i ispraviti utvrđenu grešku, a prijavu odbaciti zbog neispunjavanja uslova iz člana 14. tačka 7) ovog zakona, zbog toga što činjenice iz prijave nisu saglasne sa podacima koji su registrovani u registru koji postupa po prijavi, sa pozivom podnosiocu prijave da u roku iz člana 17. stav 3. ovog zakona, otkloni nedostatak tako što će podatke iz prijave i dokumentacije uz prijavu usaglasiti sa novim stanjem u registru, bez plaćanja naknade za registraciju.",
+            "Ako registrator, odlučujući o zahtevu za ispravku greške, utvrdi da greška nije načinjena, donosi rešenje kojim se zahtev odbija kao neosnovan.",
+            "Dostavljanje pismenog otpravka odluke registratora"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_23"
+    },
+    {
+        "title": "Član 24",
+        "texts": [
+            "Dostavljanje pismenog otpravka odluke registratora vrši se na zahtev podnosioca prijave, a u cilju informisanja, na jedan od sledećih načina:",
+            "1) poštanskom pošiljkom, na registrovanu adresu za prijem pošte pravnog lica ili preduzetnika;",
+            "2) poštanskom pošiljkom, na adresu sedišta pravnog lica ili preduzetnika, ako adresa za prijem pošte nije registrovana;",
+            "3) slanjem na registrovanu adresu za prijem elektronske pošte u skladu sa zakonom kojim se uređuju elektronski dokument, elektronska identifikacija i usluge od poverenja u elektronskom poslovanju;",
+            "4) preuzimanjem u sedištu Agencije ili njenih organizacionih delova;",
+            "5) poštanskom pošiljkom, na adresu prebivališta ili boravišta fizičkog lica koje je stranka u postupku.",
+            "Izuzetno od stava 1. ovog člana, ako je podneta elektronska prijava, otpravak odluke registratora u elektronskoj formi dostavlja se, u cilju informisanja, na registrovanu adresu za prijem elektronske pošte ili na adresu za prijem elektronske pošte koja je u prijavi označena.",
+            "Izuzetno od st. 1. i 2. ovog člana, korisnicima usluge elektronske uprave registrovanim u skladu sa zakonom kojim se uređuje elektronska uprava, dostava u cilju informisanja vrši se isključivo u Jedinstveni elektronski sandučić.",
+            "Kada odluka registratora proizvodi pravno dejstvo od dana dostavljanja, urednost dostavljanja ocenjuje se u skladu sa odredbama zakona kojim se uređuje opšti upravni postupak, a ako je dostava izvršena u Jedinstveni elektronski sandučić, u skladu sa odredbama zakona kojim se uređuju elektronski dokument, elektronska identifikacija i usluge od poverenja u elektronskom poslovanju.",
+            "Ako je prijavu podneo punomoćnik, dostavljanje otpravka odluke vrši se punomoćniku u skladu sa odredbama ovog člana.",
+            "III PRAVNA SREDSTVA",
+            "Žalba"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_24"
+    },
+    {
+        "title": "Član 25",
+        "texts": [
+            "Protiv odluke registratora, lice ovlašćeno za podnošenje prijave može da podnese žalbu ministru nadležnom za odlučivanje o žalbi, preko Agencije, u roku od 30 dana od dana objavljivanja odluke.",
+            "Žalba ne zadržava izvršenje.",
+            "Ako podnosilac prijave izjavi žalbu na rešenje iz člana 17. stav 2. ovog zakona i istovremeno otkloni nedostatke utvrđene rešenjem, smatraće se da radnje preduzete radi otklanjanja utvrđenih nedostataka nisu ni preduzete, odnosno nastaviće se postupak po žalbi.",
+            "Potvrda o primljenoj žalbi"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_25"
+    },
+    {
+        "title": "Član 26",
+        "texts": [
+            "Potvrda o primljenoj žalbi izdaje se na zahtev podnosioca žalbe, kada se žalba podnosi preko Agencije.",
+            "Potvrda o primljenoj žalbi sadrži podatke o podnosiocu žalbe, datumu podnošenja žalbe i broju i datumu odluke koja se žalbom pobija.",
+            "Na internet strani Agencije objavljuju se podaci o primljenoj žalbi i to:",
+            "1) broj pod kojim je žalba zavedena;",
+            "2) datum i vreme prijema žalbe;",
+            "3) podatak o podnosiocu žalbe;",
+            "4) podatak o statusu u kome se žalba nalazi.",
+            "Sadržina žalbe"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_26"
+    },
+    {
+        "title": "Član 27",
+        "texts": [
+            "U žalbi se navodi broj i datum odluke koja se žalbom pobija, razlozi pobijanja, identifikacioni podaci o podnosiocu žalbe i potpis podnosioca žalbe.",
+            "Podnosilac žalbe ne može u žalbi da se poziva na činjenice koje nisu unete u prijavu i dokumenta koja uz prijavu nisu priložena.",
+            "Odlučivanje registratora o žalbi"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_27"
+    },
+    {
+        "title": "Član 28",
+        "texts": [
+            "Ako registrator utvrdi da je žalba neblagovremena, nedopuštena ili izjavljena od neovlašćenog lica, donosi rešenje kojom je odbacuje.",
+            "Ako registrator utvrdi da je žalba osnovana, izmeniće pobijanu odluku ili staviti van snage rešenje o odbacivanju prijave i doneti rešenje o usvajanju prijave.",
+            "Ako registrator u roku od pet radnih dana od dana prijema uredne žalbe ne odluči na način propisan st. 1. i 2. ovog člana, žalbu bez odlaganja dostavlja nadležnom ministru.",
+            "Odlučivanje ministra o žalbi"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_28"
+    },
+    {
+        "title": "Član 29",
+        "texts": [
+            "Ministar o žalbi odlučuje u roku od 30 dana od dana prijema žalbe u ministarstvu.",
+            "Ministar može:",
+            "1) odbaciti žalbu ako je neblagovremena, nedopuštena ili podneta od neovlašćenog lica, ako registrator nije to učinio;",
+            "2) odbiti žalbu kao neosnovanu;",
+            "3) usvojiti žalbu i ukinuti odluku i vratiti registratoru predmet na ponovno odlučivanje;",
+            "4) usvojiti žalbu i ukinuti odluku i sam odlučiti o prijavi.",
+            "Odluka o žalbi dostavlja se registratoru koji je dužan da tu odluku dostavi stranci u roku od osam dana od dana prijema.",
+            "Brisanje registrovanog podatka ili dokumenta po službenoj dužnosti"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_29"
+    },
+    {
+        "title": "Član 30",
+        "texts": [
+            "Registrator, kada utvrdi da je registracija izvršena, a da u momentu registracije nisu bili ispunjeni uslovi za usvajanje prijave, ukinuće svoju odluku i istovremeno brisati registrovani podatak ili dokument, odnosno uspostaviti prethodno registrovano stanje, najkasnije u roku od 12 meseci od narednog dana od dana objavljivanja registrovanog podatka ili dokumenta."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_30"
+    },
+    {
+        "title": "Član 31",
+        "texts": [
+            "(Brisano)",
+            "Upravni spor"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_31"
+    },
+    {
+        "title": "Član 32",
+        "texts": [
+            "Odluka ministra je konačna i protiv nje se može pokrenuti upravni spor.",
+            "Protiv pravnosnažne odluke Upravnog suda stranka i nadležni javni tužilac mogu da podnesu Vrhovnom kasacionom sudu zahtev za preispitivanje sudske odluke.",
+            "IV NIŠTAVOST REGISTRACIJE OSNIVANJA PRIVREDNOG DRUŠTVA I PREDUZETNIKA",
+            "Ništavost registracije osnivanja privrednog društva"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_32"
+    },
+    {
+        "title": "Član 33",
+        "texts": [
+            "Lice koje ima pravni interes može tužbom zahtevati utvrđenje da je registracija osnivanja privrednog društva ništava:",
+            "1) ako su u prijavi navedeni neistiniti podaci;",
+            "2) ako je registracija izvršena na osnovu lažnog dokumenta, dokumenta izdatog u nezakonito sprovedenom postupku ili dokumenta sa neistinitim činjenicama;",
+            "3) ako postoje drugi zakonom predviđeni razlozi.",
+            "Tužba iz stava 1. ovog člana podnosi se nadležnom sudu u roku od 30 dana od dana saznanja tužioca za razloge ništavosti, a najkasnije u roku od godinu dana od dana registracije.",
+            "Po prijavi tužioca, uz koju se dostavlja dokaz o pokretanju postupka za utvrđivanje ništavosti registracije osnivanja privrednog društva, registrator registruje zabeležbu postojanja spora za utvrđenje ništavosti registracije.",
+            "Kada je pravnosnažnom presudom utvrđena ništavost registracije osnivanja privrednog društva sud će, u roku od 15 dana od dana pravnosnažnosti, dostaviti presudu nadležnom registru radi registracije zabeležbe ništavosti registracije osnivanja i pokretanja postupka prinudne likvidacije tog društva.",
+            "Ništavost registracije preduzetnika"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_33"
+    },
+    {
+        "title": "Član 34",
+        "texts": [
+            "Na ništavost registracije preduzetnika shodno se primenjuju odredbe člana 33. st. 1-3. ovog zakona.",
+            "Ako je pravnosnažnom presudom utvrđena ništavost registracije preduzetnika sud će, u roku od 15 dana od dana pravnosnažnosti, presudu dostaviti nadležnom registru radi registracije zabeležbe ništavosti registracije osnivanja i brisanja preduzetnika iz registra.",
+            "Brisanje registracije osnivanja i promene registrovanih podataka na osnovu odluke drugostepenog organa o poništavanju, odnosno ukidanju konačne odluke nadležnog registratora"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_34"
+    },
+    {
+        "title": "Član 34a",
+        "texts": [
+            "Ako se konačnim upravnim aktom drugostepenog organa donetim u skladu sa odredbama zakona kojim se uređuje opšti upravni postupak koje se odnose na poništavanje i ukidanje konačnog rešenja, poništi, odnosno ukine odluka nadležnog registratora o registraciji osnivanja privrednog društva ili preduzetnika, a podnosilac prijave u ponovnom postupku ne uredi prijavu, odnosno ne otkloni nedostatke, na koje mu ukaže nadležni registrator ili ako takve nedostatke nije moguće otkloniti, nadležni registrator će po službenoj dužnosti registrovati zabeležbu konačnog upravnog akta drugostepenog organa i pokrenuti postupak prinudne likvidacije privrednog društva, odnosno brisati preduzetnika čije je osnivanje poništeno.",
+            "Ako se konačnim upravnim aktom drugostepenog organa donetim u skladu sa odredbama zakona kojim se uređuje opšti upravni postupak koje se odnose na poništavanje i ukidanje konačnog rešenja, poništi, odnosno ukine odluka nadležnog registratora o registraciji promene podataka i dokumenata, a podnosilac prijave u ponovnom postupku ne uredi prijavu, odnosno ne otkloni nedostatke na koje mu ukaže nadležni registrator ili ako takve nedostatke nije moguće otkloniti, nadležni registrator će po službenoj dužnosti registrovati zabeležbu konačnog upravnog akta drugostepenog organa i uspostaviti prethodno registrovano stanje, osim ako na osnovu kasnije podnete registracione prijave nije registrovana promena istog podatka.",
+            "V EVIDENCIJA PODATAKA I DOKUMENATA",
+            "Pokretanje postupka evidentiranja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_34a"
+    },
+    {
+        "title": "Član 35",
+        "texts": [
+            "Podaci i dokumenti se evidentiraju na zahtev ovlašćenog lica, nadležnog organa ili preuzimanjem podataka i dokumenata iz drugih registara i evidencija sadržanih u registrima i evidencijama koje vodi Agencija i drugi nadležni organi, a koji su propisani kao predmet evidentiranja.",
+            "Izvod o evidentiranim podacima"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_35"
+    },
+    {
+        "title": "Član 36",
+        "texts": [
+            "Registrator, u roku od pet radnih dana od dana prijema zahteva, izdaje izvod ili potvrdu iz evidencije.",
+            "Zahtev iz stava 1. ovog člana podnosi se na propisanom obrascu, a ako obrazac nije propisan - kao podnesak.",
+            "Uz zahtev iz stava 1. ovog člana se prilaže i dokaz o uplati naknade za izdavanje izvoda o evidentiranim podacima.",
+            "Ako registrator utvrdi da je zahtev iz stava 1. neosnovan, donosi rešenje kojim zahtev odbija.",
+            "VI OBJAVLJIVANJE PODATAKA I DOKUMENATA",
+            "Javno objavljivanje finansijskih izveštaja i dokumentacije"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_36"
+    },
+    {
+        "title": "Član 36a",
+        "texts": [
+            "Javno objavljivanje podataka iz finansijskih izveštaja i dokumentacije koja se uz te izveštaje dostavlja Agenciji, Registru finansijskih izveštaja saglasno zakonu koji uređuje računovodstvo, vrši se u skladu sa odredbama tog zakona.",
+            "Objavljivanje podataka i dokumenata"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_36a"
+    },
+    {
+        "title": "Član 37",
+        "texts": [
+            "Podaci i dokumenti koji nisu predmet registracije i evidentiranja objavljuju se na zahtev ovlašćenog lica, nadležnog organa ili preuzimanjem podataka i dokumenata iz drugih registara i evidencija sadržanih u registrima i evidencijama koje vodi Agencija i drugi nadležni organi, a koji su propisani kao predmet objavljivanja.",
+            "Registrator, na zahtev podnosioca, u roku od pet radnih dana od dana prijema zahteva, izdaje potvrdu da li je neki podatak ili dokument objavljen.",
+            "VII POSTUPAK PO OSTALIM ZAHTEVIMA",
+            "Izdavanje izvoda, kopija i potvrda"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_37"
+    },
+    {
+        "title": "Član 38",
+        "texts": [
+            "Na zahtev lica, registrator, najkasnije u roku od dva radna dana od dana prijema zahteva, izdaje:",
+            "1) izvod o podacima iz registra;",
+            "2) kopiju dokumenta na osnovu koga je izvršena registracija ili evidencija, odnosno dokumenta koji je objavljen u skladu sa ovim zakonom;",
+            "3) potvrdu kojom se potvrđuje da li je neki podatak ili dokument bio registrovan, evidentiran, objavljen, da li registar sadrži neki dokument, da li su određene činjenice sadržane u dokumentima iz registra ili kojom se potvrđuju pravna stanja i pravne posledice registracije, evidencije, odnosno objavljivanja.",
+            "Zahtev iz stava 1. ovog člana, podnosi se na propisanom obrascu, a ako obrazac nije propisan, podnosi se kao podnesak.",
+            "Uz zahtev se prilaže i dokaz o uplati naknade za izdavanje izvoda, kopija ili potvrda.",
+            "VIII REZERVACIJA NAZIVA",
+            "Pokretanje postupka"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_38"
+    },
+    {
+        "title": "Član 39",
+        "texts": [
+            "Rezervacija naziva pokreće se podnošenjem prijave nadležnom registru sa dokazom o uplati naknade za rezervaciju naziva.",
+            "Potvrda o primljenoj prijavi za rezervaciju naziva sadrži:",
+            "1) oznaku registra;",
+            "2) broj pod kojim je prijava zavedena;",
+            "3) datum i vreme prijema prijave;",
+            "4) naziv koji se rezerviše;",
+            "5) podatke o podnosiocu prijave;",
+            "6) podatke o visini naknade.",
+            "Odlučivanje o prijavi"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_39"
+    },
+    {
+        "title": "Član 40",
+        "texts": [
+            "Ako su ispunjeni uslovi za rezervaciju naziva, u skladu sa članom 14. tačka 8) ovog zakona, registrator u roku od pet radnih dana od dana podnošenja prijave izdaje potvrdu o rezervaciji naziva i rezervisani naziv unosi u bazu podataka rezervisanih naziva.",
+            "Naziv se rezerviše u korist podnosioca prijave na rok od 60 dana od dana objave.",
+            "Ako nisu ispunjeni uslovi za rezervaciju naziva, registrator u roku od pet radnih dana od dana podnošenja prijave rešenjem odbija prijavu za rezervaciju naziva.",
+            "Obnova i prenos rezervisanog naziva"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_40"
+    },
+    {
+        "title": "Član 41",
+        "texts": [
+            "Pre isteka roka na koji je naziv rezervisan, lice u čiju je korist naziv rezervisan, može, uz ponovnu uplatu naknade za rezervaciju naziva, obnoviti rezervaciju naziva na naknadni rok od 60 dana.",
+            "Rezervacija naziva može se preneti na drugo pravno ili fizičko lice do isteka roka na koji je naziv rezervisan.",
+            "Registrator potvrdu o prenosu rezervisanog naziva dostavlja licu u čiju je korist naziv rezervisan.",
+            "IX NAKNADE",
+            "Obaveza plaćanja naknade"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_41"
+    },
+    {
+        "title": "Član 42",
+        "texts": [
+            "Za postupak registracije, evidentiranja, objavljivanja, rezervacije naziva, postupke po ostalim zahtevima, kao i za druge usluge koje pruža Agencija, podnosilac prijave ili zahteva plaća naknadu u skladu sa propisima kojima se uređuje položaj i nadležnost Agencije.",
+            "Obaveza plaćanja naknade iz stava 1. ovog člana nastaje danom podnošenja prijave, odnosno danom podnošenja zahteva za izvršenje druge usluge.",
+            "X OBRADA I KORIŠĆENJE PODATAKA",
+            "Nadležnost za propisivanje načina i uslova obrade i korišćenja podataka"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_42"
+    },
+    {
+        "title": "Član 43",
+        "texts": [
+            "Način i uslovi obrade i korišćenja registrovanih i evidentiranih podataka uređuju se propisima kojima se uređuje položaj i nadležnost Agencije.",
+            "XI SADRŽINA REGISTARA I EVIDENCIJA",
+            "Nadležnost za propisivanje sadržine registara i evidencija"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_43"
+    },
+    {
+        "title": "Član 44",
+        "texts": [
+            "Ministri nadležni za sprovođenje zakona kojima je propisano vođenje registara, bliže propisuju sadržinu registara i evidencija, kao i dokumenta koja se prilažu uz prijavu za registraciju i evidenciju, ako sadržina registara ili evidencija nije određena tim zakonom ili drugim propisom.",
+            "XII KAZNENE ODREDBE",
+            "Krivično delo"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_44"
+    },
+    {
+        "title": "Član 45",
+        "texts": [
+            "Ko registru prijavi neistinit podatak ili dostavi lažni ili preinačeni dokument u nameri da se takav podatak ili dokument u postupku registracije i evidencije upotrebi kao pravi, kazniće se kaznom zatvora od tri meseca do pet godina.",
+            "XIII PRELAZNE I ZAVRŠNE ODREDBE",
+            "Primena propisa na započete postupke"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_45"
+    },
+    {
+        "title": "Član 46",
+        "texts": [
+            "Postupci registracije započeti do dana početka primene ovog zakona, za odgovarajuće registre, okončaće se po propisima po kojima su započeti.",
+            "Ako do početka primene ovog zakona, za odgovarajuće registre, pravnosnažnom odlukom suda bude utvrđena ništavost registracije ili odlukom ministra bude ukinuto rešenje registratora, postupak će se okončati po ovom zakonu.",
+            "Rok za donošenje podzakonskih akata"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_46"
+    },
+    {
+        "title": "Član 47",
+        "texts": [
+            "Podzakonski akti za sprovođenje ovog zakona biće doneti u roku od 90 dana od dana stupanja na snagu ovog zakona za odgovarajući registar.",
+            "Do donošenja podzakonskih akata iz stava 1. ovog člana primenjivaće se odgovarajući podzakonski akti doneti do dana stupanja na snagu ovog zakona, ako nisu u suprotnosti sa ovim zakonom.",
+            "Prestanak važenja propisa"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_47"
+    },
+    {
+        "title": "Član 48",
+        "texts": [
+            "Danom početka primene ovog zakona u odnosu na odgovarajući registar, prestaju da važe Zakon o registraciji privrednih subjekata (\"Službeni glasnik RS\", br. 55/04 i 61/05), odredbe čl. 30, 32, 69. i 70. Zakona o udruženjima (\"Službeni glasnik RS\", broj 51/09), odredbe čl. 26, 27. i 28. i člana 31. stav 1. Zakona o zadužbinama i fondacijama (\"Službeni glasnik RS\", broj 88/10), odredbe čl. 64, 65, 66. i 67. i člana 86. stav 3. Zakona o sportu (\"Službeni glasnik RS\", broj 24/11), odredbe čl. 65a do 65đ Zakona o založnom pravu na pokretnim stvarima upisanim u registar (\"Službeni glasnik RS\", br. 57/03, 61/05 i 64/06 - ispravka), odredbe čl. 51a do 51đ Zakona o finansijskom lizingu (\"Službeni glasnik RS\", br. 55/03, 61/05 i 31/11) i Uredba o registraciji predstavništava stranih pravnih lica u Registar privrednih subjekata koji vodi Agencija za privredne registre (\"Službeni glasnik RS \", broj 114/05).",
+            "Stupanje na snagu i početak primene"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_48"
+    },
+    {
+        "title": "Član 49",
+        "texts": [
+            "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u \"Službenom glasniku Republike Srbije\", a počinje da se primenjuje 1. februara 2012. godine za Registar privrednih subjekata, Registar turizma, Registar javnih glasila, Registar stečajnih masa, Registar sudskih zabrana i Registar sportskih udruženja, društava i saveza u oblasti sporta, 1. januara 2013. godine za Registar komora, 1. maja 2013. godine za Registar založnog prava na pokretnim stvarima i pravima, Registar udruženja i Registar stranih udruženja, 1. septembra 2013. godine za Registar zadužbina i fondacija i Registar predstavništava stranih zadužbina i fondacija, 1. oktobra 2013. godine za Registar finansijskog lizinga i 1. januara 2014. godine za Registar finansijskih izveštaja i podataka o bonitetu pravnih lica i preduzetnika.",
+            "",
+            "Samostalni član Zakona o izmenama i dopunamaZakona o postupku registracije u Agenciji za privredne registre",
+            "(\"Sl. glasnik RS\", br. 83/2014)"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon_o_postupku_registracije_u_agenciji_za_privredne_registre.html#clan_49"
+    },
+    {
+        "title": "Član 5",
+        "texts": [
+            "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u \"Službenom glasniku Republike Srbije\".",
+            "",
+            "Samostalni član Zakona o izmenama i dopunamaZakona o postupku registracije u Agenciji za privredne registre",
+            "(\"Sl. glasnik RS\", br. 105/2021)"
+        ],
+        "link": null
+    },
+    {
+        "title": "Član 16",
+        "texts": [
+            "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u \"Službenom glasniku Republike Srbije\", osim:",
+            "1) odredaba člana 4. ovog zakona, koje se primenjuju po isteku 18 meseci od dana stupanja na snagu ovog zakona;",
+            "2) odredaba člana 5. ovog zakona, koje se primenjuju po isteku godinu dana od dana stupanja na snagu ovog zakona;",
+            "3) odredaba člana 12. ovog zakona u delu koji se odnosi na dostavljanje u Jedinstveni elektronski sandučić korisnicima usluge elektronske uprave, koje se primenjuju po isteku 18 meseci od dana stupanja na snagu ovog zakona.",
+            "Ako ne probate više različitih izbora nikada nećete biti sigurni da li imate najbolju opciju u svojim rukama. Mi Vam tu mogućnost nudimo besplatno! Popunite formular i dobićete priliku da bez ikakvih troškova saznate da li je Paragraf dobar izbor za Vas.",
+            "Ukoliko želite da Vas obaveštavamo o novostima i aktivnostima kompanije Paragraf prijavite se na našu mailing listu. Vaš e-mail neće biti upotrebljen u druge svrhe."
+        ],
+        "link": null
+    }
+]

@@ -1,0 +1,106 @@
+[
+    {
+        "title": "Član 1",
+        "texts": [
+            "Ovim pravilnikom propisuju se bliži uslovi i način uplate sredstava od prodatog turističkog putovanja, način uređivanja međusobnih odnosa organizatora putovanja i posrednika, kao i odnos organizatora putovanja i posrednika prema putniku."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-blizim-uslovima-i-nacinu-uplate-sredstava-od-prodatog-turistickog-putovanja-nacinu.html#clan_1"
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Pojedini izrazi upotrebljeni u ovom pravilniku imaju sledeće značenje:",
+            "1)organizator putovanjaje turistička agencija koja organizuje, utvrđuje, priprema i prodaje turističko putovanje;",
+            "2)posrednikje turistička agencija koja posreduje u prodaji turističkog putovanja;",
+            "3)putnikje fizičko lice koje kupuje ili za čiji račun se kupuje turističko putovanje, odnosno lice koje je naznačeno u ugovoru o putovanju ili potvrdi o putovanju, kao korisnik tog putovanja;",
+            "4)turistička agencijaje organizator putovanja i posrednik;",
+            "5)ugovor o posredovanjuje posrednički ugovor o putovanju koji se zaključuje između organizatora putovanja i posrednika;",
+            "6)centralni informacioni sistemu oblasti ugostiteljstva i turizma (E-turista) je jedinstven i centralizovan elektronski informacioni sistem, koji sadrži sve relevantne podatke o pružaocima usluge smeštaja i objektima za smeštaj, preko koga se vrši njihova evidencija i unose drugi podaci proistekli iz obavljanja ugostiteljske, nautičke i lovnoturističke, odnosno turističke delatnosti ili usluga u turizmu (u daljem tekstu: CIS)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-blizim-uslovima-i-nacinu-uplate-sredstava-od-prodatog-turistickog-putovanja-nacinu.html#clan_2"
+    },
+    {
+        "title": "Član 3",
+        "texts": [
+            "Turističko putovanje pripremljeno od strane organizatora putovanja prodaje se preko organizatora putovanja ili posrednika.",
+            "Ako se turističko putovanje nudi i prodaje preko posrednika, organizator putovanja i posrednik zaključuju ugovor o posredovanju.",
+            "Posrednik prodaje samo turističko putovanje organizatora putovanja sa kojim ima zaključen ugovor o posredovanju i ne može ustupati pravo prodaje turističkog putovanja drugoj turističkoj agenciji.",
+            "Ugovor o posredovanju turistička agencija evidentira u CIS-u."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-blizim-uslovima-i-nacinu-uplate-sredstava-od-prodatog-turistickog-putovanja-nacinu.html#clan_3"
+    },
+    {
+        "title": "Član 4",
+        "texts": [
+            "Visinu, rokove i način uplate provizije organizator putovanja i posrednik bliže uređuju ugovorom o posredovanju.",
+            "Ugovor o posredovanju se zaključuje na određeno ili neodređeno vreme.",
+            "Ugovorom o posredovanju prodaja turističkih putovanja se može ograničiti samo na određenu ponudu organizatora putovanja (program putovanja, destinacija i dr.).",
+            "U slučaju potrebe za proširenje ugovorenog obima prodaje iz stava 3. ovog člana, pre prodaje turističkog putovanja, organizator putovanja i posrednik zaključuju aneks ugovora ili novi ugovor o posredovanju.",
+            "U slučaju prodaje programa putovanja, koji je od strane posrednika izmenjen u bitnim elementima, takav program putovanja će se smatrati programom putovanja posrednika, za čije je organizovanje i realizovanje potrebna licenca."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-blizim-uslovima-i-nacinu-uplate-sredstava-od-prodatog-turistickog-putovanja-nacinu.html#clan_4"
+    },
+    {
+        "title": "Član 5",
+        "texts": [
+            "Ako se turističko putovanje prodaje preko posrednika, putnik može da izvrši uplatu direktnim plaćanjem na račun organizatora putovanja.",
+            "Ukoliko se uplata za turističko putovanje vrši na račun posrednika, posrednik u roku od 48 sati, od trenutka uplate, uplaćena sredstva prenosi na račun organizatora putovanja.",
+            "Ako je prodajna cena turističkog putovanja izražena u stranoj valuti, obračun uplate vrši se u dinarskoj protivvrednosti po srednjem kursu Narodne banke Srbije na dan uplate."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-blizim-uslovima-i-nacinu-uplate-sredstava-od-prodatog-turistickog-putovanja-nacinu.html#clan_5"
+    },
+    {
+        "title": "Član 6",
+        "texts": [
+            "Po izvršenoj uplati, odnosno akontaciji za turističko putovanje, turistička agencija putniku uručuje potvrdu o garanciji putovanja, koja se generiše iz CIS-a.",
+            "Potvrda o garanciji putovanja, pored propisanih elemenata, sadrži link i jedinstven verifikacioni kod.",
+            "Pristupom linku i unošenjem verifikacionog koda iz stava 2. ovog člana, putnik dobija sve podatke sadržane u izdatoj potvrdi o garanciji putovanja, na koji način proverava njenu validnost."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-blizim-uslovima-i-nacinu-uplate-sredstava-od-prodatog-turistickog-putovanja-nacinu.html#clan_6"
+    },
+    {
+        "title": "Član 7",
+        "texts": [
+            "Po prijemu uplate, odnosno akontacije za prodato turističko putovanje, posrednik na kraju radnog dana organizatoru putovanja elektronskim putem dostavlja skenirani propisani račun, kao dokaz o uplati naplaćenih sredstava.",
+            "Ako posrednik, na osnovu ugovora o posredovanju proda turističko putovanje, ali ne postupi na način iz stava 1. ovog člana, ne obavesti organizatora putovanja o izvršenoj prodaji, ne uplati organizatoru putovanja sredstva naplaćena od putnika, putnika ne evidentira u CIS, niti mu uruči opšte uslove putovanja, program putovanja, potvrdu o garanciji putovanja i dr., putnik ostvaruje pravo zaštite preko organizatora putovanja, čije je putovanje uplatio, saglasno zakonima kojima se uređuju turizam i zaštita potrošača."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-blizim-uslovima-i-nacinu-uplate-sredstava-od-prodatog-turistickog-putovanja-nacinu.html#clan_7"
+    },
+    {
+        "title": "Član 8",
+        "texts": [
+            "Ako organizator putovanja otkaže turističko putovanje o tome obaveštava putnika bez odlaganja, a najkasnije do kraja dana u danu otkaza.",
+            "Putnik u bilo kom trenutku, pre otpočinjanja turističkog putovanja, može da otkaže turističko putovanje organizatoru putovanja, odnosno posredniku preko koga je kupljeno to putovanje.",
+            "Datumom otkaza turističkog putovanja od strane putnika smatra se datum predaje pisanog dokumenta ili e-maila organizatoru putovanja, odnosno posredniku preko koga je kupljeno to putovanje.",
+            "U slučaju iz st. 1. i 2. ovog člana, turističko putovanje se stornira i evidentira u CIS-u."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-blizim-uslovima-i-nacinu-uplate-sredstava-od-prodatog-turistickog-putovanja-nacinu.html#clan_8"
+    },
+    {
+        "title": "Član 9",
+        "texts": [
+            "Nakon završetka turističkog putovanja putnik može podneti reklamaciju i posredniku, preko koga je kupljeno turističko putovanje.",
+            "U slučaju iz stava 1. ovog člana, posrednik bez odlaganja, a najkasnije do kraja dana u danu podnete reklamacije istu prosleđuje organizatoru putovanja.",
+            "Izuzetno od stava 2. ovog člana, ako je dan podnete reklamacije neradni dan posrednik najkasnije do kraja prvog radnog dana reklamaciju prosleđuje organizatoru putovanja.",
+            "Datumom podnošenja reklamacije od strane putnika smatra se datum predaje pisanog dokumenta ili e-maila organizatoru putovanja, odnosno posredniku preko koga je kupljeno turističko putovanje."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-blizim-uslovima-i-nacinu-uplate-sredstava-od-prodatog-turistickog-putovanja-nacinu.html#clan_9"
+    },
+    {
+        "title": "Član 10",
+        "texts": [
+            "Danom početka primene ovog pravilnika prestaje da važi Pravilnik o bližim uslovima i načinu uplate sredstava od prodatog turističkog putovanja, načinu uređivanja međusobnih odnosa organizatora putovanja i posrednika, kao i odnos organizatora putovanja i posrednika prema putniku (\"Službeni glasnik RS\", broj 91/16)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-blizim-uslovima-i-nacinu-uplate-sredstava-od-prodatog-turistickog-putovanja-nacinu.html#clan_10"
+    },
+    {
+        "title": "Član 11",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu narednog dana od dana objavljivanja u \"Službenom glasniku Republike Srbije\", a počinje da se primenjuje od 1. oktobra 2023. godine.",
+            "Ako ne probate više različitih izbora nikada nećete biti sigurni da li imate najbolju opciju u svojim rukama. Mi Vam tu mogućnost nudimo besplatno! Popunite formular i dobićete priliku da bez ikakvih troškova saznate da li je Paragraf dobar izbor za Vas.",
+            "Ukoliko želite da Vas obaveštavamo o novostima i aktivnostima kompanije Paragraf prijavite se na našu mailing listu. Vaš e-mail neće biti upotrebljen u druge svrhe.",
+            "Pratite Paragraf na Viberu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-blizim-uslovima-i-nacinu-uplate-sredstava-od-prodatog-turistickog-putovanja-nacinu.html#clan_11"
+    }
+]

@@ -1,0 +1,843 @@
+[
+    {
+        "title": "Član 1",
+        "texts": [
+            "Ovim pravilnikom propisuje se organizovanje, sprovođenje i način polaganja vozačkog ispita, vođenje i rokovi čuvanja evidencija o vozačkom ispitu i uslovi koje mora da ispuni vozilo na kojem se obavlja vozački ispit.",
+            "II ORGANIZOVANJE VOZAČKOG ISPITA"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_1"
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Vozački ispit organizuje i sprovodi privredno društvo, odnosno ogranak privrednog društva ili srednja stručna škola (u daljem tekstu: pravno lice) koje ima dozvolu za osposobljavanje kandidata za vozača (u daljem tekstu: kandidat).",
+            "Vozački ispit se sastoji iz teorijskog ispita i praktičnog ispita.",
+            "Teorijski ispit se polaže po završetku teorijske obuke, a praktični ispit po završetku praktične obuke.",
+            "Praktični ispit kandidat može započeti tek kada ispuni starosni uslov iz člana 180. i člana 182. stav 1. Zakona o bezbednosti saobraćaja na putevima.",
+            "Teorijski i praktični ispit kandidata ne može se započeti i vršiti u vreme trajanja zaštitne mere, odnosno mera bezbednosti zabrane upravljanja motornim vozilom kao ni za vreme dok mu je vozačka dozvola oduzeta zbog nesavesnosti.",
+            "Teorijski i praktični ispit kandidata za upravljanje vozilima određene kategorije ne može se započeti i vršiti ukoliko kandidat ne ispunjava uslove u pogledu posedovanja odgovarajuće vozačke dozvole iz člana 181. Zakona o bezbednosti saobraćaja na putevima.",
+            "Podaci o održanom teorijskom i praktičnom ispitu se dostavljaju u centralnu bazu podataka Informacionog sistema osposobljavanja kandidata za vozače (u daljem tekstu: ISO)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_2"
+    },
+    {
+        "title": "Član 3",
+        "texts": [
+            "Kandidat koji je ispunio uslove za izlazak na ispit podnosi prijavu za teorijski ispit, odnosno praktični ispit, pravnom licu koje organizuje i sprovodi vozački ispit. Prijava se podnosi za svaki izlazak na teorijski ispit, odnosno praktični ispit.",
+            "Prijavu za teorijski ispit, odnosno praktični ispit, kandidat podnosi putem ISO i tom prilikom kandidat se identifikuje korisničkim imenom i određenom pristupnom šifrom.",
+            "Prijava za teorijski ispit, odnosno praktični ispit, koju podnosi kandidat, prihvata se nakon evidentiranja dokaza da su izmirene obaveze prema Ministarstvu unutrašnjih poslova (u daljem tekstu: nadležni organ), u vezi troškova polaganja ispita.",
+            "Dokaz o izmirenju obaveza iz stava 1. ovog člana je:",
+            "1) podatak o izmirenim obavezama evidentiran putem ISO ili",
+            "2) pisani dokaz o izmirenim obavezama, kao originalni dokument, koji kandidat podnosi pravnom licu i koji je pravno lice evidentiralo u ISO.",
+            "Dokaz o izmirenim obavezama prema nadležnom organu iz stava 4. tačka 2) ovog člana, na dan ispita, preuzima ispitivač iz nadležnog organa."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_3"
+    },
+    {
+        "title": "Član 4",
+        "texts": [
+            "Cene polaganja teorijskog ispita, odnosno praktičnog ispita, po kategorijama vozila koje kandidat plaća nadležnom organu i pravnom licu dostupne su kandidatima putem ISO.",
+            "Pravna lica moraju uneti u centralnu bazu podataka ISO cene polaganja teorijskog ispita, odnosno praktičnog ispita, po kategorijama vozila koje kandidat plaća pravnom licu."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_4"
+    },
+    {
+        "title": "Član 5",
+        "texts": [
+            "Pravnim licima kojima nije doneto rešenje o privremenoj zabrani sprovođenja vozačkog ispita za sve kategorije vozila za koje pravno lice ima dozvolu za osposobljavanje kandidata za vozače, nadležni organ najkasnije do 15. u tekućem mesecu određuje za naredni mesec:",
+            "1) za polaganje teorijskog ispita, po pravilu, najmanje dva datuma sa po jednim terminom polaganja tog dana ili najmanje jedan datum sa dva ili više termina polaganja tog dana i",
+            "2) za polaganje praktičnog ispita, po pravilu, najmanje dva datuma polaganja.",
+            "Pravno lice koje nema potrebu za dobijenim datumom polaganja isti će otkazati.",
+            "Pravno lice koje ima više učionica za polaganje teorijskog ispita, putem elektronske pošte ili telefaksa, najkasnije do 10. u tekućem mesecu nadležnom organu dostavlja informaciju o učionicama u kojima planira sprovođenje teorijskog ispita narednog meseca. U toku jednog dana teorijski ispit može biti sproveden samo u jednoj učionici. Ako pravno lice ne dostavi navedenu informaciju, nadležni organ će datume, odnosno termine, polaganja teorijskog ispita odrediti za učionicu koja je u ISO evidentirana kao prva.",
+            "Pravno lice je obavezno da u centralnu bazu podataka ISO dostavi spisak kandidata koji su podneli prijavu za teorijski ispit, odnosno praktični ispit (u daljem tekstu: spisak kandidata) po dobijenim datumima polaganja teorijskog ispita, odnosno praktičnog ispita, najkasnije pet dana pre zakazanog datuma polaganja. Informacija o datumu polaganja teorijskog ispita, odnosno praktičnog ispita, mora biti dostupna kandidatima najkasnije četiri dana pre zakazanog datuma polaganja teorijskog ispita, odnosno praktičnog ispita. Informacija o terminu polaganja teorijskog ispita, odnosno orijentacionim vremenima polaganja praktičnog ispita, mora biti dostupna kandidatima najkasnije dva dana pre zakazanog datuma polaganja teorijskog ispita, odnosno praktičnog ispita.",
+            "Na spisku kandidata ne mogu biti kandidati koji nisu ispunili sve uslove za izlazak na vozački ispit.",
+            "Na spisku kandidata za jedan termin polaganja teorijskog ispita, broj kandidata ne može biti veći od broja računara koji su namenjeni za polaganje teorijskog ispita (računari za teorijski ispit), koji se nalaze u učionici u kojoj se ispit sprovodi.",
+            "Ako prijavljeni broj kandidata za polaganje teorijskog ispita za jedan datum, može biti raspoređen u manjem broju termina od dobijenog broja termina za taj datum, pravno lice će kandidate rasporediti u najmanjem broju termina koji moraju biti u kontinuitetu, sa početkom od vremena određenog za početak prvog termina polaganja teorijskog ispita.",
+            "Na spisku kandidata za jedan datum polaganja praktičnog ispita ne može biti više kandidata od broja koji omogućava propisano sprovođenje praktičnog ispita svih kandidata sa spiska kandidata, od strane jednog ispitivača.",
+            "Trajanje svih praktičnih ispita koje ispitivač obavlja u toku jednog dana ne može biti duže od osam sati, osim u slučaju završetka praktičnog ispita za sve kandidate sa spiska kandidata sačinjenog u skladu sa odredbama stava 8. ovog člana."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_5"
+    },
+    {
+        "title": "Član 5a",
+        "texts": [
+            "Ako pravno lice ne dostavi spisak kandidata u roku od pet dana pre zakazanog datuma polaganja, smatra se da je odustalo od datog datuma, i isti će biti dodeljen pravnom licu koje je iskazalo potrebu za većim brojem datuma polaganja od određenog.",
+            "Ako je broj kandidata na spisku kandidata za određeni termin polaganja teorijskog ispita, manji od broja računara koji su namenjeni za polaganje teorijskog ispita (računari za teorijski ispit), pravno lice taj spisak kandidata može dopuniti novim kandidatima, do broja računara za teorijski ispit.",
+            "Ako kandidat sa spiska kandidata za određeni termin polaganja teorijskog ispita otkaže polaganje, taj kandidat može biti zamenjen drugim kandidatom.",
+            "Ako kandidat sa spiska kandidata za određeni datum polaganja praktičnog ispita otkaže polaganja, taj kandidat može biti zamenjen drugim kandidatom, ako vreme koje je potrebno za sprovođenje njegovog ispita nije duže od vremena potrebnog za sprovođenje ispita kandidata koji se zamenjuje.",
+            "Ako nadležni organ otkaže zakazani datum polaganja teorijskog ispita, odnosno praktičnog ispita, pravnom licu će biti dodeljen novi datum polaganja ispita za spisak kandidata koji je otkazan, pri čemu novi datum polaganja, po pravilu, ne može biti u periodu koji je duži od sedam dana, o čemu pravno lice mora biti obavešteno četiri dana pre zakazanog ispita.",
+            "U slučajevima iz st. 1−5. ovog člana pravno lice je obavezno da konačan spisak kandidata dostavi u centralnu bazu podataka ISO najkasnije dva dana pre zakazanog datuma polaganja.",
+            "Informacija o terminu polaganja teorijskog ispita, odnosno orijentacionim vremenima polaganja praktičnog ispita, iz stava 6. ovog člana, mora biti dostupna kandidatima najkasnije dva dana pre zakazanog datuma polaganja teorijskog ispita, odnosno praktičnog ispita."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_5a"
+    },
+    {
+        "title": "Član 5b",
+        "texts": [
+            "Pravno lice kojem nije doneto rešenje o privremenoj zabrani sprovođenja vozačkog ispita za sve kategorije vozila za koje pravno lice ima dozvolu za osposobljavanje kandidata za vozače i koje zbog većeg broja prijavljenih kandidata ima potrebu za većim brojem datuma polaganja teorijskog ispita, odnosno praktičnog ispita, nadležnom organu, putem ISO, dostavlja zahtev za dodatni broj datuma polaganja.",
+            "Datumi polaganja teorijskog ispita, odnosno praktičnog ispita, za pravna lica koja su iskazala potrebu za većim brojem datuma polaganja, određuje se na osnovu:",
+            "1) redosleda dostavljanja zahteva za dodatnim datumima polaganja;",
+            "2) broja ispitivača nadležnog organa;",
+            "3) broja kandidata koji ispunjavaju uslove za izlazak na ispit;",
+            "4) mesta polaganja ispita;",
+            "5) rasporeda korišćenja zajedničkog poligona.",
+            "Obaveštenje o datumu polaganja teorijskog ispita, odnosno praktičnog ispita, pravnim licima koja su iskazala potrebu za većim brojem datuma, nadležni organ će dostaviti najkasnije četiri dana pre zakazanog datuma, a pravno lice će spisak kandidata dostaviti u centralnu bazu podataka ISO, najkasnije dva dana pre zakazanog datuma polaganja.",
+            "Informacija o terminu polaganja teorijskog ispita, odnosno orijentacionim vremenima polaganja praktičnog ispita, iz stava 3. ovog člana, mora biti dostupna kandidatima najkasnije dva dana pre zakazanog datuma polaganja teorijskog ispita, odnosno praktičnog ispita.",
+            "III SPROVOĐENJE I NAČIN POLAGANJA VOZAČKOG ISPITA"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_5b"
+    },
+    {
+        "title": "Član 6",
+        "texts": [
+            "Prilikom sprovođenja vozačkog ispita ispitivači ispit sprovode nepristrasno i savesno u skladu sa odredbama ovog pravilnika.",
+            "Pre početka vozačkog ispita, odnosno unosa propisanih podataka o sprovedenom  ispitu, ispitivači se prijavljuju na ISO putem lične karte koja sadrži mikrokontroler (čip) u koji je upisan kvalifikovani elektronski sertifikat imaoca i odgovarajući podaci za formiranje kvalifikovanog elektronskog potpisa (u daljem tekstu: elektronska lična karta) ili drugim kvalifikovanim elektronskim sertifikatom.",
+            "Teorijski ispit, odnosno praktični ispit, započinje tek kada oba člana ispitne komisije utvrde da su ispunjeni opšti uslovi (uslovi vezani za učionicu, poligon, vozila i ulice, odnosno put) za polaganje vozačkog ispita. U slučaju da oba ispitivača utvrde neispunjenost opštih uslova, o tome se sačinjava izveštaj o utvrđenim opštim uslovima koji nisu ispunjeni za održavanje teorijskog, odnosno praktičnog ispita, a ako samo jedan ispitivač izrazi sumnju u ispunjenost opštih uslova o tome mora biti obavešten nadležni organ koji će izvršiti nadzor i o tome sačiniti zapisnik. Sumnju u ispunjenost opštih uslova za polaganje vozačkog ispita kandidat izražava odgovornom licu u pravnom licu koje organizuje teorijski, odnosno praktični ispit ili nadležnom organu.",
+            "Pre početka vozačkog ispita utvrđuje se identitet kandidata uvidom u ličnu kartu, za kandidata koji je strani državljanin uvidom u pasoš ili ličnu kartu za strance, a za izbeglice uvidom u izbegličku legitimaciju.",
+            "Kandidat kome je u lekarskom uverenju upisano obavezno korišćenje pomagala, ista mora koristiti prilikom polaganja praktičnog ispita.",
+            "Za vreme trajanja vozačkog ispita ne mogu biti uključeni mobilni telefoni ni kandidata, ni ispitivača.",
+            "Kandidati i ispitivači na vozačkom ispitu ne smeju biti pod uticajem psihoaktivnih supstanci ili alkohola. Kontrolu da li je kandidat ili ispitivač pod uticajem psihoaktivnih supstanci ili alkohola može zahtevati svaki od ispitivača, odnosno odgovorno lice u pravnom licu koje organizuje teorijski, odnosno praktični ispit, a kontrolu vrši ovlašćeno službeno lice Ministarstva unutrašnjih poslova koje nije ispitivač. Sumnju da je neki od ispitivača pod uticajem psihoaktivnih supstanci ili alkohola kandidat izražava odgovornom licu u pravnom licu koje organizuje teorijski, odnosno praktični ispit ili nadležnom organu.",
+            "Ispitivači međusobno moraju utvrditi da li ispunjavaju uslove u pogledu psihofizičkog stanja, pre utvrđivanja ispunjenosti uslova za polaganje teorijskog, odnosno praktičnog ispita. U slučaju da bar jedan ispitivač izrazi sumnju u psihofizičko stanje drugog ispitivača, o tome mora biti obavešten nadležni organ koji će izvršiti nadzor i o tome sačiniti zapisnik. Ukoliko se prilikom nadzora utvrdi da neki od ispitivača ne ispunjava uslove u pogledu psihofizičkog stanja, teorijski, odnosno praktični ispit, ne može se obaviti, dok se ne obezbede ispitivači koji ispunjavaju propisane uslove."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_6"
+    },
+    {
+        "title": "Član 7",
+        "texts": [
+            "Kandidati i ispitivači na vozačkom ispitu moraju se pristojno ponašati, odnosno biti pristojno obučeni.",
+            "Pristojno oblačenje ispitivača i kandidata na vozačkom ispitu, u smislu stava 1. ovog člana, podrazumeva:",
+            "1) da kandidati i ispitivači moraju biti obučeni u prigodnu odeću, koja nije providna i koja ne sadrži slike, natpise i simbole koje vređaju javni moral ili mogu biti uvredljivog sadržaja u odnosu na pojedince ili grupe;",
+            "2) da majice na bretele, odnosno majice i košulje, koje ne pokrivaju ramena, stomak i leđa nisu dozvoljene;",
+            "3) da duboki dekoltei nisu dozvoljeni;",
+            "4) da suknje, šorcevi i bermude ne mogu biti kraći od kolena u slučaju osoba ženskog pola;",
+            "5) da šorcevi i bermude nisu dozvoljeni za osobe muškog pola;",
+            "6) da papuče nisu dozvoljene;",
+            "7) da nošenje naočara za sunce, kapa, kačketa i sl. na teorijskom ispitu nije dozvoljeno.",
+            "Ispitivači međusobno moraju utvrditi da li ispunjavaju uslove u pogledu pristojnog oblačenja, pre utvrđivanja ispunjenosti uslova za polaganje teorijskog, odnosno praktičnog ispita. U slučaju da bar jedan ispitivač izrazi sumnju u pristojnost oblačenja drugog ispitivača, o tome mora biti obavešten nadležni organ koji će izvršiti nadzor i o tome sačiniti zapisnik. Ukoliko se prilikom nadzora utvrdi da neki od ispitivača ne ispunjava uslove u pogledu pristojnog oblačenja, teorijski, odnosno praktični ispit, ne može se obaviti, dok se ne obezbede ispitivači koji ispunjavaju propisane uslove."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_7"
+    },
+    {
+        "title": "Član 8",
+        "texts": [
+            "Ako kandidat ne pristupi vozačkom ispitu za koji je podneo prijavu, ispitna komisija će tu činjenicu evidentirati u izveštaju o održanom teorijskom ispitu, odnosno praktičnom ispitu (u daljem tekstu: izveštaj).",
+            "Ako kandidat odustane, odnosno napusti započeti vozački ispit, ispitna komisija će polaganje ispita oceniti negativnom ocenom (\"nije položio\"), odnosno na teorijskom ispitu utvrditi da je broj osvojenih poena nula.",
+            "Kandidatu koji nije položio teorijski, odnosno praktični ispit, ispitna komisija će saopštiti greške, odnosno razloge zbog kojih nije položio i uručiti, na njegov zahtev, jedan primerak zapisnika o teorijskom ispitu, odnosno praktičnom ispitu.",
+            "Kandidat je položio:",
+            "1) teorijski ispit, kada ispitivači utvrde da je postigao propisan broj poena za pozitivnu ocenu (\"položio\");",
+            "2) praktični ispit, kada oba ispitivača daju pozitivnu ocenu (\"položio\").",
+            "Ako kandidat otkaže teorijski ispit, odnosno praktični ispit, najkasnije tri dana pre zakazanog datuma polaganja, izmireni troškovi polaganja ispita prema nadležnom organu za taj datum polaganja biće priznati za naredno polaganje ispita.",
+            "Kandidat koji nije pristupio polaganju vozačkog ispita iz opravdanih razloga, može pravnom licu koje organizuje vozački ispit podneti zahtev za oslobađanje troškova polaganja teorijskog ispita, odnosno praktičnog ispita, pre podnošenja prijave za sledeće polaganje ispita najkasnije u roku od 30 dana od dana sprovođenja teorijskog, odnosno praktičnog, ispita na koji kandidat nije pristupio. Pravno lice i nadležni organ će, svako za svoj deo troškova, odlučiti po zahtevu kandidata i o tome ga obavestiti pisanim putem.",
+            "Ako teorijski, odnosno praktični, ispit nije održan zbog neispunjavanja opštih uslova za sprovođenje ispita koje je dužno da obezbedi pravno lice, osim u slučaju kada na to pravno lice nije moglo uticati, pravno lice je dužno da kandidatima nadoknadi troškove za polaganje ispita.",
+            "1. Teorijski ispit"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_8"
+    },
+    {
+        "title": "Član 9",
+        "texts": [
+            "Teorijski ispit se polaže na računaru putem testa, koji je sastavljen od slučajno izabranih pitanja iz ukupnog fonda pitanja, pri čemu pitanja obuhvataju sadržaj iz programa teorijske obuke.",
+            "Kandidati za vozače vozila kategorija BE, C1E, CE, D1E i DE ne polažu teorijski ispit.",
+            "Teorijski ispit se polaže u učionici pravnog lica koje organizuje vozački ispit. Za vreme sprovođenja teorijskog ispita u učionici su prisutni samo kandidati i članovi ispitne komisije, odnosno lica koja vrše nadzor nad sprovođenjem vozačkog ispita.",
+            "Pre početka teorijskog ispita, ispitna komisija upoznaje kandidate sa načinom rešavanja testa i pruža im objašnjenja koja se odnose na način sprovođenja ispita.",
+            "Nakon započinjanja teorijskog ispita nije dozvoljena komunikacija između kandidata, odnosno kandidata i ispitivača. Do završetka ispita, odnosno odustajanja od polaganja, kandidat ne može napustiti učionicu, odnosno mesto za računarom na kojem polaže ispit.",
+            "Tačan odgovor na svako pitanje donosi određeni broj poena, koji je naveden uz svako pitanje. Ukupan broj poena na testu je jednak zbiru poena koji donosi tačan odgovor na svako pojedinačno pitanje.",
+            "Teorijski ispit traje 45 minuta."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_9"
+    },
+    {
+        "title": "Član 10",
+        "texts": [
+            "Celokupan proces polaganja teorijskog ispita se snima sistemom za audio-video snimanje (u daljem tekstu: audio-video sistem) koji omogućava snimanje svih kandidata i ispitivača celim tokom polaganja teorijskog ispita.",
+            "Teorijski ispit ispitivači ne mogu započeti, odnosno nastaviti, u slučaju prestanka rada audio-video sistema."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_10"
+    },
+    {
+        "title": "Član 11",
+        "texts": [
+            "Pitanja u testu su sačinjena tako da kandidat odabere odgovor između najmanje dve ponuđene mogućnosti, od kojih je najmanje jedna tačna ili da kandidat upisivanjem cifara, odnosno brojeva ili njihovim označavanjem daje odgovor na pitanje. Ukoliko pitanje ima više tačnih odgovora, isto mora biti na odgovarajući način označeno.",
+            "Test mora sadržati uputstvo o načinu rešavanja testa i načinu sprovođenja ispita.",
+            "Pozitivnu ocenu (\"položio\") ispitivač će dati kandidatu koji je na teorijskom ispitu postigao najmanje 85% od ukupnog broja poena.",
+            "Ako se kandidat na teorijskom ispitu služi nedozvoljenim sredstvima (korišćenjem udžbenika, priručnika, beležaka, mobilnog telefona ili drugog telekomunikacionog sredstva i sl.) ili ne postupa u skladu sa dobijenim uputstvima za rešavanje testa ili pomaže drugim kandidatima ili ometa održavanje ispita, ispitivač će istog udaljiti sa ispita i polaganje ispita oceniti negativnom ocenom (\"nije položio\"), odnosno utvrditi da je broj osvojenih poena nula. U tom slučaju ispitna komisija će činjenicu \"udaljen sa ispita\" utvrditi u rubrici \"napomena\" zapisnika o teorijskom ispitu i izveštaja.",
+            "Ukoliko dođe do prekida teorijskog ispita iz razloga na koje kandidat nije mogao uticati, ispitna komisija će razlog prekida utvrditi u rubrici \"napomena\" zapisnika o teorijskom ispitu i izveštaja.",
+            "Ukoliko je kandidat u momentu prekida iz stava 5. ovog člana, prema rešenim pitanjima iz testa, ispunio uslove za dobijanje negativne ocene (\"nije položio\"), teorijski ispit će se i završiti u momentu prekida, a konačna ocena (\"nije položio\") će se izvesti na osnovu postignutog rezultata.",
+            "Ukoliko je kandidat u momentu prekida, iz stava 5. ovog člana, prema rešenim pitanjima iz testa ispunio uslove za dobijanje pozitivne ocene (\"položio\"), teorijski ispit će se i završiti u momentu prekida, a konačna ocena (\"položio\") će se izvesti na osnovu postignutog rezultata.",
+            "Ukoliko, u momentu prekida iz stava 5. ovog člana, nije moguće izvršiti ocenjivanje kandidata prema rešenim pitanjima iz testa teorijski ispit će se završiti u momentu prekida i ponoviti u celosti kada se stvore uslovi.",
+            "Ako su zbog prestanka komunikacije jednog ili više računara za teorijski ispit sa ISO, nastali prekidi teorijskog ispita koji nisu duži od 15 minuta, kandidatima koji teorijski ispit polažu na računarima kod kojih je nastao prekid komunikacije, automatski se produžava trajanje ispita za period nedostupnosti ISO. Za kandidate koji ispit polažu na računarima kod kojih je nastao prekid komunikacije, teorijski ispit se završava kada ti prekidi traju duže od 15 minuta.",
+            "Ukoliko kandidat nije mogao sprovesti teorijski ispit zbog prekida komunikacije sa ISO izmireni troškovi polaganja ispita biće priznati za naredno polaganje teorijskog ispita.",
+            "2. Praktični ispit"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_11"
+    },
+    {
+        "title": "Član 12",
+        "texts": [
+            "Za sprovođenje praktičnog ispita pravno lice sačinjava plan sprovođenja praktičnog ispita koji, u zavisnosti od kategorije vozila za koju se polaže ispit, mora sadržati najmanje petnaest ispitnih zadataka, koji su usaglašeni sa nadležnim organom i koji se moraju inovirati, dopuniti ili njihov fond proširiti za najmanje pet ispitnih zadataka, u roku koji nije duži od tri godine. Nakon svakog proširivanja, inoviranja i dopunjavanja fonda ispitnih zadataka vrši se njihovo usaglašavanje sa nadležnim organom.",
+            "Ispitni zadaci moraju biti označeni rednim brojem i sadržati: redosled sprovođenja poligonskih radnji, trasu kretanja na delu ispita koji se sprovodi u saobraćaju na javnom putu i radnje koje se izvode na pojedinim delovima trase. U pogledu vremena potrebnog za izvođenje, ispitni zadaci se sačinjavaju u skladu sa odredbama člana 28. st. 1-3. ovog pravilnika.",
+            "Prilikom sprovođenja praktičnog ispita kandidat izvodi ispitni zadatak u celosti, osim u slučajevima propisanim ovim pravilnikom.",
+            "Ukoliko uslovi odvijanja saobraćaja onemogućavaju sprovođenje praktičnog ispita na delu zadate trase kretanja ispitna komisija može izvršiti izmenu trase, na način da se najmanje odstupi od ispitnog zadatka.",
+            "U slučaju kada se poligonske radnje izvode na drugom prostoru, odnosno u saobraćaju na javnom putu, u okviru ispitnih zadataka definiše se mesto i redosled izvođenja poligonskih radnji.",
+            "Ispitni zadaci moraju biti  različiti i sačinjavaju se tako da svaki od njih omogućava ispitivačima da ocene da li je kandidat stekao potrebna znanja i veštine za samostalno i bezbedno upravljanje vozilom u saobraćaju na putu u uslovima slabog, srednjeg i jakog intenziteta saobraćaja.",
+            "Usaglašene ispitne zadatke, uz obaveznu konstataciju datuma usaglašavanja, overavaju pravno lice i nadležni organ, a potpisuje odgovorno lice u pravnom licu i u nadležnom organu.",
+            "Pravna lica su obavezna da u centralnu bazu podataka ISO unesu usaglašene ispitne zadatke."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_12"
+    },
+    {
+        "title": "Član 13",
+        "texts": [
+            "Praktični ispit se polaže iz upravljanja vozilom na uređenom poligonu za praktičnu obuku (u daljem tekstu: poligon) i u saobraćaju na javnom putu, kao jedinstven ispit.",
+            "Izuzetno od stava 1. ovog člana, deo praktičnog ispita na kojem se izvode poligonske radnje za kategorije BE, C1E, CE, D1E, DE, F i M, sprovodi se na drugom prostoru, odnosno u saobraćaju na javnom putu, samo kada u okviru poligona ne postoji prostor za izvođenje poligonskih radnji za navedene kategorije.",
+            "Izuzetno od stava 1. ovog člana, deo praktičnog ispita na kojem se izvode poligonske radnje za kategorije D1 i D, sprovodi se na drugom prostoru, odnosno prostoru na autobuskoj stanici, odnosno autobuskom stajalištu, samo kada u okviru poligona ne postoji prostor za izvođenje poligonskih radnji za navedene kategorije.",
+            "Na delu praktičnog ispita na kojem se izvode poligonske radnje, a koji se polaže na poligonu, odnosno drugom prostoru, odnosno u saobraćaju na javnom putu, odnosno prostoru na autobuskoj stanici, odnosno autobuskom stajalištu, ocenjuje se da li je kandidat izveo na propisan način svaku od poligonskih radnji određenih ovim pravilnikom.",
+            "Prilikom sprovođenja praktičnog ispita na poligonu, propisane oznake na podlozi moraju biti jasno uočljive, a saobraćajne kupe postavljene na propisan način.",
+            "Na delu praktičnog ispita koji se polaže u saobraćaju na javnom putu, ocenjuje se da li je kandidat stekao potrebno znanje i veštine za samostalno i bezbedno upravljanje vozilom u saobraćaju na putu.",
+            "Pre početka praktičnog ispita, ispitna komisija upoznaje kandidate sa načinom i uslovima polaganja ispita."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_13"
+    },
+    {
+        "title": "Član 14",
+        "texts": [
+            "Pre početka polaganja praktičnog ispita, putem računara za određivanje ispitnog zadatka i evidentiranje podataka o sprovedenom praktičnom ispitu (računar za praktični ispit), kandidatu se iz centralne baze podataka ISO određuje ispitni zadatak, slučajnim izborom jednog ispitnog zadatka iz fonda svih ispitnih zadataka pravnog lica koje sprovodi praktični ispit.",
+            "Ispitna komisija daje kandidatu izabrani ispitni zadatak u pisanom obliku, radi upoznavanja sa istim i pruža potrebna objašnjenja o načinu i uslovima polaganja praktičnog ispita.",
+            "Tokom ispita, ispitivači kandidatu blagovremeno najavljuju promenu pravca, odnosno smera kretanja u skladu sa ispitnim zadatkom.",
+            "Način komuniciranja između kandidata i ispitivača, odnosno između ispitivača, ne sme imati uticaj na postupanje kandidata tokom ispita, osim u slučaju neposredne opasnosti.",
+            "U delu praktičnog ispita koji se polaže u saobraćaju na javnom putu, za kategorije motornih vozila AM, A1, A2, A, B1, F i M, ispitivači kandidatu blagovremeno najavljuju promenu pravca, odnosno smera kretanja u skladu sa ispitnim zadatkom, putem odgovarajuće komunikacione opreme."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_14"
+    },
+    {
+        "title": "Član 15",
+        "texts": [
+            "Na delu praktičnog ispita koji se sprovodi na poligonu kandidat za vozača motornih vozila kategorija AM, A1, A2 i A izvodi sledeće poligonske radnje:",
+            "1) vožnja po pravcu i zaustavljanje;",
+            "2) \"slalom\" vožnja;",
+            "3) vožnja putanjom u obliku broja \"8\";",
+            "4) kočenje i zaustavljanje.",
+            "Radnje iz stava 1. ovog člana izvode se na sledeći način:",
+            "1)vožnja po pravcu i zaustavljanje, izvodi se u označenom koridoru, prema situaciji na slici 1. koja je data u Prilogu 1. Grafički prikaz načina izvođenja poligonskih radnji pri sprovođenju praktičnog ispita na poligonu (u daljem tekstu: Prilog 1), koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo. Kandidat od polazne linije \"m\", ubrzava do brzine od 5 km/h i zaustavlja se u polju \"I\", tako da kontaktna površina prednjeg točka sa podlogom bude u tom polju. Iz tog polja kandidat nastavlja kretanje ubrzavajući do brzine od 15-20 km/h, nakon čega usporava i zaustavlja se u polju \"II\", tako da najisturenija tačka prednjeg točka vozila, ne prođe poprečnu vertikalnu graničnu ravan tog polja, odnosno koridora. Nakon svakog polaska vozilom kandidat noge stavlja na držač za noge, a kod zaustavljanja oslanja se jednom nogom na tlo;",
+            "2)\"slalom\" vožnja, izvodi se u označenom koridoru, prema situaciji na slici 2. koja je data u Prilogu 1. Kandidat se od polazne linije \"m\" vozilom kreće bez zaustavljanja, između najmanje 7 saobraćajnih kupa, do ciljne linije \"n\", iza koje se zaustavlja, pri čemu kontaktna površina zadnjeg točka sa podlogom mora biti iza ciljne linije. Tokom izvođenja ove radnje kandidat nogom ne dodiruje podlogu;",
+            "3)vožnja putanjom u obliku broja \"8\", izvodi se u označenom prostoru, prema situaciji na slici 3. koja je data u Prilogu 1. Kandidat se od polazno-ciljne linije \"m\" kreće vozilom, bez zaustavljanja, dva puta putanjom u obliku broja \"8\", a završava radnju prolaskom preko polazno-ciljne linije \"m\". Tokom izvođenja ove radnje kandidat nogom ne dodiruje podlogu;",
+            "4)kočenje i zaustavljanje, izvodi se u označenom koridoru na dva načina, prema situaciji na slici 4. koja je data u Prilogu 1. Na prvi način, kandidat od polazne linije \"m\", do linije kočenja \"n\" ubrzava do brzine od najmanje 30 km/h, nakon čega usporava, do polja \"I\", delujući neprekidno na obe komande kočnog sistema, da bi se zaustavio u tom polju, tako da kontaktna površina prednjeg točka sa podlogom bude u tom polju, a horizontalna projekcija najisturenije tačke prednjeg točka vozila na podlogu ne sme biti iza krajnje linije \"p\". Na drugi način, kandidat istom brzinom dolazi do linije kočenja \"n\", nakon čega forsiranim neprekidnim delovanjem na obe komande kočnog sistema ostvaruje što kraći put zaustavljanja, tako da na kraju kočenja horizontalna projekcija najisturenije tačke prednjeg točka vozila na podlogu ne sme biti iza krajnje linije \"p\". U oba slučaja sila na komandama se mora dozirati tako da ne dođe do blokiranja bilo kojeg točka.",
+            "Sve radnje iz stava 1. ovog člana kandidat izvodi tako da ni on ni vozilo ne dolaze u kontakt sa saobraćajnim kupama.",
+            "Svaku radnju kandidat izvodi u jednom pokušaju, osim radnje iz stava 1. tačka 4) ovog člana koja se može izvoditi najviše u dva pokušaja.",
+            "Pri izvođenju radnji iz stava 1. tač. 1) i 4) ovog člana, kao pomoćno sredstvo za utvrđivanje pravilnosti izvođenja radnje koristi se letvica koja se postavlja u horizontalni položaj na saobraćajnim kupama, u poprečnoj vertikalnoj graničnoj ravni na kraju polja \"II\", odnosno polja \"I\"."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_15"
+    },
+    {
+        "title": "Član 16",
+        "texts": [
+            "Na delu praktičnog ispita koji se sprovodi na poligonu kandidat za vozača motornih vozila kategorija B1 i B izvodi sledeće poligonske radnje:",
+            "1) vožnja napred sa promenom stepena prenosa i unazad sa promenom saobraćajne trake;",
+            "2) parkiranje vozila podužno, vožnjom unazad;",
+            "3) parkiranje vozila pod pravim uglom, vožnjom unazad;",
+            "4) polukružno okretanje vozila sa najviše tri potpuna manevra na prostoru širine dve saobraćajne trake;",
+            "5) zaustavljanje i polazak vozilom na putu sa usponom;",
+            "6) kočenje i zaustavljanje.",
+            "Radnje iz stava 1. ovog člana izvode se na sledeći način:",
+            "1)vožnja napred sa promenom stepena prenosa i unazad sa promenom saobraćajne trake, izvodi se prema situaciji na slici 5. koja je data u Prilogu 1. Kandidat od polaznog polja \"I\", ubrzava vozilo sa promenom stepena prenosa i zaustavlja se u zaustavnom polju \"II\", pri čemu horizontalna projekcija najisturenije tačke prednjeg dela vozila na podlogu mora biti u tom polju. Iz tog položaja vozilo se kreće hodom unazad uz promenu saobraćajne trake, prolazeći kroz prolazno polje \"III\" i ponovnom promenom saobraćajne trake vraća se na polazno polje \"I\", pri čemu se celo vozilo zaustavlja u tom polju. Prilikom kretanja vozila hodom unazad kandidat koristi vozačka ogledala, odnosno gleda preko ramena. Tokom kretanja hodom unazad od zaustavnog polja \"II\" do polaznog polja \"I\" vozilo se može zaustaviti najviše 2 puta i izvršiti jedan korak korekcije (jedan korak korekcije je kretanje vozilom suprotno zadatom smeru);",
+            "2)parkiranje vozila podužno, vožnjom unazad, izvodi se prema situaciji na slici 6. koja je data u Prilogu 1. Kandidat vozilom iz položaja \"1\" kreće se hodom unapred pravolinijski do položaja \"2\", odakle jednim hodom unazad i najviše jednim hodom unapred, vozilo zaustavlja na parking mesto, pri čemu celo vozilo mora biti u polju parking mesta. Prilikom izvođenja ove radnje kandidat može prednjim točkom preći razdelnu liniju, a u slučaju drugog pokušaja radnju može započeti iz položaja \"2\";",
+            "3)parkiranje vozila pod pravim uglom, vožnjom unazad, izvodi se prema situaciji na slici 7. koja je data u Prilogu 1. Kandidat vozilom iz položaja \"1\" kreće se hodom unapred do položaja \"2\", koji zauzima na način koji mu omogućava da kretanjem hodom unazad vozilo zaustavi na parking mestu, pri čemu celo vozilo mora biti u polju parking mesta;",
+            "4)polukružno okretanje vozila sa najviše tri potpuna manevra na prostoru širine dve saobraćajne trake, izvodi se prema situaciji na slici 8. koja je data u Prilogu 1. Kandidat vozilom iz položaja \"1\" kreće se hodom unapred do položaja \"2\", iz koga se hodom unazad kreće do položaja \"3\", a zatim hodom unapred vozilom zauzima položaj \"4\" na drugoj saobraćajnoj traci namenjenoj za kretanje u suprotnom smeru;",
+            "5)zaustavljanje i polazak vozilom na putu sa usponom, izvodi se prema situaciji na slici 9. koja je data u Prilogu 1. Kandidat zaustavlja vozilo na putu sa usponom, pri čemu su svi točkovi vozila na usponu, a zatim kreće vozilom hodom unapred, pri čemu se vozilo ne sme pokrenuti unazad;",
+            "6)kočenje i zaustavljanje, izvodi se prema situaciji\n  na slici 10. koja je data u Prilogu 1. Kandidat od polazne linije \"m\" do\n  linije kočenja \"n\" ubrzava\n  do brzine od najmanje 30 km/h, nakon čega usporava forsiranim neprekidnim delovanjem\n  na komandu radne kočnice, i zaustavlja se tako da horizontalna projekcija najisturenije\ntačke prednjeg dela vozila na podlogu ne sme biti iza krajnje linije \"p\".\nSila na komandi se mora dozirati tako da ne dođe do blokiranja bilo kog točka.",
+            "Kod izvođenja radnje iz stava 1. tačka 6) ovog člana, jedan od ispitivača mora sedeti, u motornom vozilu B kategorije, na mestu sa duplim nožnim komandama.",
+            "Svaku radnju kandidat izvodi u jednom pokušaju, osim radnji iz stava 1. tač. 2), 3) i 6) ovog člana koje se mogu izvoditi najviše u dva pokušaja."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_16"
+    },
+    {
+        "title": "Član 17",
+        "texts": [
+            "Na delu praktičnog ispita koji se sprovodi na poligonu ili drugom prostoru, odnosno ulici u naseljenom mestu sa slabim intenzitetom saobraćaja, kandidat za vozača vozila kategorija BE izvodi sledeće poligonske radnje:",
+            "1) odvajanje i spajanje vučnog i priključnog vozila;",
+            "2) vožnja napred sa promenom stepena prenosa i unazad u istoj saobraćajnoj traci;",
+            "3) vožnja unazad sa skretanjem ulevo, odnosno udesno, pod pravim uglom.",
+            "Radnje iz stava 1. ovog člana izvode se na sledeći način:",
+            "1)odvajanje i spajanje vučnog i priključnog vozila, izvodi se prema situaciji na slici 11. koja je data u Prilogu 1. Kandidat odvaja vučno od priključnog vozila pri čemu obezbeđuje priključno vozilo aktiviranjem parkirne kočnice, i nakon pokretanja vučnog vozila isto zaustavlja uporedo sa priključnim vozilom. Spajanje vozila kandidat vrši tako što se iz položaja \"1\" kreće hodom unapred do položaja \"2\", iz koga se hodom unazad kreće do priključnog vozila, gde se vrši njihovo spajanje. Spajanje vučnog i priključnog vozila vrši instruktor vožnje koji i navodi kandidata, pri čemu kandidat vrši spajanje električnih vodova. Tokom kretanja od položaja \"2\" do mesta spajanja, kandidat može zaustavljati vučno vozilo i po potrebi izvršiti najviše dva koraka korekcije;",
+            "2)vožnja napred sa promenom stepena prenosa i unazad u istoj saobraćajnoj traci, izvodi se prema situaciji na slici 12. koja je data u Prilogu 1. Kandidat se skupom vozila, od polaznog polja \"I\", kreće saobraćajnom trakom, ubrzava vozilo sa promenom stepena prenosa i zaustavlja u zaustavnom polju \"II\", pri čemu se ceo skup vozila mora nalaziti u tom polju. Iz zaustavnog položaja skup vozila se kreće hodom unazad bez promene saobraćajne trake i zaustavlja u polaznom polju \"I\", pri čemu se ceo skup vozila mora nalaziti u tom polju. Tokom kretanja od polja \"II\" do polja \"I\", kandidat može zaustavljati skup vozila i po potrebi izvršiti najviše četiri koraka korekcije;",
+            "3)vožnja unazad sa skretanjem ulevo, odnosno udesno, pod pravim uglom, izvodi se prema situaciji na sl. 13a i 13b koje su date u Prilogu 1. Kandidat se skupom vozila, iz polaznog položaja \"1\", kreće hodom unazad sa skretanjem ulevo, odnosno udesno, pod pravim uglom i zaustavlja se u položaju \"2\". Pri tome horizontalna projekcija najisturenijeg dela vučnog vozila na podlogu mora biti iza linije \"m\", ceo skup vozila mora biti u označenom prostoru za izvođenje radnje i u položaju koji omogućava odlazak, hodom unapred, na položaj \"3\". Tokom kretanja od položaja \"1\" do položaja \"2\", kandidat može zaustavljati skup vozila i po potrebi izvršiti najviše četiri koraka korekcije.",
+            "Svaku radnju kandidat izvodi u jednom pokušaju."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_17"
+    },
+    {
+        "title": "Član 18",
+        "texts": [
+            "Na delu praktičnog ispita koji se sprovodi na poligonu kandidat za vozača motornih vozila kategorija C1 i C izvodi sledeće poligonske radnje:",
+            "1) vožnja napred sa promenom stepena prenosa i unazad sa promenom saobraćajne trake;",
+            "2) parkiranje vozila pod pravim uglom, vožnjom unazad, zbog utovara - istovara.",
+            "Radnje iz stava 1. ovog člana izvode se na sledeći način:",
+            "1)vožnja napred sa promenom stepena prenosa i unazad sa promenom saobraćajne trake, izvodi se prema situaciji na slici 14. koja je data u Prilogu 1. Kandidat se vozilom, od polaznog polja \"I\", kreće saobraćajnom trakom, ubrzava vozilo sa promenom stepena prenosa i zaustavlja se u zaustavnom polju \"II\", pri čemu celo vozilo mora biti u tom polju. Iz zaustavnog položaja vozilo se kreće hodom unazad prolazeći kroz prolazno polje \"III\", nakon čega menja saobraćajnu traku i zaustavlja se u zaustavnom polju \"IV\", pri čemu celo vozilo mora biti u tom polju. Prilikom kretanja vozila hodom unazad kandidat koristi vozačka ogledala. Tokom izvođenja radnje od zaustavnog polja \"II\" do zaustavnog polja \"IV\", vozilo se može zaustavljati najviše dva puta i po potrebi izvršiti najviše jedan korak korekcije;",
+            "2)parkiranje vozila pod pravim uglom, vožnjom unazad, zbog utovara - istovara, izvodi se prema situaciji na slici 15. koja je data u Prilogu 1. Kandidat se vozilom iz položaja \"1\", određenim na slici, kreće unazad i skretanjem udesno pod pravim uglom, zaustavlja se u zaustavnom polju \"I\", pri čemu celo vozilo mora biti u tom polju sa položajem određenim na slici. Tokom kretanja od položaja \"1\" do zaustavnog polja \"I\", kandidat može zaustavljati vozilo i po potrebi izvršiti najviše jedan korak korekcije.",
+            "Svaku radnju kandidat izvodi u jednom pokušaju."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_18"
+    },
+    {
+        "title": "Član 19",
+        "texts": [
+            "Na delu praktičnog ispita koji se sprovodi na poligonu ili drugom prostoru, odnosno ulici u naseljenom mestu sa slabim intenzitetom saobraćaja, kandidat za vozača vozila kategorija C1E i CE izvodi sledeće poligonske radnje:",
+            "1) odvajanje i spajanje vučnog i priključnog vozila;",
+            "2) vožnja napred sa promenom stepena prenosa i unazad u istoj saobraćajnoj traci;",
+            "3) vožnja unazad sa skretanjem ulevo, odnosno udesno, pod pravim uglom.",
+            "Radnje iz stava 1. ovog člana izvode se na sledeći način:",
+            "1)odvajanje i spajanje vučnog i priključnog vozila, izvodi se prema situaciji na slici 16. koja je data u Prilogu 1. Kandidat odvaja vučno od priključnog vozila pri čemu obezbeđuje priključno vozilo aktiviranjem parkirne kočnice, i nakon pokretanja vučnog vozila isto zaustavlja uporedo sa priključnim vozilom. Spajanje vozila kandidat vrši tako što se iz položaja \"1\" kreće hodom unapred do položaja \"2\", iz koga se hodom unazad kreće do priključnog vozila, gde se vrši njihovo spajanje. Spajanje vučnog i priključnog vozila vrši instruktor vožnje koji i navodi kandidata, pri čemu kandidat vrši spajanje električnih vodova i vazdušnih vodova kočnih sistema. Tokom kretanja od položaja \"2\" do mesta spajanja, kandidat može zaustavljati vučno vozilo i po potrebi izvršiti najviše četiri koraka korekcije;",
+            "2)vožnja napred sa promenom stepena prenosa i unazad u istoj saobraćajnoj traci, izvodi se prema situaciji na slici 17. koja je data u Prilogu 1. Kandidat se skupom vozila, od polaznog polja \"I\", kreće saobraćajnom trakom, ubrzava vozilo sa promenom stepena prenosa i zaustavlja se u zaustavnom polju \"II\", pri čemu se ceo skup vozila mora nalaziti u tom polju. Iz zaustavnog položaja skup vozila se kreće hodom unazad bez promene saobraćajne trake i zaustavlja u polaznom polju \"I\", pri čemu se ceo skup vozila mora nalaziti u tom polju. Tokom kretanja od polja \"II\" do polja \"I\", kandidat može zaustavljati skup vozila i po potrebi izvršiti najviše četiri koraka korekcije;",
+            "3)vožnja unazad sa skretanjem ulevo, odnosno udesno, pod pravim uglom, izvodi se prema situaciji na sl. 18a i 18b koje su date u Prilogu 1. Kandidat se skupom vozila, iz polaznog položaja \"1\", kreće hodom unazad sa skretanjem ulevo, odnosno udesno, pod pravim uglom i zaustavlja se u položaju \"2\". Pri tome horizontalna projekcija najisturenijeg dela vučnog vozila na podlogu mora biti iza linije \"m\", ceo skup vozila mora biti u označenom prostoru za izvođenje radnje i u položaju koji omogućava odlazak, hodom unapred, na položaj \"3\". Tokom kretanja od položaja \"1\" do položaja \"2\", kandidat može zaustavljati skup vozila i po potrebi izvršiti najviše četiri koraka korekcije.",
+            "Svaku radnju kandidat izvodi u jednom pokušaju."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_19"
+    },
+    {
+        "title": "Član 20",
+        "texts": [
+            "Na delu praktičnog ispita koji se sprovodi na poligonu ili na autobuskoj stanici, odnosno autobuskom stajalištu, odnosno drugom prostoru kandidat za vozača motornih vozila kategorija D1 i D izvodi sledeće poligonske radnje:",
+            "1) zaustavljanje vozila na peronu, radi izlaska i ulaska putnika i polazak sa perona;",
+            "2) zaustavljanje vozila na autobuskom stajalištu, radi izlaska i ulaska putnika i polazak sa autobuskog stajališta.",
+            "Radnje iz stava 1. ovog člana izvode se na sledeći način:",
+            "1)zaustavljanje vozila na peronu, radi izlaska i ulaska putnika i polazak sa perona, izvodi se prema situaciji na slici 19. koja je data u Prilogu 1. Kandidat se vozilom iz položaja \"1\", kreće hodom unapred do položaja \"2\", gde se zaustavlja, pri čemu prednji točkovi vozila ne smeju preći oznaku prostora, odnosno ivičnjak perona i u tom položaju vrši otvaranje i zatvaranje vrata za putnike. Nakon zatvaranja vrata, kandidat se vozilom kreće hodom unazad do položaja \"1\", a zatim hodom unapred nastavlja kretanje;",
+            "2)zaustavljanje vozila na autobuskom stajalištu, radi izlaska i ulaska putnika i polazak sa autobuskog stajališta, izvodi se prema situaciji na slici 20. koja je data u Prilogu 1. Kandidat se vozilom iz položaja \"1\", kreće hodom unapred do položaja \"2\", gde se zaustavlja, pri čemu se celim vozilom nalazi u polju autobuskog stajališta i u tom položaju vrši otvaranje i zatvaranje vrata za putnike. Nakon zatvaranja vrata kandidat vozilom, hodom unapred, nastavlja kretanje.",
+            "Svaku radnju kandidat izvodi u jednom pokušaju."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_20"
+    },
+    {
+        "title": "Član 21",
+        "texts": [
+            "Na delu praktičnog ispita koji se sprovodi na poligonu ili drugom prostoru, odnosno ulici u naseljenom mestu sa slabim intenzitetom saobraćaja kandidat za vozača vozila kategorija D1E i DE izvodi sledeće poligonske radnje:",
+            "1) odvajanje i spajanje vučnog i priključnog vozila;",
+            "2) vožnja napred sa promenom stepena prenosa i unazad u istoj saobraćajnoj traci;",
+            "3) vožnja unazad sa skretanjem ulevo, odnosno udesno, pod pravim uglom.",
+            "Radnje iz stava 1. ovog člana izvode se na sledeći način:",
+            "1)odvajanje i spajanje vučnog i priključnog vozila, izvodi se prema situaciji na slici 21. koja je data u Prilogu 1. Kandidat odvaja vučno od priključnog vozila pri čemu obezbeđuje priključno vozilo aktiviranjem parkirne kočnice, i nakon pokretanja vučnog vozila isto zaustavlja uporedo sa priključnim vozilom. Spajanje vozila kandidat vrši tako što se iz položaja \"1\" kreće hodom unapred do položaja \"2\", iz koga se hodom unazad kreće do priključnog vozila, gde se vrši njihovo spajanje. Spajanje vučnog i priključnog vozila vrši instruktor vožnje koji i navodi kandidata, pri čemu kandidat vrši spajanje električnih vodova, odnosno kočnih vodova ukoliko isti postoje. Tokom kretanja od položaja \"2\" do mesta spajanja, kandidat može zaustavljati vučno vozilo i po potrebi izvršiti najviše četiri koraka korekcije;",
+            "2)vožnja napred sa promenom stepena prenosa i unazad u istoj saobraćajnoj traci, izvodi se prema situaciji na slici 22. koja je data u Prilogu 1. Kandidat se skupom vozila, od polaznog polja \"I\", kreće saobraćajnom trakom, ubrzava vozilo sa promenom stepena prenosa i zaustavlja se u zaustavnom polju \"II\", pri čemu se ceo skup vozila mora nalaziti u tom polju. Iz zaustavnog položaja skup vozila se kreće hodom unazad bez promene saobraćajne trake i zaustavlja u polaznom polju \"I\", pri čemu se ceo skup vozila mora nalaziti u tom polju. Tokom kretanja od polja \"II\" do polja \"I\", kandidat može zaustavljati skup vozila i po potrebi izvršiti najviše četiri koraka korekcije;",
+            "3)vožnja unazad sa skretanjem ulevo, odnosno udesno, pod pravim uglom, izvodi se prema situaciji na sl. 23a i 23b koje su date u Prilogu 1. Kandidat se skupom vozila, iz polaznog položaja \"1\", kreće hodom unazad sa skretanjem ulevo, odnosno udesno, pod pravim uglom i zaustavlja se u položaju \"2\". Pri tome horizontalna projekcija najisturenijeg dela vučnog vozila na podlogu mora biti iza linije \"m\", ceo skup vozila mora biti u označenom prostoru za izvođenje radnje i u položaju koji omogućava odlazak, hodom unapred, na položaj \"3\". Tokom kretanja od položaja \"1\" do položaja \"2\", kandidat može zaustavljati skup vozila i po potrebi izvršiti najviše četiri koraka korekcije.",
+            "Svaku radnju kandidat izvodi u jednom pokušaju."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_21"
+    },
+    {
+        "title": "Član 22",
+        "texts": [
+            "Na delu praktičnog ispita koji se sprovodi na poligonu ili drugom prostoru, odnosno ulici u naseljenom mestu sa slabim intenzitetom saobraćaja kandidat za vozača motornih vozila kategorije F izvodi sledeće poligonske radnje:",
+            "1) odvajanje i spajanje vučnog i priključnog vozila;",
+            "2) vožnja napred sa promenom stepena prenosa i unazad u istoj saobraćajnoj traci;",
+            "3) vožnja unazad sa skretanjem ulevo, odnosno udesno pod pravim uglom.",
+            "Radnje iz stava 1. ovog člana izvode se na sledeći način:",
+            "1)odvajanje i spajanje vučnog i priključnog vozila, izvodi se prema situaciji na slici 24. koja je data u Prilogu 1. Kandidat odvaja vučno od priključnog vozila pri čemu obezbeđuje priključno vozilo aktiviranjem parkirne kočnice, i nakon pokretanja vučnog vozila isto zaustavlja uporedo sa priključnim vozilom. Spajanje vozila kandidat vrši tako što se iz položaja \"1\" kreće hodom unapred do položaja \"2\", iz koga se hodom unazad kreće do priključnog vozila, gde se vrši njihovo spajanje. Spajanje vučnog i priključnog vozila vrši instruktor vožnje koji i navodi kandidata, pri čemu kandidat vrši spajanje električnih vodova, odnosno kočnih vodova ukoliko isti postoje. Tokom kretanja od položaja \"2\" do mesta spajanja, kandidat može zaustavljati vučno vozilo i po potrebi izvršiti najviše četiri koraka korekcije;",
+            "2)vožnja napred sa promenom stepena prenosa i unazad u istoj saobraćajnoj traci, izvodi se prema situaciji na slici 25. koja je data u Prilogu 1. Kandidat se skupom vozila, od polaznog polja \"I\", kreće saobraćajnom trakom, ubrzava vozilo sa promenom stepena prenosa i zaustavlja se u zaustavnom polju \"II\", pri čemu se ceo skup vozila mora nalaziti u tom polju. Iz zaustavnog položaja skup vozila se kreće hodom unazad bez promene saobraćajne trake i zaustavlja u polaznom polju \"I\", pri čemu se ceo skup vozila mora nalaziti u tom polju. Tokom kretanja od polja \"II\" do polja \"I\", kandidat može zaustavljati skup vozila i po potrebi izvršiti najviše četiri koraka korekcije;",
+            "3)vožnja unazad sa skretanjem ulevo, odnosno udesno, pod pravim uglom, izvodi se prema situaciji na sl. 26a i 26b koje su date u Prilogu 1. Kandidat se skupom vozila, iz polaznog položaja \"1\", kreće hodom unazad sa skretanjem ulevo, odnosno udesno, pod pravim uglom i zaustavlja se u položaju \"2\". Pri tome horizontalna projekcija najisturenijeg dela vučnog vozila na podlogu mora biti iza linije \"m\", ceo skup vozila mora biti u označenom prostoru za izvođenje radnje i u položaju koji omogućava odlazak, hodom unapred, na položaj \"3\". Tokom kretanja od položaja \"1\" do položaja \"2\", kandidat može zaustavljati skup vozila i po potrebi izvršiti najviše četiri koraka korekcije.",
+            "Svaku radnju kandidat izvodi u jednom pokušaju."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_22"
+    },
+    {
+        "title": "Član 23",
+        "texts": [
+            "Na delu praktičnog ispita koji se sprovodi na poligonu ili drugom prostoru, odnosno ulici u naseljenom mestu sa slabim intenzitetom saobraćaja kandidat za vozača motornih vozila kategorije M izvodi sledeće poligonske radnje:",
+            "1) vožnja napred sa promenom stepena prenosa i unazad u istoj saobraćajnoj traci;",
+            "2) kočenje i zaustavljanje.",
+            "Radnje iz stava 1. ovog člana izvode se na sledeći način:",
+            "1)vožnja napred sa promenom stepena prenosa i unazad u istoj saobraćajnoj traci, izvodi se prema situaciji na slici 27. koja je data u Prilogu 1. Kandidat se vozilom, od polaznog polja \"I\", kreće saobraćajnom trakom, ubrzava vozilo sa promenom stepena prenosa i zaustavlja se u zaustavnom polju \"II\", pri čemu se celo vozilo mora nalaziti u tom polju. Iz zaustavnog položaja skup vozila se kreće hodom unazad bez promene saobraćajne trake i zaustavlja u polaznom polju \"I\", pri čemu se celo vozilo mora nalaziti u tom polju. Tokom kretanja od polja \"II\" do polja \"I\", kandidat može zaustavljati vozilo i po potrebi izvršiti najviše četiri koraka korekcije;",
+            "2)kočenje i zaustavljanje, izvodi se prema situaciji na slici 28. koja je data u Prilogu 1. Kandidat od polazne linije \"m\", do linije kočenja \"n\" ubrzava do brzine od najmanje 15 km/h, nakon čega usporava, forsiranim neprekidnim delovanjem na komande radne kočnice, i zaustavlja se tako da horizontalna projekcija najisturenije tačke prednjeg dela vozila na podlogu ne sme biti iza krajnje linije \"p\". Sila na komandi se mora dozirati tako da ne dođe do blokiranja bilo kog točka.",
+            "Svaku radnju kandidat izvodi u jednom pokušaju."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_23"
+    },
+    {
+        "title": "Član 24",
+        "texts": [
+            "Oznake na poligonu koje određuju granice prostora za izvođenje određene radnje su deo tog prostora, odnosno smatra se da prilikom izvođenja svih radnji na poligonu vozilo nije u označenom prostoru, ako je površina kontakta točka i podloge van tog prostora.",
+            "Prilikom izvođenja radnji kod kojih je propisano obavezno postavljanje saobraćajnih kupa, kao pomoćno sredstvo u kupe mogu biti postavljene letvice u vertikalnom položaju, pri čemu vozilo ne sme doći u kontakt sa bilo kojom od postavljenih kupa i letvica, kao i prilikom napuštanja prostora na kojem je radnja izvedena.",
+            "Kod svih radnji sa zaustavljanjem vozila, kandidat može okretati točak upravljača i kada se vozilo ne kreće. Prilikom izvođenja svih propisanih radnji nije dozvoljeno otvaranje vrata na vozilu, a može biti otvoren prozor kroz koji kandidat određuje položaj vozila u odnosu na oznake prostora na kojem se izvode radnje i postavljene saobraćajne kupe.",
+            "Prilikom izvođenja svih radnji na poligonu nije potrebno uključivati pokazivače pravca, osim na poligonima sa kolovoznim, odnosno saobraćajnim trakama, na kojima se kreću vozila radi pristupa prostorima na kojima se izvode propisane radnje, kada se propisane radnje vozilom izvode na tim trakama.",
+            "Smatra se da je celo vozilo zaustavljeno u određenom polju (prostor određen položajem saobraćajnih kupa, odnosno oznakama), ako se sve tačke horizontalne projekcije vozila na podlogu nalaze u tom polju.",
+            "Na praktičnom ispitu kandidata za vozača vozila kategorija BE, C1E, CE, D1E, DE, F i M, prilikom izvođenja poligonske radnje \"vožnja napred sa promenom stepena prenosa i unazad u istoj saobraćajnoj traci\", prolazak najisturenijim prednjim delom skupa, odnosno najisturenijim zadnjim delom skupa, kroz poprečni presek na krajevima polja I, odnosno II, ne smatra se greškom."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_24"
+    },
+    {
+        "title": "Član 25",
+        "texts": [
+            "Prilikom dela praktičnog ispita u saobraćaju na javnom putu za kandidata za vozača motornih vozila kategorija AM, A1, A2, A, B1, F i M ispitna komisija se nalazi u drugom vozilu iz kojeg prati kandidata.",
+            "U slučaju da vozilo S, odnosno S1 kategorije nema sedišta za oba ispitivača, ispitivač iz pravnog lica se nalazi u tom vozilu, a ispitivač iz nadležnog organa u drugom vozilu iz kojeg prati vožnju kandidata.",
+            "Na način iz stava 2. ovog člana, postupa se i prilikom ispita za vozače motornih vozila kategorije S1E i SE."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_25"
+    },
+    {
+        "title": "Član 26",
+        "texts": [
+            "Deo praktičnog ispita u saobraćaju na javnom putu sprovodi se u naseljenom mestu koje ispunjava propisane uslove za održavanje praktičnog ispita kategorije za koju kandidat polaže ispit, kao i na putu van naselja.",
+            "Na delu praktičnog ispita koji se sprovodi u saobraćaju na javnom putu, utvrđuje se da li kandidat na propisan, odnosno na pravilan način, priprema vozilo, izvodi radnje, postupa u saobraćaju, kao i da li poseduje tehniku vožnje za samostalno i bezbedno upravljanje vozilom u uslovima slabog, srednjeg i jakog intenziteta saobraćaja.",
+            "Prilikom praktičnog ispita za vozače vozila kategorije C1, C, D1, D, C1E, CE, D1E i DE, deo ispita se mora održati i na putu van naselja, na deonici između dva naseljena mesta, ako postoji mogućnost.",
+            "Pod pripremom vozila se podrazumeva:",
+            "1) vizuelna provera ispravnosti vozila - pneumatika, uređaja za osvetljavanje puta, uređaja za označavanje vozila, uređaja za davanje svetlosnih znakova, uređaja za kontrolu i davanje znakova i uređaja koji omogućavaju normalnu vidljivost;",
+            "2) bezbedan ulazak u vozilo;",
+            "3) podešavanje sedišta i naslona za glavu;",
+            "4) podešavanje vozačkih ogledala;",
+            "5) vezivanje sigurnosnog pojasa;",
+            "6) startovanje motora - stavljanje ključa u kontakt bravu, isključivanje spojnice, izbor neutralnog položaja na menjaču brzina, aktiviranje motora;",
+            "7) uključivanje kratkih, odnosno dnevnih svetala.",
+            "Radnje koje, po pravilu kandidat izvodi u saobraćaju na javnom putu su:",
+            "1) uključivanje u saobraćaj - uveravanje da se uključivanje može izvršiti na bezbedan način, uključivanje pokazivača pravca, zauzimanje položaja vozilom u saobraćajnoj traci;",
+            "2) kretanje po putu - izbor saobraćajne trake za kretanje, održavanje pravca kretanja, držanje odstojanja, držanje rastojanja u odnosu na desnu ivicu kolovoza, prepreke na putu, vozila i druge učesnike u saobraćaju, bezbedno usporavanje, prilagođavanje brzine kretanja prema uslovima puta i stanju saobraćaja, prilagođavanje brzine kretanja prema pravilima saobraćaja, procena gustine saobraćaja za ulazak u raskrsnicu;",
+            "3) promena saobraćajne trake - uveravanje u mogućnost bezbednog izvođenja promene saobraćajne trake, uključivanje pokazivača pravca;",
+            "4) prestrojavanje - uveravanje u mogućnost bezbednog izvođenja prestrojavanja, uključivanje pokazivača pravca, zauzimanje položaja na saobraćajnoj traci predviđenoj za prolazak kroz raskrsnicu u smeru u kojem se nastavlja kretanje;",
+            "5) skretanje vozila - uveravanje u mogućnost bezbednog izvođenja skretanja, uključivanje pokazivača pravca, zauzimanje položaja za skretanje, prilagođavanje brzine kretanja, kretanje kroz raskrsnicu odgovarajućom putanjom;",
+            "6) polukružno okretanje - uveravanje u mogućnost bezbednog polukružnog okretanja, uključivanje pokazivača pravca, zauzimanje položaja za polukružno okretanje, prilagođavanje brzine kretanja, kretanje kroz raskrsnicu odgovarajućom putanjom;",
+            "7) mimoilaženje - uveravanje u mogućnost bezbednog mimoilaženja, držanje rastojanja u odnosu na vozila i druge učesnike u saobraćaju, propuštanje vozila u slučaju prepreke;",
+            "8) obilaženje vozila, odnosno prepreke - uveravanje u mogućnost bezbednog izvođenja obilaženja, uključivanje pokazivača pravca, zauzimanje položaja za obilaženje, prilagođavanje brzine kretanja, držanje odstojanja, držanje rastojanja u odnosu na vozilo, odnosno prepreku koja se obilazi, povratak u saobraćajnu traku kojom se vozilo kretalo pre obilaženja;",
+            "9) preticanje - uveravanje u mogućnost bezbednog izvođenja preticanja, uključivanje pokazivača pravca, zauzimanje položaja za preticanje, prilagođavanje brzine kretanja, držanje odstojanja, pomeranje vozila radi preticanja, držanje rastojanja u odnosu na vozilo koje se pretiče, stalno praćenje ponašanja preticanog vozila, ostvarivanje razlike u brzini kretanja, povratak u saobraćajnu traku kojom se vozilo kretalo pre preticanja;",
+            "10) prelazak preko železničke pruge - uočavanje prelaza puta preko železničke pruge, prilagođavanje brzine kretanja, uveravanje u mogućnost bezbednog prelaska, bezbedno zaustavljanje i bezbedan prelazak preko železničke pruge;",
+            "11) odnos prema pešacima - uočavanje obeleženog pešačkog prelaza, uočavanje pešaka u blizini i na pešačkom prelazu, prilagođavanje brzine kretanja, prelazak preko pešačkog prelaza;",
+            "12) zaustavljanje i parkiranje - uveravanje da se zaustavljanje može izvršiti na propisan i bezbedan način, uključivanje pokazivača pravca, prilagođavanje brzine kretanja, zaustavljanje uz ivicu kolovoza, bezbedno izlaženje iz vozila;",
+            "13) isključivanje iz saobraćaja - uveravanje da se isključivanje može izvršiti na bezbedan način, prilagođavanje brzine kretanja, zaustavljanje na predviđenom mestu, isključivanje rada motora, obezbeđivanje vozila od samopokretanja, bezbedan izlazak iz vozila, obezbeđenje vozila od neovlašćene upotrebe.",
+            "Prilikom izvođenja svih radnji u saobraćaju na javnom putu uveravanje da se radnja može bezbedno izvesti podrazumeva: korišćenje vozačkih ogledala, osmatranje preko ramena, osmatranje kroz vetrobransko, odnosno bočna stakla i procenu saobraćajne situacije.",
+            "Postupanje u saobraćaju na javnom putu obuhvata:",
+            "1) postupanje po znacima i naredbama ovlašćenog lica;",
+            "2) postupanje po svetlosnim saobraćajnim znakovima - postupanje na \"crveno\", \"žuto\", \"zeleno\" i \"žuto trepćuće\" svetlo, postupanje po uslovnom znaku, postupanje po \"zelenom\" svetlu u obliku strelice nadole;",
+            "3) postupanje po saobraćajnim znakovima - postupanje prema znakovima izričitih naredbi kojima se učesnicima u saobraćaju na putu stavljaju do znanja zabrane, ograničenja i obaveze, prilagođavanje kretanja opasnostima na koje ih saobraćajni znakovi opasnosti upozoravaju;",
+            "4) postupanje po oznakama na kolovozu;",
+            "5) postupanje po pravilima saobraćaja;",
+            "6) upotrebu svetala - prelazak sa dugih na kratka svetla i obrnuto, upotreba svetala za maglu, upotreba svetala u tunelu, upotreba pozicionih, odnosno parkirnih svetala kada je vozilo parkirano;",
+            "7) postupanje prema vozilima pod pratnjom, odnosno vozilima sa prvenstvom prolaza;",
+            "8) postupanje u odnosu na uključena žuta rotaciona ili trepćuća svetla - postupanje prema vozilima koja imaju uključena ova svetla, postupanje pri nailasku na mesta koja su označena ovim svetlima;",
+            "9) postupanje prema vozilima javnog prevoza putnika, odnosno autobusa;",
+            "10) upotrebu zvučnih i svetlosnih znakova upozorenja - upotreba zvučnog znaka upozorenja, upotreba svetlosnog znaka upozorenja, upotreba svih pokazivača pravca.",
+            "Tehnika vožnje obuhvata rukovanje vozilom u pogledu načina:",
+            "1) pokretanja vozila - izbor odgovarajućeg stepena prenosa, uključivanje spojnice, odnosno aktiviranje komande za ubrzavanje, isključenje parkirne kočnice;",
+            "2) delovanja na komandu uređaja za upravljanje - položaj tela i ruku;",
+            "3) promene stepena prenosa - upotreba komande menjača, upotreba komande spojnice, upotreba komande za ubrzavanje i odabir odgovarajućeg stepena prenosa;",
+            "4) kočenja - upotreba komande kočnog sistema u odnosu na saobraćajnu situaciju, upotreba komande spojnice, održavanje pravca i kočenje korišćenjem prenosnog sistema;",
+            "5) ubrzavanja - upotreba komande za ubrzavanje u odnosu na saobraćajnu situaciju i održavanje pravca;",
+            "6) zaštite životne sredine i ekonomične vožnje - stvaranje prekomerne buke, neisključivanje motora u skladu sa propisima, bacanje i ispuštanje predmeta iz vozila i odabir načina kretanja u cilju ekonomičnije potrošnje pogonskog goriva.",
+            "Izuzetno od stava 3. ovog člana, ako se deo praktičnog ispita u saobraćaju na javnom putu sprovodi u delu naseljenog mesta u kojem bi održavanje ispita na putu van naselja bitno produžilo vreme sprovođenja praktičnog ispita, deo praktičnog ispita u saobraćaju na javnom putu se može sprovesti samo na putu u naselju.",
+            "Izuzetno od stava 4. ovog člana, na praktičnom ispitu koji se sprovodi za vozača motornih vozila kategorije AM, A1, A2, A i V1, pod pripremom vozila se podrazumeva:",
+            "1) vizuelna provera ispravnosti vozila - pneumatika, uređaja za osvetljavanje puta, uređaja za označavanje vozila, uređaja za davanje svetlosnih znakova, uređaja za kontrolu i davanje znakova i uređaja koji omogućavaju normalnu vidljivost;",
+            "2) bezbedno zauzimanje položaja na vozilu;",
+            "3) korišćenje zaštitne kacige;",
+            "4) podešavanje vozačkih ogledala;",
+            "5) startovanje motora - stavljanje ključa u kontakt bravu, isključivanje spojnice, izbor neutralnog položaja na menjaču brzina, aktiviranje motora;",
+            "6) uključivanje kratkih, odnosno dnevnih svetala.",
+            "Na praktičnom ispitu koji se sprovodi za vozača motornih vozila kategorije AM, A1, A2 i A, pod tehnikom vožnje se pored odredbi navedenih u stavu 8. ovog člana podrazumeva i:",
+            "1) održavanje ravnoteže prilikom polaska, kretanja i zaustavljanja;",
+            "2) bezbedno parkiranje i silazak sa vozila.",
+            "Izuzetno od stava 4. ovog člana, na praktičnom ispitu koji se sprovodi za vozača motornih vozila kategorije C1 i C, pod pripremom vozila se podrazumeva:",
+            "1) vizuelna provera ispravnosti vozila - pneumatika, uređaja za osvetljavanje puta, uređaja za označavanje vozila, uređaja za davanje svetlosnih znakova, uređaja za kontrolu i davanje znakova, uređaja koji omogućavaju normalnu vidljivost i uređaja za kontrolu pritiska u kočnoj instalaciji;",
+            "2) obezbeđivanje tovarnog prostora;",
+            "3) bezbedan ulazak u vozilo;",
+            "4) podešavanje sedišta i naslona za glavu;",
+            "5) podešavanje vozačkih ogledala;",
+            "6) popunjavanje i ulaganje odgovarajućeg tahografskog listića, odnosno postavljanje odgovarajućeg nosača podataka;",
+            "7) startovanje motora - stavljanje ključa u kontakt bravu, isključivanje spojnice, izbor neutralnog položaja na menjaču brzina, aktiviranje motora;",
+            "8) vezivanje sigurnosnog pojasa;",
+            "9) uključivanje kratkih, odnosno dnevnih svetala.",
+            "Izuzetno od stava 4. ovog člana, na praktičnom ispitu koji se sprovodi za vozača motornih vozila kategorije D1 i D, pod pripremom vozila se podrazumeva:",
+            "1) vizuelna provera ispravnosti vozila - pneumatika, uređaja za osvetljavanje puta, uređaja za označavanje vozila, uređaja za davanje svetlosnih znakova, uređaja za kontrolu i davanje znakova, uređaja koji omogućavaju normalnu vidljivost i uređaja za kontrolu pritiska u kočnoj instalaciji;",
+            "2) popunjavanje i ulaganje odgovarajućeg tahografskog listića, odnosno postavljanje odgovarajućeg nosača podataka;",
+            "3) bezbedan ulazak u vozilo;",
+            "4) podešavanje sedišta i naslona za glavu;",
+            "5) podešavanje vozačkih ogledala;",
+            "6) vezivanje sigurnosnog pojasa;",
+            "7) startovanje motora - stavljanje ključa u kontakt bravu, isključivanje spojnice, izbor neutralnog položaja na menjaču brzina, aktiviranje motora;",
+            "8) uključivanje kratkih, odnosno dnevnih svetala.",
+            "Na praktičnom ispitu koji se sprovodi za vozača motornih vozila kategorije D i D1, pod tehnikom vožnje se pored odredbi navedenih u stavu 8. ovog člana podrazumeva i otvaranje i zatvaranje vrata za ulazak i izlazak putnika.",
+            "Izuzetno od stava 4. ovog člana, na praktičnom ispitu koji se sprovodi za vozača vozila kategorije BE, C1E, CE, D1E i DE, pod pripremom vozila se podrazumeva:",
+            "1) vizuelna provera ispravnosti vozila - pneumatika, uređaja za osvetljavanje puta, uređaja za označavanje vozila, uređaja za davanje svetlosnih znakova, uređaja za kontrolu i davanje znakova, uređaja koji omogućavaju normalnu vidljivost, uređaja za kontrolu pritiska u kočnoj instalaciji, uređaja za spajanje vučnog i priključnog vozila i kočnih instalacija;",
+            "2) obezbeđivanje tovarnog prostora;",
+            "3) bezbedan ulazak u vozilo;",
+            "4) podešavanje sedišta i naslona za glavu;",
+            "5) podešavanje vozačkih ogledala;",
+            "6) popunjavanje i ulaganje odgovarajućeg tahografskog listića, odnosno postavljanje odgovarajućeg nosača podataka, osim za BE kategoriju;",
+            "7) startovanje motora - stavljanje ključa u kontakt bravu, isključivanje spojnice, izbor neutralnog položaja na menjaču brzina, aktiviranje motora;",
+            "8) vezivanje sigurnosnog pojasa;",
+            "9) uključivanje kratkih, odnosno dnevnih svetala.",
+            "Izuzetno od stava 4. ovog člana, na praktičnom ispitu koji se sprovodi za vozača motornih vozila kategorije F, pod pripremom vozila se podrazumeva:",
+            "1) vizuelna provera ispravnosti vozila - pneumatika, uređaja za osvetljavanje puta, uređaja za označavanje vozila, uređaja za davanje svetlosnih znakova, uređaja za kontrolu i davanje znakova, uređaja koji omogućavaju normalnu vidljivost, uređaja za kontrolu pritiska u kočnoj instalaciji, uređaja za spajanje vučnog i priključnog vozila i kočnih instalacija;",
+            "2) obezbeđivanje tovarnog prostora;",
+            "3) bezbedan ulazak u vozilo;",
+            "4) podešavanje sedišta i naslona za glavu;",
+            "5) podešavanje vozačkih ogledala;",
+            "6) startovanje motora - stavljanje ključa u kontakt bravu, isključivanje spojnice, izbor neutralnog položaja na menjaču brzina, aktiviranje motora;",
+            "7) vezivanje sigurnosnog pojasa;",
+            "8) uključivanje kratkih, odnosno dnevnih svetala.",
+            "Izuzetno od stava 4. ovog člana, na praktičnom ispitu koji se sprovodi za vozača motornih vozila kategorije M, pod pripremom vozila se podrazumeva:",
+            "1) vizuelna provera ispravnosti vozila - pneumatika, uređaja za osvetljavanje puta, uređaja za označavanje vozila, uređaja za davanje svetlosnih znakova, uređaja za kontrolu i davanje znakova i uređaja koji omogućavaju normalnu vidljivost;",
+            "2) bezbedno zauzimanje položaja na vozilu;",
+            "3) podešavanje vozačkih ogledala (ako su ugrađena na vozilu);",
+            "4) startovanje motora - isključivanje spojnice, izbor neutralnog položaja na menjaču brzina, aktiviranje motora;",
+            "5) uključivanje kratkih, odnosno dnevnih svetala.",
+            "Izuzetno od stava 5. tačka 13) ovog člana, na praktičnom ispitu koji se sprovodi za vozača vozila kategorija C1, C1E, C, CE, D1, D1E, D i DE, isključivanje iz saobraćaja podrazumeva: uveravanje da se isključivanje može izvršiti na bezbedan način, prilagođavanje brzine kretanja, zaustavljanje na predviđenom mestu, isključivanje rada motora, obezbeđivanje vozila od samopokretanja, vađenje tahografskog listića i upis propisanih podataka, odnosno vađenje vozačke kartice i štampanje dnevnog ispisa sa kartice vozača u slučaju digitalnog tahografa, bezbedan izlazak iz vozila, obezbeđenje vozila od neovlašćene upotrebe."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_26"
+    },
+    {
+        "title": "Član 27",
+        "texts": [
+            "U vozilu sa ugrađenim duplim nožnim komandama, za vreme trajanja praktičnog ispita u saobraćaju na javnom putu, za tim komandama sedi ispitivač iz pravnog lica koje organizuje vozački ispit.",
+            "U vozilu u koje nisu ugrađene duple nožne komande, za vreme trajanja praktičnog ispita u saobraćaju na javnom putu, bliže komandi parkirne - pomoćne kočnice sedi ispitivač iz pravnog lica koje organizuje vozački ispit."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_27"
+    },
+    {
+        "title": "Član 28",
+        "texts": [
+            "Deo praktičnog ispita koji se sprovodi u saobraćaju na javnom putu, za kategorije vozila AM, A1, A2, A, B1, B i BE, po pravilu traje najmanje 25 minuta.",
+            "Deo praktičnog ispita koji se sprovodi u saobraćaju na javnom putu, za kategorije vozila C1, C, C1E, CE, D, D1, D1E i DE, po pravilu traje najmanje 40 minuta.",
+            "Deo praktičnog ispita koji se sprovodi u saobraćaju na javnom putu, za kategorije vozila F i M, po pravilu traje najmanje 20 minuta.",
+            "Nakon sprovedenog praktičnog ispita za svakog kandidata, ispitna komisija mora obezbediti vreme za vođenje propisanih evidencija, obrazloženje rezultata ispita i pripremu sledećeg kandidata u trajanju od najmanje pet minuta.",
+            "Vreme koje ispitivač provede na praktičnom ispitu, odnosno teorijskom ispitu, smatra se vremenom praktične obuke instruktora vožnje u istom trajanju.",
+            "Podatke o praktičnom ispitu ispitivači unose u centralnu bazu podataka ISO, putem računara za praktični ispit ili računara koji je namenjen za unos ostalih podataka iz propisanih evidencija (administrativni računar), u toku dana u kojem je ispit sproveden."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_28"
+    },
+    {
+        "title": "Član 29",
+        "texts": [
+            "Negativnu ocenu (\"nije položio\") poligonske radnje iz člana 15. stav 1. tačka 4), odnosno člana 16. stava 1. tačka 6) ovog pravilnika, na delu praktičnog ispita koji se sprovodi na poligonu, ispitivač će dati kandidatu koji odgovarajuću radnju nije izveo uspešno na propisan način u propisanom broju pokušaja.",
+            "Jedinstvenu negativnu ocenu (\"nije položio\") poligonskih radnji iz člana 16. stav 1. tač. 2) i 3) ovog pravilnika, na delu praktičnog ispita koji se sprovodi na poligonu, ispitivač će dati kandidatu koji nije izveo uspešno nijednu od navedenih radnji na propisan način u propisanom broju pokušaja.",
+            "Jedan negativan bod za neuspešan pokušaj izvođenja poligonske radnje, ispitivač će dati kandidatu koji nije uspešno izveo radnju za koju je predviđeno da se izvodi u jednom pokušaju.",
+            "Jedan negativan bod, za neuspešan pokušaj izvođenja poligonske radnje, ispitivač će dati kandidatu koji je uspešno izveo u drugom pokušaju poligonske radnje iz člana 15. stav 1. tačka 4), odnosno člana 16. stav 1. tačka 6) ovog pravilnika.",
+            "Ispitivač će dati kandidatu po jedan negativan bod za svaki neuspešan pokušaj izvođenja poligonske radnje iz člana 16. stav 1. tač. 2) i 3) ovog pravilnika, osim u slučaju iz stava 2. ovog člana.",
+            "Prilikom dela praktičnog ispita koji se sprovodi na poligonu, odnosno drugom prostoru, odnosno u saobraćaju na javnom putu, kandidat izvodi sve propisane poligonske radnje, osim u slučajevima propisanim članom 31. ovog pravilnika."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_29"
+    },
+    {
+        "title": "Član 30",
+        "texts": [
+            "Negativnu ocenu (\"nije položio\"), na delu praktičnog ispita koji se sprovodi u saobraćaju na javnom putu, ispitivač će dati kandidatu koji napravi nedozvoljenu grešku prilikom izvođenja radnji, odnosno postupanja.",
+            "Nedozvoljene greške prilikom izvođenja radnji, odnosno postupanja su:",
+            "1) nepoštovanje propisa o prvenstvu prolaza, odnosno propuštanju vozila, odnosno pešaka, odnosno šinskih vozila, prilikom izvođenja svih radnji;",
+            "2) nepostupanje po znacima i naredbama ovlašćenog lica;",
+            "3) prolazak na \"crveno\" svetlo na semaforu i istovremeno uključeno \"crveno\" i \"žuto\" svetlo na semaforu;",
+            "4) prolazak na \"žuto\" svetlo na semaforu;",
+            "5) nezaustavljanje na svetlosni saobraćajni znak kojim se najavljuje približavanje voza prelazu puta preko železničke pruge u istom nivou;",
+            "6) nepoštovanje crvenog svetla u obliku ukrštenih linija, odnosno žute trepćuće strelice kojom se nalaže obavezna promena saobraćajne trake;",
+            "7) nezaustavljanje na saobraćajni znak \"obavezno zaustavljanje\", saobraćajni znak \"zabrana prolaza bez zaustavljanja\", odnosno ispred oznake na kolovozu \"neisprekidana linija zaustavljanja\";",
+            "8) nepoštovanje ograničenja brzine kretanja, pri čemu je brzina prekoračena za više od 10 km/h u naselju, odnosno za više od 20 km/h van naselja;",
+            "9) nepoštovanje ograničenja brzine kretanja u zoni škole, zoni \"30\" i zoni usporenog saobraćaja;",
+            "10) nepoštovanje saobraćajnog znaka zabrane preticanja;",
+            "11) kretanje levom stranom kolovoza u smeru kretanja;",
+            "12) kretanje zabranjenim smerom na putu namenjenom za saobraćaj u jednom smeru, odnosno putem na kojem je zabranjen saobraćaj za sva vozila ili za vozilo kojim kandidat upravlja;",
+            "13) kretanje kolovoznom trakom namenjenom za saobraćaj vozila iz suprotnog smera na putu na kojem postoje najmanje četiri saobraćajne trake;",
+            "14) kretanje kolovoznom trakom namenjenom za saobraćaj vozila iz suprotnog smera na putu sa fizički odvojenim kolovoznim trakama;",
+            "15) preticanje prelaženjem preko neisprekidane uzdužne linije, pri čemu se koristi saobraćajna traka za kretanje vozila iz suprotnog smera;",
+            "16) preticanje kolone vozila;",
+            "17) nezaustavljanje vozila pri nailasku na vozilo za organizovani prevoz dece koje je zaustavljeno radi ulaska i izlaska dece;",
+            "18) nepostupanje po propisima koji se odnose na obaveze vozača prema vozilima pod pratnjom, odnosno vozilima sa prvenstvom prolaza;",
+            "19) kretanje vozila ili izvođenje radnji, na površini van kolovoza;",
+            "20) nekorišćenje sigurnosnog pojasa, odnosno zaštitne kacige.",
+            "Prilikom ocenjivanja elemenata pripreme vozila, iz člana 26. ovog pravilnika, kada kandidat učini jednu ili više grešaka po određenom elementu pripreme vozila, ispitivač će za taj element evidentirati jedan negativan bod.",
+            "Izuzetno od stava 3. ovog člana, prilikom ocenjivanja elementa pripreme vozila \"uključivanje kratkih, odnosno dnevnih svetala\", kada kandidat učini jednu ili više grešaka po ovom elementu, ispitivač će evidentirati tri negativna boda.",
+            "Prilikom ocenjivanja izvođenja radnji vozilom, iz člana 26. stav 5. ovog pravilnika, ocenjuju se svi elementi radnje, tako što će ispitivač evidentirati po jedan negativan bod za svaku grešku učinjenu u izvođenju radnje, odnosno tri negativna boda za grešku učinjenu u pogledu uveravanja da se radnja može bezbedno izvesti, osim u slučaju nedozvoljenih grešaka iz stava 2. ovog člana.",
+            "Prilikom ocenjivanja postupanja u saobraćaju, iz člana 26. stav 7. ovog pravilnika, ispitivač će evidentirati po jedan negativan bod za svaku grešku u postupanju, odnosno tri negativna boda za grešku učinjenu pri postupanju bez uveravanja da se ono može bezbedno izvesti i pet negativnih bodova za postupanja koja su u suprotnosti sa saobraćajnim znakovima izričitih naredbi o zabrani skretanja, saobraćajnim znakovima i oznakama na kolovozu kojima se regulišu obavezni i dozvoljeni smerovi kretanja, osim u slučaju nedozvoljenih grešaka iz stava 2. ovog člana.",
+            "Prilikom ocenjivanja elemenata tehnike vožnje, iz člana 26. ovog pravilnika, kada kandidat učini jednu ili više grešaka po određenom elementu tehnike vožnje, ispitivač će evidentirati po jedan negativan bod za svaku učinjenu grešku.",
+            "Prilikom dela praktičnog ispita koji se sprovodi u saobraćaju na javnom putu, kandidat izvodi radnje na celoj trasi određene ispitnim zadatkom, u celini, osim u slučajevima propisanim članom 31. ovog pravilnika."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_30"
+    },
+    {
+        "title": "Član 31",
+        "texts": [
+            "Pozitivnu ocenu (\"položio\") na praktičnom ispitu ispitivač će dati kandidatu koji prilikom sprovođenja poligonskih radnji na poligonu, odnosno drugom prostoru, odnosno u saobraćaju na javnom putu i na delu ispita u saobraćaju na javnom putu nije ozbiljno ugrozio sebe ni druge učesnike u saobraćaju, nije učinio nijednu nedozvoljenu grešku i nema više od propisanog broja negativnih bodova iz stava 2. tačka 4) ovog člana.",
+            "Negativnu ocenu (\"nije položio\") na praktičnom ispitu ispitivač će dati kandidatu ako:",
+            "1) dobije negativnu ocenu (\"nije položio\") prilikom izvođenja poligonske radnje propisane u članu 15. stav 1. tačka 4) ili članu 16. stav 1. tačka 6) ovog pravilnika;",
+            "2) dobije jedinstvenu negativnu ocenu (\"nije položio\") prilikom izvođenja poligonskih radnji propisanih u članu 16. stav 1. tač. 2) i 3) ovog pravilnika;",
+            "3) učini najmanje jednu nedozvoljenu grešku prilikom sprovođenja radnji, odnosno postupanja;",
+            "4) ima više od 15 negativnih bodova, odnosno ima više od 9 negativnih bodova za greške učinjene u izvođenju jedne radnje, odnosno jednog postupanja, iz člana 26. stav 5, odnosno stav 7, ovog pravilnika;",
+            "5) koristi mobilni telefon;",
+            "6) ne postupa po naredbama ispitne komisije;",
+            "7) na praktičnom ispitu, iz razloga bezbednosti, ispitivač deluje na komande uređaja za zaustavljanje, odnosno komandu uređaja za upravljanje;",
+            "8) ispitivač oceni da kandidat ozbiljno ugrožava sebe ili druge učesnike u saobraćaju;",
+            "9) učestvuje u saobraćajnoj nezgodi, a ispitivač oceni da je kandidat ozbiljno ugrozio sebe i druge učesnike u saobraćaju.",
+            "Ukoliko kandidat, prilikom praktičnog ispita učestvuje u saobraćajnoj nezgodi, a bar jedan ispitivač oceni da je kandidat ozbiljno ugrozio sebe ili druge učesnike u saobraćaju, tada će se praktični ispit završiti, a ispitna komisija će činjenicu \"saobraćajna nezgoda\", utvrditi u rubrici \"napomena\" zapisnika o praktičnom ispitu i izveštaja.",
+            "Ukoliko prilikom praktičnog ispita oba ispitivača ocene da kandidat ozbiljno ugrožava sebe ili druge učesnike u saobraćaju, tada će se praktični ispit završiti, a ispitna komisija će činjenicu \"ugrožavanje bezbednosti\", utvrditi u rubrici \"napomena\" zapisnika o praktičnom ispitu i izveštaja.",
+            "Ukoliko je na praktičnom ispitu iz razloga bezbednosti, ispitivač delovao na komande uređaja za zaustavljanje, odnosno komandu uređaja za upravljanje, tada će se praktični ispit završiti, a ispitna komisija će činjenicu \"ugrožavanje bezbednosti\" utvrditi u rubrici \"napomena\" zapisnika o praktičnom ispitu i izveštaja.",
+            "Ukoliko je na praktičnom ispitu kandidat koristio mobilni telefon, odnosno nije postupao po naredbama ispitne komisije, tada će se praktični ispit završiti i kandidat udaljiti sa ispita, a ispitna komisija će činjenicu \"udaljen sa ispita\" utvrditi u rubrici \"napomena\" zapisnika o praktičnom ispitu i izveštaja.",
+            "Ukoliko je u toku praktičnog ispita kandidat učestvovao u saobraćajnoj nezgodi, a oba ispitivača ocene da kandidat svojim postupcima nije ugrozio sebe i druge učesnike u saobraćaju, praktični ispit će se prekinuti. U tom slučaju ispitna komisija će činjenicu \"saobraćajna nezgoda\" utvrditi u rubrici \"napomena\" zapisnika o praktičnom ispitu i izveštaja.",
+            "Ukoliko dođe do prekida praktičnog ispita iz razloga na koje kandidat nije mogao uticati, ispitna komisija će razlog prekida utvrditi u rubrici \"napomena\" zapisnika o praktičnom ispitu i izveštaja.",
+            "Ukoliko je kandidat u momentu prekida, iz st. 7. i 8. ovog člana, prema evidencijama ispitivača ispunio uslove za dobijanje negativne ocene (\"nije položio\"), praktični ispit će se i završiti u momentu prekida, a konačna ocena će se izvesti na osnovu evidencija oba ispitivača.",
+            "Ukoliko kandidat u momentu prekida iz st. 7. i 8. ovog člana, prema evidencijama ispitivača, nije ispunio uslove za dobijanje negativne ocene (\"nije položio\"), a izvedeno je najmanje 2/3 ispitnog zadatka, praktični ispit će se i završiti u momentu prekida, a konačna ocena će se izvesti na osnovu evidencija oba ispitivača.",
+            "Ukoliko kandidat u momentu prekida iz st. 7. i 8. ovog člana, prema evidencijama ispitivača, nije ispunio uslove za dobijanje negativne ocene (\"nije položio\"), a izvedeno je manje od 2/3 ispitnog zadatka, praktični ispit će se ponoviti i izvesti u celosti, kada se steknu uslovi za održavanje ispita, odnosno kandidat potvrdi svoju spremnost za izlazak na ispit.",
+            "Kandidat je položio praktični ispit ako oba ispitivača daju pozitivnu ocenu (\"položio\").",
+            "IV VOĐENJE I ROKOVI ČUVANJA EVIDENCIJA O VOZAČKOM ISPITU"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_31"
+    },
+    {
+        "title": "Član 32",
+        "texts": [
+            "O polaganju teorijskog ispita, odnosno praktičnog ispita, za svakog kandidata koji je polagao ispit, sačinjava se Zapisnik o teorijskom ispitu, odnosno Zapisnik o praktičnom ispitu, kao skup određenih podataka iz centralne baze podataka ISO koje elektronskim potpisom overavaju oba ispitivača. Primerak Zapisnika o teorijskom ispitu, odnosno Zapisnika o praktičnom ispitu, u pisanom obliku, pravno lice izdaje kandidatu na njegov zahtev.",
+            "O polaganju praktičnog ispita, za svakog kandidata koji polaže ispit, svaki ispitivač tokom ispita vodi svoju Bodovnu listu, koje se nakon sprovedenog ispita i njihovog zaključivanja uručuju kandidatu. Ispitivači zaključuju svoje Bodovne liste u prisustvu kandidata, osim u slučaju kada kandidat zahteva da ne bude prisutan tom činu.",
+            "Ispitivači ne mogu započeti praktični ispit narednog kandidata pre nego što zaključe svoje Bodovne liste za prethodnog kandidata.",
+            "U toku dana sprovođenja praktičnog ispita ispitivači moraju izvršiti prepis podataka iz svojih Bodovnih lista u centralnu bazu ISO, koje overavaju elektronskim potpisom.",
+            "Sadržaj i izgled Zapisnika o teorijskom ispitu, formata A4 ili A5, dat je u Obrascu 4, koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo.",
+            "Sadržaj i izgled Zapisnika o praktičnom ispitu, formata A4 ili A5, dat je u Obrascu 5, koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo. Sadržaj i izgled Bodovnih lista praktičnog ispita, formata A4, dat je u Obrascima 6a, 6b, 6b1, 6c, 6d, 6e, 6f i 6m, koji su odštampani uz ovaj pravilnik i čine njegov sastavni deo."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_32"
+    },
+    {
+        "title": "Član 33",
+        "texts": [
+            "Nakon sprovedenog teorijskog ispita, odnosno praktičnog ispita, svih kandidata, ispitivači koji su sproveli ispit sačinjavaju Izveštaj o održanom teorijskom ispitu, odnosno praktičnom ispitu, koji predstavlja skup određenih podataka iz centralne baze podataka ISO i koji elektronskim potpisom overavaju ispitivača koji su sproveli ispit."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_33"
+    },
+    {
+        "title": "Član 34",
+        "texts": [
+            "Potvrda o položenom teorijskom ispitu sačinjava se kao skup određenih podataka iz centralne baze podataka ISO, koju pravno lice izdaje kandidatu koji je položio teorijski ispit, na njegov zahtev.",
+            "Sadržaj i izgled Potvrde o položenom teorijskom ispitu, formata A4 ili A5, dat je u Obrascu 8, koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_34"
+    },
+    {
+        "title": "Član 35",
+        "texts": [
+            "Uverenje o položenom vozačkom ispitu sačinjava se kao skup određenih podataka iz centralne baze podataka ISO, koje pravno lice izdaje kandidatu koji je položio vozački ispit, na njegov zahtev.",
+            "Sadržaj i izgled Uverenja o položenom vozačkom ispitu u pisanom obliku, formata A4 ili A5, dat je u Obrascu 9, koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo.",
+            "V USLOVI KOJE MORA DA ISPUNJAVA VOZILO NA KOJEM SE OBAVLJA VOZAČKI ISPIT"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_35"
+    },
+    {
+        "title": "Član 36",
+        "texts": [
+            "Praktični ispit kandidat polaže na vozilu odgovarajuće kategorije koje ispunjava uslove iz pravilnika kojim se uređuju uslovi koje mora da ispunjava privredno društvo, odnosno ogranak privrednog društva ili srednja stručna škola, koji vrše osposobljavanje kandidata za vozače.",
+            "Prilikom održavanja praktičnog ispita vozilo na kojem se sprovodi praktični ispit mora biti označeno na način predviđen pravilnikom kojim se uređuje način označavanja vozila kojima se vrši osposobljavanje kandidata.",
+            "Prilikom održavanja praktičnog ispita za vozača motornih vozila kategorija C1 i C vozilo je opterećeno sa najmanje 30% svoje nosivosti.",
+            "Prilikom održavanja praktičnog ispita za vozača vozila kategorija C1E i CE oba vozila koja čine skup su opterećena sa najmanje 30% svoje nosivosti.",
+            "Prilikom održavanja praktičnog ispita za vozača vozila kategorija BE, D1E, DE i F priključno vozilo je opterećeno sa najmanje 30% svoje nosivosti.",
+            "Praktični ispit osoba sa invaliditetom, može se obavljati na vozilu proizvedenom ili prepravljenom u skladu sa njegovim potrebama koje ne mora biti registrovano na pravno lice, odnosno nije obezbeđeno po osnovu lizinga.",
+            "VI PRELAZNE I ZAVRŠNE ODREDBE"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_36"
+    },
+    {
+        "title": "Član 37",
+        "texts": [
+            "Izuzetno od odredbe člana 2. stav 3. ovog pravilnika, kandidati iz člana 351. st. 9-11. Zakona o bezbednosti saobraćaja na putevima, teorijski ispit polažu nakon što obave dodatnu teorijsku i praktičnu obuku u trajanju od po najmanje tri časa, a praktični ispit polažu nakon položenog teorijskog ispita i položenog ispita iz prve pomoći.",
+            "Izuzetno od odredbe člana 2. stav 6. ovog pravilnika, kandidati koji su do dana stupanja na snagu pravilnika kojim se uređuje izdavanje vozačkih dozvola upisani u registar kandidata za vozače i koji su započeli obuku pre 25. oktobra 2012. godine mogu polagati teorijski i praktični ispit i u slučaju da ne ispunjavaju uslove u pogledu posedovanja vozačke dozvole iz člana 181. Zakona o bezbednosti saobraćaja na putevima.",
+            "Kandidati iz ovog člana teorijski ispit, odnosno praktični ispit, mogu polagati kada ispune starosni uslov za dobijanje vozačke dozvole iz člana 180. Zakona o bezbednosti saobraćaja na putevima."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_37"
+    },
+    {
+        "title": "Član 37a",
+        "texts": [
+            "Izuzetno od odredbe člana 3. stav 2. ovog pravilnika, do 31. decembra 2015. godine, prijavu za teorijski ispit, odnosno praktični ispit, kandidat podnosi u pisanom obliku. Sadržaj i izgled prijave za teorijski ispit, odnosno praktični ispit, formata A4, u pisanom obliku, dat je na Obrascu 1, odnosno Obrascu 2, koji su odštampani uz ovaj pravilnik i čine njegov sastavni deo.",
+            "Izuzetno od odredbi člana 3. stav 3. ovog pravilnika, do 31. decembra 2015. godine, kandidat uz prijavu za teorijski ispit, odnosno praktični ispit, u pisanom obliku, podnosi dokaze o ispunjenosti uslova za polaganje ispita i dokaz da je izmirio obaveze prema nadležnom organu, u vezi troškova polaganja vozačkog ispita, kao originalna dokumenta.",
+            "Prijavu za teorijski ispit, odnosno praktični ispit, u pisanom obliku pravno lice čuva najmanje jednu godinu od dana održavanja ispita.",
+            "U periodu iz stava 1. ovog člana, dokaz o izmirenim obavezama prema nadležnom organu, nakon održanog teorijskog ispita, odnosno praktičnog ispita, preuzima ispitivač iz nadležnog organa i prilaže uz zapisnik o teorijskom ispitu, odnosno praktičnom ispitu."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_37a"
+    },
+    {
+        "title": "Član 38",
+        "texts": [
+            "Izuzetno od odredbi člana 5. st. 4. člana 5a stav 6. i člana 5b stav 3. ovog pravilnika, spisak kandidata koji se dostavlja nadležnom organu radi zakazivanja datuma polaganja ispita, do 31. decembra 2015. godine, dostavlja se u pisanom obliku. Sadržaj i izgled Spiska kandidata, formata A4 ili A5, u pisanom obliku, dat je u Obrascu 3, koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo.",
+            "Odredba člana 5. stav 5. ovog pravilnika neće se primenjivati do 25. oktobra 2014. godine.",
+            "Izuzetno od odredbe člana 5. stav 6. ovog pravilnika, na spisku kandidata za jedan termin polaganja teorijskog ispita, do 31. decembra 2015. godine, broj kandidata ne može biti veći od broja mesta u učionici u kojoj se ispit sprovodi."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_38"
+    },
+    {
+        "title": "Član 38a",
+        "texts": [
+            "Odredbe člana 6. stav 2. ovog pravilnika primenjuju se od 1. januara 2016. godine."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_38a"
+    },
+    {
+        "title": "Član 39",
+        "texts": [
+            "Izuzetno od odredbe člana 9. stav 1. ovog pravilnika, do 31. decembra 2015. godine, teorijski ispit će se polagati putem testa u pisanoj formi.",
+            "Testove u pisanoj formi, koji su korišćeni za polaganje teorijskog ispita, čuva nadležni organ do isteka roka od dve godine od dana kada je teorijski ispit sproveden."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_39"
+    },
+    {
+        "title": "Član 40",
+        "texts": [
+            "Član 10. ovog pravilnika primenjivaće se od 1. januara 2016. godine."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_40"
+    },
+    {
+        "title": "Član 41",
+        "texts": [
+            "Izuzetno od odredbe člana 14. stav 1. ovog pravilnika, do 31. decembra 2015. godine, kandidat vrši izbor ispitnog zadatka slučajnim izborom ispitnog zadatka, koji su kovertirani. Slučajni izbor ispitnog zadatka se vrši tako što svaki kandidat sa spiska kandidata za jedan termin praktičnog ispita, slučajni izbor vrši iz fonda koji ne sadrži ispitne zadatke koje su slučajno izabrali prethodni kandidati sa tog spiska."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_41"
+    },
+    {
+        "title": "Član 42",
+        "texts": [
+            "Izuzetno od odredbi člana 17. stav 1, člana 19. stav 1, člana 21. stav 1. i člana 22. stav 1. ovog pravilnika, na delu praktičnog ispita na poligonu, do 25. oktobra 2018. godine, kandidat za vozača vozila kategorija BE, C1E, CE, D1E, DE i F ne izvodi poligonsku radnju \"vožnja unazad sa skretanjem ulevo, odnosno udesno, pod pravim uglom\"."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_42"
+    },
+    {
+        "title": "Član 43",
+        "texts": [
+            "Odredba člana 28. stav 6. ovog pravilnika, primenjivaće se od 1. januara 2016. godine.",
+            "Izuzetno od odredbi člana 28. stav 6. ovog pravilnika do 31. decembra 2015. godine ispitivači ne mogu započeti praktični ispit narednog kandidata pre nego što se sačine propisane evidencije o praktičnom ispitu u pisanom obliku za prethodnog kandidata."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_43"
+    },
+    {
+        "title": "Član 44",
+        "texts": [
+            "Odredbe člana 36. st. 3−5. ovog pravilnika, primenjivaće se od 25. oktobra 2018. godine.",
+            "Izuzetno od odredbe stava 1. ovog člana, kandidati koji su započeli, odnosno koji započnu praktičnu obuku pre 25. oktobra 2018. godine, mogu polagati praktični ispit na vozilima koja nisu opterećena."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_44"
+    },
+    {
+        "title": "Član 45",
+        "texts": [
+            "Na vozačkom ispitu u pravnom licu ispitivač može biti, najduže do 30. juna 2014. godine, lice koje ispunjava propisane uslove za ispitivača, osim uslova u pogledu posedovanja dozvole (licence) za ispitivača i položenog stručnog ispita za ispitivača.",
+            "Najduže do 4. januara 2014. godine, na praktičnom ispitu kandidata za vozača vozila:",
+            "1) kategorije AM, A1 i A2, ispitivač može biti instruktor vožnje koji ima dozvolu za vozača instruktora kategorije A;",
+            "2) kategorije B1, ispitivač može biti instruktor vožnje koji ima dozvolu za vozača instruktora kategorije B;",
+            "3) kategorije C1, ispitivač može biti instruktor vožnje koji ima dozvolu za vozača instruktora kategorije C;",
+            "4) kategorije D1, ispitivač može biti instruktor vožnje koji ima dozvolu za vozača instruktora kategorije D;",
+            "5) kategorija BE, C1E, CE, D1E i DE, ispitivač može biti instruktor vožnje koji ima dozvolu za vozača instruktora kategorije E i dozvolu za vozača instruktora za onu kategoriju kojoj pripada vučno vozilo;",
+            "6) kategorija F i M, ispitivač može biti instruktor vožnje koji ima dozvolu za vozača instruktora bilo koje kategorije."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_45"
+    },
+    {
+        "title": "Član 46",
+        "texts": [
+            "Evidencije iz čl. 32−35. ovog pravilnika vodiće se samo u pisanom obliku na obrascima propisanim ovim pravilnikom, do 31. decembra 2015. godine.",
+            "Pravno lice koje je osposobljavalo kandidate za vozače na osnovu rešenja kojim se utvrđuje da su ispunjeni propisani uslovi za delatnost osposobljavanja kandidata za vozače, zapisnike o polaganju vozačkog ispita sačinjene do 25. aprila 2015. godine, čuva pet godina.",
+            "U zapisniku o teorijskom ispitu u pisanom obliku sačinjene do 31. decembra 2015. godine nije obavezno unositi oznaku pitanja na koja nije dat tačan odgovor.",
+            "Zapisnik o teorijskom, odnosno praktičnom ispitu, u pisanom obliku, sačinjen do 31. decembra 2015. godine, pravno lice čuva pet godina kada je kandidat položio ispit, odnosno jednu godinu, kada kandidat nije položio ispit.",
+            "Do 31. decembra 2015. godine Izveštaj o održanom teorijskom, odnosno praktičnom ispitu, sačinjava se u pisanom obliku, koji pravno lice i nadležni organ čuvaju najmanje dve godine. Sadržaj i izgled Izveštaja o održanom teorijskom ispitu, odnosno praktičnom ispitu, formata A4 u pisanom obliku, dat je u Obrascu 7, koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_46"
+    },
+    {
+        "title": "Član 47",
+        "texts": [
+            "Danom stupanja na snagu ovog pravilnika prestaje da važi Pravilnik o organizovanju, sprovođenju i načinu polaganja vozačkog ispita, vođenju i rokovima čuvanja evidencija o vozačkom ispitu i uslovima koje mora da ispuni vozilo na kojem se obavlja vozački ispit (\"Službeni glasnik RS\", broj 53/12)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_47"
+    },
+    {
+        "title": "Član 48",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu 26. oktobra 2013. godine.",
+            "",
+            "Samostalni član Pravilnika o izmenamaPravilnika o organizovanju, sprovođenju i načinu polaganja vozačkog ispita, vođenju i rokovima čuvanja evidencija o vozačkom ispitu i uslovima koje mora da ispuni vozilo na kojem se obavlja vozački ispit",
+            "(\"Sl. glasnik RS\", br. 116/2013)"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_organizovanju_sprovodjenju_i_nacinu_polaganja_vozackog_ispita.html#clan_48"
+    },
+    {
+        "title": "Član 3",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu narednog dana od dana objavljivanja u \"Službenom glasniku Republike Srbije\".",
+            "",
+            "Samostalni članovi Pravilnika o izmenama i dopunamaPravilnika o organizovanju, sprovođenju i načinu polaganja vozačkog ispita, vođenju i rokovima čuvanja evidencija o vozačkom ispitu i uslovima koje mora da ispuni vozilo na kojem se obavlja vozački ispit",
+            "(\"Sl. glasnik RS\", br. 36/2015)"
+        ],
+        "link": null
+    },
+    {
+        "title": "Član 26",
+        "texts": [
+            "Član 3. ovog pravilnika primenjuju se od 1. jula 2015. godine."
+        ],
+        "link": null
+    },
+    {
+        "title": "Član 27",
+        "texts": [
+            "Obrasci Bodovnih lista praktičnog ispita 6a, 6b, 6b1, 6c, 6d, 6e, 6f i 6m, zamenjuju se novim obrascima 6a, 6b, 6b1, 6c, 6d, 6e, 6f i 6m koji se primenjuju od 30. juna 2015. godine i koji su odštampani uz ovaj pravilnik i čine njegov sastavni deo."
+        ],
+        "link": null
+    },
+    {
+        "title": "Član 28",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu narednog dana od dana objavljivanja u \"Službenom glasniku Republike Srbije\".",
+            "",
+            "Samostalni članovi Pravilnika o izmenamaPravilnika o organizovanju, sprovođenju i načinu polaganja vozačkog ispita, vođenju i rokovima čuvanja evidencija o vozačkom ispitu i uslovima koje mora da ispuni vozilo na kojem se obavlja vozački ispit",
+            "(\"Sl. glasnik RS\", br. 51/2015)"
+        ],
+        "link": null
+    },
+    {
+        "title": "Član 4",
+        "texts": [
+            "Odredba člana 3. Pravilnika o izmenama i dopunama Pravilnika o organizovanju, sprovođenju i načinu polaganja vozačkog ispita, vođenju i rokovima čuvanja evidencija o vozačkom ispitu i uslovima koje mora da ispuni vozilo na kojem se obavlja vozački ispit (\"Službeni glasnik RS\", broj 36/15) primenjuje se od 1. januara 2016. godine."
+        ],
+        "link": null
+    },
+    {
+        "title": "Član 5",
+        "texts": [
+            "Obrasci koji su odštampani uz Pravilnik o organizovanju, sprovođenju i načinu polaganja vozačkog ispita, vođenju i rokovima čuvanja evidencija o vozačkom ispitu i uslovima koje mora da ispuni vozilo na kojem se obavlja vozački ispit (\"Službeni glasnik RS\", broj 36/15) primenjuje se od 1. januara 2016. godine."
+        ],
+        "link": null
+    },
+    {
+        "title": "Član 6",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu narednog dana od dana objavljivanja u \"Službenom glasniku Republike Srbije\".",
+            "",
+            "Samostalni član Pravilnika o izmeniPravilnika o organizovanju, sprovođenju i načinu polaganja vozačkog ispita, vođenju i rokovima čuvanja evidencija o vozačkom ispitu i uslovima koje mora da ispuni vozilo na kojem se obavlja vozački ispit",
+            "(\"Sl. glasnik RS\", br. 104/2015)"
+        ],
+        "link": null
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u \"Službenom glasniku Republike Srbije\", a primenjuje se od 1. januara 2016. godine.",
+            "",
+            "Samostalni član Pravilnika o izmenama i dopunamaPravilnika o organizovanju, sprovođenju i načinu polaganja vozačkog ispita, vođenju i rokovima čuvanja evidencija o vozačkom ispitu i uslovima koje mora da ispuni vozilo na kojem se obavlja vozački ispit",
+            "(\"Sl. glasnik RS\", br. 77/2016,  82/2016 - ispr.\n  i 63/2017)"
+        ],
+        "link": null
+    },
+    {
+        "title": "Član 15",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja\n  u \"Službenom glasniku Republike Srbije\", s tim što se odredbe čl.\n  1. i 2, člana 3. stav 2, čl. 5. i 12. ovog pravilnika primenjuju po isteku\n  devet meseci od dana stupanja na snagu ovog pravilnika, dok se odredbe člana\n  3. stav 1. i čl. 8. i 13. ovog pravilnika primenjuju po isteku 15 meseci od\n  dana stupanja na snagu ovog pravilnika.",
+            "",
+            "Samostalni član Pravilnika o izmeni i dopuniPravilnika o organizovanju, sprovođenju i načinu polaganja vozačkog ispita,\n    vođenju i rokovima čuvanja evidencija o vozačkom ispitu i uslovima koje mora\n    da ispuni vozilo na kojem se obavlja vozački ispit",
+            "(\"Sl. glasnik RS\", br. 63/2017)"
+        ],
+        "link": null
+    },
+    {
+        "title": "Član 3",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu narednog dana od dana objavljivanja\nu \"Službenom glasniku Republike Srbije\".",
+            "",
+            "Samostalni član Pravilnika o izmenamaPravilnika o organizovanju, sprovođenju i načinu polaganja vozačkog ispita, vođenju i rokovima čuvanja evidencija o vozačkom ispitu i uslovima koje mora da ispuni vozilo na kojem se obavlja vozački ispit",
+            "(\"Sl. glasnik RS\", br. 112/2017)"
+        ],
+        "link": null
+    },
+    {
+        "title": "Član 3",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja\n  u \"Službenom glasniku Republike Srbije\".",
+            "Sledeći »",
+            "Ako ne probate više različitih izbora nikada nećete biti sigurni da li imate najbolju opciju u svojim rukama. Mi Vam tu mogućnost nudimo besplatno! Popunite formular i dobićete priliku da bez ikakvih troškova saznate da li je Paragraf dobar izbor za Vas.",
+            "Ukoliko želite da Vas obaveštavamo o novostima i aktivnostima kompanije Paragraf prijavite se na našu mailing listu. Vaš e-mail neće biti upotrebljen u druge svrhe."
+        ],
+        "link": null
+    }
+]

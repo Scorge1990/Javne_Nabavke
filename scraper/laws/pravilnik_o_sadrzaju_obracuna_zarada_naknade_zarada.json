@@ -1,0 +1,96 @@
+[
+    {
+        "title": "Član 1",
+        "texts": [
+            "Ovim pravilnikom se propisuje sadržaj obračuna zarade, odnosno naknade zarade."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-sadrzaju-obracuna-zarada-naknade-zarada.html#clan_1"
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Obračun zarade, odnosno naknade zarade sadrži:",
+            "1) podatke o poslodavcu, i to:",
+            "(1) za pravno lice: naziv, sedište (adresa), PIB i matični broj, broj računa i naziv banke kod koje se račun vodi,",
+            "(2) za preduzetnika: poslovno ime, sedište (adresa), PIB, matični broj, broj računa i naziv banke kod koje se račun vodi,",
+            "(3) za fizičko lice: ime i prezime, adresu, JMBG, broj računa i naziv banke kod koje se račun vodi;",
+            "2) podatke o zaposlenom: ime i prezime, adresu, JMBG, naziv banke i broj računa na koji se isplaćuje zarada odnosno naknada zarade;",
+            "3) podatke o periodu na koji se odnosi obračun: mesec, odnosno period na koji se odnosi obračun zarade, odnosno naknade zarade (deo ili konačni obračun, odnosno naknade zarade);",
+            "4) podatke potrebne za obračun zarade, odnosno naknade zarade, kao i doprinosa za obavezno socijalno osiguranje i poreza u skladu sa zakonom, kao i iznos zarade odnosno naknade;",
+            "5) datum određen za isplatu zarade, odnosno naknade zarade (datum dospelosti)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-sadrzaju-obracuna-zarada-naknade-zarada.html#clan_2"
+    },
+    {
+        "title": "Član 3",
+        "texts": [
+            "Podaci iz člana 2. stav 1. tačka 4) ovog pravilnika sadrže:",
+            "1) ostvarene časove rada, odnosno druge podatke od kojih zavisi iznos zarade, i to:",
+            "(1) časove redovnog rada prema rasporedu radnog vremena,",
+            "(2) časove rada na dan praznika koji je neradni dan,",
+            "(3) časove rada noću,",
+            "(4) časove prekovremenog rada,",
+            "(5) časove rada u smeni;",
+            "(6) druge časove rada ostvarene u skladu sa članom 108. stav 4. Zakona o radu;",
+            "2) časove pripravnosti;",
+            "3) časove za koje zaposleni ostvaruje pravo na naknadu zarade - s posebno iskazanim časovima:",
+            "(1) godišnjeg odmora,",
+            "(2) privremene sprečenosti za rad do 30 dana,",
+            "(3) privremene sprečenosti za rad u slučaju povrede na radu ili profesionalne bolesti,",
+            "(4) praznika koji je neradni dan,",
+            "(5) plaćenog odsustva,",
+            "(6) vojne vežbe,",
+            "(7) odazivanja na poziv državnog organa,",
+            "(8) porodiljskog odsustva i odsustvo sa rada radi nege deteta,",
+            "(9) časove odsustva sa rada do kojih je došlo bez krivice zaposlenog ili usled drugih okolnosti za koje zaposleni nije odgovoran,",
+            "(10) za vreme prekida rada do koga je došlo naredbom nadležnog državnog organa ili nadležnog organa poslodavca zbog neobezbeđivanja bezbednosti i zaštite života i zdravlja na radu, koja je uslov daljeg obavljanja rada bez ugrožavanja života i zdravlja zaposlenih i drugih lica,",
+            "(11) u kojima zaposleni ne radi zbog drugih opravdanih razloga određenih zakonom, drugim propisom ili kolektivnim ugovorom,",
+            "(12) udaljenja sa rada zbog nepoštovanja radne discipline, odnosno povrede radne obaveze i dr.,",
+            "(13) odsustva sa rada usled privremene sprečenosti za rad preko 30 dana, osim u slučaju privremene sprečenosti za rad u slučaju povrede na radu ili profesionalne bolesti;",
+            "4) časove za koje zaposleni ne prima naknadu - s posebno iskazanim časovima:",
+            "(1) neplaćenog odsustva;",
+            "(2) neopravdanih izostanaka;",
+            "5) iznos zarade za obavljeni rad i vreme provedeno na radu, i to:",
+            "(1) iznos osnovne zarade na osnovu ostvarenih časova rada iz tačke 1) ovog člana,",
+            "(2) iznos uvećane zarade, na osnovu ostvarenih časova rada iz tač. 1) i 2) ovog člana,",
+            "(3) iznos zarade za radni učinak;",
+            "6) iznos zarade po osnovu doprinosa zaposlenog poslovnom uspehu poslodavca (nagrade, bonusi i sl.);",
+            "7) iznos naknade troškova koji imaju karakter zarade (topli obrok, regres i dr.);",
+            "8) iznos ostalih primanja iz radnog odnosa koja imaju karakter zarade, odnosno naknade zarade;",
+            "9) iznos naknade zarade na osnovu časova iz tačke 3) ovog člana, sa posebno iskazanom naknadom zarade, koja se obezbeđuje iz sredstava obaveznog zdravstvenog osiguranja, u skladu sa zakonom kojim se uređuju prava iz obaveznog zdravstvenog osiguranja;",
+            "10) iznos zarade, odnosno naknade zarade po osnovima iz tač. 5-9) ovog člana;",
+            "11) vrstu, osnovicu, stopu i iznos doprinosa za obavezno socijalno osiguranje na zaradu, odnosno naknadu zarade, koje je poslodavac dužan da obračuna i uplati u ime i u korist zaposlenog (doprinosi iz zarade), i to:",
+            "(1) za penzijsko i invalidsko osiguranje,",
+            "(2) za zdravstveno osiguranje,",
+            "(3) za osiguranje za slučaj nezaposlenosti;",
+            "12) stopu poreza, iznos poreske olakšice za plaćanje poreza na zaradu, osnovicu za plaćanje poreza na zaradu i iznos poreza na zaradu;",
+            "13) iznos zarade, odnosno naknade zarade bez iznosa pripadajućih doprinosa i poreza (neto), po osnovama iz tač. 11) i 12) ovog člana;",
+            "14) vrstu, osnovicu, stopu i iznos doprinosa za obavezno socijalno osiguranje na zaradu, odnosno naknadu zarade, koje je poslodavac dužan da obračuna i uplati u svoje ime, a u korist zaposlenog (doprinosi na zaradu), i to:",
+            "(1) za penzijsko i invalidsko osiguranje,",
+            "(2) za zdravstveno osiguranje,",
+            "(3) za osiguranje za slučaj nezaposlenosti;",
+            "15) iznos i vrstu obustava;",
+            "16) utvrđeni iznos za isplatu, tj iznos zarade, odnosno naknade zarade bez pripadajućih doprinosa i poreza umanjen za iznos obustave - razlika iznosa iz tačke 13) i tačke 15) ovog člana;",
+            "17) iznos zarade odnosno naknade zarade koja nije isplaćena ili nije isplaćena u celosti, uz naznaku dana dospelosti ako na taj dan zarada odnosno naknada zarade nije isplaćena.",
+            "Obračun zarade, odnosno naknade zarade ne mora da sadrži podatke iz tač. 1-9) ovog člana, u slučaju da se isplaćuje deo zarade, odnosno naknade zarade, osim ako nije u pitanju konačan obračun zarade odnosno naknade zarade."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-sadrzaju-obracuna-zarada-naknade-zarada.html#clan_3"
+    },
+    {
+        "title": "Član 4*",
+        "texts": [
+            "Ako poslodavac na dan dospelosti ne isplati zaradu, odnosno naknadu zarade ili ih ne isplati u celosti, obračun zarade, odnosno naknade zarade, osim podataka iz člana čl. 2. i 3. ovog pravilnika sadrži i potpis ovlašćenog lica i pečat poslodavca."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-sadrzaju-obracuna-zarada-naknade-zarada.html#clan_4*"
+    },
+    {
+        "title": "Član 5",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u \"Službenom glasniku Republike Srbije\", a primenjuje se počev od isplate zarade, odnosno na naknade zarade za septembar 2014. godine.",
+            "Ako ne probate više različitih izbora nikada nećete biti sigurni da li imate najbolju opciju u svojim rukama. Mi Vam tu mogućnost nudimo besplatno! Popunite formular i dobićete priliku da bez ikakvih troškova saznate da li je Paragraf dobar izbor za Vas.",
+            "Ukoliko želite da Vas obaveštavamo o novostima i aktivnostima kompanije Paragraf prijavite se na našu mailing listu. Vaš e-mail neće biti upotrebljen u druge svrhe.",
+            "Pratite Paragraf na Viberu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-sadrzaju-obracuna-zarada-naknade-zarada.html#clan_5"
+    }
+]

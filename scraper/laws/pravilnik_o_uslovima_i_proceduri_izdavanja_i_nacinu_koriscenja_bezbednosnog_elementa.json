@@ -1,0 +1,104 @@
+[
+    {
+        "title": "Član 1",
+        "texts": [
+            "Ovim pravilnikom uređuju se uslovi i procedura za izdavanje, kao i način korišćenja bezbednosnog elementa iz člana 7. stav 1. Zakona o fiskalizaciji (\"Službeni glasnik RS\", broj 153/20 - u daljem tekstu: Zakon)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-uslovima-i-proceduri-izdavanja-i-nacinu-koriscenja-bezbednosnog-elementa.html#clan_1"
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Bezbednosni element, u smislu člana 7. stav 1. Zakona, je hardverski ili softverski element koji Poreska uprava izdaje obvezniku fiskalizacije, radi:",
+            "1) potvrde autentičnosti obveznika fiskalizacije;",
+            "2) digitalnog potpisivanja fiskalnih računa posredstvom elektronskog sertifikata bez obzira na postojanje veze sa internetom;",
+            "3) očuvanja integriteta podataka o fiskalnim računima prilikom slanja u Sistem za upravljanje fiskalizacijom na osnovu kriptografije javnog ključa;",
+            "4) verifikacije fiskalnih računa.",
+            "Račun koji je izdat bez korišćenja bezbednosnog elementa, ne može se smatrati fiskalnim računom u smislu člana 5. stav 1. Zakona.",
+            "Bezbednosni element je personalizovan za obveznika fiskalizacije, za konkretan poslovni prostor i poslovnu prostoriju i ne može da se koristi od strane neovlašćenog lica, u drugom poslovnom prostoru i poslovnoj prostoriji, odnosno u okviru neodgovarajućeg elektronskog fiskalnog uređaja."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-uslovima-i-proceduri-izdavanja-i-nacinu-koriscenja-bezbednosnog-elementa.html#clan_2"
+    },
+    {
+        "title": "Član 3",
+        "texts": [
+            "Bezbednosni element ima brojače koji se posle svake transakcije uvećavaju, i to:",
+            "1) brojač po jedinstvenom rednom broju fiskalnog računa;",
+            "2) brojače po jedinstvenom rednom broju fiskalnog računa po vrsti računa i po tipu transakcije;",
+            "3) brojač prometa i poreza po poreskim stopama;",
+            "4) brojač po ukupnoj vrednosti evidentiranog prometa i ukupnom iznosu poreza.",
+            "Nakon svake transakcije u bezbednosnom elementu se uvećava:",
+            "1) ukupan broj računa koji su potpisani elektronskim sertifikatom;",
+            "2) ukupan broj računa po vrsti računa i po vrsti transakcija, koji su potpisani elektronskim sertifikatom;",
+            "3) ukupna vrednost prometa i poreza po poreskim stopama;",
+            "4) ukupna vrednost evidentiranog prometa i ukupni iznos poreza."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-uslovima-i-proceduri-izdavanja-i-nacinu-koriscenja-bezbednosnog-elementa.html#clan_3"
+    },
+    {
+        "title": "Član 4",
+        "texts": [
+            "Bezbednosni element može biti u sledećim oblicima:",
+            "1) pametna kartica;",
+            "2) pametna SD kartica;",
+            "3) USB token;",
+            "4) zaštićeni fajl u odgovarajućem formatu (npr. pfx - personal exchange format)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-uslovima-i-proceduri-izdavanja-i-nacinu-koriscenja-bezbednosnog-elementa.html#clan_4"
+    },
+    {
+        "title": "Član 5",
+        "texts": [
+            "Elektronski sertifikat u okviru bezbednosnog elementa služi da reprodukuje digitalni potpis obveznika fiskalizacije prilikom izdavanja svakog fiskalnog računa, kao i da reprodukuje zaštićenu lozinku obveznika fiskalizacije prilikom povezivanja sa Sistemom za upravljanje fiskalizacijom Poreske uprave."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-uslovima-i-proceduri-izdavanja-i-nacinu-koriscenja-bezbednosnog-elementa.html#clan_5"
+    },
+    {
+        "title": "Član 6",
+        "texts": [
+            "Bezbednosni element se izdaje obvezniku fiskalizacije na osnovu prijave za izdavanje bezbednosnog elementa, podnete Poreskoj upravi.",
+            "U prijavu iz stava 1. ovog člana unose se sledeći podaci:",
+            "1) tehnička specifikacija bezbednosnog elementa i način preuzimanja bezbednosnog elementa;",
+            "2) broj bezbednosnih elemenata.",
+            "Poreska uprava u roku od sedam dana od dana podnošenja prijave generiše bezbednosne elemente, odnosno bezbednosni element, obaveštava obveznika fiskalizacije da može isti da preuzme i izdaje bezbednosne elemente, odnosno bezbednosni element uz potvrdu o preuzimanju.",
+            "Prijava iz stava 2. ovog člana podnosi se u elektronskom obliku preko portala Poreske uprave, a potvrda iz stava 3. ovog člana se lično uručuje ovlašćenom licu obveznika fiskalizacije prilikom preuzimanja bezbednosnog elementa.",
+            "Poreska uprava vodi evidenciju bezbednosnih elemenata izdatih na osnovu prijava iz stava 2. ovog člana."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-uslovima-i-proceduri-izdavanja-i-nacinu-koriscenja-bezbednosnog-elementa.html#clan_6"
+    },
+    {
+        "title": "Član 7",
+        "texts": [
+            "Bezbednosni element se izdaje obvezniku fiskalizacije sa vremenski ograničenim elektronskim sertifikatom, i to sa rokom trajanja od najmanje godinu dana, a najviše četiri godine, od dana donošenja rešenja iz člana 6. stav 3. ovog pravilnika.",
+            "Po isteku roka trajanja elektronskog sertifikata, bezbednosni element se više ne može koristiti, ali obveznik fiskalizacije može podneti nov zahtev iz člana 6. stav 1. ovog pravilnika za izdavanje novog bezbednosnog elementa, u roku od 30 dana pre isteka roka važenja važećeg bezbednosnog elementa."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-uslovima-i-proceduri-izdavanja-i-nacinu-koriscenja-bezbednosnog-elementa.html#clan_7"
+    },
+    {
+        "title": "Član 8",
+        "texts": [
+            "U slučaju krađe, odnosno oštećenja ili uništenja bezbednosnog elementa usled više sile (poplava, požar, zemljotres i sl.), odnosno usled drugih okolnosti, obveznik fiskalizacije je dužan da u roku od tri dana od nastanka tih okolnosti obavesti Poresku upravu radi deaktivacije, elektronski, putem portala Poreske uprave."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-uslovima-i-proceduri-izdavanja-i-nacinu-koriscenja-bezbednosnog-elementa.html#clan_8"
+    },
+    {
+        "title": "Član 9",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u \"Službenom glasniku Republike Srbije\", a primenjuje se od 1. jula 2021. godine.",
+            "",
+            "Samostalni član Pravilnika o izmeniPravilnika o uslovima i proceduri izdavanja i načinu korišćenja bezbednosnog elementa",
+            "(\"Sl. glasnik RS\", br. 96/2021)"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-uslovima-i-proceduri-izdavanja-i-nacinu-koriscenja-bezbednosnog-elementa.html#clan_9"
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u \"Službenom glasniku Republike Srbije\".",
+            "Ako ne probate više različitih izbora nikada nećete biti sigurni da li imate najbolju opciju u svojim rukama. Mi Vam tu mogućnost nudimo besplatno! Popunite formular i dobićete priliku da bez ikakvih troškova saznate da li je Paragraf dobar izbor za Vas.",
+            "Ukoliko želite da Vas obaveštavamo o novostima i aktivnostima kompanije Paragraf prijavite se na našu mailing listu. Vaš e-mail neće biti upotrebljen u druge svrhe.",
+            "Pratite Paragraf na Viberu"
+        ],
+        "link": null
+    }
+]

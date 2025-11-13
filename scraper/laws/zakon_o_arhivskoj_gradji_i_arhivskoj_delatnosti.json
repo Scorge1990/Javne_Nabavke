@@ -1,0 +1,900 @@
+[
+    {
+        "title": "Član 1",
+        "texts": [
+            "Ovim zakonom uređuje se sistem zaštite arhivske građe i dokumentarnog materijala,\r\nuslovi i način korišćenja arhivske građe, organizacija, nadležnost i delatnost arhiva u Republici\r\nSrbiji.",
+            "Termini i definicije"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_1"
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Pojmovi upotrebljeni u ovom zakonu imaju sledeće značenje:",
+            "1)Arhivska delatnostzaštite arhivske građe i dokumentarnog materijala\r\nobuhvata: istraživanje, pronalaženje i evidentiranje; prikupljanje, preuzimanje, čuvanje\r\ni stručno održavanje arhivske građe; proučavanje, sređivanje i obradu arhivske građe; sprovođenje\r\nmera zaštite; izradu informativnih sredstava, vrednovanje i kategorizaciju, korišćenje, izlaganje\r\ni objavljivanje arhivske građe; nadzor nad čuvanjem i zaštitom arhivske građe i dokumentarnog\r\nmaterijala koji se nalazi van arhiva i druge poslove utvrđene ovim zakonom.",
+            "2)Javni arhivje ustanova zaštite koja obavlja arhivsku delatnost.",
+            "3)Arhivska građa,kao dokumentarni materijal koji se trajno čuva,\r\nje odabrani izvorni, a u nedostatku izvornog, i svaki reprodukovani oblik dokumenta ili zapisa\r\nkoji su nastali radom i delovanjem državnih organa i organizacija, organa teritorijalne autonomije\r\ni jedinica lokalne samouprave, ustanova, javnih preduzeća, imalaca javnih ovlašćenja, privrednih\r\ndruštava, preduzetnika, lica koja obavljaju registrovanu delatnost, verskih zajednica, kao\r\ni drugih pravnih ili fizičkih lica, a od trajnog su značaja za kulturu, umetnost, nauku,\r\nprosvetu i druge društvene oblasti, bez obzira na to kada i gde su nastali, i da li se nalaze\r\nu ustanovama zaštite kulturnih dobara ili van njih, i bez obzira na oblik i nosač zapisa\r\nna kome su sačuvani;",
+            "4)Arhivska građa u elektronskom oblikuje arhivska građa koja je\r\nizvorno nastala u elektronskom obliku.",
+            "5)Dokumentarni materijalpredstavlja celinu dokumenata ili zapisa\r\nnastalih ili primljenih delovanjem i radom subjekata iz tačke 3) ovog stava, u izvornom ili\r\nreprodukovanom obliku dokumenta, bez obzira na formu i format beleženja, kao i propisane\r\nevidencije o njemu.",
+            "6)Dokumentarni materijal u elektronskom oblikuje dokumentarni\r\nmaterijal koji je izvorno nastao u elektronskom obliku.",
+            "7)Dokumentje zapis bilo koje vrste, oblika i tehnike izrade, koji\r\nsadržajem, kontekstom i strukturom pruža dokaz o aktivnosti koju pravno ili fizičko lice\r\npreduzima, obavlja ili zaključuje tokom svoje delatnosti ili lične aktivnosti.",
+            "Glavna svojstva dokumenta su: autentičnost, verodostojnost, celovitost\r\ni upotrebljivost.",
+            "Autentičanje dokument za koji se može dokazati da jeste ono što\r\nse u njemu tvrdi da jeste, da ga je stvorilo ili poslalo fizičko ili pravno lice za koje\r\nse tvrdi da ga je stvorilo ili poslalo, i da je stvoren ili poslat u ono vreme u koje se\r\ntvrdi da je to učinjeno.",
+            "Verodostojanje onaj dokument čijem se sadržaju može verovati da\r\npotpuno i tačno predstavlja poslovne aktivnosti ili činjenice koje potvrđuje i na koje se\r\nmože osloniti tokom narednih poslovnih aktivnosti.",
+            "Celovitje onaj dokument koji je potpun i neizmenjen.",
+            "Upotrebljivje onaj dokument koji je moguće locirati, pretražiti,\r\npredstaviti i interpretirati.",
+            "8)Arhivski informacioni sistemje jedinstveni centralizovani informacioni\r\nsistem javnih arhiva koji primenjuju jedinstvene standarde za upravljanje dokumentima i informacijama\r\no arhivskoj građi.",
+            "9)Arhivski fondčini celinu arhivske građe, bez obzira na njen\r\noblik ili nosač zapisa, koju je stvorilo i/ili primilo pravno ili fizičko lice u obavljanju\r\nsvoje delatnosti. Arhivski fond čuva se kao celina i ne može se deliti.",
+            "10)Stvaralac arhivske građe i dokumentarnog materijalaje pravno\r\nili fizičko lice čijim delovanjem nastaje arhivska građa i dokumentarni materijal (u daljem\r\ntekstu: stvaralac).",
+            "11)Imalac arhivske građe i dokumentarnog materijalaje nosilac\r\nprava na arhivskoj građi i dokumentarnom materijalu (vlasnik, odnosno imalac drugog stvarnog\r\nprava ili strana u obligacionom odnosu) ili svako drugo (pravno ili fizičko) lice koje, na\r\nbilo koji način i po bilo kojem osnovu ima državinu nad njom (u daljem tekstu: imalac).",
+            "12)Kategorizacija arhivske građeje vrednovanje arhivske građe\r\nkoja se čuva u arhivima.",
+            "13)Dostupnostpredstavlja pravo uvida u arhivsku građu, a korišćenje\r\nnaročito predstavlja pravo uvida, pribavljanja kopija i objavljivanje arhivske građe, pod\r\nistim uslovima za sva fizička i pravna lica, u skladu sa ovim zakonom.",
+            "14)Preventivna zaštitaje niz mera i postupaka kojima se usporava\r\nprirodno propadanje, umanjuje ili sprečava oštećenje arhivske građe dejstvom fizičkih, hemijskih\r\ni bioloških uzročnika, prirodnih sila i nepogoda, požara i eksplozija, katastrofa, kvarova\r\nna instalacijama, usled nepravilnog transporta, vandalizma i neadekvatnog obezbeđenja od\r\nkrađe i dr.",
+            "15)Mikrofilmovanjeje reprodukovanje arhivske građe na mikrofilmsku\r\ntraku.",
+            "16)Digitalizacijaje prenošenje arhivske građe iz oblika koji nije\r\nelektronski u elektronski oblik.",
+            "17)Konzervacijaarhivske građe je niz interventnih tehnika kojima\r\nse postiže hemijska i fizička stabilizacija arhivske građe, odnosno kojima se usporava, zaustavlja,\r\numanjuje ili eliminiše dejstvo uzročnika propadanja arhivske građe.",
+            "18)Restauracijaarhivske građe je niz postupaka čijim se delovanjem\r\noštećena arhivska građa vraća u poznato ili pretpostavljeno stanje, odnosno čijim se delovanjem\r\noštećenoj arhivskoj građi vraćaju poznati ili pretpostavljeni oblik, čvrstina i elastičnost.",
+            "19)Arhivska knjigaje osnovna evidencija o celokupnoj arhivskoj\r\ngrađi i dokumentarnom materijalu nastalom u radu stvaraoca.",
+            "20)Lista kategorija arhivske građe i dokumentarnog materijalaje\r\nposeban akt kojim se određuju vrste arhivske građe i dokumentarnog materijala sa rokovima\r\nčuvanja."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_2"
+    },
+    {
+        "title": "Član 3",
+        "texts": [
+            "Termini kojima su u ovom zakonu označeni položaji, profesije, odnosno zanimanja,\r\nizraženi u gramatičkom muškom rodu, podrazumevaju prirodni muški i ženski rod lica na koja\r\nse odnose.",
+            "Arhivska građa"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_3"
+    },
+    {
+        "title": "Član 4",
+        "texts": [
+            "Arhivska građa je kulturno dobro od opšteg interesa za Republiku Srbiju\r\nkoje uživa posebnu zaštitu utvrđenu zakonom.",
+            "Arhivska građa na kojoj postoji pravo javne svojine je u svojini Republike\r\nSrbije.",
+            "Sredstva za zaštitu i čuvanje arhivske građe u svojini Republike Srbije\r\nobezbeđuju se u budžetu Republike Srbije, autonomne pokrajine i jedinice lokalne samouprave,\r\nu skladu sa zakonom.",
+            "Arhivska građa zaštićena je zakonom bez obzira na to u čijem je vlasništvu\r\nili posedu, odnosno kod koga se nalazi.",
+            "Delatnost zaštite arhivske građe je od opšteg interesa za Republiku Srbiju."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_4"
+    },
+    {
+        "title": "Član 5",
+        "texts": [
+            "Republika Srbija, autonomne pokrajine i jedinice lokalne samouprave dužne\r\nsu da obezbede odgovarajuće uslove za trajno čuvanje i zaštitu arhivske građe.",
+            "Autonomna pokrajina na čijoj teritoriji javni arhiv obavlja poslove zaštite\r\narhivske građe nastale radom pokrajinskih organa, obezbeđuje prostor za rad, odnosno obavljanje\r\ndelatnosti arhiva i smeštajni prostor za arhivsku građu.",
+            "Jedinice lokalne samouprave na čijim teritorijama javni arhiv obavlja poslove\r\nzaštite arhivske građe u skladu sa rešenjem iz člana 52. stav 2. ovog zakona, zajednički\r\nobezbeđuju prostor za rad, odnosno obavljanje delatnosti arhiva i smeštajni prostor za arhivsku\r\ngrađu.",
+            "Zabrana uništenja i oštećenja i čuvanje arhivske\r\ngrađe"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_5"
+    },
+    {
+        "title": "Član 6",
+        "texts": [
+            "Arhivska građa, odnosno dokumentarni materijal koji se trajno čuva, iz\r\nkojeg nije izvršeno odabiranje arhivske građe, ne sme se oštetiti ni uništiti bez obzira\r\nna to da li je mikrofilmovan ili digitalizovan.",
+            "Arhivska građa čuva se trajno u obliku u kojem je nastala.",
+            "Izvorni oblik dokumentarnog materijala, koji nije elektronski i za koji\r\nnije propisan trajan rok čuvanja može se uništiti i pre isteka propisanog perioda čuvanja,\r\nukoliko se čuva u okviru usluge kvalifikovanog elektronskog čuvanja dokumenata.",
+            "Arhivski fond Republike Srbije"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_6"
+    },
+    {
+        "title": "Član 7",
+        "texts": [
+            "Arhivski fond Republike Srbije je deo nacionalnog i svetskog kulturnog\r\nnasleđa i izvora informacija o društvu i pod zaštitom je Republike Srbije.",
+            "Sredstva za dopunu Arhivskog fonda Republike Srbije obezbeđuju se u budžetu\r\nRepublike Srbije, autonomne pokrajine i jedinice lokalne samouprave.",
+            "Arhivski fond Republike Srbije može se dopunjavati i poklonima, donacijama\r\ni zaveštanjem.",
+            "Arhivski fond Republike Srbije čini sva arhivska građa koja se nalazi na\r\nteritoriji Republike Srbije, kao i arhivska građa koja predstavlja deo kulturnog nasleđa\r\nRepublike Srbije a nalazi se van njene teritorije, kao i kopije stranih izvora koji se odnose\r\nna istoriju Srbije i srpskog naroda.",
+            "Republika Srbija preduzima mere za dopunu Arhivskog fonda Republike Srbije.",
+            "Pod merama iz stava 5. ovog člana podrazumevaju se: finansiranje, obezbeđivanje\r\ndozvola za istraživanje, evidentiranje arhivske građe iz stava 4. ovog člana, kupovina, kopiranje,\r\ntransfer, obrada i smeštaj u nadležne arhive.",
+            "Telo za koordinaciju rada arhiva Republike\r\nSrbije"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_7"
+    },
+    {
+        "title": "Član 8",
+        "texts": [
+            "Vlada obrazuje Telo za koordinaciju rada javnih i specijalnih arhiva Republike\r\nSrbije (u daljem tekstu: Telo za koordinaciju) kao telo nadležno za unapređenje saradnje\r\ni koordinacije rada organa državne uprave, Državnog arhiva Srbije, javnih i specijalnih arhiva.",
+            "Vlada imenuje članove Tela za koordinaciju od predstavnika ministarstava\r\nnadležnih za kulturu, državnu upravu i lokalnu samoupravu, unutrašnje poslove, spoljne poslove,\r\nodbranu, prosvetu, pravdu, vodoprivredu i telekomunikacije, kao i predstavnika Državnog arhiva\r\nSrbije.",
+            "Članovi Tela za koordinaciju, koji predstavljaju organe državne uprave,\r\nmogu biti isključivo imenovana i postavljena lica.",
+            "Stručnu i administrativno tehničku potporu Telu za koordinaciju pruža Državni\r\narhiv Srbije.",
+            "Odlukom kojom osniva Telo za koordinaciju Vlada određuje i njegov sastav,\r\nzadatke, rok u kome ono podnosi izveštaje Vladi i druga pitanja koja su vezana za njegov\r\nrad.",
+            "II ARHIVSKA GRAĐA I DOKUMENTARNI MATERIJAL",
+            "",
+            "1. OBAVEZE STVARAOCA I IMAOCA ARHIVSKE GRAĐE I DOKUMENTARNOG\r\nMATERIJALA",
+            "Obaveze stvaraoca i imaoca arhivske građe i dokumentarnog\r\nmaterijala"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_8"
+    },
+    {
+        "title": "Član 9",
+        "texts": [
+            "Stvaralac i imalac arhivske građe i dokumentarnog materijala dužan je da\r\nsavesno čuva u sređenom i bezbednom stanju arhivsku građu i dokumentarni materijal u obliku\r\nu kojem su nastali.",
+            "Stvaralac i imalac iz stava 1. ovog člana osim fizičkih lica dužan je i\r\nda:",
+            "1) obezbedi odgovarajući prostor i opremu za smeštaj i zaštitu arhivske\r\ngrađe i dokumentarnog materijala;",
+            "2) odredi odgovorno stručno lice za zaštitu arhivske građe i dokumentarnog\r\nmaterijala i postupanje sa arhivskom građom i dokumentarnim materijalom;",
+            "3) evidentira, označava, klasifikuje, datira i arhivira arhivsku građu\r\ni dokumentarni materijal;",
+            "4) predaje arhivsku građu nadležnom arhivu pod uslovima i u rokovima predviđenim\r\novim zakonom;",
+            "5) osigura trajno čuvanje arhivske građe u elektronskom obliku, njeno održavanje,\r\nmigriranje, odnosno prebacivanje na nove nosače u propisanim formatima do predaje arhivske\r\ngrađe u elektronskom obliku nadležnom javnom arhivu;",
+            "6) vodi arhivsku knjigu na propisanom obrascu;",
+            "7) dostavi nadležnom arhivu prepis arhivske knjige najkasnije do 30. aprila\r\ntekuće godine, za dokumentarni materijal nastao u prethodnoj godini;",
+            "8) pribavi mišljenje nadležnog arhiva pre preduzimanja mera koje se odnose\r\nna arhivsku građu i dokumentarni materijal (statusne promene, fizičko preseljenje, adaptacija\r\nprostorija, otvaranje stečaja ili likvidacije, mikrofilmovanje, digitalizacija i dr.);",
+            "9) odabira arhivsku građu i izdvaja radi uništenja bezvredan dokumentarni\r\nmaterijal kojem je istekao rok čuvanja, godinu dana od dana isteka utvrđenog roka;",
+            "10) omogući ovlašćenom licu nadležnog javnog arhiva stručni nadzor nad\r\nevidentiranjem, klasifikovanjem, odabiranjem, arhiviranjem, čuvanjem, stručnim održavanjem\r\ni zaštitom arhivske građe, odnosno nad njenim odabiranjem iz dokumentarnog materijala;",
+            "11) postupa u skladu sa merama i rokovima koje nadležni arhiv naloži rešenjem\r\na na osnovu prethodno sačinjenog zapisnika o utvrđenom stanju zaštite arhivske građe i dokumentarnog\r\nmaterijala;",
+            "12) obavesti nadležni javni arhiv o svim promenama koje su od značaja za\r\narhivsku građu najkasnije u roku od 30 dana od dana njihovog nastanka.",
+            "Bliže uslove iz stava 2. tačka 1) ovog člana uređuje ministar nadležan\r\nza kulturu (u daljem tekstu: ministar).",
+            "Stvaralac i imalac arhivske građe i dokumentarnog materijala dužan je da\r\nobezbedi stručno osposobljavanje i usavršavanje, kao i proveru stručne osposobljenosti zaposlenih\r\nkoji upravljaju dokumentima.",
+            "Obrazac iz stava 2. tačka 6) propisuje ministar.",
+            "Stvaralac i imalac arhivske građe i dokumentarnog materijala dužan je da\r\nu roku od 30 dana obavesti nadležni arhiv o svom osnivanju, kao i o svim izmenama statusa\r\ni organizacije (promeni statusa i/ili naziva, promeni organizacije, promeni adrese, kao i\r\nprestanku rada).",
+            "Nedeljivost arhivskog fonda"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_9"
+    },
+    {
+        "title": "Član 10",
+        "texts": [
+            "Stvaralac i imalac arhivske građe i dokumentarnog materijala dužan je da\r\narhivsku građu čuva kao celinu - arhivski fond.",
+            "Obaveze stvaraoca i imaoca arhivske građe i dokumentarnog\r\nmaterijala u elektronskom obliku"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_10"
+    },
+    {
+        "title": "Član 11",
+        "texts": [
+            "Stvaralac i imalac arhivske građe i dokumentarnog materijala u elektronskom\r\nobliku dužan je da sprovodi procedure i postupke vezane za upravljanje dokumentima, kao i\r\nda koristi informacioni sistem, koji garantuju zaštitu, autentičnost, verodostojnost, celovitost\r\ni upotrebljivost elektronskih dokumenata.",
+            "Stvaralac i imalac arhivske građe i dokumentarnog materijala pripremu arhivske\r\ngrađe i dokumentarnog materijala za pouzdano elektronsko čuvanje i pouzdano elektronsko čuvanje\r\narhivske građe i dokumentarnog materijala vrši u skladu sa propisima kojima se uređuje pouzdano\r\nelektronsko čuvanje i u skladu sa propisima donetim na osnovu ovog zakona.",
+            "Jedinstvene tehničko-tehnološke zahteve i procedure za čuvanje i zaštitu\r\narhivske građe i dokumentarnog materijala u elektronskom obliku uređuje Vlada."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_11"
+    },
+    {
+        "title": "Član 12",
+        "texts": [
+            "Državni arhiv Srbije dužan je da uspostavi i vodi elektronski arhiv u Državnom\r\ncentru za čuvanje i upravljanje podacima.",
+            "Javni arhivi dužni su da koriste elektronski arhiv putem jedinstvene informaciono-komunikacione\r\nmreže elektronske uprave.",
+            "Služba Vlade nadležna za projektovanje, usklađivanje, razvoj i funkcionisanje\r\nsistema elektronske uprave i informacionih sistema i infrastrukture organa dužna je da omogući\r\npristup jedinstvenoj informaciono-komunikacionoj mreži elektronske uprave iz stava 2. ovog\r\nčlana i čuvanje, sprovođenje mera zaštite i obezbeđivanja sigurnosti i bezbednosti podataka\r\nodnosno dokumenata u elektronskom obliku u elektronskom arhivu u Državnom centru za čuvanje\r\ni upravljanje podacima iz stava 1. ovog člana."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_12"
+    },
+    {
+        "title": "Član 13",
+        "texts": [
+            "Arhivska građa u elektronskom obliku nastala radom državnih organa i organizacija,\r\norgana teritorijalne autonomije i jedinica lokalne samouprave, ustanova i imalaca javnih\r\novlašćenja, pre predaje nadležnom arhivu, može se privremeno dati na čuvanje samo državnom\r\norganu, organizaciji i pružaocu usluge kvalifikovanog elektronskog čuvanja.",
+            "Upravljanje dokumentima"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_13"
+    },
+    {
+        "title": "Član 14",
+        "texts": [
+            "Stvaralac i imalac, osim fizičkih lica, dužan je da donese:",
+            "1) opšti akt o načinu evidentiranja, klasifikovanja, arhiviranja i čuvanja\r\narhivske građe i dokumentarnog materijala;",
+            "2) listu kategorija arhivske građe i dokumentarnog materijala sa rokovima\r\nčuvanja;",
+            "3) opšti akt o načinu evidentiranja, zaštite, i korišćenja elektronskih\r\ndokumenata.",
+            "Nadležni javni arhiv daje saglasnost na listu kategorija arhivske građe\r\ni dokumentarnog materijala sa rokovima čuvanja."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_14"
+    },
+    {
+        "title": "Član 15",
+        "texts": [
+            "Upravljanje dokumentima, način evidentiranja, klasifikovanja, arhiviranja,\r\nčuvanja, odabiranja arhivske građe i dokumentarnog materijala državnih organa i organizacija,\r\norgana autonomne pokrajine i jedinica lokalne samouprave, ustanova, javnih preduzeća, imalaca\r\njavnih ovlašćenja, pravnih lica koja se u potpunosti ili delimično finansiraju iz budžeta\r\nRepublike Srbije, autonomne pokrajine i jedinice lokalne samouprave i bliže uslove i način\r\nzaštite i čuvanja njihove arhivske građe i dokumentarnog materijala, i listu kategorija dokumentarnog\r\nmaterijala sa rokovima čuvanja utvrđuje Vlada, osim za one kojima je to uređeno posebnim\r\nzakonom.",
+            "Za oblast pravosuđa, zdravstva, prosvete i spoljnih poslova, nadležna ministarstva,\r\nuz prethodno pribavljeno mišljenje Državnog arhiva Srbije donose opšti akt o vođenju obaveznih\r\nevidencija, upravljanju dokumentima ili arhivskom poslovanju i arhiviranju, kao i liste kategorija\r\narhivske građe i dokumentarnog materijala sa rokovima čuvanja i dostupnosti.",
+            "Ministarstvo odbrane dužno je da preduzima i propiše posebne mere zaštite,\r\nbliže uslove i način korišćenja arhivske građe i dokumentarnog materijala za potrebe odbrane\r\ni Vojske Srbije, u skladu sa ovim zakonom, propisima o odbrani i propisima kojima se uređuje\r\nvršenje arhivske delatnosti za potrebe odbrane i Vojske Srbije.",
+            "Akt o razvrstavanju arhivske građe i dokumentarnog materijala na osnovu\r\nlista kategorija arhivske građe i dokumentarnog materijala iz st. 1. i 2. ovog člana, za\r\npojedinačne organe donosi rukovodilac tog organa, uz prethodnu saglasnost nadležnog javnog\r\narhiva, osim ako zakonom nije drukčije propisano.",
+            "Odabiranje arhivske građe i uništavanje dokumentarnog materijala\r\nkome je istekao rok čuvanja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_15"
+    },
+    {
+        "title": "Član 16",
+        "texts": [
+            "Stvaralac i imalac arhivske građe i dokumentarnog materijala, dužan je\r\nda posle izvršenog odabiranja arhivske građe, izdvoji radi uništavanja dokumentarni materijal\r\nkome je istekao rok čuvanja.",
+            "Dokumentarni materijal nastao radom i delovanjem državnih organa i organizacija,\r\norgana teritorijalne autonomije i jedinica lokalne samouprave, ustanova, javnih preduzeća\r\ni imalaca javnih ovlašćenja, čiji je rok čuvanja istekao uništava se po pribavljenom odobrenju\r\nu pismenoj formi nadležnog javnog arhiva.",
+            "Nadležni javni arhiv daje odobrenje samo za uništenje dokumentarnog materijala\r\nkoji je evidentiran u arhivskoj knjizi.",
+            "Prilikom uništavanja dokumentarnog materijala iz stava 1. ovog člana, stvaralac\r\ni imalac dokumentarnog materijala dužan je da preduzme neophodne mere zaštite podataka koji\r\nbi mogli povrediti prava i pravni interes lica na koja se dokumentarni materijal odnosi.",
+            "Predaja arhivske građe nadležnom javnom arhivu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_16"
+    },
+    {
+        "title": "Član 17",
+        "texts": [
+            "Stvaralac, odnosno imalac arhivske građe, sređenu i popisanu arhivsku građu\r\npredaje na čuvanje nadležnom javnom arhivu po isteku 30 godina od dana njenog nastanka.",
+            "Nadležni javni arhiv može odlučiti da se u pojedinim slučajevima produži\r\nrok iz stava 1. ovog člana.",
+            "Izuzetno, rok iz stava 1. ovog člana može se skratiti sporazumom između\r\nnadležnog javnog arhiva i stvaraoca, odnosno imaoca arhivske građe.",
+            "Organ uprave nadležan za unutrašnje poslove stara se o čuvanju arhivske\r\ngrađe nastale u njegovom radu u za to posebno obrazovanom arhivskom odeljenju, a može je\r\npod uslovima koje sam odredi predati u celini nadležnom javnom arhivu.",
+            "Obaveze prilikom predaje arhivske građe nadležnom javnom\r\narhivu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_17"
+    },
+    {
+        "title": "Član 18",
+        "texts": [
+            "Stvaralac i imalac arhivske građe dužan je da arhivsku građu preda u originalu,\r\nsređenu, označenu, popisanu, neoštećenu ili sa saniranim oštećenjima, tehnički opremljenu,\r\na arhivsku građu u elektronskom obliku zajedno sa pripadajućim metapodacima i dekodiranu,\r\nna način koji odredi nadležni javni arhiv.",
+            "O primopredaji arhivske građe sačinjava se zapisnik čiji je sastavni deo\r\npopis arhivske građe koja se predaje nadležnom javnom arhivu.",
+            "Stvaralac i imalac arhivske građe u elektronskom obliku dužan je da prilikom\r\npredaje omogući upotrebljivost sadržaja arhivske građe, uz obezbeđenje tehničkih uslova,\r\nu skladu sa propisom iz člana 11. stav 3. ovog zakona.",
+            "Bliže uslove i način predaje arhivske građe javnim arhivima propisuje ministar.",
+            "Javni arhiv, izuzetno, preuzima arhivsku građu i ako nisu ispunjeni uslovi\r\niz ovog člana, kada je to nužno za zaštitu i spasavanje arhivske građe od oštećenja ili uništenja.",
+            "Troškove nastale u vezi sa primopredajom arhivske građe uključujući i sređivanje\r\ni izradu popisa i saniranje oštećenja, koje može da obavi nadležni javni arhiv, snosi stvaralac,\r\nodnosno imalac arhivske građe.",
+            "Stvaralac, odnosno imalac koji predaje arhivsku građu, daje nadležnom arhivu\r\npreporuku o uslovima njenog korišćenja i o rokovima dostupnosti koja predstavlja sastavni\r\ndeo zapisnika iz stava 2. ovog člana.",
+            "Predaja arhivske građe i dokumentarnog materijala nastalih\r\nu radu stvaraoca i imaoca koji je prestao sa radom"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_18"
+    },
+    {
+        "title": "Član 19",
+        "texts": [
+            "Arhivsku građu i dokumentarni materijal stvaraoca i imaoca koji je prestao\r\nsa radom dužan je da preuzme i čuva, u skladu s odredbama ovog zakona, njegov pravni sledbenik.",
+            "Odabrana, sređena i popisana, neoštećena ili sa saniranim oštećenjima,\r\narhivska građa i dokumentarni materijal, nastali u radu stvaraoca i imaoca koji je prestao\r\nsa radom i nema pravnog sledbenika smatraju se dospelim za preuzimanje od strane nadležnog\r\njavnog arhiva, osim ako zakonom nije drugačije propisano.",
+            "Stečajni upravnik dužan je da izvrši predaju odabrane, sređene i popisane\r\narhivske građe, neoštećene ili sa saniranim oštećenjima nadležnom javnom arhivu najkasnije\r\nu roku od godinu dana od dana otvaranja stečajnog postupka.",
+            "Neispunjenje obaveze predaje arhivske građe"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_19"
+    },
+    {
+        "title": "Član 20",
+        "texts": [
+            "Ukoliko stvaralac odnosno imalac arhivske građe nije pre predaje ispunio\r\nobaveze iz čl. 18. i 19. ovog zakona, nadležni javni arhiv zapisnikom će to konstatovati\r\ni izuzetno može preuzeti nesređenu i nepopisanu arhivsku građu uz prethodnu nadoknadu troškova\r\nnjenog sređivanja, evidentiranja i saniranja oštećenja.",
+            "Mere zaštite arhivske građe i dokumentarnog materijala u\r\nslučaju rizika od katastrofa i vanrednih situacija"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_20"
+    },
+    {
+        "title": "Član 21",
+        "texts": [
+            "Stvaralac i imalac arhivske građe i dokumentarnog materijala donosi plan\r\nmera zaštite arhivske građe i dokumentarnog materijala u slučaju rizika od katastrofa i vanrednih\r\nsituacija u skladu sa zakonom i dužan je da sprovodi sve mere zaštite utvrđene planom mera.",
+            "Ukoliko nastupi vanredna situacija stvaralac i imalac arhivske građe dužan\r\nje da zapisnički konstatuje dan, čas i okolnosti koje su nastale i bez odlaganja o tome pisanim\r\nputem obavesti nadležni arhiv.",
+            "Nadležni arhiv kontroliše izvršenje mera iz stava 1. ovog člana.",
+            "2. NADLEŽNOST I OBAVEZE ARHIVA",
+            "Nadležnost javnog arhiva"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_21"
+    },
+    {
+        "title": "Član 22",
+        "texts": [
+            "Javni arhiv:",
+            "1) vodi evidencije o arhivskoj građi i stvaraocima i imaocima arhivske\r\ngrađe predviđene ovim zakonom i podzakonskim aktima;",
+            "2) obavlja stručni nadzor nad evidentiranjem, klasifikovanjem, odabiranjem,\r\narhiviranjem, čuvanjem, stručnim održavanjem i zaštitom arhivske građe i dokumentarnog materijala;",
+            "3) daje odobrenje za uništenje dokumentarnog materijala kojem je istekao\r\nrok čuvanja;",
+            "4) pruža stručnu pomoć stvaraocu i imaocu dokumentarnog materijala i arhivske\r\ngrađe u izradi opštih akata o upravljanju arhivskom građom i dokumentarnim materijalom;",
+            "5) preuzima, sređuje, obrađuje arhivsku građu, izrađuje informativna sredstva\r\no arhivskoj građi, čuva i stručno održava arhivsku građu;",
+            "6) donosi akt o utvrđivanju arhivske građe za kulturno dobro;",
+            "7) obavlja istraživanja radi stvaranja celine arhivskog fonda;",
+            "8) može da učestvuje u izgradnji i razvoju elektronskih sistema za upravljanje\r\ndokumentima kod stvaraoca i imaoca arhivske građe i dokumentarnog materijala u cilju postizanja\r\nintegriteta sistema u kojima se arhiviraju dokumenta nastala u njemu;",
+            "9) čuva arhivsku građu u elektronskom obliku shodno propisima kojima se\r\nuređuju postupci i tehnološka rešenja za pouzdano elektronsko čuvanje dokumenata;",
+            "10) ima pravo uvida u podatke i kada postoje tehnički uslovi, pravo povezivanja\r\nsvog informacionog sistema sa registrima svih stvaralaca i imalaca arhivske građe i dokumentarnog\r\nmaterijala;",
+            "11) učestvuje u izgradnji i razvoju informacionog sistema arhiva;",
+            "12) obezbeđuje uslove i daje arhivsku građu na korišćenje;",
+            "13) obavlja kulturno-obrazovnu delatnost;",
+            "14) objavljuje arhivsku građu;",
+            "15) organizuje izložbe arhivske građe;",
+            "16) stara se o redovnom stručnom usavršavanju zaposlenih u arhivima;",
+            "17) sačinjava plan zaštite arhivske građe u vanrednim situacijama;",
+            "18) obavlja i druge poslove utvrđene ovim zakonom.",
+            "Javni arhiv može da popunjava arhivske fondove i putem poklona i otkupa.",
+            "Javni arhiv ima pravo preče kupovine arhivske građe.",
+            "Javni arhiv je obavezan da jednom godišnje ministarstvu nadležnom za kulturu\r\n(u daljem tekstu: Ministarstvo), odnosno organu autonomne pokrajine nadležnom za poslove\r\nkulture, dostavlja izveštaj o sprovođenju mera zaštite i korišćenja arhivske građe i dokumentarnog\r\nmaterijala.",
+            "Poslove iz stava 1. tač. 2) i 3) ovog člana javni arhiv vrši kao poverene.",
+            "Arhiv može da obrazuje odeljenja i u mestu van svog sedišta.",
+            "Stručni nadzor javnog arhiva"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_22"
+    },
+    {
+        "title": "Član 23",
+        "texts": [
+            "Javni arhiv obavlja stručni nadzor nad evidentiranjem, klasifikovanjem,\r\nodabiranjem, arhiviranjem, čuvanjem, stručnim održavanjem i zaštitom arhivske građe, odnosno\r\nnad njenim odabiranjem iz dokumentarnog materijala, koji se nalazi kod stvaraoca i imaoca\r\narhivske građe i dokumentarnog materijala i nalaže preduzimanje mera za otklanjanje utvrđenih\r\nnedostataka u pogledu zaštite arhivske građe i dokumentarnog materijala.",
+            "Poslove stručnog nadzora iz stava 1. ovog člana vrši arhivist zaposlen\r\nu javnom arhivu sa najmanje pet godina radnog iskustva na arhivskim poslovima (u daljem tekstu:\r\novlašćeno lice).",
+            "Ovlašćeno lice u vršenju poslova stručnog nadzora koristi službenu legitimaciju\r\nkoju je dužno da pokaže na zahtev odgovornog lica ili drugog zainteresovanog lica prilikom\r\nvršenja nadzora.",
+            "Obrazac i način korišćenja službene legitimacije iz stava 3. ovog člana\r\npropisuje ministar.",
+            "Ovlašćeno lice:",
+            "1) sačinjava zapisnik o izvršenom stručnom nadzoru koji obavezno sadrži:\r\nutvrđeno stanje, naložene mere i rok za njihovo sprovođenje;",
+            "2) konstatuje zapisnički da stvaralac i imalac arhivske građe i dokumentarnog\r\nmaterijala kod kojeg je izvršen stručni nadzor može u roku od tri dana od dana dostavljanja\r\nzapisnika da stavi primedbe na zapisnik;",
+            "3) posle dostavljanja primedaba na zapisnik od strane stvaraoca i imaoca\r\narhivske građe i dokumentarnog materijala donosi odluku po primedbama;",
+            "4) ukoliko se primedbe ne prihvataju o tome obaveštava podnosioca primedaba;",
+            "5) vrši kontrolu zapisnički naloženih mera (kontrolni nadzor);",
+            "6) ako stvaralac i imalac arhivske građe i dokumentarnog materijala ne\r\npostupi po zapisnički naloženim merama donosi rešenje o merama za otklanjanje nepravilnosti;",
+            "7) vrši kontrolu izvršenja rešenja (kontrolni nadzor).",
+            "Rok za primenu naloženih mera može se na zahtev stvaraoca i imaoca arhivske\r\ngrađe i dokumentarnog materijala, u opravdanim slučajevima, produžiti ali ne više od polovine\r\nroka koji je naložilo ovlašćeno lice.",
+            "Protiv rešenja iz stava 5. ovog člana, koje je doneo nadležni javni arhiv,\r\nmože se izjaviti žalba Ministarstvu.",
+            "U slučaju nepostupanja po rešenju za otklanjanje nepravilnosti ovlašćeno\r\nlice podnosi zahtev za pokretanje prekršajnog postupka.",
+            "U slučaju da ovlašćeno lice utvrdi da je stvaralac i imalac arhivske građe\r\ni dokumentarnog materijala oštetio ili uništio arhivsku građu ili dokumentarni materijal\r\nkojem nije istekao rok čuvanja to konstatuje zapisnikom na osnovu kojeg nadležni arhiv podnosi\r\nkrivičnu prijavu ili zahtev za pokretanje prekršajnog postupka.",
+            "Kategorizacija arhivske građe"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_23"
+    },
+    {
+        "title": "Član 24",
+        "texts": [
+            "Arhivska građa, u zavisnosti od svog značaja, razvrstava se u kategorije:\r\nkulturno dobro, kulturno dobro od velikog značaja i kulturno dobro od izuzetnog značaja.",
+            "Utvrđivanje arhivske građe za kulturno dobro, kulturno dobro od velikog\r\nznačaja i kulturno dobro od izuzetnog značaja uređuje se zakonom kojim se uređuje zaštita\r\nkulturnih dobara.",
+            "Sadržina akta o utvrđivanju i objavljivanje akta utvrđuje se zakonom kojim\r\nse uređuje zaštita kulturnih dobara.",
+            "Registri arhivske građe"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_24"
+    },
+    {
+        "title": "Član 25",
+        "texts": [
+            "Upis u registar arhivske građe vrši se na osnovu akta o utvrđivanju.",
+            "Akt o utvrđivanju iz stava 1. ovog člana donosi se samo za arhivsku građu\r\nkoja se nalazi u arhivu.",
+            "Nadležni arhiv vodi registar arhivske građe.",
+            "Državni arhiv Srbije vodi centralni registar arhivske građe.",
+            "Arhiv Vojvodine vodi registar arhivske građe za područje Autonomne pokrajine\r\nVojvodine, kao poveren posao.",
+            "Arhivi su dužni da podatke o arhivskoj građi za koju vode registar dostavljaju\r\nDržavnom arhivu Srbije i Arhivu Vojvodine za arhivsku građu za područje Autonomne pokrajine\r\nVojvodine, u roku od 30 dana od dana upisa arhivske građe u registar.",
+            "Registri su javni.",
+            "Uz registar se obrazuje i čuva sledeća dokumentacija:",
+            "1) Opšti inventar;",
+            "2) Knjiga prijema arhivske građe (Ulazni inventar);",
+            "3) Sumarni inventar;",
+            "4) Inventar mikrofilmoteke;",
+            "5) Dosije fonda.",
+            "Sadržina i način vođenja registara iz st. 3. i 4. ovog člana i prateće\r\ndokumentacije uz registre iz stava 8. ovog člana uređuje se posebnim zakonom.",
+            "Izrada informativnih sredstava o arhivskoj građi"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_25"
+    },
+    {
+        "title": "Član 26",
+        "texts": [
+            "Arhivi izrađuju informativna sredstva o arhivskoj građi radi njene zaštite\r\ni davanja informacija o njoj i iz nje.",
+            "Pod informativnim sredstvima iz stava 1. ovog člana podrazumevaju se naročito:\r\npregledi arhivskih fondova, vodiči, sumarni inventari, analitički inventari, regesta, registri\r\nkao pomoćna informativna sredstva.",
+            "Sadržinu i način vođenja informativnih sredstava iz stava 1. ovog člana\r\npropisuje Državni arhiv Srbije i donosi stručna uputstva o njihovoj izradi.",
+            "Evidencije u arhivima"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_26"
+    },
+    {
+        "title": "Član 27",
+        "texts": [
+            "Arhiv je dužan da vodi:",
+            "1) evidenciju fondova i zbirki;",
+            "2) topografski pokazivač fondova i zbirki u depou;",
+            "3) evidenciju stvaralaca i imalaca arhivske građe (aktivnih i prestalih\r\nsa radom);",
+            "4) dosijea stvaralaca i imalaca arhivske građe;",
+            "5) evidenciju arhivske građe snimljene u sigurnosne i zaštitne svrhe, odnosno\r\nmikrofilmovane;",
+            "6) evidenciju arhivske građe snimljene u dopunske svrhe, kao i radi stvaranja\r\nceline fonda;",
+            "7) evidenciju konzervirane i restaurirane arhivske građe;",
+            "8) popis informativnih sredstava;",
+            "9) evidenciju korisnika i korišćene arhivske građe;",
+            "10) evidenciju digitalizovane arhivske građe;",
+            "11) evidenciju arhivske građe primljene u depozit ili knjigu depozita.",
+            "Sadržina i način vođenja evidencija iz stava 1. ovog člana, uređuje se\r\nposebnim zakonom.",
+            "Specijalni i privatni arhivi ne vode evidenciju iz stava 1. tač. 3) i 4)\r\novog člana.",
+            "Evidencije iz stava 1. ovog člana koje sadrže podatke o ličnosti čuvaju\r\nse u skladu sa zakonom kojim se uređuje zaštita podataka o ličnosti, uz obavezu poštovanja\r\npravila o srazmernosti obrade u odnosu na ciljeve i svrhu obrade podataka.",
+            "Revizija fondova i zbirki"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_27"
+    },
+    {
+        "title": "Član 28",
+        "texts": [
+            "Arhiv je dužan da jednom u 20 godina izvrši redovnu reviziju arhivskih\r\nfondova i zbirki.",
+            "Uslove i način revizije propisuje ministar.",
+            "Mere zaštite arhivske građe"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_28"
+    },
+    {
+        "title": "Član 29",
+        "texts": [
+            "Arhiv sprovodi stručne i tehničke mere zaštite arhivske građe u arhivu\r\ni brine za njenu sigurnost.",
+            "Mere zaštite arhivske građe su: preventivna zaštita, mikrofilmovanje, digitalizacija,\r\nkonzervacija i restauracija.",
+            "Mere zaštite arhivske građe bliže uređuje ministar.",
+            "Arhiv obezbeđuje fizičku zaštitu arhivske građe, uz saradnju organa uprave\r\nnadležnog za unutrašnje poslove.",
+            "Preventivna zaštita"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_29"
+    },
+    {
+        "title": "Član 30",
+        "texts": [
+            "Preventivna zaštita sprovodi se u svim arhivima, kao i kod stvaraoca i\r\nimaoca arhivske građe i dokumentarnog materijala.",
+            "Način i bliže uslove za sprovođenje preventivne zaštite propisuje ministar.",
+            "Mikrofilmovanje i digitalizacija"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_30"
+    },
+    {
+        "title": "Član 31",
+        "texts": [
+            "Arhiv obavlja sigurnosna i zaštitna snimanja arhivske građe, odnosno vrši\r\nnjeno mikrofilmovanje u cilju zaštite, zamene, dopune i kompletiranja arhivskih fondova i\r\nzbirki.",
+            "Prvi primerak mikrofilma predstavlja zaštitnu kopiju i ne daje se na korišćenje.",
+            "Mikrofilm se može digitalizovati radi korišćenja.",
+            "Arhiv digitalizuje arhivsku građu u cilju davanja digitalnih kopija na\r\nkorišćenje umesto originala, njihovog korišćenja u okviru informacionog sistema, radi lakšeg\r\npretraživanja i objavljivanja.",
+            "Obavezno je mikrofilmovanje i digitalizacija arhivske građe.",
+            "Mikrofilmovanje i digitalizaciju arhivske građe koja se čuva u arhivima\r\nmogu da obavljaju samo arhivi.",
+            "Bliže uslove za mikrofilmovanje i digitalizaciju arhivske građe utvrđenu\r\novim članom, uređuje ministar, na predlog Državnog arhiva Srbije.",
+            "Konzervacija i restauracija arhivske građe"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_31"
+    },
+    {
+        "title": "Član 32",
+        "texts": [
+            "Konzervacija i restauracija arhivske građe se sprovodi samo u konzervatorskim\r\nlaboratorijama i ateljeima u arhivima.",
+            "Način i bliže uslove za konzervaciju i restauraciju propisuje ministar.",
+            "Izrada plana zaštite i spasavanja arhivske građe u vanrednim\r\nsituacijama"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_32"
+    },
+    {
+        "title": "Član 33",
+        "texts": [
+            "Arhiv je dužan da izradi plan zaštite i spasavanja arhivske građe u vanrednim\r\nsituacijama, sa posebnim merama za arhivsku građu od izuzetnog značaja.",
+            "Plan zaštite i spasavanja arhivske građe u vanrednim situacijama izrađuje\r\nse u skladu sa posebnim propisima.",
+            "Istraživanja arhivske građe stranog porekla"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_33"
+    },
+    {
+        "title": "Član 34",
+        "texts": [
+            "Javni i specijalni arhiv vrši istraživanje i kopiranje arhivske građe stranog\r\nporekla u inostranstvu, koja je od značaja za istoriju srpskog naroda i Srbije, radi dopune\r\nsopstvenih fondova.",
+            "Javni arhivi u matičnosti Državnog arhiva Srbije vrše istraživanje iz stava\r\n1. ovog člana na osnovu saglasnosti Državnog arhiva Srbije.",
+            "Kulturno-obrazovna delatnost i predstavljanje arhivske građe\r\nu inostranstvu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_34"
+    },
+    {
+        "title": "Član 35",
+        "texts": [
+            "Arhiv priređuje izložbe, organizuje predavanja, stručne i naučne skupove\r\ni obavlja druge kulturne i obrazovne aktivnosti radi podizanja svesti najšire javnosti o\r\nznačaju arhivske građe kao kulturnog dobra i značaju arhivske delatnosti uopšte.",
+            "Arhiv priređuje izložbe i predstavlja arhivsku građu u inostranstvu.",
+            "Arhiv sarađuje u zemlji i inostranstvu sa drugim ustanovama kulture, naučnim,\r\nobrazovnim i srodnim institucijama, informacionim i dokumentacionim centrima i drugim organizacijama,\r\nradi unapređenja arhivske delatnosti.",
+            "Javni arhivi u matičnosti Državnog arhiva Srbije poslove iz st. 2. i 3.\r\novog člana obavljaju na osnovu saglasnosti Državnog arhiva Srbije.",
+            "Usavršavanje zaposlenih u arhivima"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_35"
+    },
+    {
+        "title": "Član 36",
+        "texts": [
+            "Arhiv je obavezan da se stara o stalnom stručnom usavršavanju zaposlenih\r\nu arhivima, da prati razvoj arhivske teorije i prakse, kao i upravljanje dokumentima, radi\r\nusavršavanja i ujednačavanja organizacije i metoda rada.",
+            "Izdavanje časopisa i arhivska biblioteka"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_36"
+    },
+    {
+        "title": "Član 37",
+        "texts": [
+            "Arhiv može da izdaje stručni časopis ili stručne publikacije.",
+            "Arhiv ima specijalnu biblioteku čija delatnost obuhvata prikupljanje, obradu,\r\nzaštitu, čuvanje i davanje na korišćenje bibliotečko-informacioni materijal koji se odnosi\r\nna domaću i stranu stručnu literaturu iz oblasti arhivistike, istoriografije, oblasti društvenih\r\nnauka, domaće i strane zbirke izvora koje prate i dopunjuju arhivsku građu ustanove pri kojoj\r\nsu osnovane, kao i publikacije objavljene na osnovu istraživanja arhivske građe koja se nalazi\r\nu njegovim fondovima.",
+            "3 KORIŠĆENJE ARHIVSKE GRAĐE U ARHIVIMA",
+            "Rokovi dostupnosti arhivske građe"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_37"
+    },
+    {
+        "title": "Član 38",
+        "texts": [
+            "Arhivska građa, po pravilu, dostupna je za korišćenje nakon isteka roka\r\nod 30 godina od dana njenog nastanka.",
+            "Arhivska građa dostupna je za korišćenje i pre isteka roka od 30 godina\r\nod dana njenog nastanka, ako to odobri njen stvaralac ili imalac, ako je potrebna državnim\r\norganima i organizacijama za obavljanje njihove delatnosti, ako je potrebna za utvrđivanje,\r\nostvarivanje ili zaštitu prava u sudskom, upravnom ili postupku arbitraže i u naučnoistraživačke\r\nsvrhe.",
+            "Korisnik građe je odgovoran za povredu javnih interesa, odnosno privatnosti,\r\nkao i povredu prava i interesa lica do koje bi došlo usled korišćenja arhivske građe iz stava\r\n2. ovog člana."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_38"
+    },
+    {
+        "title": "Član 39",
+        "texts": [
+            "Arhivska građa koja sadrži podatke koji se odnose na odbranu zemlje i nacionalnu\r\nbezbednost, kao i na privredne i druge interese Republike Srbije, dostupna je za korišćenje\r\npo isteku roka od 50 godina od dana nastanka, ako posebnim propisom nije drugačije određeno.",
+            "Dostupnost i korišćenje arhivske građe i dosijea lica nastalih u radu službi\r\nbezbednosti uređuju se posebnim zakonom koji uređuje njihovu dostupnost i korišćenje.",
+            "Odobrenje za korišćenje arhivske građe"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_39"
+    },
+    {
+        "title": "Član 40",
+        "texts": [
+            "Zahtev za korišćenje arhivske građe sadrži sledeće podatke: lično ime,\r\nadresa prebivališta ili boravišta, broj telefona i adresa elektronske pošte, broj lične karte\r\nili putne isprave i svrhu korišćenja arhivske građe.",
+            "Podaci iz stava 1. ovog člana se prikupljaju u svrhu zaštite arhivske građe.",
+            "O odobrenju za korišćenje arhivske građe rešenjem odlučuje direktor arhiva\r\nili lice koje on ovlasti.",
+            "Po žalbama protiv rešenja iz stava 3. ovog člana u drugom stepenu rešava\r\nMinistarstvo.",
+            "Uslovi i način korišćenja arhivske građe"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_40"
+    },
+    {
+        "title": "Član 41",
+        "texts": [
+            "Svi imaju pravo da pod jednakim uslovima koriste arhivsku građu koja se\r\nčuva u arhivima.",
+            "Arhivska građa se koristi u arhivu.",
+            "Arhivskoj građi u elektronskom obliku može se pristupati i elektronskim\r\nputem ako je javno dostupna.",
+            "Arhiv obezbeđuje uslove za korišćenje arhivske građe.",
+            "Korišćenje arhivske građe i informativnih sredstava u arhivima je besplatno.",
+            "Arhivska građa daje se na korišćenje u službene svrhe, svrhe naučnog i\r\nstručnog istraživanja i potrebe publikovanja, za potrebe nastave, izložbi, ostvarivanja ili\r\nzaštite ličnih prava i druge svrhe.",
+            "Na korišćenje se po pravilu daju mikrofilmske ili digitalne kopije arhivske\r\ngrađe.",
+            "Izuzetno, na korišćenje će se dati originalna arhivska građa iako postoje\r\nkopije te građe, ako to zahteva naučni metod rada.",
+            "Za korišćenje arhivske građe u reklamne svrhe, sticanja dobiti, za umnožavanje\r\ni objavljivanje dokumenata, potrebna je posebna dozvola nadležnog arhiva.",
+            "Arhivi nemaju obavezu da istražuju arhivsku građu koju poseduju, u ime\r\ni za račun korisnika građe.",
+            "Korisnik arhivske građe je odgovoran za povredu javnih interesa, odnosno\r\nprivatnosti, kao i povredu prava i interesa lica, nastalih usled korišćenja arhivske građe.",
+            "Bliže uslove i način korišćenja arhivske građe propisuje ministar."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_41"
+    },
+    {
+        "title": "Član 42",
+        "texts": [
+            "Na zahtev korisnika javni arhiv izdaje uverenja, overene kopije i prepise\r\ndokumenata čije originale čuva i koji imaju dokaznu snagu javne isprave u skladu sa zakonom\r\nkojim se uređuje opšti upravni postupak."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_42"
+    },
+    {
+        "title": "Član 43",
+        "texts": [
+            "Arhivska građa se ne daje na korišćenje: ako je njen stvaralac, imalac,\r\ndavalac ili darodavac prilikom predaje u pisanoj formi postavio ograničenja u pogledu njenog\r\nkorišćenja; ako se nalazi na sređivanju, obradi, konzervaciji i restauraciji; ako stručni\r\nsavet arhiva utvrdi da se može koristiti samo pod posebnim uslovima; ako direktor arhiva\r\nproceni da bi njenim korišćenjem mogli da budu povređeni interesi države ili prava građana;\r\nako je u oštećenom stanju i ako je u toku priprema za njeno objavljivanje u izdanju arhiva.",
+            "Arhivska građa koja nije sređena, po pravilu, ne izdaje se na korišćenje.",
+            "Izuzetno, nesređena arhivska građa se može dati na korišćenje na osnovu\r\nodobrenja direktora ili lica koje on ovlasti.",
+            "Arhivsku građu mogu koristiti bez ograničenja stvaraoci čijom je delatnošću\r\ni radom ta građa nastala.",
+            "Korišćenje arhivske građe van arhiva"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_43"
+    },
+    {
+        "title": "Član 44",
+        "texts": [
+            "Arhivska građa može se koristiti i izvan arhiva radi izlaganja na izložbama,\r\npod uslovom da je osigurana i uz obaveznu izradu zaštitne kopije o trošku priređivača izložbe.",
+            "Izuzetno, državni organi mogu, na određeno vreme, pozajmiti originalnu\r\narhivsku građu, uz obaveznu izradu zaštitne kopije na teret državnog organa.",
+            "Državni organ iz stava 2. ovog člana dužan je da sprovede posebne mere\r\nzaštite arhivske građe koje odredi nadležni arhiv, kao i da pozajmljenu arhivsku građu osigura.",
+            "Arhivska građa može se privremeno izneti iz zemlje na osnovu rešenja Ministarstva\r\no privremenom iznošenju arhivske građe u inostranstvo radi izlaganja, ekspertize ili sprovođenja\r\nmera tehničke zaštite.",
+            "U rešenju iz stava 4. ovog člana određuje se rok u kojem arhivska građa\r\nmora biti vraćena u zemlju.",
+            "Pre iznošenja arhivske građe iz zemlje obavezno je obavljanje zaštitnog\r\nsnimanja.",
+            "III ORGANIZACIJA ARHIVSKE DELATNOSTI",
+            "",
+            "1. OSNIVANJE I ORGANI ARHIVA",
+            "Vrste arhiva"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_44"
+    },
+    {
+        "title": "Član 45",
+        "texts": [
+            "Arhivi se mogu osnovati kao:",
+            "1) javni;",
+            "2) specijalni;",
+            "3) privatni.",
+            "Osnivači arhiva"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_45"
+    },
+    {
+        "title": "Član 46",
+        "texts": [
+            "Javne arhive osniva, odnosno osnivačka prava vrši Republika Srbija, osim\r\nArhiva Vojvodine, Istorijskog arhiva Beograda i Istorijskog arhiva grada Novog Sada, čiji\r\nsu osnivači AP Vojvodina, odnosno grad Beograd i grad Novi Sad.",
+            "Javni arhiv može, u skladu sa zakonom, osnovati nacionalni savet nacionalne\r\nmanjine.",
+            "Osnivač specijalnog arhiva utvrđuje se posebnim zakonom.",
+            "Privatni arhiv može osnovati pravno i fizičko lice.",
+            "Dužnosti osnivača"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_46"
+    },
+    {
+        "title": "Član 47",
+        "texts": [
+            "Osnivači iz člana 46. ovog zakona, osim obaveze jedinica lokalne samouprave\r\niz člana 5. stav 3. ovog zakona, dužni su da obezbede sredstva u svom budžetu za finansiranje:\r\nobjekata, odnosno prostora za prijem i čuvanje arhivske građe, investicionog i tekućeg održavanja,\r\nkapitalnih projekata, tekućih rashoda i izdataka, redovne delatnosti i ostvarivanje programa\r\ni izvršavanja obaveza utvrđenih ovim zakonom i drugim propisima.",
+            "Osnivač, odnosno jedinice lokalne samouprave iz člana 5. stav 3. ovog zakona,\r\nu slučaju donošenja odluke o rekonstrukciji, prodaji, promeni namene ili rušenju objekta\r\nu kome se nalazi arhiv obavezan je da obezbedi tom arhivu objekte koji odgovaraju normama\r\ni zahtevima čuvanja arhivske građe.",
+            "Arhivi imaju pravo na sopstvene prihode koje ostvaruju vršenjem usluga\r\nkoje ne predstavljaju javnu uslugu u skladu sa zakonom kojim se uređuje budžetski sistem.",
+            "Uslovi za osnivanje arhiva"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_47"
+    },
+    {
+        "title": "Član 48",
+        "texts": [
+            "Arhiv se može osnovati i početi sa radom i obavljati delatnost ako su ispunjeni\r\ni posebni uslovi u pogledu:",
+            "1) prostora za rad i smeštaj arhivske građe, objekata i odgovarajuće opreme;",
+            "2) minimalnog broja zaposlenih na stručnim arhivističkim poslovima;",
+            "3) finansiranja rada arhiva i redovne delatnosti.",
+            "Ministar propisuje bliže uslove iz stava 1. ovog člana.",
+            "Ministarstvo rešenjem utvrđuje ispunjenost uslova za početak rada i obavljanje\r\ndelatnosti arhiva utvrđenih ovim zakonom.",
+            "Poslove iz stava 3. ovog člana za područje autonomne pokrajine, obavlja\r\nnadležni pokrajinski organ, kao povereni posao, osim za arhive kojima je osnivač Republika\r\nSrbija.",
+            "Protiv rešenja iz st. 3. i 4. ovog člana nije dozvoljena žalba ali se može\r\npokrenuti upravni spor.",
+            "Organi arhiva"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_48"
+    },
+    {
+        "title": "Član 49",
+        "texts": [
+            "Organi arhiva su: direktor, upravni odbor i nadzorni odbor.",
+            "Imenovanje direktora arhiva, imenovanje vršioca dužnosti direktora arhiva,\r\nnadležnosti, prestanak dužnosti i drugo, utvrđuje se na način i po postupku propisanim odredbama\r\nzakona kojim se uređuje oblast kulture.",
+            "Nadležnost, izbor članova i rad upravnog i nadzornog odbora arhiva, kao\r\ni prestanak dužnosti članova upravnog i nadzornog odbora, utvrđuje se na način i po postupku\r\npropisanim odredbama zakona kojim se uređuje oblast kulture, a za arhiv čija osnivačka prava\r\nvrši autonomna pokrajina i u skladu sa odredbama zakona kojim se uređuje nadležnost Autonomne\r\npokrajine Vojvodine.",
+            "2. ARHIVI",
+            "Javni arhivi"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_49"
+    },
+    {
+        "title": "Član 50",
+        "texts": [
+            "Državni arhiv Srbijeje centralna i matična ustanova zaštite arhivske\r\ngrađe za teritoriju Republike Srbije, u čijoj nadležnosti je zaštita arhivske građe i dokumentarnog\r\nmaterijala nastalih u radu organa, ustanova i organizacija Republike Srbije i drugih stvaralaca\r\ni imalaca čiji je osnivač država ili čija je delatnost od interesa za Republiku Srbiju, kao\r\ni arhivsku građu od značaja za istoriju Srbije i srpskog naroda.",
+            "Arhiv Jugoslavijeje ustanova zaštite u čijoj nadležnosti je zaštita\r\narhivske građe nastale radom centralnih državnih organa i organizacija jugoslovenske države\r\n(1918-2006) i poslovi u vezi sa primenom Sporazuma o pitanjima sukcesije Aneks \"D\" u\r\npogledu \"Državne arhive SFRJ\" i kao takav predstavlja javni arhiv koji je deo mreže\r\narhivske službe Republike Srbije.",
+            "Vojni arhivkao ustanova zaštite arhivske građe i dokumentarnog\r\nmaterijala koji nastaju u radu Ministarstva odbrane i Vojske Srbije, ili se kod njih nalazi,\r\nobavlja arhivsku delatnost za potrebe organa uprave nadležnog za odbranu, u skladu sa odredbama\r\novog zakona koje regulišu delatnost i nadležnosti javnih arhiva, propisima o odbrani i propisima\r\nkojima se uređuje vršenje arhivske delatnosti za potrebe odbrane i Vojske Srbije.",
+            "Pokrajinski arhivi- Arhiv Vojvodine i Arhiv Kosova i Metohije su\r\nmatične ustanove zaštite arhivske građe za teritoriju autonomne pokrajine i u njihovoj nadležnosti\r\nje zaštita arhivske građe i dokumentarnog materijala nastalih u radu pokrajinskih organa\r\ni organizacija i drugih stvaralaca i imalaca čiji je osnivač autonomna pokrajina ili čija\r\nje delatnost od interesa za autonomnu pokrajinu.",
+            "Međuopštinski arhivisu ustanove zaštite arhivske građe za teritoriju\r\nviše jedinica lokalne samouprave i u njihovoj nadležnosti je zaštita arhivske građe i dokumentarnog\r\nmaterijala nastalih u radu organa jedinica lokalne samouprave i drugih stvaralaca i imalaca\r\nčija je delatnost od interesa za te jedinice lokalne samouprave.",
+            "Arhivi jedinica lokalne samoupravesu ustanove zaštite arhivske\r\ngrađe za teritoriju jedinice lokalne samouprave i u njihovoj nadležnosti je zaštita arhivske\r\ngrađe i dokumentarnog materijala nastalih u radu organa jedinica lokalne samouprave i drugih\r\nstvaralaca i imalaca čija je delatnost od interesa za tu jedinicu lokalne samouprave.",
+            "Specijalni arhivi"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_50"
+    },
+    {
+        "title": "Član 51",
+        "texts": [
+            "Specijalni arhivi obavljaju zaštitu određene vrste arhivske građe i/ili\r\narhivske građe određenog organa ili organizacije.",
+            "Specijalni arhivi se osnivaju posebnim zakonima uz prethodno pribavljeno\r\nmišljenje Državnog arhiva Srbije.",
+            "Odredbe ovog zakona koje se odnose na obaveze javnih arhiva shodno se primenjuju\r\ni na specijalne arhive.",
+            "Mreža arhiva"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_51"
+    },
+    {
+        "title": "Član 52",
+        "texts": [
+            "Arhivi iz člana 50. ovog zakona, osim Vojnog arhiva, čine mrežu arhiva\r\nRepublike Srbije.",
+            "Ministar rešenjem utvrđuje koji javni arhivi i za koju teritoriju obavljaju\r\nposlove zaštite arhivske građe.",
+            "Poslove iz stava 2. ovog člana za područje Autonomne pokrajine Vojvodine,\r\nobavlja nadležni pokrajinski organ, kao povereni posao, osim za arhive kojima je osnivač\r\nRepublika Srbija.",
+            "Rešenje iz stava 2. ovog člana objavljuje se u \"Službenom glasniku\r\nRepublike Srbije\", odnosno u \"Službenom listu AP Vojvodine\".",
+            "Arhivski informacioni sistem"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_52"
+    },
+    {
+        "title": "Član 53",
+        "texts": [
+            "Javni i specijalni arhivi se povezuju u jedinstven informacioni sistem\r\ni upravljaju zajedničkom informaciono-komunikacionom infrastrukturom za potrebe stvaranja,\r\nprimanja, evidentiranja, arhiviranja, čuvanja i korišćenja elektronskih i svih drugih oblika\r\ni vrsta dokumenata, u neograničenom vremenskom periodu.",
+            "Umrežavanje arhiva i obezbeđivanje internet konekcije sprovodi služba Vlade\r\nnadležna za projektovanje, usklađivanje, razvoj i funkcionisanje sistema elektronske uprave\r\ni informacionih sistema i infrastrukture organa.",
+            "Umrežavanje arhiva i obezbeđivanje internet konekcije obavlja se preko\r\nJedinstvene informaciono-komunikacione mreže elektronske uprave.",
+            "Način vođenja i sadržaj arhivskog informacionog sistema uređuje se posebnim\r\nzakonom.",
+            "Nadzor"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_53"
+    },
+    {
+        "title": "Član 54",
+        "texts": [
+            "Ministarstvo vrši nadzor nad radom arhiva.",
+            "Nadzor nad radom arhiva na teritoriji autonomnih pokrajina vrše i nadležni\r\norgani autonomnih pokrajina, kao povereni posao.",
+            "Nadzor nad radom arhiva za potrebe odbrane i Vojske Srbije vrši ministarstvo\r\nnadležno za odbranu.",
+            "Stručni nadzor"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_54"
+    },
+    {
+        "title": "Član 55",
+        "texts": [
+            "Nadzor nad stručnim radom javnih arhiva u Republici Srbiji, osim nad Arhivom\r\nJugoslavije i Vojnim arhivom, obavljaju matični arhivi kao povereni posao.",
+            "Nadzor nad stručnim radom Arhiva Vojvodine i Arhiva Kosova i Metohije obavlja\r\nDržavni arhiv Srbije kao povereni posao.",
+            "Nadzor nad stručnim radom specijalnih i privatnih arhiva u Republici Srbiji\r\nobavlja Državni arhiv Srbije kao povereni posao.",
+            "3. MATIČNOST ARHIVA",
+            "Obaveze matičnih arhiva"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_55"
+    },
+    {
+        "title": "Član 56",
+        "texts": [
+            "Matični arhivi su Državni arhiv Srbije, Arhiv Vojvodine, Arhiv Kosova i\r\nMetohije.",
+            "Matični arhiv, pored poslova iz čl. 22-37. ovog zakona, obavlja i sledeće\r\nposlove:",
+            "1) vodi evidenciju arhiva koji su u njihovoj nadležnosti;",
+            "2) obavlja nadzor nad stručnim radom arhiva i arhivskih odeljenja koji\r\nsu u njihovoj nadležnosti;",
+            "3) vodi evidencije o arhivskoj građi;",
+            "4) vodi evidenciju o broju i strukturi zaposlenih, arhivskim objektima\r\ni uslovima smeštaja, opremi i finansiranju arhiva u njihovoj nadležnosti;",
+            "5) stara se o organizovanju stručnog ispita i stalnog stručnog usavršavanja\r\nzaposlenih u arhivima;",
+            "6) obezbeđuje uslove za rad komisije za polaganje stručnih ispita.",
+            "Poslovi iz stava 2. ovog člana obavljaju se kao povereni, u skladu sa zakonom.",
+            "Način vršenja nadzora nad stručnim radom uređuje Državni arhiv Srbije kao\r\npovereni posao.",
+            "Obaveze Državnog arhiva Srbije"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_56"
+    },
+    {
+        "title": "Član 57",
+        "texts": [
+            "Državni arhiv Srbije, pored poslova iz čl. 22-37. i člana 56. ovog zakona,\r\nobavlja i sledeće poslove:",
+            "1) vodi centralni registar arhivske građe u Republici Srbiji;",
+            "2) vodi evidenciju javnih, specijalnih i privatnih arhiva u Republici Srbiji;",
+            "3) učestvuje u izradi jedinstvenog arhivskog informacionog sistema;",
+            "4) učestvuje u izradi strategije razvoja arhiva, kao dela strategije razvoja\r\nkulture Republike Srbije;",
+            "5) pruža pomoć u stručnom održavanju i zaštiti arhivske građe srpskog porekla\r\nkoja se nalazi u arhivima/arhivama crkava, eparhija, srpskih pravoslavnih crkvenih opština\r\ni manastira van zemlje;",
+            "6) organizuje istraživanja arhivske građe koja je od značaja za istoriju\r\nSrbije i srpskog naroda, a nalazi se van teritorije Republike Srbije;",
+            "7) donosi plan i program stručnog usavršavanja radnika u arhivima;",
+            "8) donosi srednjoročni i dugoročni program razvoja arhivske delatnosti\r\nu Republici Srbiji u skladu sa zakonom;",
+            "9) utvrđuje metodologiju za stručni nadzor, koji obavljaju matični arhivi;",
+            "10) utvrđuje i normira poslove koje obavljaju zaposleni na stručnim arhivskim\r\nposlovima;",
+            "11) razmatra izveštaje matičnih arhiva o stručnom nadzoru na teritoriji\r\nRepublike Srbije i nalaže odgovarajuće mere;",
+            "12) donosi stručna uputstva za arhive u Republici Srbiji.",
+            "Poslovi iz stava 1. tač. 1), 2), 9) i 12) ovog člana obavljaju se kao povereni\r\nposlovi.",
+            "Akt iz stava 1. tačka 9) ovog člana objavljuje se u \"Službenom glasniku\r\nRepublike Srbije\".",
+            "Arhivski savet"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_57"
+    },
+    {
+        "title": "Član 58",
+        "texts": [
+            "Državni arhiv Srbije obrazuje Arhivski savet kao stručno savetodavno telo,\r\nradi obezbeđivanja stalne stručne podrške u očuvanju i razvoju arhivske delatnosti."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_58"
+    },
+    {
+        "title": "Član 59",
+        "texts": [
+            "Arhivski savet ima devet članova koje bira direktor Državnog arhiva Srbije.",
+            "Članovi Arhivskog saveta biraju se iz reda uglednih i afirmisanih stručnjaka\r\nu arhivskoj delatnosti na period od pet godina."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_59"
+    },
+    {
+        "title": "Član 60",
+        "texts": [
+            "Arhivski savet:",
+            "1) predlaže stručna uputstva za arhive u Republici Srbiji;",
+            "2) razmatra međunarodne propise, standarde i preporuke iz oblasti arhivske\r\ni informacione delatnosti i predlaže njihovu primenu;",
+            "3) predlaže plan i program stručnog usavršavanja zaposlenih u arhivima;",
+            "4) predlaže utvrđivanje i normiranje poslova koje obavljaju zaposleni na\r\nstručnim arhivskim poslovima;",
+            "5) daje predloge i smernice u ostvarivanju kulturne i obrazovne funkcije\r\narhiva."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_60"
+    },
+    {
+        "title": "Član 61",
+        "texts": [
+            "Arhivski savet donosi poslovnik.",
+            "Arhivski savet donosi odluke većinom glasova od ukupnog broja članova Arhivskog\r\nsaveta.",
+            "Rad Arhivskog saveta je javan.",
+            "Državni arhiv Srbije pruža stručnu i administrativno-tehničku potporu Arhivskom\r\nsavetu.",
+            "4. STRUČNA ARHIVSKA ZVANJA",
+            "Uslovi za obavljanje stručnih arhivskih poslova"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_61"
+    },
+    {
+        "title": "Član 62",
+        "texts": [
+            "U arhivima stručne arhivske poslove obavljaju lica koja imaju odgovarajuće\r\nobrazovanje u skladu sa članom 64. ovog zakona i položen stručni arhivistički ispit.",
+            "Lica koja obavljaju stručne arhivske poslove u arhivima do polaganja stručnog\r\narhivističkog ispita imaju status pripravnika. Stručne arhivske poslove mogu obavljati lica\r\nsa stečenim osnovnim i višim stručnim zvanjima.",
+            "Polaganje stručnog ispita"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_62"
+    },
+    {
+        "title": "Član 63",
+        "texts": [
+            "Stručno osposobljavanje za praktični rad u arhivima za zaposlene na stručnim\r\nposlovima s visokim i višim obrazovanjem traje godinu dana, a sa srednjim obrazovanjem -\r\ndevet meseci.",
+            "Stručno osposobljavanje iz stava 1. ovog člana obavlja se u arhivima.",
+            "Stručni ispit polaže se u Državnom arhivu Srbije pred Komisijom za polaganje\r\nstručnog ispita u arhivskoj delatnosti koju obrazuje ministar.",
+            "Stručni ispit polaže se i u pokrajinskom arhivu pred komisijom za polaganje\r\nstručnog ispita u arhivskoj delatnosti koju obrazuje nadležni organ autonomne pokrajine kao\r\npovereni posao.",
+            "Troškove polaganja stručnog ispita snosi arhiv u kome je kandidat zaposlen.",
+            "Arhiv u svom finansijskom planu planira sredstva za troškove polaganja\r\nstručnog ispita zaposlenih iz stava 1. ovog člana.",
+            "Plan i program stručnog osposobljavanja zaposlenih u arhivima, program\r\nstručnog ispita i način njegovog polaganja propisuje ministar.",
+            "Zaposlenom iz stava 1. ovog člana koji u roku od tri godine od sticanja\r\nuslova za polaganje stručnog ispita ne položi stručni ispit prestaje radni odnos u arhivu\r\ndanom isteka tog roka.",
+            "Stručna zvanja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_63"
+    },
+    {
+        "title": "Član 64",
+        "texts": [
+            "Polaganjem stručnog ispita stiču se osnovna stručna zvanja: arhivski pomoćnik,\r\ntehničar restaurator papira, viši arhivski pomoćnik, arhivist i konzervator papira.",
+            "Poslove arhivskog pomoćnika i tehničara restauratora papira može da obavlja\r\nlice sa stečenim srednjim obrazovanjem u četvorogodišnjem trajanju i položenim stručnim ispitom.",
+            "Poslove višeg arhivskog pomoćnika može da obavlja lice sa stečenim visokim\r\nobrazovanjem na studijama prvog stepena u obimu od najmanje 180 ESPB bodova, odnosno sa stečenim\r\nprvim stepenom visokog obrazovanja ili stečenim višim obrazovanjem, po propisu koji je uređivao\r\nvisoko obrazovanje do 10. septembra 2005. godine.",
+            "Poslove arhiviste i konzervatora papira može da obavlja lice sa stečenim\r\nvisokim obrazovanjem na studijama drugog stepena, odnosno na osnovnim studijama u trajanju\r\nod najmanje četiri godine, po propisu koji je uređivao visoko obrazovanje do 10. septembra\r\n2005. godine i položenim stručnim ispitom.",
+            "Viša stručna zvanja na stručnim arhivskim poslovima su: arhivski pomoćnik\r\nprve vrste, viši tehničar restaurator papira, viši arhivski pomoćnik prve vrste, viši arhivist\r\ni arhivski savetnik, konzervator papira savetnik i ona se stiču dodelom.",
+            "Ministar obrazuje Komisiju za dodelu viših stručnih zvanja u arhivskoj\r\ndelatnosti.",
+            "Bliže uslove i način sticanja viših stručnih zvanja propisuje ministar.",
+            "IV KAZNENE ODREDBE"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_64"
+    },
+    {
+        "title": "Član 65",
+        "texts": [
+            "Novčanom kaznom u iznosu od 50.000 do 2.000.000 dinara kazniće se za prekršaj\r\npravno lice:",
+            "1) ako izvrši povredu odredaba iz člana 6. ovog zakona;",
+            "2) ako postupi suprotno odredbama člana 9. ovog zakona;",
+            "3) ako arhivsku građu ne čuva kao celinu - arhivski fond (član 10. ovog\r\nzakona);",
+            "4) ako postupi suprotno odredbama člana 11. ovog zakona;",
+            "5) ako ne donese akta predviđena članom 14. ovog zakona;",
+            "6) ako uništi dokumentarni materijal bez odobrenja nadležnog arhiva iz\r\nčlana 16. stav 2. ovog zakona;",
+            "7) ako ne preda sređenu i popisanu arhivsku građu nadležnom arhivu (član\r\n17. stav 1. ovog zakona);",
+            "8) ukoliko ne izvrši obaveze iz člana 18. ovog zakona;",
+            "9) ukoliko postupi suprotno odredbama člana 19. ovog zakona;",
+            "10) ako ne izvrši mere za otklanjanje nedostataka koje su uočene prilikom\r\nvršenja stručnog nadzora u naloženom roku (član 23. stav 1. ovog zakona).",
+            "Novčanom kaznom od 5.000 do 150.000 dinara kazniće se za prekršaj iz stava\r\n1. ovog člana odgovorno lice u pravnom licu."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_65"
+    },
+    {
+        "title": "Član 66",
+        "texts": [
+            "Nadležni javni arhiv ima pravo aktivne legitimacije u pogledu ostvarivanja\r\nmera zaštite i korišćenja kulturnih dobara i podnošenja zahteva za pokretanje krivičnog i\r\nprekršajnog postupka.",
+            "V PRELAZNE I ZAVRŠNE ODREDBE"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_66"
+    },
+    {
+        "title": "Član 67",
+        "texts": [
+            "Arhivi osnovani do dana stupanja na snagu ovog zakona dužni su da svoju\r\norganizaciju i rad usklade sa odredbama ovog zakona u roku od godinu dana od dana stupanja\r\nna snagu ovog zakona.",
+            "Arhiv Srbije promeniće naziv u Državni arhiv Srbije u roku od godinu dana\r\nod dana stupanja na snagu ovog zakona.",
+            "Osnivači arhiva dužni su da obezbede dodatna sredstva i povećanje broja\r\nzaposlenih za izvršenje novih obaveza utvrđenih ovim zakonom.",
+            "Republika Srbija preuzeće osnivačka prava nad javnim arhivima čiji je osnivač\r\nautonomna pokrajina, jedinica lokalne samouprave, osim nad Arhivom Vojvodine i Istorijskim\r\narhivom Beograda, kada se steknu uslovi za preuzimanje obezbeđivanjem sredstva u budžetu\r\nRepublike Srbije.",
+            "Odluku o preuzimanju osnivačkih prava iz stava 3. ovog člana donosi Vlada.",
+            "Osnivačka prava iz stava 4. ovog člana u ime Republike Srbije vrši Vlada.",
+            "Od dana preuzimanja osnivačkih prava nad javnim arhivima Vlada će u roku\r\nod godinu dana imenovati organe javnih arhiva u skladu sa ovim zakonom.",
+            "Do imenovanja direktora, upravnog i nadzornog odbora javnih arhiva u skladu\r\nsa ovim zakonom, dosadašnji direktor, upravni i nadzorni odbor nastavljaju sa radom.",
+            "Na imenovanje organa javnih arhiva primenjuju se odredbe ovog zakona.",
+            "Direktori javnih arhiva nad kojima je osnivačka prava preuzela Republika\r\nSrbija preduzeće potrebne mere radi upisa u sudski registar.",
+            "Javni arhivi uskladiće organizaciju, rad i opšte akte sa odredbama ovog\r\nzakona u roku od godinu dana od dana njegovog stupanja na snagu.",
+            "Organizacija, rad, opšta akta i organi Vojnog arhiva uskladiće se sa odredbama\r\novog zakona i propisima koji uređuju oblast odbrane i Vojsku Srbije, u roku od godinu dana\r\nod dana stupanja na snagu ovog zakona."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_67"
+    },
+    {
+        "title": "Član 68",
+        "texts": [
+            "Poslove iz člana 12. ovog zakona služba Vlade nadležna za projektovanje,\r\nusklađivanje, razvoj i funkcionisanje sistema elektronske uprave i informacionih sistema\r\ni infrastrukture organa obavlja do obezbeđivanja uslova i kapaciteta Državnog arhiva za obavljanje\r\novih poslova."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_68"
+    },
+    {
+        "title": "Član 69",
+        "texts": [
+            "Do obezbeđivanja uslova za elektronsko arhiviranje i dugotrajno i pouzdano\r\nčuvanje arhivske građe koja je izvorno nastala u elektronskom obliku, opreme, stručnog kadra\r\ni obuke zaposlenih u arhivima za vršenje e-arhiviranja, ti poslovi vršiće se prema odredbama\r\nzakona koji se primenjivao do početka primene ovog zakona a najkasnije do 1. oktobra 2020.\r\ngodine."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_69"
+    },
+    {
+        "title": "Član 70",
+        "texts": [
+            "Arhivsku građu koja je do dana stupanja na snagu ovog zakona utvrđena za\r\nkulturno dobro arhivi su dužni da mikrofilmuju bez odlaganja a najkasnije u roku od 10 godina\r\nod dana stupanja na snagu ovog zakona."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_70"
+    },
+    {
+        "title": "Član 71",
+        "texts": [
+            "Arhivski radnik koji je do dana stupanja na snagu ovog zakona zasnovao\r\nradni odnos u arhivu i ima položen stručni ispit može nastaviti sa obavljanjem arhivskih\r\nposlova i posle stupanja na snagu ovog zakona.",
+            "Zaposleni koji na dan stupanja na snagu ovog zakona obavlja arhivske poslove\r\nza koje nema odgovarajuće obrazovanje ili položen stručni ispit, može nastaviti sa obavljanjem\r\ntih poslova pod uslovom da u roku od dve godine od dana stupanja na snagu ovog zakona stekne\r\nodgovarajuće obrazovanje, odnosno položi stručni ispit.",
+            "Zaposleni sa akademskim zvanjem doktora istorijskih nauka nemaju obavezu\r\npolaganja stručnog ispita."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_71"
+    },
+    {
+        "title": "Član 72",
+        "texts": [
+            "Pravni subjekti koji su do postupka privatizacije bili u društvenoj ili\r\ndržavnoj svojini, mogu zadržati arhivsku građu i dokumentarni materijal koji su privatizacijom\r\npreuzeli zajedno sa pravnim licem, a potrebni su im u obavljanju njihove osnovne delatnosti\r\n- godinu dana od dana stupanja na snagu ovog zakona, nakon čega je predaju nadležnom arhivu.",
+            "Pravni subjekti iz stava 1. ovog člana dužni su da sa dokumentarnim materijalom\r\niz stava 1. ovog člana postupaju prema odredbama člana 9. ovog zakona.",
+            "Ako arhiv nije u mogućnosti da preuzme arhivsku građu iz stava 1. ovog\r\nčlana, pravni subjekt iz stava 1. ovog člana dužan je da je čuva do trenutka kada predaja\r\narhivu bude bila moguća."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_72"
+    },
+    {
+        "title": "Član 73",
+        "texts": [
+            "Podzakonski propisi za sprovođenje ovog zakona doneće se u roku od godinu\r\ndana od dana stupanja na snagu ovog zakona."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_73"
+    },
+    {
+        "title": "Član 74",
+        "texts": [
+            "Danom početka primene ovog zakona prestaje da važi Zakon o arhivskoj građi\r\nSavezne Republike Jugoslavije (\"Službeni list SRJ\", br. 12/98 i 13/98 - ispravka).",
+            "Danom početka primene ovog zakona prestaju da važe odredbe čl. 37, 38,\r\n39, 40. i 41, člana 74. stav 3, čl. 76, 81, 93, 97. i 131. Zakona o kulturnim dobrima (\"Službeni\r\nglasnik RS\", br. 71/94, 52/11 - dr. zakon i 99/11 - dr. zakon), a odredbe člana 53.\r\nstav 2, člana 56. stav 3, čl. 57, 61, 68, 70, 79, 85, 86, 87, 94, 95. i člana 111. stav 4.\r\ntog zakona prestaju da važe u delu koji se odnosi na arhivsku građu i rad arhiva."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_74"
+    },
+    {
+        "title": "Član 75",
+        "texts": [
+            "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u \"Službenom\r\nglasniku Republike Srbije\", a primenjivaće se istekom godinu dana od dana njegovog stupanja\r\nna snagu.",
+            "Ako ne probate više različitih izbora nikada nećete biti sigurni da li imate najbolju opciju u svojim rukama. Mi Vam tu mogućnost nudimo besplatno! Popunite formular i dobićete priliku da bez ikakvih troškova saznate da li je Paragraf dobar izbor za Vas.",
+            "Ukoliko želite da Vas obaveštavamo o novostima i aktivnostima kompanije Paragraf prijavite se na našu mailing listu. Vaš e-mail neće biti upotrebljen u druge svrhe.",
+            "Pratite Paragraf na Viberu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-arhivskoj-gradji-i-arhivskoj-delatnosti.html#clan_75"
+    }
+]

@@ -1,0 +1,227 @@
+[
+    {
+        "title": "Član 1",
+        "texts": [
+            "Ovim pravilnikom propisuju se:",
+            "1) uslovi koje mora da ispunjava sredstvo za kreiranje kvalifikovanog elektronskog potpisa odnosno pečata, uključujući:",
+            "(1) tehnička rešenja i kriterijume koje mora da ispunjava kvalifikovano sredstvo za kreiranje elektronskog potpisa odnosno pečata,",
+            "(2) tehničko-tehnološke postupke za formiranje elektronskog potpisa odnosno pečata koje to sredstvo primenjuje pri kreiranju potpisa odnosno pečata,",
+            "(3) kriterijume koji moraju da budu ispunjeni kada se sredstvo koristi putem usluge upravljanja kvalifikovanim sredstvom za kreiranje elektronskog potpisa odnosno pečata na daljinu;",
+            "2) uslovi koje mora da ispunjava imenovano telo za ocenu usaglašenosti kvalifikovanih sredstava za kreiranje elektronskog potpisa odnosno pečata."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-uslovi-kvalifikovano-sredstvo-za-kreiranje-elektronskog-potpisa.html#clan_1"
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Tehnička rešenja i kriterijumi koje mora da ispunjava kvalifikovano sredstvo za kreiranje elektronskog potpisa odnosno pečata, tehničko-tehnološki postupci za formiranje elektronskog potpisa odnosno pečata koje to sredstvo primenjuje i kriterijumi koji moraju da budu ispunjeni kada se sredstvo koristi putem usluge upravljanja kvalifikovanim sredstvom za kreiranje elektronskog potpisa odnosno pečata na daljinu moraju da budu u skladu sa odgovarajućim međunarodnim standardima i preporukama, odnosno drugim standardima, dokumentima i preporukama, koje se odnose na sredstva i postupke utvrđenim ovim pravilnikom.",
+            "II TEHNIČKA REŠENJA I KRITERIJUMI"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-uslovi-kvalifikovano-sredstvo-za-kreiranje-elektronskog-potpisa.html#clan_2"
+    },
+    {
+        "title": "Član 3",
+        "texts": [
+            "Kvalifikovano sredstvo za kreiranje elektronskog potpisa odnosno pečata, osim uslova iz člana 46. Zakona o elektronskom dokumentu, elektronskoj identifikaciji i uslugama od poverenja u elektronskom poslovanju (\"Službeni glasnik RS\", br. 94/17 i 52/21 - u daljem tekstu: Zakon), mora da ispuni i sledeće kriterijume:",
+            "1) da se obezbedi korišćenje sredstva za kreiranje kvalifikovanog elektronskog potpisa odnosno pečata isključivo od strane potpisnika odnosno pečatioca uz prethodno realizovanu pouzdanu proceduru autentikacije;",
+            "2) da sredstvo mora biti takvo da je potpisnik odnosno pečatilac u mogućnosti da ga koristi u različitim aplikacijama i informatičko-tehnološkim okruženjima, dodatno imajući u vidu odredbu člana 6. Zakona i potrebu korisnika da koristi sredstvo pri korišćenju drugih usluga od poverenja."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-uslovi-kvalifikovano-sredstvo-za-kreiranje-elektronskog-potpisa.html#clan_3"
+    },
+    {
+        "title": "Član 4",
+        "texts": [
+            "Kvalifikovano sredstvo za kreiranje elektronskog potpisa odnosno pečata mora da obezbedi da se podaci za kreiranje elektronskog potpisa odnosno pečata generišu tako da mogu postojati samo u tom sredstvu."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-uslovi-kvalifikovano-sredstvo-za-kreiranje-elektronskog-potpisa.html#clan_4"
+    },
+    {
+        "title": "Član 5",
+        "texts": [
+            "Kvalifikovano sredstvo za formiranje potpisa odnosno pečata mora da bude usaglašeno sa jednim od sledećih uslova:",
+            "1) Uslovi profila zaštite definisani standardom SRPS EN 419211-2:2014 - Profili zaštite sredstava za formiranje kvalifikovanog elektronskog potpisa - Deo 2: Sredstvo sa generisanjem ključa ispitivano po Common Criteria nivou EAL4+;",
+            "2) Uslovi profila zaštite definisani standardom SRPS EN 419211-3:2014 - Profili zaštite sredstava za formiranje kvalifikovanog elektronskog potpisa - Deo 3: Sredstvo sa uvođenjem ključa ispitivano po Common Criteria nivou EAL4+, ako je ispunjen i uslov iz člana 3. ovog pravilnika;",
+            "3)(brisana)",
+            "Predmet ispitivanja usaglašenosti kvalifikovanog sredstva za kreiranje potpisa odnosno pečata je samo sredstvo koje obezbeđuje podatke za formiranje elektronskog potpisa odnosno pečata. Veza sredstva sa aplikacijama za formiranje elektronskog potpisa odnosno pečata, nije obavezno predmet ispitivanja usaglašenosti.",
+            "III POSTUPCI ZA FORMIRANJE ELEKTRONSKOG POTPISA ODNOSNO PEČATA"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-uslovi-kvalifikovano-sredstvo-za-kreiranje-elektronskog-potpisa.html#clan_5"
+    },
+    {
+        "title": "Član 6",
+        "texts": [
+            "Kvalifikovano sredstvo za kreiranje elektronskog potpisa odnosno pečata pri formiranju elektronskog potpisa odnosno pečata koristi jedan od standardizovanih asimetričnih kriptografskih algoritama, i to:",
+            "1)RSA (Rivest Shamir Adleman)primenom standarda PKCS#1 uz minimalnu dužinu RSA modulusa n od 2048 bita;",
+            "2)DSA (Digital Signature Algorithm)sa minimalnim dužinama parametara p i q od 2048 i 224 bita, respektivno;",
+            "3)ECDSA (Elliptic Curve Digital Signature Algorithm)sa minimalnim dužinama parametara p i q od 256 bita."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-uslovi-kvalifikovano-sredstvo-za-kreiranje-elektronskog-potpisa.html#clan_6"
+    },
+    {
+        "title": "Član 7",
+        "texts": [
+            "Pri formiranju kvalifikovanog elektronskog potpisa primenjuju se i heš funkcije za dobijanje otisaka poruke fiksne veličine (najmanje 160 bita). Heš funkcije iz stava 1. ovog člana realizuju se primenom nekog od sledećih standardizovanih heš algoritama:",
+            "1) SHA-224, SHA-256, SHA-384, SHA-512;",
+            "2) SHA3-256, SHA3-384, SHA3-512."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-uslovi-kvalifikovano-sredstvo-za-kreiranje-elektronskog-potpisa.html#clan_7"
+    },
+    {
+        "title": "Član 8",
+        "texts": [
+            "Skup standardnih algoritama iz čl. 5. i 6. ovog pravilnika kombinovani\r\nsa zahtevima u vezi izbora parametara, kao i lista standardnih kombinacija primenjenih algoritama\r\nu formi algoritamskih veza (\"signature suites\"),\r\nmoraju biti u skladu sa dokumentom ETSI TS 119 312 \"Electronic Signatures and Infrastructures\r\n(ESI); Cryptographic Suites\" i dokumentom ETSI TR 119 300 \"Electronic Signatures\r\nand Infrastructures (ESI); Guidance on the use of standards for cryptographic suites\".",
+            "IV USLUGA UPRAVLJANJA KVALIFIKOVANIM SREDSTVOM ZA KREIRANJE ELEKTRONSKOG POTPISA ODNOSNO PEČATA NA DALJINU"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-uslovi-kvalifikovano-sredstvo-za-kreiranje-elektronskog-potpisa.html#clan_8"
+    },
+    {
+        "title": "Član 9",
+        "texts": [
+            "Upravljanje kvalifikovanim sredstvom za kreiranje elektronskog potpisa odnosno pečata na daljinu predstavlja kvalifikovanu uslugu od poverenja u skladu sa članom 46. stav 3. Zakona (u daljem tekstu: kvalifikovano sredstvo na daljinu) i mora da obezbedi, uz visoki nivo pouzdanosti, da korisnik ima isključivu kontrolu nad podacima za izradu elektronskog potpisa odnosno pečata."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-uslovi-kvalifikovano-sredstvo-za-kreiranje-elektronskog-potpisa.html#clan_9"
+    },
+    {
+        "title": "Član 10",
+        "texts": [
+            "Podaci za kreiranje elektronskog potpisa odnosno pečata, kada se koriste zajedno sa kvalifikovanim sredstvom na daljinu, moraju biti inicijalno kreirani unutar kvalifikovanog sredstva za kreiranje elektronskog potpisa i pečata koje ispunjava uslove Zakona i ovog pravilnika."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-uslovi-kvalifikovano-sredstvo-za-kreiranje-elektronskog-potpisa.html#clan_10"
+    },
+    {
+        "title": "Član 11",
+        "texts": [
+            "Kvalifikovano sredstvo na daljinu mora da obezbedi da podaci za kreiranje elektronskog potpisa odnosno pečata mogu da budu aktivirani isključivo od strane potpisnika uz prethodno realizovanu pouzdanu proceduru autentikacije.",
+            "Svaka aktivacija podataka za kreiranje elektronskog potpisa odnosno pečata, u kvalifikovanom sredstvu na daljinu neophodno je da bude vezana za važeću autorizaciju korisnika i konkretan zahtev za formiranje elektronskog potpisa odnosno pečata."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-uslovi-kvalifikovano-sredstvo-za-kreiranje-elektronskog-potpisa.html#clan_11"
+    },
+    {
+        "title": "Član 12",
+        "texts": [
+            "Kvalifikovano sredstvo na daljinu mora da obezbedi da se formiranje elektronskog potpisa odnosno pečata može dogoditi samo u kvalifikovanom sredstvu za formiranje elektronskog potpisa i pečata."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-uslovi-kvalifikovano-sredstvo-za-kreiranje-elektronskog-potpisa.html#clan_12"
+    },
+    {
+        "title": "Član 13",
+        "texts": [
+            "Kvalifikovano sredstvo na daljinu mora da bude usaglašeno sa uslovima koji\r\nsu propisani profilom definisanom standardom CEN EN 419 241-2 Protection profile for QSCD\r\nfor server signing ispitivano po Common Criteria nivou EAL4 uvećan AVA_VAN.4 analizom ranjivosti\r\nili višem nivou."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-uslovi-kvalifikovano-sredstvo-za-kreiranje-elektronskog-potpisa.html#clan_13"
+    },
+    {
+        "title": "Član 14",
+        "texts": [
+            "Kvalifikovano sredstvo na daljinu u postupku formiranja elektronskog potpisa odnosno pečata mora da obezbeđuje isti nivo bezbednosti koji je propisan za kvalifikovana sredstva za kreiranje elektronskog potpisa odnosno pečata, posebno imajući u vidu izbor standardizovanih kriptografskih algoritama, izbor heš funkcija za dobijanje otiska i minimalne dužine parametara.",
+            "V TELO ZA OCENU USAGLAŠENOSTI"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-uslovi-kvalifikovano-sredstvo-za-kreiranje-elektronskog-potpisa.html#clan_14"
+    },
+    {
+        "title": "Član 15",
+        "texts": [
+            "Imenovano telo za ocenu usaglašenosti kvalifikovanih sredstava za kreiranje elektronskog potpisa odnosno pečata (u daljem tekstu: imenovano telo) mora da bude kompetentno, da obezbeđuje neophodne ljudske resurse, ekspertsko znanje i opremu, te da bude osposobljeno za postupak ocenjivanja usaglašenosti sredstva sa tehničkim zahtevima koji su definisani Zakonom i ovim pravilnikom.",
+            "Kao dokaz o ispunjenosti kompetentnosti i navedenih uslova, imenovano telo dužno je da bude akreditovano, u skladu sa zakonom kojim se uređuje akreditacija, prema standardu SRPS ISO/IEC 17065:2016 - Ocenjivanje usaglašenosti - Zahtevi za tela koja sertifikuju proizvode, procese i usluge, u obimu akreditacije koji obezbeđuje proveru usaglašenosti kvalifikovanog sredstva za kreiranje elektronskog potpisa odnosno pečata, prema sledećoj listi standarda:",
+            "1) SRPS ISO/IEC 15408-1:2014 - Informacione tehnologije - Tehnike bezbednosti - Kriterijumi za vrednovanje bezbednosti u IT - Deo 1: Uvod i opšti model;",
+            "2) SRPS ISO/IEC 15408-1:2014 - Informacione tehnologije - Tehnike bezbednosti - Kriterijumi za vrednovanje bezbednosti u IT - Deo 2: Funkcionalni zahtevi za bezbednost;",
+            "3) SRPS ISO/IEC 15408-1:2014 - Informacione tehnologije - Tehnike bezbednosti - Kriterijumi za vrednovanje bezbednosti u IT - Deo 3: Zahtevi za osiguranje bezbednosti;",
+            "4) ISO/IEC 18045:2008: Information technology - Security techniques - Methodology for IT security evaluation."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-uslovi-kvalifikovano-sredstvo-za-kreiranje-elektronskog-potpisa.html#clan_15"
+    },
+    {
+        "title": "Član 16",
+        "texts": [
+            "Imenovano telo mora da se vodi načelom nezavisnosti i nepristrasnosti pri ocenjivanju usaglašenosti.",
+            "Posebno u postupku ocenjivanja, ali i u postupku sticanja akreditacije, u radu imenovanog tela ne mogu da učestvuju lica povezana sa sredstvom koje je predmet ocenjivanja usaglašenosti.",
+            "To ne isključuje mogućnost razmene tehničkih informacija između imenovanog tela i proizvođača sredstava."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-uslovi-kvalifikovano-sredstvo-za-kreiranje-elektronskog-potpisa.html#clan_16"
+    },
+    {
+        "title": "Član 17",
+        "texts": [
+            "Imenovano telo dužno je da uredi postupanje i odlučivanje po prigovorima na rad i donete odluke u vezi sa poslovima ocenjivanja usaglašenosti.",
+            "Imenovano telo dužno je da bez odlaganja, a najkasnije u roku od sedam dana, obavesti ministarstvo nadležno za poslove informacionog društva (u daljem tekstu: Ministarstvo) o postojanju prigovora na rad imenovanog tela i donete odluke, a u vezi sa potvrdama o usaglašenosti sredstava koje je izdalo to telo za sredstva koja su upisana u Registar kvalifikovanih sredstava za kreiranje elektronskog potpisa odnosno pečata iz člana 47. Zakona."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-uslovi-kvalifikovano-sredstvo-za-kreiranje-elektronskog-potpisa.html#clan_17"
+    },
+    {
+        "title": "Član 18",
+        "texts": [
+            "Pri zaključivanju o oceni usaglašenosti sredstva imenovano telo ne može da se služi informacijama koje su okarakterisane kao poslovna tajna."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-uslovi-kvalifikovano-sredstvo-za-kreiranje-elektronskog-potpisa.html#clan_18"
+    },
+    {
+        "title": "Član 19",
+        "texts": [
+            "U skladu sa zakonom kojim se uređuju tehnički zahtevi za proizvode i ocenjivanje usaglašenosti, imenovano telo odgovorno je za štetu nastalu upotrebom sredstva za koje je telo izdalo potvrdu o usaglašenosti ukoliko se ispostavi da sredstvo ne ispunjava tehničke zahteve definisane Zakonom i ovim pravilnikom, ukoliko je štetu prouzrokovana namerom ili nepažnjom imenovanog tela.",
+            "Imenovano telo dužno je da obezbedi finansijske resurse za osiguranje od rizika odgovornosti za štetu iz delatnosti tako da:",
+            "1) osigurana suma na koju mora biti ugovoreno osiguranje po jednom štetnom događaju ne može iznositi manje od 20.000 evra u dinarskoj protivvrednosti, podrazumevajući pritom kao štetni događaj pojedinačnu štetu nastalu jednom upotrebom ocenjenog sredstva;",
+            "2) ukupna osigurana suma na koju mora biti ugovoreno osiguranje od odgovornosti imenovanog tela kumulativno na godišnjem nivou, po svim štetnim događajima, ne može biti niža od 1.000.000 evra u dinarskoj protivvrednosti.",
+            "VI PRELAZNE I ZAVRŠNE ODREDBE"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-uslovi-kvalifikovano-sredstvo-za-kreiranje-elektronskog-potpisa.html#clan_19"
+    },
+    {
+        "title": "Član 20",
+        "texts": [
+            "Danom stupanja na snagu ovog pravilnika smatraće se da sredstvo za formiranje kvalifikovanog elektronskog potpisa koje je za korisnika obezbedilo sertifikaciono telo iz člana 73. stav 3. Zakona, a koje ispunjava uslove iz \"Pravilnika o tehničkotehnološkim postupcima za formiranje kvalifikovanog elektronskog potpisa i kriterijumima koje treba da ispune sredstva za formiranje kvalifikovanog elektronskog potpisa\" (\"Službeni glasnik RS\", br. 26/08, 13/10 i 23/15) ispunjava uslove iz člana 5. ovog pravilnika do isteka roka važenja kvalifikovanog sertifikata izdatog prema asimetričnom paru ključeva generisanim u tom sredstvu, ako je kvalifikovani sertifikat izdat pre isteka roka iz člana 73. stav 5. Zakona.",
+            "Ministarstvo će u Registar kvalifikovanih sredstava za kreiranje elektronskih potpisa i elektronskih pečata uneti i sredstva iz stava 1. ovog člana, sa napomenom o načinu ispunjavanja uslova iz člana 5. ovog pravilnika i roka do kog će se smatrati da sredstvo ispunjava te uslove."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-uslovi-kvalifikovano-sredstvo-za-kreiranje-elektronskog-potpisa.html#clan_20"
+    },
+    {
+        "title": "Član 20a",
+        "texts": [
+            "Kvalifikovana sredstava za kreiranje elektronskih potpisa i elektronskih\r\npečata koja ispunjavaju uslove u skladu sa FIPS 140-2 (Federal Information Processing Standard)\r\nnivoa 2 ili viših i koja su upisana u Registar kvalifikovanih sredstava za kreiranje elektronskih\r\npotpisa i elektronskih pečata, smatraju se važećim do isteka roka važenja kvalifikovanih\r\nelektronskih sertifikata za kreiranje elektronskog potpisa i elektronskih pečata koji su\r\nkreirani tim kvalifikovanim sredstvima."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-uslovi-kvalifikovano-sredstvo-za-kreiranje-elektronskog-potpisa.html#clan_20a"
+    },
+    {
+        "title": "Član 20b",
+        "texts": [
+            "Sredstva iz člana 20a ovog pravilnika mogu da se izdaju korisnicima zaključno\r\nsa 31. decembrom 2020. godine."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-uslovi-kvalifikovano-sredstvo-za-kreiranje-elektronskog-potpisa.html#clan_20b"
+    },
+    {
+        "title": "Član 21",
+        "texts": [
+            "Stupanjem na snagu ovog pravilnika prestaje da važi Pravilnik o tehničkotehnološkim postupcima za formiranje kvalifikovanog elektronskog potpisa i kriterijumima koje treba da ispune sredstva za formiranje kvalifikovanog elektronskog potpisa (\"Službeni glasnik RS\", br. 26/08, 13/10 i 23/15)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-uslovi-kvalifikovano-sredstvo-za-kreiranje-elektronskog-potpisa.html#clan_21"
+    },
+    {
+        "title": "Član 22",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u \"Službenom glasniku Republike Srbije\".",
+            "",
+            "Samostalni član Pravilnika o izmeni i dopuniPravilnika o uslovima koje mora da ispunjava kvalifikovano sredstvo za kreiranje elektronskog\r\npotpisa odnosno pečata i uslovima koje mora da ispunjava imenovano telo",
+            "(\"Sl. glasnik RS\", br. 3/2020)"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-uslovi-kvalifikovano-sredstvo-za-kreiranje-elektronskog-potpisa.html#clan_22"
+    },
+    {
+        "title": "Član 3",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u \"Službenom\r\nglasniku Republike Srbije\", a primenjuje se po isteku šest meseci od dana njegovog stupanja\r\nna snagu.",
+            "",
+            "Samostalni član Pravilnika o izmenama i dopuniPravilnika o uslovima koje mora da ispunjava kvalifikovano sredstvo za kreiranje elektronskog\r\npotpisa odnosno pečata i uslovima koje mora da ispunjava imenovano telo",
+            "(\"Sl. glasnik RS\", br. 87/2020)"
+        ],
+        "link": null
+    },
+    {
+        "title": "Član 4",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u \"Službenom\r\nglasniku Republike Srbije\".",
+            "Ako ne probate više različitih izbora nikada nećete biti sigurni da li imate najbolju opciju u svojim rukama. Mi Vam tu mogućnost nudimo besplatno! Popunite formular i dobićete priliku da bez ikakvih troškova saznate da li je Paragraf dobar izbor za Vas.",
+            "Ukoliko želite da Vas obaveštavamo o novostima i aktivnostima kompanije Paragraf prijavite se na našu mailing listu. Vaš e-mail neće biti upotrebljen u druge svrhe.",
+            "Pratite Paragraf na Viberu"
+        ],
+        "link": null
+    }
+]

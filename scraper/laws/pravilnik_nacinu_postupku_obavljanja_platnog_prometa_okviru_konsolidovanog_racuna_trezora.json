@@ -1,0 +1,524 @@
+[
+    {
+        "title": "Član 1",
+        "texts": [
+            "Ovim pravilnikom propisuje se način i postupak obavljanja platnog prometa u dinarima preko podračuna korisnika javnih sredstava, računa za uplatu javnih prihoda i drugih podračuna uključenih u sistem konsolidovanog računa trezora koji se vode kod Ministarstva finansija - Uprave za trezor (u daljem tekstu: Uprava).",
+            "Ovim pravilnikom bliže se uređuje i postupak za izvršenje zahteva za prenos sredstava po osnovu ovlašćenja za ispostavljanje platnog naloga po rešenjima nadležnih organa radi povraćaja ili preknjiženja pogrešno ili više plaćenog javnog prihoda i primanja.",
+            "Pod načinom i postupkom obavljanja platnog prometa, u smislu ovog pravilnika, podrazumeva se ispostavljanje platnog naloga, prijem i kontrola platnog naloga i izvršavanje tog naloga, obračun plaćanja po osnovu platnih kartica i čekova građana, izvršavanje naloga po osnovu prinudne naplate, kontrole likvidnosti, izveštavanje imalaca podračuna o dnevnim promenama i stanju na podračunima, kao i ispravke grešaka u platnom prometu.",
+            "Platni promet u Upravi se obavlja preko informacionog sistema javnih finansija.",
+            "2. Ispostavljanje platnog naloga"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-nacinu-postupku-obavljanja-platnog-prometa-okviru-konsolidovanog-racuna-trezora.html#clan_1"
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Platni nalog je instrukcija kojom nalogodavac inicira platnu transakciju preko Uprave. Platni nalog ispostavlja nalogodavac na platnom instrumentu - obrascu platnog naloga u sladu sa odlukom Narodne banke Srbije kojom se uređuje oblik, sadržina i način korišćenja obrazaca platnih naloga za izvršenje platnih transakcija u dinarima (u daljem tekstu: Odluka), uz dokumentaciju propisanu ovim pravilnikom.",
+            "Platni nalozi se mogu ispostavljati i korišćenjem servisa za elektronski platni promet, odnosno elektronskog platnog prometa, sistema izvršenja budžeta i drugih servisa ili na medijumima za prenos podataka, prema tehničko-informatičkim standardima utvrđenim posebnim propisima na osnovu ugovora između korisnika javnih sredstava i Uprave."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-nacinu-postupku-obavljanja-platnog-prometa-okviru-konsolidovanog-racuna-trezora.html#clan_2"
+    },
+    {
+        "title": "Član 3",
+        "texts": [
+            "Platna transakcija se formira unosom podataka sa platnog naloga u sistem javnih finansija Uprave i izvršava se nakon date saglasnosti nalogodavca.",
+            "Uprava ispostavlja platne naloge na osnovu propisa, izvršnih rešenja nadležnih organa, dobijenih ovlašćenja, ispravke grešaka, instrukcija za ispravke grešaka i knjiženja u sistemu izvršenja budžeta i naplate naknada za usluge koje vrši Uprava.",
+            "Uprava izvršava nalog za uplatu ispostavljen od fizičkog lica ili pravnog lica koji nije korisnik javnih sredstava, u skladu sa zakonom kojim se uređuje budžetski sistem (u daljem tekstu: Zakon) ili ugovorom.",
+            "Uprava ispostavlja i izvršava nalog za isplatu fizičkom licu na osnovu rešenja nadležnog organa."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-nacinu-postupku-obavljanja-platnog-prometa-okviru-konsolidovanog-racuna-trezora.html#clan_3"
+    },
+    {
+        "title": "Član 4",
+        "texts": [
+            "Korisnici budžetskih sredstava, koji vrše platne transakcije sa svojih podračuna ispostavljaju platni nalog na platnim instrumentima u kojima popunjavaju podatke u skladu sa Odlukom. U skladu sa ovim pravilnikom, obavezni elementi na platnom nalogu su:",
+            "1) poziv na broj zaduženja po modelu 97;",
+            "2) poziv na broj odobrenja po modelu 97, prilikom uplate javnih prihoda i prenosa po osnovu transfera iz budžeta, od direktnih korisnika budžetskih sredstava indirektnim korisnicima budžetskih sredstava ili između korisnika budžetskih sredstava na istom nivou."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-nacinu-postupku-obavljanja-platnog-prometa-okviru-konsolidovanog-racuna-trezora.html#clan_4"
+    },
+    {
+        "title": "Član 5",
+        "texts": [
+            "Struktura elementa poziv na broj zaduženja za korisnike budžetskih sredstava, sastoji se iz šest delova, i to:",
+            "1) dvocifreni kontrolni broj po modelu 97;",
+            "2) petocifreni jedinstveni broj korisnika javnih sredstava (JBKJS);",
+            "3) šestocifreni broj ekonomske klasifikacije;",
+            "4) dvocifreni broj podekonomske klasifikacije;",
+            "5) dvocifreni broj izvora finansiranja;",
+            "6) trocifreni broj funkcionalne klasifikacije.",
+            "Popunjavanje elementa poziva na broj zaduženja po strukturi iz stava 1. ovog člana, vrši se na sledeći način:",
+            "1) dvocifreni kontrolni broj po standardu ISO 7064 MODUL 97 za ceo niz cifara iz elementa poziv na broj zaduženja iz stava 1. tač. 2)-6) ovog člana, bez specijalnih znakova;",
+            "2) petocifreni broj korisnika javnih sredstava (JBKJS) unosi se iz kolone 2 - Jedinstveni broj korisnika javnih sredstava koji prenosi sredstva, iz Spiska korisnika javnih sredstava, koji je sastavni deo pravilnika kojim je propisan Spisak korisnika javnih sredstva, pri čemu Jedinstven broj korisnika javnih sredstava predstavlja jedinstvenu i nepromenjivu organizacionu identifikaciju, nezavisno od toga da li je korisniku javnih sredstava ugašen podračun, promenjen trezor, sedište ili delatnost;",
+            "3) šestocifreni broj ekonomske klasifikacije unosi se iz Priloga 2 kontnog plana iz pravilnika kojim se propisuje standardni klasifikacioni okvir i kontni plan za budžetski sistem (u daljem tekstu: Pravilnik o kontnom planu);",
+            "4) dvocifreni broj podekonomske klasifikacije koristi se za precizniju identifikaciju promene (transakcije) ili se u suprotnom upisuju dve nule;",
+            "5) dvocifreni broj izvora finansiranja propisan Pravilnikom o kontnom planu;",
+            "6) trocifreni broj funkcionalne klasifikacije unosi se iz Šeme funkcionalne klasifikacije, koja je sastavni deo Pravilnika o kontnom planu.",
+            "Kod elektronskog zapisa podaci se iskazuju u nizu (bez crtica)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-nacinu-postupku-obavljanja-platnog-prometa-okviru-konsolidovanog-racuna-trezora.html#clan_5"
+    },
+    {
+        "title": "Član 6",
+        "texts": [
+            "Popunjavanje platnog naloga na način propisan ovim pravilnikom ne odnosi se na platne transakcije na teret podračuna izvršenja budžeta Republike Srbije, autonomne pokrajine i jedinica lokalne samouprave, koje se vrše prema pravilniku koji propisuje procese i postupke funkcionisanja sistema izvršenja budžeta korisnika budžetskih sredstava Republike Srbije, autonomne pokrajine i jedinica lokalne samouprave, kao ni na plaćanja organizacija za obavezno socijalno osiguranje i korisnika sredstava Republičkog fonda za zdravstveno osiguranje, drugih korisnika javnih sredstava, ostalih korisnika javnih sredstava i pravnih lica i drugih subjekata koji ne pripadaju javnom sektoru."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-nacinu-postupku-obavljanja-platnog-prometa-okviru-konsolidovanog-racuna-trezora.html#clan_6"
+    },
+    {
+        "title": "Član 7",
+        "texts": [
+            "Popunjavanje elementa poziv na broj odobrenja po modelu 97 vrši se zavisno od vrste transakcije na koju se plaćanje odnosi, i to:",
+            "1) kod prenosa transfera, element poziv na broj odobrenja popunjava se na način iz člana 5. ovog pravilnika, s tim što se, umesto petocifrenog broja korisnika javnih sredstava koji vrši plaćanje, unosi petocifreni broj korisnika javnih sredstava kome se sredstva prenose;",
+            "2) kod uplate javnih prihoda, element poziv na broj odobrenja popunjava se u skladu sa pravilnikom koji propisuje račune za uplatu javnih prihoda na koje se uplaćuju javni prihodi i primanja, kao podračuni sistema konsolidovanog računa trezora, uslove i način vođenja računa za uplatu javnih prihoda, kao i raspored sredstava sa tih računa, kod Uprave;",
+            "3) kod prenosa sredstava po osnovu refundacije isplaćenih troškova (bolovanja, akontacije za službena putovanja, zajedničko učešće u troškovima i slično), kao i povraćaja sredstava zbog nerealizovanog posla za koja su ista ranije preneta, ili zbog dva ili više puta prenetih sredstava, u element poziv na broj odobrenja unose se podaci iz naloga za isplatu navedenih troškova, odnosno iz naloga za prenos navedenih sredstava, koji ukazuju na dokument koji je osnova za refundaciju sredstava;",
+            "4) kod ostalih uplata, u element poziv na broj odobrenja, može se, po potrebi, uneti broj dokumenta na osnovu kojeg se vrši plaćanje (npr. broj ugovora, broj fakture, broj polise i drugo)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-nacinu-postupku-obavljanja-platnog-prometa-okviru-konsolidovanog-racuna-trezora.html#clan_7"
+    },
+    {
+        "title": "Član 8",
+        "texts": [
+            "Platni nalog ispostavljen na platnom instrumentu koji ne sadrži elemente propisane ovim pravilnikom, Odlukom, pravilnikom koji propisuje račune za uplatu javnih prihoda na koje se uplaćuju javni prihodi i primanja, kao i drugim propisima, Uprava vraća podnosiocu, a na njegov pisani zahtev, obrazlaže razloge za vraćanje naloga u pisanoj formi, u roku od tri radna dana od dana podnošenja zahteva.",
+            "3. Bezgotovinski platni promet"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-nacinu-postupku-obavljanja-platnog-prometa-okviru-konsolidovanog-racuna-trezora.html#clan_8"
+    },
+    {
+        "title": "Član 9",
+        "texts": [
+            "Bezgotovinske platne transakcije vrše se na osnovu platnog naloga ispostavljenog na propisanom platnom instrumentu od strane imaoca podračuna u Upravi, na osnovu instrukcije za plaćanje po osnovu prinudne naplate, po rešenju nadležnog organa, naloga za ispravku greške u platnom prometu, instrukcija za ispravke grešaka i knjiženja za direktne i indirektne korisnike budžetskih sredstava Republike Srbije u sistemu izvršenja budžeta, dospelih naknada za pružanje usluga koje vrši Uprava i drugim slučajevima propisanim zakonom.",
+            "Platni nalog iz stava 1. ovog člana podnosi se Upravi u materijalnom obliku ili putem elektronskih servisa, osim zahteva za prenos sredstava po osnovu prinudne naplate.",
+            "Uprava ispostavlja platni nalog u sledećim slučajevima:",
+            "1) prenosom sredstava sa podračuna na podračun transferom odobrenja;",
+            "2) direktnim zaduženjem;",
+            "3) prenosom sredstava zbog korišćenih platnih kartica i čekova po tekućim računima građana;",
+            "4) usluge izvršavanja novčane doznake u okviru istog korisnika javnih sredstava po posebnom zahtevu;",
+            "5) instrukcija za ispravke grešaka i knjiženja u sistemu izvršenja budžeta Republike Srbije;",
+            "6) naplate usluga."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-nacinu-postupku-obavljanja-platnog-prometa-okviru-konsolidovanog-racuna-trezora.html#clan_9"
+    },
+    {
+        "title": "Član 10",
+        "texts": [
+            "Ako korisnik javnih sredstava podnosi više od pet platnih naloga, na teret jednog od svojih podračuna, dužan je da uz te naloge priloži i popis iznosa pojedinačnih platnih naloga i iskaže zbir tih iznosa (specifikacija platnih naloga).",
+            "Ako korisnik javnih sredstava podnosi platne naloge elektronskim putem ili na medijumu za prenos podataka u formatu koji je ugovoren sa Upravom, dužan je da podnese i specifikaciju platnih naloga."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-nacinu-postupku-obavljanja-platnog-prometa-okviru-konsolidovanog-racuna-trezora.html#clan_10"
+    },
+    {
+        "title": "Član 11",
+        "texts": [
+            "Korisnik javnih sredstava evidentira najmanje jedanput mesečno novčane obaveze izmirene asignacijom, cesijom ili na drugi način, u skladu sa propisima, preko podračuna preko kojeg vrši plaćanja."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-nacinu-postupku-obavljanja-platnog-prometa-okviru-konsolidovanog-racuna-trezora.html#clan_11"
+    },
+    {
+        "title": "Član 12",
+        "texts": [
+            "Za naplatu čekova po tekućim računima građana, korisnik javnih sredstava Upravi podnosi:",
+            "1) čekove građana,",
+            "2) specifikaciju čekova po tekućim računima, po trasatima.",
+            "Sa primljenim čekovima iz stava 1. ovog člana, Uprava postupa u skladu sa odlukom Narodne banke Srbije kojom se uređuje obavljanje međubankarskog obračuna čekova po tekućim računima građana."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-nacinu-postupku-obavljanja-platnog-prometa-okviru-konsolidovanog-racuna-trezora.html#clan_12"
+    },
+    {
+        "title": "Član 13",
+        "texts": [
+            "Na blagajnama, odnosno uplatno-isplatnim mestima Uprave može se izvršiti plaćanje obaveza fizičkih lica, na osnovu naloga za uplatu, Dina platnom karticom koju je izdala banka.",
+            "Sa platnom karticom iz stava 1. ovog člana, Uprava postupa u skladu sa odlukom Narodne banke Srbije kojom se uređuje obavljanje obračuna i poravnanja platnih kartica."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-nacinu-postupku-obavljanja-platnog-prometa-okviru-konsolidovanog-racuna-trezora.html#clan_13"
+    },
+    {
+        "title": "Član 14",
+        "texts": [
+            "Uprava izvršava platne naloge u transferu odobrenja primljene od korisnika javnih sredstava i pravnih lica i drugih subjekata koji ne pripadaju javnom sektoru koji imaju otvoren podračun kod Uprave, kao i naloge koje ispostavlja Uprava na osnovu zakona i dobijenih ovlašćenja, do visine pokrića na tim podračunima, kao i visine pokrića na konsolidovanom računu trezora kojem pripadaju.",
+            "Pod pokrićem na podračunu, u smislu stava 1. ovog člana, podrazumeva se dovoljan iznos sredstava za plaćanja po podnetim nalozima i sastoji se od salda prethodnog dana, uvećanog za zbir svih uplata i umanjenog za zbir svih plaćanja izvršenih u toku dana do momenta utvrđivanja pokrića."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-nacinu-postupku-obavljanja-platnog-prometa-okviru-konsolidovanog-racuna-trezora.html#clan_14"
+    },
+    {
+        "title": "Član 15",
+        "texts": [
+            "Platni nalozi koje ispostavljaju korisnici javnih sredstava i pravna lica i drugi subjekti koji ne pripadaju javnom sektoru i Uprava, izvršavaju se prema datumu izvršenja, vremenu i redosledu prijema.",
+            "Izuzetno, uz zahtev za registraciju menica korisnik budžetskih sredstava koji je u blokadi, dostavlja potpisan i overen platni nalog radi plaćanja naknade Upravi, koji će Uprava izvršiti posle deblokade računa."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-nacinu-postupku-obavljanja-platnog-prometa-okviru-konsolidovanog-racuna-trezora.html#clan_15"
+    },
+    {
+        "title": "Član 16",
+        "texts": [
+            "U transferu zaduženja, Uprava kod koje je otvoren podračun korisnika javnih sredstava - dužnika, obavezna je da izvrši nalog za prenos koji je izdao poverilac samo ako joj se, uz nalog, podnese dospela hartija od vrednosti, menica ili ovlašćenje direktnih zaduženja koje je korisnik budžetskih sredstava - dužnik dao poveriocu. Ukoliko na podračunu korisnika javnih sredstava - dužnika nema dovoljno sredstava za izvršenje celog iznosa sa naloga za prenos dospele hartije od vrednosti, menice (osim menice sa protestom) ili ovlašćenja, Uprava ne izvršava nalog delimično već o tome elektronskom porukom obaveštava Narodnu banku Srbije koja Upravi dostavlja elektronsku poruku o blokadi svih podračuna korisnika budžetskih sredstava - dužnika koji se vode kod Uprave. Postupak izvršenja naloga za prenos obavlja se u skladu sa odlukom Narodne banke Srbije kojom se uređuje način vršenja prinudne naplate sa računa klijenta."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-nacinu-postupku-obavljanja-platnog-prometa-okviru-konsolidovanog-racuna-trezora.html#clan_16"
+    },
+    {
+        "title": "Član 17",
+        "texts": [
+            "Bezgotovinske i gotovinske uplate ne mogu se vršiti na podračune koje su u Upravi otvorili ostali korisnici javnih sredstava i pravna lica i drugi subjekti koji ne pripadaju javnom sektoru, a kojima se vrši prenos sredstava iz budžeta Republike Srbije, autonomne pokrajne i jedinica lokalne samouprave, osim sredstava koja su odobrena iz budžeta i po osnovu uplate naknade za usluge koje vrši Uprava.",
+            "Izuzetno, na poseban namenski dinarski račun pravnih lica i drugih subjekata koji ne pripadaju javnom sektoru, prenos sredstava može izvršiti i korisnik javnih sredstava, odnosno pravno lice i drugi subjekt koji ne pripada javnom sektoru, a koji je namenski primio sredstva iz budžeta isključivo zarad prenosa na druge posebne namenske dinarske račune pravnih lica i drugih subjekata koji ne pripadaju javnom sektoru."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-nacinu-postupku-obavljanja-platnog-prometa-okviru-konsolidovanog-racuna-trezora.html#clan_17"
+    },
+    {
+        "title": "Član 18",
+        "texts": [
+            "Na osnovu primljenih platnih naloga u međubankarskom transferu, Uprava preko RTGS (Real-Time Gross Settlement) i kliring sistema (Clearing System), Narodnoj banci Srbije dostavlja:",
+            "1) pojedinačne naloge korisnika javnih sredstava za bruto obračun;",
+            "2) zbirni nalog za prenos na ukupni iznos pojedinačnih naloga po bankama i pojedinačne platne naloge korisnika javnih sredstava za neto obračun.",
+            "Uprava prima instant naloge, korisnika koji imaju otvorene račune kod banaka, preko IPS (Instant Payments Serbia) sistema NBS.",
+            "Nalozi poslati Narodnoj banci Srbije i obračunati nalozi iz st. 1. i 2. ovog člana konačni su i neopozivi."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-nacinu-postupku-obavljanja-platnog-prometa-okviru-konsolidovanog-racuna-trezora.html#clan_18"
+    },
+    {
+        "title": "Član 19",
+        "texts": [
+            "Platni nalog za čije plaćanje nisu obezbeđena sredstva evidentira se i izvršava prema vremenu prijema, ako zakonom nije drukčije određeno.",
+            "Neizvršeni platni nalog do kraja radnog dana ne prenosi se automatski na izvršenje sledećeg radnog dana, već je podnosilac naloga obavezan da ga ponovo podnese.",
+            "4. Uplate i isplate u gotovom novcu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-nacinu-postupku-obavljanja-platnog-prometa-okviru-konsolidovanog-racuna-trezora.html#clan_19"
+    },
+    {
+        "title": "Član 20",
+        "texts": [
+            "Korisnici javnih sredstava (osim ostalih korisnika javnih sredstava) dužni su da gotov novac u dinarima, primljen po bilo kom osnovu, uplate najkasnije u roku od pet radnih dana od dana prijema, na svoj podračun otvoren kod Uprave, ili na račun za uplatu javnog prihoda, ako je gotov novac primljen po osnovu naplate javnog prihoda.",
+            "Uplate gotovog novca ne mogu se vršiti na podračune koje su u Upravi otvorili ostali korisnici javnih sredstava i pravna lica i drugi subjekti koji ne pripadaju javnom sektoru, a kojima se vrši prenos sredstava iz budžeta, osim za iznos nenaplaćene usluge Uprave, odnosno na podračun naknade za usluge koje vrši Uprava."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-nacinu-postupku-obavljanja-platnog-prometa-okviru-konsolidovanog-racuna-trezora.html#clan_20"
+    },
+    {
+        "title": "Član 21",
+        "texts": [
+            "Uplatu gotovog novca kod Uprave mogu vršiti fizička lica, korišćenjem naloga za uplatu ili pisane instrukcije koja sadrži sve propisane elemente naloga za uplatu iz Odluke.",
+            "Pisanu instrukciju za uplatu gotovog novca, Uprava prihvata, formira nalog za uplatu prema dobijenoj instrukciji i izvršava ga.",
+            "Uplate gotovog novca kod Uprave mogu vršiti fizička lica na ime izmirivanja obaveza po osnovu javnih prihoda, kao i za izmirivanje obaveza prema korisnicima javnih sredstava, odnosno drugih plaćanja u skladu sa Zakonom.",
+            "Uplate gotovog novca mogu se vršiti na račune korisnika javnih sredstava koji se vode u bankama.",
+            "Ako se račun na koji je izvršena uplata u gotovom novcu ne vodi kod Uprave, već kod drugog pružaoca platnih usluga, Uprava je dužna da istog dana, sredstva odobri računu koji se vodi kod drugog pružaoca platnih usluga koji je naveden u nalogu za uplatu."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-nacinu-postupku-obavljanja-platnog-prometa-okviru-konsolidovanog-racuna-trezora.html#clan_21"
+    },
+    {
+        "title": "Član 22",
+        "texts": [
+            "Uz nalog za isplatu podnosi se na uvid ovlašćenje za preuzimanje gotovine koje je dato u Obrascu 1 - Ovlašćenje, koje je odštampano uz ovaj pravilnik i čini njegov sastavni deo, za lica kojima se vrši isplata sa podračuna korisnika javnih sredstava, ukoliko lice kojem se vrši isplata nije navedeno na kartonu deponovanih potpisa.",
+            "Uprava može da zahteva dostavljanje dodatne dokumentacije ako je neophodna zbog vršenja isplate."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-nacinu-postupku-obavljanja-platnog-prometa-okviru-konsolidovanog-racuna-trezora.html#clan_22"
+    },
+    {
+        "title": "Član 23",
+        "texts": [
+            "Uplate u gotovom novcu primljene od korisnika javnih sredstava, odnosno pravnih i fizičkih lica, Uprava istog dana evidentira kao zaduženje podračuna gotovine u Upravi i odobrenje podračuna na koji je uplata izvršena, ako se taj podračun vodi kod nje.",
+            "Isplate u gotovom novcu, Uprava evidentira kao odobrenje podračuna gotovine u Upravi i zaduženje podračuna sa kojeg je isplata izvršena."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-nacinu-postupku-obavljanja-platnog-prometa-okviru-konsolidovanog-racuna-trezora.html#clan_23"
+    },
+    {
+        "title": "Član 24",
+        "texts": [
+            "Uprava overom na nalogu potvrđuje prijem i izvršenje naloga za uplatu i naloga za isplatu (u najmanje dva primerka), od kojih poslednji primerak zadržava, a ostale overene primerke tog naloga predaje uplatiocu, odnosno isplatiocu.",
+            "Primljene i izvršene uplate, odnosno isplate, Uprava evidentira u blagajničkom dnevniku u pojedinačnim iznosima, prema redosledu prijema."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-nacinu-postupku-obavljanja-platnog-prometa-okviru-konsolidovanog-racuna-trezora.html#clan_24"
+    },
+    {
+        "title": "Član 25",
+        "texts": [
+            "Isplate gotovog novca sa podračuna u iznosu većem od 1.500.000,00 dinara, osim kada su u pitanju isplate naknada zarada i drugih ličnih primanja na koje se u skladu sa propisima plaćaju porezi i doprinosi, vrše se na osnovu prijava za isplatu gotovog novca koje korisnici javnih sredstava mogu podneti u papirnom obliku ili elektronskim putem (imejl), i to najmanje dva radna dana pre datuma isplate (računajući i dan podnošenja prijave), uz naznaku potrebne apoenske strukture.",
+            "Uprava može novac u iznosu iz stava 1. ovog člana ili veći iznos, da isplati bez najave, ako raspolaže dovoljnom količinom gotovog novca."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-nacinu-postupku-obavljanja-platnog-prometa-okviru-konsolidovanog-racuna-trezora.html#clan_25"
+    },
+    {
+        "title": "Član 26",
+        "texts": [
+            "Podračun za gotovinske isplate otvara se korisniku sistema izvršenja budžeta u skladu sa pravilnikom kojim se utvrđuje način evidentiranja korisnika javnih sredstava i uređuju uslovi i način za otvaranje i ukidanje podračuna konsolidovanog računa trezora kod Uprave, u okviru grupe podračuna 806 - Podračuni prenetih sredstava za gotovinske isplate (u daljem tekstu: grupa podračuna 806). Isplata gotovine sa grupe podračuna 806, vrši se preko Uprave.",
+            "Direktnim korisnicima budžetskih sredstava Republike Srbije podračun za gotovinske isplate se otvara u Centrali Uprave. Prilikom otvaranja podračuna dostavlja se spisak lica ovlašćenih za preuzimanje gotovine, na Obrascu 2 - Spisak lica ovlašćenih za preuzimanje gotovine koja se isplaćuje sa računa, koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo. Prilikom izmena ili ažuriranja Spiska lica ovlašćenih za preuzimanje gotovine korisnik je obavezan da isti dostavi Centrali Uprave.",
+            "Isplata gotovine direktnom korisniku budžetskih sredstava Republike Srbije, vrši se isključivo licima ovlašćenim za preuzimanje gotovine navedenim u spisku lica ovlašćenih za preuzimanje gotovine iz stava 3. ovog člana, na osnovu naloga za isplatu, koji se elektronski ispostavlja i overava kod Uprave.",
+            "Podračuni za gotovinske isplate za indirektne korisnike budžetskih sredstava Republike Srbije, odnosno direktnih i indirektnih korisnika budžetskih sredstava autonomne pokrajine i jedinica lokalne samouprave, otvaraju se u filijali Uprave prema sedištu korisnika.",
+            "Indirektni korisnik budžetskih sredstava Republike Srbije, odnosno direktni i indirektni korisnik budžetskih sredstava autonomne pokrajine i jedinica lokalne samouprave dostavlja nalog za isplatu gotovine koji potpisuje lice navedeno u kartonu deponovanih potpisa. Isplata gotovine vrši se isključivo licu ovlašćenom za preuzimanje gotovine, navedenom u ovlašćenju za preuzimanje gotovine koje izdaje lice ovlašćeno za zastupanje indirektnog korisnika budžetskih sredstava Republike Srbije, odnosno direktni i indirektni korisnik budžetskih sredstava autonomne pokrajine i jedinica lokalne samouprave.",
+            "Sredstva sa podračuna izvršenja budžeta Republike Srbije, odnosno sa podračuna izvršenja budžeta autonomne pokrajine i jedinica lokalne samouprave prenose se na grupu podračuna 806.",
+            "Ovlašćeno lice korisnika može izvršiti podizanje gotovine u roku od pet radnih dana, računajući i dan prenosa sredstava na grupu podračuna 806. Ukoliko se sredstva ne podignu u navedenom roku, Uprava vrši povraćaj neisplaćenog iznosa sredstava sa grupe podračuna 806 korisnika, na podračun izvršenja budžeta Republike Srbije, odnosno podračun izvršenja budžeta autonomne pokrajine i jedinica lokalne samouprave.",
+            "Izuzetno od stava 8. ovog člana, na posebno obrazloženi zahtev korisnika, Uprava može odobriti stalno držanje određenog iznosa na grupi podračuna 806, za specijalne namene, do visine sredstava koju svojim aktom, uz saglasnost Uprave, utvrdi korisnik.",
+            "Naknada za promet ostvaren na grupi podračuna 806 naplaćuje se na teret podračuna izvršenja budžeta Republike Srbije, odnosno podračuna izvršenja budžeta autonomne pokrajne i jedinica lokalne samouprave.",
+            "5. Prinudna naplata"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-nacinu-postupku-obavljanja-platnog-prometa-okviru-konsolidovanog-racuna-trezora.html#clan_26"
+    },
+    {
+        "title": "Član 27",
+        "texts": [
+            "Prinudna naplata se vrši sa svih podračuna koji se vode kod Uprave saglasno Zakonu i propisima koji regulišu način vršenja prinudne naplate.",
+            "6. Konsolidovani račun trezora"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-nacinu-postupku-obavljanja-platnog-prometa-okviru-konsolidovanog-racuna-trezora.html#clan_27"
+    },
+    {
+        "title": "Član 28",
+        "texts": [
+            "Konsolidacija je istovremeno evidentiranje promene, nastale u trenutku izvršenja platne transakcije, na podračunu korisnika javnih sredstava i konsolidovanom računu trezora kom pripada taj podračun.",
+            "Konsolidacija se vrši za svaku izvršenu platnu transakciju u toku dana.",
+            "Konsolidacija računa trezora Republike Srbije, autonomne pokrajine i jedinica lokalne samouprave vrši se prema prilivu na i odlivu sredstava sa podračuna koji pripadaju tom trezoru umanjena za izvršene interne pozajmice budžetu i plasirana i oročena sredstva sa konsolidovanog računa tog trezora bankama.",
+            "Nepravilnosti u konsolidaciji konsolidovanog računa trezora Republike Srbije, autonomne pokrajine i jedinica lokalne samouprave ispravlja Uprava ispostavljanjem platnog naloga.",
+            "Sredstva konsolidovanog računa trezora Republike Srbije, autonomne pokrajine i jedinica lokalne samouprave, konsoliduju se na nivou Sistema konsolidovanih računa trezora koji se vode kod Narodne banke Srbije.",
+            "7. Evidentiranje promena i izveštavanje"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-nacinu-postupku-obavljanja-platnog-prometa-okviru-konsolidovanog-racuna-trezora.html#clan_28"
+    },
+    {
+        "title": "Član 29",
+        "texts": [
+            "Dnevne promene po izvršenim nalozima za plaćanje, po svakom podračunu koji se vodi u Upravi, evidentiraju se na tim podračunima po pojedinačnim transakcijama i zbirno (ukupna zaduženja i ukupna odobrenja)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-nacinu-postupku-obavljanja-platnog-prometa-okviru-konsolidovanog-racuna-trezora.html#clan_29"
+    },
+    {
+        "title": "Član 30",
+        "texts": [
+            "Izveštaj o izvršenim platnim transakcijama (izvod) koji sadrži dnevne promene na podračunu, ima sledeće elemente:",
+            "1) naziv Uprave, redni broj izvoda i datum promene;",
+            "2) broj podračuna, naziv i sedište korisnika javnih sredstava za čiji se podračun izdaje izvod;",
+            "3) izveštaj o zaduženju, odnosno odobrenju sa podacima iz pojedinačnih platnih naloga;",
+            "4) podatke o stanju sredstava iz prethodnog izveštaja, ukupan iznos promena (duguje i potražuje) i stanje sredstava na dan dostavljanja izvoda;",
+            "5) šifra plaćanja;",
+            "6) podatak za reklamaciju (referenca naloga);",
+            "7) svrha doznake;",
+            "8) poziv na broj zaduženja;",
+            "9) poziv na broj odobrenja.",
+            "Izvod iz stava 1. ovog člana, obezbeđuje se korisniku javnih sredstava narednog radnog dana ukoliko je bilo promena na podračunu, kao i pregled platnih naloga korisnika javnih sredstava koji nisu izvršeni. Korisnik javnih sredstava može preuzeti izvod korišćenjem servisa za elektronski platni promet ili u papirnom obliku u Upravi ukoliko nije registrovan u servisu za elektronski platni promet.",
+            "Obavezno je lično preuzimanje izvoda od strane lica ovlašćenog za zastupanje korisnika javnih sredstava ili lica koje on pisanim putem ovlasti za preuzimanje izvoda kod Uprave.",
+            "8. Ispravka greške u platnom prometu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-nacinu-postupku-obavljanja-platnog-prometa-okviru-konsolidovanog-racuna-trezora.html#clan_30"
+    },
+    {
+        "title": "Član 31",
+        "texts": [
+            "Greškom u platnom prometu smatra se nepotpuno ili netačno sprovođenje instrukcija iz platnog naloga nalogodavca, instrukcije za plaćanje po osnovu prinudne naplate, po rešenju nadležnog organa, u izvršenom transferu odobrenja, i to:",
+            "1) kada je plaćanje izvršeno primaocu u iznosu većem ili manjem od iznosa iz platnog naloga nalogodavca;",
+            "2) kada je platni nalog nalogodavca izvršen dva ili više puta u istom iznosu;",
+            "3) kada je plaćanje izvršeno nekom drugom primaocu, a ne onom koji je naznačen u platnom nalogu ili instrukciji nalogodavca;",
+            "4) kada je plaćanje izvršeno sa pogrešnog podračuna nalogodavca, a ne sa onog podračuna koji je naznačen u platnom nalogu;",
+            "5) nepotpuno ili netačno prenošenje drugog opisnog (svrha uplate i podaci o platiocu) ili numeričkog podatka suprotno izraženoj nameri platioca;",
+            "6) tehnička greška u sistemu pružaoca platnih usluga, nastala u toku prenosa i obrade platnog naloga.",
+            "O primljenim i poslatim zahtevima za povraćaj ili preknjiženje pogrešno izvršenih platnih naloga, odnosno instrukcija (u daljem tekstu: zahtev) Uprava vodi evidenciju."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-nacinu-postupku-obavljanja-platnog-prometa-okviru-konsolidovanog-racuna-trezora.html#clan_31"
+    },
+    {
+        "title": "Član 32",
+        "texts": [
+            "Greškom u platnom prometu ne smatra se pogrešno ispostavljen nalog od strane korisnika, platni nalog izvršen u skladu sa jedinstvenom identifikacionom oznakom primaoca plaćanja iz tog naloga, bez obzira na druge podatke dostavljene pružaocu platnih usluga, kao i greška nastala iz poresko-pravnog odnosa i neodobrena platna transakcija."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-nacinu-postupku-obavljanja-platnog-prometa-okviru-konsolidovanog-racuna-trezora.html#clan_32"
+    },
+    {
+        "title": "Član 33",
+        "texts": [
+            "U slučaju kada pružalac platnih usluga pogrešno izvrši transfer odobrenja u korist podračuna korisnika javnih sredstava koji se vodi kod Uprave ili računa za uplatu javnih prihoda, podnosi zahtev za povraćaj ili preknjižavanje pogrešno uplaćenih sredstava filijali Uprave, po principu teritorijalne nadležnosti Uprave.",
+            "Izuzetno od stava 1. ovog člana, za greške koje nastanu po instrukcijama za plaćanje po osnovu objedinjene naplate poreza i doprinosa po odbitku i samooporezivanja, osim na prihode od samostalne delatnosti, odnosno objedinjene naplate za takse i naknade koje se plaćaju u upravnim stvarima iz delokruga rada Ministarstva unutrašnjih poslova, pružalac platnih usluga kod koga je greška nastala, zahtev za povraćaj iz stava 1. ovog člana podnosi Centrali Uprave."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-nacinu-postupku-obavljanja-platnog-prometa-okviru-konsolidovanog-racuna-trezora.html#clan_33"
+    },
+    {
+        "title": "Član 34",
+        "texts": [
+            "Zahtev za povraćaj iz člana 33. stav 1. ovog pravilnika sadrži opis nastale greške i podatke za identifikaciju naloga koji doprinose bržem otkrivanju i otklanjanju greške, kao što su:",
+            "1) datum izvršenja naloga;",
+            "2) iznos;",
+            "3) naziv i broj računa, odnosno podračuna platioca i primaoca;",
+            "4) podatak za reklamaciju (ukoliko je neophodan za identifikaciju naloga ili ga nema u pratećoj dokumentaciji);",
+            "5) poziv na broj zaduženja (ako postoji u nalogu platioca);",
+            "6) poziv na broj odobrenja (ako postoji u nalogu platioca);",
+            "7) račun platioca iz platnog naloga ili račun pružaoca platnih usluga na koji treba izvršiti povraćaj;",
+            "8) druge podatke koji doprinose bržem otkrivanju i otklanjanju greške.",
+            "Uz zahtev iz stava 1. ovog člana, pružalac platnih usluga dostavlja kao dokaz o nastaloj grešci sledeću dokumentaciju:",
+            "1) original ili skeniranu i overenu kopiju platnog naloga uplatioca ili drugi dokument koji dokazuje nameru platioca za izvršenje plaćanja, odnosno štampu elektronskih naloga, ukoliko je ispostavljen elektronski platni nalog;",
+            "2) izveštaj o promenama i stanju sredstava na računu (izvod), u delu koji se odnosi na zahtev ili pregled naloga iz sistema;",
+            "3) drugi dokument kojim se dokazuje nastala greška (pregled izvršenih naloga Narodne banke Srbije kod naloga prinudne naplate i sl.).",
+            "Dokumentacija iz stava 2. ovog člana koja se dostavlja kao prilog uz zahtev iz stava 1. ovog člana mora biti overena od strane pružaoca platnih usluga.",
+            "Zahtev sa dokumentacijom iz st. 1. i 2. ovog člana dostavlja se putem elektronske pošte u PDF formatu potpisan kvalifikovanim elektronskim potpisom ili preko poštanskog operatora u kom slučaju mora biti svojeručno potpisan i overen ili putem softverskog rešenja ePisarnice."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-nacinu-postupku-obavljanja-platnog-prometa-okviru-konsolidovanog-racuna-trezora.html#clan_34"
+    },
+    {
+        "title": "Član 35",
+        "texts": [
+            "Po prijemu zahteva i dokumentacije iz člana 34. ovog pravilnika Uprava kontroliše opravdanost zahteva i ukoliko je zahtev opravdan, preduzima mere za ispravku greške. U suprotnom, nepotpune, netačne i neosnovane zahteve vraća podnosiocu uz obrazloženje razloga vraćanja.",
+            "Primalac kome su greškom uplaćena sredstva u smislu člana 31. ovog pravilnika (tuđa sredstva na podračunu), ne sme raspolagati tako dobijenim sredstvima.",
+            "Povraćaj sredstava po osnovu zahteva ima prioritet u odnosu na sva druga plaćanja sa podračuna sa kojeg se vrši povraćaj."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-nacinu-postupku-obavljanja-platnog-prometa-okviru-konsolidovanog-racuna-trezora.html#clan_35"
+    },
+    {
+        "title": "Član 36",
+        "texts": [
+            "Povraćaj više ili pogrešno uplaćenih sredstava, vrši Uprava, ispostavljanjem naloga za prenos, na teret podračuna korisnika javnih sredstava ili računa za uplatu javnih prihoda, a u korist računa koji je pružalac platnih usluga naveo u zahtevu.",
+            "Nalog iz stava 1. ovog člana potpisuje ovlašćeno lice filijale Uprave."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-nacinu-postupku-obavljanja-platnog-prometa-okviru-konsolidovanog-racuna-trezora.html#clan_36"
+    },
+    {
+        "title": "Član 37",
+        "texts": [
+            "Ako se pri obradi podataka upisanih u platnom nalogu kojim je izvršena uplata javnih prihoda unese pogrešan račun za uplatu javnih prihoda i/ili poziv na broj odobrenja, pružalac platnih usluga može podneti zahtev za preknjižavanje javnih prihoda, po kojem filijala Uprave postupa na način propisan ovim pravilnikom i pravilnikom kojim se propisuju računi za uplatu javnih prihoda na koje se uplaćuju javni prihodi i primanja, kao podračuni sistema konsolidovanog računa trezora, uslovi i način vođenja računa za uplatu javnih prihoda, kao i raspored sredstava sa tih računa, kod Uprave."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-nacinu-postupku-obavljanja-platnog-prometa-okviru-konsolidovanog-racuna-trezora.html#clan_37"
+    },
+    {
+        "title": "Član 38",
+        "texts": [
+            "Ukoliko Uprava načini grešku u platnom prometu definisanu u članu 31. ovog pravilnika, dužna je da nastalu grešku ispravi u skladu sa ovim pravilnikom i instrukcijom iz primljenog platnog naloga.",
+            "U slučaju kada Uprava načini grešku u bezgotovinskom platnom prometu, dužna je da nadoknadi sredstva korisniku javnih sredstava preko privremenog podračuna Uprave i ispravno izvrši nalog za prenos.",
+            "U slučaju kada Uprava načini grešku prilikom izvršavanja naloga za uplatu, odnosno isplatu u gotovom novcu i greška se otkrije istog dana, dužna je da izvrši ispravno nalog za uplatu, odnosno isplatu, a zatim da sa privremenog podračuna Uprave nadoknadi sredstva.",
+            "U slučaju kada Uprava načini grešku prilikom izvršavanja naloga za uplatu odnosno isplatu u gotovom novcu i greška se otkrije sledećeg ili narednih dana, dužna je da izvrši ispravno platnu transakciju nalogom za prenos sa privremenog podračuna Uprave.",
+            "U slučaju kada Uprava pogrešno izvrši transfer odobrenja u korist podračuna, koji se vode u Upravi, nakon ispravno izvršenog naloga, Uprava podnosi zahtev filijali Uprave kod koje se vodi podračun, sa dokumentacijom iz člana 34. stav 2. ovog pravilnika.",
+            "U slučaju kada Uprava pogrešno izvrši transfer odobrenja u korist računa kod drugih pružaoca platnih usluga, nakon ispravno izvršenog naloga, Uprava podnosi zahtev pružaocu platnih usluga, sa dokumentacijom iz člana 34. stav 2. ovog pravilnika.",
+            "9. Završne odredbe"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-nacinu-postupku-obavljanja-platnog-prometa-okviru-konsolidovanog-racuna-trezora.html#clan_38"
+    },
+    {
+        "title": "Član 39",
+        "texts": [
+            "Danom stupanja na snagu ovog pravilnika prestaje da važi Pravilnik o načinu i postupku obavljanja platnog prometa u okviru konsolidovanog računa trezora (\"Službeni glasnik RS\", br. 96/17, 68/19, 91/20, 152/20 i 132/21)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-nacinu-postupku-obavljanja-platnog-prometa-okviru-konsolidovanog-racuna-trezora.html#clan_39"
+    },
+    {
+        "title": "Član 40",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu 1. januara 2025. godine.",
+            "",
+            "Obrazac 1",
+            "Memorandum korisnika",
+            "________________________________________________________________________________________",
+            "Na osnovu člana 22. stav 1. Pravilnika o načinu i postupku obavljanja platnog prometa u okviru konsolidovanog računa trezora (\"Službeni glasnik RS\", broj _________), direktor __________________ izdaje",
+            "OVLAŠĆENJE",
+            "Ovlašćuju se da mogu da dostavljaju naloge za isplatu i da podižu gotovinu u Upravi za trezor, sledeća lica:",
+            "Rednibroj",
+            "Ime i prezime",
+            "JMBG",
+            "Račun za podizanje gotovine",
+            "1.",
+            "",
+            "",
+            "",
+            "2.",
+            "",
+            "",
+            "",
+            "3.",
+            "",
+            "",
+            "",
+            "4.",
+            "",
+            "",
+            "",
+            "5.",
+            "",
+            "",
+            "",
+            "6.",
+            "",
+            "",
+            "",
+            "7.",
+            "",
+            "",
+            "",
+            "",
+            "________________",
+            "",
+            "(mesto i datum)",
+            "",
+            "",
+            "",
+            "Pečat i potpis lica ovlašćenog za zastupanje",
+            "",
+            "_____________________________",
+            "",
+            "Obrazac 2",
+            "",
+            "SPISAKLICA OVLAŠĆENIH ZA PREUZIMANJE GOTOVINE KOJA SE ISPLAĆUJE SA RAČUNA __________",
+            "",
+            "Direktni korisnik budžetskih sredstava RS",
+            "__________________________________________",
+            "",
+            "",
+            "___________________________________",
+            "",
+            "",
+            "(naziv, organizacioni deo, jedinica i mesto)",
+            "",
+            "",
+            "Filijala/ekspozitura",
+            "________________________",
+            "",
+            "",
+            "(šifra i naziv sedišta)",
+            "",
+            "Lica ovlašćena za preuzimanje gotovine",
+            "Rednibroj",
+            "Prezime i ime",
+            "JMBG",
+            "1.",
+            "",
+            "",
+            "2.",
+            "",
+            "",
+            "3.",
+            "",
+            "",
+            "4.",
+            "",
+            "",
+            "5.",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "U",
+            "____________",
+            ", dana",
+            "",
+            "(mesto)",
+            "",
+            "",
+            "Ime i prezime, JMBG,",
+            "",
+            "Pečat i potpis ovlašćenog",
+            "potpis ovlašćenog lica i",
+            "",
+            "lica Uprave za trezor",
+            "pečat korisnika budžetskih sredstava",
+            "",
+            "_____________________",
+            "_____________________________",
+            "",
+            "",
+            "_____________________________",
+            "",
+            "",
+            "_____________________________",
+            "",
+            "",
+            "_____________________________",
+            "",
+            "",
+            "Ako ne probate više različitih izbora nikada nećete biti sigurni da li imate najbolju opciju u svojim rukama. Mi Vam tu mogućnost nudimo besplatno! Popunite formular i dobićete priliku da bez ikakvih troškova saznate da li je Paragraf dobar izbor za Vas.",
+            "Ukoliko želite da Vas obaveštavamo o novostima i aktivnostima kompanije Paragraf prijavite se na našu mailing listu. Vaš e-mail neće biti upotrebljen u druge svrhe.",
+            "Pratite Paragraf na Viberu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-nacinu-postupku-obavljanja-platnog-prometa-okviru-konsolidovanog-racuna-trezora.html#clan_40"
+    }
+]

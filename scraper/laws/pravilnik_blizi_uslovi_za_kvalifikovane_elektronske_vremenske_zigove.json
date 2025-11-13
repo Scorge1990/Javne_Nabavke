@@ -1,0 +1,124 @@
+[
+    {
+        "title": "Član 1",
+        "texts": [
+            "Ovim pravilnikom se propisuju bliži uslovi za kvalifikovane elektronske\r\nvremenske žigove.",
+            "Značenje pojedinih izraza"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-blizi-uslovi-za-kvalifikovane-elektronske-vremenske-zigove.html#clan_1"
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Pojedini izrazi u smislu ovog pravilnika imaju sledeće značenje:",
+            "1) sistem za izdavanje vremenskih žigova je sklop informaciono-tehnoloških\r\nproizvoda i komponenti namenjen da podrži pružanje usluge izdavanja vremenskih žigova;",
+            "2) jedinica za formiranje vremenskih žigova je tehnička celina u okviru\r\nsistema za izdavanje vremenskih žigova koju čine odgovarajuće hardverske i softverske komponente\r\ni koristi se za formiranje kvalifikovanih vremenskih žigova, pri čemu jedna jedinica za formiranje\r\nvremenskih žigova koristi jedan asimetrični privatni ključ za potpisivanje odnosno pečatiranje\r\nvremenskih žigova;",
+            "3) asimetrični privatni ključ je tehnička realizacija podataka za kreiranje\r\nelektronskog potpisa odnosno pečata korišćenjem metoda asimetrične kriptografije;",
+            "4) asimetrični javni ključ je tehnička realizacija podataka za validaciju\r\nelektronskog potpisa odnosno pečata korišćenjem metoda asimetrične kriptografije.",
+            "Primena standarda EN 319 421"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-blizi-uslovi-za-kvalifikovane-elektronske-vremenske-zigove.html#clan_2"
+    },
+    {
+        "title": "Član 3",
+        "texts": [
+            "Usluga izdavanja kvalifikovanih elektronskih vremenskih žigova obavlja\r\nse saglasno zahtevima standarda ETSI EN 319 421 \"Electronic Signatures and Infrastructures\r\n(ESI); Policy and Security Requirements for Trust Service Providers issuing Time-Stamps\" (u\r\ndaljem tekstu: EN 319 421), uključujući i dodatne zahteve tog standarda - koji se odnose\r\nna izdavanje kvalifikovanih elektronskih vremenskih žigova, odnosno zahteve iz drugih standarda\r\nna koje se iz tog standarda direktno i indirektno upućuje, kao i zahtevima odgovarajućih\r\nstandarda, dokumenata i preporuka koje se odnose na pružanje usluge izdavanja kvalifikovanih\r\nelektronskih žigova, ako se njima obezbeđuje najmanje jednak kvalitet pružanja usluge koji\r\nse postiže primenom standarda EN 319 421.",
+            "Zahtevi standarda EN 319 421 koji se odnose na Listu od poverenja shodno\r\nse primenjuju za Javnu listu kvalifikovanih usluga od poverenja.",
+            "Sistem za izdavanje vremenskih žigova mora biti saglasan zahtevima standarda\r\nEN 319 421 koji se odnose na Sistem tela za vremenski žig.",
+            "Jedinica za formiranje vremenskih žigova mora biti saglasna sa zahtevima\r\nstandarda EN 319 421 koji se odnose na Jedinicu za formiranje vremenskih žigova.",
+            "Politika i praktična pravila usluge izdavanja kvalifikovanih\r\nelektronskih vremenskih žigova"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-blizi-uslovi-za-kvalifikovane-elektronske-vremenske-zigove.html#clan_3"
+    },
+    {
+        "title": "Član 4",
+        "texts": [
+            "Politika usluge izdavanja kvalifikovanih elektronskih vremenskih žigova\r\n(u daljem tekstu: politika izdavanja vremenskih žigova) definiše zahteve koje treba da ispunjava\r\nusluga izdavanja kvalifikovanih elektronskih vremenskih žigova, dok praktična pravila za\r\npružanje usluge izdavanja kvalifikovanih elektronskih vremenskih žigova (u daljem tekstu:\r\nPraktična pravila izdavanja vremenskih žigova) definišu operativne procedure u cilju ispunjenja\r\ntih zahteva, tj. način na koji pružalac usluge izdavanja kvalifikovanih elektronskih vremenskih\r\nžigova ispunjava tehničke, organizacione i proceduralne zahteve poslovanja koji su određeni\r\nu politici izdavanja vremenskih žigova.",
+            "Politika izdavanja vremenskih žigova se definiše nezavisno od specifičnog\r\noperativnog okruženja pružaoca usluge izdavanja kvalifikovanih elektronskih vremenskih žigova,\r\ndok praktična pravila izdavanja vremenskih žigova daju detaljan opis organizacione strukture,\r\noperativnih procedura, kao i fizičko i računarsko okruženje pružaoca usluge izdavanja kvalifikovanih\r\nelektronskih vremenskih žigova.",
+            "Uslovi koje treba da ispunjavaju politika i praktična pravila"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-blizi-uslovi-za-kvalifikovane-elektronske-vremenske-zigove.html#clan_4"
+    },
+    {
+        "title": "Član 5",
+        "texts": [
+            "Politika izdavanja vremenskih žigova i Praktična pravila izdavanja vremenskih\r\nžigova moraju biti usklađeni sa odredbama zakona, odredbama propisa donetih na osnovu zakona,\r\nkao i zahtevima standarda koji su tim propisima propisani da se primenjuju.",
+            "Politika usluge izdavanja vremenskih žigova treba da ispunjava zahteve\r\niz standarda EN 319 421, uključujući zahteve iz drugih standarda na koje se iz tog standarda\r\ndirektno i indirektno upućuje, a koji se odnose na politiku izdavanja vremenskih žigova.",
+            "Praktična pravila usluge izdavanja vremenskih žigova treba da ispunjavaju\r\nzahteve iz standarda EN 319 421, uključujući zahteve iz drugih standarda na koje se iz tog\r\nstandarda direktno i indirektno upućuje, a koji se odnose na praktična pravila izdavanja\r\nvremenskih žigova.",
+            "Izvor tačnog vremena"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-blizi-uslovi-za-kvalifikovane-elektronske-vremenske-zigove.html#clan_5"
+    },
+    {
+        "title": "Član 6",
+        "texts": [
+            "Jedinica za formiranje vremenskih žigova koristi izvor tačnog vremena (u\r\ndaljem tekstu: časovnik) koji mora biti zaštićen od neprimećenih promena i mora se obezbediti\r\nda se svaka promena rada časovnika izvan predviđenih parametara odmah ustanovi.",
+            "Časovnik mora biti sinhronizovan sa univerzalnim koordiniranim vremenom\r\n(UTC), tako da bude obezbeđeno da u trenutku formiranja vremenskog žiga vreme koje je upisano\r\nu vremenskom žigu ne odstupa od UTC vremena za više od jedne sekunde.",
+            "Objavljivanje asimetričnog javnog ključa"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-blizi-uslovi-za-kvalifikovane-elektronske-vremenske-zigove.html#clan_6"
+    },
+    {
+        "title": "Član 7",
+        "texts": [
+            "Asimetrični javni ključ koji služi za verifikaciju elektronskog potpisa\r\nodnosno pečata vremenskih žigova, tj. koji odgovara asimetričnom privatnom ključu korišćenom\r\nu jedinici za formiranje vremenskih žigova, objavljuje se u okviru Javne liste kvalifikovanih\r\nusluga od poverenja.",
+            "Korišćenje naprednog elektronskog potpisa odnosno pečata"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-blizi-uslovi-za-kvalifikovane-elektronske-vremenske-zigove.html#clan_7"
+    },
+    {
+        "title": "Član 8",
+        "texts": [
+            "Napredni elektronski potpis odnosno pečat koji se koristi za potpisivanje\r\nodnosno pečatiranje vremenskog žiga mora biti zasnovan na elektronskom sertifikatu izdatom\r\nod strane pružaoca usluge izdavanja elektronskih sertifikata koji uslugu pruža saglasno standardu\r\nETSI EN 319 411-2 \"Electronic Signatures and Infrastructures (ETSI); Policy and security\r\nrequirements for Trust Service Providers issuing certificates; Part 2: Requirements for trust\r\nservice providers issuing EU qualified certificates\".",
+            "Elektronski sertifikat koji se koristi za elektronski potpis odnosno pečat\r\niz stava 1. ovog člana mora dodatno biti saglasan zahtevima iz standarda ETSI EN 319 422: \"Electronic\r\nSignatures and Infrastructures (ESI); Time-stamping protocol and time-stamp token profiles\" (u\r\ndaljem tekstu: EN 319 422) koji se odnose na profil sertifikata jedinice za formiranje vremenskih\r\nžigova.",
+            "Protokol izdavanja vremenskog žiga"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-blizi-uslovi-za-kvalifikovane-elektronske-vremenske-zigove.html#clan_8"
+    },
+    {
+        "title": "Član 9",
+        "texts": [
+            "Sistem za izdavanje vremenskog žiga omogućava elektronski pristup usluzi\r\nizdavanja kvalifikovanih elektronskih vremenskih žigova korišćenjem protokola koji je saglasan\r\nstandardu ETSI EN 319 422, uključujući i dodatne zahteve tog standarda koji se odnose na\r\nkvalifikovane elektronske vremenske žigove.",
+            "Format zahteva za izdavanje vremenskog žiga koji se upućuje sistemu za\r\nizdavanje vremenskog žiga treba da bude u skladu sa zahtevima standarda EN 319 422 koji se\r\nodnose na profil za format zahteva.",
+            "Format odgovora na zahtev iz stava 2. ovog člana treba da bude u skladu\r\nsa zahtevima standarda EN 319 422 koji se odnose na profil za format odgovora.",
+            "Izdavanje nekvalifikovanih vremenskih žigova"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-blizi-uslovi-za-kvalifikovane-elektronske-vremenske-zigove.html#clan_9"
+    },
+    {
+        "title": "Član 10",
+        "texts": [
+            "Ako pružalac usluge izdavanja kvalifikovanih elektronskih vremenskih žigova\r\ntakođe izdaje elektronske vremenske žigove koji nisu kvalifikovani, tada:",
+            "1) ne sme da se koristi zajednička pristupna tačka za elektronski pristup\r\nusluzi izdavanja kvalifikovanih elektronskih vremenskih žigova i za elektronski pristup usluzi\r\nizdavanja nekvalifikovanih elektronskih vremenskih žigova;",
+            "2) ne sme da se koristi isti asimetrični privatni ključ za potpisivanje\r\nodnosno pečatiranje kvalifikovanih i nekvalifikovanih vremenskih žigova.",
+            "Primena Pravilnika o izdavanju vremenskog žiga"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-blizi-uslovi-za-kvalifikovane-elektronske-vremenske-zigove.html#clan_10"
+    },
+    {
+        "title": "Član 11",
+        "texts": [
+            "Izdavaoci vremenskog žiga iz člana 73. stav 4. Zakona mogu da izdaju kvalifikovane\r\nvremenske žigove u skladu sa Pravilnikom o izdavanju vremenskog žiga (\"Službeni glasnik\r\nRS\", broj 112/09) najduže godinu dana od dana stupanja na snagu ovog pravilnika.",
+            "Prestanak važenja drugih propisa"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-blizi-uslovi-za-kvalifikovane-elektronske-vremenske-zigove.html#clan_11"
+    },
+    {
+        "title": "Član 12",
+        "texts": [
+            "Pravilnik o izdavanju vremenskog žiga (\"Službeni glasnik RS\",\r\nbroj 112/09) prestaje da važi istekom roka iz člana 11. ovog pravilnika.",
+            "Stupanje na snagu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-blizi-uslovi-za-kvalifikovane-elektronske-vremenske-zigove.html#clan_12"
+    },
+    {
+        "title": "Član 13",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u \"Službenom\r\nglasniku Republike Srbije\".",
+            "Ako ne probate više različitih izbora nikada nećete biti sigurni da li imate najbolju opciju u svojim rukama. Mi Vam tu mogućnost nudimo besplatno! Popunite formular i dobićete priliku da bez ikakvih troškova saznate da li je Paragraf dobar izbor za Vas.",
+            "Ukoliko želite da Vas obaveštavamo o novostima i aktivnostima kompanije Paragraf prijavite se na našu mailing listu. Vaš e-mail neće biti upotrebljen u druge svrhe.",
+            "Pratite Paragraf na Viberu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-blizi-uslovi-za-kvalifikovane-elektronske-vremenske-zigove.html#clan_13"
+    }
+]

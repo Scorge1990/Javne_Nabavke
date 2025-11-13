@@ -1,0 +1,387 @@
+[
+    {
+        "title": "Član 1",
+        "texts": [
+            "Ovim zakonom uređuju se priprema, organizacija i sprovođenje Popisa stanovništva,\ndomaćinstava i stanova 2022. godine u Republici Srbiji (u daljem tekstu: Popis), period popisivanja,\nnačin prikupljanja podataka, jedinice koje se obuhvataju Popisom, sadržaj Popisa, obaveze\ndržavnih i drugih organa i organizacija u pripremi, organizaciji i sprovođenju Popisa, finansiranje\nPopisa, dužnosti lica koja obavljaju poslove u vezi sa Popisom, dužnosti lica koja se obuhvataju\nPopisom, obrada podataka, objavljivanje popisnih rezultata, upotreba, zaštita i čuvanje podataka\nprikupljenih u Popisu.",
+            "Značenje pojedinih izraza"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-popisu-stanovnistva-domacinstava-i-stanova.html#clan_1"
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Izrazi koji se koriste u ovom zakonu imaju sledeće značenje:",
+            "1) popisivanje je pojedinačno i sveobuhvatno prikupljanje podataka o licima,\ndomaćinstvima i stanovima koje država organizuje u jednakim vremenskim intervalima, najčešće\nna svakih deset godina;",
+            "2) kontrola kvaliteta podataka prikupljenih popisom je statističko istraživanje\nkoje se sprovodi neposredno nakon završetka popisivanja, u cilju provere obuhvata i kvaliteta\npodataka prikupljenih u popisu;",
+            "3) popisni krug je najmanja prostorna jedinica o kojoj se vode podaci u\nRegistru prostornih jedinica i koja se formira za potrebe popisa, radi preciznog raspoređivanja\npopisivača na terenu i obezbeđivanja potpunog obuhvata popisnih jedinica;",
+            "4) popisivač je lice koje je ovlašćeno da na terenu prikuplja podatke neposredno\nod lica koja se popisuju;",
+            "5) instruktor je lice koje je ovlašćeno da obučava popisivače i da prati\ni kontroliše njihov rad tokom terenskog prikupljanja podataka;",
+            "6) prebivalište je mesto u kojem se građanin nastanio sa namerom da u njemu\nstalno živi;",
+            "7) boravište je mesto u kojem građanin privremeno boravi;",
+            "8) stranac je lice koje nema državljanstvo Republike Srbije, bilo da je\nstrani državljanin ili lice bez državljanstva;",
+            "9) domaćinstvo je svaka porodična ili druga zajednica lica koja zajedno\nstanuju i zajednički troše svoje prihode za podmirivanje osnovnih životnih potreba (stanovanje,\nishrana i dr.). Domaćinstvom se smatra i tzv. samačko domaćinstvo, odnosno lice koje živi\nsamo u mestu popisa i nije član nekog drugog domaćinstva u drugom mestu u Republici Srbiji\nili u inostranstvu. Domaćinstvom se smatra i kolektivno domaćinstvo, tj. domaćinstvo sastavljeno\nod lica koja žive u verskim ustanovama, ustanovama socijalne zaštite za zbrinjavanje dece\ni odraslih i drugim ustanovama za privremeni ili trajni smeštaj;",
+            "10) diplomatsko osoblje stranih država jesu članovi diplomatskih ili konzularnih\npredstavništava stranih država, kao i članovi drugih misija koje imaju diplomatski status\nu Republici Srbiji;",
+            "11) administrativni izvori podataka jesu evidencije, registri, baze i drugi\nskupovi podataka o pravnim i fizičkim licima koje uspostavljaju i održavaju pojedini državni\norgani, organizacije i institucije;",
+            "12) agregirani podaci jesu zbirni podaci o jedinicama posmatranja;",
+            "13) anonimizirani mikropodaci su podaci kojima su uklonjene ili modifikovane\nidentifikacione varijable kako bi se onemogućila identifikacija lica na koje su se podaci\nprethodno odnosili;",
+            "14) pseudonimizacija je obrada na način koji onemogućava pripisivanje podataka\no ličnosti određenom licu bez korišćenja dodatnih podataka, pod uslovom da se ovi dodatni\npodaci čuvaju posebno i da su preduzete tehničke, organizacione i kadrovske mere koje obezbeđuju\nda se podatak o ličnosti ne može pripisati određenom ili odredivom licu;",
+            "15) geoprostorni podaci su podaci sa direktnom ili indirektnom vezom sa\nodređenom lokacijom ili geografskom oblašću;",
+            "16) servisi geoprostornih podataka su operacije koje se mogu izvršiti pozivanjem\nračunarske aplikacije nad geoprostornim podacima koji se nalaze u skupovima geoprostornih\npodataka;",
+            "17) kalendar objavljivanja je pregled svih statističkih saopštenja i publikacija\nsa precizno navedenim naslovom, referentnim periodom, datumom i vremenom objavljivanja. Objavljuje\nse na veb-sajtu Republičkog zavoda za statistiku pre početka kalendarske godine, za celu\nnarednu godinu.",
+            "Svi izrazi u ovom zakonu odnose se podjednako na lica muškog i ženskog\npola, bez obzira na to u kojem su gramatičkom rodu izraženi.",
+            "II SPROVOĐENJE POPISA",
+            "Period i način popisivanja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-popisu-stanovnistva-domacinstava-i-stanova.html#clan_2"
+    },
+    {
+        "title": "Član 3",
+        "texts": [
+            "Popisivanje se sprovodi od 1. do 31. oktobra 2022. godine.",
+            "Neposredno po završetku popisivanja, vrši se kontrola kvaliteta podataka\nprikupljenih Popisom ponovnim popisivanjem u izabranim popisnim krugovima.",
+            "Popisivanje i kontrola kvaliteta podataka prikupljenih Popisom sprovode\nse prema stanju na dan 30. septembra 2022. godine.  u 24.00 sata.",
+            "Podatke prikupljaju popisivači neposredno od građana, metodom intervjua.",
+            "Jedinice koje se obuhvataju Popisom"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-popisu-stanovnistva-domacinstava-i-stanova.html#clan_3"
+    },
+    {
+        "title": "Član 4",
+        "texts": [
+            "Popisom se obuhvataju:",
+            "1) državljani Republike Srbije sa prebivalištem, odnosno boravištem u Republici\nSrbiji, bez obzira na to da li su u vreme sprovođenja Popisa prisutni u svom mestu stanovanja\nili privremeno borave u drugom mestu u Republici Srbiji ili u inostranstvu;",
+            "2) stalno nastanjeni stranci, stranci kojima je odobren privremeni boravak\nu Republici Srbiji i druga lica koja u vreme sprovođenja Popisa borave na teritoriji Republike\nSrbije;",
+            "3) domaćinstva;",
+            "4) stanovi i druge nastanjene prostorije.",
+            "Jedinice koje se ne obuhvataju Popisom"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-popisu-stanovnistva-domacinstava-i-stanova.html#clan_4"
+    },
+    {
+        "title": "Član 5",
+        "texts": [
+            "Popisom se ne obuhvata diplomatsko i vojno osoblje stranih država, kao\nni članovi njihovih porodica koji sa njima borave u Republici Srbiji.",
+            "Popisom se ne obuhvataju stanovi u vlasništvu stranih država.",
+            "Podaci o licima"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-popisu-stanovnistva-domacinstava-i-stanova.html#clan_5"
+    },
+    {
+        "title": "Član 6",
+        "texts": [
+            "U Popisu se prikupljaju sledeći podaci o licima: ime i prezime, ime jednog\nroditelja, pol, datum rođenja, jedinstveni matični broj građana, evidencijski broj stranca,\nadresa stanovanja, državljanstvo, mesto rođenja, mesto iz kojeg se lice doselilo, datum i\nrazlog doseljenja, period boravka u inostranstvu, naziv države i razlog doseljenja/povratka\nu Republiku Srbiju, bračni status, da li lice živi u vanbračnoj zajednici, broj živorođene\ndece i godine njihovog rođenja, nacionalna pripadnost, maternji jezik, veroispovest, najviše\nstečeno obrazovanje, pohađanje škole, mesto školovanja, način putovanja u školu, pismenost,\nekonomska aktivnost, zanimanje, delatnost, status zaposlenog lica, mesto rada, način putovanja\nna posao i funkcionalna sposobnost lica za obavljanje svakodnevnih aktivnosti.",
+            "Pored podataka iz stava 1. ovog člana, o odsutnim članovima domaćinstva\nprikupljaju se sledeći podaci: razlog i dužina odsustva, mesto boravka i učestalost vraćanja\nu mesto stalnog stanovanja, dok se o licima koja su privremeno prisutna u mestu popisa prikupljaju\nsledeći podaci: razlog i dužina prisustva, mesto stalnog stanovanja i učestalost vraćanja\nu mesto stalnog stanovanja.",
+            "Podaci o domaćinstvima"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-popisu-stanovnistva-domacinstava-i-stanova.html#clan_6"
+    },
+    {
+        "title": "Član 7",
+        "texts": [
+            "U Popisu se prikupljaju sledeći podaci o domaćinstvima: adresa stanovanja,\nukupan broj članova domaćinstva, srodnički i porodični sastav, osnov po kome domaćinstvo\nkoristi stan u kojem se popisuje i da li se članovi domaćinstva bave sopstvenom poljoprivrednom\nproizvodnjom.",
+            "Podaci o stanovima i drugim nastanjenim prostorijama"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-popisu-stanovnistva-domacinstava-i-stanova.html#clan_7"
+    },
+    {
+        "title": "Član 8",
+        "texts": [
+            "U Popisu se prikupljaju sledeći podaci o stanovima i drugim nastanjenim\nprostorijama: adresa, vrsta stambenog prostora, korišćenje stana, oblik svojine, površina\nstana, broj soba, opremljenost instalacijama i pomoćnim prostorijama, vrsta energenta koji\nse koristi za grejanje, sprat na kojem se stan nalazi, kao i podaci o osnovnim karakteristikama\nzgrade u kojoj se stan nalazi.",
+            "III OBAVEZE DRŽAVNIH I DRUGIH ORGANA I ORGANIZACIJA U PRIPREMAMA,\nORGANIZACIJI I SPROVOĐENJU POPISA",
+            "Organi za sprovođenje Popisa"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-popisu-stanovnistva-domacinstava-i-stanova.html#clan_8"
+    },
+    {
+        "title": "Član 9",
+        "texts": [
+            "Popis priprema, organizuje i sprovodi Republički zavod za statistiku.",
+            "Određene poslove pripreme, organizacije i sprovođenja Popisa na teritoriji\nopština, gradova i Grada Beograda Republički zavod za statistiku obavlja preko popisnih komisija,\nu skladu sa ovim zakonom.",
+            "U pripremi, organizaciji i sprovođenju Popisa, u okviru svoje nadležnosti,\nučestvuju i:",
+            "- ministarstva i posebne organizacije;",
+            "- jedinice lokalne samouprave;",
+            "- drugi organi, organizacije i institucije.",
+            "Republički zavod za statistiku"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-popisu-stanovnistva-domacinstava-i-stanova.html#clan_9"
+    },
+    {
+        "title": "Član 10",
+        "texts": [
+            "Republički zavod za statistiku obavlja sledeće poslove: stara se o blagovremenom\ni potpunom sprovođenju ovog zakona; definiše metodologiju Popisa u skladu sa nacionalnim\npotrebama i međunarodnim obavezama; propisuje sadržaj popisnih upitnika u skladu sa ovim\nzakonom; izrađuje upitnike, uputstva i druge metodološke i organizacione instrumente Popisa;\nsarađuje sa ministarstvima, posebnim organizacijama, jedinicama lokalne samouprave i drugim\norganima, organizacijama i institucijama, koordinira zajedničke aktivnosti u vezi sa pripremom,\norganizacijom i sprovođenjem Popisa i, u skladu sa ovim zakonom, daje instrukcije, pruža\nstručnu pomoć i traži izveštaje o realizaciji popisnih aktivnosti; obezbeđuje potpuno, tačno\ni pravovremeno obaveštavanje stanovništva o značaju i ciljevima Popisa i načinu i vremenu\nnjegovog sprovođenja; formira popisne komisije u opštinama, gradovima i Gradu Beogradu i\ndefiniše njihove obaveze; dostavlja popisnim komisijama metodološka i organizaciona uputstva,\nkao i opremu za terensko prikupljanje podataka; raspoređuje i prenosi finansijska sredstva\npopisnim komisijama; izrađuje finansijska uputstva o korišćenju sredstava namenjenih za sprovođenje\nPopisa i kontroliše upotrebu finansijskih sredstava; definiše kriterijume i procedure za\nizbor neposrednih učesnika u Popisu; sprovodi stručnu obuku i organizuje i koordinira instruktaže\nneposrednih učesnika u Popisu; izdaje propisana ovlašćenja za rad u Popisu; organizuje terensko\nprikupljanje podataka i kontrolu kvaliteta podataka prikupljenih Popisom; podnosi zahtev\nza pokretanje prekršajnog postupka u skladu sa ovim zakonom; obrađuje i analizira podatke;\nobjavljuje popisne rezultate; arhivira popisnu građu i obezbeđuje zaštitu podataka u skladu\nsa zakonom i drugim propisima.",
+            "U Republičkom zavodu za statistiku formira se posebno upravljačko telo\nsa zadatkom da organizuje i koordinira rad svih učesnika u Popisu. Na čelu ovog tela je direktor\nRepubličkog zavoda za statistiku, a članovi su lica odgovorna za organizaciju i realizaciju\nspecifičnih popisnih aktivnosti.",
+            "Popisna komisija"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-popisu-stanovnistva-domacinstava-i-stanova.html#clan_10"
+    },
+    {
+        "title": "Član 11",
+        "texts": [
+            "Popisna komisija se formira za svaku opštinu, grad i gradsku opštinu Grada\nBeograda.",
+            "Članove popisne komisije imenuje direktor Republičkog zavoda za statistiku\nna predlog jedinice lokalne samouprave, odnosno gradske opštine Grada Beograda.",
+            "Popisnu komisiju mogu sačinjavati od tri do sedam članova, u zavisnosti\nod broja stanovnika, broja naseljenih mesta i površine teritorije, s tim što je jedan član\npredstavnik Republičkog zavoda za statistiku. Izuzetno, na posebno obrazložen zahtev jedinice\nlokalne samouprave, direktor Republičkog zavoda za statistiku može imenovati dodatne članove\npopisne komisije.",
+            "Popisna komisija dužna je da, u skladu sa instrukcijama Republičkog zavoda\nza statistiku, blagovremeno preduzme sve mere neophodne za kvalitetnu pripremu, organizaciju\ni sprovođenje Popisa na teritoriji za koju je zadužena.",
+            "Popisna komisija obavlja sledeće poslove: obaveštava stanovništvo o značaju\ni ciljevima Popisa, načinu i vremenu njegovog sprovođenja, kao i o pravima i dužnostima građana\nu Popisu; obezbeđuje prostorije za selekciju i obuku kandidata za instruktore i popisivače,\nza smeštaj popisnog materijala i opreme i druge prostorije neophodne za rad; izdaje popisivačima\ni instruktorima propisana ovlašćenja za rad; prati rad popisivača i instruktora, pruža im\npomoć i rešava sporne situacije na terenu; organizuje dežurstva u vreme sprovođenja Popisa;\nangažuje stručnjake iz oblasti informaciono-komunikacionih tehnologija za podršku tokom obuke\nneposrednih učesnika u Popisu i tokom terenske realizacije Popisa; angažuje dodatno stručno\nosoblje za obavljanje pojedinih popisnih zadataka; stara se o pravilnom rasporedu i racionalnoj\nupotrebi finansijskih sredstava određenih za Popis, izrađuje obračun utrošenih sredstava\ni dostavlja izveštaje; obavlja i druge poslove u vezi sa pripremom i sprovođenjem Popisa,\nu skladu sa uputstvima Republičkog zavoda za statistiku.",
+            "Ministarstva i posebne organizacije"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-popisu-stanovnistva-domacinstava-i-stanova.html#clan_11"
+    },
+    {
+        "title": "Član 12",
+        "texts": [
+            "U okviru svog delokruga i zadataka utvrđenih ovim zakonom, u izvršenju\npojedinih poslova u vezi sa Popisom učestvuju:",
+            "1) ministarstvo nadležno za poslove odbrane;",
+            "2) ministarstvo nadležno za poslove pravde;",
+            "3) ministarstvo nadležno za spoljne poslove;",
+            "4) ministarstvo nadležno za poslove rada, zapošljavanja, boračka i socijalna\npitanja;",
+            "5) Republički geodetski zavod;",
+            "6) Komesarijat za izbeglice i migracije;",
+            "7) druga ministarstva i posebne organizacije.",
+            "Ministarstvo nadležno za poslove odbrane"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-popisu-stanovnistva-domacinstava-i-stanova.html#clan_12"
+    },
+    {
+        "title": "Član 13",
+        "texts": [
+            "Ministarstvo nadležno za poslove odbrane obezbeđuje uslove za popisivanje\nvojnih i civilnih lica koja u vreme Popisa stanuju u kasarnama, vojnim školama i drugim vojnim\nustanovama, kao i za popisivanje pripadnika Vojske Republike Srbije koji su angažovani u\nmultinacionalnim operacijama.",
+            "Način popisivanja lica iz stava 1. ovog člana utvrđuje se metodološkim\nuputstvom, koje donosi direktor Republičkog zavoda za statistiku, uz saglasnost ministra\nnadležnog za poslove odbrane.",
+            "Ministarstvo nadležno za poslove pravde"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-popisu-stanovnistva-domacinstava-i-stanova.html#clan_13"
+    },
+    {
+        "title": "Član 14",
+        "texts": [
+            "Ministarstvo nadležno za poslove pravde obezbeđuje uslove za popisivanje\nlica koja se nalaze u zavodima za izvršenje krivičnih sankcija.",
+            "Način popisivanja lica iz stava 1. ovog člana utvrđuje se metodološkim\nuputstvom, koje donosi direktor Republičkog zavoda za statistiku, uz saglasnost ministra\nnadležnog za poslove pravde.",
+            "Ministarstvo nadležno za spoljne poslove"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-popisu-stanovnistva-domacinstava-i-stanova.html#clan_14"
+    },
+    {
+        "title": "Član 15",
+        "texts": [
+            "Ministarstvo nadležno za spoljne poslove obezbeđuje uslove za organizaciju\ni sprovođenje Popisa državljana Republike Srbije na radu u diplomatsko-konzularnim predstavništvima\nRepublike Srbije, delovima privrednih društava u inostranstvu, delovima banaka i drugih lica\nu finansijskom sektoru u inostranstvu, predstavništvima Privredne komore Srbije u inostranstvu,\nOrganizaciji Ujedinjenih nacija, njenim organima i specijalizovanim agencijama i drugim međunarodnim\norganizacijama, kao i članova njihovih domaćinstava koji sa navedenim licima borave u inostranstvu.",
+            "Način popisivanja lica iz stava 1. ovog člana utvrđuje se metodološkim\nuputstvom, koje donosi direktor Republičkog zavoda za statistiku, uz saglasnost ministra\nnadležnog za spoljne poslove.",
+            "Ministarstvo nadležno za poslove rada, zapošljavanja, boračka\ni socijalna pitanja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-popisu-stanovnistva-domacinstava-i-stanova.html#clan_15"
+    },
+    {
+        "title": "Član 16",
+        "texts": [
+            "Ministarstvo nadležno za poslove rada, zapošljavanja, boračka i socijalna\npitanja obezbeđuje uslove za popisivanje lica smeštenih u ustanovama socijalne zaštite, kao\ni za popisivanje beskućnika u prihvatilištima i svratištima.",
+            "Način popisivanja lica iz stava 1. ovog člana utvrđuje se metodološkim\nuputstvom, koje donosi direktor Republičkog zavoda za statistiku, uz saglasnost ministra\nnadležnog za poslove rada, zapošljavanja, boračka i socijalna pitanja.",
+            "Republički geodetski zavod"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-popisu-stanovnistva-domacinstava-i-stanova.html#clan_16"
+    },
+    {
+        "title": "Član 17",
+        "texts": [
+            "Republički geodetski zavod, u saradnji sa Republičkim zavodom za statistiku,\nizrađuje metodološko-organizaciono uputstvo za pripremu i ažuriranje geoprostornih podataka\nza potrebe terenske realizacije popisa.",
+            "U skladu sa uputstvom iz stava 1. ovog člana, Republički geodetski zavod\nvrši reviziju granica statističkih i popisnih krugova, ažurira podatke Registra prostornih\njedinica i obezbeđuje raspoložive skupove i servise geoprostornih podataka iz svoje nadležnosti,\nkoji su neophodni za organizaciju terenskih aktivnosti, izradu ažurnih mapa statističkih\ni popisnih krugova, povezivanje popisnih i geoprostornih podataka, obradu i objavljivanje\nrezultata popisa.",
+            "Komesarijat za izbeglice i migracije"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-popisu-stanovnistva-domacinstava-i-stanova.html#clan_17"
+    },
+    {
+        "title": "Član 18",
+        "texts": [
+            "Komesarijat za izbeglice i migracije obezbeđuje uslove za popisivanje lica\nsmeštenih u kolektivnim centrima, centrima za azil i prihvatnim centrima, kao i drugim objektima\nkoji su u njegovoj nadležnosti.",
+            "Druga ministarstva i posebne organizacije"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-popisu-stanovnistva-domacinstava-i-stanova.html#clan_18"
+    },
+    {
+        "title": "Član 19",
+        "texts": [
+            "Ministarstva i posebne organizacije, pored navedenih u čl. 13. do 18. ovog\nzakona, obavezni su da pruže stručnu pomoć Republičkom zavodu za statistiku u pripremi i\nsprovođenju Popisa, u okviru svog delokruga utvrđenog zakonom.",
+            "Jedinica lokalne samouprave"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-popisu-stanovnistva-domacinstava-i-stanova.html#clan_19"
+    },
+    {
+        "title": "Član 20",
+        "texts": [
+            "Jedinica lokalne samouprave obavlja sledeće poslove: predlaže članove popisne\nkomisije, obezbeđuje prostorije za rad popisne komisije, prati sprovođenje Popisa na svojoj\nteritoriji, pruža pomoć popisnoj komisiji u izvršavanju popisnih zadataka i obavlja druge\nposlove u skladu sa uputstvima Republičkog zavoda za statistiku.",
+            "Drugi organi, organizacije i institucije"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-popisu-stanovnistva-domacinstava-i-stanova.html#clan_20"
+    },
+    {
+        "title": "Član 21",
+        "texts": [
+            "Drugi državni organi, organi autonomne pokrajine, organizacije, agencije,\nkancelarije i službe Vlade obavezni su da, ukoliko je potrebno, pruže stručnu pomoć Republičkom\nzavodu za statistiku u procesu pripreme i realizacije Popisa, u okviru svog delokruga utvrđenog\nzakonom.",
+            "Upotreba administrativnih izvora podataka"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-popisu-stanovnistva-domacinstava-i-stanova.html#clan_21"
+    },
+    {
+        "title": "Član 22",
+        "texts": [
+            "Za potrebe pripreme i organizacije Popisa, praćenja obuhvata popisnih jedinica\ni unapređenja kvaliteta prikupljenih podataka, Republički zavod za statistiku ima pravo pristupa\nadministrativnim izvorima podataka.",
+            "Podaci od značaja za Popis, navedeni u čl. 6, 7. i 8. ovog zakona, koji\nnisu prikupljeni tokom terenske realizacije Popisa preuzimaju se iz raspoloživih administrativnih\nizvora.",
+            "Vlasnici administrativnih izvora podataka obavezni su da na zahtev Republičkog\nzavoda za statistiku omoguće preuzimanje podataka od značaja za Popis, uključujući identifikatore.",
+            "Republički zavod za statistiku je dužan da preduzme sve mere zaštite podataka\npreuzetih iz administrativnih izvora, u skladu sa zakonom.",
+            "IV FINANSIRANJE POPISA",
+            "Finansiranje poslova Republičkog zavoda za statistiku"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-popisu-stanovnistva-domacinstava-i-stanova.html#clan_22"
+    },
+    {
+        "title": "Član 23",
+        "texts": [
+            "Sredstva za finansiranje poslova u vezi sa Popisom obezbeđuju se u budžetu\nRepublike Srbije, a Republički zavod za statistiku vrši prenos dela odobrenih sredstava na\npodračune za posebne namene popisnim komisijama za sprovođenje Popisa.",
+            "Republički zavod za statistiku ovlašćuje jednog ili više članova popisne\nkomisije za raspolaganje sredstvima na podračunu za posebne namene iz stava 1. ovog člana,\nkoji su odgovorni za zakonito i namensko trošenje sredstava sa tog podračuna.",
+            "Popisne komisije vode evidenciju o utrošku sredstava iz stava 1. ovog člana\ni izveštaj o tome dostavljaju Republičkom zavodu za statistiku, na njegov zahtev.",
+            "Republički zavod za statistiku vrši kontrolu zakonitog i namenskog korišćenja\nsredstava sa podračuna iz stava 1. ovog člana.",
+            "Sredstva iz stava 1. ovog člana, obezbeđena zakonom o budžetu Republike\nSrbije, koja se ne utroše, vraćaju se u budžet Republike Srbije do isteka fiskalne godine.",
+            "Naknade licima koja obavljaju poslove u vezi sa Popisom"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-popisu-stanovnistva-domacinstava-i-stanova.html#clan_23"
+    },
+    {
+        "title": "Član 24",
+        "texts": [
+            "Popisivači, instruktori, članovi popisnih komisija i druga lica koja se\nprivremeno angažuju za obavljanje poslova u vezi sa Popisom, u skladu sa ovim zakonom, imaju\npravo na novčanu naknadu prema merilima koje utvrđuje direktor Republičkog zavoda za statistiku.",
+            "V DUŽNOSTI LICA KOJA OBAVLJAJU POSLOVE U VEZI SA POPISOM I\nLICA KOJA SE OBUHVATAJU POPISOM",
+            "Dužnosti lica koja obavljaju poslove u vezi sa Popisom"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-popisu-stanovnistva-domacinstava-i-stanova.html#clan_24"
+    },
+    {
+        "title": "Član 25",
+        "texts": [
+            "Popisivač, instruktor i drugo fizičko ili pravno lice angažovano u Popisu\ndužno je da sve poslove koji su mu povereni obavlja blagovremeno i na propisan način.",
+            "Popisivač, instruktor i drugo fizičko lice angažovano u Popisu dužno je\nda strogo vodi računa o tačnosti upisa podataka koje su dali davaoci podataka, odnosno o\ntačnoj obradi podataka prikupljenih Popisom.",
+            "Lice iz stava 2. ovog člana dužno je da čuva kao tajnu sve podatke o popisanim\nlicima do kojih dođe tokom obavljanja poslova koji su mu povereni.",
+            "Dužnosti lica koja se obuhvataju Popisom"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-popisu-stanovnistva-domacinstava-i-stanova.html#clan_25"
+    },
+    {
+        "title": "Član 26",
+        "texts": [
+            "Lice koje se obuhvata Popisom dužno je da u njemu učestvuje, odnosno da\nodgovori na sva popisna pitanja i da na svako pitanje da tačan i potpun odgovor. Podatke\no odsutnim članovima domaćinstva daje član domaćinstva kome su podaci najviše poznati, a\no deci mlađoj od petnaest godina podatke daje roditelj, usvojitelj ili staratelj.",
+            "Lice koje se obuhvata Popisom nije dužno da se izjašnjava o nacionalnoj\npripadnosti i veroispovesti.",
+            "Ako popisivač u vreme Popisa ne zatekne u stanu lice koje se obuhvata Popisom,\na podatke ne može da prikupi na način predviđen u stavu 1. ovog člana, ostavlja pismeno obaveštenje\nda je to lice dužno da se najkasnije do 31. oktobra 2022. godine javi nadležnom organu radi\ndavanja podataka u vezi s Popisom.",
+            "VI OBRADA PODATAKA I OBJAVLJIVANJE REZULTATA POPISA",
+            "Obrada podataka"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-popisu-stanovnistva-domacinstava-i-stanova.html#clan_26"
+    },
+    {
+        "title": "Član 27",
+        "texts": [
+            "Republički zavod za statistiku obrađuje podatke prikupljene u Popisu u\nsvrhu proizvodnje i objavljivanja podataka zvanične statistike.",
+            "Obrada je neophodna u cilju obezbeđivanja zvaničnih statističkih podataka\no prostornoj distribuciji i karakteristikama stanovništva, domaćinstava i stanova za potrebe\nanalize i ocene stanja i planiranja razvoja društva.",
+            "Podaci o ličnosti obrađuju se u statističke svrhe, uz primenu svih tehničkih\ni organizacionih mera za sprečavanje identifikacije osobe na koju se podaci odnose, uključujući\ni pseudonimizaciju.",
+            "Obrada podataka o ličnosti vrši se u skladu sa zakonom koji uređuje zaštitu\npodataka o ličnosti.",
+            "Objavljivanje rezultata Popisa"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-popisu-stanovnistva-domacinstava-i-stanova.html#clan_27"
+    },
+    {
+        "title": "Član 28",
+        "texts": [
+            "Republički zavod za statistiku objavljuje rezultate Popisa od javnog značaja,\ni to:",
+            "1) preliminarne rezultate Popisa, u roku od 30 dana od dana završetka popisivanja;",
+            "2) konačne rezultate Popisa, zajedno sa metapodacima i izveštajem o kvalitetu,\nu skladu sa kalendarom objavljivanja, sukcesivno do 30. juna 2024. godine.",
+            "Rezultati iz stava 1. ovog člana objavljuju se isključivo u vidu agregiranih\npodataka, i dostupni su svima pod jednakim uslovima na zvaničnom veb-sajtu Republičkog zavoda\nza statistiku.",
+            "VII UPOTREBA, ZAŠTITA I ČUVANJE PODATAKA PRIKUPLJENIH U POPISU",
+            "Upotreba podataka prikupljenih u Popisu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-popisu-stanovnistva-domacinstava-i-stanova.html#clan_28"
+    },
+    {
+        "title": "Član 29",
+        "texts": [
+            "Podaci prikupljeni u Popisu koriste se isključivo u statističke svrhe i\nRepublički zavod za statistiku ih ne može ustupati drugim fizičkim i pravnim licima.",
+            "Podaci prikupljeni u Popisu ne mogu se upotrebljavati u svrhu utvrđivanja\nobaveza građana, niti se mogu koristiti kao dokaz za ostvarivanje prava građana.",
+            "Republički zavod za statistiku može koristiti podatke prikupljene Popisom\nza uspostavljanje statističkih registara, u skladu sa zakonom koji uređuje oblast zvanične\nstatistike i zakonom koji uređuje zaštitu podataka o ličnosti.",
+            "Za potrebe korišćenja popisnih podataka u naučnoistraživačke svrhe, Republički\nzavod za statistiku obrazuje posebnu bazu sa anonimiziranim mikropodacima.",
+            "Zaštita podataka prikupljenih u Popisu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-popisu-stanovnistva-domacinstava-i-stanova.html#clan_29"
+    },
+    {
+        "title": "Član 30",
+        "texts": [
+            "Republički zavod za statistiku dužan je da preduzme sve propisane administrativne,\ntehničke i organizacione mere neophodne za zaštitu podataka prikupljenih u Popisu od nelegalnog\npristupa, objavljivanja ili korišćenja, u skladu sa zakonom kojim se reguliše oblast informacione\nbezbednosti.",
+            "Čuvanje podataka"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-popisu-stanovnistva-domacinstava-i-stanova.html#clan_30"
+    },
+    {
+        "title": "Član 31",
+        "texts": [
+            "Podaci prikupljeni u Popisu čuvaju se trajno, u elektronskoj formi.",
+            "Direktor Republičkog zavoda za statistiku, donosi, u skladu sa važećim\nstandardima, poseban akt kojim se bliže reguliše skladištenje i čuvanje podataka prikupljenih\nu Popisu.",
+            "VIII KAZNENE ODREDBE"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-popisu-stanovnistva-domacinstava-i-stanova.html#clan_31"
+    },
+    {
+        "title": "Član 32",
+        "texts": [
+            "Novčanom kaznom, od 20.000 do 50.000 dinara, kazniće se za prekršaj fizičko\nlice koje se obuhvata Popisom ili lice koje je dužno da dâ podatke o odsutnim članovima domaćinstva,\nodnosno roditelj, usvojitelj ili staratelj za dete mlađe od petnaest godina, ako odbije da\nodgovori na pitanja u popisnim upitnicima ili dâ netačne i nepotpune odgovore (član 26. stav\n1.)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-popisu-stanovnistva-domacinstava-i-stanova.html#clan_32"
+    },
+    {
+        "title": "Član 33",
+        "texts": [
+            "Novčanom kaznom od 30.000 do 50.000 dinara kazniće se popisivač, instruktor\ni drugo lice koje je zaduženo za obavljanje poslova u vezi s Popisom, kao i odgovorno lice\nu pravnom licu koje obavlja poslove u vezi s Popisom, ako:",
+            "1) ne obavlja poslove Popisa blagovremeno i na propisan način (član 25.\nstav 1.);",
+            "2) ne vodi računa o tačnosti upisa podataka koje su dali davaoci podataka,\nodnosno o tačnoj obradi podataka prikupljenih Popisom (član 25. stav 2.);",
+            "3) ne čuva kao tajnu sve podatke o popisanim licima do kojih dođe tokom\nobavljanja poslova koji su mu povereni (član 25. stav 3.);",
+            "4) protivno volji lica obuhvaćenog Popisom zahteva da se to lice izjašnjava\no nacionalnoj pripadnosti ili veroispovesti (član 26. stav 2.)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-popisu-stanovnistva-domacinstava-i-stanova.html#clan_33"
+    },
+    {
+        "title": "Član 34",
+        "texts": [
+            "Novčanom kaznom od 50.000 do 100.000 dinara kazniće se za prekršaj član\npopisne komisije koji je ovlašćen za raspolaganje sredstvima na podračunu za posebne namene\nako nenamenski i nezakonito troši sredstva sa podračuna popisne komisije (član 23. stav 2.).",
+            "IX ZAVRŠNE ODREDBE",
+            "Propisivanje i objavljivanje metodoloških instrumenata Popisa"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-popisu-stanovnistva-domacinstava-i-stanova.html#clan_34"
+    },
+    {
+        "title": "Član 35",
+        "texts": [
+            "Direktor Republičkog zavoda za statistiku propisuje osnovne popisne upitnike\n(Popisnica i Upitnik za domaćinstvo i stan) i organizaciono-metodološko uputstvo za sprovođenje\nPopisa.",
+            "Sadržaj upitnika iz stava 1. ovog člana objavljuje se u \"Službenom\nglasniku Republike Srbije\".",
+            "Rok za formiranje popisnih komisija"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-popisu-stanovnistva-domacinstava-i-stanova.html#clan_35"
+    },
+    {
+        "title": "Član 36",
+        "texts": [
+            "Popisne komisije iz člana 11. ovog zakona formiraće se najkasnije četiri meseca pre početka popisivanja.",
+            "Privremeno obustavljanje izmena naziva i granica teritorijalnih\njedinica i imena ulica i trgova u naseljenim mestima"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-popisu-stanovnistva-domacinstava-i-stanova.html#clan_36"
+    },
+    {
+        "title": "Član 37",
+        "texts": [
+            "U periodu od 1. do 31. oktobra 2022. godine, nadležni organi neće menjati\nnazive i granice teritorijalnih jedinica: opština, gradova i naseljenih mesta, kao ni imena\nulica i trgova u naseljenim mestima.",
+            "Stupanje na snagu ovog zakona"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-popisu-stanovnistva-domacinstava-i-stanova.html#clan_37"
+    },
+    {
+        "title": "Član 38",
+        "texts": [
+            "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u \"Službenom\nglasniku Republike Srbije\".",
+            "Ako ne probate više različitih izbora nikada nećete biti sigurni da li imate najbolju opciju u svojim rukama. Mi Vam tu mogućnost nudimo besplatno! Popunite formular i dobićete priliku da bez ikakvih troškova saznate da li je Paragraf dobar izbor za Vas.",
+            "Ukoliko želite da Vas obaveštavamo o novostima i aktivnostima kompanije Paragraf prijavite se na našu mailing listu. Vaš e-mail neće biti upotrebljen u druge svrhe."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-popisu-stanovnistva-domacinstava-i-stanova.html#clan_38"
+    }
+]

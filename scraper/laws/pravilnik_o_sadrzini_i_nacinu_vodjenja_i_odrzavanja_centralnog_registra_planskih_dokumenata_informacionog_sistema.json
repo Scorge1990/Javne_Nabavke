@@ -1,0 +1,274 @@
+[
+    {
+        "title": "Član 1",
+        "texts": [
+            "Ovim pravilnikom bliže se propisuje sadržina i način vođenja i održavanja Centralnog registra planskih dokumenata, Informacionog sistema o stanju u prostoru i lokalnog informacionog sistema planskih dokumenata kao i digitalnih formata dostavljanja planskih dokumenata.",
+            "2. Pojmovi"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_sadrzini_i_nacinu_vodjenja_i_odrzavanja_centralnog_registra_planskih_dokumenata_informacionog_sistema.html#clan_1"
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Pojedini izrazi upotrebljeni u ovom pravilniku imaju sledeće značenje:",
+            "1) Nacionalna infrastruktura geoprostornih podataka - NIGP (eng.National Spatial Data Infrastructure- NSDI), predstavlja integrisani sistem geoprostornih podataka, koji omogućava korisnicima da na sveobuhvatan način, identifikuju i pristupe prostornim informacijama dobijenim iz različitih izvora, od lokalnog, preko nacionalnog do globalnog nivoa;",
+            "2) Informacioni sistem o stanju u prostoru Republike Srbije (u daljem tekstu: Informacioni sistem o prostornom razvoju) je informacioni sistem na nacionalnom nivou u kome se prati stanje prostornog razvoja i stepen realizacije planskih rešenja;",
+            "3) izveštaj o stanju prostornog razvoja je godišnji dokument koji priprema ministarstvo nadležno za poslove prostornog planiranja, u kome se objavljuje: stepen realizacije planskih rešenja, vrednosti pokazatelja prostornog razvoja, promene u planskoj dokumentaciji izvršene u datoj godini i prikaz napredovanja u realizaciji Informacionog sistema o prostornom razvoju. Izveštaji se pripremaju na nacionalnom i pokrajinskom ili regionalnom nivou;",
+            "4) lokalni informacioni sistem planskih dokumenata i stanja u prostoru je informacioni sistem na nivou jedinica lokalne samouprave u kome se prikupljaju podaci za potrebe Informacionog sistema o prostornom razvoju i druge sektorske informacione sisteme, sa ciljem objavljivanja godišnjih Izveštaja o stanju prostornog razvoja ili korišćenja u drugim strateško razvojnim dokumentima;",
+            "5) GIS - geografski informacioni sistemi su informacioni sistemi za upravljanje geoprostornim podacima, u kojima se skladište, integrišu, uređuju, analiziraju i prikazuju informacije o prostoru. GIS se sastoji od uređenih relacionih alfanumeričkih baza podataka i digitalnih interaktivnih karata na kojima su prikazani objekti, pojave i procesi odgovarajućim kartografskim znacima i drugim simbolima;",
+            "6) veb servisi označavaju aplikativne softverske sisteme zasnovane na GIS-u za potrebe Informacionog sistema o prostornom razvoju, a u cilju interoperabilnog povezivanja, komunikacije i razmene podataka pojedinačnih informacionih sistema koje vode nadležni organi, i to o: prirodnim resursima - zemljište, vode, šume, mineralne sirovine; infrastrukturi - transportna, energetska, vodoprivredna, telekomunikaciona; zaštićenim prirodnim i kulturnim dobrima; stanju životne sredine i drugim podacima;",
+            "7) interoperabilnost označava da je omogućena komunikacija i razmena podataka između pojedinačnih informacionih sistema koje vode nadležni organi, nezavisno od tehnologije, softvera i formata podataka koji su korišćeni prilikom izrade tih informacionih sistema, a za potrebe informacionog sistema prostornom razvoju;",
+            "8) PDF je portabl dokument format, digitalni format i oblik zapisa tekstualnog dokumenta i grafičkih prikaza, koji je nezavisan od softvera i hardvera uređaja na kome se nalazi tako da sadrži kompletan opis dokumenta (tekst, vektorska grafika, rasterske slike, kao i fontove za prikaz teksta).",
+            "3. Centralni registar planskih dokumenata"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_sadrzini_i_nacinu_vodjenja_i_odrzavanja_centralnog_registra_planskih_dokumenata_informacionog_sistema.html#clan_2"
+    },
+    {
+        "title": "Član 3",
+        "texts": [
+            "Centralni registar planskih dokumenata (u daljem tekstu: Registar) vodi organ nadležan za poslove državnog premera i katastra, u skladu sa zakonom.",
+            "U cilju efikasnijeg vođenja i održavanja, Registar se hijerarhijski organizuje po tematskim celinama:",
+            "1) prostorni planovi;",
+            "2) prostorni planovi iz nadležnosti autonomne pokrajine;",
+            "3) planski dokumenti za teritoriju lokalne samouprave;",
+            "4) dokumenti za sprovođenje prostornih planova;",
+            "5) urbanističko-tehnički dokumenti.",
+            "4. Informacioni sistem o stanju u prostoru"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_sadrzini_i_nacinu_vodjenja_i_odrzavanja_centralnog_registra_planskih_dokumenata_informacionog_sistema.html#clan_3"
+    },
+    {
+        "title": "Član 4",
+        "texts": [
+            "Ministarstvo nadležno za poslove prostornog planiranja i urbanizma za potrebe praćenja stanja u prostoru Republike Srbije, vodi Informacioni sistem o stanju u prostoru.",
+            "Informacioni sistem o prostornom razvoju se zasniva na sistemu ESPON pokazatelja i služi za praćenje promena u prostoru Republike Srbije, odnosno za praćenje sprovođenja Prostornog plana Republike Srbije i regionalnih prostornih planova.",
+            "Informacioni sistem o prostornom razvoju služi i za praćenje sprovođenja Programa implementacije Prostornog plana Republike Srbije i programa implementacije regionalnih prostornih planova.",
+            "Na osnovu podataka iz Informacionog sistema o prostornom razvoju priprema se godišnji izveštaj o realizaciji Prostornog plana Republike Srbije, odnosno regionalnog prostornog plana.",
+            "Izveštaje iz stava 4. ovog člana priprema ministarstvo nadležno za poslove prostornog planiranja u saradnji sa organom nadležnim za regionalni razvoj i drugim institucijama.",
+            "Za potrebe Informacionog sistema o prostornom razvoju, ministarstvo nadležno za poslove prostornog planiranja uspostavlja evidenciju prostornih planova u skladu sa odredbama ovog pravilnika.",
+            "Informacioni sistem o prostornom razvoju je zasnovan na GIS platformi i GIS tehnologijama.",
+            "Informacioni sistem o prostornom razvoju povezuje se sa NIGP.",
+            "Informacioni sistem o prostornom razvoju povezuje se sa informacionim sistemima o prirodnim resursima, infrastrukturi, zaštićenim prirodnim i kulturnim dobrima i drugim informacionim sistemima koje vode nadležni organi, posebne organizacije i druge institucije imaoci javnih ovlašćenja.",
+            "Informacioni sistem o prostornom razvoju povezuje se sa lokalnim informacionim sistemima planskih dokumenata i stanja u prostoru.",
+            "Povezivanje i razmena podataka obavlja se internetom, korišćenjem odgovarajućih veb servisa, na principima interoperabilnosti.",
+            "5. Lokalni informacioni sistem planskih dokumenata i stanja u prostoru"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_sadrzini_i_nacinu_vodjenja_i_odrzavanja_centralnog_registra_planskih_dokumenata_informacionog_sistema.html#clan_4"
+    },
+    {
+        "title": "Član 5",
+        "texts": [
+            "Nadležni organ jedinice lokalne samouprave za potrebe praćenja o stanju u prostoru obrazuje lokalni informacioni sistem planskih dokumenata i stanja u prostoru (u daljem tekstu: lokalni informacioni sistem).",
+            "Sastavni deo lokalnog informacionog sistema su:",
+            "1) planski dokumenti za teritoriju lokalne samouprave;",
+            "2) urbanističko-tehnički dokumenti;",
+            "3) podaci o stanju u prostoru.",
+            "Lokalni informacioni sistem omogućava naročito sledeće funkcionalnosti:",
+            "1) pretraživanje raspoloživih podataka;",
+            "2) uvid u raspoložive podatke stanja o prostoru;",
+            "3) analize postojećeg i planiranog stanja u prostoru;",
+            "4) upravljanje komunalnim i drugim sistemima.",
+            "Lokalni informacioni sistem se zasniva na sistemu ESPON pokazatelja o stanju u prostoru i zahtevima INSPIRE direktive.",
+            "Republički organ nadležan za poslove državnog premera i katastra i ministarstvo nadležno za prostorno i urbanističko planiranje na zahtev jedinice lokalne samouprave obezbeđuje i pruža stručnu i tehničku pomoć za vođenje i održavanje lokalnog informacionog sistema.",
+            "6. Digitalni format dostavljanja planskih dokumenata"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_sadrzini_i_nacinu_vodjenja_i_odrzavanja_centralnog_registra_planskih_dokumenata_informacionog_sistema.html#clan_5"
+    },
+    {
+        "title": "Član 6",
+        "texts": [
+            "Prostorne planove za potrebe Registra dostavlja ministarstvo nadležno za prostorno planiranje, i to:",
+            "1) Prostorni plan Republike Srbije;",
+            "2) regionalni prostorni planovi;",
+            "3) prostorni planovi područja posebne namene.",
+            "Za potrebe Registra ministarstvo nadležno za prostorno planiranje dostavlja dokumenta za sprovođenje prostornih planova, i to:",
+            "1) Program implementacije Prostornog plana Republike Srbije;",
+            "2) programi implementacije regionalnih prostornih planova."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_sadrzini_i_nacinu_vodjenja_i_odrzavanja_centralnog_registra_planskih_dokumenata_informacionog_sistema.html#clan_6"
+    },
+    {
+        "title": "Član 7",
+        "texts": [
+            "Prostorni planovi koji su u celosti na teritoriji autonomne pokrajine za potrebe Registra dostavlja nadležni organ autonomne pokrajine za poslove prostornog planiranja i urbanizma.",
+            "Za potrebe Registra nadležni organ autonomne pokrajine za poslove prostornog planiranja i urbanizma dostavlja i dokumente za sprovođenje prostornih planova iz nadležnosti autonomne pokrajine."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_sadrzini_i_nacinu_vodjenja_i_odrzavanja_centralnog_registra_planskih_dokumenata_informacionog_sistema.html#clan_7"
+    },
+    {
+        "title": "Član 8",
+        "texts": [
+            "Planski dokumenti iz nadležnosti lokalne samouprave za potrebe Registra dostavlja nadležni organ jedinice lokalne samouprave za poslove prostornog planiranja i urbanizma.",
+            "Republički organ nadležan za poslove državnog premera i katastra i ministarstvo nadležno za prostorno i urbanističko planiranje na zahtev jedinice lokalne samouprave obezbeđuje i pruža stručnu i tehničku pomoć u cilju ispunjavanja obaveza iz stava 1. ovog člana, odnosno za potrebe vođenja i održavanja lokalnog informacionog sistema.",
+            "Urbanističko-tehničke dokumente za potrebe Registra dostavlja nadležni organ jedinice lokalne samouprave za poslove prostornog planiranja i urbanizma.",
+            "7. Sadržina Registra"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_sadrzini_i_nacinu_vodjenja_i_odrzavanja_centralnog_registra_planskih_dokumenata_informacionog_sistema.html#clan_8"
+    },
+    {
+        "title": "Član 9",
+        "texts": [
+            "Sadržinu Registra čine sledeći dokumenti:",
+            "1) akt o izradi, akt o donošenju, akt o izmeni i dopuni, akt o stavljanju van snage, akt o usklađivanju/preispitivanju/usaglašavanju;",
+            "2) tekstualni deo (zvanični - objavljeni tekstualni deo);",
+            "3) grafički deo (zvanični - overeni grafički prikazi).",
+            "Sadržinu Registra čine sledeći podaci o planskim dokumentima:",
+            "1) zvaničan naziv planskog dokumenta;",
+            "2) skraćeni naziv planskog dokumenta (akronim, ukoliko postoji);",
+            "3) nadležnost za donošenje;",
+            "4) izvor podataka (naziv i broj službenog glasila);",
+            "5) veze i hiperveze (linkovi i hiperlinkovi), veze sa drugim planskim dokumentima, druge veze i podaci o delovima teritorija planskog dokumenta.",
+            "Analitičko-dokumentaciona osnova planskih dokumenata sastavni je deo Registra.",
+            "U jedinicama lokalnih samouprava, gde je pored srpskog jezika u upotrebi jezik nacionalne manjine, nazivi u evidenciji ispisuju se i na jeziku nacionalne manjine."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_sadrzini_i_nacinu_vodjenja_i_odrzavanja_centralnog_registra_planskih_dokumenata_informacionog_sistema.html#clan_9"
+    },
+    {
+        "title": "Član 10",
+        "texts": [
+            "Sadržinu Registra čine sledeći podaci o dokumentima za sprovođenje prostornih planova:",
+            "1) akt o usvajanju programa implementacije;",
+            "2) tekstualni deo programa implementacije;",
+            "3) tabelarni i grafički deo programa implementacije;",
+            "4) godišnji izveštaji o sprovođenju programa implementacije koje podnosi organ nadležan za prostorno planiranje, organu koji donosi program implementacije i",
+            "5) drugi podaci u skladu sa zakonom i drugim propisima."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_sadrzini_i_nacinu_vodjenja_i_odrzavanja_centralnog_registra_planskih_dokumenata_informacionog_sistema.html#clan_10"
+    },
+    {
+        "title": "Član 11",
+        "texts": [
+            "Sadržinu Registra čine sledeći podaci o urbanističko-tehničkim dokumentima:",
+            "1) akt o potvrđivanju urbanističkog projekta;",
+            "2) naziv urbanističkog projekta;",
+            "3) tekstualni deo urbanističkog projekta;",
+            "4) grafički deo urbanističkog projekta;",
+            "5) akt o potvrđivanju projekta preparcelacije i parcelacije;",
+            "6) naziv projekta preparcelacije i parcelacije;",
+            "7) tekstualni i grafički deo projekta preparcelacije i parcelacije sa projektom geodetskog obeležavanja;",
+            "8) rešenje o formiranju katastarske parcele i rešenje o utvrđenju javnog interesa u slučaju da se preparcelacija radi za potrebe eksproprijacije;",
+            "9) projekat ispravke granica susednih parcela;",
+            "10) uslovi organa nadležnog za poslove urbanizma jedinice lokalne samouprave za projekat ispravke granica susednih parcela;",
+            "11) rešenje o formiranju katastarske parcele i",
+            "12) drugi podaci u skladu sa zakonom i drugim propisima.",
+            "8. Sadržina lokalnog informacionog sistema"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_sadrzini_i_nacinu_vodjenja_i_odrzavanja_centralnog_registra_planskih_dokumenata_informacionog_sistema.html#clan_11"
+    },
+    {
+        "title": "Član 12",
+        "texts": [
+            "Lokalni informacioni sistem sastoji se iz javno dostupnih komponenti, i to od:",
+            "1) dokumenata prostornog i urbanističkog planiranja teritorije lokalne samouprave:",
+            "(1) planski dokumenti za teritoriju lokalne samouprave sa sadržinom propisanim ovim pravilnikom;",
+            "(2) dokumenti za sprovođenje prostornih planova koji se odnose na teritoriju lokalne samouprave sa sadržinom propisanim ovim pravilnikom;",
+            "(3) urbanističko-tehnički dokumenti sa sadržinom propisanom ovim pravilnikom.",
+            "2) podataka o stanju u prostoru:",
+            "(1) granice administrativnih i statističkih jedinica prema registru prostornih jedinica (u daljem tekstu: RPJ);",
+            "(2) digitalni katastarski planovi (u daljem tekstu: DKP) ili skenirani katastarski planovi u slučaju kada vektorski planovi nisu u službenoj upotrebi;",
+            "(3) topografske geografske karte, kao i druge tematske podloge po potrebi;",
+            "(4) ortofoto i satelitski snimci;",
+            "(5) obuhvati dokumenata prostornog i urbanističkog planiranja;",
+            "(6) namena površina;",
+            "(7) infrastruktura, javne službe, zaštita, turizam;",
+            "(8) godišnje vrednosti pokazatelja prostornog razvoja (prema pokazateljima iz programa implementacije).",
+            "3) funkcionalnosti sistema:",
+            "(1) opšti pretraživač - za identifikaciju lokacije na bazi adrese ili katastarske parcele, radi pregleda stanja u prostoru kao i važećih planova za konkretnu lokaciju;",
+            "(2) pretraživanje prostornih i urbanističkih planova;",
+            "(3) pretraživanje sprovođenja planova;",
+            "(4) pregled raspoloživih prostornih podataka;",
+            "(5) osnovni alati za merenje, obeležavanje lokacije i štampanjem u određenim razmerama;",
+            "(6) servisi za unos primedbi građana za intervencije u prostoru.",
+            "Prostorni podaci mogu biti u rasterskom ili vektorskom formatu u zavisnosti od raspoloživosti.",
+            "9. Održavanje i digitalni format"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_sadrzini_i_nacinu_vodjenja_i_odrzavanja_centralnog_registra_planskih_dokumenata_informacionog_sistema.html#clan_12"
+    },
+    {
+        "title": "Član 13",
+        "texts": [
+            "Planski dokument koji se evidentira je važeći usvojen planski dokument.",
+            "Planski dokument se evidentira u izvornom formatu ili u preglednom formatu. Pod izvornim formatom u smislu ovog pravilnika podrazumeva se:",
+            "1) za tekstualni deo otvoreni format (Open Document File) i",
+            "2) za grafiku vektorski format propisan u skladu sa ovim pravilnikom. Pod preglednim formatom u smislu ovog pravilnika podrazumeva se portabl dokument format (pdf -Portable Document Format).",
+            "Planski dokumenti koji se vode u Registru uvode se i u toku pripreme sa odgovarajućim statusom, u skladu sa Zakonom i drugim propisima. Kada se planski dokument uvodi u toku pripreme, uvode se informacije o pripremi, odnosno promenama planskog dokumenta."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_sadrzini_i_nacinu_vodjenja_i_odrzavanja_centralnog_registra_planskih_dokumenata_informacionog_sistema.html#clan_13"
+    },
+    {
+        "title": "Član 14",
+        "texts": [
+            "Nadležni organ za pripremu akta, kojim se:",
+            "1) započinje izrada planskog dokumenta;",
+            "2) usvaja planski dokument;",
+            "3) menja ili dopunjuje planski dokument;",
+            "4) stavlja van snage planski dokument;",
+            "5) usklađuje, preispituje ili usaglašava planski dokument u roku od deset dana od stupanja na snagu donetog akta dostavlja planski dokument, odnosno menja status planskog dokumenta.",
+            "U slučaju da se radi o aktu kojim se započinje izrada planskog dokumenta, za potrebe evidentiranja u Registru dostavlja se tekst i grafički prikaz (minimalno granica obuhvata plana) donetog akta."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_sadrzini_i_nacinu_vodjenja_i_odrzavanja_centralnog_registra_planskih_dokumenata_informacionog_sistema.html#clan_14"
+    },
+    {
+        "title": "Član 15",
+        "texts": [
+            "Sastavni deo Registra predstavlja pregledna digitalna karta planskih dokumenata sa osnovnim sadržajem (prostorne jedinice, hidrografija, infrastruktura, naselja, zaštićena prirodna dobra veća od 500 ha, kulturna dobra od izuzetnog i velikog značaja i sl.).",
+            "Karta iz stava 1. ovog člana prikazuje se po slojevima: Prostorni plan Republike Srbije, regionalni prostorni plan, dokumenti za sprovođenje prostornih planova, prostorni plan područja posebne namene, prostorni plan jedinice lokalne samouprave, generalni urbanistički plan, plan generalne regulacije i plan detaljne regulacije, kao i urbanističko-tehnički dokumenti."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_sadrzini_i_nacinu_vodjenja_i_odrzavanja_centralnog_registra_planskih_dokumenata_informacionog_sistema.html#clan_15"
+    },
+    {
+        "title": "Član 16",
+        "texts": [
+            "Za dostavljanje tekstualnog dela planskih dokumenata u digitalnom, odnosno elektronskom formatu, garantuje se integritet, nepromenljivost i neporecivost dostavljenog planskog dokumenta, koja se obezbeđuje korišćenjem jednog od formata elektronskog potpisa, u skladu sa zakonom i drugim propisima kojim se uređuje materija elektronskog potpisivanja i overe elektronskih dokumenata."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_sadrzini_i_nacinu_vodjenja_i_odrzavanja_centralnog_registra_planskih_dokumenata_informacionog_sistema.html#clan_16"
+    },
+    {
+        "title": "Član 17",
+        "texts": [
+            "Grafički deo planskog dokumenta priprema se u skladu sa podzakonskim aktom kojim je uređena sadržina, način i postupak izrade planskih dokumenata, a za potrebe Registra dostavljaju se u *.shp ili *.gml digitalnom formatu.",
+            "Izuzetno od digitalnih formata propisanih u stavu 1. ovog člana, grafički deo se može dostavljati u PDF formatu, uključujući obavezno dostavljanje granica obuhvata plana u *.shp digitalnom formatu.",
+            "Drugi digitalni formati ne smatraju se validnim za dostavljanje za potrebe vođenja i održavanja Registra i informacionih sistema određenih ovim pravilnikom."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_sadrzini_i_nacinu_vodjenja_i_odrzavanja_centralnog_registra_planskih_dokumenata_informacionog_sistema.html#clan_17"
+    },
+    {
+        "title": "Član 18",
+        "texts": [
+            "U Registru čuvaju se i elektronske kopije planskih dokumenata koji su važeći, a urađeni su u skladu sa prethodno važećom regulativom i za koje je izvršena digitalizacija u skladu sa propisima, pri čemu se čuvaju tekstualni i grafički deo planskog dokumenta."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_sadrzini_i_nacinu_vodjenja_i_odrzavanja_centralnog_registra_planskih_dokumenata_informacionog_sistema.html#clan_18"
+    },
+    {
+        "title": "Član 19",
+        "texts": [
+            "Povezivanje, komunikacija i razmena podataka između Registra i informacionih sistema obavlja se na načelima integracije i interoperabilnosti, korišćenjem veb servisa, razmenom informacija u skladu sa GIS standardima.",
+            "10. Dostupnost podataka"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_sadrzini_i_nacinu_vodjenja_i_odrzavanja_centralnog_registra_planskih_dokumenata_informacionog_sistema.html#clan_19"
+    },
+    {
+        "title": "Član 20",
+        "texts": [
+            "Svi dokumenti prostornog i urbanističkog planiranja evidentirani u Registru, Informacionom sistemu o prostornom razvoju i u lokalnom informacionom sistemu, dostupni su zainteresovanim licima na internetu.",
+            "11. Prelazna i završna odredba"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_sadrzini_i_nacinu_vodjenja_i_odrzavanja_centralnog_registra_planskih_dokumenata_informacionog_sistema.html#clan_20"
+    },
+    {
+        "title": "Član 21",
+        "texts": [
+            "Registar se uspostavlja najkasnije do 17. decembra 2015. godine."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_sadrzini_i_nacinu_vodjenja_i_odrzavanja_centralnog_registra_planskih_dokumenata_informacionog_sistema.html#clan_21"
+    },
+    {
+        "title": "Član 22",
+        "texts": [
+            "Ovaj pravilnik stupa narednog dana od dana objavljivanja u \"Službenom glasniku Republike Srbije\".",
+            "Ako ne probate više različitih izbora nikada nećete biti sigurni da li imate najbolju opciju u svojim rukama. Mi Vam tu mogućnost nudimo besplatno! Popunite formular i dobićete priliku da bez ikakvih troškova saznate da li je Paragraf dobar izbor za Vas.",
+            "Ukoliko želite da Vas obaveštavamo o novostima i aktivnostima kompanije Paragraf prijavite se na našu mailing listu. Vaš e-mail neće biti upotrebljen u druge svrhe."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_sadrzini_i_nacinu_vodjenja_i_odrzavanja_centralnog_registra_planskih_dokumenata_informacionog_sistema.html#clan_22"
+    }
+]

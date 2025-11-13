@@ -1,0 +1,266 @@
+[
+    {
+        "title": "Član 1",
+        "texts": [
+            "Ovim pravilnikom propisuju se zahtevi i označavanje za aktivne dozimetre fotonskog zračenja koji se koriste u funkciji zaštite zdravlja ljudi i životne sredine od štetnog dejstva jonizujućeg zračenja (u daljem tekstu: dozimetri), način utvrđivanja ispunjenosti tih zahteva, karakteristike opreme za utvrđivanje ispunjenosti zahteva, metode merenja, kao i načini i uslovi overavanja dozimetara."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-aktivnim-dozimetrima-fotonskog-zracenja-koji-se-koriste-u-zastiti-od-jonizujuceg-zracenja.html#clan_1"
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Ovaj pravilnik primenjuje se na aktivne dozimetre fotonskog zračenja, i to:",
+            "1) lične dozimetre;",
+            "2) monitore zračenja."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-aktivnim-dozimetrima-fotonskog-zracenja-koji-se-koriste-u-zastiti-od-jonizujuceg-zracenja.html#clan_2"
+    },
+    {
+        "title": "Član 3",
+        "texts": [
+            "Pojedini izrazi koji se upotrebljavaju u ovom pravilniku imaju sledeće značenje:",
+            "1) dozimetar je aktivno merilo sa digitalnim ili analognim pokazivanjem koji omogućava trenutno očitavanje vrednosti doze ili jačine doze, čiji je rezultat merenja jedna od dozimetrijskih veličina navedenih u članu 5. ovog pravilnika, a koji se koristi za operativno merenje polja fotonskog zračenja;",
+            "2) lični dozimetar je prenosni dozimetar koje se koristi za merenje ličnog ekvivalenta doze, odnosno jačine ličnog ekvivalenta doze;",
+            "3) monitor zračenja je prenosni ili instalirani dozimetar koji se koristi za merenje ambijentalnog ekvivalenta doze, odnosno jačine ambijentalnog ekvivalenta doze;",
+            "4) ekvivalent doze jeste lični ekvivalent doze i ambijentalni ekvivalent doze;",
+            "5) lični ekvivalent doze je operativna dozimetrijska veličina koja se koristi za individualni monitoring i predstavlja ekvivalent doze u mekom tkivu na odgovarajućoj dubini;",
+            "6) ambijentalni ekvivalent doze je operativna dozimetrijska veličina koja se koristi za monitoring okoline i predstavlja ekvivalent doze na dubini od 10 mm u ICRU sferi u usmerenom i proširenom polju;",
+            "7) etaloniranje dozimetra je niz postupaka pomoću kojih se pri odgovarajućim uslovima utvrđuje odnos između referentne vrednosti ekvivalenta doze ili jačine ekvivalenta doze i pokazivanja izmerene vrednosti dozimetra;",
+            "8) kalibracioni faktor je rezultat etaloniranja dozimetra, predstavlja neimenovani broj i označava se saNH;",
+            "9) greška merenja je izmerena vrednost ekvivalenta doze ili jačine ekvivalenta doze koju pokazuje dozimetar umanjena za referentnu vrednost sa uračunatom mernom nesigurnošću referentne vrednosti;",
+            "10) najveća dozvoljena greška merenja (u daljem tekstu: NDG) je ekstremna vrednost greške merenja u odnosu na poznatu referentnu vrednost doze, propisana ovim pravilnikom;",
+            "11) odgovor dozimetra je odnos između pokazivanja dozimetra i referentne vrednosti;",
+            "12) relativni odgovor dozimetra je odnos između odgovora dozimetra u definisanim uslovima i odgovora dozimetra pri referentnim uslovima.",
+            "Drugi izrazi upotrebljeni u ovom pravilniku koji nisu definisani u stavu 1. ovog člana imaju značenje definisano zakonima kojima se uređuju metrologija, standardizacija i oblast radijacione i nuklearne sigurnosti i bezbednosti."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-aktivnim-dozimetrima-fotonskog-zracenja-koji-se-koriste-u-zastiti-od-jonizujuceg-zracenja.html#clan_3"
+    },
+    {
+        "title": "Član 4",
+        "texts": [
+            "Zahtevi za dozimetre dati su u Prilogu 1 - Zahtevi za dozimetre (u daljem tekstu: Prilog 1) koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-aktivnim-dozimetrima-fotonskog-zracenja-koji-se-koriste-u-zastiti-od-jonizujuceg-zracenja.html#clan_4"
+    },
+    {
+        "title": "Član 5",
+        "texts": [
+            "Rezultat merenja dozimetrom izražava se u jednoj od sledećih veličina:",
+            "1) ambijentalni ekvivalent doze (Sv);",
+            "2) jačina ambijentalnog ekvivalenta doze (Sv h-1);",
+            "3) lični ekvivalent doze (Sv);",
+            "4) jačina ličnog ekvivalenta doze (Sv h-1).",
+            "II NATPISI I OZNAKE"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-aktivnim-dozimetrima-fotonskog-zracenja-koji-se-koriste-u-zastiti-od-jonizujuceg-zracenja.html#clan_5"
+    },
+    {
+        "title": "Član 6",
+        "texts": [
+            "Na dozimetar se postavljaju sledeći natpisi i oznake:",
+            "1) oznaka osnovnog tipa;",
+            "2) poslovno ime, odnosno naziv proizvođača;",
+            "3) merena veličina i merni opseg;",
+            "4) serijski broj dozimetra.",
+            "Ukoliko se dozimetar sastoji od nekoliko odvojenih jedinica, svaka jedinica označava se u skladu sa stavom 1. ovog člana.",
+            "U slučaju kada nema dovoljno prostora za sve oznake u skladu sa stavom 1. ovog člana, na dozimetre se postavlja samo serijski broj.",
+            "Natpisi i oznake iz stava 1. ovog člana postavljaju se tako da budu jasno vidljivi, čitljivi i neizbrisivi, odnosno da ih nije moguće ukloniti bez trajnog oštećenja."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-aktivnim-dozimetrima-fotonskog-zracenja-koji-se-koriste-u-zastiti-od-jonizujuceg-zracenja.html#clan_6"
+    },
+    {
+        "title": "Član 7",
+        "texts": [
+            "Proizvođač dozimetara sačinjava uputstvo za upotrebu dozimetara koje omogućava ocenjivanje usaglašenosti dozimetara sa zahtevima iz Priloga 1."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-aktivnim-dozimetrima-fotonskog-zracenja-koji-se-koriste-u-zastiti-od-jonizujuceg-zracenja.html#clan_7"
+    },
+    {
+        "title": "Član 8",
+        "texts": [
+            "Ispunjenost metroloških i tehničkih zahteva utvrđuje se overavanjem dozimetara, u skladu sa zakonom kojim se uređuje metrologija i propisima donetim na osnovu tog zakona.",
+            "Overavanje dozimetara može biti prvo, periodično ili vanredno."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-aktivnim-dozimetrima-fotonskog-zracenja-koji-se-koriste-u-zastiti-od-jonizujuceg-zracenja.html#clan_8"
+    },
+    {
+        "title": "Član 9",
+        "texts": [
+            "Overavanje dozimetara obuhvata:",
+            "1) utvrđivanje ispunjenosti propisanih metroloških zahteva na osnovu rezultata:",
+            "(1) etaloniranja dozimetara, koje obuhvata proveru tačnosti i/ili proveru energetske zavisnosti;",
+            "(2) ispitivanja dozimetara, koje obuhvata test preopterećenja i/ili ispitivanje uticaja svetlosti;",
+            "2) utvrđivanje ispunjenosti propisanih tehničkih zahteva, i to:",
+            "(1) vizuelni pregled i provera funkcionalnosti;",
+            "(2) pregled kompletnosti uputstva za upotrebu dozimetra;",
+            "(3) pregled zahteva koji se odnose na natpise i oznake;",
+            "3) postavljanje žigova.",
+            "Način i uslovi utvrđivanja ispunjenosti zahteva iz stava 1. ovog člana dati su u Prilogu 2 - Utvrđivanje ispunjenosti zahteva, koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo.",
+            "Ispunjenost propisanih metroloških zahteva dokazuje se uverenjem o etaloniranju i izveštajem o ispitivanju, koje izdaje laboratorija akreditovana za poslove etaloniranja prema metodama opisanim u SRPS ISO 4037-1, SRPS ISO 4037-2 i SRPS ISO 4037-3, koji su izdati najviše 30 dana pre podnošenja zahteva za overavanje dozimetra. Ispitivanja se obavljaju u standardnim kvalitetima zračenja uspostavljenim prema SRPS ISO 4037-1 u laboratoriji akreditovanoj za etaloniranje prema navedenom standardu. Za jačine doza u opsegu 0,5 µSv h-1do 5 µSv h-1, neophodno je da laboratorija obezbedi metrološku sledivost, a navedeni opseg ne mora biti u okviru obima akreditacije laboratorije.",
+            "Dozimetri se overavaju pojedinačno.",
+            "Vizuelnim pregledom i proverom funkcionalnosti iz stava 1. tačka 2) ovog člana, proveravaju se natpisi i oznake prema dostavljenom uputstvu za upotrebu, odnosno da nema oštećenja pokaznog uređaja ili drugih delova koji mogu uticati na funkcionalnost dozimetra, kao i tehnički zahtevi dati u odeljku 2. Priloga 1.",
+            "Etaloniranje dozimetara prilikom prvog i vanrednog overavanja obuhvata proveru tačnosti i energetske zavisnosti, a prilikom periodičnog overavanja samo proveru tačnosti.",
+            "Ukoliko se vizuelnim pregledom, proverom funkcionalnosti, rezultatima etaloniranja i ispitivanja utvrdi da dozimetar ispunjava propisane metrološke zahteve, isti se žigoše u skladu sa zakonom kojim se uređuje metrologija i propisima donetim na osnovu tog zakona. Uverenje o overavanju izdaje se za dozimetre na koje nije moguće postaviti žig zbog dimenzija merila, kao i za dozimetre koji imaju sonde, u kom slučaju se navode i serijski brojevi sondi koje su u sklopu dozimetra."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-aktivnim-dozimetrima-fotonskog-zracenja-koji-se-koriste-u-zastiti-od-jonizujuceg-zracenja.html#clan_9"
+    },
+    {
+        "title": "Član 10",
+        "texts": [
+            "Ispunjenost metroloških zahteva utvrđuje se upotrebom etalona za određivanje referentnih vrednosti doza prema metodama koje su date u odgovarajućim međunarodnim standardima, i to:",
+            "1) SRPS ISO 4037-1 Zaštita od zračenja - Referentna polja X i gama zračenja za etaloniranje dozimetara i merila jačine doze i za određivanje njihovog odziva u funkciji energije fotona - Deo 1: Osobine polja zračenja i metode generisanja;",
+            "2) SRPS ISO 4037-2 Zaštita od zračenja - Referentna polja X i gama zračenja za etaloniranje dozimetara i merila jačine doze i za određivanje njihovog odziva u funkciji energije fotona - Deo 2: Dozimetrija za zaštitu od zračenja u opsegu energije 8 keV do 1,3 MeV i od 4 MeV do 9 MeV;",
+            "3) SRPS ISO 4037-3 Zaštita od zračenja - Referentna polja X i gama zračenja za etaloniranje dozimetara i merila jačine doze i za određivanje njihovog odziva u funkciji energije fotona - Deo 3: Etaloniranje ambijentalnih i ličnih dozimetara i merenje njihovog odziva u funkciji energije i upadnog ugla.",
+            "Klauzula o uzajamnom priznavanju"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-aktivnim-dozimetrima-fotonskog-zracenja-koji-se-koriste-u-zastiti-od-jonizujuceg-zracenja.html#clan_10"
+    },
+    {
+        "title": "Član 11",
+        "texts": [
+            "Zahtevi ovog pravilnika za stavljanje na tržište dozimetara se ne primenjuju na dozimetre koji su zakonito stavljeni na tržište ostalih zemalja Evropske unije ili Turske, odnosno zakonito proizvedeni u državi potpisnici EFTA Sporazuma.",
+            "Izuzetno od stava 1. ovog člana, može se ograničiti stavljanje na tržište ili povući sa tržišta dozimetar iz stava 1. ovog člana, ukoliko se posle sprovedenog postupka iz Uredbe EU broj 2019/515, utvrdi da takav dozimetar ne može da ispuni zahteve ekvivalentne zahtevima koji su propisani ovim propisom.",
+            "III PRELAZNE I ZAVRŠNE ODREDBE"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-aktivnim-dozimetrima-fotonskog-zracenja-koji-se-koriste-u-zastiti-od-jonizujuceg-zracenja.html#clan_11"
+    },
+    {
+        "title": "Član 12",
+        "texts": [
+            "Dozimetri koji su na dan stupanja na snagu ovog pravilnika u upotrebi mogu se overavati ukoliko ispunjavaju metrološke zahteve propisane u Prilogu 1."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-aktivnim-dozimetrima-fotonskog-zracenja-koji-se-koriste-u-zastiti-od-jonizujuceg-zracenja.html#clan_12"
+    },
+    {
+        "title": "Član 13",
+        "texts": [
+            "Imaoci merila podnose zahtev za overavanje merila u skladu sa ovim pravilnikom najkasnije do 1. januara 2024. godine."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-aktivnim-dozimetrima-fotonskog-zracenja-koji-se-koriste-u-zastiti-od-jonizujuceg-zracenja.html#clan_13"
+    },
+    {
+        "title": "Član 14",
+        "texts": [
+            "Danom stupanja na snagu ovog pravilnika prestaje da važi Pravilnik o dozimetrima (\"Službeni glasnik RSˮ, broj 9/16)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-aktivnim-dozimetrima-fotonskog-zracenja-koji-se-koriste-u-zastiti-od-jonizujuceg-zracenja.html#clan_14"
+    },
+    {
+        "title": "Član 15",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u \"Službenom glasniku Republike Srbije\", osim člana 11. koji se primenjuje danom pristupanja Republike Srbije Evropskoj uniji.",
+            "",
+            "Prilog 1",
+            "",
+            "ZAHTEVI ZA DOZIMETRE",
+            "1. Metrološki zahtevi",
+            "Procedure ispitivanja, etaloniranja i ocena usaglašenosti rezultata su u skladu sa prihvaćenim pravilima tehnologije.",
+            "Etaloniranja i ispitivanja se vrše u referentnim poljima uspostavljenim prema SRPS ISO 4037-1.",
+            "Proširena merna nesigurnost referentnih vrednosti je izračunata na osnovu JCGM 100:2008 (JCGM 100:2008, Evaluation of measurement data - Guide to the expression of uncertainty in measurement), za faktor obuhvata k = 2 (pri verovatnoći od oko 95%) i odgovarajućeg standarda. Ona obuhvata mernu nesigurnost etalona i metode etaloniranja i njene maksimalne dozvoljene vrednosti iznose 10%, odnosno 20% za jačinu ekvivalenta doze manju od 5 µSv h-1.",
+            "1.1. NDG",
+            "NDG prilikom prvog, periodičnog i vanrednog overavanja dozimetara date su u Tabeli 1 ovog priloga.",
+            "Tabela 1",
+            "Merna veličina",
+            "Jedinica",
+            "Opseg",
+            "NDG",
+            "Ambijentalni ekvivalent doze",
+            "Sv",
+            "5 µSv - 10 mSv",
+            "± 40%",
+            "Jačina ambijentalnog ekvivalenta doze",
+            "Sv h-1",
+            "0,5 µSv h-1- 5 µSv h-1",
+            "± 50%",
+            "5 µSv h-1- 100 mSv h-1",
+            "± 40%",
+            "Lični ekvivalent doze",
+            "Sv",
+            "5 µSv - 10 mSv",
+            "± 40%",
+            "Jačina ličnog ekvivalenta doze",
+            "Sv h-1",
+            "0,5 µSv h-1- 5 µSv h-1",
+            "± 50%",
+            "5 µSv h-1- 100 mSv h-1",
+            "± 40%",
+            "1.2. Zahtevi za etaloniranje dozimetara",
+            "1.2.1. Zahtevi za tačnost",
+            "Tačnost dozimetara se određuje na osnovu rezultata etaloniranja dozimetara u referentnim uslovima u skladu sa referentnim standardom SRPS ISO 4037-1, SRPS ISO 4037-2 i SRPS ISO 4037-3.",
+            "Tačnost se određuje posebno za jačinu ekvivalenta doze i ekvivalent doze, ako dozimetar poseduje oba navedena pokazivanja.",
+            "Zahtevi za tačnost navedeni su u Tabeli 1 ovog priloga.",
+            "1.2.2. Zahtevi za energetsku zavisnost dozimetra",
+            "Energetska zavisnost dozimetra se određuje etaloniranjem dozimetra u različitim standardnim kvalitetima zračenja, u skladu sa referentnim standardom SRPS ISO 4037-1, SRPS ISO 4037-2 i SRPS ISO 4037-3.",
+            "Energetska zavisnost se proverava u standardnim kvalitetima zračenja čija se srednja energija nalazi u energetskom opsegu definisanom od strane proizvođača. Zahtevi za odstupanje odgovora dozimetra za svaki kvalitet u odnosu na odgovor za referentni kvalitet su od -45% do +85%.",
+            "1.3. Zahtevi za ispitivanje",
+            "1.3.1. Zahtevi za uticaj preopterećenja",
+            "Test preopterećenja se vrši za dozimetre sa mernim opsegom manjim od 100 mSv/h.",
+            "Prilikom izlaganja dozimetra jačini ekvivalenta doze koja je van mernog opsega (sa gornje strane), kazaljka mora biti van skale na strani većih pokazivanja, odnosno dozimetar mora pokazati upozorenje da su vrednosti van mernog opsega. Za analogne dozimetre, zahtev važi za svaki merni opseg. Ako nije prikazano upozorenje da su vrednosti van mernog opsega, onda moraju biti zadovoljeni zahtevi navedeni u Tabeli 1 koji se odnose na vrednost gornje granice mernog opsega.",
+            "Po okončanju preopterećenja, pokazivanje dozimetra u referentnom kvalitetu mora biti u skladu sa zahtevima navedenim u Tabeli 1, posle najduže pet minuta.",
+            "1.3.2. Zahtevi za uticaj svetlosti",
+            "Prilikom izlaganja jakoj vidljivoj svetlosti, pokazivanje dozimetra pri pozadinskom zračenju mora ostati nepromenjeno. Izmerena vrednost usled izlaganja jakoj svetlosti mora biti u okviru tri standardne devijacije od srednje vrednosti izmerene bez izlaganja jakoj svetlosti.",
+            "2. Tehnički zahtevi",
+            "2.1. Konstrukcija dozimetra",
+            "Dozimetri i sva dodatna oprema izrađeni su od takvog materijala, i imaju takav dizajn i konstrukciju koji omogućavaju pod normalnim radnim uslovima:",
+            "1) održavanje tačnosti;",
+            "2) funkcionisanje operativnih delova dozimetra shodno predviđenoj nameni;",
+            "3) što dužu trajnost podešavanja;",
+            "4) minimalnu mogućnost kontaminacije i jednostavno izvršavanje dekontaminacije.",
+            "2.2. Uputstvo proizvođača",
+            "Proizvođač obezbeđuje da svaki dozimetar prati uputstvo koje opisuje instalaciju, rad i rutinsko održavanje dozimetra.",
+            "Pored toga, uputstvo sadrži i sledeće podatke:",
+            "1) ime i adresu proizvođača;",
+            "2) oznaku osnovnog tipa, odnosno model dozimetra;",
+            "3) energetski opseg;",
+            "4) merni opseg i merenu veličinu.",
+            "Uputstvo se isporučuje vlasniku/korisniku dozimetra na srpskom jeziku, a može se, na zahtev korisnika, isporučiti i na drugom jeziku koji je u upotrebi u Republici Srbiji u skladu sa zakonom.",
+            "",
+            "Prilog 2",
+            "",
+            "UTVRĐIVANJE ISPUNJENOSTI ZAHTEVA",
+            "1. Utvrđivanje ispunjenosti tehničkih zahteva",
+            "1.1. Vizuelni pregled i provera funkcionalnosti",
+            "Prilikom overavanja dozimetra, dozimetar se vizuelno pregleda i vrši se provera funkcionalnosti prema specifikacijama proizvođača, kako bi se utvrdilo da su ispunjeni zahtevi iz odeljka 2. Priloga 1 ovog pravilnika.",
+            "1.2. Pregled kompletnosti uputstva za upotrebu dozimetra",
+            "Prilikom overavanja dozimetra, uputstvo za upotrebu dozimetra se pregleda u pogledu njegove potpunosti i jasnosti opisa postupka merenja, kako bi se utvrdilo da su ispunjeni zahtevi iz odeljka 2. Priloga 1 ovog pravilnika.",
+            "1.3. Pregled zahteva koji se odnose na natpise i oznake",
+            "Dozimetar se pregleda u pogledu ispunjenosti uslova propisanih članom 6. Pravilnika.",
+            "2. Utvrđivanje ispunjenosti metroloških zahteva",
+            "2.1. Opšti uslovi za vršenje metrološke kontrole",
+            "2.1.1. Referentna tačka i referentna orijentacija dozimetra",
+            "Referentna tačka i referentna orijentacija dozimetra su definisani u tehničkoj dokumentaciji ili obeleženi na dozimetru. U suprotnom, utvrđuju se u laboratoriji za etaloniranje u skladu sa načinom korišćenja dozimetra.",
+            "2.1.2. Fon zračenja",
+            "Sva pokazivanja dozimetra moraju biti korigovana na fon zračenja. Fon zračenja se određuje neposredno pre etaloniranja, pre uključivanja polja zračenja.",
+            "2.1.3. Sledivost",
+            "Etalonski dozimetri koji se koriste u postupku etaloniranja i ispitivanja u svrhu overavanja dozimetara etaloniraju se radi obezbeđivanja sledivosti do nacionalnih ili međunarodnih etalona.",
+            "2.2. Metrološka kontrola",
+            "2.2.1. Etaloniranje dozimetara i uverenje o etaloniranju dozimetra",
+            "Etaloniranje dozimetara obuhvata proveru tačnosti i proveru energetske zavisnosti.",
+            "Uverenje o etaloniranju mora da sadrži merni i energetski opseg dozimetra, referentni kvalitet zračenja, referentnu tačku i orijentaciju dozimetra, podešavanje dozimetra, način korišćenja filtera ili poklopaca (ako je primenjivo).",
+            "Uverenje o etaloniranju mora da sadrži izjavu o usaglašenosti sa specifikacijom, odnosno izjavu da li dozimetar ispunjava zahteve ovog Pravilnika, date u Prilogu 1, primenjive na određenu vrstu overavanja.",
+            "2.2.1.1. Tačnost dozimetra",
+            "Provera tačnosti se obavlja u referentnom kvalitetu zračenja, ili standardnom kvalitetu zračenja slične srednje energije. Ako referentni kvalitet nije definisan u tehničkoj dokumentaciji, tačnost pokazivanja se određuje etaloniranjem u kvalitetu zračenja S-Cs ili S-Co.",
+            "Tačnost se određuje za jednu vrednost jačine ekvivalenta doze, odnosno jednu vrednost ekvivalenta doze, u svakoj dekadi mernog opsega dozimetra. Ukoliko je merni opseg dozimetra veći od opsega navedenih u Tabeli 1 Priloga 1, onda se tačnost određuje samo u opsezima iz Tabele 1 Priloga 1.",
+            "U svakoj mernoj tački vrše se najmanje tri ponovljena merenja, a kao konačni rezultat uzima se njihova srednja vrednost.",
+            "Za slučaj da nije moguće ostvariti ceo merni opseg u istom standardnom kvalitetu zračenja, moguće je u delu opsega koristiti drugi standardni kvalitet, pri čemu se pokazivanja merila koje je predmet etaloniranja koriguju na energetsku zavisnost. Korekcija se obavlja množenjem rezultata merenja odnosom kalibracionih faktora za korišćeni kvalitet zračenja i referentni kvalitet zračenja, za istu vrednost jačine ekvivalenta doze, odnosno ekvivalenta doze.",
+            "Izuzetno, ako dozimetar može pokazivati i jačinu ekvivalenta doze i ekvivalent doze, tačnost se proverava za ceo opseg za jačinu ekvivalenta doze, i za jednu vrednost ekvivalenta doze.",
+            "2.2.1.2. Energetska zavisnost dozimetra",
+            "Provera energetske zavisnosti dozimetra se obavlja u standardnim kvalitetima zračenja definisanim u SRPS ISO 4037-1, u jednoj mernoj tački u svakom kvalitetu zračenja. Standardni kvaliteti zračenja obuhvataju S-Cs, S-Co i filtrirane kvalitete rendgenskog zračenja, u skladu sa mernim opsegom dozimetra.",
+            "Pri proveri energetske zavisnosti, odstupanje dozimetra se određuje na osnovu uverenja o etaloniranju, prema formuli:",
+            "",
+            "gde je: Δiodstupanje zai-ti kvalitet i izražava se u procentima,NHrefje kalibracioni faktor dozimetra za referentni kvalitet, aNHije kalibracioni faktor dozimetra zai-ti kvalitet.",
+            "2.2.2. Ispitivanje dozimetara i izveštaj o ispitivanju",
+            "U izveštaju o ispitivanju je neophodno navesti merni i energetski opseg dozimetra, referentni kvalitet zračenja, referentnu tačku i orijentaciju dozimetra, podešavanje dozimetra, način korišćenja filtera ili poklopaca (ako je primenjivo).",
+            "Izveštaj o ispitivanju mora da sadrži izjavu o usaglašenosti sa specifikacijom, odnosno izjavu da li dozimetar ispunjava zahteve ovog pravilnika, date u Prilogu 1.",
+            "2.2.2.1. Preopterećenje dozimetra",
+            "Test se obavlja tako što se dozimetar izloži jačini ekvivalenta doze 10 puta većoj od maksimuma mernog opsega, ali ne više od 300 mSv h-1, u trajanju od 60 s.",
+            "Za test opterećenja nije neophodno ispuniti uslov da ceo fantom bude u snopu, prilikom pozicioniranja.",
+            "Po okončanju testa i po prestanku pokazivanja upozorenja na preopterećenje, obavlja se provera tačnosti za jednu vrednost jačine ekvivalenta doze, odnosno ekvivalenta doze, pri čemu mora biti ispunjen zahtev iz Tabele 1 Priloga 1 ovog pravilnika.",
+            "2.2.2.2. Uticaj jake svetlosti",
+            "Test uticaja jake svetlosti se obavlja na mestu sa stabilnim pozadinskim zračenjem. Zabeleži se 10 vrednosti pokazivanja dozimetra, i odredi se srednja vrednost i standardna devijacija. Zatim se dozimetar izloži jakoj svetlosti, i zabeleži se pokazivanje dozimetra. Primeri odgovarajućih izvora svetlosti su sijalica od 200 W na 2 cm, ili sijalica od 500 W na 12 cm. Izlaganje svetlosti treba da bude kratko, da se izbegne pregrevanje dozimetra.",
+            "Ako ne probate više različitih izbora nikada nećete biti sigurni da li imate najbolju opciju u svojim rukama. Mi Vam tu mogućnost nudimo besplatno! Popunite formular i dobićete priliku da bez ikakvih troškova saznate da li je Paragraf dobar izbor za Vas.",
+            "Ukoliko želite da Vas obaveštavamo o novostima i aktivnostima kompanije Paragraf prijavite se na našu mailing listu. Vaš e-mail neće biti upotrebljen u druge svrhe."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-aktivnim-dozimetrima-fotonskog-zracenja-koji-se-koriste-u-zastiti-od-jonizujuceg-zracenja.html#clan_15"
+    }
+]

@@ -1,0 +1,89 @@
+[
+    {
+        "title": "Član 1",
+        "texts": [
+            "Ovim pravilnikom uređuje se koje podatke o izdatim fiskalnim računima je obveznik fiskalizacije dužan da dostavi Poreskoj upravi iz člana 8. stav 1. Zakona o fiskalizaciji (\"Službeni glasnik RS\", br. 153/20 i 96/21 - u daljem tekstu: Zakon), oblik i način dostavljanja ovih podataka, uslovi pod kojima se ovi podaci mogu dostavljati Poreskoj upravi periodično, protokoli i bezbednosni mehanizmi za dostavljanje ovih podataka, standardne poruke o greškama i protokoli o postupanju u slučaju grešaka iz člana 8. Zakona."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-nacinu-i-postupku-dostavljanja-podataka-o-izdatim-fiskalnim-racunima-poreskoj-upravi.html#clan_1"
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Obveznik fiskalizacije je dužan da Poreskoj upravi dostavlja podatke o izdatim fiskalnim računima (u daljem tekstu: fiskalni podaci) u skladu sa odredbom člana 8. st. 1. i 2. Zakona.",
+            "Obveznik fiskalizacije je dužan da čuva fiskalne podatke u internoj memoriji elektronskog fiskalnog uređaja, u slučaju i na način predviđen članom 8. stav 5. Zakona.",
+            "Fiskalnim podacima, u smislu stava 1. ovog člana, smatraju se naročito:",
+            "1) podaci koje sadrži svaki fiskalni račun iz člana 5. stav 2. Zakona;",
+            "2) podaci koje prate brojači u okviru bezbednosnog elementa iz člana 7. Zakona."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-nacinu-i-postupku-dostavljanja-podataka-o-izdatim-fiskalnim-racunima-poreskoj-upravi.html#clan_2"
+    },
+    {
+        "title": "Član 3",
+        "texts": [
+            "Fiskalni podaci iz člana 2. stav 1. ovog pravilnika se dostavljaju Poreskoj upravi automatski, putem stalne internet veze između elektronskog fiskalnog uređaja i Sistema za upravljanje fiskalizacijom Poreske uprave (u daljem tekstu: SUF), i to:",
+            "1) u realnom vremenu u trenutku prometa na malo;",
+            "2) odmah po uspostavljanju internet veze, a najkasnije u roku od pet dana od dana izdavanja pojedinačnog fiskalnog računa na koji se fiskalni podaci odnose, u slučaju privremenog prekida internet veze.",
+            "Izuzetno od stava 1. ovog člana, fiskalni podaci iz člana 2. stav 1. ovog pravilnika se dostavljaju Poreskoj upravi od strane obveznika fiskalizacije preko portala Poreske uprave, u skladu sa Tehničkim vodičem, koji se objavljuje na portalu Poreske uprave, najkasnije u roku od pet dana od dana izdavanja pojedinačnog fiskalnog računa na koji se fiskalni podaci odnose u slučaju:",
+            "1) da internet veza nije dostupna na mestu prometa;",
+            "2) privremenog prekida internet veze do kojeg je došlo usled okolnosti koje ne zavise od volje obveznika fiskalizacije.",
+            "Izuzetno od st. 1. i 2. ovog člana, fiskalni podaci iz člana 2. stav 1. ovog pravilnika se mogu dostavljati Poreskoj upravi i:",
+            "1) od strane inspektora Poreske uprave u okviru postupka inspekcijskog nadzora, iščitavanjem bezbednosnog elementa, kada obveznik fiskalizacije nije samostalno dostavio podatke;",
+            "2) od strane kupca, odnosno primaoca fiskalnog računa u okviru provere fiskalnog računa, u skladu sa članom 10. Zakona."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-nacinu-i-postupku-dostavljanja-podataka-o-izdatim-fiskalnim-racunima-poreskoj-upravi.html#clan_3"
+    },
+    {
+        "title": "Član 4",
+        "texts": [
+            "Formatiranje fiskalnih podataka koji se dostavljaju na način iz člana 3. mora biti izvršeno u skladu sa Tehničkim vodičem koga objavljuje i ažurira Poreska uprava na portalu Poreske uprave."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-nacinu-i-postupku-dostavljanja-podataka-o-izdatim-fiskalnim-racunima-poreskoj-upravi.html#clan_4"
+    },
+    {
+        "title": "Član 5",
+        "texts": [
+            "Dostavljanje fiskalnih podataka na način iz člana 3. stav 1. ovog pravilnika podrazumeva komunikaciju i razmenu podataka između elektronskog fiskalnog uređaja i SUF-a, koja podrazumeva zaštitu poverljivosti, integriteta, izvora i autentičnosti, uz bezbednost podataka koja se zasniva na bezbednoj šifrovanoj razmeni ključeva.",
+            "Dostavljanje fiskalnih podataka iz stava 1. ovog člana sprovodi se posredstvom komunikacionog protokola i primenom bezbednosnih mehanizama čije pojedinosti su utvrđene Tehničkim vodičem iz člana 4. ovog pravilnika."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-nacinu-i-postupku-dostavljanja-podataka-o-izdatim-fiskalnim-racunima-poreskoj-upravi.html#clan_5"
+    },
+    {
+        "title": "Član 6",
+        "texts": [
+            "Dostavljanje fiskalnih podataka na način iz člana 3. stav 2. ovog pravilnika podrazumeva iščitavanje elektronskog fiskalnog uređaja i unos fiskalnih podataka u SUF, i to unosom podataka u SUF elektronskim putem, preko portala Poreske uprave."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-nacinu-i-postupku-dostavljanja-podataka-o-izdatim-fiskalnim-racunima-poreskoj-upravi.html#clan_6"
+    },
+    {
+        "title": "Član 7",
+        "texts": [
+            "Iščitavanje fiskalnih računa koje generiše elektronski fiskalni uređaj sa lokalnim PFR elementom vrši se internet ili lokalnim iščitavanjem.",
+            "Internet iščitavanje je proces prenosa podataka u SUF pomoću bilo koje dostupne internet veze. To je najčešći način iščitavanja za bilo koji elektronski fiskalni uređaj sa lokalnim PFR elementom. Lokalni PFR proverava da li je SUF dostupan preko internet mreže. Ako jeste na mreži, lokalni PFR se autentifikuje na SUF pomoć digitalnog sertifikata izdatog na BE elementu. PFR započinje slanje iščitavanjem podataka, obavljajući niz iščitavanja sve dok više nema neiščitanih podataka na njegovoj internoj memoriji.",
+            "Lokalno iščitavanje koje pokreće poreski obveznik i/ili poreski inspektor je uobičajeni način za uređaje koji nemaju mogućnost povezivanja na Internet zbog tehničkih ograničenja uređaja ili ograničene infrastrukture. Iščitavanje se pokreće unošenjem memorijske kartice ili USB memorijskog stika u lokalni PFR element koji kopira kriptovane, neposlate, fiskalne račune koje poreski obveznik i/ili poreski inspektor prenose putem posebnog portala Poreske uprave u SUF.",
+            "Nezavisno od načina dostavljanja fiskalnih podataka, odmah po prijemu podataka SUF dekriptuje pakete i vrši verifikaciju, obavlja osnovne provere i ukoliko je verifikacija uspešna, generiše dokaz o iščitavanju koji će preuzeti BE. PFR element prosleđuje dokaz o iščitavanju koristeći isti kanal za komunikaciju sa SUF, ka povezanom BE obveznika fiskalizacije. BE vodi računa o ispunjenosti zakonske obaveze o pravovremenom dostavljanju svakog pojedinačnog fiskalnog računa prema članu 8. stav 2. Zakona.",
+            "U slučaju postojanja grešaka u dostavljenim fiskalnim podacima, obveznik fiskalizacije je dužan da kvar, njegov uzrok (ako je poznat) ili zloupotrebu prijavi Poreskoj upravi odmah nakon saznanja o istima, putem posebnog portala Poreske uprave (eng.service desk).",
+            "Poruke o greškama iz stava 5. ovog člana, način ispravljanja grešaka i ostali protokoli za postupanje u slučaju grešaka utvrđeni su Tehničkim vodičem iz člana 4. ovog pravilnika."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-nacinu-i-postupku-dostavljanja-podataka-o-izdatim-fiskalnim-racunima-poreskoj-upravi.html#clan_7"
+    },
+    {
+        "title": "Član 8",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u \"Službenom glasniku Republike Srbije\", a primenjuje se od 1. novembra  2021. godine.",
+            "",
+            "Samostalni član Pravilnika o izmenamaPravilnika  o načinu i postupku dostavljanja podataka o izdatim fiskalnim računima Poreskoj upravi",
+            "(\"Sl. glasnik RS\", br. 99/2021)"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-nacinu-i-postupku-dostavljanja-podataka-o-izdatim-fiskalnim-racunima-poreskoj-upravi.html#clan_8"
+    },
+    {
+        "title": "Član 3",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu 1. novembra 2021. godine.",
+            "Ako ne probate više različitih izbora nikada nećete biti sigurni da li imate najbolju opciju u svojim rukama. Mi Vam tu mogućnost nudimo besplatno! Popunite formular i dobićete priliku da bez ikakvih troškova saznate da li je Paragraf dobar izbor za Vas.",
+            "Ukoliko želite da Vas obaveštavamo o novostima i aktivnostima kompanije Paragraf prijavite se na našu mailing listu. Vaš e-mail neće biti upotrebljen u druge svrhe.",
+            "Pratite Paragraf na Viberu"
+        ],
+        "link": null
+    }
+]

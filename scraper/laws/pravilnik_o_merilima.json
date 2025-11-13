@@ -1,0 +1,488 @@
+[
+    {
+        "title": "Član 1",
+        "texts": [
+            "Ovim pravilnikom bliže se propisuju zahtevi za vodomere, gasomere i uređaje za konverziju zapremine, brojila aktivne električne energije, merila toplotne energije, merne sisteme za neprekidno i dinamičko merenje količina tečnosti koje nisu voda, automatske vage, taksimetre, materijalizovane mere, merila dimenzija i analizatore izduvnih gasova, koji moraju da budu ispunjeni za njihovo stavljanje na tržište i/ili upotrebu, ocenjivanje usaglašenosti i postupci ocenjivanja usaglašenosti, označavanje, isprave o usaglašenosti i druga dokumentacija koja prati ova merila, kao i uslovi koje mora da ispuni imenovano telo koje sprovodi postupak ocenjivanja usaglašenosti.",
+            "Značenje pojedinih izraza"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_merilima.html#clan_1"
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Pojedini izrazi upotrebljeni u ovom pravilniku imaju sledeće značenje:",
+            "1) merilo je svaki uređaj ili sistem sa funkcijom merenja iz člana 1. ovog pravilnika;",
+            "2) podsklop je hardverski uređaj, naveden kao takav u prilozima za određena merila, koji nezavisno funkcioniše i čini merilo zajedno sa drugim podsklopovima sa kojima je kompatibilan ili sa merilom sa kojim je kompatibilan;",
+            "3) zakonska metrološka kontrola je kontrola poslova merenja onih merila koja se koriste u funkciji zaštite javnog interesa, javnog zdravlja, javne bezbednosti, javnog reda, životne sredine, potrošača i pravične trgovine, kao i propisivanja poreza i carina;",
+            "4) normativni dokument je dokument koji sadrži tehničke specifikacije koje je usvojila Međunarodna organizacija za zakonsku metrologiju (OIML);",
+            "5) stavljanje na raspolaganje je svaka isporuka merila na tržištu Republike Srbije radi distribucije, potrošnje ili upotrebe, sa ili bez naknade;",
+            "6) stavljanje na tržište je prva isporuka merila na tržište Republike Srbije;",
+            "7) stavljanje u upotrebu je prva upotreba merila od strane krajnjeg korisnika za svrhe za koje je to merilo namenjeno;",
+            "8) proizvođač je svako fizičko ili pravno lice koje proizvodi merilo ili za koje se merilo projektuje ili proizvodi i koji stavlja na tržište to merilo pod svojim imenom ili trgovačkim znakom, ili ga stavlja u upotrebu za sopstvene potrebe;",
+            "9) ovlašćeni zastupnik je svako fizičko ili pravno lice registrovano u Republici Srbiji, koje je proizvođač pismeno ovlastio da u njegovo ime preduzima radnje iz ovlašćenja;",
+            "10) uvoznik je svako fizičko ili pravno lice registrovano u Republici Srbiji, koje stavlja merilo iz drugih zemalja na tržište Republike Srbije;",
+            "11) distributer je svako fizičko ili pravno lice u lancu snabdevanja, koje nije proizvođač ili uvoznik, a koje stavlja na raspolaganje merilo;",
+            "12) privredni subjekti su proizvođač, ovlašćeni zastupnik, uvoznik i distributer;",
+            "13) tehnička specifikacija je dokument u kome se propisuju tehnički zahtevi koje merilo treba da ispuni;",
+            "14) harmonizovani standard je evropski standard koji je donet na osnovu zahteva Evropske komisije za primenu u harmonizovanom zakonodavstvu Evropske unije;",
+            "15) akreditacija je utvrđivanje od strane nacionalnog tela za akreditaciju da li telo za ocenjivanje usaglašenosti ispunjava zahteve odgovarajućih srpskih, odnosno međunarodnih i evropskih standarda, i kada je primenljivo, sve dodatne zahteve za pojedine oblasti, kako bi se vršili određeni poslovi ocenjivanja usaglašenosti;",
+            "16) nacionalno akreditaciono telo je nacionalno telo koje obavlja poslove akreditacije u Republici Srbiji;",
+            "17) ocenjivanje usaglašenosti je proces kojim se dokazuje da li su ispunjeni bitni zahtevi ovog pravilnika koji se odnose na merilo;",
+            "18) telo za ocenjivanje usaglašenosti je telo koje obavlja aktivnosti ocenjivanja usaglašenosti uključujući etaloniranje, ispitivanje, sertifikaciju i kontrolisanje;",
+            "19) opoziv je svaka mera koja ima za cilj da se postigne vraćanje merila koje je već stavljeno na raspolaganje krajnjem korisniku;",
+            "20) povlačenje je svaka mera koja ima za cilj da spreči da se merilo u lancu snabdevanja stavi na raspolaganje;",
+            "21) harmonizovano zakonodavstvo Evropske unije je zakonodavstvo Evropske unije kojim se usaglašavaju uslovi za stavljanje proizvoda na tržište;",
+            "22) znak usaglašenosti je oznaka kojom proizvođač potvrđuje da je merilo usaglašeno sa primenjivim zahtevima svih propisa kojima je utvrđena obaveza stavljanja tog znaka.",
+            "Drugi izrazi koji se upotrebljavaju u ovom pravilniku, a nisu definisani u stavu 1. ovog člana, imaju značenje definisano zakonima kojima se uređuju metrologija, tržišni nadzor i standardizacija.",
+            "Primenljivost na podsklopove"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_merilima.html#clan_2"
+    },
+    {
+        "title": "Član 3",
+        "texts": [
+            "U slučaju da su za podsklopove bitni zahtevi utvrđeni u prilozima iz člana 4. ovog pravilnika, odredbe ovog pravilnika shodno se primenjuju na te podsklopove.",
+            "Ocenjivanje usaglašenosti podsklopova i merila može se vršiti nezavisno i zasebno za potrebe utvrđivanja usaglašenosti.",
+            "Bitni zahtevi"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_merilima.html#clan_3"
+    },
+    {
+        "title": "Član 4",
+        "texts": [
+            "Merilo mora da ispunjava bitne zahteve utvrđene u Prilogu 1 - Bitni zahtevi, koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo i u odgovarajućem prilogu za određeno merilo, koji su odštampani uz ovaj pravilnik i čine njegov sastavni deo, i to:",
+            "- Prilog 3: MI-001 - Vodomeri;",
+            "- Prilog 4: MI-002 - Gasomeri i uređaji za konverziju zapremine;",
+            "- Prilog 5: MI-003 - Brojila aktivne električne energije;",
+            "- Prilog 6: MI-004 - Merila toplotne energije;",
+            "- Prilog 7: MI-005 - Merni sistemi za neprekidno i dinamičko merenje količina tečnosti koje nisu voda;",
+            "- Prilog 8: MI-006 - Automatske vage;",
+            "- Prilog 9: MI-007 - Taksimetri;",
+            "- Prilog 10: MI-008 - Materijalizovane mere;",
+            "- Prilog 11: MI-009 - Merila dimenzija;",
+            "- Prilog 12: MI-010 - Analizatori izduvnih gasova.",
+            "Za merilo koje se stavlja na tržište, informacije iz Priloga 1 odeljak 9. ovog pravilnika i/ili informacije iz odgovarajućeg priloga iz stava 1. ovog člana, koje su potrebne za pravilnu upotrebu merila, moraju da budu obezbeđene na srpskom jeziku.",
+            "II STAVLJANJE NA RASPOLAGANJE MERILA"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_merilima.html#clan_4"
+    },
+    {
+        "title": "Član 5",
+        "texts": [
+            "Merila se stavljaju na raspolaganje samo ako ispunjavaju zahteve ovog pravilnika.",
+            "Merila koja su usaglašena sa zahtevima ovog pravilnika stavljaju se na raspolaganje slobodno, bez ikakvih ograničenja.",
+            "Na sajmovima, izložbama, praktičnim demonstracijama ili drugim sličnim javnim manifestacijama, mogu se izlagati i predstavljati merila koja nisu usaglašena sa zahtevima iz ovog pravilnika, pod uslovom da se na tim merilima nalazi vidna i jasno istaknuta oznaka da se ta merila ne mogu stavljati na raspolaganje dok ne budu usaglašena sa zahtevima iz ovog pravilnika."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_merilima.html#clan_5"
+    },
+    {
+        "title": "Član 6",
+        "texts": [
+            "Kada se stavljaju na tržište i/ili u upotrebu merila se projektuju i proizvode u skladu sa bitnim zahtevima utvrđenim u Prilogu 1 ovog pravilnika i u odgovarajućim prilozima iz člana 4. ovog pravilnika, za određeno merilo.",
+            "Tehnička dokumentacija za merila se izrađuje u skladu sa članom 12. ovog pravilnika, a odgovarajući postupak ocenjivanja usaglašenosti se sprovodi u skladu sa članom 11. ovog pravilnika.",
+            "Ako se tim postupkom ocenjivanja usaglašenosti dokaže usklađenost merila sa primenjivim zahtevima ovog pravilnika, nakon sačinjavanja deklaracije o usaglašenosti od strane proizvođača, na merilo se stavlja znak usaglašenosti i dopunska metrološka oznaka.",
+            "Tehnička dokumentacija i deklaracija o usaglašenosti dostupne su kod proizvođača u periodu od deset godina nakon što je merilo stavljeno na tržište.",
+            "U slučaju serijske proizvodnje, obezbeđuju se odgovarajući postupci kojima se ostvaruje kontinuirana usaglašenost merila sa zahtevima ovog pravilnika, pri čemu se na odgovarajući način uzimaju u obzir izmene nastale u projektu ili karakteristikama merila, kao i izmene u harmonizovanim standardima, normativnim dokumentima ili drugim tehničkim specifikacijama na osnovu kojih je deklarisana usaglašenost merila.",
+            "Kada je to odgovarajuće s obzirom na svojstva merila, obezbeđuju se ispitivanja uzoraka merila stavljenih na raspolaganje na tržištu i, po potrebi, vodi se evidencija reklamacija, kao i neusaglašenih i opozvanih merila, o čemu se obaveštavaju distributeri.",
+            "Merila koja se stavljaju na tržište nose broj tipa, serije ili serijski broj, ili neki drugi element koji omogućava njihovu identifikaciju ili, ako veličina ili priroda merila to ne dozvoljava, zahtevane informacije se navode u dokumentu koji prati merilo i na pakovanju, ako postoji, u skladu sa pododeljkom 9.2. Priloga 1 ovog pravilnika.",
+            "Na merilu se navodi poslovno ime, registrovani trgovački naziv ili registrovani trgovački znak i poštanska adresa proizvođača i/ili uvoznika na kojoj se oni mogu kontaktirati ili, ako to nije moguće, ovi podaci se navode u dokumentu koji prati merilo i na pakovanju, ako postoji, u skladu sa pododeljkom 9.2. Priloga 1 ovog pravilnika. Adresa mora označavati jedinstveno mesto na kojem se proizvođač može kontaktirati. Kontaktni podaci moraju biti na jeziku koji je u službenoj upotrebi u Republici Srbiji.",
+            "Merilo koje je stavljeno na tržište prate primerak deklaracije o usaglašenosti i uputstva i informacije u skladu sa pododeljkom 9.3. Priloga 1, ovog pravilnika na srpskom jeziku. Deklaracija o usaglašenosti, uputstva i informacije, kao i obeležavanje, moraju biti jasni, razumljivi i shvatljivi.",
+            "Na primenu korektivnih radnji neophodnih za usaglašavanje neusaglašenih merila i, po potrebi, njihovo povlačenje ili opoziv, kao i na dostavljanje propisanih informacija i dokumentacije nadležnom organu tržišnog nadzora primenjuju se odredbe zakona kojim se uređuju tehnički zahtevi za proizvode i ocenjivanju usaglašenosti."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_merilima.html#clan_6"
+    },
+    {
+        "title": "Član 7",
+        "texts": [
+            "Za merila iz uvoza čuva se kopija deklaracije o usaglašenosti kod uvoznika tako da bude dostupna nadležnim organima tržišnog nadzora u periodu od deset godina nakon što je merilo stavljeno na tržište i obezbeđuje se da, na zahtev, tehnička dokumentacija bude dostupna na uvid tim organima."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_merilima.html#clan_7"
+    },
+    {
+        "title": "Član 8",
+        "texts": [
+            "Smatra se proizvođačem u smislu ovog pravilnika privredni subjekat koji stavi merilo na tržište pod svojim imenom ili trgovačkim znakom ili ako modifikuje merilo koje je već stavljeno na tržište tako da to može uticati na usaglašenost sa ovim pravilnikom.",
+            "III USAGLAŠENOST MERILA",
+            "Pretpostavka o usaglašenosti merila"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_merilima.html#clan_8"
+    },
+    {
+        "title": "Član 9",
+        "texts": [
+            "Za merila koja su usaglašena sa srpskim standardima kojima su preuzeti harmonizovani standardi ili njihovi delovi, a čiji se spisak (u daljem tekstu: spisak standarda) sastavlja i objavljuje u skladu sa zakonom kojim se uređuje metrologija smatra se da su usaglašena sa bitnim zahtevima iz Priloga 1 ovog pravilnika i zahtevima iz odgovarajućeg priloga za to merilo, koji su obuhvaćeni tim standardima ili njihovim delovima.",
+            "Za merila koja su usaglašena sa delovima normativnih dokumenata, čiji se spisak (u daljem tekstu: spisak normativnih dokumenata) sastavlja i objavljuje u skladu sa zakonom kojim se uređuje metrologija, smatra se da su usaglašena sa bitnim zahtevima iz Priloga 1 ovog pravilnika i zahtevima iz odgovarajućeg priloga za to merilo, koji su obuhvaćeni tim delovima normativnih dokumenata.",
+            "Proizvođač se može odlučiti da koristi bilo koje tehničko rešenje koje je u skladu sa bitnim zahtevima iz Priloga 1 ovog pravilnika i zahtevima iz odgovarajućeg priloga za određeno merilo. Da bi iskoristio pretpostavku o usaglašenosti, proizvođač mora ispravno primeniti rešenja navedena u odgovarajućim harmonizovanim standardima ili u normativnim dokumentima iz st. 1. i 2. ovog člana.",
+            "Pretpostavlja se usaglašenost sa odgovarajućim ispitivanjima navedenim u članu 12. stav 3. tačka 9) ako je odgovarajući program ispitivanja sproveden u skladu sa relevantnim dokumentima navedenim u st. 1, 2. i 3. ovog člana i ako rezultati ispitivanja obezbeđuju usaglašenost sa bitnim zahtevima.",
+            "Objavljivanje upućivanja na normativne dokumente"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_merilima.html#clan_9"
+    },
+    {
+        "title": "Član 10",
+        "texts": [
+            "Spisak normativnih dokumenata sastavlja se i objavljuje u skladu sa zakonom kojim se uređuje metrologija i na tom spisku naznačavaju se oni delovi tih normativnih dokumenata koji zadovoljavaju zahteve koje obuhvataju i koji su utvrđeni u Prilogu 1 ovog pravilnika i u odgovarajućim prilozima za određena merila.",
+            "Postupci ocenjivanja usaglašenosti"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_merilima.html#clan_10"
+    },
+    {
+        "title": "Član 11",
+        "texts": [
+            "Ocenjivanje usaglašenosti merila sa primenjivim bitnim zahtevima sprovodi se primenom jednog od postupaka ocenjivanja usaglašenosti navedenih u odgovarajućem prilogu za određeno merilo, po izboru proizvođača.",
+            "Postupci ocenjivanja usaglašenosti utvrđeni su u Prilogu 2 - Postupci ocenjivanja usaglašenosti, koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo.",
+            "Tehnička dokumentacija"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_merilima.html#clan_11"
+    },
+    {
+        "title": "Član 12",
+        "texts": [
+            "Tehnička dokumentacija treba na razumljiv način da prikaže projektovanje, proizvodnju i način rada merila i da omogući ocenjivanje njegove usaglašenosti sa primenljivim zahtevima ovog pravilnika.",
+            "Tehnička dokumentacija treba da bude dovoljno detaljna da obezbedi usaglašenost sa sledećim zahtevima:",
+            "1) definisanje metroloških karakteristika;",
+            "2) reproduktivnost metroloških svojstava proizvedenih merila kada su pravilno podešena uz upotrebu za to namenjenih sredstava;",
+            "3) celovitost merila.",
+            "U meri u kojoj je to od značaja za ocenjivanje i identifikovanje tipa i/ili merila, tehnička dokumentacija obuhvata:",
+            "1) opšti opis merila;",
+            "2) idejni projekat i proizvođačke crteže i šeme komponenti, podsklopova, kola, itd.;",
+            "3) proizvođačke postupke kojima se obezbeđuje ujednačena proizvodnja;",
+            "4) po potrebi, opis elektronskih uređaja sa crtežima, dijagramima, dijagramima toka logičkih elemenata i opštim podacima o softveru, kojim se objašnjavaju njihove karakteristike i rad;",
+            "5) opise i objašnjenja neophodne za razumevanje informacija iz tač. 2), 3) i 4) ovog stava, kao i rada merila;",
+            "6) listu standarda i/ili normativnih dokumenata iz člana 9. ovog pravilnika, koji su primenjeni u celosti ili delimično;",
+            "7) opise rešenja koja su usvojena da bi se zadovoljili bitni zahtevi, u slučajevima gde nisu primenjeni standardi i/ili normativni dokumenti iz člana 9. ovog pravilnika, uključujući i spisak drugih relevantnih tehničkih specifikacija koje su primenjene;",
+            "8) rezultate projektnih proračuna, pregleda, itd.;",
+            "9) odgovarajuće rezultate ispitivanja, po potrebi, kako bi se pokazalo da su tip i/ili merila u skladu sa:",
+            "(1) zahtevima ovog pravilnika u deklarisanim naznačenim radnim uslovima i uz navedene smetnje u okruženju;",
+            "(2) specifikacijama trajnosti za gasomere, vodomere, merila toplotne energije kao i merila za tečnosti koje nisu voda;",
+            "10) sertifikate o pregledu tipa ili sertifikate o pregledu projekta koji se odnose na merila koja sadrže delove identične delovima u projektu.",
+            "Proizvođač navodi gde se stavljaju žigovi i oznake.",
+            "Proizvođač po potrebi navodi uslove za kompatibilnost sa interfejsima i podsklopovima.",
+            "Deklaracija o usaglašenosti"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_merilima.html#clan_12"
+    },
+    {
+        "title": "Član 13",
+        "texts": [
+            "U deklaraciji o usaglašenosti navodi se da su ispunjeni bitni zahtevi iz Priloga 1 ovog pravilnika i zahtevi iz odgovarajućeg priloga za određeno merilo.",
+            "Deklaracija o usaglašenosti ima oblik utvrđen u Prilogu 13 - Oblik deklaracije o usaglašenosti, koji je odštampan uz ovaj pravilnik i čini njegov sastavni deo.",
+            "Deklaracija o usaglašenosti sadrži elemente navedene u odgovarajućim modulima utvrđenim u Prilogu 2 ovog pravilnika i redovno se ažurira. Deklaracija o usaglašenosti se izdaje ili prevodi na srpski jezik kada se merilo stavlja na raspolaganje na tržištu Republike Srbije.",
+            "U slučaju da je merilo predmet više propisa kojim se zahteva deklaracija o usaglašenosti, sastavlja se jedinstvena deklaracija o usaglašenosti za sve te propise. Ova deklaracija mora da sadrži identifikaciju tih propisa, uključujući i upućivanja na njihovo objavljivanje.",
+            "Sastavljanjem deklaracije o usaglašenosti proizvođač potvrđuje usaglašenost merila sa zahtevima utvrđenim u ovom pravilniku.",
+            "Označavanje usaglašenosti"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_merilima.html#clan_13"
+    },
+    {
+        "title": "Član 14",
+        "texts": [
+            "Usaglašenost merila sa zahtevima iz ovog pravilnika označava se znakom usaglašenosti i dopunskom metrološkom oznakom u skladu sa članom 15. ovog pravilnika.",
+            "Znak usaglašenosti i dopunska metrološka oznaka"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_merilima.html#clan_14"
+    },
+    {
+        "title": "Član 15",
+        "texts": [
+            "Na znak usaglašenosti primenjuju se odredbe zakona kojim se uređuju tehnički zahtevi za proizvode i ocenjivanje usaglašenosti i posebnih propisa donetih na osnovu tog zakona.",
+            "Dopunska metrološka oznaka se sastoji od velikog slova \"M\" i poslednje dve cifre godine njenog stavljanja, uokvirene pravougaonikom. Visina pravougaonika jednaka je visini znaka usaglašenosti.",
+            "Odredbe propisa iz stava 1. ovog člana shodno se primenjuju i na dopunsku metrološku oznaku.",
+            "Označavanje"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_merilima.html#clan_15"
+    },
+    {
+        "title": "Član 16",
+        "texts": [
+            "Znak usaglašenosti i dopunska metrološka oznaka stavljaju se na merilo ili na njegovu natpisnu pločicu i moraju biti vidljivi, čitljivi i neizbrisivi, a ukoliko to nije moguće ili nije opravdano zbog karakteristika merila, na prateće dokumente i na pakovanje, ako postoji.",
+            "Kada se merilo sastoji od skupa uređaja koji rade zajedno, a koji nisu podsklopovi, znak usaglašenosti i dopunska metrološka oznaka stavljaju se na glavni uređaj merila.",
+            "Znak usaglašenosti i dopunska metrološka oznaka stavljaju se pre nego što se merilo stavi na tržište.",
+            "Znak usaglašenosti i dopunska metrološka oznaka mogu se staviti na merilo tokom procesa izrade, ako je to opravdano.",
+            "Dopunska metrološka oznaka se stavlja odmah iza znaka usaglašenosti.",
+            "Iza znaka usaglašenosti i dopunske metrološke oznake stavlja se identifikacioni broj imenovanog tela, ukoliko je to telo uključeno u fazu kontrole proizvodnje kako je utvrđeno u Prilogu 2 ovog pravilnika.",
+            "Identifikacioni broj imenovanog tela stavlja samo to telo ili, po njegovim uputstvima, proizvođač ili njegov ovlašćeni zastupnik.",
+            "Identifikacioni broj imenovanog tela mora biti neizbrisiv ili samouništavajući ako se ukloni.",
+            "Iza znaka usaglašenosti, dopunske metrološke oznake i, po potrebi, identifikacionog broja imenovanog tela može se staviti bilo koja druga oznaka kojom se označava poseban rizik ili upotreba.",
+            "Pravilna primena znaka usaglašenosti i preduzimanje odgovarajućih mera u slučaju nepravilne upotrebe te oznake obezbeđuje se u skladu sa zakonom kojim se uređuju tehnički zahtevi za proizvode i ocenjivanje usaglašenosti.",
+            "IV USLOVI ZA IMENOVANA TELA"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_merilima.html#clan_16"
+    },
+    {
+        "title": "Član 17",
+        "texts": [
+            "Telo za ocenjivanje usaglašenosti može da obavlja poslove ocenjivanja usaglašenosti iz Priloga 2 ovog pravilnika ako ispunjava uslove iz člana 18. ovog pravilnika i ako je imenovano za obavljanje tih poslova u skladu sa zakonom kojim se uređuju tehnički zahtevi za proizvode i ocenjivanje usaglašenosti i propisom donetim na osnovu tog zakona.",
+            "Uslovi koje mora da ispuni imenovano telo"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_merilima.html#clan_17"
+    },
+    {
+        "title": "Član 18",
+        "texts": [
+            "Telo za ocenjivanje usaglašenosti može da obavlja poslove ocenjivanja usaglašenosti ako ispunjava sledeće uslove:",
+            "1) telo za ocenjivanje usaglašenosti mora da ima status pravnog lica registrovanog u Republici Srbiji;",
+            "2) telo za ocenjivanje usaglašenosti mora da bude nezavisno od organizacije ili merila koje ocenjuje. Telo koje pripada poslovnom ili stručnom udruženju koje zastupa preduzeća uključena u projektovanje, proizvodnju, nabavku, sklapanje, upotrebu ili održavanje merila koja ono ocenjuje, može se smatrati takvim telom, pod uslovom da dokaže svoju nezavisnost i nepostojanje svih sukoba interesa;",
+            "3) telo za ocenjivanje usaglašenosti, njegovo rukovodstvo i zaposlena i angažovana lica koja obavljaju poslove ocenjivanja usaglašenosti ne mogu biti projektant, proizvođač, isporučilac, montažer, kupac, vlasnik, korisnik ili serviser merila koje ocenjuju, kao ni zastupnik bilo koje od tih strana. Ovim se ne isključuje mogućnost upotrebe ocenjenih proizvoda neophodnih za rad tela za ocenjivanje usaglašenosti ili za lične potrebe.",
+            "Telo za ocenjivanje usaglašenosti, njegovo rukovodstvo i zaposlena i angažovana lica koja obavljaju poslove ocenjivanja usaglašenosti ne smeju biti direktno uključeni u projektovanje, izradu ili konstruisanje, marketing, montiranje, upotrebu ili održavanje tih merila niti zastupati strane uključene u te aktivnosti. Oni ne smeju učestvovati ni u kakvoj aktivnosti koja može biti u sukobu sa njihovim nezavisnim odlučivanjem ili integritetom u odnosu na aktivnosti ocenjivanja usaglašenosti za koje su imenovani, što se odnosi i na pružanje konsultantskih usluga.",
+            "Odredbom stava 2. ove tačke ne isključuje se mogućnost razmene tehničkih informacija između proizvođača i tela za potrebe ocenjivanja usaglašenosti.",
+            "Telo za ocenjivanje usaglašenosti obezbeđuje da aktivnosti njegovih povezanih pravnih lica ili podizvođača ne utiču na poverljivost, objektivnost ili nepristrasnost njegovih aktivnosti ocenjivanja usaglašenosti;",
+            "4) telo za ocenjivanje usaglašenosti i njegova zaposlena, odnosno angažovana lica sprovode aktivnosti ocenjivanja usaglašenosti uz najviši stepen profesionalnog integriteta i neophodne tehničke kompetentnosti u određenoj oblasti i ne smeju biti izloženi nikakvim pritiscima i podsticajima, naročito finansijskim, koji bi mogli da utiču na njihovo odlučivanje ili na rezulate njihovih aktivnosti ocenjivanja usaglašenosti, posebno od strane lica ili grupa lica koji su zainteresovani za rezultate tih aktivnosti;",
+            "5) telo za ocenjivanje usaglašenosti mora biti sposobno da obavi sve poslove ocenjivanja usaglašenosti iz Priloga 2 ovog pravilnika i za koje je imenovano, bez obzira na to da li te poslove obavlja ono samo ili drugo lice u njegovo ime i na njegovu odgovornost.",
+            "U svakom trenutku i za svaki postupak ocenjivanja usaglašenosti i za svaku vrstu ili kategoriju merila za koje je imenovano, telo za ocenjivanje usaglašenosti mora raspolagati neophodnim:",
+            "(1) zaposlenim, odnosno angažovanim licima sa tehničkim znanjem i dovoljnim i odgovarajućim iskustvom za obavljanje poslova ocenjivanja usaglašenosti;",
+            "(2) opisima postupaka po kojima se ocenjivanje usaglašenosti sprovodi, obezbeđujući pri tom transparentnost i jednaku primenu tih postupaka. Ono mora imati uspostavljene odgovarajuća pravila i postupke kojima se pravi razlika između poslova koje obavlja kao imenovano telo i drugih aktivnosti;",
+            "(3) postupcima za obavljanje aktivnosti, u kojima se vodi računa o veličini preduzeća, sektoru u kojem ono posluje, njegovoj strukturi, stepenu složenosti tehnologije merila i masovnoj ili serijskoj prirodi procesa proizvodnje.",
+            "Telo za ocenjivanje usaglašenosti mora imati sredstva neophodna za obavljanje tehničkih i administrativnih poslova povezanih sa aktivnostima ocenjivanja usaglašenosti na odgovarajući način i mora imati pristup svoj neophodnoj opremi ili objektima;",
+            "6) zaposlena, odnosno angažovana lica odgovorna za obavljanje poslova ocenjivanja usaglašenosti moraju imati sledeće:",
+            "(1) dobru tehničku i stručnu obuku za sve aktivnosti ocenjivanja usaglašenosti za koje je telo za ocenjivanje usaglašenosti imenovano;",
+            "(2) zadovoljavajuće poznavanje zahteva u vezi sa ocenjivanjima koje sprovode i odgovarajuće ovlašćenje za sprovođenje tih ocenjivanja;",
+            "(3) zadovoljavajuće poznavanje i razumevanje bitnih zahteva utvrđenih u Prilogu 1 ovog pravilnika i odgovarajućim prilozima za određena merila, harmonizovanih standarda i normativnih dokumenata koji se primenjuju;",
+            "(4) sposobnost za sastavljanje sertifikata, zapisa i izveštaja kojima se potvrđuje da su ocenjivanja sprovedena;",
+            "7) nepristrasnost tela za ocenjivanje usaglašenosti, njegovog rukovodstva i zaposlenih, odnosno angažovanih lica odgovornih za obavljanje poslova ocenjivanja usaglašenosti mora biti garantovana.",
+            "Naknada koju prima rukovodstvo i zaposlena, odnosno angažovana lica odgovorna za sprovođenje poslova ocenjivanja usaglašenosti tela za ocenjivanje usaglašenosti ne sme da zavisi od broja sprovedenih ocenjivanja ili od rezultata tih ocenjivanja;",
+            "8) telo za ocenjivanje usaglašenosti zaključuje ugovor o osiguranju od odgovornosti za štetu od profesionalne delatnosti;",
+            "9) zaposlena, odnosno angažovana lica tela za ocenjivanje usaglašenosti poštuju poslovnu tajnu u pogledu svih informacija koje dobiju pri izvršavanju svojih poslova iz Priloga 2 ovog pravilnika, u skladu sa zakonom.",
+            "Pretpostavka o ispunjenosti uslova za imenovana tela"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_merilima.html#clan_18"
+    },
+    {
+        "title": "Član 19",
+        "texts": [
+            "Ako telo za ocenjivanje usaglašenosti dokaže svoju usaglašenost sa kriterijumima utvrđenim u odgovarajućim srpskim standardima kojima su preuzeti harmonizovani standardi koji sadrže zahteve za tela za ocenjivanje usaglašenosti ili njihovim delovima, pretpostavlja se da ono ispunjava uslove utvrđene u članu 18. ovog pravilnika, u meri u kojoj su ti uslovi obuhvaćeni tim standardima, odnosno njihovim delovima.",
+            "Uslovi za imenovano telo u pogledu angažovanja podizvođača"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_merilima.html#clan_19"
+    },
+    {
+        "title": "Član 20",
+        "texts": [
+            "Ako imenovano telo podugovara određene poslove u vezi sa ocenjivanjem usaglašenosti podizvođaču ili povezanom pravnom licu, obezbeđuje da podizvođač ili povezano pravno lice ispunjavaju uslove utvrđene u članu 18. ovog pravilnika i dokaze o tome čuva i stavlja na raspolaganje organu nadležnom za imenovanje u skladu sa zakonom kojim se uređuju tehnički zahtevi za proizvode i ocenjivanje usaglašenosti.",
+            "Imenovana tela preuzimaju punu odgovornost za poslove koje obavljaju podizvođači ili povezana pravna lica imenovanog tela.",
+            "Aktivnosti se mogu podugovoriti ili ih povezana pravna lica imenovanog tela mogu obaviti samo uz saglasnost klijenta.",
+            "Akreditovana interna tela"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_merilima.html#clan_20"
+    },
+    {
+        "title": "Član 21",
+        "texts": [
+            "Akreditovano interno telo može obavljati aktivnosti ocenjivanja usaglašenosti za privredno društvo čiji je deo, za potrebe sprovođenja postupaka utvrđenih u tački 2. (Modul A2) i tački 5. (Modul S2) Priloga 2 ovog pravilnika. To telo čini zaseban deo privrednog društva i ne može učestvovati u projektovanju, proizvodnji, isporuci, montaži, upotrebi ili održavanju merila koje ocenjuje.",
+            "Akreditovano interno telo treba da ispunjava sledeće uslove:",
+            "1) akreditovano je u skladu sa odgovarajućim srpskim standardima;",
+            "2) telo i njegova zaposlena i angažovana lica se mogu organizaciono identifikovati u privrednom društvu čiji su deo i uspostavljeni su odgovarajući interni postupci izveštavanja koji obezbeđuju njihovu nepristrasnost i dokazuju je akreditacionom telu Republike Srbije;",
+            "3) akreditovano interno telo i njegova zaposlena i angažovana lica nisu odgovorni za projektovanje, proizvodnju, isporuku, montiranje, rad i održavanje merila koja ocenjuju i ne smeju učestvovati u nekoj aktivnosti koja bi mogla biti u suprotnosti sa njihovim nezavisnim odlučivanjem ili integritetom u odnosu na aktivnosti ocenjivanja;",
+            "4) pruža svoje usluge isključivo privrednom društvu čiji je deo.",
+            "V OCENJIVANJE USAGLAŠENOSTI MERILA"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_merilima.html#clan_21"
+    },
+    {
+        "title": "Član 22",
+        "texts": [
+            "Ocenjivanje usaglašenosti merila od strane imenovanog tela sprovodi se u skladu sa postupcima navedenim u Prilogu 2 ovog pravilnika, tako da bude srazmerno kako bi se izbeglo nepotrebno opterećivanje privrednih subjekata, tako što se uzima u obzir veličina privrednog društva čije se merilo ocenjuje, sektor u kojem ono posluje, njegova struktura, stepen složenosti tehnologije merila i masovna ili serijska prirodi procesa proizvodnje, kao i poštovanje stepena rigoroznosti i nivoa zaštite koji se zahtevaju za usaglašenost merila sa ovim pravilnikom.",
+            "Ako se prilikom ocenjivanja usaglašenosti iz stava 1. ovog člana utvrdi da proizvođač nije ispunio bitne zahteve iz Priloga 1 ovog pravilnika i odgovarajućih priloga za određena merila ili odgovarajućih standarda, normativnih dokumenata ili drugih tehničkih specifikacija, zahteva se preduzimanje odgovarajuće korektivne radnje i ne izdaje se sertifikat o usaglašenosti.",
+            "Zaštitna klauzula u vezi sa usaglašenim merilima koja predstavljaju rizik"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_merilima.html#clan_22"
+    },
+    {
+        "title": "Član 23",
+        "texts": [
+            "Stavljanje na raspolaganje i upotreba merila koje je usaglašeno sa ovim pravilnikom, a za koje se utvrdi da predstavlja rizik sa aspekta zaštite javnog interesa, može se ograničiti ili zabraniti u skladu sa zakonom.",
+            "Usklađenost sa propisima Evropske unije"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_merilima.html#clan_23"
+    },
+    {
+        "title": "Član 24",
+        "texts": [
+            "Ovaj pravilnik je usklađen sa svim načelima i bitnim zahtevima iz Direktive 2014/32/EU Evropskog parlamenta i Saveta od 26. februara 2014. godine o merilima.",
+            "VI PRELAZNE I ZAVRŠNE ODREDBE"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_merilima.html#clan_24"
+    },
+    {
+        "title": "Član 25",
+        "texts": [
+            "Od dana stupanja na snagu ovog pravilnika do dana stupanja na snagu sporazuma o ocenjivanju usaglašenosti i prihvatanju industrijskih proizvoda između Evropske unije i Republike Srbije ili do dana pristupanja Republike Srbije Evropskoj uniji označavanje usaglašenosti merila na koje se primenjuje ovaj pravilnik obavlja se stavljanjem srpskog znaka usaglašenosti čiji je oblik, izgled i sadržaj uređen posebnim propisom donetim na osnovu zakona kojim se uređuju tehnički zahtevi za proizvode i ocenjivanje usaglašenosti. Od dana stupanja na snagu sporazuma o ocenjivanju usaglašenosti i prihvatanju industrijskih proizvoda između Evropske unije i Republike Srbije ili od dana pristupanja Republike Srbije Evropskoj uniji označavanje usaglašenosti merila na koje se primenjuje ovaj pravilnik obavlja se stavljanjem \"SE\" znaka usaglašenosti.",
+            "Od dana stupanja na snagu sporazuma o ocenjivanju usaglašenosti i prihvatanju industrijskih proizvoda između Evropske unije i Republike Srbije ili od dana pristupanja Republike Srbije Evropskoj uniji, reči: \"deklaracija o usaglašenosti\", u ovom pravilniku imaće značenje: \"EU deklaracija o usaglašenosti\", reči: \"pregled tipa\", imaće značenje: \"EU pregled tipa\", reči: \"sertifikat o pregledu tipa\", imaće značenje: \"EU sertifikat o pregledu tipa\", reči: \"sertifikat o pregledu projekta\" imaće značenje: \"EU sertifikat o pregledu projekta\"."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_merilima.html#clan_25"
+    },
+    {
+        "title": "Član 26",
+        "texts": [
+            "Sertifikati o ispitivanju tipa koje su, do dana stupanja na snagu ovog pravilnika, izdala tela za ocenjivanje usaglašenosti imenovana u skladu sa Pravilnikom o merilima (\"Službeni glasnik RS\", br. 63/13 i 95/16) važe do isteka roka na koji su izdati.",
+            "Tela za ocenjivanje usaglašenosti iz stava 1. ovog člana, mogu da organu nadležnom za imenovanje podnesu zahtev za imenovanje u skladu sa ovim pravilnikom najkasnije šest meseci od dana njegovog stupanja na snagu.",
+            "Tela za ocenjivanje usaglašenosti iz stava 1. ovog člana, od dana stupanja na snagu ovog pravilnika do okončanja postupka imenovanja u skladu sa ovim pravilnikom, mogu da obavljaju poslove ocenjivanja usaglašenosti iz člana 11. i Priloga 2 ovog pravilnika, na osnovu važećeg rešenja o imenovanju.",
+            "Tela za ocenjivanje usaglašenosti iz stava 1. ovog člana koja ne podnesu zahtev za imenovanje u roku iz stava 2. ovog člana, odnosno tela za ocenjivanje usaglašenosti za koja organ nadležan za imenovanje, po podnetom zahtevu, utvrdi da ne ispunjavaju zahteve iz ovog pravilnika, neće moći da obavljaju poslove ocenjivanja usaglašenosti kao imenovana tela u skladu sa ovim pravilnikom.",
+            "Uverenja o odobrenju tipa merila izdata do dana stupanja na snagu ovog pravilnika, a na osnovu propisa iz člana 18. Pravilnika o merilima (\"Službeni glasnik RS\", br. 63/13 i 95/16) važe do isteka roka na koji su izdata, a najduže do 1. januara 2024. godine.",
+            "Merila koja su na dan stupanja na snagu ovog pravilnika u upotrebi mogu se podnositi na periodično ili vanredno overavanje sve dok zadovoljavaju zahteve iz propisa na osnovu kojih su stavljena u upotrebu."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_merilima.html#clan_26"
+    },
+    {
+        "title": "Član 27",
+        "texts": [
+            "Danom stupanja na snagu ovog pravilnika prestaje da važi Pravilnik o merilima (\"Službeni glasnik RS\", br. 63/13 i 95/16).",
+            "Stupanje na snagu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_merilima.html#clan_27"
+    },
+    {
+        "title": "Član 28",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u \"Službenom glasniku Republike Srbije\".",
+            "",
+            "Prilog 1",
+            "BITNI ZAHTEVI",
+            "Merilo mora da obezbedi visok nivo metrološke zaštite tako da svaka zainteresovana strana može imati poverenje u rezultat merenja i mora biti projektovano i proizvedeno sa visokim nivoom kvaliteta u pogledu tehnologije merenja i bezbednosti podataka merenja.",
+            "Bitni zahtevi koje merila moraju da ispune navedeni su ovom prilogu, a, gde je to potrebno, dopunjeni su posebnim zahtevima za određena merila u Prilozima 3-12 ovog pravilnika u kojima su detaljnije izloženi određeni aspekti opštih zahteva.",
+            "U tehničkim rešenjima primenjenim radi ispunjenja bitnih zahteva uzima se u obzir namena merila i svaka njegova zloupotreba koja se može predvideti.",
+            "DEFINICIJE",
+            "Merena veličina",
+            "Merena veličina je određena veličina koja se meri.",
+            "Uticajna veličina",
+            "Uticajna veličina je veličina koja nije merena veličina, ali utiče na rezultat merenja.",
+            "Naznačeni radni uslovi",
+            "Naznačeni radni uslovi su vrednosti za merene veličine i uticajne veličine koje čine normalne radne uslove merila.",
+            "Smetnja",
+            "Uticajna veličina čija je vrednost u granicama utvrđenim u odgovarajućem zahtevu, ali izvan utvrđenih naznačenih radnih uslova merila. Uticajna veličina je smetnja ako za tu uticajnu veličinu nisu utvrđeni naznačeni radni uslovi.",
+            "Kritična vrednost promene",
+            "Kritična vrednost promene je vrednost pri kojoj se promena rezultata merenja smatra nepoželjnom.",
+            "Materijalizovana mera",
+            "Materijalizovana mera je uređaj koji je namenjen da tokom upotrebe trajno reprodukuje ili obezbeđuje jednu ili više poznatih vrednosti date veličine.",
+            "Direktna prodaja",
+            "Trgovačka transakcija predstavlja direktnu prodaju ako:- rezultat merenja služi kao osnova za iznos za naplatu; i- najmanje jedna od strana u transakciji povezanoj sa merenjem jeste potrošač ili bilo koja druga strana kojoj je potreban sličan nivo zaštite; i- sve strane u toj transakciji prihvataju rezultat merenja u tom trenutku i na tom mestu.",
+            "Klimatska okruženja",
+            "Klimatska okruženja su uslovi u kojima se merila mogu koristiti. Da bi se prevazišle klimatske razlike, definisan je opseg graničnih vrednosti temperature.",
+            "Javno komunalno preduzeće",
+            "Javno komunalno preduzeće je snabdevač električnom energijom, gasom, toplotnom energijom ili vodom.",
+            "BITNI ZAHTEVI",
+            "1. Dozvoljene greške",
+            "1.1. Pod naznačenim radnim uslovima i bez smetnji, greška merenja ne sme da bude veća od vrednosti najveće dozvoljene greške (NDG) utvrđene u odgovarajućim zahtevima za određena merila.",
+            "Ukoliko u prilozima za određena merila nije drugačije navedeno, NDG se izražava kao pozitivna i negativna vrednost odstupanja od prave vrednosti merenja.",
+            "1.2. Pod naznačenim radnim uslovima i uz prisustvo smetnje, u pogledu svojstava merila primenjuje se zahtev koji je utvrđen u posebnim prilozima za određena merila.",
+            "Ukoliko je predviđeno da se merilo koristi u navedenom stalnom elektromagnetskom polju, dozvoljena svojstva za vreme ispitivanja pod dejstvom izračenog elektromagnetskog polja sa modulacijom amplitude moraju biti u okviru NDG.",
+            "1.3. Proizvođač određuje klimatska, mehanička i elektromagnetska okruženja u kojima je merilo predviđeno za upotrebu, napajanje električnom energijom i druge uticajne veličine za koje je verovatno da će uticati na njegovu tačnost, uzimajući u obzir zahteve utvrđene u odgovarajućim prilozima za određena merila.",
+            "1.3.1. Klimatska okruženja",
+            "Proizvođač određuje gornju i donju graničnu vrednost temperature kao neku od vrednosti iz Tabele 1, ukoliko nije drugačije navedeno u prilozima 3 do 12, i navodi da li je merilo projektovano za vlažnost sa ili bez kondenzacije, kao i da li je predviđeno da se merilo koristi na otvorenom ili u zatvorenom prostoru.",
+            "Tabela 1.",
+            "",
+            "Granične vrednosti temperature",
+            "Gornja granična vrednost temperature",
+            "30°C",
+            "40°C",
+            "55°C",
+            "70°C",
+            "Donja granična vrednost temperature",
+            "5°C",
+            "- 10°C",
+            "- 25°C",
+            "- 40°C",
+            "1.3.2. (a) Mehanička okruženja se razvrstavaju u klase od M1 do M3:",
+            "M1",
+            "Ova klasa se odnosi na merila koja se koriste na mestima sa vibracijama i udarima manjeg značaja, npr. merila pričvršćena za lake noseće konstrukcije izložene zanemarljivim vibracijama i udarima koji se prenose usled miniranja ili pobijanja šipova u lokalnoj sredini, lupanja vratima i dr.",
+            "M2",
+            "Ova klasa se odnosi na merila koja se koriste na mestima sa značajnim ili velikim vibracijama i udarima, npr. koji se prenose sa mašina ili vozila koja prolaze u blizini ili pored teških mašina, transportnih traka i dr.",
+            "M3",
+            "Ova klasa se odnosi na merila koja se koriste na mestima gde su nivo vibracija i udara veliki i veoma veliki, npr. merila postavljena direktno na mašine, transportne trake i dr.",
+            "(b) Pri utvrđivanju mehaničkih okruženja, uzimaju se u obzir sledeće uticajne veličine:",
+            "- vibracije;",
+            "- mehanički udari.",
+            "1.3.3. (a) Elektromagnetska okruženja se razvrstavaju, ako nije drugačije utvrđeno u odgovarajućim prilozima za određena merila, u klase E1, E2 ili E3:",
+            "E1",
+            "Ova klasa se odnosi na merila koja se koriste na mestima sa elektromagnetskim smetnjama sličnim onima koje će se verovatno javiti u stambenim i poslovnim zgradama i objektima lake industrije.",
+            "E2",
+            "Ova klasa se odnosi na merila koja se koriste na mestima sa elektromagnetskim smetnjama sličnim onima koje će se verovatno javiti u drugim industrijskim objektima.",
+            "E3",
+            "Ova klasa se odnosi na merila koja se napajaju iz akumulatora vozila. Ta merila moraju da zadovolje zahteve klase E2 i sledeće dodatne zahteve:- smanjenje napona izazvano pobuđivanjem kola za startovanje motora sa unutrašnjim sagorevanjem,- prolazne pojave pri prestanku opterećenja, koje se javljaju ako se ispražnjeni akumulator isključi dok motor radi.",
+            "(b) Pri utvrđivanju elektromagnetskog okruženja, uzimaju se u obzir sledeće uticajne veličine:",
+            "- prekidi napona;",
+            "- kratkotrajna smanjenja napona;",
+            "- naponske prelazne pojave na napojnim vodovima i/ili signalnim vodovima;",
+            "- elektrostatička pražnjenja;",
+            "- radiofrekvencijska elektromagnetska polja;",
+            "- kondukciono radiofrekevencijska elektromagnetska polja na napojnim vodovima i/ili signalnim vodovima;",
+            "- naponski udari na napojnim vodovima i/ili signalnim vodovima.",
+            "1.3.4. Druge uticajne veličine koje se po potrebi uzimaju u obzir su:",
+            "- varijacija napona;",
+            "- varijacija mrežne frekvencije;",
+            "- magnetska polja mrežne frekvencije;",
+            "- svaka druga veličina za koju je verovatno da će značajno uticati na tačnost merila.",
+            "1.4. Kada se sprovode ispitivanja kako je predviđeno ovim pravilnikom, primenjuju se sledeće tačke:",
+            "1.4.1. Osnovna pravila za ispitivanje i utvrđivanje grešaka",
+            "Bitni zahtevi iz pododeljaka 1.1. i 1.2. ovog priloga proveravaju se za svaku relevantnu uticajnu veličinu. Ukoliko nije drugačije navedeno u odgovarajućem prilogu za određeno merilo, ti bitni zahtevi primenjuju se kada se svaka uticajna veličina zasebno primenjuje, a njen efekat vrednuje, pri čemu se sve druge uticajne veličine održavaju relativno konstantnim na svojoj referentnoj vrednosti.",
+            "Metrološka ispitivanja se sprovode za vreme ili posle primene uticajne veličine, u zavisnosti od toga koje stanje odgovara normalnom radnom stanju merila, kada je verovatno da će se javiti ta uticajna veličina.",
+            "1.4.2. Vlažnost okoline",
+            "(a) U zavisnosti od klimatskog radnog okruženja u kojem je predviđena upotreba merila, odgovarajuće ispitivanje se vrši postupkom povišene temperature sa nepromenljivom vlažnošću (bez kondenzacije) ili postupkom povišene temperature sa ciklično promenljivom vlažnošću (sa kondenzacijom).",
+            "(b) Ispitivanje postupkom povišene temperature sa ciklično promenljivom vlažnošću vrši se kada je kondenzacija važna ili kada će prodiranje pare biti ubrzano usled efekta disanja. U uslovima gde je prisutna vlažnost bez kondenzacije, vrši se ispitivanje postupkom povišene temperature sa nepromenljivom vlažnošću.",
+            "2. Reproduktivnost",
+            "Ako se ista merena veličina izmeri na drugom mestu ili je izmeri drugi korisnik, pri čemu su svi drugi uslovi isti, rezultati uzastopnih merenja moraju biti u velikoj meri saglasni. Razlika između rezultata merenja mora biti mala u poređenju sa NDG.",
+            "3. Ponovljivost",
+            "Ako se ista merena veličina izmeri pod istim uslovima merenja, rezultati uzastopnih merenja moraju biti u velikoj meri saglasni. Razlika između rezultata merenja mora biti mala u poređenju sa NDG.",
+            "4. Razlikovanje i osetljivost",
+            "Merilo mora biti dovoljno osetljivo i prag razlikovanja mora biti dovoljno nizak za predviđeno merenje.",
+            "5. Trajnost",
+            "Merilo mora biti projektovano tako da održava odgovarajuću stabilnost svojih metroloških karakteristika tokom vremenskog perioda koji proceni proizvođač, pod uslovom da se pravilno montira, održava i koristi u skladu sa uputstvom proizvođača, kada se nalazi u uslovima okruženja za koje je predviđeno.",
+            "6. Pouzdanost",
+            "Merilo mora biti projektovano tako da, koliko je moguće, smanji efekat oštećenja koji bi doveo do netačnog rezultata merenja, osim u slučaju da je postojanje takvog oštećenja očigledno.",
+            "7. Podesnost",
+            "7.1. Merilo mora biti projektovano i izrađeno tako da se preči zloupotreba, dok mogućnosti za nenamernu pogrešnu upotrebu moraju biti svedene na minimum.",
+            "7.2. Merilo mora biti podesno za predviđenu upotrebu uzimajući u obzir praktične radne uslove i ne sme iziskivati nerazumne zahteve od korisnika da bi se dobio tačan rezultat merenja.",
+            "7.3. Greške merila koje koriste javna komunalna preduzeća pri protocima ili jačinama električne struje van kontrolisanog opsega ne smeju neopravdano odstupati.",
+            "7.4. Ako je merilo projektovano za merenje vrednosti merene veličine koje su konstantne tokom vremena, merilo mora biti neosetljivo na mala kolebanja vrednosti merene veličine ili reagovati na odgovarajući način.",
+            "7.5. Merilo mora biti izdržljivo, a materijali od kojih je izrađeno moraju biti podesni za uslove u kojima je predviđeno da se koristi.",
+            "7.6. Merilo mora biti projektovano tako da omogući kontrolisanje merenja posle stavljanja merila na tržište i u upotrebu. Po potrebi, u sklopu merila postoji posebna oprema ili softver za tu kontrolu. Postupak ispitivanja opisuje se u uputstvu za rad.",
+            "Kada merilo ima pripadajući softver koji obezbeđuje druge funkcije osim funkcije merenja, on ne sme na nedozvoljen način uticati na softver koji je bitan za metrološke karakteristike i koji mora biti prepoznatljiv.",
+            "8. Zaštita od zloupotrebe",
+            "8.1. Na metrološke karakteristike merila ne sme na nedozvoljen način da utiče priključenje drugog uređaja na merilo, neko svojstvo priključenog uređaja ili neki udaljeni uređaj koji komunicira sa merilom.",
+            "8.2. Hardverska komponenta koja je bitna za metrološke karakteristike mora biti projektovana tako da se može zaštititi. Predviđene mere zaštite moraju obezbediti da postoji dokaz o intervenciji.",
+            "8.3. Softver koji je bitan za metrološke karakteristike mora biti identifikovan kao takav i zaštićen.",
+            "Merilo mora da obezbeđuje laku identifikaciju softvera.",
+            "Dokaz o intervenciji mora biti dostupan tokom prihvatljivog vremenskog perioda.",
+            "8.4. Podaci merenja, softver koji je bitan za karakteristike merenja i metrološki važni parametri koji se čuvaju ili prenose moraju biti na odgovarajući način zaštićeni od slučajne ili namerne zloupotrebe.",
+            "8.5. Za merila koja koriste javna komunalna preduzeća ne sme postojati mogućnost da se prikaz ukupne isporučene količine ili prikazi iz kojih se može izvesti ukupna isporučena količina, a na koje se upućuje u celini ili delimično pri utvrđivanju osnove za plaćanje, vrate na početnu vrednost tokom upotrebe.",
+            "9. Informacije koje merila treba da nose i da prate merilo",
+            "9.1. Na merilu se moraju nalaziti sledeći natpisi:",
+            "(a) naziv proizvođača, registrovani komercijalni naziv ili registrovani zaštitni znak;",
+            "(b) informacije o tačnosti,",
+            "kao i gde je to primenljivo:",
+            "(v) informacije o uslovima upotrebe;",
+            "(g) merni kapacitet;",
+            "(d) merni opseg;",
+            "(đ) identifikaciona oznaka;",
+            "(e) broj sertifikata o pregledu tipa ili sertifikata o pregledu projekta;",
+            "(ž) informacije o tome da li su dodatni uređaji koji daju metrološke rezultate usklađeni sa odredbama ovog pravilnika o zakonskoj metrološkoj kontroli.",
+            "9.2. Ako je merilo previše malo ili je suviše osetljive izrade da bi moglo da nosi relevantne informacije, njegovo pakovanje, ako ga ima, i prateća dokumenta koja se zahtevaju odredbama ovog pravilnika moraju biti označeni na odgovarajući način.",
+            "9.3. Merilo mora da prate informacije o njegovom radu, osim u slučaju da to nije neophodno zbog jednostavnosti merila. Informacije moraju biti lako razumljive i, kada je značajno, moraju obuhvatati:",
+            "(a) naznačene radne uslove;",
+            "(b) klase mehaničkog i elektromagnetskog okruženja;",
+            "(v) gornju i donju graničnu vrednost temperature, da li je kondenzacija moguća ili ne, da li se koristi na otvorenom ili u zatvorenom prostoru;",
+            "(g) uputstva za montažu, održavanje, popravke, dozvoljena podešavanja;",
+            "(d) uputstva za pravilan rad i sve posebne uslove upotrebe;",
+            "(đ) uslove za kompatibilnost sa interfejsima, podsklopovima ili merilima.",
+            "9.4. Grupe identičnih merila koja se koriste na istom mestu ili merila koja koriste javna komunalna preduzeća ne moraju da imaju individualna uputstva za upotrebu.",
+            "9.5. Osim ako nije drugačije navedeno u prilogu za određeno merilo, vrednost podeljka za merenu vrednost mora biti u obliku 1 × 10n, 2 × 10nili 5 × 10n, gde je n bilo koji ceo broj ili nula. Merna jedinica ili njena oznaka prikazuju se pored numeričke vrednosti.",
+            "9.6. Materijalizovana mera označava se nazivnom vrednošću ili skalom, a zatim sledi korišćena merna jedinica.",
+            "9.7. Korišćene merne jedinice i njihove oznake moraju biti u skladu sa propisom kojim se uređuju određene zakonske merne jedinice, njihovi nazivi, oznake, kao i način njihove upotrebe.",
+            "9.8. Sve oznake i natpisi obavezni na osnovu svih zahteva moraju biti jasni, neizbrisivi, nedvosmisleni i neprenosivi.",
+            "10. Pokazivanje rezultata",
+            "10.1. Pokazivanje rezultata mora biti na displeju ili u štampanom obliku.",
+            "10.2. Pokazivanje svih rezultata mora biti jasno i nedvosmisleno i uz njega moraju postojati oznake i natpisi koji su neophodni da bi se korisnik obavestio o značenju rezultata. Pod normalnim uslovima upotrebe mora biti omogućeno lako očitavanje prikazanog rezultata. Mogu se prikazati i dodatna pokazivanja, pod uslovom da se ona ne mogu pomešati sa metrološki kontrolisanim pokazivanjima.",
+            "10.3. U slučaju pokazivanja u štampanom obliku, odštampani primerak ili zapis moraju biti lako čitljivi i neizbrisivi.",
+            "10.4. Merilo za transakcije direktne prodaje mora biti projektovano tako da se, kada je montirano kako je predviđeno, rezultat merenja prikazuje obema stranama u transakciji. Kada je to bitno u direktnoj prodaji, na svakom isečku koji potrošaču daje pomoćni uređaj koji nije usaglašen sa odgovarajućim zahtevima ovog pravilnika moraju biti navedena odgovarajuća ograničenja.",
+            "10.5. Bez obzira na to da li se merilo predviđeno za merenja koja vrše javna komunalna preduzeća može daljinski očitavati, ono u svakom slučaju mora biti opremljeno metrološki kontrolisanim displejem koji je potrošaču pristupačan bez upotrebe alata. Očitavanje tog displeja je rezultat merenja koji služi kao osnova za iznos za naplatu.",
+            "11. Dalja obrada podataka radi zaključenja trgovačke transakcije",
+            "11.1. Merilo koje nije namenjeno za merenja koja vrše javna komunalna preduzeća trajno beleži rezultat merenja, uz informacije koje su potrebne da se identifikuje konkretna transakcija, kada:",
+            "(a) merenje nije ponovljivo; i",
+            "(b) je merilo uobičajeno predviđeno za upotrebu u odsustvu jedne od strana u trgovini.",
+            "11.2. Pored toga, u vreme završetka merenja, trajni dokaz rezultata merenja i informacije kojima se identifikuje transakcija moraju na zahtev biti dostupni.",
+            "12. Vrednovanje usaglašenosti",
+            "Merilo mora biti projektovano tako da omogućava neometano vrednovanje njegove usaglašenosti sa odgovarajućim zahtevima ovog pravilnika."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik_o_merilima.html#clan_28"
+    }
+]

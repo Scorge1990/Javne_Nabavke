@@ -1,0 +1,111 @@
+[
+    {
+        "title": "Član 1",
+        "texts": [
+            "Ovim uputstvom uređuju se uslovi koje moraju da ispunjavaju informacioni sistem i elektronska dokumenta sa kojima se postupa u informacionom sistemu.",
+            "Značenje pojedinih izraza"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uputstvo-elektronskom-kancelarijskom-poslovanju.html#clan_1"
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Pojedini izrazi upotrebljeni u ovom uputstvu imaju sledeće značenje:",
+            "1) korisnik informacionog sistema je svako lice koje vrši uvid, preuzimanje, unos ili izmenu podataka u informacionom sistemu, odnosno putem informacionog sistema vrši radnje koje obuhvata kancelarijsko poslovanje;",
+            "2) elektronski spisak akata u predmetu je spisak akata u predmetu u okviru omota spisa koji se u informacionom sistemu vodi u elektronskom obliku;",
+            "3) datoteka je skup podataka u elektronskoj formi koja u računarskim operativnim sistemima predstavlja osnovnu jedinicu u organizaciji podataka na uređajima za skladištenje podataka;",
+            "4) format datoteke je unutrašnja forma prikaza elektronskog dokumenta koji je zapisan u okviru datoteke.",
+            "Primena odredaba o vođenju evidencija putem automatske obrade podataka"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uputstvo-elektronskom-kancelarijskom-poslovanju.html#clan_2"
+    },
+    {
+        "title": "Član 3",
+        "texts": [
+            "Na vođenje evidencija u informacionom sistemu primenjuju se odredbe Uputstva o kancelarijskom poslovanju organa državne uprave (\"Službeni glasnik RS\", br. 10/93 i 14/93) koje se odnose na vođenje evidencija putem automatske obrade podataka, osim ukoliko ovim uputstvom nije drugačije uređeno.",
+            "Dostupnost informacionog sistema obrađivačima"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uputstvo-elektronskom-kancelarijskom-poslovanju.html#clan_3"
+    },
+    {
+        "title": "Član 4",
+        "texts": [
+            "Informacioni sistem mora pružiti takve tehničke mogućnosti da svako lice kome je predmet dat u rad može korišćenjem odgovarajuće računarske opreme pristupiti elektronskim dokumentima iz predmeta, pridružiti predmetu akt koji je izrađen ili lično primljen u elektronskom obliku i vršiti druge radnje nad predmetom koje obuhvata kancelarijsko poslovanje, a koje je potrebno obaviti prilikom rada na predmetu.",
+            "Identitet i ovlašćenja korisnika"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uputstvo-elektronskom-kancelarijskom-poslovanju.html#clan_4"
+    },
+    {
+        "title": "Član 5",
+        "texts": [
+            "Informacioni sistem vrši proveru identiteta korisnika na bazi lozinke ili elektronskog sertifikata.",
+            "Rukovodilac organa u kome se obrađuju predmeti ovlašćuje jedno ili više lica da u ime tog organa u informacioni sistem unosi podatke o ovlašćenjima korisnika, na osnovu čega informacioni sistem korisniku može tehnički ograničiti pristup određenim podacima, odnosno funkcionalnostima.",
+            "Akta u predmetu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uputstvo-elektronskom-kancelarijskom-poslovanju.html#clan_5"
+    },
+    {
+        "title": "Član 6",
+        "texts": [
+            "Za svaki akt u elektronskom spisku akata u predmetu, u slučaju kada se sadržaj akta čuva u elektronskom obliku u informacionom sistemu, u elektronskom spisku akata u predmetu upisana je i lista datoteka koje čine sadržaj akta u elektronskom obliku.",
+            "Prilikom štampanja omota spisa, kod onih akata na spisku akata čiji se sadržaj čuva u elektronskom obliku u informacionom sistemu, štampaju se i odgovarajući nazivi datoteka.",
+            "Kada se akt čiji se sadržaj čuva u elektronskom obliku u informacionom sistemu ekspeduje elektronskom poštom, sadržaj akta se priključuje poruci elektronske pošte u obliku ZIP paketa (PKWARE ZIP format - \"ZIPFile Format Specification\"), pri čemu nazivi datoteka u ZIP paketu dobijaju prefiks od tri cifre iza kojih se nalazi crtica, tako da te tri cifre predstavljaju redni broj datoteke na listi.",
+            "Sadržaj akta koji se nalazi na elektronskom spisku akata u predmetu ne može se izmeniti, kao ni sadržaj zapisa u spisku akata.",
+            "Ukoliko se akt isključuje sa elektronskog spiska akata u predmetu ili se zamenjuje drugim sadržajem, isključen, odnosno zamenjen sadržaj akta nastavlja da se čuva u informacionom sistemu i dostupan je prilikom pregleda sadržaja predmeta putem informacionog sistema.",
+            "Ukoliko informacioni sistem omogućava čuvanje radnih elektronskih dokumenata koja nisu uvrštena u elektronski spisak akata u predmetu, takva elektronska dokumenta ne smatraju se delom spisa predmeta.",
+            "Elektronsko potpisivanje"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uputstvo-elektronskom-kancelarijskom-poslovanju.html#clan_6"
+    },
+    {
+        "title": "Član 7",
+        "texts": [
+            "Prilikom kvalifikovanog elektronskog potpisivanja, elektronskom dokumentu se pridružuje i vremenski žig.",
+            "Ukoliko zbog tehničke nemogućnosti, prilikom elektronskog potpisivanja elektronskom dokumentu koji se nalazi u informacionom sistemu nije pridružen vremenski žig, informacioni sistem će mu naknadno pridružiti vremenski žig, čim se budu stekli tehnički uslovi za to.",
+            "Pre roka isticanja elektronskog sertifikata vremenskog žiga pridruženog dokumentu koji se čuva u informacionom sistemu, informacioni sistem automatski vrši dodatno pridruživanje vremenskog žiga, da isticanjem elektronskog sertifikata ne bi prestala mogućnost uspešne provere elektronskog potpisa.",
+            "Prilikom pridruživanja vremenskog žiga iz st. 2, 3. i 4. ovog člana, informacioni sistem pridružuje i informacije o statusu opoziva elektronskog sertifikata na bazi koga je kreiran elektronski potpis na dokumentu kome se pridružuje vremenski žig.",
+            "Pridruživanje vremenskog žiga elektronski potpisanom dokumentu vrši se u skladu sa formatom elektronskog potpisa koji je korišćen za elektronsko potpisivanje dokumenta.",
+            "Elektronska arhiva"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uputstvo-elektronskom-kancelarijskom-poslovanju.html#clan_7"
+    },
+    {
+        "title": "Član 8",
+        "texts": [
+            "Tehnički postupci od čijeg pravilnog sprovođenja zavisi pouzdan rad elektronske arhive, kao i zaduženja lica u vezi tih postupaka moraju biti određeni aktima organa u čijem sastavu se nalazi pisarnica.",
+            "Oprema za skladištenje podataka na kojoj se fizički nalaze upisana elektronska dokumenta i drugi podaci koji se čuvaju u elektronskoj arhivi mora se nalaziti u prostoriji u kojoj je zaštićena od vlage i fizičkog oštećenja i u kojoj su obezbeđeni uslovi temperature vazduha i drugi uslovi okruženja u granicama određenim tehničkom specifikacijom proizvođača opreme.",
+            "Ulazak u prostoriju iz stava 1. ovog člana mora da bude kontrolisan na način da se onemogući neovlašćen pristup opremi za skladištenje podataka.",
+            "Oprema za skladištenje podataka mora da obezbedi redudantno zapisivanje podataka tako da otkaz jednog od uređaja za skladištenje podataka ne prouzrokuje gubitak podataka.",
+            "Redovno se formiraju rezervne kopije svih podataka iz elektronske arhive na za to predviđenim medijima, tako da u svakom trenutku postoji skup medija za rezervne kopije sa kojih se može izvršiti oporavak elektronske arhive sa stanjem koje nije starije od 36 sati.",
+            "Format datoteke"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uputstvo-elektronskom-kancelarijskom-poslovanju.html#clan_8"
+    },
+    {
+        "title": "Član 9",
+        "texts": [
+            "Za datoteke koje čine sadržaj akta u elektronskom obliku koristi se format datoteke ISO 19005 -Electronic document file format for long-term preservation(u daljem tekstu: PDF/A).",
+            "Za priloge koji predstavljaju nacrte, predloge ili radne verzije akata, odnosno sadrže tekst za koji se može pretpostaviti da će biti korišćen za izradu drugih akata, pored formata datoteke iz stava 1. ovog člana može se koristiti i jedan od sledećih formata datoteka:",
+            "1) ISO 26300 -Open Document Format for Office Applications (OpenDocument)v1.0 (u daljem tekstu: ODF);",
+            "2) ISO 29500 -Office Open XML File Formats(u daljem tekstu: OOXML).",
+            "Do 31. decembra 2012. godine, pod uslovima iz stava 2, mogu se koristiti i formati datoteka koje koristi softverski proizvodMicrosoft Office2003.",
+            "Izuzetno, u slučajevima kada postoje tehnički razlozi za korišćenje nekog drugog, specijalizovanog formata datoteka, a strane koje razmenjuju elektronska dokumenta su saglasne i imaju tehničku mogućnost da koriste takav format, koristi se specijalizovan format datoteka.",
+            "Za elektronski potpisan dokument koristi se jedan od sledećih formata elektronskog potpisa:",
+            "1) PAdES (PDFAdvanced Electronic Signatures) format prema ETSI TS 101 778 standardu, za elektronska dokumenta zapisana u formatu datoteke PDF/A;",
+            "2) XAdES (XMLAdvanced Electronic Signatures) format prema ETSI TS 101 903 standardu, za specijalizovane formate datoteka iz stava 4. ovog člana;",
+            "3) CAdES (CMSAdvanced Electronic Signatures) format prema ETSI TS 101 733 standardu, za specijalizovane formate datoteka iz stava 4. ovog člana.",
+            "Stupanje na snagu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uputstvo-elektronskom-kancelarijskom-poslovanju.html#clan_9"
+    },
+    {
+        "title": "Član 10",
+        "texts": [
+            "Ovo uputstvo stupa na snagu osmog dana od dana objavljivanja u \"Službenom glasniku Republike Srbije\".",
+            "Ako ne probate više različitih izbora nikada nećete biti sigurni da li imate najbolju opciju u svojim rukama. Mi Vam tu mogućnost nudimo besplatno! Popunite formular i dobićete priliku da bez ikakvih troškova saznate da li je Paragraf dobar izbor za Vas.",
+            "Ukoliko želite da Vas obaveštavamo o novostima i aktivnostima kompanije Paragraf prijavite se na našu mailing listu. Vaš e-mail neće biti upotrebljen u druge svrhe.",
+            "Pratite Paragraf na Viberu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uputstvo-elektronskom-kancelarijskom-poslovanju.html#clan_10"
+    }
+]

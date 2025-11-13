@@ -1,0 +1,132 @@
+[
+    {
+        "title": "Član 1",
+        "texts": [
+            "Ovom uredbom uređuju se uslovi, način i postupak ostvarivanja elektronske narodne inicijative.",
+            "Način ostvarivanja elektronske narodne inicijative"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-elektronskoj-narodnoj-inicijativi.html#clan_1"
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Elektronska narodna inicijativa se ostvaruje kao usluga na Portalu eUprava na adresi: https://euprava.gov.rs (u daljem tekstu: Portal).",
+            "Prikaz na Portalu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-elektronskoj-narodnoj-inicijativi.html#clan_2"
+    },
+    {
+        "title": "Član 3",
+        "texts": [
+            "Portal prikazuje podnete predloge za ostvarivanje narodne inicijative za koje se prikupljaju elektronski dati potpisi (aktivni predlozi) i predloge po kojima je okončan postupak prikupljanja elektronski datih potpisa (neaktivni predlozi).",
+            "Uz svaki predlog iz stava 1. ovog člana, na Portalu se prikazuju imena i prezimena članova inicijativnog odbora koji je podneo predlog.",
+            "Uslovi za prikupljanje elektronski datih potpisa"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-elektronskoj-narodnoj-inicijativi.html#clan_3"
+    },
+    {
+        "title": "Član 4",
+        "texts": [
+            "Radi prikupljanja elektronski datih potpisa podrške narodnoj inicijativi (u daljem tekstu: potpisi), inicijativni odbor dostavlja zahtev za prikupljanje potpisa skupštini kojoj je podnet predlog za ostvarivanje narodne inicijative (u daljem tekstu: skupština), odnosno licu koje je u skupštini ovlašćeno za administraciju na Portalu (u daljem tekstu: ovlašćeno lice nadležne skupštine).",
+            "Uz zahtev za prikupljanje potpisa dostavlja se verifikovani predlog za ostvarivanje narodne inicijative, obaveštenje predsednika skupštine o verifikaciji predloga, odnosno o odluci skupštine o verifikaciji predloga.",
+            "U zahtevu za prikupljanje potpisa određuje se najmanje jedno lice ovlašćeno u ime inicijativnog odbora, za postupanje u svojstvu korisnika na Portalu (u daljem tekstu: predstavnik inicijativnog odbora), za koje se navode sledeći lični podaci: ime, prezime, prebivalište i adresa.",
+            "Identitet predstavnika inicijativnog odbora koji se prijavljuje na Portal utvrđuje se na osnovu šeme elektronske identifikacije visokog nivoa pouzdanosti.",
+            "Nakon utvrđivanja ispunjenosti uslova, ovlašćeno lice nadležne skupštine, bez odlaganja, omogućava pokretanje postupka prikupljanja potpisa na Portalu.",
+            "Početak prikupljanja potpisa"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-elektronskoj-narodnoj-inicijativi.html#clan_4"
+    },
+    {
+        "title": "Član 5",
+        "texts": [
+            "U slučaju da inicijativni odbor podnosi zahtev za prikupljanje potpisa kada predsednik skupštine nije postupio u zakonom propisanom roku za verifikaciju predloga, odnosno ako je skupština propustila da odluči o verifikaciji predloga, inicijativni odbor u zahtevu za prikupljanje potpisa navodi datum početka prikupljanja potpisa koji se računa od isteka roka za postupanje predsednika skupštine, odnosno od propuštanja skupštine da odluči o predlogu.",
+            "Ako predsednik skupštine nije postupio u zakonom propisanom roku za verifikaciju predloga, inicijativni odbor uz zahtev iz stava 1. ovog člana dostavlja potvrdu o prijemu predloga izdatu prilikom evidentiranja predloga u evidenciji skupštine o primljenim predlozima za ostvarivanje narodne inicijative.",
+            "Ako skupština nije odlučila o verifikaciji predloga u skladu sa zakonom, inicijativni odbor u zahtevu iz stava 1. ovog člana navodi datum završetka sednice skupštine na kojoj je trebalo da bude odlučeno o verifikaciji predloga.",
+            "Nakon utvrđenog datuma početka prikupljanja potpisa, ovlašćeno lice nadležne skupštine bez odlaganja omogućava pokretanje postupka prikupljanja potpisa na Portalu.",
+            "Način izjašnjavanja građana"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-elektronskoj-narodnoj-inicijativi.html#clan_5"
+    },
+    {
+        "title": "Član 6",
+        "texts": [
+            "Građani se izjašnjavaju o podršci određenoj narodnoj inicijativi elektronskim putem na Portalu.",
+            "Identitet građana koji se prijavljuje na Portal radi pružanja podrške elektronskoj narodnoj inicijativi utvrđuje se na osnovu šeme elektronske identifikacije visokog novoa pouzdanosti.",
+            "Rok za prikupljanje potpisa"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-elektronskoj-narodnoj-inicijativi.html#clan_6"
+    },
+    {
+        "title": "Član 7",
+        "texts": [
+            "Potpisi građana na Portalu prikupljaju se do isteka 90 dana od datuma kada je inicijativni odbor primio obaveštenje predsednika skupštine o verifikaciji predloga za ostvarivanje narodne inicijative.",
+            "U slučaju iz člana 5. stav 1. ove uredbe, potpisi se prikupljaju do isteka 90 dana od datuma koji je utvrđen za početak prikupljanja potpisa.",
+            "Na Portalu se označava tačan datum isteka roka za prikupljanje potpisa.",
+            "Evidencije potpisa"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-elektronskoj-narodnoj-inicijativi.html#clan_7"
+    },
+    {
+        "title": "Član 8",
+        "texts": [
+            "Potpisi građana se evidentiraju prema redosledu potpisavanja uz navođenje podataka utvrđenih zakonom za listu potpisnika narodne inicijative.",
+            "Potpisi građana iz stava 1. ovog člana evidentiraju se u obrascu u MS Excel dokumentu, u tabeli uređenoj u tekstualnom formatu, UTF-8 kodnom rasporedu i na ćiriličkom pismu.",
+            "Na Portalu je građanima omogućen način provere potpisa.",
+            "Preuzimanje podataka o potpisima"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-elektronskoj-narodnoj-inicijativi.html#clan_8"
+    },
+    {
+        "title": "Član 9",
+        "texts": [
+            "Predstavnik inicijativnog odbora ima ovlašćenje za preuzimanje podataka o potpisima do isteka roka za prikupljanje potpisa, kao i u roku od sedam dana od dana isteka roka za prikupljanje potpisa.",
+            "Prekid postupka prikupljanja potpisa"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-elektronskoj-narodnoj-inicijativi.html#clan_9"
+    },
+    {
+        "title": "Član 10",
+        "texts": [
+            "Na osnovu posebnog akta inicijativnog odbora, predstavnik inicijativnog odbora može prekinuti postupak prikupljanja potpisa u bilo kom trenutku pre isteka roka od 90 dana čime se obustavlja prikupljanje potpisa i podneti predlog raspoređuje se na listu neaktivnih predloga.",
+            "U slučaju iz stava 1. ovog člana, na Portalu se prikazuje obaveštenje da je prikupljanje potpisa prekinuto od strane predstavnika inicijativnog odbora sa navođenjem datuma prekida.",
+            "Nastavak postupka prikupljanja potpisa"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-elektronskoj-narodnoj-inicijativi.html#clan_10"
+    },
+    {
+        "title": "Član 11",
+        "texts": [
+            "Ako je aktom nadležnog odbora ili nadležnog radnog tela skupštine utvrđen dodatni rok za prikupljanje potpisa radi otklanjanja nedostatka predloga, predstavnik inicijativnog odbora može podneti ovlašćenom licu nadležne skupštine zahtev za nastavak postupka prikupljanja potpisa do isteka roka utvrđenog tim aktom.",
+            "Uz zahtev iz stava 1. ovog člana predstavnik inicijativnog odbora dostavlja i akt nadležnog odbora ili nadležnog radnog tela skupštine kojim je utvrđen dodatni rok za prikupljanje potpisa.",
+            "Ukoliko predstavnik inicijativnog odbora podnese zahtev za nastavak postupka za prikupljanje potpisa, neaktivni predlog se vraća na listu aktivnih predloga.",
+            "Obustavljanje postupka prikupljanja potpisa"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-elektronskoj-narodnoj-inicijativi.html#clan_11"
+    },
+    {
+        "title": "Član 12",
+        "texts": [
+            "Po isteku roka za prikupljanje potpisa, na Portalu se obustavlja prikupljanje potpisa građana i podneti predlog raspoređuje se na listu neaktivnih predloga.",
+            "Sačinjavanje liste potpisnika narodne inicijative u elektronskom formatu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-elektronskoj-narodnoj-inicijativi.html#clan_12"
+    },
+    {
+        "title": "Član 13",
+        "texts": [
+            "Listu potpisnika narodne inicijative u elektronskom formatu sa podacima građana koji su je podržali overenim, odnosno elektronski datim potpisima, inicijativni odbor podnosi skupštini objedinjeno, na obrascu iz člana 8. stav 2. ove uredbe, koji se preuzima sa Portala.",
+            "Završna odredba"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-elektronskoj-narodnoj-inicijativi.html#clan_13"
+    },
+    {
+        "title": "Član 14",
+        "texts": [
+            "Ova uredba stupa na snagu osmog dana od dana objavljivanja u \"Službenom glasniku Republike Srbije\" a primenjuje se od 1. januara 2024. godine, izuzev odredbe člana 13. ove uredbe koja se primenjuje od dana stupanja na snagu ove uredbe.",
+            "Ako ne probate više različitih izbora nikada nećete biti sigurni da li imate najbolju opciju u svojim rukama. Mi Vam tu mogućnost nudimo besplatno! Popunite formular i dobićete priliku da bez ikakvih troškova saznate da li je Paragraf dobar izbor za Vas.",
+            "Ukoliko želite da Vas obaveštavamo o novostima i aktivnostima kompanije Paragraf prijavite se na našu mailing listu. Vaš e-mail neće biti upotrebljen u druge svrhe.",
+            "Pratite Paragraf na Viberu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/uredba-o-elektronskoj-narodnoj-inicijativi.html#clan_14"
+    }
+]

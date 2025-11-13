@@ -1,0 +1,992 @@
+[
+    {
+        "title": "Član 1",
+        "texts": [
+            "Ovim zakonom uređuju se uslovi za stavljanje na tržište i činjenje dostupnim\r\nna tržištu građevinskih proizvoda, sačinjavanje deklaracije o performansama i stavljanje\r\nznaka usaglašenosti na građevinske proizvode, obaveze privrednih subjekata, tehnički propisi\r\nza građevinske proizvode i srpske tehničke specifikacije, pojednostavljeni postupci, tela\r\nza tehničko ocenjivanje, tela za ocenjivanje i verifikaciju stalnosti performansi građevinskih\r\nproizvoda, važenje dokumenata o sprovedenom ocenjivanju i verifikaciji stalnosti performansi\r\ngrađevinskih proizvoda i znakova usaglašenosti izdatih u inostranstvu i druga pitanja od\r\nznačaja za oblast građevinskih proizvoda.",
+            "Pojmovi"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_1"
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Pojedini pojmovi koji se upotrebljavaju u ovom zakonu imaju sledeće značenje:",
+            "1) familija građevinskih proizvoda je grupa srodnih proizvoda koji imaju\r\nsličnu predviđenu upotrebu;",
+            "2) sklop je građevinski proizvod koji je jedan proizvođač stavio na tržište\r\nkao komplet od najmanje dva pojedinačna dela koje treba sastaviti kako bi bio ugrađen u objekat;",
+            "3) bitne karakteristike građevinskog proizvoda su one karakteristike građevinskog\r\nproizvoda koje se odnose na osnovne zahteve za objekte;",
+            "4) performanse građevinskog proizvoda su pokazatelji kojima se iskazuju\r\nodgovarajuće bitne karakteristike građevinskog proizvoda (iskazane nivoom, klasom ili opisno);",
+            "5) nivo je rezultat ocenjivanja performanse građevinskog proizvoda u vezi\r\nsa njegovim bitnim karakteristikama iskazan brojčanom vrednošću;",
+            "6) klasa je opseg nivoa performanse građevinskog proizvoda, od minimalne\r\ndo maksimalne vrednosti;",
+            "7) granični nivo je minimalna vrednost performanse građevinskog proizvoda\r\nkoja mora da se postigne ili maksimalna vrednost koja ne sme da se prelazi;",
+            "8) tip proizvoda je skup reprezentativnih nivoa ili klasa performansi građevinskog\r\nproizvoda koji se odnosi na njegove bitne karakteristike, a koji je proizveden korišćenjem\r\ndate kombinacije sirovina ili drugih elemenata u određenom proizvodnom procesu;",
+            "9) tehnička specifikacija je harmonizovana tehnička specifikacija i srpska\r\ntehnička specifikacija;",
+            "10) harmonizovana tehnička specifikacija je harmonizovani standard i evropski\r\ndokument za ocenjivanje;",
+            "11) srpska tehnička specifikacija je srpski standard sa spiska srpskih\r\nstandarda kojima su preuzeti harmonizovani standardi koji se primenjuju u skladu sa ovim\r\nzakonom, srpski standard na koji se poziva tehnički propis i srpski dokument za ocenjivanje;",
+            "12) harmonizovani standard je evropski standard koji je donet na osnovu\r\nzahteva Evropske komisije za primenu u harmonizovanom zakonodavstvu Evropske unije;",
+            "13) srpski standard je standard koji je donelo nacionalno telo za standardizaciju\r\nu Republici Srbiji;",
+            "14) dokument za ocenjivanje je srpski dokument za ocenjivanje i evropski\r\ndokument za ocenjivanje;",
+            "15) Evropski dokument za ocenjivanje je dokument koji je donela evropska\r\norganizacija tela za tehničko ocenjivanje za potrebe izdavanja evropskih tehničkih ocena;",
+            "16) srpski dokument za ocenjivanje je dokument koji je izradilo telo za\r\ntehničko ocenjivanje za potrebe izdavanja srpskih tehničkih ocena;",
+            "17) Evropska tehnička ocena je dokumentovana ocena performansi građevinskog\r\nproizvoda koja se odnosi na njegove bitne karakteristike izdata u skladu sa odgovarajućim\r\nevropskim dokumentom za ocenjivanje;",
+            "18) srpska tehnička ocena je dokumentovana ocena performansi građevinskog\r\nproizvoda koja se odnosi na njegove bitne karakteristike izdata u skladu sa odgovarajućim\r\nsrpskim dokumentom za ocenjivanje;",
+            "19) predviđena upotreba je upotreba građevinskog proizvoda na način utvrđen\r\nu odgovarajućoj tehničkoj specifikaciji ili tehničkom propisu;",
+            "20) specifična tehnička dokumentacija je dokumentacija kojom se dokazuje\r\nda su metode u okviru odgovarajućeg sistema ocenjivanja i verifikacije stalnosti performansi\r\nzamenjene drugim metodama, pod uslovom da su rezultati dobijeni tim drugim metodama jednaki\r\nrezultatima dobijenim metodama ispitivanja iz odgovarajućeg srpskog standarda kojim je preuzet\r\nharmonizovani standard koji se primenjuje u skladu sa ovim zakonom;",
+            "21) činjenje dostupnim na tržištu je svaka isporuka građevinskog proizvoda\r\nradi distribucije ili upotrebe, sa ili bez naknade;",
+            "22) stavljanje na tržište je prvo činjenje dostupnim građevinskog proizvoda\r\nna tržištu Republike Srbije;",
+            "23) privredni subjekt je proizvođač, zastupnik, uvoznik ili distributer\r\ngrađevinskog proizvoda;",
+            "24) proizvođač je pravno lice ili preduzetnik koje proizvodi građevinski\r\nproizvod ili za koga se taj građevinski proizvod projektuje ili proizvodi i trguje njime\r\npod svojim imenom ili žigom;",
+            "25) distributer je pravno lice ili preduzetnik registrovan u Republici\r\nSrbiji, koje je uključeno u lanac isporuke i koje u okviru obavljanja svoje delatnosti čini\r\ngrađevinski proizvod dostupnim na tržištu, a nije proizvođač ili uvoznik;",
+            "26) uvoznik je pravno lice ili preduzetnik registrovan u Republici Srbiji,\r\nkoje stavlja na tržište građevinski proizvod iz drugih zemalja;",
+            "27) zastupnik je pravno lice ili preduzetnik registrovan u Republici Srbiji,\r\nkoje je proizvođač ovlastio da za njegov račun preduzima radnje iz ovlašćenja, a u vezi sa\r\nstavljanjem građevinskog proizvoda na tržište Republike Srbije;",
+            "28) povlačenje je svaka mera čiji je cilj da spreči da građevinski proizvod\r\nu lancu isporuke bude učinjen dostupnim na tržištu;",
+            "29) opoziv je svaka mera čiji je cilj da postigne povraćaj građevinskog\r\nproizvoda koji je već učinjen dostupnim krajnjem korisniku;",
+            "30) fabrička kontrola proizvodnje je dokumentovana, stalna i interna kontrola\r\nproizvodnje u fabrici u skladu sa odgovarajućom tehničkom specifikacijom ili tehničkim propisom;",
+            "31) mikro pravno lice ima značenje saglasno posebnim propisima kojima je\r\nuređeno razvrstavanje pravnih subjekata;",
+            "32) životni ciklus su uzastopne i međusobno povezane faze veka trajanja\r\ngrađevinskog proizvoda, od nabavke sirovina ili izrade od prirodnih resursa do trajnog odlaganja;",
+            "33) Elektronska kontakt tačka za građevinske proizvode je državni elektronski\r\nservis putem kojeg se zainteresovanim licima besplatno pružaju informacije o odredbama propisa\r\no građevinskim proizvodima na teritoriji Republike Srbije;",
+            "34) telo za tehničko ocenjivanje je pravno lice koje sprovodi ocenjivanje\r\nperformansi i izdavanje tehničke ocene za oblast građevinskih proizvoda za koju je imenovano;",
+            "35) sistem ocenjivanja i verifikacije stalnosti performansi je postupak\r\nkoji se sprovodi s ciljem obezbeđivanja usaglašenosti građevinskog proizvoda sa performansama\r\nbitnih karakteristika navedenih u deklaraciji o performansama koje su utvrđene u odgovarajućoj\r\ntehničkoj specifikaciji, tehničkom propisu ili srpskoj tehničkoj oceni;",
+            "36) dokumenti o sprovedenom ocenjivanju i verifikaciji stalnosti performansi\r\nsu, zavisno od primenjenog sistema ocenjivanja i verifikacije stalnosti performansi: deklaracija\r\no performansama, sertifikat o stalnosti performansi građevinskog proizvoda, sertifikat o\r\nusaglašenosti fabričke kontrole proizvodnje i izveštaj o ispitivanju, kojima se potvrđuje\r\nstalnost i/ili verifikuju performanse građevinskog proizvoda u vezi sa njegovim bitnim karakteristikama\r\nutvrđenim u odgovarajućoj tehničkoj specifikaciji ili tehničkom propisu;",
+            "37) osnovni zahtevi za objekte su zahtevi koje objekat treba da zadovolji\r\ntokom ekonomski prihvatljivog veka upotrebe;",
+            "38) imenovano telo za ocenjivanje i verifikaciju stalnosti performansi\r\nje pravno lice koje ima odobrenje ministra nadležnog za poslove građevinarstva za obavljanje\r\nzadataka nezavisne treće strane u postupku ocenjivanja i verifikacije stalnosti performansi\r\ngrađevinskog proizvoda u skladu sa srpskom tehničkom specifikacijom ili tehničkim propisom\r\ni koje je upisano u odgovarajući registar tih tela;",
+            "39) prijavljeno telo je imenovano telo za ocenjivanje i verifikaciju stalnosti\r\nperformansi koje je prijavljeno Evropskoj komisiji i državama članicama Evropske unije kao\r\nnezavisna treća strana za obavljanje poslova ocenjivanja i verifikacije stalnosti performansi\r\ngrađevinskih proizvoda u skladu sa harmonizovanom tehničkom specifikacijom i upisano u odgovarajući\r\nregistar tih tela koji vodi Evropska komisija (\"NANDO baza\");",
+            "40) građevinski proizvod je svaki proizvod ili sklop koji je proizveden\r\ni stavljen na tržište radi stalne ugradnje u objekte ili njihove delove i čije performanse\r\nimaju uticaj na performanse objekata u pogledu osnovnih zahteva za objekte.",
+            "Drugi pojmovi koji se upotrebljavaju u ovom zakonu, a nisu definisani u\r\nstavu 1. ovog člana, imaju značenje utvrđeno propisima kojima se uređuje građenje, tehnički\r\nzahtevi za proizvode i ocenjivanje usaglašenosti, opšta bezbednost proizvoda, upravljanje\r\nhemikalijama, tržišni nadzor, akreditacija i standardizacija.",
+            "Primena zakona"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_2"
+    },
+    {
+        "title": "Član 3",
+        "texts": [
+            "Ovaj zakon primenjuje se na sve građevinske proizvode koji su razvrstani\r\npo sledećim oblastima građevinskih proizvoda:",
+            "1) prefabrikovani obični/laki/autoklavirani ćelijasti betonski proizvodi;",
+            "2) vrata, prozori, prozorski kapci, ulazna vrata i srodni proizvodi;",
+            "3) membrane, uključujući one nanete u tečnom stanju i kompleti (za kontrolu\r\nvode i/ili vodene pare);",
+            "4) proizvodi za toplotnu izolaciju i izolacioni kompozitni kompleti/sistemi;",
+            "5) ležišta za konstrukcije i moždanici za konstrukcijske spojeve;",
+            "6) dimnjaci, dimnjački kanali i specifični proizvodi;",
+            "7) proizvodi od gipsa;",
+            "8) geotekstil, geomembrane i srodni proizvodi;",
+            "9) zid-zavese/oblaganje zidova/zaptivene staklene konstrukcije;",
+            "10) stabilna oprema za gašenje požara (proizvodi za detekciju požara/požarni\r\nalarm, instalacije za gašenje požara i proizvodi za kontrolu požara i dima i za prigušivanje\r\neksplozije);",
+            "11) sanitarna oprema;",
+            "12) saobraćajna signalizacija: oprema puta;",
+            "13) proizvodi/elementi i pomoćna oprema od konstrukcijskog drveta;",
+            "14) ploče i elementi na bazi drveta;",
+            "15) cement, građevinski kreč i druga hidraulična veziva;",
+            "16) čelik za armiranje i čelik za prednaprezanje betona (i pomoćna oprema),\r\noprema za naknadno prednaprezanje;",
+            "17) proizvodi za zidanje i srodni proizvodi, elementi za zidanje, malteri\r\ni pomoćna sredstva;",
+            "18) građevinski proizvodi za sisteme za otpadne vode;",
+            "19) podne obloge;",
+            "20) konstrukcioni proizvodi od metala i pomoćna oprema;",
+            "21) proizvodi za unutrašnju i spoljašnju završnu obradu zida i plafona\r\ni sklopovi unutrašnjih pregrada;",
+            "22) krovni pokrivači, svetlosne kupole, krovni prozori i pomoćni proizvodi\r\ni krovni sklopovi;",
+            "23) proizvodi za izgradnju puteva;",
+            "24) agregati;",
+            "25) građevinski lepkovi;",
+            "26) proizvodi srodni sa betonom, malterom i injekcionom smešom;",
+            "27) uređaji za grejanje prostora;",
+            "28) cevi, cisterne i pomoćna oprema koja nije u kontaktu sa vodom namenjenom\r\nza ljudsku upotrebu;",
+            "29) građevinski proizvodi u kontaktu sa vodom namenjeni za ljudsku upotrebu;",
+            "30) proizvodi od ravnog stakla, profilisanog stakla i staklenih blokova;",
+            "31) energetski, komandni i komunikacioni kablovi;",
+            "32) sredstva za zaptivanje spojnica;",
+            "33) proizvodi za pričvršćivanje;",
+            "34) sklopovi i elementi za izgradnju i prefabrikovani elementi;",
+            "35) proizvodi za zaustavljanje požara, sprečavanje širenja požara i zaštitu\r\nod požara i proizvodi za usporavanje požara.",
+            "Ako tehnički i drugi zahtevi za građevinske proizvode iz stava 1. ovog\r\nčlana nisu utvrđeni srpskom tehničkom specifikacijom ili tehničkim propisom, na te građevinske\r\nproizvode primenjuju se odredbe propisa kojim se uređuje opšta bezbednost proizvoda i propisa\r\nkojim se uređuje zaštita potrošača.",
+            "Upotreba građevinskih proizvoda, ugradnja i performanse koje mora da ima\r\ngrađevinski proizvod u odnosu na njegove bitne karakteristike uređuju se tehničkim propisima\r\nkojima se uređuje izgradnja objekata i drugim propisima kojima se uređuju pitanja koja utiču\r\nna ispunjavanje osnovnih zahteva za objekte.",
+            "Metode koje se koriste u propisivanju zahteva za objekte, kao i propisi\r\nkoji se odnose na bitne karakteristike građevinskih proizvoda i druga pitanja koja se odnose\r\nna oblast građevinskih proizvoda moraju biti u skladu sa srpskim standardima kojima su preuzeti\r\nharmonizovani standardi.",
+            "Supsidijarna primena propisa"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_3"
+    },
+    {
+        "title": "Član 4",
+        "texts": [
+            "Na sva pitanja postupka koja nisu uređena ovim zakonom, primenjuju se odredbe\r\nzakona kojima je uređen opšti upravni postupak.",
+            "II USLOVI ZA STAVLJANJE NA TRŽIŠTE ILI ČINJENJE DOSTUPNIM\r\nGRAĐEVINSKIH PROIZVODA NA TRŽIŠTU I BITNE KARAKTERISTIKE GRAĐEVINSKIH PROIZVODA",
+            "Uslovi za stavljanje na tržište ili činjenje dostupnim građevinskih\r\nproizvoda na tržištu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_4"
+    },
+    {
+        "title": "Član 5",
+        "texts": [
+            "Građevinski proizvod se stavlja na tržište ili čini dostupnim na tržištu\r\nako je usklađen sa tehničkim zahtevima utvrđenim srpskom tehničkom specifikacijom ili tehničkim\r\npropisom.",
+            "Na tržište se stavlja ili čini dostupnim na tržištu i građevinski proizvod\r\nkoji je usklađen sa harmonizovanim standardom koji je identičan sa srpskim standardom kojim\r\nje preuzet harmonizovani standard koji se primenjuje u skladu sa ovim zakonom.",
+            "Za građevinski proizvod za koji uslovi za stavljanje na tržište ili činjenje\r\ndostupnim na tržištu nisu propisani domaćim tehničkim propisom, važi dokument o sprovedenom\r\nocenjivanju i verifikaciji stalnosti performansi koji je izdat od strane prijavljenog tela.",
+            "Odredba stava 3. ovog člana ne primenjuje se na građevinski proizvod za\r\nkoji je posebnim propisom kojim se uređuje zaštita života i zdravlja ljudi, odnosno zaštita\r\nživotne sredine ili zaštita kulturnih dobara, utvrđen način stavljanja u promet i može se\r\nugraditi u objekte ili njihove delove u skladu sa tim propisom.",
+            "Bitne karakteristike građevinskih proizvoda"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_5"
+    },
+    {
+        "title": "Član 6",
+        "texts": [
+            "Osnovu za pripremu srpskih tehničkih specifikacija i tehničkih propisa\r\nčine osnovni zahtevi za objekte.",
+            "Građevinski proizvod koji je proizveden i stavljen na tržište radi stalne\r\nugradnje u objekte ili delove objekta mora da ima performanse u vezi sa njegovim bitnim karakteristikama\r\nkoje imaju uticaj na performanse objekta tokom uobičajenog održavanja i ekonomski prihvatljivog\r\nveka upotrebe objekta u pogledu sledećih osnovnih zahteva za objekte:",
+            "1) mehaničke otpornosti i stabilnosti, odnosno objekti moraju biti projektovani\r\ni izvedeni na način da opterećenja koja na njih deluju tokom izgradnje i upotrebe ne dovode\r\ndo:",
+            "(1) rušenja čitavog objekta ili nekog njegovog dela;",
+            "(2) deformacija većih od dopuštenih;",
+            "(3) oštećenja drugih delova objekta, instalacija ili instalirane\r\nopreme kao rezultat velikih deformacija noseće konstrukcije;",
+            "(4) oštećenja usled događaja u obimu koji je nesrazmeran izvornom\r\nuzroku;",
+            "2) bezbednosti u slučaju požara, odnosno objekti moraju biti projektovani\r\ni izvedeni na takav način da u slučaju izbijanja požara:",
+            "(1) nosivost konstrukcije može biti očuvana tokom određenog perioda;",
+            "(2) nastajanje i širenje požara i dima u objektu bude ograničeno;",
+            "(3) širenje požara na susedne objekte bude ograničeno;",
+            "(4) korisnici mogu da napuste objekte ili mogu biti spaseni na drugi\r\nnačin;",
+            "(5) bude uzeta u obzir bezbednost spasilačkih timova;",
+            "3) higijene, zdravlja i životne sredine, odnosno objekti moraju biti projektovani\r\ni izvedeni na takav način da, tokom svog životnog ciklusa, ne predstavljaju pretnju po higijenu\r\nili zdravlje i bezbednost radnika, korisnika ili suseda, niti imaju prekomerno veliki uticaj,\r\ntokom svog čitavog životnog ciklusa, na kvalitet životne sredine ili na klimu tokom izgradnje,\r\nupotrebe i rušenja, naročito kao rezultat:",
+            "(1) ispuštanja otrovnih gasova;",
+            "(2) emisije opasnih materija, isparljivih organskih jedinjenja,\r\ngasova s efektom staklene bašte ili opasnih čestica u unutrašnji ili spoljašnji vazduh;",
+            "(3) emisije opasnog zračenja;",
+            "(4) ispuštanja opasnih materija u podzemne vode, morske vode, površinske\r\nvode ili tlo;",
+            "(5) ispuštanja opasnih materija u vodu za piće ili materija koje\r\nimaju drugi negativan uticaj na vodu za piće;",
+            "(6) neispravnog otpuštanja otpadnih voda, emisije dimnih gasova\r\nili neispravnog odlaganja čvrstog ili tečnog otpada;",
+            "(7) vlage u delovima objekta ili na površinama u objektu;",
+            "4) bezbednosti i pristupačnosti prilikom upotrebe, odnosno objekti moraju\r\nbiti projektovani i izvedeni na takav način da ne predstavljaju neprihvatljive rizike od\r\nnezgoda ili oštećenja tokom upotrebe ili funkcionisanja kao što su klizanje, padanje, sudar,\r\nopekotine, električni udar, povrede od eksplozije i provale. Objekti moraju biti projektovani\r\ni izvedeni uzimajući naročito u obzir pristupačnost i upotrebu za osobe sa invaliditetom;",
+            "5) zaštite od buke, odnosno objekti moraju biti projektovani i izvedeni\r\nna takav način da se buka koju opažaju korisnici ili ljudi u blizini održava na nivou na\r\nkome nije ugroženo njihovo zdravlje i pri kojoj mogu da spavaju, da se odmaraju i rade pod\r\nzadovoljavajućim uslovima;",
+            "6) uštede energije i zadržavanja toplote, odnosno objekti i njihove instalacije\r\nza grejanje, hlađenje, osvetljenje i ventilaciju moraju biti projektovani i izvedeni na način\r\nda količina energije koju zahtevaju tokom korišćenja bude niska, kada se uzmu u obzir korisnici\r\ni klimatski uslovi lokacije. Objekti, takođe, moraju biti energetski efikasni, uz korišćenje\r\nšto je moguće manje energije tokom izgradnje i rušenja;",
+            "7) održivog korišćenja prirodnih resursa, odnosno objekti moraju biti projektovani,\r\nizvedeni i srušeni na takav način da je upotreba prirodnih resursa održiva, a naročito da\r\nse obezbedi:",
+            "(1) ponovna upotreba ili mogućnost reciklaže objekata, njegovih\r\nmaterijala i delova nakon rušenja;",
+            "(2) trajnost objekta;",
+            "(3) korišćenje sirovina i sekundarnih materijala u objektu, koji\r\nsu pogodni za životnu sredinu.",
+            "Bitne karakteristike građevinskih proizvoda u vezi sa osnovnim zahtevima\r\nza objekte utvrđuju se srpskim tehničkim specifikacijama i tehničkim propisima.",
+            "Slučajevi bitnih karakteristika kada nije neophodno upućivanje na odgovarajuću\r\ntehničku specifikaciju ili tehnički propis su:",
+            "1) reakcija na požar;",
+            "2) otpornost na požar;",
+            "3) performanse pri spoljašnjem požaru;",
+            "4) apsorpcija buke;",
+            "5) emisija opasnih materija.",
+            "Ministar nadležan za poslove građevinarstva propisuje bitne karakteristike\r\nza koje proizvođač navodi performanse građevinskog proizvoda prilikom njegovog stavljanja\r\nna tržište, a po potrebi i bitne karakteristike u vezi sa njihovim predviđenim upotrebama,\r\nza familije građevinskih proizvoda obuhvaćene srpskim standardom kojim je preuzet harmonizovani\r\nstandard koji se primenjuje u skladu sa ovim zakonom.",
+            "Tehničkim propisom iz stava 5. ovog člana, mogu biti utvrđene i granične\r\nvrednosti performansi u vezi sa bitnim karakteristikama koje je potrebno navesti.",
+            "III DEKLARACIJA O PERFORMANSAMA I ZNAK USAGLAŠENOSTI",
+            "Deklaracija o performansama"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_6"
+    },
+    {
+        "title": "Član 7",
+        "texts": [
+            "Za građevinske proizvode usaglašene sa zahtevima utvrđenim srpskom tehničkom\r\nspecifikacijom i građevinske proizvode usaglašene sa zahtevima utvrđenim tehničkim propisom\r\ni ovim zakonom, proizvođač sačinjava deklaraciju o performansama građevinskog proizvoda u\r\nvezi sa bitnim karakteristikama (u daljem tekstu: deklaracija o performansama), na srpskom\r\njeziku, pre stavljanja tog proizvoda na tržište.",
+            "Za građevinski proizvod iz stava 1. ovog člana, informacije o njegovim\r\nperformansama u vezi sa bitnim karakteristikama, utvrđenim u odgovarajućoj srpskoj tehničkoj\r\nspecifikaciji ili tehničkom propisu, mogu biti date ako su navedene u deklaraciji o performansama,\r\nosim u slučajevima kada u skladu sa članom 8. ovog zakona nije sačinjena deklaracija o performansama.",
+            "Sačinjavanjem deklaracije o performansama, proizvođač preuzima odgovornost\r\nza usaglašenost građevinskog proizvoda sa performansama navedenim u deklaraciji o performansama.",
+            "Deklaracija o performansama koju je izradio proizvođač smatra se pouzdanom\r\ni tačnom.",
+            "Izuzeci od obaveze sačinjavanja deklaracije o performansama"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_7"
+    },
+    {
+        "title": "Član 8",
+        "texts": [
+            "Proizvođač nije u obavezi da sačini deklaraciju o performansama iz člana\r\n7. stav 1. ovog zakona prilikom stavljanja građevinskog proizvoda na tržište, kada je:",
+            "1) građevinski proizvod proizveden pojedinačno ili po narudžbini u neserijskoj\r\nproizvodnji i ugrađen u jedinstveno prepoznatljiv objekat od strane proizvođača koji je odgovoran\r\ni za bezbednu ugradnju građevinskog proizvoda u objekat, u skladu sa odgovarajućim posebnim\r\npropisima, pri čemu odgovornost za građevinski proizvod i njegovu bezbednu ugradnju proizvođač\r\npotvrđuje pisanom izjavom, koju odgovorni izvođač radova evidentira u građevinski dnevnik;",
+            "2) građevinski proizvod proizveden na gradilištu radi ugradnje u objekat,\r\nu skladu sa odgovarajućim tehničkim propisima i za čiju proizvodnju odgovornost snosi odgovorni\r\nizvođač radova;",
+            "3) građevinski proizvod proizveden na tradicionalan način ili na način\r\nkoji je primeren očuvanju nasleđa ili u neindustrijskom procesu zbog odgovarajuće revitalizacije\r\nobjekata koji su zvanično zaštićeni kao deo utvrđene zaštićene okoline ili zbog njihove posebne\r\narhitektonske ili istorijske vrednosti, a u skladu sa odgovarajućim propisima kojima je uređena\r\nzaštita kulturnih dobara, pri čemu odgovornost za građevinski proizvod i njegovu bezbednu\r\nugradnju proizvođač potvrđuje pisanom izjavom, koju odgovorni izvođač radova evidentira u\r\ngrađevinski dnevnik.",
+            "Izuzetak od obaveze sačinjavanja deklaracije o performansama odnosi se\r\ni na građevinski proizvod nastao rušenjem objekta i pripremljen za ponovnu upotrebu u objektu\r\niz stava 1. tačka 3) ovog člana.",
+            "Odredbe iz stava 1. ovog člana ne primenjuju se ako u Republici Srbiji\r\npostoji tehnički propis kojim se zahteva deklaracija o performansama građevinskog proizvoda\r\niz stava 1. tač. 1), 2) ili 3) ovog člana, koji se čini dostupnim na tržištu.",
+            "Sadržina deklaracije o performansama"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_8"
+    },
+    {
+        "title": "Član 9",
+        "texts": [
+            "Deklaracijom o performansama iz člana 7. stav 1. ovog zakona iskazuju se\r\nperformanse građevinskog proizvoda u vezi sa njegovim bitnim karakteristikama, utvrđenim\r\nodgovarajućim srpskim standardom sa spiska srpskih standarda kojima su preuzeti harmonizovani\r\nstandardi koji se primenjuju u skladu sa ovim zakonom, srpskim standardom na koji se poziva\r\ntehnički propis, tehničkim propisom ili srpskom tehničkom ocenom koja je za njega izdata.",
+            "Deklaracija o performansama sadrži, naročito:",
+            "1) naziv i/ili oznaku tipa građevinskog proizvoda za koji se sačinjava\r\ndeklaracija o performansama;",
+            "2) sistem ili sisteme ocenjivanja i verifikacije stalnosti performansi\r\ngrađevinskog proizvoda, utvrđene odgovarajućom srpskom tehničkom specifikacijom ili tehničkim\r\npropisom;",
+            "3) kada je to odgovarajuće, oznaku i godinu objavljivanja srpskog standarda\r\nkojim je preuzet harmonizovani standard koji se primenjuje u skladu sa ovim zakonom, oznaku\r\ni godinu objavljivanja srpskog standarda na koji se poziva tehnički propis, naziv tehničkog\r\npropisa i broj službenog glasila u kom je tehnički propis objavljen ili broj i datum izdavanja\r\nsrpske tehničke ocene koja je korišćena za ocenjivanje svake bitne karakteristike i broj\r\ni datum objavljivanja srpskog dokumenta za ocenjivanje;",
+            "4) kada je odgovarajuće, referentni broj korišćene odgovarajuće specifične\r\ntehničke dokumentacije i zahteve sa kojima je proizvođač potvrdio da je građevinski proizvod\r\nusaglašen;",
+            "5) predviđenu upotrebu ili upotrebe građevinskog proizvoda u skladu sa\r\nodgovarajućom srpskom tehničkom specifikacijom ili tehničkim propisom;",
+            "6) spisak bitnih karakteristika građevinskog proizvoda, kako je utvrđeno\r\nodgovarajućom srpskom tehničkom specifikacijom ili tehničkim propisom za navedenu predviđenu\r\nupotrebu ili upotrebe;",
+            "7) performanse najmanje jedne bitne karakteristike građevinskog proizvoda\r\nkoja je od značaja za navedenu predviđenu upotrebu ili upotrebe;",
+            "8) kada je to odgovarajuće, performanse građevinskog proizvoda, prema nivoima,\r\nklasama ili opisno, i ako je potrebno, na osnovu proračuna u vezi sa njegovim bitnim karakteristikama\r\nutvrđenim u skladu sa članom 6. stav 5. ovog zakona;",
+            "9) performanse bitnih karakteristika građevinskog proizvoda koje se odnose\r\nna predviđenu upotrebu ili upotrebe, u skladu sa odgovarajućom srpskom tehničkom specifikacijom\r\nili tehničkim propisom kojim je predviđena upotreba građevinskog proizvoda;",
+            "10) slova \"NPD\" (performansa nije utvrđena) za navedene bitne\r\nkarakteristike građevinskog proizvoda za koje performanse nisu navedene;",
+            "11) kada je za građevinski proizvod izdata srpska tehnička ocena, performanse\r\ngrađevinskog proizvoda u vezi sa svim njegovim bitnim karakteristikama sadržanim u odgovarajućoj\r\nsrpskoj tehničkoj oceni, prema nivoima, klasama ili opisno.",
+            "Ministar nadležan za poslove građevinarstva bliže propisuje sadržinu i\r\nnačin izrade deklaracije o performansama.",
+            "Deklaraciju o performansama iz člana 7. stav 1. ovog zakona prate i informacije\r\nutvrđene propisom kojim se uređuje stavljanje u promet hemikalija, kao informacije o bezbednosti\r\nkoje su deo tehničkih uputstava.",
+            "Forma i dostavljanje deklaracije o performansama i tehnička\r\nuputstva"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_9"
+    },
+    {
+        "title": "Član 10",
+        "texts": [
+            "Svaki građevinski proizvod koji se čini dostupnim na tržištu prati primerak\r\ndeklaracije o performansama u pisanoj formi ili elektronskoj formi.",
+            "Ako se isporučuje serija istog građevinskog proizvoda, ona može biti praćena\r\njednim primerkom deklaracije o performansama u pisanoj formi ili elektronskoj formi.",
+            "Ako je primerak deklaracije o performansama dostavljen samo u elektronskoj\r\nformi, na zahtev primaoca primerak deklaracije o performansama građevinskog proizvoda dostavlja\r\nse i u pisanoj formi.",
+            "Privredni subjekt objavljuje deklaraciju o performansama iz člana 7. stav\r\n1. ovog zakona na internet stranici ukoliko:",
+            "1) je obezbedio da se sadržina deklaracije o performansama ne menja nakon\r\nobjavljivanja na internet stranici;",
+            "2) je obezbedio da se internet stranica na kojoj je objavljena deklaracija\r\no performansama prati i održava tako da strana i deklaracija o performansama primaocima građevinskih\r\nproizvoda budu stalno na raspolaganju;",
+            "3) se primaocima građevinskih proizvoda omogući pristup deklaraciji o performansama\r\nbez naknade u periodu od deset godina nakon stavljanja građevinskog proizvoda na tržište\r\nili tokom drugog takvog razdoblja koje se može utvrditi u skladu sa posebnim propisima;",
+            "4) su primaocima građevinskih proizvoda osigurana uputstva za pristup internet\r\nstranici i deklaraciji o performansama koje su sastavljene za takve proizvode dostupnim na\r\nnavedenim internet stranicama.",
+            "Tehnička uputstva dostavljaju se uz svaki građevinski proizvod koji se\r\nčini dostupnim na tržištu. Ako se dva ili više istih građevinskih proizvoda isporučuju odjednom,\r\ntehnička uputstva prate svako pojedinačno pakovanje.",
+            "Kod isporuke građevinskog proizvoda u rasutom stanju, tehnička uputstva\r\nprate svaku pojedinačnu isporuku.",
+            "Tehnička uputstva naročito sadrže informacije o bezbednosti, podatke značajne\r\nza čuvanje, transport, ugradnju i upotrebu građevinskog proizvoda na srpskom jeziku.",
+            "U tehničkim uputstvima navodi se rok do kojeg se građevinski proizvod može\r\nugraditi, odnosno da taj rok nije ograničen.",
+            "Uz pisani tekst, tehnička uputstva mogu da sadrže i crteže i ilustracije.",
+            "Proizvođač osigurava da je svaki pojedinačni proizvod ili serija istog\r\nproizvoda koji stavlja na tržište povezan s određenom deklaracijom o performansama, i to\r\npomoću jedinstvene identifikacione oznake vrste i/ili tipa proizvoda.",
+            "Stavljanje znaka usaglašenosti"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_10"
+    },
+    {
+        "title": "Član 11",
+        "texts": [
+            "Srpski znak usaglašenosti stavlja se na one građevinske proizvode za koje\r\nje proizvođač sačinio deklaraciju o performansama u skladu sa čl. 7. i 9. ovog zakona.",
+            "Ako proizvođač nije sačinio deklaraciju o performansama u skladu sa čl.\r\n7. i 9. ovog zakona na građevinski proizvod ne može biti stavljen srpski znak usaglašenosti.",
+            "Proizvođač koji stavi ili ako se u njegovo ime stavi srpski znak usaglašenosti,\r\nna taj način potvrđuje da preuzima odgovornost za usaglašenost tog građevinskog proizvoda\r\nsa performansama navedenim u deklaraciji o performansama, kao i usklađenost sa svim zahtevima\r\nutvrđenim ovim zakonom i drugim propisima kojima se predviđa stavljanje srpskog znaka usaglašenosti\r\nna građevinske proizvode.",
+            "Za građevinski proizvod čiji su zahtevi utvrđeni srpskom tehničkom specifikacijom\r\nili tehničkim propisom, srpski znak usaglašenosti je jedini znak kojim se potvrđuje usaglašenost\r\ntog građevinskog proizvoda sa performansama navedenim u deklaraciji o performansama u vezi\r\nsa bitnim karakteristikama utvrđenim srpskim standardom sa spiska srpskih standarda kojima\r\nsu preuzeti harmonizovani standardi koji se primenjuju u skladu sa ovim zakonom, srpskim\r\nstandardom na koji se poziva tehnički propis, tehničkim propisom ili srpskom tehničkom ocenom\r\nkoja je za njega izdata.",
+            "Znakovi usaglašenosti stavljeni u skladu sa tehničkim propisima kojima\r\nsu utvrđeni zahtevi za stavljanje znaka usaglašenosti, smatraju se znakovima usaglašenosti\r\nu smislu ovog zakona.",
+            "Upotreba građevinskih proizvoda koji nose srpski znak usaglašenosti ne\r\nmože da bude onemogućena uslovima koje određuju imaoci javnih ovlašćenja kada performanse\r\nnavedene u deklaraciji o performansama zadovoljavaju zahteve za odgovarajuću upotrebu.",
+            "Znak CE stavlja se na građevinski proizvod za koji je proizvođač sačinio\r\ndeklaraciju o performansama, u skladu sa posebnim propisom, kojom je potvrđena njegova usaglašenost\r\nsa harmonizovanim standardom ili sa evropskom tehničkom ocenom koja je za njega izdata uz\r\nsadržaj napisan na srpskom jeziku.",
+            "Način stavljanja srpskog znaka usaglašenosti"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_11"
+    },
+    {
+        "title": "Član 12",
+        "texts": [
+            "Srpski znak usaglašenosti stavlja se na građevinski proizvod tako da bude\r\nvidljiv, čitljiv i neizbrisiv. Ako zbog prirode proizvoda nije moguće ili opravdano staviti\r\nsrpski znak usaglašenosti na građevinski proizvod ili na etiketu pričvršćenu na građevinski\r\nproizvod, srpski znak usaglašenosti se stavlja na ambalažu ili na dokumentaciju koja prati\r\ngrađevinski proizvod.",
+            "Uz srpski znak usaglašenosti navode se dve poslednje cifre godine u kojoj\r\nje prvi put stavljen znak usaglašenosti, ime i registrovana adresa proizvođača ili identifikaciona\r\noznaka koja omogućava laku i nedvosmislenu identifikaciju imena i adrese proizvođača, jedinstveni\r\nidentifikacioni kod tipa proizvoda, referentni broj deklaracije o performansama, nivo ili\r\nklasa performansi navedenih u deklaraciji o performansama, upućivanje na primenjenu srpsku\r\ntehničku specifikaciju ili tehnički propis, identifikacioni broj imenovanog tela koje je\r\nsprovelo ocenjivanje i verifikaciju stalnosti performansi, i ako je primenljivo, predviđena\r\nupotreba koja je utvrđena u primenjenoj srpskoj tehničkoj specifikaciji ili tehničkom propisu.",
+            "Srpski znak usaglašenosti stavlja se na građevinski proizvod pre njegovog\r\nstavljanja na tržište Republike Srbije. Može biti propraćen piktogramom ili drugim znakom\r\nkoji jasno označava poseban rizik ili upotrebu.",
+            "Na znak usaglašenosti koji se stavlja na građevinski proizvod primenjuju\r\nse opšta načela koja se odnose na znak usaglašenosti propisana zakonom kojim se uređuje tržišni\r\nnadzor.",
+            "Shodna primena"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_12"
+    },
+    {
+        "title": "Član 13",
+        "texts": [
+            "Na pitanja koja se odnose na oblik i izgled srpskog znaka usaglašenosti,\r\nkoji se stavlja na građevinski proizvod, shodno se primenjuju odredbe propisa kojima se uređuje\r\nnačin stavljanja, kao i oblik, izgled i sadržina znaka usaglašenosti.",
+            "IV OBAVEZE PRIVREDNIH SUBJEKATA",
+            "Obaveze proizvođača"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_13"
+    },
+    {
+        "title": "Član 14",
+        "texts": [
+            "Proizvođač građevinskog proizvoda (u daljem tekstu: proizvođač), sačinjava\r\ndeklaraciju o performansama u skladu sa čl. 7. i 9. ovog zakona i stavlja srpski znak usaglašenosti\r\nu skladu sa čl. 11. i 12. ovog zakona.",
+            "Proizvođač, kao osnov za izradu deklaracije o performansama, izrađuje tehničku\r\ndokumentaciju za građevinski proizvod (u daljem tekstu: tehnička dokumentacija), koja sadrži\r\nsve relevantne elemente u vezi sa zahtevanim sistemom ocenjivanja i verifikacije stalnosti\r\nperformansi.",
+            "Proizvođač čuva tehničku dokumentaciju i deklaraciju o performansama tokom\r\nperioda od deset godina nakon stavljanja građevinskog proizvoda na tržište.",
+            "Ministar nadležan za poslove građevinarstva donosi tehnički propis, kojim\r\nmože biti izmenjen period iz stava 3. ovog člana za pojedine familije građevinskih proizvoda\r\nna osnovu očekivanog veka trajanja ili uloge koju građevinski proizvod ima u objektu.",
+            "Proizvođač obezbeđuje uspostavljanje postupaka kojima se osigurava da serijska\r\nproizvodnja građevinskog proizvoda zadržava performanse navedene u deklaraciji o performansama,\r\nuzimajući u obzir eventualne nastale promene u tipu proizvoda odnosno tehničkoj dokumentaciji\r\nili u odgovarajućim srpskim tehničkim specifikacijama ili tehničkom propisu.",
+            "U cilju obezbeđivanja tačnosti, pouzdanosti i postojanosti performansi\r\ngrađevinskog proizvoda navedenih u deklaraciji o performansama, proizvođač obavlja ispitivanje\r\nuzoraka građevinskog proizvoda koji je stavljen na tržište ili učinjen dostupnim na tržištu,\r\nproverava da li ima reklamacija, neusaglašenih i opozvanih građevinskih proizvoda i vodi\r\nevidenciju reklamacija, neusaglašenih i opozvanih građevinskih proizvoda i o tome obaveštava\r\ndistributere.",
+            "Proizvođač obezbeđuje da njegovi građevinski proizvodi imaju broj tipa,\r\nserijski broj ili broj partije, šarže ili drugi element kojim se omogućava njihova identifikacija\r\nili, ako to nije moguće zbog dimenzija ili prirode proizvoda, potrebne elemente naznačava\r\nna ambalaži ili u dokumentaciji koja prati građevinski proizvod.",
+            "Proizvođač navodi na građevinskom proizvodu odnosno, na njegovoj ambalaži\r\nili u dokumentaciji koja prati građevinski proizvod, svoje ime, registrovan trgovački naziv\r\nili registrovani žig i adresu. Adresa ukazuje na jedinstveno mesto na kojem je moguće stupiti\r\nu kontakt s proizvođačem.",
+            "Kada se građevinski proizvod čini dostupnim na tržištu, proizvođač obezbeđuje\r\nda proizvod prate tehnička uputstva iz člana 10. stav 5. ovog zakona, na srpskom jeziku.",
+            "Proizvođač koji ima razloga da sumnja da je građevinski proizvod koji je\r\nstavio na tržište usaglašen sa deklaracijom o performansama ili usklađen sa drugim zahtevima\r\niz ovog zakona, dužan je da odmah preduzme neophodne korektivne radnje kako bi usaglasio\r\ntaj građevinski proizvod sa deklaracijom o performansama, odnosno taj građevinski proizvod\r\npovukao sa tržišta ili opozvao.",
+            "Ako građevinski proizvod iz stava 10. ovog člana predstavlja rizik, proizvođač\r\nje dužan da odmah o tome obavesti nadležne organe tržišnog nadzora, pružajući potrebne informacije,\r\nnaročito u pogledu neusklađenosti i svih preduzetih korektivnih radnji.",
+            "Na obrazloženi zahtev nadležnog organa tržišnog nadzora, proizvođač pruža\r\nsve potrebne informacije i dokumentaciju neophodnu za dokazivanje usaglašenosti građevinskog\r\nproizvoda sa deklaracijom o performansama i usklađenosti sa drugim zahtevima iz ovog zakona,\r\nna srpskom jeziku.",
+            "Proizvođač je dužan da, na zahtev nadležnog organa tržišnog nadzora, sarađuje\r\nu svakoj aktivnosti koja se preduzima u cilju uklanjanja rizika koji predstavlja građevinski\r\nproizvod koji je stavio na tržište.",
+            "Zastupnik"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_14"
+    },
+    {
+        "title": "Član 15",
+        "texts": [
+            "Proizvođač može da ovlasti zastupnika pisanim ovlašćenjem da obavlja najmanje\r\nsledeće poslove:",
+            "1) stavlja na raspolaganje nadležnim organima tržišnog nadzora deklaraciju\r\no performansama i tehničku dokumentaciju tokom perioda iz člana 14. st. 3. i 4. ovog zakona;",
+            "2) na obrazloženi zahtev nadležnog organa tržišnog nadzora, pruža tom organu\r\nsve informacije i dokumentaciju neophodnu za dokazivanje usaglašenosti građevinskog proizvoda\r\nsa deklaracijom o performansama i usklađenosti sa drugim važećim zahtevima iz ovog zakona;",
+            "3) sarađuje sa nadležnim organima tržišnog nadzora, na njihov zahtev, u\r\nsvakoj aktivnosti koja se preduzima radi uklanjanja rizika koji predstavljaju građevinski\r\nproizvodi obuhvaćeni ovlašćenjem zastupnika.",
+            "Na osnovu ovlašćenja iz stava 1. ovog člana, zastupnik može obavljati i\r\ndruge poslove, osim posla izrade tehničke dokumentacije.",
+            "Obaveze uvoznika"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_15"
+    },
+    {
+        "title": "Član 16",
+        "texts": [
+            "Uvoznik stavlja na tržište Republike Srbije samo građevinske proizvode\r\nkoji su usklađeni sa zahtevima utvrđenim ovim zakonom.",
+            "Uvoznik je dužan da pre stavljanja građevinskog proizvoda na tržište Republike\r\nSrbije, obezbedi da je:",
+            "1) proizvođač sproveo ocenjivanje i verifikaciju stalnosti performansi;",
+            "2) proizvođač izradio tehničku dokumentaciju utvrđenu članom 14. stav 2.\r\novog zakona;",
+            "3) proizvođač izradio deklaraciju o performansama u skladu sa čl. 7. i\r\n9. ovog zakona;",
+            "4) na građevinski proizvod, kada je propisano, stavljen srpski znak usaglašenosti;",
+            "5) građevinski proizvod praćen dokumentacijom i tehničkim uputstvima na\r\nsrpskom jeziku, koji su propisani ovim zakonom;",
+            "6) proizvođač ispunio zahteve utvrđene članom 14. st. 7. i 8. ovog zakona.",
+            "Uvoznik koji ima razloga da sumnja da je građevinski proizvod usaglašen\r\nsa deklaracijom o performansama ili usklađen sa drugim zahtevima iz ovog zakona, ne može\r\ntaj građevinski proizvod da stavi na tržište, sve dok ne bude usaglašen sa pratećom deklaracijom\r\no performansama i usklađen sa drugim zahtevima utvrđenim ovim zakonom ili dok deklaracija\r\no performansama ne bude ispravljena.",
+            "Ako građevinski proizvod iz stava 3. ovog člana predstavlja rizik, uvoznik\r\nje dužan da o tome obavesti proizvođača i nadležni organ tržišnog nadzora.",
+            "Uvoznik je dužan da naznači svoje ime, registrovan trgovački naziv ili\r\nregistrovani žig i svoju adresu za kontakt na građevinskom proizvodu ili, ako to nije moguće,\r\npotrebne elemente naznačava na ambalaži građevinskog proizvoda ili u dokumentaciji koja prati\r\ngrađevinski proizvod.",
+            "Kada se građevinski proizvod čini dostupnim na tržištu, uvoznik je dužan\r\nda obezbedi da građevinski proizvod prate tehnička uputstva na srpskom jeziku.",
+            "Uvoznik obezbeđuje da uslovi skladištenja ili prevoza građevinskog proizvoda\r\nne ugrožavaju njegovu usaglašenost sa deklaracijom o performansama i usklađenost sa drugim\r\nzahtevima iz ovog zakona za građevinski proizvod u periodu u kom je odgovoran.",
+            "U cilju obezbeđivanja tačnosti, pouzdanosti i postojanosti performansi\r\ngrađevinskog proizvoda navedenih u deklaraciji o performansama, uvoznik obavlja ispitivanje\r\nuzoraka građevinskog proizvoda koji je stavljen na tržište ili učinjen dostupnim na tržištu,\r\nproverava da li ima reklamacija, neusaglašenih i opozvanih građevinskih proizvoda, i ako\r\nih ima vodi evidenciju reklamacija, neusaglašenih proizvoda i opozvanih proizvoda i o tome\r\nobaveštava distributere.",
+            "Uvoznik koji ima razloga da sumnja da je građevinski proizvod koji je stavio\r\nna tržište usaglašen sa deklaracijom o performansama ili usklađen sa drugim zahtevima utvrđenim\r\novim zakonom, dužan je da odmah preduzme neophodne korektivne radnje kako bi usaglasio taj\r\ngrađevinski proizvod sa deklaracijom o performansama, odnosno taj građevinski proizvod povukao\r\nsa tržišta ili opozvao.",
+            "Ako građevinski proizvod iz stava 9. ovog člana predstavlja rizik, uvoznik\r\nje dužan da odmah o tome obavesti nadležne organe tržišnog nadzora, pružajući potrebne informacije,\r\nnaročito u pogledu neusklađenosti i preduzetih korektivnih radnji.",
+            "Uvoznik je dužan da u periodu iz člana 14. st. 3. i 4. ovog zakona, stavi\r\nna raspolaganje primerak deklaracije o performansama nadležnom organu tržišnog nadzora i\r\nobezbedi da tehnička dokumentacija bude dostupna organu tržišnog nadzora na njihov zahtev.",
+            "Na obrazloženi zahtev nadležnog organa tržišnog nadzora uvoznik je dužan\r\nda pruži sve informacije i dokumentaciju neophodnu za dokazivanje usaglašenosti građevinskog\r\nproizvoda sa deklaracijom o performansama i usklađenosti sa drugim zahtevima iz ovog zakona,\r\nna srpskom jeziku.",
+            "Uvoznik je dužan da, na zahtev nadležnog organa tržišnog nadzora, sarađuje\r\nsa organom tržišnog nadzora, u svakoj aktivnosti koja se preduzima radi otklanjanja rizika\r\nkoji predstavlja građevinski proizvod koji je stavio na tržište.",
+            "Obaveze distributera"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_16"
+    },
+    {
+        "title": "Član 17",
+        "texts": [
+            "Distributer čini dostupnim na tržištu Republike Srbije građevinske proizvode\r\nkoji su usklađeni sa zahtevima utvrđenim ovim zakonom.",
+            "Distributer je dužan da pre nego što učini dostupnim građevinski proizvod\r\nna tržištu Republike Srbije, obezbedi da je:",
+            "1) na građevinski proizvod, kada je propisano, stavljen srpski znak usaglašenosti;",
+            "2) građevinski proizvod praćen dokumentacijom i tehničkim uputstvima na\r\nsrpskom jeziku, koji su propisani ovim zakonom;",
+            "3) proizvođač i uvoznik ispunio zahteve propisane članom 14. st. 7. i 8,\r\nodnosno članom 16. stav 5. ovog zakona;",
+            "4) postupljeno u skladu sa članom 10. stav 5. ovog zakona.",
+            "Distributer koji ima razloga da sumnja da je građevinski proizvod usaglašen\r\nsa deklaracijom o performansama ili usklađen sa drugim zahtevima iz ovog zakona, ne može\r\ntaj građevinski proizvod da učini dostupnim na tržištu do trenutka usaglašavanja građevinskog\r\nproizvoda sa pratećom deklaracijom o performansama i usklađivanja sa drugim zahtevima utvrđenim\r\novim zakonom ili do trenutka ispravljanja deklaracije o performansama.",
+            "Ako građevinski proizvod iz stava 3. ovog člana predstavlja rizik, distributer\r\nje dužan da o tome obavesti proizvođača ili uvoznika i nadležni organ tržišnog nadzora.",
+            "U periodu u kom je distributer odgovoran za građevinski proizvod, on obezbeđuje\r\nda uslovi skladištenja ili prevoza građevinskog proizvoda ne ugrožavaju njegovu usaglašenost\r\nsa deklaracijom o performansama i usklađenost sa drugim zahtevima iz ovog zakona.",
+            "Distributer koji ima razloga da sumnja da je građevinski proizvod koji\r\nje učinio dostupnim na tržištu usaglašen sa deklaracijom o performansama ili usklađen sa\r\ndrugim zahtevima utvrđenim ovim zakonom, dužan je da odmah preduzme neophodne korektivne\r\nradnje kako bi usaglasio taj građevinski proizvod, odnosno taj građevinski proizvod povukao\r\nsa tržišta ili opozvao.",
+            "Ako građevinski proizvod iz stava 6. ovog člana predstavlja rizik, distributer\r\nodmah o tome obaveštava nadležne organe tržišnog nadzora, pružajući potrebne informacije,\r\nnaročito u pogledu neusklađenosti i svim preduzetim korektivnim merama.",
+            "Na obrazloženi zahtev nadležnog organa tržišnog nadzora distributer je\r\ndužan da, pruži sve informacije i dokumentaciju neophodnu za dokazivanje usaglašenosti građevinskog\r\nproizvoda sa deklaracijom o performansama i usklađenosti sa drugim zahtevima iz ovog zakona,\r\nna srpskom jeziku.",
+            "Distributer, na zahtev nadležnog organa tržišnog nadzora, sarađuje sa organom\r\ntržišnog nadzora u svakoj aktivnosti koja se preduzima radi otklanjanja rizika koji predstavljaju\r\ngrađevinski proizvodi koje je učinio dostupnim na tržištu.",
+            "Slučajevi u kojima prava i obaveze proizvođača preuzima\r\nuvoznik ili distributer"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_17"
+    },
+    {
+        "title": "Član 18",
+        "texts": [
+            "Uvoznik ili distributer ima prava i obaveze proizvođača propisane članom\r\n14. ovog zakona ako stavlja građevinski proizvod na tržište pod svojim imenom ili žigom ili\r\nmenja građevinski proizvod koji je već stavljen na tržište na način koji može uticati na\r\nnjegovu usaglašenost sa deklaracijom o performansama.",
+            "Identifikacija privrednih subjekata"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_18"
+    },
+    {
+        "title": "Član 19",
+        "texts": [
+            "Tokom perioda iz člana 14. st. 3. i 4. ovog zakona, privredni subjekti\r\ndužni su da, na zahtev nadležnog organa tržišnog nadzora, pružaju podatke radi identifikacije\r\nprivrednog subjekta koji im je isporučio građevinski proizvod, kao i podatke radi identifikacije\r\nprivrednog subjekta kome je taj privredni subjekat isporučio građevinski proizvod.",
+            "V TEHNIČKI PROPISI ZA GRAĐEVINSKE PROIZVODE I SRPSKE TEHNIČKE\r\nSPECIFIKACIJE",
+            "Tehnički propisi i srpski standardi"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_19"
+    },
+    {
+        "title": "Član 20",
+        "texts": [
+            "Tehničkim propisom i/ili srpskim standardom na koji se poziva tehnički\r\npropis obezbeđuju se metode i kriterijumi za ocenjivanje performansi građevinskih proizvoda\r\nu vezi sa njihovim bitnim karakteristikama.",
+            "Tehničkim propisom ili srpskim standardom na koji se poziva tehnički propis\r\nmože se utvrditi i predviđena upotreba građevinskog proizvoda.",
+            "Za ocenjivanje performansi građevinskih proizvoda koje se odnose na njihove\r\nbitne karakteristike tehničkim propisom ili srpskim standardom na koji se poziva tehnički\r\npropis mogu se utvrditi manje zahtevne metode od metode ispitivanja, pod uslovom da se na\r\ntaj način ne ugrožava tačnost, pouzdanost ili postojanost rezultata.",
+            "Tehnički propis ili srpski standard na koji se poziva tehnički propis utvrđuje\r\nodgovarajuću fabričku kontrolu proizvodnje kojom se uzimaju u obzir posebni uslovi proizvodnog\r\nprocesa za građevinski proizvod na koji se odnosi.",
+            "Tehnički propis ili srpski standard na koji se poziva tehnički propis utvrđuje\r\ntehničke detalje neophodne za sprovođenje sistema ocenjivanja i verifikacije stalnosti performansi\r\ngrađevinskog proizvoda na koji se odnosi.",
+            "Ovlašćenje za donošenje tehničkih propisa"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_20"
+    },
+    {
+        "title": "Član 21",
+        "texts": [
+            "Ministar nadležan za poslove građevinarstva donosi tehničke propise koji\r\nse odnose na građevinske proizvode.",
+            "Ministar nadležan za poslove građevinarstva propisom sastavlja spisak srpskih\r\nstandarda kojima su preuzeti harmonizovani standardi koji se primenjuju u skladu sa ovim\r\nzakonom (u daljem tekstu: Spisak 1) i spisak donetih srpskih dokumenata za ocenjivanje (u\r\ndaljem tekstu: Spisak 2), sa utvrđenim datumom početka njihove primene.",
+            "Srpski standard sa Spiska 1 osnov je za izradu deklaracije o performansama\r\nza građevinski proizvod na koji se odnosi, počev od datuma početka njegove primene.",
+            "Srpski dokumenti za ocenjivanje"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_21"
+    },
+    {
+        "title": "Član 22",
+        "texts": [
+            "Za svaki građevinski proizvod koji nije obuhvaćen ili nije u potpunosti\r\nobuhvaćen harmonizovanim standardom, tehničkim propisom ili srpskim standardom i za koji\r\nperformanse u vezi sa njegovim bitnim karakteristikama ne mogu biti u potpunosti ocenjene\r\nu skladu sa postojećim harmonizovanim standardom, tehničkim propisom ili srpskim standardom,\r\nna zahtev proizvođača za srpsku tehničku ocenu, telo za tehničko ocenjivanje sastavlja srpski\r\ndokument za ocenjivanje, uz saglasnost ministarstva nadležnog za poslove građevinarstva,\r\nu slučajevima kada:",
+            "1) građevinski proizvod ne potpada u oblast primene nekog postojećeg harmonizovanog\r\nstandarda, tehničkog propisa ili srpskog standarda;",
+            "2) metod ocenjivanja predviđen postojećim harmonizovanim standardom, tehničkim\r\npropisom ili srpskim standardom ne odgovara za ocenu nijedne bitne karakteristike tog građevinskog\r\nproizvoda ili",
+            "3) postojeći harmonizovani standard, tehnički propis ili srpski standard\r\nne obezbeđuje nijednu metodu ocenjivanja u vezi sa najmanje jednom bitnom karakteristikom\r\ntog građevinskog proizvoda.",
+            "Ministar nadležan za poslove građevinarstva može koristiti srpske dokumente\r\nza ocenjivanje kao osnov za predlog nacionalnom telu za standardizaciju za donošenje srpskog\r\nstandarda za proizvode iz stava 1. ovog člana.",
+            "Postupak izrade i donošenja srpskog dokumenta za ocenjivanje"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_22"
+    },
+    {
+        "title": "Član 23",
+        "texts": [
+            "Srpski dokument za ocenjivanje izrađuje se i donosi tako da:",
+            "1) je transparentan za proizvođača na koga se odnosi;",
+            "2) definiše odgovarajuće obavezne rokove za izradu u cilju izbegavanja\r\nneopravdanog kašnjenja;",
+            "3) na odgovarajući način uzima u obzir zaštitu poslovne tajne i poverljivosti;",
+            "4) omogućava odgovarajuće učešće ministarstva nadležnog za poslove građevinarstva;",
+            "5) je isplativ za proizvođača;",
+            "6) obezbeđuje dovoljan stepen koordinacije između tela za tehničko ocenjivanje\r\nkoja su imenovana za proizvod na koji se srpski dokument za ocenjivanje odnosi.",
+            "Ministar nadležan za poslove građevinarstva bliže propisuje postupak izrade,\r\nnačin donošenja i sadržinu srpskog dokumenta za ocenjivanje.",
+            "Obaveze tela za tehničko ocenjivanje koje primi zahtev za\r\nsrpsku tehničku ocenu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_23"
+    },
+    {
+        "title": "Član 24",
+        "texts": [
+            "Telo za tehničko ocenjivanje koje primi zahtev za srpsku tehničku ocenu\r\nobaveštava proizvođača da li je građevinski proizvod obuhvaćen, u potpunosti ili delimično,\r\nharmonizovanim standardom, srpskim standardom ili tehničkim propisom na sledeći način:",
+            "1) kada je proizvod u potpunosti obuhvaćen harmonizovanim standardom, srpskim\r\nstandardom ili tehničkim propisom, telo za tehničko ocenjivanje obaveštava proizvođača da\r\nsrpska tehnička ocena ne može biti izdata;",
+            "2) kada je proizvod u potpunosti obuhvaćen srpskim dokumentom za ocenjivanje,\r\ntelo za tehničko ocenjivanje obaveštava proizvođača da će dokument biti korišćen kao osnov\r\nza izdavanje srpske tehničke ocene;",
+            "3) kada proizvod nije obuhvaćen ili nije u potpunosti obuhvaćen ni jednim\r\nharmonizovanim standardom, srpskim standardom ili tehničkim propisom, telo za tehničko ocenjivanje\r\nprimenjuje postupak propisan članom 23. ovog zakona.",
+            "U slučajevima iz tač. 2) i 3) stava 1. ovog člana, telo za tehničko ocenjivanje\r\nobaveštava ministarstvo nadležno za poslove građevinarstva o sadržini zahteva i odgovarajućem\r\nsistemu ocenjivanja i verifikacije stalnosti performansi koji telo za tehničko ocenjivanje\r\nnamerava da primeni na taj proizvod.",
+            "Objavljivanje srpskog dokumenta za ocenjivanje"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_24"
+    },
+    {
+        "title": "Član 25",
+        "texts": [
+            "Srpski dokument za ocenjivanje koji je izradilo telo za tehničko ocenjivanje\r\ndostavlja ministarstvu nadležnom za poslove građevinarstva, koje:",
+            "1) obaveštava ministarstvo nadležno za prijavljivanje tehničkih propisa\r\nu skladu sa posebnim propisom;",
+            "2) daje saglasnost na sadržinu srpskog dokumenta za ocenjivanje;",
+            "3) objavljuje spisak izrađenih srpskih dokumenata za ocenjivanje u \"Službenom\r\nglasniku Republike Srbije\".",
+            "Sadržina srpskog dokumenta za ocenjivanje"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_25"
+    },
+    {
+        "title": "Član 26",
+        "texts": [
+            "Srpski dokument za ocenjivanje sadrži naročito opšti opis predmetnog građevinskog\r\nproizvoda, spisak bitnih karakteristika od značaja za predviđenu upotrebu građevinskog proizvoda\r\nkoju je predložio proizvođač i kako je usaglašeno između proizvođača i tela za tehničko ocenjivanje,\r\nkao i metode i kriterijume za ocenjivanje performansi građevinskog proizvoda u vezi sa njegovim\r\nbitnim karakteristikama.",
+            "Srpski dokument za ocenjivanje sadrži i glavne postavke/principe fabričke\r\nkontrole proizvodnje koji će se primenjivati, pri čemu se uzimaju u obzir uslovi proizvodnog\r\nprocesa građevinskog proizvoda.",
+            "Ako performanse pojedinih bitnih karakteristika građevinskog proizvoda\r\nmogu na odgovarajući način biti ocenjene primenom metoda i kriterijuma koji su već utvrđeni\r\nu drugim tehničkim specifikacijama ili tehničkim propisima, postojeći metodi i kriterijumi\r\nza ocenjivanje se koriste pri izradi srpskog dokumenta za ocenjivanje.",
+            "Primedbe na srpski dokument za ocenjivanje"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_26"
+    },
+    {
+        "title": "Član 27",
+        "texts": [
+            "Ako zainteresovano lice na tržištu građevinskih proizvoda ili organ koji\r\nvrši nadzor nad primenom ovog zakona smatra da srpski dokument za ocenjivanje ne zadovoljava\r\nu potpunosti zahteve koje treba da ispuni u vezi sa osnovnim zahtevima za objekat, podnosi\r\nministarstvu nadležnom za poslove građevinarstva primedbe, navodeći svoje argumente. Ministarstvo\r\nnadležno za poslove građevinarstva, nakon razmatranja primedaba i savetovanja sa telom za\r\ntehničko ocenjivanje koje je izradilo, odnosno izrađuje srpski dokument za ocenjivanje, daje\r\nsvoje mišljenje.",
+            "Ministarstvo nadležno za poslove građevinarstva na osnovu mišljenja iz\r\nstava 1. ovog člana zadržava, zadržava uz ograničenje ili povlači upućivanja na srpske dokumente\r\nza ocenjivanje, odnosno objavljuje, ne objavljuje ili objavljuje uz ograničenje upućivanja\r\nna srpske dokumente za ocenjivanje u \"Službenom glasniku Republike Srbije\".",
+            "Ministarstvo nadležno za poslove građevinarstva obaveštava telo za tehničko\r\nocenjivanje koje je izradilo, odnosno izrađuje srpski dokument za ocenjivanje o odluci iz\r\nstava 2. ovog člana i, ako je potrebno, zahteva izmenu tog srpskog dokumenta za ocenjivanje\r\nu skladu sa mišljenjem iz stava 1. ovog člana.",
+            "Srpska tehnička ocena"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_27"
+    },
+    {
+        "title": "Član 28",
+        "texts": [
+            "Srpsku tehničku ocenu izdaje telo za tehničko ocenjivanje, na zahtev proizvođača,\r\na na osnovu srpskog dokumenta za ocenjivanje utvrđenog u skladu sa ovim zakonom.",
+            "Srpska tehnička ocena obuhvata, prema nivoima, klasama ili opisno, performanse\r\nkoje se navode za pojedine bitne karakteristike koje su usaglašene između proizvođača i tela\r\nza tehničko ocenjivanje koje je primilo zahtev za srpsku tehničku ocenu za navedenu predviđenu\r\nupotrebu i tehničke detalje neophodne za sprovođenje sistema ocenjivanja i verifikacije stalnosti\r\nperformansi.",
+            "Ministar nadležan za poslove građevinarstva bliže propisuje oblik i sadržinu\r\nsrpske tehničke ocene.",
+            "Nivoi ili klase performansi"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_28"
+    },
+    {
+        "title": "Član 29",
+        "texts": [
+            "Tehničkim propisom ministar nadležan za poslove građevinarstva može da\r\npropiše nivoe ili klase performansi u vezi sa bitnim karakteristikama građevinskih proizvoda.",
+            "Ako nivoi ili klase performansi nisu propisani propisom iz stava 1. ovog\r\nčlana, mogu biti utvrđeni srpskim standardom.",
+            "Sistemi ocenjivanja i verifikacije stalnosti performansi"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_29"
+    },
+    {
+        "title": "Član 30",
+        "texts": [
+            "Ocenjivanje i verifikacija stalnosti performansi građevinskog proizvoda\r\nu vezi sa njegovim bitnim karakteristikama sprovodi se u skladu sa jednim od sistema ocenjivanja\r\ni verifikacije stalnosti performansi: sistem 1+, sistem 1, sistem 2+, sistem 3 i sistem 4.",
+            "Radnje koje u okviru sistema ocenjivanja i verifikacije stalnosti performansi\r\niz stava 1. ovog člana sprovodi proizvođač ili imenovano telo za ocenjivanje i verifikaciju\r\nstalnosti performansi su:",
+            "1) fabrička kontrola proizvodnje;",
+            "2) dalje ispitivanje uzoraka uzetih od strane proizvođača u proizvodnom\r\npogonu u skladu sa propisanim planom ispitivanja;",
+            "3) ocenjivanje performansi građevinskog proizvoda sprovedeno na osnovu\r\nispitivanja (uključujući uzorkovanje), proračuna, tabelarnih vrednosti ili opisne dokumentacije\r\nproizvoda;",
+            "4) početni pregled proizvodnog pogona i fabričke kontrole proizvodnje;",
+            "5) stalni nadzor, ocenjivanje i vrednovanje fabričke kontrole proizvodnje;",
+            "6) kontrolno ispitivanje uzoraka uzetih od strane imenovanog tela za ocenjivanje\r\ni verifikaciju stalnosti performansi u proizvodnom pogonu ili skladišnim prostorijama proizvođača.",
+            "U zavisnosti od sistema ocenjivanja i verifikacije stalnosti performansi\r\nkoji se sprovodi, imenovano telo za ocenjivanje i verifikaciju stalnosti performansi može\r\nbiti:",
+            "1) imenovano sertifikaciono telo za proizvod;",
+            "2) imenovano sertifikaciono telo za fabričku kontrolu proizvodnje ili",
+            "3) imenovana laboratorija.",
+            "U zavisnosti od sistema ocenjivanja i verifikacije stalnosti performansi\r\nkoji se sprovodi, imenovano telo izrađuje dokument o sprovedenom ocenjivanju i verifikaciji\r\nstalnosti performansi, i to:",
+            "1) sertifikat o stalnosti performansi građevinskog proizvoda;",
+            "2) sertifikat o usaglašenosti fabričke kontrole proizvodnje ili",
+            "3) izveštaj o ispitivanju.",
+            "Ministar nadležan za poslove građevinarstva bliže propisuje način sprovođenja\r\nocenjivanja i verifikacije stalnosti performansi, sisteme ocenjivanja i verifikacije stalnosti\r\nperformansi, vrste tela za ocenjivanje i verifikaciju stalnosti performansi i sadržinu i\r\nvrste dokumenata o ocenjivanju i verifikaciji stalnosti performansi u zavisnosti od primenjenog\r\nsistema ocenjivanja i verifikacije stalnosti performansi utvrđenog tehničkom specifikacijom\r\nili tehničkim propisom kojim je obuhvaćen građevinski proizvod.",
+            "Ministar nadležan za poslove građevinarstva tehničkim propisom može da\r\npropiše ili izmeni sistem ocenjivanja i verifikacije stalnosti performansi koji će se primenjivati\r\nna građevinski proizvod ili familiju građevinskih proizvoda obuhvaćenih srpskim standardom\r\nsa Spiska 1 ili bitne karakteristike građevinskog proizvoda, utvrđene srpskim standardom\r\nsa Spiska 1, uzimajući u obzir, naročito, uticaj na zdravlje i bezbednost ljudi i životnu\r\nsredinu.",
+            "Ministar nadležan za poslove građevinarstva propisuje sistem ili sisteme\r\nocenjivanja i verifikacije stalnosti performansi koji će se primenjivati na građevinski proizvod\r\nili familiju građevinskih proizvoda obuhvaćenih srpskim standardom na koji se poziva tehnički\r\npropis ili tehničkim propisom ili bitne karakteristike građevinskog proizvoda, utvrđene srpskim\r\nstandardom na koji se poziva tehnički propis, uzimajući u obzir, naročito, uticaj na zdravlje\r\ni bezbednost ljudi i životnu sredinu.",
+            "VI POJEDNOSTAVLJENI POSTUPCI",
+            "Upotreba odgovarajuće tehničke dokumentacije"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_30"
+    },
+    {
+        "title": "Član 31",
+        "texts": [
+            "Pri utvrđivanju tipa proizvoda, proizvođač može da zameni ispitivanje tipa\r\nili proračune tipa odgovarajućom tehničkom dokumentacijom kojom se dokazuje da:",
+            "1) građevinski proizvod koji proizvođač stavlja na tržište postiže određen\r\nnivo ili klasu performansi, za jednu ili više bitnih karakteristika tog građevinskog proizvoda,\r\nbez ispitivanja ili proračuna ili bez dodatnih ispitivanja ili proračuna u skladu sa uslovima\r\nutvrđenim u odgovarajućem srpskom standardu sa Spiska 1;",
+            "2) građevinski proizvod, obuhvaćen srpskim standardom sa Spiska 1, koji\r\nproizvođač stavlja na tržište odgovara tipu proizvoda drugog građevinskog proizvoda koji\r\nje proizveo drugi proizvođač i koji je već ispitan u skladu sa odgovarajućim srpskim standardom\r\nkojim je preuzet harmonizovani standard, u kom slučaju proizvođač ima pravo da navede performanse\r\nkoje odgovaraju svim ili pojedinim rezultatima ispitivanja tog drugog proizvoda. Proizvođač\r\nmože da koristi rezultate ispitivanja koje je dobio neki drugi proizvođač samo nakon što\r\ndobije ovlašćenje od tog proizvođača koji ostaje odgovoran za tačnost, pouzdanost i postojanost\r\ntih rezultata ispitivanja ili",
+            "3) građevinski proizvod, koji proizvođač stavlja na tržište i koji je obuhvaćen\r\nsrpskim standardom sa Spiska 1, predstavlja sistem sačinjen od delova koje proizvođač sklapa\r\npropisno prateći precizna uputstva koja je dao isporučilac takvog sistema ili njegovog dela,\r\na koji je već ispitao sistem ili taj deo sistema u vezi sa jednom ili više bitnih karakteristika\r\nu skladu sa odgovarajućim srpskim standardom kojim je preuzet harmonizovani standard, u kom\r\nslučaju proizvođač ima pravo da navede performanse koje odgovaraju svim ili pojedinim rezultatima\r\nispitivanja tog sistema ili tog dela sistema koji je isporučen. Proizvođač može da koristi\r\nrezultate ispitivanja koje je dobio drugi proizvođač ili isporučilac sistema, nakon što dobije\r\novlašćenje od tog proizvođača ili isporučioca sistema koji ostaje odgovoran za tačnost, pouzdanost\r\ni postojanost tih rezultata ispitivanja.",
+            "Ako građevinski proizvod iz stava 1. ovog člana pripada familiji građevinskih\r\nproizvoda na koju se, za ocenjivanje i verifikaciju stalnosti performansi primenjuje sistem\r\n1 + ili sistem 1 iz člana 30. ovog zakona, odgovarajuću tehničku dokumentaciju iz stava 1.\r\novog člana proverava imenovano telo za sertifikaciju proizvoda iz člana 30. ovog zakona.",
+            "Primena pojednostavljenih postupaka od strane mikro pravnog\r\nlica"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_31"
+    },
+    {
+        "title": "Član 32",
+        "texts": [
+            "Mikro pravno lice koje proizvodi građevinski proizvod obuhvaćen standardom\r\nsa Spiska 1, može da:",
+            "1) zameni utvrđivanje tipa proizvoda na osnovu ispitivanja tipa za odgovarajuće\r\nsisteme 3 i 4 iz člana 30. ovog zakona upotrebom metoda koje se razlikuju od onih koje su\r\nsadržane u odgovarajućem srpskom standardu kojim je preuzet harmonizovani standard;",
+            "2) postupa sa građevinskim proizvodom na koji se primenjuje sistem 3 u\r\nskladu sa odredbama za sistem 4.",
+            "Kada primenjuje pojednostavljene postupke, pravno lice iz stava 1. ovog\r\nčlana dokazuje usklađenost građevinskog proizvoda sa važećim zahtevima pomoću specifične\r\ntehničke dokumentacije i dokazuje jednakost korišćenih postupaka sa postupcima utvrđenim\r\nu odgovarajućem srpskom standardu kojim je preuzet harmonizovani standard.",
+            "Upotreba specifične tehničke dokumentacije"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_32"
+    },
+    {
+        "title": "Član 33",
+        "texts": [
+            "Za građevinski proizvod obuhvaćen srpskim standardom sa Spiska 1 koji je,\r\npo zahtevu za posebnu narudžbinu, proizveden zasebno ili po meri u neserijskoj proizvodnji\r\ni koji je ugrađen u pojedinačno prepoznatljiv objekat, proizvođač može da zameni deo o ocenjivanju\r\nperformansi iz odgovarajućeg sistema ocenjivanja i verifikacije stalnosti performansi, specifičnom\r\ntehničkom dokumentacijom kojom se dokazuje usklađenost građevinskog proizvoda sa zahtevima\r\nutvrđenim u odgovarajućem srpskom standardu kojim je preuzet harmonizovani standard i jednakost\r\nkorišćenih postupaka sa postupcima utvrđenim u odgovarajućem srpskom standardu kojim je preuzet\r\nharmonizovani standard.",
+            "Ako građevinski proizvod iz stava 1. ovog člana pripada familiji građevinskih\r\nproizvoda na koju se, za ocenjivanje i verifikaciju stalnosti performansi, primenjuje sistem\r\n1+ ili sistem 1 iz člana 30. ovog zakona, specifičnu tehničku dokumentaciju proverava imenovano\r\ntelo za sertifikaciju proizvoda utvrđeno članom 30. ovog zakona.",
+            "Elektronska kontakt tačka za građevinske proizvode"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_33"
+    },
+    {
+        "title": "Član 34",
+        "texts": [
+            "Poslove elektronske kontakt tačke za građevinske proizvode obavlja ministarstvo\r\nnadležno za poslove građevinarstva.",
+            "Elektronska kontakt tačka za građevinske proizvode ima obavezu da zainteresovanim\r\nlicima pruža informacije o:",
+            "1) tehničkim propisima koji se primenjuju na određenu vrstu proizvoda na\r\nteritoriji Republike Srbije, odnosno informacije da li ta vrsta proizvoda podleže prethodnom\r\npribavljanju dokumenata o ocenjivanju i verifikaciji stalnosti performansi shodno propisima\r\nRepublike Srbije, kao i informacije o potrebi sprovođenja postupka priznavanja inostranih\r\ndokumenata o ocenjivanju i verifikaciji stalnosti performansi na teritoriji Republike Srbije;",
+            "2) podacima o nadležnim organima u Republici Srbiji koji omogućavaju da\r\nse ti organi kontaktiraju direktno, uključujući i pojedinosti o organima koji su odgovorni\r\nza nadzor nad primenom tehničkih propisa za građevinske proizvode na teritoriji Republike\r\nSrbije;",
+            "3) pravnim sredstvima u Republici Srbiji u slučaju spora između nadležnih\r\norgana i privrednog subjekta.",
+            "Za pružanje informacija preko elektronske kontakt tačke za građevinske\r\nproizvode iz stava 2. ovog člana ne plaća se taksa.",
+            "VII TELA ZA TEHNIČKO OCENJIVANJE",
+            "Imenovanje tela za tehničko ocenjivanje"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_34"
+    },
+    {
+        "title": "Član 35",
+        "texts": [
+            "Na zahtev pravnog lica, ministar nadležan za poslove građevinarstva, donosi\r\nrešenje o imenovanju tela za tehničko ocenjivanje koje sprovodi ocenjivanje performansi i\r\nizdavanje tehničke ocene za jednu ili više oblasti građevinskih proizvoda utvrđenih u članu\r\n3. stav 1. ovog zakona.",
+            "Način imenovanja i oduzimanja odobrenja telu za tehničko ocenjivanje, kao\r\ni način utvrđivanja ispunjenosti zahteva za imenovanje tela za tehničko ocenjivanje sprovodi\r\nse po posebnom propisu kojim su uređeni tehnički zahtevi za proizvode i ocenjivanje usaglašenosti.",
+            "Zahteve za imenovanje tela za tehničko ocenjivanje utvrđuje ministar nadležan\r\nza poslove građevinarstva.",
+            "Nakon pravnosnažnosti rešenja iz stava 1. ovog člana ministarstvo nadležno\r\nza poslove građevinarstva, u skladu sa posebnim propisom, dostavlja Evropskoj komisiji i\r\ndrugim državama članicama Evropske unije podatke o nazivu, adresi i oblastima građevinskih\r\nproizvoda za koje je telo za tehničko ocenjivanje imenovano, na zahtev tela za tehničko ocenjivanje.",
+            "Ispunjenost zahteva iz stava 3. ovog člana za imenovanje tela za tehničko\r\nocenjivanje utvrđuje se rešenjem na predlog komisije koju obrazuje ministar nadležan za poslove\r\ngrađevinarstva.",
+            "Članovi komisije iz stava 5. ovog člana imaju pravo na naknadu za rad.",
+            "Za izdavanje rešenja iz stava 1. ovog člana plaća se republička administrativna\r\ntaksa.",
+            "Rešenje iz stava 1. ovog člana je konačno.",
+            "Obaveze tela za tehničko ocenjivanje"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_35"
+    },
+    {
+        "title": "Član 36",
+        "texts": [
+            "Telo za tehničko ocenjivanje sprovodi ocenjivanje performansi i izdaje\r\ntehničku ocenu za oblast građevinskih proizvoda za koju je imenovano.",
+            "Telo za tehničko ocenjivanje obavezno je da ispunjava zahteve utvrđene\r\npropisom donetim na osnovu ovog zakona za oblast građevinskih proizvoda za koju je imenovano.",
+            "Telo za tehničko ocenjivanje javno objavljuje svoju organizacionu šemu\r\ni imena lica odgovornih za donošenje odluka.",
+            "Nadzor nad radom tela za tehničko ocenjivanje"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_36"
+    },
+    {
+        "title": "Član 37",
+        "texts": [
+            "Telo za tehničko ocenjivanje dužno je da jednom godišnje od dana pravnosnažnosti\r\nrešenja iz člana 35. stav 1. ovog zakona, kao i na pisani zahtev ministarstva nadležnog za\r\nposlove građevinarstva, izveštava ministarstvo o sprovođenju ocenjivanja i izdavanja tehničkih\r\nocena za oblast građevinskih proizvoda za koje je imenovano. Uz izveštaj se dostavljaju i\r\ndokazi potrebni za proveru i nadzor nad ispunjavanjem propisanih zahteva za obavljanje poslova\r\nza koje je doneto rešenje iz člana 35. stav 1. ovog zakona.",
+            "Ako telo za tehničko ocenjivanje prestane da ispunjava zahteve za obavljanje\r\nposlova za koje je doneto rešenje iz člana 35. stav 1. ovog zakona, dužno je da o tome, bez\r\nodlaganja, a najkasnije u roku od tri radna dana od dana nastajanja tih okolnosti, izvesti\r\nministarstvo nadležno za poslove građevinarstva.",
+            "U slučaju iz stava 2. ovog člana, ministarstvo nadležno za poslove građevinarstva\r\ndonosi rešenje o ukidanju ili delimičnom ukidanju rešenja iz člana 35. stav 1. ovog zakona.",
+            "Rešenje iz stava 3. ovog člana je konačno."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_37"
+    },
+    {
+        "title": "Član 38",
+        "texts": [
+            "Nakon saznanja o mogućem prestanku ispunjenosti propisanih zahteva, odnosno\r\no neispunjavanju obaveza i/ili istekom roka za dostavu podataka iz člana 37. stav 2. ovog\r\nzakona, ministarstvo nadležno za poslove građevinarstva po službenoj dužnosti pokreće postupak\r\nprovere ispunjenosti propisanih zahteva, odnosno obaveza tela za tehničko ocenjivanje.",
+            "Ako u postupku provere utvrdi nedostatke usled kojih telo za tehničko ocenjivanje\r\nne ispunjava propisane zahteve, ministarstvo nadležno za poslove građevinarstva rešenjem\r\nodređuje rok za otklanjanje nedostataka koji ne može biti duži od 60 dana.",
+            "U slučaju da imenovano telo za tehničko ocenjivanje ne otkloni nedostatke\r\niz stava 2. ovog člana u određenom roku, ministarstvo nadležno za poslove građevinarstva\r\ndonosi rešenje o ukidanju ili delimičnom ukidanju rešenja iz člana 35. stav 1. ovog zakona.",
+            "U slučaju potpunog ili delimičnog ukidanja rešenja iz člana 35. stav 1.\r\novog zakona za telo za tehničko ocenjivanje prijavljeno Evropskoj komisiji i drugim državama\r\nčlanicama Evropske unije, po pravnosnažnosti rešenja, ministarstvo nadležno za poslove građevinarstva\r\no tome obaveštava Evropsku komisiju i države članice Evropske unije.",
+            "Ako u postupku provere utvrdi da telo za tehničko ocenjivanje i dalje ispunjava\r\npropisane zahteve, ministarstvo nadležno za poslove građevinarstva obustavlja postupak provere.",
+            "Rešenje iz stava 3. ovog člana o potpunom ili delimičnom ukidanju rešenja\r\niz člana 35. stav 1. ovog zakona je konačno.",
+            "VIII TELA ZA OCENJIVANJE I VERIFIKACIJU STALNOSTI PERFORMANSI\r\nGRAĐEVINSKIH PROIZVODA",
+            "Imenovanje tela za ocenjivanje i verifikaciju stalnosti\r\nperformansi građevinskih proizvoda"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_38"
+    },
+    {
+        "title": "Član 39",
+        "texts": [
+            "Na zahtev pravnog lica, ministar nadležan za poslove građevinarstva, donosi\r\nrešenje o imenovanju tela za ocenjivanje i verifikaciju stalnosti performansi kojim se odobrava\r\nobavljanje zadataka nezavisne treće strane u postupku ocenjivanja i verifikacije stalnosti\r\nperformansi građevinskog proizvoda.",
+            "Način davanja i oduzimanja odobrenja za obavljanje zadataka nezavisne treće\r\nstrane u postupku ocenjivanja i verifikacije stalnosti performansi građevinskih proizvoda,\r\nkao i način utvrđivanja ispunjenosti propisanih zahteva za imenovanje tela za ocenjivanje\r\ni verifikaciju stalnosti performansi sprovode se po posebnom propisu kojim su uređeni tehnički\r\nzahtevi za proizvode i ocenjivanje usaglašenosti.",
+            "Rešenje iz stava 1. ovog člana donosi se na predlog komisije koju obrazuje\r\nministar nadležan za poslove građevinarstva.",
+            "Članovi komisije iz stava 3. ovog člana imaju pravo na naknadu za rad.",
+            "Za izdavanje rešenja iz stava 1. ovog člana plaća se republička administrativna\r\ntaksa.",
+            "Rešenjem iz stava 1. ovog člana, telu za ocenjivanje i verifikaciju stalnosti\r\nperformansi u postupku ocenjivanja i verifikacije stalnosti performansi građevinskog proizvoda,\r\nodobrava se obavljanje zadataka nezavisne treće strane u periodu od četiri godine.",
+            "Rešenje iz stava 1. ovog člana je konačno.",
+            "Zahtevi za imenovanje tela za ocenjivanje i verifikaciju\r\nstalnosti performansi građevinskih proizvoda"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_39"
+    },
+    {
+        "title": "Član 40",
+        "texts": [
+            "Imenovano telo za ocenjivanje i verifikaciju stalnosti performansi može\r\nda obavlja zadatke nezavisne treće strane u postupku ocenjivanja i verifikacije stalnosti\r\nperformansi građevinskog proizvoda, ako ispunjava sledeće zahteve:",
+            "1) da je osnovano u skladu sa posebnim propisima i ima status pravnog lica;",
+            "2) da predstavlja treću stranu nezavisnu od organizacije koju ocenjuje\r\nili građevinskog proizvoda koji ocenjuje;",
+            "3) da je nezavisno i da ne postoji sukob interesa u slučaju da pripada\r\nnekom poslovnom udruženju ili strukovnom udruženju koje predstavlja pravna ili fizička lica\r\nuključena u projektovanje, proizvodnju, obezbeđivanje, sklapanje, upotrebu ili održavanje\r\ngrađevinskih proizvoda koje ocenjuje;",
+            "4) da njegovo rukovodstvo i zaposlena i druga radno angažovana lica odgovorna\r\nza obavljanje zadataka nezavisne treće strane u postupku ocenjivanja i verifikacije stalnosti\r\nperformansi nisu projektant, proizvođač, isporučilac, lice koje ugrađuje, kupac, vlasnik,\r\nkorisnik ili lice koje održava građevinski proizvod koje to imenovano telo za ocenjivanje\r\ni verifikaciju stalnosti performansi ocenjuje, niti zastupnik bilo koje od tih strana. Ovim\r\nzahtevom se ne isključuje upotreba ocenjenih proizvoda koji su neophodni za rad imenovanog\r\ntela za ocenjivanje i verifikaciju stalnosti performansi ili upotrebu proizvoda u lične svrhe;",
+            "5) da njegovo rukovodstvo, zaposlena i druga radno angažovana lica odgovorna\r\nza obavljanje zadataka nezavisne treće strane u postupku ocenjivanja i verifikacije stalnosti\r\nperformansi nisu direktno uključena u projektovanje, proizvodnju ili izgradnju, plasiranje,\r\nugradnju, upotrebu ili održavanje građevinskih proizvoda koje ocenjuje, niti zastupaju strane\r\nuključene u te aktivnosti. Rukovodstvo i zaposlena i druga radno angažovana lica odgovorna\r\nza obavljanje zadataka nezavisne treće strane ne mogu biti angažovana u aktivnosti koja može\r\nbiti u sukobu sa njihovom nezavisnošću u donošenju odluka i integritetom u vezi sa aktivnostima\r\nza koje su određeni rešenjem iz člana 39. stav 1. ovog zakona, naročito u pogledu pružanja\r\nkonsultantskih usluga;",
+            "6) da obezbeđuje da aktivnosti njegovih povezanih pravnih lica ili podugovarača\r\nne utiču na poverljivost, objektivnost i nepristrasnost njegovih aktivnosti ocenjivanja i/ili\r\nverifikacije;",
+            "7) da njegova zaposlena i druga radno angažovana lica obavljaju zadatke\r\nnezavisne treće strane u postupku ocenjivanja i verifikacije stalnosti performansi uz najveći\r\nstepen profesionalnog integriteta i potrebne tehničke stručnosti u određenoj oblasti i oslobođeno\r\nsvakog uticaja, naročito finansijskih, koji može da utiče na njihovo donošenje odluka ili\r\nrezultate njihovih aktivnosti ocenjivanja i/ili verifikacije, posebno kada to čine lica ili\r\ngrupe lica koja imaju interes u pogledu rezultata tih aktivnosti;",
+            "8) da ima kapacitet da obavlja sve zadatke nezavisne treće strane u postupku\r\nocenjivanja i verifikacije stalnosti performansi građevinskog proizvoda, za koje je podneo\r\nzahtev iz člana 39. stav 1. ovog zakona.",
+            "Imenovano telo za ocenjivanje i verifikaciju stalnosti performansi dužno\r\nje da u svakom trenutku i za svaki sistem ocenjivanja i verifikacije stalnosti performansi\r\ni za svaku vrstu ili kategoriju građevinskih proizvoda za koju su tehnički zahtevi utvrđeni\r\ntehničkom specifikacijom ili tehničkim propisom, a u vezi sa bitnim karakteristikama i zadacima\r\nza koje je izdato rešenje iz člana 39. stav 1. ovog zakona, ima na raspolaganju sledeće:",
+            "1) neophodna zaposlena i druga radno angažovana lica sa stručnim znanjem\r\ni odgovarajućim iskustvom za obavljanje zadataka nezavisne treće strane u postupku ocenjivanja\r\ni verifikacije stalnosti performansi;",
+            "2) neophodan opis postupaka u skladu sa kojima se obavlja ocenjivanje performansi,\r\na kojima se osigurava transparentnost i mogućnost ponovnog obavljanja tih postupaka; uspostavljene\r\nodgovarajuće politike i postupke kojima se mogu razgraničiti zadaci koje obavlja kao imenovano\r\ntelo za ocenjivanje i verifikaciju stalnosti performansi i druge aktivnosti;",
+            "3) neophodne postupke za obavljanje svojih aktivnosti kojima se na odgovarajući\r\nnačin uzimaju u obzir veličina proizvođača, sektor u kome posluje, organizacija, stepen složenosti\r\nprimenjenog tehnološkog procesa i masovna ili serijska priroda proizvodnog procesa.",
+            "Imenovano telo za ocenjivanje i verifikaciju stalnosti performansi mora\r\nda raspolaže neophodnim sredstvima za obavljanje tehničkih i administrativnih poslova u vezi\r\nsa zadacima za koje je izdato rešenje iz člana 39. stav 1. ovog zakona i ima pristup potrebnoj\r\nopremi ili kapacitetima.",
+            "Zaposlena i druga radno angažovana lica imenovanog tela za ocenjivanje\r\ni verifikaciju stalnosti performansi građevinskog proizvoda odgovorna za obavljanje radnji\r\nu okviru sistema ocenjivanja i verifikacije stalnosti performansi poseduje sledeće:",
+            "1) tehničku i stručnu obuku kojom su obuhvaćeni svi zadaci nezavisne treće\r\nstrane u postupku ocenjivanja i verifikacije stalnosti performansi u okviru odgovarajućeg\r\nobima primene za koje je izdato rešenje iz člana 39. stav 1. ovog zakona;",
+            "2) poznavanje zahteva za ocenjivanje i verifikaciju koje obavljaju i odgovarajuće\r\novlašćenje za obavljanje tih poslova;",
+            "3) poznavanje i razumevanje tehničkih specifikacija i tehničkih propisa\r\ni odgovarajućih odredbi ovog zakona;",
+            "4) stručnost neophodnu za izradu sertifikata, zapisa i izveštaja kojima\r\nse dokazuje da su ocenjivanje i verifikacija stalnosti performansi građevinskog proizvoda\r\nsprovedeni.",
+            "Nepristrasnost imenovanog tela za ocenjivanje i verifikaciju stalnosti\r\nperformansi, njegovog rukovodstva i zaposlenih i drugih radno angažovanih lica za ocenjivanje\r\nmora biti zagarantovana.",
+            "Naknada za rad rukovodstva imenovanog tela za ocenjivanje i verifikaciju\r\nstalnosti performansi i njegovih zaposlenih i drugih radno angažovanih lica za ocenjivanje\r\nne zavisi od broja sprovedenih ocenjivanja niti od rezultata takvih ocenjivanja.",
+            "Imenovano telo za ocenjivanje i verifikaciju stalnosti performansi poseduje\r\nosiguranje od odgovornosti za sprovedeno ocenjivanje i/ili verifikaciju.",
+            "Zaposlena i druga radno angažovana lica imenovanog tela za ocenjivanje\r\ni verifikaciju stalnosti performansi obavezna su da čuvaju poslovnu tajnu u vezi sa svim\r\ninformacijama dobijenim prilikom obavljanja zadataka nezavisne treće strane u postupku ocenjivanja\r\ni verifikacije stalnosti performansi, osim kada to zahteva nadležni organ tržišnog nadzora,\r\npri čemu prava svojine proizvođača moraju biti zaštićena.",
+            "Ministar nadležan za poslove građevinarstva bliže propisuje zahteve za\r\nimenovanje tela za ocenjivanje i verifikaciju stalnosti performansi.",
+            "Uloga akreditacije u postupku imenovanja tela za ocenjivanje\r\ni verifikaciju stalnosti performansi"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_40"
+    },
+    {
+        "title": "Član 41",
+        "texts": [
+            "Imenovano telo za ocenjivanje i verifikaciju stalnosti performansi, koje\r\nposeduje sertifikat o akreditaciji ispunjava propisane zahteve iz člana 40. ovog zakona u\r\nmeri u kojoj su propisani zahtevi obuhvaćeni obimom akreditacije, uzimajući u obzir postupke\r\nocenjivanja i verifikacije stalnosti performansi za građevinske proizvode obuhvaćene akreditacijom.",
+            "Povezana pravna lica i podugovarači imenovanog tela za ocenjivanje\r\ni verifikaciju stalnosti performansi"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_41"
+    },
+    {
+        "title": "Član 42",
+        "texts": [
+            "Ako imenovano telo za ocenjivanje i verifikaciju stalnosti performansi\r\npodugovori određene poslove u vezi sa zadacima nezavisne treće strane u postupku ocenjivanja\r\ni verifikacije stalnosti performansi građevinskog proizvoda ili poveri nekom povezanom pravnom\r\nlicu, imenovano telo za ocenjivanje i verifikaciju stalnosti performansi obezbeđuje da podugovarač\r\nili povezano pravno lice ispunjava zahteve iz člana 40. ovog zakona i o tome, obaveštava\r\nministarstvo nadležno za poslove građevinarstva.",
+            "Imenovano telo za ocenjivanje i verifikaciju stalnosti performansi preuzima\r\nodgovornost za zadatke koje obavljaju podugovarači ili povezana pravna lica.",
+            "Radnje u postupku ocenjivanja i verifikacije stalnosti performansi mogu\r\nbiti podugovorene uz saglasnost naručioca tih radnji.",
+            "Imenovano telo za ocenjivanje i verifikaciju stalnosti performansi čuva\r\ndokumentaciju koja se odnosi na ocenjivanje kompetentnosti svakog podugovarača ili povezanog\r\npravnog lica i na zadatke koje su obavili u postupcima ocenjivanja i verifikacije stalnosti\r\nperformansi građevinskog proizvoda i dostavlja, po zahtevu, ministarstvu nadležnom za poslove\r\ngrađevinarstva.",
+            "Obavljanje ispitivanja izvan laboratorije za ispitivanje\r\nimenovanog tela za ocenjivanje i verifikaciju stalnosti performansi"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_42"
+    },
+    {
+        "title": "Član 43",
+        "texts": [
+            "Na zahtev proizvođača i ako je to opravdano iz tehničkih, ekonomskih ili\r\nlogističkih razloga, imenovano telo za ocenjivanje i verifikaciju stalnosti performansi može\r\nda odluči da sprovede ispitivanja iz člana 30. ovog zakona, za sisteme ocenjivanja i verifikacije\r\nstalnosti performansi 1+, 1 i 3 ili da dopusti da se ta ispitivanja sprovode pod njegovim\r\nnadzorom, bilo u proizvodnim pogonima u kojima se koristi oprema za ispitivanje interne laboratorije\r\nproizvođača ili uz prethodni pristanak proizvođača, u eksternoj laboratoriji, koristeći opremu\r\nza ispitivanje te laboratorije.",
+            "Na zahtev tela za ocenjivanje i verifikaciju stalnosti performansi ministar\r\nnadležan za poslove građevinarstva rešenjem iz člana 39. stav 1. ovog zakona odobrava i obavljanje\r\nispitivanja izvan njegovih akreditovanih laboratorija za ispitivanje.",
+            "Pre sprovođenja ispitivanja iz stava 2. ovog člana, imenovano telo za ocenjivanje\r\ni verifikaciju stalnosti performansi proverava da li su zadovoljeni zahtevi metode ispitivanja\r\ni ocenjuje da li:",
+            "1) oprema za ispitivanje poseduje odgovarajući sistem etaloniranja i da\r\nli je garantovana sledljivost merenja;",
+            "2) je obezbeđen kvalitet rezultata ispitivanja.",
+            "Provera ispunjenosti zahteva za ocenjivanje i verifikaciju\r\nstalnosti performansi i obaveza imenovanog tela za ocenjivanje i verifikaciju stalnosti performansi"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_43"
+    },
+    {
+        "title": "Član 44",
+        "texts": [
+            "Proveru ispunjenosti propisanih zahteva i obaveza imenovanog tela za ocenjivanje\r\ni verifikaciju stalnosti performansi i nakon pravosnažnosti rešenja iz člana 39. stav 1.\r\novog zakona, vrši ministarstvo nadležno za poslove građevinarstva.",
+            "Obaveze imenovanog tela za ocenjivanje i verifikaciju stalnosti\r\nperformansi"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_44"
+    },
+    {
+        "title": "Član 45",
+        "texts": [
+            "Imenovano telo za ocenjivanje i verifikaciju stalnosti performansi obavlja\r\nzadatke nezavisne treće strane u skladu sa sistemima ocenjivanja i verifikacije stalnosti\r\nperformansi propisanim članom 30. ovog zakona.",
+            "Ocenjivanje i verifikacija stalnosti performansi sprovodi se transparentno\r\nu odnosu na proizvođača i na odgovarajući način, uz izbegavanje nepotrebnog tereta za privredne\r\nsubjekte. Imenovano telo za ocenjivanje i verifikaciju stalnosti performansi obavlja zadatke\r\nuzimajući u obzir veličinu privrednog subjekta, delatnost koju obavlja, organizaciju, stepen\r\nsloženosti primenjenog tehnološkog procesa i prirodu proizvodnog procesa.",
+            "Ocenjivanje i verifikacija stalnosti performansi sprovodi se u skladu sa\r\nčlanom 30. ovog zakona, shodno nivou zahteva za proizvod i ulozi koju taj građevinski proizvod\r\nima u ispunjenju svih osnovnih zahteva za objekte.",
+            "Imenovano telo za ocenjivanje i verifikaciju stalnosti performansi zahteva\r\nda proizvođač preduzme odgovarajuće korektivne radnje i u tom slučaju ne izdaje sertifikat,\r\nako u toku sprovođenja početnog pregleda proizvodnog pogona i fabričke kontrole proizvodnje\r\nutvrdi da proizvođač nije obezbedio stalnost performansi proizvedenog građevinskog proizvoda.",
+            "Ako imenovano telo za ocenjivanje i verifikaciju stalnosti performansi\r\nu toku sprovođenja stalnog nadzora koji ima za cilj da proveri stalnost performansi proizvedenog\r\ngrađevinskog proizvoda, utvrdi da performanse tog građevinskog proizvoda ne odgovaraju pripadajućem\r\ntipu proizvoda, imenovano telo zahteva da proizvođač preduzme odgovarajuće korektivne radnje\r\ni ako je potrebno ne izdaje sertifikat, ograničava važenje ili povlači sertifikat.",
+            "Ako korektivne radnje nisu preduzete ili nemaju adekvatan efekat, imenovano\r\ntelo za ocenjivanje i verifikaciju stalnosti performansi ograničava, obustavlja ili povlači\r\nsertifikate.",
+            "Obaveze imenovanog tela za ocenjivanje i verifikaciju stalnosti\r\nperformansi u vezi sa izveštavanjem"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_45"
+    },
+    {
+        "title": "Član 46",
+        "texts": [
+            "Imenovano telo za ocenjivanje i verifikaciju stalnosti performansi izveštava\r\nministarstvo nadležno za poslove građevinarstva o:",
+            "1) svakom odbijanju izdavanja, ograničenju, obustavljanju ili povlačenju\r\nsertifikata;",
+            "2) svim okolnostima koje utiču na obim primene i zahteve na osnovu kojih\r\nje izdato rešenje iz člana 39. stav 1. ovog zakona;",
+            "3) svakom zahtevu za pružanje informacija o svim sprovedenim aktivnostima\r\nocenjivanja i/ili verifikacije stalnosti performansi koji su primili od organa tržišnog nadzora;",
+            "4) zadacima nezavisne treće strane u skladu sa sistemima ocenjivanja i\r\nverifikacije stalnosti performansi koje je sprovelo u obimu za koji ispunjava zahteve za\r\nobavljanje zadataka nezavisne treće strane i svim drugim sprovedenim aktivnostima, uključujući\r\nprekogranične aktivnosti i podugovaranja, na zahtev ministarstva nadležnog za poslove građenja.",
+            "Imenovano telo za ocenjivanje i verifikaciju stalnosti performansi pruža\r\nodgovarajuće informacije o pitanjima u vezi sa negativnim i na zahtev, pozitivnim rezultatima\r\ntih ocenjivanja i/ili verifikacija, drugim telima koja prema ovom zakonu ispunjavaju zahteve\r\nza sprovođenje sličnih zadataka nezavisne treće strane u skladu sa sistemima ocenjivanja\r\ni verifikacije stalnosti performansi za građevinske proizvode obuhvaćene istom tehničkom\r\nspecifikacijom ili istim tehničkim propisom.",
+            "Ako imenovano telo za ocenjivanje i verifikaciju stalnosti performansi\r\nprestane da ispunjava zahteve za obavljanje zadataka nezavisne treće strane na osnovu kojih\r\nje doneto rešenje iz člana 39. stav 1. ovog zakona, dužno je da o tome bez poziva i odlaganja,\r\na najkasnije u roku od tri radna dana od dana nastanka tih okolnosti, izvesti ministarstvo\r\nnadležno za poslove građevinarstva.",
+            "U slučaju iz stava 3. ovog člana, ministar nadležan za poslove građevinarstva\r\ndonosi rešenje o ukidanju ili delimičnom ukidanju rešenja iz člana 39. stav 1. ovog zakona.",
+            "Rešenje iz stava 4. ovog člana je konačno.",
+            "Nakon saznanja o mogućem prestanku ispunjenosti zahteva, odnosno obaveza\r\nutvrđenih ovim zakonom i/ili istekom roka za dostavu podataka iz stava 3. ovog člana, ministarstvo\r\nnadležno za poslove građevinarstva po službenoj dužnosti pokreće postupak provere ispunjavanja\r\nzahteva, odnosno ispunjenje obaveza imenovanog tela za ocenjivanje i verifikaciju stalnosti\r\nperformansi.",
+            "Ako se u postupku provere utvrdi postojanje nedostataka usled kojih je\r\nimenovano telo za ocenjivanje i verifikaciju stalnosti performansi prestalo da ispunjava\r\nzahteve propisane ovim zakonom, ministar nadležan za poslove građevinarstva donosi rešenje\r\nkojim određuje rok za otklanjanje nedostataka koji ne može biti duži od 60 dana.",
+            "U slučaju da imenovano telo za ocenjivanje i verifikaciju stalnosti performansi\r\nne otkloni nedostatke iz stava 7. ovog člana u određenom roku, ministarstvo nadležno za poslove\r\ngrađevinarstva donosi rešenje o ukidanju ili delimičnom ukidanju rešenja iz člana 39. stav\r\n1. ovog zakona.",
+            "Rešenje iz stava 8. ovog člana o potpunom ili delimičnom ukidanju rešenja\r\niz člana 39. stav 1. ovog zakona je konačno.",
+            "U slučaju delimičnog ili potpunog ukidanja rešenja iz člana 39. stav 1.\r\novog zakona ili kada imenovano telo za ocenjivanje i verifikaciju stalnosti performansi prestane\r\nda obavlja svoju delatnost, ministarstvo nadležno za poslove građevinarstva nalaže imenovanom\r\ntelu da izvrši prenos dokumentacije u vezi sa ocenjivanjem i verifikacijom stalnosti performansi\r\ndrugom imenovanom telu ili da dokumentaciju učini dostupnom ministarstvu nadležnom za poslove\r\ngrađevinarstva ili nadležnim organima tržišnog nadzora.",
+            "Za potrebe postupka provere, privredni subjekti i nadležni organi tržišnog\r\nnadzora, na zahtev ministarstva nadležnog za poslove građevinarstva, dostavljaju bez odlaganja\r\ntražene podatke i dokumentaciju.",
+            "Ako se u postupku provere utvrdi da imenovano telo za ocenjivanje i verifikaciju\r\nstalnosti performansi i dalje ispunjava propisane zahteve, ministarstvo nadležno za poslove\r\ngrađevinarstva obustavlja postupak.",
+            "Koordinacija imenovanih tela za ocenjivanje i verifikaciju\r\nstalnosti performansi"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_46"
+    },
+    {
+        "title": "Član 47",
+        "texts": [
+            "Imenovana tela za ocenjivanje i verifikaciju stalnosti performansi međusobno\r\nsarađuju i koordiniraju aktivnosti.",
+            "Identifikacioni brojevi i spisak imenovanih tela za ocenjivanje\r\ni verifikaciju stalnosti performansi"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_47"
+    },
+    {
+        "title": "Član 48",
+        "texts": [
+            "Ministarstvo nadležno za poslove građevinarstva dostavlja primerak rešenja\r\niz člana 39. stav 1. ovog zakona ministarstvu nadležnom za vođenje registra imenovanih tela\r\nza ocenjivanje i verifikaciju stalnosti performansi, saglasno propisu kojim se uređuju tehnički\r\nzahtevi za proizvode i ocenjivanje usaglašenosti, radi upisa u registar.",
+            "Ministarstvo nadležno za poslove građevinarstva, nakon upisa imenovanog\r\ntela za ocenjivanje i verifikaciju stalnosti performansi u registar, na svojoj internet stranici\r\nobjavljuje spisak imenovanih tela za ocenjivanje i verifikaciju stalnosti performansi iz\r\nstava 1. ovog člana, uz navođenje identifikacionog broja i zadataka nezavisne treće strane\r\nu postupku ocenjivanja i verifikacije stalnosti performansi građevinskih proizvoda koji su\r\nim odobreni.",
+            "Ministarstvo nadležno za poslove građevinarstva objavljuje svaku promenu\r\nspiska iz stava 2. ovog člana na svojoj internet stranici.",
+            "Telo iz stava 2. ovog člana obavlja zadatke nezavisne treće strane u postupku\r\nocenjivanja i verifikacije stalnosti performansi građevinskog proizvoda po pravnosnažnosti\r\nrešenja iz člana 39. stav 1. ovog zakona.",
+            "Prijavljivanje tela za ocenjivanje i verifikaciju stalnosti\r\nperformansi"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_48"
+    },
+    {
+        "title": "Član 49",
+        "texts": [
+            "Za obavljanje zadataka nezavisne treće strane u postupku ocenjivanja i\r\nverifikacije stalnosti performansi u skladu sa harmonizovanom tehničkom specifikacijom, imenovano\r\ntelo za ocenjivanje i verifikaciju stalnosti performansi podnosi organu nadležnom za prijavljivanje,\r\npreko ministarstva nadležnog za poslove građevinarstva, zahtev za prijavljivanje Evropskoj\r\nkomisiji i državama članicama, u skladu sa zakonom kojim se uređuju tehnički zahtevi za proizvode\r\ni ocenjivanje usaglašenosti i propisima donetim na osnovu tog zakona."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_49"
+    },
+    {
+        "title": "Član 50",
+        "texts": [
+            "Imenovano telo za ocenjivanje i verifikaciju stalnosti performansi može\r\nbiti prijavljeno kao:",
+            "1) telo prijavljeno za sertifikaciju stalnosti performansi građevinskog\r\nproizvoda;",
+            "2) telo prijavljeno za sertifikaciju fabričke kontrole proizvodnje i/ili",
+            "3) laboratorija prijavljena za merenje, istraživanje, ispitivanje, proračun\r\nili drugi način ocenjivanja performansi građevinskog proizvoda, za obavljanje zadataka nezavisne\r\ntreće strane u postupku ocenjivanja i verifikacije stalnosti performansi u skladu sa odgovarajućom\r\nharmonizovanom tehničkom specifikacijom.",
+            "U slučajevima kada nije neophodno upućivanje na odgovarajuće harmonizovane\r\ntehničke specifikacije utvrđenim u članu 6. stav 4. ovog zakona, imenovano telo iz člana\r\n30. ovog zakona može biti prijavljeno kao laboratorija prijavljena za ispitivanje: reakcije\r\nna požar, otpornosti na požar, performansi pri spoljašnjem požaru, apsorpcije buke i emisije\r\nopasnih materija."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_50"
+    },
+    {
+        "title": "Član 51",
+        "texts": [
+            "Prijavljivanje tela za ocenjivanje i verifikaciju stalnosti performansi\r\niz člana 49. ovog zakona, sprovodi se u skladu sa posebnim propisom kojim se uređuje postupak\r\nprijavljivanja, način utvrđivanja ispunjenosti propisanih zahteva za prijavljivanje, nadzor\r\nnad radom tih tela, kao i suspenzija i povlačenje prijavljivanja, donetim na osnovu zakona\r\nkojim se uređuju tehnički zahtevi za proizvode i ocenjivanje usaglašenosti.",
+            "IX VAŽENJE DOKUMENATA O SPROVEDENOM OCENJIVANJU I VERIFIKACIJI\r\nSTALNOSTI PERFORMANSI GRAĐEVINSKIH PROIZVODA I ZNAKOVA USAGLAŠENOSTI IZDATIH U INOSTRANSTVU"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_51"
+    },
+    {
+        "title": "Član 52",
+        "texts": [
+            "Dokumenti o sprovedenom ocenjivanju i verifikaciji stalnosti performansi\r\ngrađevinskog proizvoda izdati u inostranstvu važe u Republici Srbiji, ako su izdati u skladu\r\nsa potvrđenim međunarodnim sporazumom čiji je potpisnik Republika Srbija."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_52"
+    },
+    {
+        "title": "Član 53",
+        "texts": [
+            "Ministar nadležan za poslove građevinarstva rešenjem može priznati važenje\r\ndokumenta o sprovedenom ocenjivanju i verifikaciji stalnosti performansi koji je izdalo telo\r\nkoje obavlja poslove nezavisne treće strane u skladu sa inostranim tehničkim propisom, ukoliko\r\nne postoji imenovano telo za ocenjivanje i verifikaciju stalnosti performansi u skladu sa\r\nsrpskom tehničkom specifikacijom ili tehničkim propisom odnosno telo za ispitivanje i/ili\r\nocenjivanje usaglašenosti u skladu sa odgovarajućim srpskim tehničkim propisom."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_53"
+    },
+    {
+        "title": "Član 54",
+        "texts": [
+            "Ispunjenost zahteva za priznavanje dokumenata o sprovedenom ocenjivanju\r\ni verifikaciji stalnosti performansi iz člana 53. ovog zakona utvrđuje se rešenjem ministra\r\nnadležnog za poslove građevinarstva.",
+            "Rešenje iz stava 1. ovog člana donosi se na predlog komisije koju obrazuje\r\nministar nadležan za poslove građevinarstva.",
+            "Članovi komisije iz stava 2. ovog člana imaju pravo na naknadu za rad.",
+            "Za izdavanje rešenja iz stava 1. ovog člana plaća se republička administrativna\r\ntaksa."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_54"
+    },
+    {
+        "title": "Član 55",
+        "texts": [
+            "Ministarstvo nadležno za poslove građevinarstva dostavlja rešenje iz člana\r\n54. stav 1. kao i podatke o dokumentima o sprovedenom ocenjivanju i verifikaciji stalnosti\r\nperformansi građevinskog proizvoda iz člana 52. ovog zakona, ministarstvu nadležnom za poslove\r\ntehničkih propisa radi upisa u registar priznatih dokumenata o sprovedenom ocenjivanju i\r\nverifikaciji stalnosti performansi građevinskog proizvoda izdatih u inostranstvu.",
+            "X NADZOR"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_55"
+    },
+    {
+        "title": "Član 56",
+        "texts": [
+            "Nadzor nad sprovođenjem ovog zakona i propisa donetih na osnovu ovog zakona,\r\nsprovodi ministarstvo nadležno za poslove građevinarstva.",
+            "Nadzor iz stava 1. ovog člana uključuje i nadzor nad radom i trajnim ispunjavanjem\r\npropisanih zahteva tela za tehničko ocenjivanje, imenovanih i prijavljenih tela za ocenjivanje\r\ni verifikaciju stalnosti performansi.",
+            "Postupanje nadležnog organa tržišnog nadzora kada građevinski\r\nproizvod predstavlja ozbiljan rizik"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_56"
+    },
+    {
+        "title": "Član 57",
+        "texts": [
+            "Ako organi tržišnog nadzora preduzimaju mere u skladu sa zakonom kojim\r\nse uređuje tržišni nadzor ili ako imaju osnovanu sumnju da građevinski proizvod ne poseduje\r\nperformanse navedene u deklaraciji o performansama i predstavlja ozbiljan rizik po ispunjenje\r\nosnovnih zahteva za objekte, organi tržišnog nadzora sprovode proveru tog proizvoda koja\r\nobuhvata proveru ispunjenosti odgovarajućih zahteva utvrđenih ovim zakonom i propisima donetim\r\nna osnovu ovog zakona.",
+            "Ako u toku provere iz stava 1. ovog člana, nadležni organ tržišnog nadzora\r\nutvrdi da građevinski proizvod nije usaglašen sa zahtevima iz ovog zakona, tehničke specifikacije\r\nili tehničkog propisa i da predstavlja ozbiljan rizik, uključujući ozbiljan rizik čije posledice\r\nnisu trenutne i zahtevaju hitno postupanje, organ tržišnog nadzora bez odlaganja nalaže nadziranom\r\nsubjektu koji građevinski proizvod stavlja ili čini dostupnim na tržištu da u primerenom\r\nroku preduzme potrebne korektivne mere kako bi građevinski proizvod uskladio sa propisanim\r\nzahtevima ili obezbeđuje da građevinski proizvod bude opozvan ili povučen ili da zabrani\r\nnjegovo stavljanje ili isporuku na tržište.",
+            "Ako je u postupak ocenjivanja i verifikacije stalnosti performansi građevinskih\r\nproizvoda uključeno imenovano telo za ocenjivanje i verifikaciju stalnosti performansi, nadležni\r\norgan tržišnog nadzora, u skladu sa zakonom kojim se uređuje tržišni nadzor, obaveštava imenovano\r\ntelo za ocenjivanje i verifikaciju stalnosti performansi.",
+            "Privredni subjekt obezbeđuje preduzimanje svih odgovarajućih korektivnih\r\nmera na svim građevinskim proizvodima koje je taj privredni subjekt učinio dostupnim na tržištu.",
+            "Ako privredni subjekt tokom perioda iz stava 2. ovog člana ne preduzme\r\nodgovarajuće korektivne mere, nadležni organ tržišnog nadzora donosi rešenje kojim nadziranom\r\nprivrednom subjektu zabranjuje ili ograničava činjenje dostupnim na tržištu građevinskog\r\nproizvoda ili nalaže nadziranom subjektu da građevinski proizvod povuče sa tržišta ili da\r\ngrađevinski proizvod opozove.",
+            "Nadležni organi tržišnog nadzora o merama iz stava 5. ovog člana obaveštavaju,\r\nbez odlaganja, ministarstvo nadležno za poslove tržišnog nadzora. Informacije iz stava 5.\r\novog člana obuhvataju sve dostupne detalje, posebno podatke potrebne za identifikaciju neusaglašenog\r\ngrađevinskog proizvoda, poreklo tog građevinskog proizvoda, prirodu pretpostavljene neusaglašenosti\r\ni podrazumevanog rizika, prirodu i trajanje preduzetih mera, kao i argumente koje je izneo\r\nodgovarajući privredni subjekt. Nadležni organ tržišnog nadzora naročito naznačava kada je\r\nuzrok neusaglašenosti nemogućnost proizvoda da zadovolji performanse navedene u deklaraciji\r\no performansama i/ili ispuni zahteve u vezi sa ispunjenjem osnovnih zahteva za objekte utvrđene\r\novim zakonom, tehničkom specifikacijom ili tehničkim propisom.",
+            "Postupanje nadležnog organa tržišnog nadzora ako usaglašeni\r\ngrađevinski proizvod predstavlja rizik po zdravlje i bezbednost"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_57"
+    },
+    {
+        "title": "Član 58",
+        "texts": [
+            "Ako nakon sprovedene provere u skladu sa članom 57. ovog zakona nadležni\r\norgan tržišnog nadzora utvrdi da građevinski proizvod, i pored toga što je usaglašen sa ovim\r\nzakonom, tehničkom specifikacijom ili tehničkim propisom, predstavlja rizik po ispunjenje\r\nosnovnih zahteva za objekte, zdravlje ili bezbednost ljudi ili druge aspekte zaštite javnog\r\ninteresa, nadležni organ tržišnog nadzora zahteva od privrednog subjekta da preduzme sve\r\nodgovarajuće mere kako bi obezbedio da predmetni građevinski proizvod prilikom stavljanja\r\nna tržište ne predstavlja rizik, povuče taj građevinski proizvod sa tržišta ili ga opozove\r\nu nekom razumnom roku, srazmerno prirodi tog rizika.",
+            "Privredni subjekt obezbeđuje preduzimanje svih korektivnih mera shodno\r\nrešenju nadležnog inspektora, u vezi sa svim građevinskim proizvodima iz stava 1. ovog člana,\r\nkoje je privredni subjekt učinio dostupnim na tržištu.",
+            "Ovlašćenja nadležnog inspektora"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_58"
+    },
+    {
+        "title": "Član 59",
+        "texts": [
+            "Nadležni inspektor u vršenju tržišnog nadzora, osim ovlašćenja u skladu\r\nsa drugim propisima, ima pravo i obavezu da:",
+            "1) zahteva od nadziranih subjekata sve podatke i potrebnu dokumentaciju\r\no ocenjivanju i verifikaciji stalnosti performansi i druge dokaze o usklađenosti građevinskog\r\nproizvoda sa zahtevima utvrđenim ovim zakonom i propisima donetim na osnovu ovog zakona;",
+            "2) preduzima potrebne radnje u cilju sprovođenja pregleda i ispitivanja\r\ngrađevinskog proizvoda i nakon njegovog stavljanja na tržište ili činjenja dostupnim na tržištu,\r\na radi provere usaglašenosti građevinskog proizvoda sa performansama navedenim u deklaraciji\r\no performansama građevinskog proizvoda, odredbama ovog zakona i propisima donetim na osnovu\r\novog zakona;",
+            "3) uzima uzorke građevinskog proizvoda i daje na ispitivanje i ocenjivanje\r\nusaglašenosti sa performansama navedenim u deklaraciji o performansama građevinskog proizvoda,\r\nodredbama ovog zakona i propisima donetim na osnovu ovog zakona.",
+            "Nadležni organ tržišnog nadzora koji ne raspolaže potrebnim stručnim kapacitetima\r\nili opremom za sprovođenje pregleda ili ispitivanja iz stava 1. tač. 2) i 3) ovog člana,\r\nu okviru inspekcijskog nadzora, može po zahtevu nadležnog inspektora poveriti obavljanje\r\novih radnji telu akreditovanom u skladu sa odgovarajućom tehničkom specifikacijom ili tehničkim\r\npropisom, ukoliko ne postoji telo za ocenjivanje i verifikaciju stalnosti performansi imenovano\r\nu skladu sa odgovarajućom tehničkom specifikacijom ili tehničkim propisom.",
+            "Telu za ocenjivanje i verifikaciju stalnosti performansi, odnosno akreditovanom\r\ntelu iz stava 2. ovog člana može se poveriti obavljanje radnji iz stava 1. tač. 2) i 3) ovog\r\nčlana, ukoliko nije bilo uključeno u ispitivanje i ocenjivanje i verifikaciju stalnosti performansi\r\npredmetnog građevinskog proizvoda pre njegovog stavljanja na tržište ili činjenja dostupnim\r\nna tržištu.",
+            "Dužnosti nadležnog inspektora"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_59"
+    },
+    {
+        "title": "Član 60",
+        "texts": [
+            "U vršenju tržišnog nadzora nadležni inspektor je ovlašćen da privrednom\r\nsubjektu koji građevinski proizvod stavlja na tržište:",
+            "1) naloži dostavljanje deklaracije o performansama građevinskog proizvoda\r\nizrađene u skladu sa ovim zakonom, tehničkom specifikacijom ili tehničkim propisom;",
+            "2) naloži da građevinski proizvod moraju da prate propisana tehnička uputstva\r\nna srpskom jeziku, odnosno uputstva i informacije o bezbednosti, ukoliko utvrdi da su ona\r\nnepotpuna ili ukoliko ne prate građevinski proizvod;",
+            "3) privremeno zabrani činjenje dostupnim na tržištu, ponudu isporuke, oglašavanje\r\nili izlaganje građevinskog proizvoda u periodu potrebnom za različite preglede i ispitivanja,\r\nodnosno dok postoji osnovana sumnja da taj proizvod nije usaglašen sa performansama navedenim\r\nu deklaraciji o performansama građevinskog proizvoda, odredbama ovog zakona i propisima donetim\r\nna osnovu ovog zakona;",
+            "4) naredi otklanjanje utvrđenih neusaglašenosti i odredi primeren rok za\r\nnjihovo otklanjanje;",
+            "5) rešenjem zabrani ili ograniči stavljanje na tržište ili činjenje dostupnim\r\nna tržištu neusaglašenih građevinskih proizvoda, ili naredi njihovo povlačenje sa tržišta\r\nili opoziv od krajnjeg korisnika;",
+            "6) rešenjem naloži da privredni subjekt, bez odlaganja, obezbedi da građevinski\r\nproizvod bude opozvan ili povučen ili da rešenjem zabrani stavljanje na tržište ili činjenje\r\ndostupnim na tržištu građevinskog proizvoda koji nije usaglašen sa zahtevima utvrđenim ovim\r\nzakonom, tehničkom specifikacijom ili tehničkim propisom i predstavlja ozbiljan rizik, uključujući\r\nozbiljan rizik čije posledice nisu trenutne i zahtevaju hitno postupanje;",
+            "7) rešenjem naloži da privredni subjekt preduzme sve potrebne mere kako\r\nbi za građevinski proizvod, koji i pored usaglašenosti sa zahtevima iz ovog zakona, tehničkih\r\nspecifikacija ili tehničkog propisa, predstavlja rizik po zdravlje i bezbednost, obezbedio\r\nda prilikom stavljanja na tržište ili činjenja dostupnim na tržištu više ne predstavlja rizik,\r\ngrađevinski proizvod povukao sa tržišta ili opozvao u roku srazmernom prirodi tog rizika;",
+            "8) rešenjem naredi uništavanje neusaglašenih građevinskih proizvoda u skladu\r\nsa posebnim propisima kojima se uređuje zaštita životne sredine, ako je to neophodno za zaštitu\r\nzdravlja i bezbednosti ljudi, životinja i biljaka, životne sredine i imovine.",
+            "Nadležni inspektor je ovlašćen da privrednom subjektu naloži otklanjanje\r\nformalnih neusaglašenosti i odredi primeren rok za otklanjanje ako utvrdi da građevinski\r\nproizvod koji je stavljen na tržište ili učinjen dostupnim na tržištu:",
+            "1) nije označen znakom usaglašenosti ili je znak usaglašenosti stavljen\r\nu suprotnosti sa odredbama ovog zakona i propisima kojima se uređuje tržišni nadzor i način\r\nstavljanja, kao i oblik, izgled i sadržina znaka usaglašenosti;",
+            "2) nije praćen dokumentom o ocenjivanju i verifikaciji stalnosti performansi;",
+            "3) nije praćen deklaracijom o performansama ili je deklaracija o performansama\r\nnepotpuna;",
+            "4) nije praćen propisanim tehničkim uputstvima ili su tehnička uputstva\r\nnepotpuna;",
+            "5) nije praćen odgovarajućom tehničkom dokumentacijom ili je ta dokumentacija\r\nnepotpuna.",
+            "Ako privredni subjekt u određenom roku ne otkloni neusaglašenosti iz stava\r\n2. ovog člana, nadležni inspektor donosi rešenje kojim se zabranjuje ili ograničava činjenje\r\ndostupnim na tržištu građevinskog proizvoda ili opoziva ili povlači sa tržišta građevinski\r\nproizvod sa formalnim nedostatkom.",
+            "Kad nadležni inspektor preduzima mere iz ovog člana, mora da postupa tako\r\nda se te mere sprovode na način srazmeran ozbiljnosti rizika i vodeći računa da preduzeta\r\nmera bude primerena vrsti opasnosti ili rizika.",
+            "Žalba izjavljena protiv rešenja inspektora iz stava 1. tač. 6), 7) i 8)\r\novog člana i stava 3. ovog člana ne odlaže izvršenje rešenja.",
+            "Troškovi inspekcijskog postupka"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_60"
+    },
+    {
+        "title": "Član 61",
+        "texts": [
+            "Troškove ispitivanja i verifikacije stalnosti performansi građevinskog\r\nproizvoda, kao i druge troškove koji nastanu u postupku preduzimanja mera nadležnih organa\r\ninspekcijskog nadzora, snosi privredni subjekt, ako se utvrdi da proizvod nije usaglašen\r\nsa propisanim zahtevima.",
+            "Obaveze nadziranih subjekata"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_61"
+    },
+    {
+        "title": "Član 62",
+        "texts": [
+            "Tela za tehničko ocenjivanje, imenovana i prijavljena tela za ocenjivanje\r\ni verifikaciju stalnosti performansi, privredni subjekti i druga lica koja su uključena u\r\npostupak proizvodnje, stavljanja na tržište i činjenje dostupnim na tržištu građevinskih\r\nproizvoda dužni su da ministarstvu nadležnom za poslove građevinarstva ili organima ovlašćenim\r\nza sprovođenje nadzora u skladu sa ovim zakonom omoguće pregled svih prostorija i uvid u\r\nsve radnje i/ili dokumente vezane za ocenjivanje i verifikaciju stalnosti performansi građevinskog\r\nproizvoda, tehničko ocenjivanje, stavljanje na tržište ili činjenje dostupnim građevinskog\r\nproizvoda.",
+            "XI KAZNENE ODREDBE"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_62"
+    },
+    {
+        "title": "Član 63",
+        "texts": [
+            "Novčanom kaznom od 1.000.000 do 2.000.000 dinara kazniće se za prekršaj\r\ntelo za tehničko ocenjivanje koje sprovodi ocenjivanje stalnosti performansi, odnosno izdaje\r\ntehničke ocene bez rešenja iz člana 35. stav 1. ovog zakona, van oblasti utvrđene tim rešenjem\r\nili nakon donošenja rešenja o ukidanju ili delimičnom ukidanju rešenja iz člana 35. stav\r\n1. ovog zakona.",
+            "Novčanom kaznom od 1.000.000 do 2.000.000 dinara kazniće se za prekršaj\r\nimenovano ili prijavljeno telo za ocenjivanje i verifikaciju stalnosti performansi koje sprovodi\r\nocenjivanje i verifikaciju stalnosti performansi bez rešenja iz člana 39. stav 1. ovog zakona,\r\nvan obima utvrđenog tim rešenjem ili nakon donošenja rešenja o ukidanju ili delimičnom ukidanju\r\nrešenja iz člana 39. stav 1. ovog zakona.",
+            "Za prekršaj iz st. 1. i 2. ovog člana kazniće se novčanom kaznom od 100.000\r\ndo 150.000 dinara i odgovorno lice imenovanog ili prijavljenog tela za ocenjivanje i verifikaciju\r\nstalnosti performansi, odnosno tela za tehničko ocenjivanje."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_63"
+    },
+    {
+        "title": "Član 64",
+        "texts": [
+            "Novčanom kaznom od 100.000 do 300.000 dinara kazniće se za prekršaj telo\r\nza tehničko ocenjivanje, odnosno imenovano ili prijavljeno telo za ocenjivanje i verifikaciju\r\nstalnosti performansi ako:",
+            "1) ne dostavi izveštaj nadležnom ministarstvu u skladu sa obavezama iz\r\nčlana 37. st. 1. i 2. ovog zakona, odnosno člana 46. st. 1, 2. i 3. ovog zakona;",
+            "2) ne postupi po nalogu nadležnog ministra iz člana 46. stav 7. ovog zakona.",
+            "Za prekršaj iz stava 1. ovog člana kazniće se novčanom kaznom od 50.000\r\ndo 100.000 dinara i odgovorno lice tela za tehničko ocenjivanje, odnosno imenovanog ili prijavljenog\r\ntela za ocenjivanje i verifikaciju stalnosti performansi."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_64"
+    },
+    {
+        "title": "Član 65",
+        "texts": [
+            "Novčanom kaznom od 100.000 do 2.000.000 dinara kazniće se za prekršaj privredni\r\nsubjekt ukoliko:",
+            "1) stavi na tržište građevinski proizvod koji nije usaglašen sa propisanim\r\nzahtevima u skladu sa članom 16. stav 1, a u vezi sa članom 5. ovog zakona ili učini dostupnim\r\nna tržištu građevinski proizvod koji nije usaglašen sa propisanim zahtevima u skladu sa članom\r\n17. stav 1, a u vezi sa članom 5. ovog zakona;",
+            "2) ne dostavi organu tržišnog nadzora deklaraciju o performansama i tehničku\r\ndokumentaciju u skladu sa članom 15. stav 1. tačka 1) i članom 16. stav 11. ovog zakona;",
+            "3) stavi ili učini dostupnim na tržištu građevinski proizvod dok postoji\r\nsumnja da taj proizvod nije usaglašen sa performansama navedenim u deklaraciji o performansama\r\nili usklađen sa drugim zahtevima iz ovog zakona u skladu sa članom 16. stav 3. i članom 17.\r\nstav 3. ovog zakona i ne obavesti odgovarajuće privredne subjekte i nadležne organe tržišnog\r\nnadzora u skladu sa članom 16. stav 4. i članom 17. stav 4. ovog zakona;",
+            "4) ne obezbedi da građevinski proizvod prate propisana tehnička uputstva\r\nna srpskom jeziku u skladu sa članom 14. stav 9. i članom 16. stav 6. ovog zakona;",
+            "5) stavi ili učini dostupnim na tržištu građevinski proizvod za koji nije\r\nobezbedio da su ispunjeni uslovi iz člana 16. stav 2. i člana 17. stav 2. ovog zakona;",
+            "6) ne obezbedi uslove skladištenja ili prevoza iz člana 16. stav 7. i člana\r\n17. stav 5. ovog zakona;",
+            "7) ne postupi u skladu sa članom 14. stav 13, članom 15. stav 1. tačka\r\n3), članom 16. stav 13. i članom 17. stav 9. ovog zakona;",
+            "8) ne preduzme neophodne korektivne radnje, ne povuče sa tržišta odnosno\r\nne opozove građevinski proizvod u skladu sa članom 14. stav 10, članom 16. stav 9. i članom\r\n17. stav 6. ovog zakona i ne obavesti nadležne organe tržišnog nadzora u skladu sa članom\r\n14. stav 11, članom 16. stav 10. i članom 17. stav 7. ovog zakona;",
+            "9) ne obavlja ispitivanje uzoraka građevinskog proizvoda, ne proverava\r\nda li ima reklamacija, neusaglašenih i opozvanih proizvoda i ne vodi evidenciju u skladu\r\nsa članom 14. stav 6. i članom 16. stav 8. ovog zakona;",
+            "10) nije obezbedio uspostavljanje postupaka u skladu sa članom 14. stav\r\n5. ovog zakona;",
+            "11) ne povuče sa tržišta, ne opozove, ponovo učini dostupnim na tržištu\r\nneusaglašen građevinski proizvod koji predstavlja ozbiljan rizik uključujući ozbiljan rizik\r\nčije posledice nisu trenutne i zahtevaju hitno postupanje prema nalogu nadležnog inspektora\r\nutvrđenog rešenjem iz člana 60. stav 1. tačka 6) ovog zakona;",
+            "12) ne povuče, ne opozove ili ne preduzme sve potrebne mere prema nalogu\r\nnadležnog inspektora utvrđenog rešenjem iz člana 60. stav 1. tačka 7) ovog zakona;",
+            "13) ne uništi neusaglašeni građevinski proizvod u skladu sa posebnim propisima\r\nkojima se uređuje zaštita životne sredine prema rešenju nadležnog inspektora iz člana 60.\r\nstav 1. tačka 8) ovog zakona.",
+            "Za prekršaj iz stava 1. ovog člana kazniće se novčanom kaznom od 100.000\r\ndo 150.000 dinara i odgovorno lice u privrednom subjektu."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_65"
+    },
+    {
+        "title": "Član 66",
+        "texts": [
+            "Novčanom kaznom od 150.000 do 500.000 dinara kazniće se za prekršaj privredni\r\nsubjekt ukoliko:",
+            "1) ne postupi po rešenju nadležnog inspektora za otklanjanje neusaglašenosti\r\niz člana 60. stav 3. ovog zakona;",
+            "2) ne čuva tehničku dokumentaciju i deklaraciju o performansama u skladu\r\nsa članom 14. stav 3. ovog zakona.",
+            "Za prekršaj iz stava 1. ovog člana kazniće se novčanom kaznom od 10.000\r\ndo 150.000 dinara i odgovorno lice u privrednom subjektu."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_66"
+    },
+    {
+        "title": "Član 67",
+        "texts": [
+            "Novčanom kaznom od 50.000 do 2.000.000 dinara kazniće se za prekršaj privredni\r\nsubjekt ukoliko ne postupi u skladu sa obavezama utvrđenim članom 14. stav 12, članom 15.\r\nstav 1. tačka 2), članom 16. stav 12, članom 17. stav 8. i članom 19. ovog zakona na obrazloženi\r\nzahtev nadležnog organa.",
+            "Za prekršaj iz stava 1. ovog člana kazniće se novčanom kaznom od 10.000\r\ndo 150.000 dinara i odgovorno lice u privrednom subjektu.",
+            "XII PRELAZNE I ZAVRŠNE ODREDBE",
+            "Započeti postupci"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_67"
+    },
+    {
+        "title": "Član 68",
+        "texts": [
+            "Postupci izdavanja isprava o usaglašenosti za građevinske proizvode započeti\r\ndo dana stupanja na snagu ovog zakona, odnosno do početka primene tehničkih propisa za predmetni\r\ngrađevinski proizvod i predmetnu oblast građevinskih proizvoda donetih u skladu sa ovim zakonom,\r\ndo dana stupanja na snagu potvrđenog ASAA sporazuma ili ako taj sporazum ne bude zaključen,\r\ndo dana stupanja na snagu ugovora o pristupanju Republike Srbije Evropskoj uniji, okončaće\r\nse u skladu sa propisima po kojima su započeti."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_68"
+    },
+    {
+        "title": "Član 69",
+        "texts": [
+            "Tela koja sprovode postupke ispitivanja i/ili ocenjivanja usaglašenosti\r\nkoja ispunjavaju uslove utvrđene tehničkim propisom donetim do dana stupanja na snagu ovog\r\nzakona, nastavljaju da obavljaju poslove ispitivanja i/ili ocenjivanja usaglašenosti za određenu\r\noblast građevinskih proizvoda, na način i pod uslovima utvrđenim odgovarajućim tehničkim\r\npropisom, a najduže do stupanja na snagu, odnosno početka primene tehničkog propisa za predmetni\r\ngrađevinski proizvod i predmetnu oblast građevinskih proizvoda donetim u skladu sa ovim zakonom.",
+            "Važenje propisa i pojedinačnih pravnih akata"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_69"
+    },
+    {
+        "title": "Član 70",
+        "texts": [
+            "Tehnički propisi kojima se propisuju zahtevi za stavljanje na tržište građevinskih\r\nproizvoda i/ili uslovi za njihovu ugradnju doneti do dana stupanja na snagu ovog zakona,\r\nvaže do stupanja na snagu, odnosno početka primene tehničkih propisa za predmetni građevinski\r\nproizvod i predmetnu oblast građevinskih proizvoda donetih u skladu sa ovim zakonom.",
+            "Isprave o usaglašenosti građevinskih proizvoda koje su izdate u skladu\r\nsa tehničkim propisima kojima su utvrđeni zahtevi za te građevinske proizvode važe do datuma\r\nvaženja isprave o usaglašenosti, a najduže dve godine od dana stupanja na snagu potvrđenog\r\nASAA sporazuma ili ako taj sporazum ne bude zaključen, najduže dve godine od dana stupanja\r\nna snagu ugovora o pristupanju Republike Srbije Evropskoj uniji.",
+            "Donošenje propisa"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_70"
+    },
+    {
+        "title": "Član 71",
+        "texts": [
+            "Podzakonski akti iz člana 9. stav 3, člana 21. stav 2, člana 23. stav 2,\r\nčlana 28. stav 3, člana 30. stav 5, člana 35. stav 3. i člana 40. stav 9. ovog zakona doneće\r\nse u roku od 12 meseci od dana stupanja na snagu ovog zakona.",
+            "Podzakonski akti iz člana 6. stav 5, člana 14. stav 4, člana 29. stav 1.\r\ni člana 30. st. 6. i 7. ovog zakona doneće se do dana stupanja na snagu ugovora o pristupanju\r\nRepublike Srbije Evropskoj uniji.",
+            "Odložena primena"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_71"
+    },
+    {
+        "title": "Član 72",
+        "texts": [
+            "Odredbe člana 11. stav 7, člana 35. stav 4, člana 38. stav 4, člana 49.\r\ni čl. 50. i 51. ovog zakona, primenjuju se od dana stupanja na snagu potvrđenog ASAA sporazuma\r\nili ako taj sporazum ne bude zaključen, od dana stupanja na snagu ugovora o pristupanju Republike\r\nSrbije Evropskoj uniji.",
+            "Stupanje na snagu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_72"
+    },
+    {
+        "title": "Član 73",
+        "texts": [
+            "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u \"Službenom\r\nglasniku Republike Srbije\".",
+            "Ako ne probate više različitih izbora nikada nećete biti sigurni da li imate najbolju opciju u svojim rukama. Mi Vam tu mogućnost nudimo besplatno! Popunite formular i dobićete priliku da bez ikakvih troškova saznate da li je Paragraf dobar izbor za Vas.",
+            "Ukoliko želite da Vas obaveštavamo o novostima i aktivnostima kompanije Paragraf prijavite se na našu mailing listu. Vaš e-mail neće biti upotrebljen u druge svrhe.",
+            "Pratite Paragraf na Viberu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-gradjevinskim-proizvodima.html#clan_73"
+    }
+]

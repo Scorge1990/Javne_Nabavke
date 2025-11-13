@@ -1,0 +1,1035 @@
+[
+    {
+        "title": "Član 1",
+        "texts": [
+            "Ovim zakonom uređuju se elektronski dokument, elektronska identifikacija i usluge od poverenja u elektronskom poslovanju.",
+            "Značenje pojedinih izraza"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_1"
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Pojedini izrazi, u smislu ovog zakona, imaju sledeće značenje:",
+            "1) elektronsko poslovanje je upotreba podataka u elektronskom obliku, sredstava elektronske komunikacije i elektronske obrade podataka u obavljanju poslova fizičkih i pravnih lica;",
+            "2) elektronski oblik podataka je digitalni zapis podataka pogodan za elektronsku obradu i prenos putem sredstava elektronske komunikacije;",
+            "3) elektronska transakcija je poslovna aktivnost između dve ili više strana koja se obavlja elektronskim putem;",
+            "4) elektronski dokument je skup podataka sastavljen od slova, brojeva, simbola, grafičkih, zvučnih i video materijala, u elektronskom obliku;",
+            "5) proizvod je hardver, softver odnosno hardver sa pripadajućim softverom, ili njihove odgovarajuće komponente, namenjen elektronskoj obradi, elektronskom prenosu odnosno čuvanju podataka;",
+            "6) interoperabilnost je sposobnost dva ili više sistema ili njihovih komponenti da razmenjuju podatke i omoguće zajedničku upotrebu podataka i znanja;",
+            "7) organ javne vlasti je državni organ, organ autonomne pokrajine, organ jedinice lokalne samouprave, preduzeća, ustanove, organizacije i pojedinci kojima su povereni poslovi iz nadležnosti Republike Srbije, odnosno javna ovlašćenja;",
+            "8) fizičko lice u svojstvu registrovanog subjekta je fizičko lice koje je registrovano za obavljanje određene delatnosti u skladu sa zakonom;",
+            "9) autentikacija je proces provere identiteta pravnog lica, fizičkog lica ili fizičkog lica u svojstvu registrovanog subjekta uključujući proveru integriteta i porekla podataka za koje se pretpostavlja da ih je to lice stvorilo, odnosno poslalo;",
+            "10) identifikacioni podaci predstavljaju skup podataka na osnovu kojih je moguće jednoznačno utvrditi identitet pravnog lica, fizičkog lica ili fizičkog lica u svojstvu registrovanog subjekta;",
+            "11) elektronska identifikacija je postupak korišćenja ličnih identifikacionih podataka u elektronskom obliku koji jednoznačno određuju pravno lice, fizičko lice ili fizičko lice u svojstvu registrovanog subjekta;",
+            "12) sredstvo elektronske identifikacije je materijalno odnosno nematerijalno sredstvo koje sadrži identifikacione podatke i kojim se dokazuje identitet prilikom autentikacije;",
+            "13) šema elektronske identifikacije je sistem izdavanja sredstva elektronske identifikacije pravnom licu, fizičkom licu ili fizičkom licu u svojstvu registrovanog subjekta;",
+            "14) usluga elektronske identifikacije je usluga koja omogućava korišćenje određene šeme elektronske identifikacije u elektronskim transakcijama pri čemu se u okviru te usluge pružaju garancije da identifikacioni podaci iz sredstva elektronske identifikacije odgovaraju licu kome je sredstvo izdato;",
+            "14a) čvor (eng. node) predstavlja mesto priključenja koji je deo strukture interoperabilnosti elektronske identifikacije i omogućava prekograničnu autentikaciju lica i ima funkciju prepoznavanja i obrade, odnosno prosleđivanja prenosa podataka na druge čvorove tako što obezbeđuje da se infrastruktura elektronske identifikacije jedne države poveže sa infrastrukturom elektronske identifikacije druge države;",
+            "15) usluga od poverenja je elektronska usluga koja olakšava poslovnu aktivnost između dve ili više strana pri čemu se zasniva na tome da pružalac usluge stranama garantuje verodostojnost pojedinih podataka, a koja je kao takva određena ovim zakonom;",
+            "16) pružalac usluga od poverenja je pravno lice ili fizičko lice u svojstvu registrovanog subjekta koje pruža jednu ili više usluga od poverenja;",
+            "17) pouzdajuća strana je pravno ili fizičko lice koje se pouzdaje u uslugu elektronske identifikacije odnosno uslugu od poverenja;",
+            "18) kvalifikovana usluga od poverenja je usluga od poverenja koja ispunjava uslove utvrđene ovim zakonom za kvalifikovanu uslugu od poverenja;",
+            "19) pružalac kvalifikovane usluge od poverenja je pravno lice ili fizičko lice u svojstvu registrovanog subjekta koje pruža jednu ili više kvalifikovanih usluga od poverenja, u skladu sa ovim zakonom;",
+            "20) elektronski potpis je skup podataka u elektronskom obliku koji su pridruženi ili logički povezani sa drugim (potpisanim) podacima u elektronskim obliku tako da se elektronskim potpisom potvrđuje integritet tih podataka i identitet potpisnika;",
+            "21) elektronski pečat je skup podataka u elektronskom obliku koji su pridruženi ili logički povezani sa drugim (pečatiranim) podacima u elektronskom obliku tako da se elektronskim pečatom potvrđuje integritet tih podataka i identitet pečatioca;",
+            "22) podaci za kreiranje elektronskog potpisa odnosno pečata su jedinstveni podaci koje koristi potpisnik odnosno pečatilac za kreiranje elektronskog potpisa odnosno pečata i koji su logički povezani sa odgovarajućim podacima za validaciju elektronskog potpisa odnosno pečata;",
+            "23) podaci za validaciju elektronskog potpisa odnosno pečata su podaci na osnovu kojih se proverava da li elektronski potpis odnosno pečat odgovara podacima koji su potpisani odnosno pečatirani;",
+            "24) sertifikat za elektronski potpis odnosno pečat je elektronska potvrda kojom se potvrđuje veza između podataka za validaciju elektronskog potpisa odnosno pečata i identiteta potpisnika odnosno pečatioca;",
+            "25) potpisnik je fizičko lice koje je kreiralo elektronski potpis i čiji su identifikacioni podaci navedeni u sertifikatu na osnovu koga je kreiran taj elektronski potpis, to jest sertifikatu kojim se potvrđuje veza između identiteta tog potpisnika i podataka za validaciju elektronskog potpisa koji odgovaraju podacima za kreiranje elektronskog potpisa koje je potpisnik koristio pri kreiranju tog elektronskog potpisa;",
+            "26) pečatilac je pravno lice, fizičko lice u svojstvu registrovanog subjekta, fizičko lice kome je povereno vršenje javnih ovlašćenja ili fizičko lice koje u obavljanju delatnosti u skladu sa posebnim propisima ima pravo na korišćenje pečata (npr. lica koja imaju licencu za vršenje poslova ili obavljanje delatnosti), u čije ime se kreira elektronski pečat i čiji su identifikacioni podaci navedeni u sertifikatu na osnovu koga je kreiran taj elektronski pečat, odnosno u sertifikatu kojim se potvrđuje veza između identiteta tog pečatioca i podataka za validaciju elektronskog pečata koji odgovaraju podacima za kreiranje elektronskog pečata koji su po ovlašćenju pečatioca korišćeni pri kreiranju tog elektronskog pečata;",
+            "27) sredstvo za kreiranje elektronskog potpisa odnosno pečata je tehničko sredstvo (softver odnosno hardver) koje se koristi za kreiranje elektronskog potpisa odnosno pečata uz korišćenje podataka za kreiranje elektronskog potpisa odnosno pečata;",
+            "28) validacija je postupak provere i potvrđivanja ispravnosti elektronskog potpisa odnosno elektronskog pečata;",
+            "29) napredni elektronski potpis je elektronski potpis koji ispunjava dodatne uslove za obezbeđivanje višeg nivoa pouzdanosti potvrđivanja integriteta podataka i identiteta potpisnika u skladu sa ovim zakonom;",
+            "30) kvalifikovani elektronski potpis je napredni elektronski potpis koji je kreiran kvalifikovanim sredstvom za kreiranje elektronskog potpisa i koji se zasniva na kvalifikovanom sertifikatu za elektronski potpis i koji je izdat od strane pružaoca kvalifikovane usluge od poverenja u skladu sa ovim zakonom;",
+            "31) kvalifikovano sredstvo za kreiranje elektronskog potpisa je sredstvo koje ispunjava uslove propisane ovim zakonom;",
+            "32) kvalifikovani sertifikat za elektronski potpis je sertifikat za elektronski potpis koji izdaje pružalac kvalifikovane usluge od poverenja i koji ispunjava uslove predviđene ovim zakonom;",
+            "33) napredni elektronski pečat je elektronski pečat koji ispunjava dodatne uslove za obezbeđivanje višeg nivoa pouzdanosti potvrđivanja integriteta podataka i identiteta pečatioca u skladu sa ovim zakonom;",
+            "34) kvalifikovani elektronski pečat je napredni elektronski pečat koji je kreiran kvalifikovanim sredstvom za kreiranje elektronskog pečata i koji je zasnovan na kvalifikovanom sertifikatu za elektronski pečat;",
+            "35) kvalifikovano sredstvo za kreiranje elektronskog pečata je sredstvo koje ispunjava uslove propisane ovim zakonom;",
+            "36) kvalifikovani sertifikat za elektronski pečat je sertifikat za elektronski pečat koji izdaje pružalac kvalifikovane usluge od poverenja i ispunjava uslove predviđene ovim zakonom;",
+            "36a) usluga upravljanja kvalifikovanim sredstvom za kreiranje elektronskog potpisa na daljinu je usluga izrade kvalifikovanog elektronskog potpisa na daljinu putem sredstva za kreiranje elektronskog potpisa kojim u ime potpisnika upravlja pružalac kvalifikovane usluge od poverenja i garantuje da se podaci za izradu elektronskog potpisa koriste pod isključivom kontrolom potpisnika, u skladu sa ovim zakonom;",
+            "36b) usluga upravljanja kvalifikovanim sredstvom za kreiranje elektronskog pečata na daljinu je usluga izrade kvalifikovanog elektronskog pečata na daljinu putem sredstva za kreiranje elektronskog pečata kojim u ime pečatioca upravlja pružalac kvalifikovane usluge od poverenja i garantuje da se podaci za izradu elektronskog pečata koriste pod isključivom kontrolom pečatioca, u skladu sa ovim zakonom;",
+            "37) sertifikat za autentikaciju veb sajta je potvrda pomoću koje je moguće izvršiti autentikaciju veb sajta i kojom se veb sajt povezuje sa identitetom fizičkog ili pravnog lica kome je sertifikat izdat;",
+            "38) kvalifikovani sertifikat za autentikaciju veb sajta je sertifikat za autentikaciju veb sajta koju izdaje pružalac kvalifikovane usluge od poverenja i ispunjava uslove predviđene ovim zakonom;",
+            "39) elektronski vremenski žig je zvanično vreme pridruženo podacima u elektronskom obliku kojim se potvrđuje da su ti podaci postojali u tom vremenskom trenutku;",
+            "40) kvalifikovani elektronski vremenski žig je elektronski vremenski žig koji ispunjava uslove utvrđene ovim zakonom za kvalifikovani elektronski vremenski žig i izdat je od strane pružaoca kvalifikovane usluge od poverenja u skladu sa ovim zakonom;",
+            "41) usluga elektronske dostave je usluga prenosa podataka elektronskim putem u okviru koje pružalac usluge obezbeđuje dokaze o postupanju sa prenesenim podacima, uključujući dokaz slanja i prijema podataka, čime se preneseni podaci štite od rizika gubitka, krađe, oštećenja odnosno bilo kojih neovlašćenih promena;",
+            "42) konverzija je prevođenje dokumenta iz jednog oblika u drugi tako da je očuvan sadržaj dokumenta;",
+            "43) digitalizacija je konverzija dokumenta iz oblika koji nije elektronski u elektronski oblik;",
+            "44) digitalizovani dokument je dokument koji je nastao digitalizacijom izvornog dokumenata;",
+            "45) telo za ocenjivanje usaglašenosti je telo ovlašćeno za sprovođenje ocenjivanja usaglašenosti pružaoca kvalifikovane usluge od poverenja i kvalifikovane usluge od poverenja koju on pruža sa uslovima za pružanje kvalifikovanih usluga od poverenja.",
+            "Svi pojmovi koji se koriste u ovom zakonu u muškom rodu, obuhvataju iste pojmove u ženskom rodu.",
+            "Primena"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_2"
+    },
+    {
+        "title": "Član 3",
+        "texts": [
+            "Pružalac usluga od poverenja pruža usluge od poverenja u skladu sa ovim zakonom.",
+            "Odredbe ovog zakona ne primenjuju se na usluge od poverenja koje se pružaju isključivo u okviru zatvorenog sistema, odnosno ograničenog kruga učesnika, koji može biti određen sporazumom, internim aktom ili propisom, i koje nemaju uticaj na treće strane, odnosno ne obavezuju treća lica van tog sistema.",
+            "Obrada i zaštita podataka"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_3"
+    },
+    {
+        "title": "Član 4",
+        "texts": [
+            "Pružalac usluga od poverenja odnosno usluge elektronske identifikacije prilikom obrade podataka o ličnosti postupa u skladu sa zakonom kojim se uređuje zaštita podataka o ličnosti.",
+            "U okviru elektronske transakcije strane se mogu predstavljati pseudonimom ako propisom, ugovorom ili na drugi obavezujući način nije drugačije određeno.",
+            "Pristanak na identifikaciju i autentikaciju"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_4"
+    },
+    {
+        "title": "Član 5",
+        "texts": [
+            "Postupak elektronske identifikacije i autentikacije može biti pokrenut samo na zahtev pravnog ili fizičkog lica koje je predmet identifikacije, osim ako je propisom drugačije određeno.",
+            "Dostupnost i pristup osobama sa invaliditetom"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_5"
+    },
+    {
+        "title": "Član 6",
+        "texts": [
+            "Usluge od poverenja, usluge elektronske identifikacije i proizvodi koji se koriste za pružanje tih usluga jednako su dostupni i osobama s invaliditetom.",
+            "II ELEKTRONSKI DOKUMENT",
+            "Punovažnost i dokazna snaga elektronskog dokumenta"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_6"
+    },
+    {
+        "title": "Član 7",
+        "texts": [
+            "Elektronskom dokumentu ne može se osporiti punovažnost, dokazna snaga, kao ni pisana forma samo zato što je u elektronskom obliku.",
+            "Izrada elektronskog dokumenta"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_7"
+    },
+    {
+        "title": "Član 8",
+        "texts": [
+            "Elektronski dokument se izrađuje primenom jedne od dostupnih i upotrebljivih informaciono komunikacionih tehnologija, ako zakonom nije drugačije određeno.",
+            "Elektronski dokument koji predstavlja arhivsku građu izrađuje se u formi koja zadovoljava uslove propisane ovim zakonom za pouzdanu pripremu za elektronsko čuvanje.",
+            "Forma prikaza elektronskog dokumenta"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_8"
+    },
+    {
+        "title": "Član 9",
+        "texts": [
+            "Elektronski dokument sadrži unutrašnju i spoljnu formu prikaza.",
+            "Unutrašnja forma prikaza sastoji se od tehničko-programske forme zapisivanja sadržine elektronskog dokumenta.",
+            "Spoljna forma prikaza sastoji se od vizuelnog ili drugog razumljivog prikaza sadržine elektronskog dokumenta.",
+            "Ako dokument sadrži elektronski potpis ili elektronski pečat, ta činjenica treba da bude jasno iskazana u spoljnoj formi elektronskog dokumenta.",
+            "Ukoliko elektronski dokument sadrži elektronski potpis ili pečat fizičkog lica ili ovlašćenog lica pravnog subjekta, svaka druga forma potpisa ili pečata istog fizičkog lica ili ovlašćenog lica pravnog subjekta je izlišna.",
+            "Original i kopija"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_9"
+    },
+    {
+        "title": "Član 10",
+        "texts": [
+            "Elektronski dokument koji je izvorno nastao u elektronskom obliku smatra se originalom.",
+            "Elektronski dokument koji ima istovetan digitalni zapis originalnom elektronskom dokumentu smatra se originalom.",
+            "Kopija elektronskog dokumenta na papiru izrađuje se štampanjem spoljne forme elektronskog dokumenta.",
+            "Elektronski dokument koji je nastao digitalizacijom izvornog dokumenta čija forma nije elektronska, smatra se kopijom izvornog dokumenta.",
+            "Overa digitalizovanog akta"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_10"
+    },
+    {
+        "title": "Član 11",
+        "texts": [
+            "Akt koji je digitalizovan ima istu dokaznu snagu kao originalni akt ako su kumulativno ispunjeni sledeći uslovi i to:",
+            "1) da je digitalizacija akta obavljena na jedan od sledećih načina, odnosno pod nadzorom:",
+            "(1) fizičkog odnosno ovlašćenog lica fizičkog lica u svojstvu registrovanog subjekta ili ovlašćenog lica pravnog lica čiji je to akt, ili",
+            "(2) lica koje je ovlašćeno za overu potpisa, rukopisa i prepisa u skladu sa zakonom koji uređuje overu potpisa, rukopisa i prepisa, ili",
+            "(3) lica koje je posebnim zakonom ovlašćeno za overu digitalizovanog akta;",
+            "2) da je istovetnost digitalizovanog akta sa originalom potvrđena kvalifikovanim elektronskim pečatom ili kvalifikovanim elektronskim potpisom lica iz podtač. (1)-(3) ovog stava ili lica na koga su prenete nadležnosti na osnovu kojih je akt donet.",
+            "Ovlašćeno lice organa javne vlasti može u postupcima koji se sprovode u vršenju javnih ovlašćenja digitalizovati akt i overiti digitalizovani akt kvalifikovanim elektronskim pečatom organa ili svojim kvalifikovanim elektronskim potpisom, čime se potvrđuje istovetnost digitalizovanog akta sa originalnom ispravom.",
+            "Digitalizovani akt koji je overen od strane organa iz stava 2. ovog člana ima istu dokaznu snagu kao original u okviru sprovođenja tog postupka.",
+            "Overa odštampanog primerka elektronskog dokumenta"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_11"
+    },
+    {
+        "title": "Član 12",
+        "texts": [
+            "Odštampani primerak elektronskog dokumenta ima istu dokaznu snagu kao originalni akt, ako su kumulativno ispunjeni sledeći uslovi i to:",
+            "1) da je štampanje elektronskog dokumenta izvršeno pod nadzorom:",
+            "(1) fizičkog lica, ovlašćenog lica fizičkog lica u svojstvu registrovanog subjekta, odnosno ovlašćenog lica pravnog lica čiji je to akt, ili",
+            "(2) lica koje je ovlašćeno za overu potpisa, rukopisa i prepisa u skladu sa zakonom koji uređuje overu potpisa, rukopisa i prepisa;",
+            "2) da je istovetnost odštampanog primerka elektronskog dokumenta sa originalom potvrđena, uz naznaku da je reč o odštampanom primerku elektronskog dokumenta:",
+            "(1) svojeručnim potpisom fizičkog lica, ili",
+            "(2) svojeručnim potpisom ovlašćenog lica fizičkog lica u svojstvu registrovanog subjekta, odnosno ovlašćenog lica pravnog lica, kao i pečatom fizičkog lica u svojstvu registrovanog subjekta, odnosno pravnog lica, ako postoji zakonska obaveza da akt sadrži pečat, ili",
+            "(3) od strane lica koje je ovlašćeno za overu potpisa, rukopisa i prepisa u skladu sa zakonom koji uređuje overu potpisa, rukopisa i prepisa.",
+            "Ovlašćeno lice organa javne vlasti može u postupcima koji se sprovode u vršenju javnih ovlašćenja odštampati elektronski dokument na papiru i overiti odštampani primerak elektronskog dokumenta na način iz stava 1. tačka 2) podtačka (2) ovog člana, pri čemu odštampani primerak elektronskog dokumenta obavezno sadrži pečat utvrđen zakonom kojim se uređuje pečat državnih i drugih organa.",
+            "Odštampani primerak elektronskog dokumenta koji je overen od strane organa iz stava 2. ovog člana ima istu dokaznu snagu kao original u okviru sprovođenja tog postupka.",
+            "Potvrda o prijemu elektronskog dokumenta"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_12"
+    },
+    {
+        "title": "Član 13",
+        "texts": [
+            "Potvrda o prijemu elektronskog dokumenta je dokaz da je taj dokument primljen od strane primaoca.",
+            "Potvrdu o prijemu elektronskog dokumenta izdaje primalac elektronskog dokumenta ili pružalac usluge elektronske dostave.",
+            "Obaveza izdavanja potvrde o prijemu elektronskog dokumenta i elementi sadržaja potvrde uređuju se propisima ili voljom stranaka, ako zakonom nije drugačije određeno.",
+            "Dupliranje elektronskih dokumenata"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_13"
+    },
+    {
+        "title": "Član 14",
+        "texts": [
+            "Svaki primljeni elektronski dokument smatra se posebnim dokumentom, osim ako je više puta primljen istovetan dokument i primalac je znao ili je morao znati da je reč o istovetnom dokumentu.",
+            "Elektronsko opštenje i elektronsko dostavljanje između organa javne vlasti i stranaka"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_14"
+    },
+    {
+        "title": "Član 15",
+        "texts": [
+            "Elektronsko opštenje i elektronsko dostavljanje između organa javne vlasti i stranaka vrši se u skladu sa zakonom kojim se uređuje opšti upravni postupak, zakonom kojim se uređuje elektronska uprava i drugim propisima, kao i putem usluge kvalifikovane elektronske dostave.",
+            "Dostavljanje elektronskih dokumenata između organa javne vlasti"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_15"
+    },
+    {
+        "title": "Član 16",
+        "texts": [
+            "Dostavljanje elektronskih dokumenata između organa javne vlasti obavlja se putem elektronske pošte, servisne magistrale organa, usluge kvalifikovane elektronske dostave ili drugim elektronskim putem, u skladu sa propisom.",
+            "III ELEKTRONSKA IDENTIFIKACIJA",
+            "1. Šeme elektronske identifikacije",
+            "Uslovi koje mora da ispunjava šema elektronske identifikacije"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_16"
+    },
+    {
+        "title": "Član 17",
+        "texts": [
+            "Šema elektronske identifikacije mora:",
+            "1) da sadrži podatke za identifikaciju lica na izdatim sredstvima za identifikaciju, koji jedinstveno određuju pravno ili fizičko lice;",
+            "2) da obezbedi da pružalac usluge elektronske identifikacije obezbedi identifikacione podatke u okviru sredstva elektronske identifikacije koji odgovaraju licu kome je sredstvo izdato;",
+            "3) da jasno definiše tehničke i druge uslove koji omogućavaju pouzdajućoj strani proveru identiteta;",
+            "4) da ispunjava uslove za nivo pouzdanosti u koji se razvrstava, iz člana 18. ovog zakona.",
+            "Nivoi pouzdanosti šema elektronske identifikacije"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_17"
+    },
+    {
+        "title": "Član 18",
+        "texts": [
+            "Šeme elektronske identifikacije razvrstavaju se prema nivou pouzdanosti na:",
+            "1) šeme osnovnog nivoa pouzdanosti, koje obezbeđuju ograničeno poverenje u identitet kojim se lice predstavlja i koriste sredstva i procedure čija svrha je da smanje rizik zloupotrebe odnosno neistinitog predstavljanja;",
+            "2) šeme srednjeg nivoa pouzdanosti, koje obezbeđuju značajno poverenje u identitet kojim se lice predstavlja i koriste sredstva i procedure čija svrha je da značajno smanje rizik zloupotrebe odnosno neistinitog predstavljanja;",
+            "3) šeme visokog nivoa pouzdanosti, koje obezbeđuju visoko poverenje u identitet kojim se lice predstavlja i koriste sredstva i procedure čija svrha je da onemoguće zloupotrebu odnosno neistinito predstavljanje.",
+            "Vlada, na predlog ministarstva nadležnog za poslove informacionog društva (u daljem tekstu: Ministarstvo), uređuje bliže uslove koje moraju da ispune šeme elektronske identifikacije za određene nivoe pouzdanosti, a naročito:",
+            "1) način dokazivanja i provere identiteta fizičkog odnosno pravnog lica koje zahteva izdavanje sredstava elektronske identifikacije;",
+            "2) način izdavanja sredstava elektronske identifikacije;",
+            "3) mehanizam autentikacije, putem koga fizičko odnosno pravno lice korišćenjem sredstava identifikacije potvrđuje svoj identitet drugoj strani u elektronskoj transakciji;",
+            "4) uslove koje treba da ispuni pružalac usluge elektronske identifikacije;",
+            "4a) uslove koji se odnose na podatke koji se koriste u procesu prekogranične saradnje za fizička i pravna lica prilikom korišćenja registrovanih šema elektronske identifikacije, a koji od podataka o ličnosti sadrže ime i prezime, datum rođenja, adresu stanovanja i pol a u svrhu pouzdane provere identiteta lica;",
+            "5) uslove koje treba da ispune drugi učesnici koji su uključeni u postupak izdavanja sredstava elektronske identifikacije;",
+            "6) tehničke i bezbednosne karakteristike sredstava elektronske identifikacije koja se izdaju;",
+            "7) minimalne tehničke i organizacione uslove u cilju obezbeđivanja interoperabilnosti šema elektronske identifikacije u skladu sa domaćim i međunarodnim standardima iz ove oblasti.",
+            "Upis u Registar pružalaca usluga elektronske identifikacije i šema elektronske identifikacije"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_18"
+    },
+    {
+        "title": "Član 19",
+        "texts": [
+            "Registar pružalaca usluga elektronske identifikacije i šema elektronske identifikacije predstavlja skup podataka o pružaocima usluge elektronske identifikacije i o šemama elektronske identifikacije, koji vodi Ministarstvo.",
+            "Pružalac usluge elektronske identifikacije podnosi Ministarstvu zahtev i potrebnu dokumentaciju za upis u Registar pružalaca usluga elektronske identifikacije i šema elektronske identifikacije.",
+            "Registar iz stava 1. ovog člana od podataka o ličnosti sadrži podatke o odgovornim licima, i to: ime, prezime, funkciju i kontakt podatke kao što su službena adresa, broj službenog telefona i službena adresa elektronske pošte u svrhu dostupnosti podataka korisnicima usluge o pružaocu usluge elektronske identifikacije.",
+            "Sastavni deo Registra iz stava 1. ovog člana su i šeme elektronske identifikacije sa liste koju, u skladu sa članom 9. Uredbe eIDAS, objavljuje Evropska komisija.",
+            "Ministarstvo propisuje sadržaj i način vođenja Registra iz stava 1. ovog člana, kao i način podnošenja zahteva za upis u taj registar, u skladu sa zakonom koji uređuje opšti upravni postupak, potrebnu dokumentaciju uz zahtev, obrazac zahteva i način objavljivanja podataka iz tog registra.",
+            "Korišćenje šema elektronske identifikacije u elektronskom poslovanju i u opštenju sa organom javne vlasti"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_19"
+    },
+    {
+        "title": "Član 20",
+        "texts": [
+            "Za utvrđivanje identiteta u elektronskom poslovanju mogu se koristiti šeme elektronske identifikacije koje su upisane u registar iz člana 19. ovog zakona, kao i šeme elektronske identifikacije koje nisu upisane u registar.",
+            "Iskaz volje ne može se osporiti samo zato što su, umesto potpisa, korišćene šeme elektronske identifikacije iz stava 1. ovog člana.",
+            "Šema elektronske identifikacije koja je upisana u registar iz člana 19. ovog zakona (u daljem tekstu: registrovana šema elektronske identifikacije) može se koristiti za utvrđivanje identiteta stranke u opštenju sa organom javne vlasti.",
+            "U opštenju stranke sa organima javne vlasti identitet stranke utvrđen na osnovu registrovane šeme elektronske identifikacije visokog nivoa pouzdanosti zamenjuje potpis stranke na podnesku.",
+            "Propisom može biti određeno da se u slučaju iz stava 4. ovog člana može koristiti šema elektronske identifikacije srednjeg ili osnovnog nivoa pouzdanosti, ako su rizik od zloupotrebe i moguća šteta od zloupotrebe takvi da nije neophodno koristiti šemu visokog nivoa pouzdanosti.",
+            "Odgovornost pri elektronskoj identifikaciji"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_20"
+    },
+    {
+        "title": "Član 21",
+        "texts": [
+            "Izdavalac sredstava elektronske identifikacije odgovoran je za štetu koja je nastala zbog toga što sredstvo za identifikaciju nije izdato u skladu sa šemom elektronske identifikacije koja ispunjava uslove iz člana 17. ovog zakona.",
+            "Za štetu nastalu usled neispravno sprovedenog postupka autentikacije odgovorna je strana koja sprovodi taj postupak, ako je štetu prouzrokovala namerno ili nepažnjom.",
+            "Bezbednosni uslovi koje treba da ispunjavaju pružaoci usluga elektronske identifikacije"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_21"
+    },
+    {
+        "title": "Član 22",
+        "texts": [
+            "Pružaoci usluga elektronske identifikacije preduzimaju potrebne tehničke, fizičke i organizacione mere za upravljanje rizicima koji ugrožavaju pouzdano i bezbedno pružanje tih usluga.",
+            "Tehničkim i organizacionim merama osigurava se da nivo bezbednosti odgovara stepenu rizika i predviđenom nivou pouzdanosti šeme elektronske identifikacije, uzimajući u obzir najnovija dostupna tehnološka rešenja, a posebno se preduzimaju mere za sprečavanje bezbednosnih incidenata i ograničavanje štetnih posledica eventualnih incidenata, kao i za obaveštavanje zainteresovanih strana o neželjenim efektima bezbednosnih incidenata.",
+            "2. Prekogranična saradnja u oblasti elektronske identifikacije",
+            "Interoperabilnost tehničkih sistema"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_22"
+    },
+    {
+        "title": "Član 23",
+        "texts": [
+            "Ministarstvo sarađuje sa nadležnim međunarodnim telima po pitanjima prekogranične interoperabilnosti šema elektronske identifikacije i preduzima mere iz svoje nadležnosti kako bi se uspostavio što viši nivo interoperabilnosti šema elektronske identifikacije na nacionalnom nivou.",
+            "Prekogranična interoperabilnost registrovanih šema elektronske identifikacije se ostvaruje putem uspostavljanja čvora koji omogućava prekograničnu autentikaciju lica, čime se obezbeđuje da se infrastruktura elektronske identifikacije jedne države poveže sa infrastrukturom elektronske identifikacije druge države.",
+            "Čvor uspostavlja i njime upravlja služba Vlade nadležna za projektovanje, razvoj, izgradnju, održavanje i unapređenje računarske mreže republičkih organa.",
+            "U procesu upravljanja čvorom organ iz stava 3. ovog člana dužan je da:",
+            "1) obezbedi povezivanje sa čvorovima drugih država čije su šeme elektronske identifikacije sastavni deo Registra iz člana 19. ovog zakona, odnosno koje su priznate na osnovu međunarodnog sporazuma;",
+            "2) primeni mere zaštite radi sprečavanja neovlašćenog pristupa podacima koji se razmenjuju i obezbedi integritet podatka, koji se prenose između čvorova upotrebom odgovarajućih tehničkih rešenja i prakse;",
+            "3) obezbedi da se podaci o ličnosti ne čuvaju u čvoru;",
+            "4) koristi tehnička rešenja koja obezbeđuju integritet i autentičnost podataka, a koja se koriste prilikom prekograničnog povezivanja čvorova;",
+            "5) obezbedi da čvor ispunjava propisane uslove koji se odnose na format poruka;",
+            "6) omogući dostavljanje metapodataka o upravljanju čvorom u standardnom obliku koji je pogodan za automatsku obradu podataka, na bezbedan i pouzdan način;",
+            "7) obezbedi automatsku obradu parametara koji se odnose na bezbednost;",
+            "8) čuva podatke koji bi u slučaju incidenta omogućavali utvrđivanje mesta i vrste incidenta u zakonskom roku.",
+            "9) obezbedi prenos podataka koji obezbeđuju pouzdano predstavljanje fizičkog ili pravnog lica, na osnovu upotrebe registrovane šeme elektronske identifikacije prilikom prekogranične saradnje u skladu sa zakonom.",
+            "Propisom Vlade iz člana 18. stav 2. ovog zakona bliže se uređuju uslovi iz stava 4. tač. 5), 8) i 9) ovog člana koji se odnose na čvor.",
+            "Prijavljivanje"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_23"
+    },
+    {
+        "title": "Član 24",
+        "texts": [
+            "Ministarstvo Evropskoj komisiji može prijavljivati registrovane šeme elektronskog identiteta koje ispunjavaju uslove iz Uredbe EU br. 910/2014 Evropskog parlamenta i Saveta (u daljem tekstu: Uredba eIDAS).",
+            "IV USLUGE OD POVERENJA",
+            "1. Opšte odredbe",
+            "Odgovornost pružaoca usluga od poverenja i teret dokazivanja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_24"
+    },
+    {
+        "title": "Član 25",
+        "texts": [
+            "Pružalac usluge od poverenja odgovoran je za štetu nastalu usled toga što nije postupio u skladu sa ovim zakonom ukoliko je štetu prouzrokovao namerno ili nepažnjom.",
+            "Teret dokazivanja namere ili nepažnje pružaoca usluga od poverenja je na fizičkom ili pravnom licu koje zahteva naknadu štete iz stava 1. ovog člana.",
+            "Teret dokazivanja da šteta nije nastala usled namere ili nepažnje kvalifikovanog pružaoca usluga od poverenja iz stava 1. ovog člana je na tom pružaocu usluga.",
+            "Pružalac usluga od poverenja nije odgovoran za štetu nastalu zbog korišćenja usluge kojom je prekoračeno naznačeno ograničenje, ako je korisnik usluge od poverenja o takvom ograničenju unapred obavešten.",
+            "Odgovornost korisnika usluga od poverenja za čuvanje sredstava i podataka za formiranje elektronskog potpisa odnosno pečata"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_25"
+    },
+    {
+        "title": "Član 26",
+        "texts": [
+            "Korisnik usluge od poverenja dužan je da čuva sredstva i podatke za formiranje elektronskog potpisa odnosno pečata od neovlašćenog pristupa i upotrebe, i da iste koristi u skladu sa odredbama ovog zakona.",
+            "Bezbednosni uslovi koje treba da ispunjavaju pružaoci usluga od poverenja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_26"
+    },
+    {
+        "title": "Član 27",
+        "texts": [
+            "Pružaoci usluga od poverenja, uključujući pružaoce kvalifikovanih usluga od poverenja, preduzimaju potrebne tehničke i organizacione mere za upravljanje rizicima koji ugrožavaju pouzdano i bezbedno pružanje tih usluga od poverenja.",
+            "Tehničkim i organizacionim merama osigurava se da nivo bezbednosti odgovara stepenu rizika, uzimajući u obzir najnovija dostupna tehnološka rešenja, a posebno se preduzimaju mere za sprečavanje bezbednosnih incidenata i ograničavanje štetnih posledica eventualnih incidenata, kao i za obaveštavanje zainteresovanih strana o neželjenim efektima bezbednosnih incidenata.",
+            "Pružaoci usluga od poverenja, uključujući pružaoce kvalifikovanih usluga od poverenja, bez odlaganja, a najkasnije u roku od 24 sata od saznanja, obaveštavaju Ministarstvo o svakom narušavanju bezbednosti ili gubitku integriteta usluge koji imaju značajan uticaj na pružanje usluga od poverenja.",
+            "Ako bi ugrožavanje bezbednosti ili gubitak integriteta usluge od poverenja mogli nepovoljno uticati na korisnike usluga od poverenja, pružalac usluga od poverenja o povredi bezbednosti ili gubitku integriteta usluge, bez odlaganja, obaveštava korisnika usluga od poverenja.",
+            "Ministarstvo obaveštava javnost ili zahteva od pružaoca usluga od poverenja da to učini, ako utvrdi da je objavljivanje podataka o povredi bezbednosti ili gubitka integriteta usluge u javnom interesu.",
+            "Ministarstvo će ostvariti saradnju sa odgovarajućim institucijama drugih država po pitanju razmene podataka o narušavanju bezbednosti i integriteta, u skladu sa odgovarajućim potvrđenim međunarodnim sporazumima.",
+            "Nadležnost Ministarstva"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_27"
+    },
+    {
+        "title": "Član 28",
+        "texts": [
+            "Ministarstvo vrši sledeće poslove:",
+            "1) vodi registar pružaoca kvalifikovanih usluga od poverenja;",
+            "2) razmatra izveštaje o proveri ispunjenosti uslova za pružanje kvalifikovanih usluga od poverenja;",
+            "3) vrši inspekcijski nadzor nad radom pružaoca usluga od poverenja;",
+            "4) nalaže vanrednu proveru ispunjenosti uslova za pružanje kvalifikovanih usluga od poverenja, u skladu sa zakonom;",
+            "5) sarađuje sa nadležnim organom za zaštitu podataka o ličnosti, i obaveštava ga bez odlaganja ukoliko dođe do saznanja da pružaoci kvalifikovanih usluga od poverenja ne postupaju u skladu sa propisima o zaštiti podataka o ličnosti;",
+            "6) proverava postojanje i pravilnu primenu odredaba o planovima prekida aktivnosti u slučajevima kada pružalac kvalifikovane usluge od poverenja prekine svoje aktivnosti, uključujući način na koji se održava dostupnost informacija koje izdaje i prima pružalac kvalifikovane usluge od poverenja;",
+            "7) sarađuje sa nadzornim telima iz člana 17. Uredbe eIDAS;",
+            "8) obaveštava javnost o ugrožavanju bezbednosti ili gubitku celovitosti usluga od poverenja koji imaju značajan uticaj na pruženu uslugu od poverenja ili u njoj sadržane lične podatke.",
+            "Nadležnosti Ministarstva u okviru prekogranične saradnje u oblasti usluga od poverenja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_28"
+    },
+    {
+        "title": "Član 29",
+        "texts": [
+            "Ministarstvo obavlja i poslove:",
+            "1) obaveštava nadležna tela stranih država o ugrožavanju bezbednosti ili gubitku celovitosti koji imaju značajan uticaj na pruženu uslugu od poverenja ili u njoj sadržane lične podatke;",
+            "2) izveštava Evropsku komisiju o svojim aktivnostima u skladu sa Uredbom eIDAS, počev od dana stupanja Republike Srbije u članstvo u Evropskoj uniji.",
+            "2. Opšte odredbe za kvalifikovane usluge od poverenja",
+            "Uspostavljanje odnosa između pružaoca i korisnika kvalifikovane usluge od poverenja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_29"
+    },
+    {
+        "title": "Član 30",
+        "texts": [
+            "O pružanju kvalifikovane usluge od poverenja zaključuje se ugovor između pružaoca i korisnika kvalifikovane usluge od poverenja, na zahtev korisnika.",
+            "Pružalac kvalifikovane usluge od poverenja dužan je da, pre zaključivanja ugovora iz stava 1. ovog člana, obavesti lice koje je podnelo zahtev za pružanje kvalifikovane usluge od poverenja o svim važnim okolnostima korišćenja usluge, a naročito o:",
+            "1) propisima i pravilima koji se odnose na korišćenje kvalifikovane usluge od poverenja;",
+            "2) eventualnim ograničenjima u korišćenju kvalifikovane usluge od poverenja;",
+            "3) merama koje treba da realizuju korisnici kvalifikovane usluge od poverenja i o potrebnoj tehnologiji za bezbedno korišćenje kvalifikovane usluge od poverenja.",
+            "Korisnik kvalifikovane usluge od poverenja može koristiti usluge od poverenja jednog ili više pružalaca usluga od poverenja.",
+            "Uslovi za pružanje kvalifikovanih usluga od poverenja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_30"
+    },
+    {
+        "title": "Član 31",
+        "texts": [
+            "Pružalac kvalifikovanih usluga od poverenja mora:",
+            "1) imati zaposlene koji poseduju neophodnu stručnost, iskustvo i kvalifikacije za primenu administrativnih i upravljačkih procedura koje odgovaraju domaćim i međunarodnim standardima i koji su prošli odgovarajuću obuku u oblasti informacione bezbednosti i zaštite podataka o ličnosti;",
+            "2) biti osiguran od odgovornosti za štetu nastalu vršenjem kvalifikovane usluge od poverenja;",
+            "3) koristiti sigurne uređaje i proizvode koji su zaštićeni od neovlašćene promene i garantuju tehničku bezbednost i pouzdanost procesa koje podržavaju;",
+            "4) koristiti sigurne sisteme za čuvanje podataka koji su mu povereni tako:",
+            "(1) da su javno raspoloživi samo kada je dobijena saglasnost lica čiji su to podaci,",
+            "(2) da samo ovlašćena lica mogu unositi podatke i vršiti izmene,",
+            "(3) da se može proveravati autentičnost podataka;",
+            "5) sprovoditi mere protiv falsifikovanja i krađe podataka;",
+            "6) čuvati u odgovarajućem vremenskom periodu sve relevantne informacije koje se odnose na podatke koji su kreirani ili primljeni od strane pružaoca kvalifikovanih usluga od poverenja, a posebno za svrhu pružanja dokaza u pravnim postupcima. Čuvanje se može vršiti elektronskim putem;",
+            "7) voditi ažurnu, tačnu i bezbednim merama zaštićenu bazu podataka izdatih elektronskih sertifikata u slučaju kada pruža uslugu izdavanja kvalifikovanih elektronskih sertifikata, kao i bazu podataka koji su kreirani ili primljeni od strane pružaoca kvalifikovanih usluga od poverenja u okviru pružanja kvalifikovanih usluga od poverenja;",
+            "8) imati ažuran plan završetka rada koji osigurava kontinuitet kvalifikovanih usluga od poverenja;",
+            "9) osigurati obradu ličnih podataka u skladu sa zakonima Republike Srbije.",
+            "Pružalac kvalifikovane usluge od poverenja dužan je da donese akta kojima određuje:",
+            "1) opšte uslove za pružanje usluge koji su javno dostupni;",
+            "2) politike pružanja usluga i praktična pravila za pružanje usluga koje pružalac kvalifikovane usluge od poverenja koristi kako bi obezbedio pružanje usluge u skladu sa propisima i opštim uslovima iz tačke 1) ovog stava;",
+            "3) informacionu bezbednost.",
+            "Pružaoci usluga od poverenja koji izdaju kvalifikovane elektronske sertifikate dužni su da dostavljaju Ministarstvu podatke o broju sertifikata izdatih od početka pružanja usluge do 31. decembra kalendarske godine i podatke o broju važećih sertifikata na dan 31. decembar kalendarske godine.",
+            "Ažurni podaci iz stava 3. ovog člana dostavljaju se redovno, najkasnije do 15. januara za prethodnu godinu, kao i po potrebi, vanredno, na zahtev Ministarstva.",
+            "Vlada, na predlog Ministarstva, bliže uređuje uslove za pružanje kvalifikovane usluge od poverenja iz stava 1. ovog člana i sadržaj akata iz stava 2. ovog člana, uključujući određivanje međunarodnih standarda koji se primenjuju.",
+            "Osiguranje od profesionalne odgovornosti"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_31"
+    },
+    {
+        "title": "Član 32",
+        "texts": [
+            "Ministarstvo propisuje najniži iznos osiguranja od rizika odgovornosti za štetu nastalu vršenjem usluge kvalifikovane usluge od poverenja.",
+            "Provera identiteta korisnika kvalifikovane usluge od poverenja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_32"
+    },
+    {
+        "title": "Član 33",
+        "texts": [
+            "Pri izdavanju kvalifikovanog sertifikata za usluge od poverenja pružalac kvalifikovane usluge od poverenja proverava podatke o identitetu fizičkog odnosno pravnog lica koji su sadržani u kvalifikovanom sertifikatu, u skladu sa zakonom.",
+            "Proveru podataka iz stava 1. ovog člana pružalac kvalifikovane usluge od poverenja vrši:",
+            "1) uz fizičko prisustvo fizičkog lica ili ovlašćenog predstavnika pravnog lica ili",
+            "2) putem javne isprave koja služi kao sredstvo identifikacije na daljinu, u skladu sa zakonom, ili",
+            "3) putem identifikacije na daljinu u skladu sa zakonom.",
+            "Provera podataka iz stava 2. ovog člana vrši se na način uređen propisom iz člana 31. ovog zakona koji bliže uređuje uslove za pružanje kvalifikovane usluge od poverenja.",
+            "O promeni podataka iz stava 1. ovog člana, fizičko odnosno pravno lice dužno je da, bez odlaganja, obavesti pružaoca kvalifikovane usluge od poverenja.",
+            "Ocenjivanje ispunjenosti uslova za pružanje kvalifikovanih usluga od poverenja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_33"
+    },
+    {
+        "title": "Član 34",
+        "texts": [
+            "Ocenjivanje ispunjenosti uslova za pružanje kvalifikovanih usluga od poverenja (u daljem tekstu: ocenjivanje ispunjenosti uslova) obavlja telo za ocenjivanje usaglašenosti koje je, u skladu sa zakonom kojim se uređuje akreditacija, akreditovano za ocenjivanje usaglašenosti pružaoca kvalifikovanih usluga od poverenja i kvalifikovanih usluga od poverenja koje oni pružaju.",
+            "Nakon sprovedenog ocenjivanja ispunjenosti uslova telo za ocenjivanje usaglašenosti sačinjava izveštaj o ocenjivanju usaglašenosti.",
+            "Ocenjivanje ispunjenosti uslova vrši se pre početka pružanja kvalifikovanih usluga od poverenja i najmanje jednom u 24 meseca.",
+            "Nakon završenog ocenjivanja ispunjenosti uslova pružalac usluge od poverenja dostavlja Ministarstvu izveštaj o ocenjivanju usaglašenosti, u roku od tri radna dana od dana kada ga je primio.",
+            "Ministarstvo može naložiti vanredno ocenjivanje ispunjenosti uslova ako se utvrde nepravilnosti u pružanju kvalifikovanih usluga od poverenja ili ako nastupi incident koji je u značajnoj meri ugrozio ili narušio informacionu bezbednost.",
+            "Vanredno ocenjivanje ispunjenosti uslova vrši telo za ocenjivanje usaglašenosti koje nije povezano sa vršenjem prethodnog ocenjivanja.",
+            "Troškove ocenjivanja ispunjenosti uslova, uključujući vanredna ocenjivanja, snosi pružalac kvalifikovane usluge od poverenja.",
+            "Ministarstvo utvrđuje listu standarda koje mora da ispuni telo za ocenjivanje usaglašenosti, obaveznu sadržinu izveštaja o ocenjivanju usaglašenosti i postupak ocenjivanja ispunjenosti uslova odnosno ocenjivanja usaglašenosti kvalifikovanih usluga od poverenja.",
+            "Upis u Registar pružalaca kvalifikovanih usluga od poverenja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_34"
+    },
+    {
+        "title": "Član 35",
+        "texts": [
+            "Registar pružalaca kvalifikovanih usluga od poverenja predstavlja skup podataka o pružaocima kvalifikovanih usluga od poverenja i o kvalifikovanim uslugama od poverenja koji vodi Ministarstvo.",
+            "Pružalac kvalifikovanih usluga od poverenja podnosi Ministarstvu zahtev za upis u Registar pružalaca kvalifikovanih usluga od poverenja.",
+            "Pružalac kvalifikovanih usluga od poverenja mora biti upisan u registar iz stava 1. ovog člana pre otpočinjanja pružanja kvalifikovanih usluga od poverenja.",
+            "Uz zahtev iz stava 1. ovog člana prilažu se dokazi o činjenicama iskazanim u zahtevu uključujući izveštaj o ocenjivanju usaglašenosti iz člana 34. stav 4. ovog zakona kojim je ocenjeno da podnosilac zahteva i kvalifikovane usluge od poverenja koje on namerava da pruža ispunjavaju uslove iz ovog zakona.",
+            "Ministarstvo rešava o upisu pružaoca kvalifikovanih usluga od poverenja u registar iz stava 1. ovog člana u roku od 60 dana od dana podnošenja urednog zahteva.",
+            "U postupku rešavanja iz stava 4. ovog člana Ministarstvo može zahtevati prilaganje dodatnih dokaza, kao i dodatnu proveru tehničkih i bezbednosnih komponenti i operativnog rada.",
+            "Ako pružalac usluga prestane da ispunjava uslove propisane ovim zakonom Ministarstvo donosi rešenje o njegovom brisanju iz registra iz stava 1. ovog člana.",
+            "Registar iz stava 1. ovog člana od podataka o ličnosti sadrži podatke o odgovornim licima, i to: ime, prezime, funkciju i kontakt podatke kao što su službena adresa, službeni broj telefona i službena adresa elektronske pošte u svrhu dostupnosti podataka o pružaocu kvalifikovane usluge od poverenja sa kojim se zaključuje ugovor o pružanju usluge.",
+            "Ministarstvo propisuje sadržaj i način vođenja registra iz stava 1. ovog člana, način podnošenja zahteva za upis u registar iz stava 1. ovog člana u skladu sa propisima koji uređuju opšti upravni postupak, potrebnu dokumentaciju uz zahtev, obrazac zahteva i način provere ispunjenosti uslova za pružanje kvalifikovane usluge od poverenja.",
+            "Prestanak pružanja usluge izdavanja kvalifikovanih elektronskih sertifikata"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_35"
+    },
+    {
+        "title": "Član 36",
+        "texts": [
+            "Izdavalac kvalifikovanih elektronskih sertifikata koji namerava da prestane sa obavljanjem delatnosti dužan je da o nameri raskida ugovora obavesti svakog korisnika kvalifikovane usluge od poverenja i Ministarstvo, najmanje tri meseca pre nastanka nameravanog prestanka obavljanja delatnosti.",
+            "Izdavalac kvalifikovanih elektronskih sertifikata koji prestaje sa obavljanjem poslova dužan je da obezbedi kod drugog pružaoca usluga od poverenja nastavak obavljanja usluge za korisnike kvalifikovane usluge od poverenja kojima je izdao sertifikat, a ako za to nema mogućnosti, dužan je da opozove sve izdate sertifikate i o preduzetim merama odmah obavesti Ministarstvo.",
+            "Izdavalac kvalifikovanih elektronskih sertifikata dužan je da dostavi svu dokumentaciju i neophodna tehnička sredstva u vezi sa obavljanjem usluga od poverenja drugom izdavaocu na koga prenosi obaveze obavljanja jedne ili više usluga od poverenja.",
+            "Ako izdavalac kvalifikovanih elektronskih sertifikata ne postupi u skladu sa stavom 3. ovog člana, dužan je da dostavi svu dokumentaciju Ministarstvu koje će izvršiti opoziv svih sertifikata, bez odlaganja, a na trošak izdavaoca kvalifikovanih elektronskih sertifikata.",
+            "U slučaju privremene zabrane vršenja usluga, sertifikati izdati do dana nastanka uzroka zbog kojih je izrečena mera zabrane, ostaju u važnosti.",
+            "Upotreba kvalifikovanih elektronskih sertifikata i kvalifikovanih elektronskih vremenskih žigova u softverskim rešenjima organa javne vlasti"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_36"
+    },
+    {
+        "title": "Član 36a",
+        "texts": [
+            "Organ javne vlasti dužan je da u pružanju usluga elektronske uprave u smislu zakona kojim se uređuje elektronska uprava u softverskim rešenjima omogući upotrebu kvalifikovanih elektronskih sertifikata i kvalifikovanih elektronskih vremenskih žigova izdatih od svih pružalaca kvalifikovanih usluga od poverenja upisanih u Registar iz člana 35. ovog zakona.",
+            "Državni organ kao pružalac kvalifikovanih usluga od poverenja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_36a"
+    },
+    {
+        "title": "Član 37",
+        "texts": [
+            "Državni organ može pružati kvalifikovane usluge od poverenja ukoliko ispunjava uslove za pružanje usluga predviđene ovim zakonom.",
+            "Ocenjivanje ispunjenosti uslova državnog organa za pružanje usluge od poverenja vrši ministarstvo, odnosno inspektor za elektronsku identifikaciju i usluge od poverenja, nakon podnetog zahteva.",
+            "Izuzetno od stava 2. ovog člana ocenjivanje ispunjenosti uslova vrši se na osnovu interne kontrole u saradnji sa nadležnim ministarstvom samo u slučaju kada je pružalac kvalifikovane usluge od poverenja ministarstvo nadležno za poslove odbrane, uz obavezu dostavljanja izveštaja o izvršenoj internoj kontroli nadležnom ministarstvu.",
+            "Nakon provere ispunjenosti uslova Vlada uredbom utvrđuje da državni organ može da obavlja kvalifikovanu uslugu od poverenja koja je bila predmet ocenjivanja iz stava 2. ovog člana.",
+            "Ministarstvo vrši upis državnog organa u registar iz člana 35. ovog zakona, na osnovu uredbe iz stava 4. ovog člana.",
+            "Javna lista kvalifikovanih usluga od poverenja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_37"
+    },
+    {
+        "title": "Član 38",
+        "texts": [
+            "Javna lista kvalifikovanih usluga od poverenja na automatizujući način pouzdajućim stranama obezbeđuje pouzdanu informaciju o statusu pružaoca kvalifikovanih usluga od poverenja i njihovih kvalifikovanih usluga u skladu sa podacima upisanim u registar iz člana 35. ovog zakona.",
+            "Javna lista kvalifikovanih usluga od poverenja sadrži informaciju o relevantnim proteklim događajima u vezi sa statusom sadašnjih i bivših pružalaca i njihovih usluga tokom vremena, uključujući informaciju o početku pružanja, gubitku celovitosti usluge od poverenja, privremenoj zabrani, prestanku pružanja usluge, brisanju iz registra i drugim događajima zabeleženim u okviru poslova vođenja registra, inspekcijskog nadzora ili događajima prijavljenim od strane pružaoca, a koji utiču na prihvatljivost kvalifikovane usluge od poverenja i postupak utvrđivanja njenog statusa u određenom vremenskom trenutku.",
+            "U Javnu listu kvalifikovanih usluga od poverenja upisuju se podaci iz st. 1. i 2. ovog člana kao i drugi podaci utvrđeni propisom Ministarstva iz stava 6. ovog člana i odgovarajućim standardima.",
+            "Pružaoci kvalifikovanih usluga od poverenja dužni su da, na zahtev Ministarstva, u roku od sedam dana, dostave podatke iz stava 3. ovog člana, kao i da o svakoj promeni podataka iz stava 3. ovog člana obaveste Ministarstvo bez odlaganja.",
+            "Podaci o sertifikatu kojim je podržan potpis Javne liste kvalifikovanih usluga od poverenja, uključujući sha-256 otisak objavljuju se u \"Službenom glasniku Republike Srbije\".",
+            "Ministarstvo propisuje tehničke uslove, formu i način objavljivanja javne liste kvalifikovanih usluga od poverenja i uslove koje ministarstvo nadležno za objavljivanje javne liste kvalifikovanih usluga od poverenja mora da obezbedi pri njenom formiranju, potpisivanju i objavljivanju.",
+            "Forma i način objavljivanja javne liste kvalifikovanih usluga od poverenja iz stava 6. ovog člana treba da budu usklađeni sa tehničkim uslovima za liste od poverenja iz člana 22. Uredbe eIDAS.",
+            "Znak pouzdanosti za kvalifikovane usluge od poverenja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_38"
+    },
+    {
+        "title": "Član 39",
+        "texts": [
+            "Znak pouzdanosti za kvalifikovane usluge od poverenja (u daljem tekstu: Znak pouzdanosti) je znak kojim se na jednostavan, prepoznatljiv i jasan način označava kvalifikovana usluga od poverenja.",
+            "Registrovani pružaoci kvalifikovanih usluga od poverenja imaju pravo da koriste Znak pouzdanosti za kvalifikovane usluge od poverenja koje pružaju.",
+            "Znak pouzdanosti iz stava 1. koristi se do stupanja Republike Srbije u članstvo u Evropskoj uniji.",
+            "Ministarstvo propisuje izgled, sastav, veličinu i dizajn Znaka pouzdanosti za kvalifikovane usluge od poverenja.",
+            "Prekogranično priznavanje kvalifikovanih usluga od poverenja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_39"
+    },
+    {
+        "title": "Član 40",
+        "texts": [
+            "Kvalifikovana usluga od poverenja koju pruža strani pružalac usluge od poverenja u reciprocitetu je sa domaćom uslugom od poverenja u zemlji stranog pružaoca usluge, što je regulisano potvrđenim međunarodnim sporazumom.",
+            "V POJEDINE VRSTE USLUGA OD POVERENJA",
+            "Vrste usluga"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_40"
+    },
+    {
+        "title": "Član 41",
+        "texts": [
+            "Usluge od poverenja se pružaju u oblastima:",
+            "1) elektronskog potpisa i elektronskog pečata;",
+            "2) elektronskog vremenskog žiga;",
+            "3) elektronske dostave;",
+            "4) autentikacije veb sajtova;",
+            "5) elektronskog čuvanja dokumenata.",
+            "Kvalifikovane usluge od poverenja su:",
+            "1) izdavanje kvalifikovanih sertifikata za elektronski potpis;",
+            "2) usluga upravljanja kvalifikovanim sredstvom za kreiranje elektronskog potpisa na daljinu;",
+            "3) usluga validacije kvalifikovanog elektronskog potpisa;",
+            "4) izdavanje kvalifikovanih sertifikata za elektronski pečat;",
+            "5) usluga upravljanja kvalifikovanim sredstvom za kreiranje elektronskog pečata na daljinu;",
+            "6) usluga validacije kvalifikovanog elektronskog pečata;",
+            "7) izdavanje kvalifikovanih elektronskih vremenskih žigova;",
+            "8) usluga kvalifikovane elektronske dostave;",
+            "9) usluga izdavanja kvalifikovanih sertifikata za autentikaciju veb sajtova;",
+            "10) usluga kvalifikovanog elektronskog čuvanja dokumenata.",
+            "Pružalac usluga od poverenja odnosno kvalifikovanih usluga od poverenja može pružati jednu ili više usluga iz st. 1. i 2. ovog člana.",
+            "1. Elektronski potpis i elektronski pečat",
+            "Napredni elektronski potpis i napredni elektronski pečat"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_41"
+    },
+    {
+        "title": "Član 42",
+        "texts": [
+            "Napredni elektronski potpis odnosno napredni elektronski pečat mora:",
+            "1) na nedvosmislen način da bude povezan sa potpisnikom odnosno pečatiocem;",
+            "2) da omogućava utvrđivanje identiteta potpisnika, odnosno pečatioca;",
+            "3) da bude izrađen korišćenjem podataka za izradu elektronskog potpisa odnosno elektronskog pečata koje potpisnik odnosno pečatilac može, uz visok nivo pouzdanosti, koristiti pod svojom isključivom kontrolom;",
+            "4) da bude povezan sa elektronski potpisanim odnosno elektronski pečatiranim podacima, na način da se može utvrditi bilo koja naknadna izmena tih podataka.",
+            "Sadržaj kvalifikovanog elektronskog sertifikata"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_42"
+    },
+    {
+        "title": "Član 43",
+        "texts": [
+            "Kvalifikovani elektronski sertifikat mora da sadrži:",
+            "1) oznaku, u formi pogodnoj za automatsku obradu, da se elektronski sertifikat koristi kao kvalifikovani sertifikat za elektronski potpis, odnosno pečat;",
+            "2) skup podataka koji jedinstveno identifikuju kvalifikovanog pružaoca usluge od poverenja za izdavanje kvalifikovanog elektronskog sertifikata uključujući, najmanje, zemlju porekla pružaoca i naziv pružaoca;",
+            "3) skup podataka koji jedinstveno identifikuju potpisnika odnosno pečatioca uključujući najmanje:",
+            "(1) za potpisnika:",
+            "- ime i prezime ili pseudonim, a ukoliko je upotrebljen pseudonim to mora biti jasno obeleženo u okviru kvalifikovanog elektronskog sertifikata;",
+            "- JMBG, ukoliko je u zahtevu za izdavanje sertifikata potpisnik zahtevao da sertifikat sadrži JMBG;",
+            "(2) za pečatioca: naziv, država i matični broj odnosno jedinstvena identifikaciona oznaka u skladu sa pravnom regulativom te države, ukoliko postoji;",
+            "4) podatke za proveru elektronskog potpisa odnosno elektronskog pečata, koji odgovaraju podacima za kreiranje tog elektronskog potpisa odnosno elektronskog pečata;",
+            "5) podatke o početku i kraju važenja kvalifikovanog elektronskog sertifikata;",
+            "6) serijski broj kvalifikovanog elektronskog sertifikata, koji mora biti jedinstven u okviru izdavaoca kvalifikovanog elektronskog sertifikata;",
+            "7) napredni elektronski potpis ili napredni elektronski pečat izdavaoca kvalifikovanog elektronskog sertifikata;",
+            "8) lokaciju na kojoj je, bez naknade, dostupan sertifikat naprednog elektronskog potpisa odnosno naprednog elektronskog pečata iz tačke 7) ovog stava;",
+            "9) lokaciju usluge putem koje se proverava status validnosti kvalifikovanog elektronskog sertifikata;",
+            "10) oznaku da su podaci za kreiranje elektronskog potpisa odnosno pečata, koji odgovaraju podacima za proveru elektronskog potpisa odnosno pečata iz kvalifikovanog elektronskog sertifikata, sadržani u kvalifikovanom sredstvu za kreiranje elektronskog potpisa odnosno pečata, ukoliko je taj uslov ispunjen.",
+            "Kvalifikovani elektronski sertifikati, pored obeležja iz stava 1. ovog člana, mogu uključivati dodatna obeležja.",
+            "Ministarstvo bliže propisuje uslove koje moraju da ispunjavaju kvalifikovani elektronski sertifikati iz stava 1. ovog člana.",
+            "Opoziv i suspenzija kvalifikovanog elektronskog sertifikata"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_43"
+    },
+    {
+        "title": "Član 44",
+        "texts": [
+            "Izdavalac kvalifikovanih sertifikata dužan je da izvrši opoziv izdatih sertifikata, kada:",
+            "1) opoziv sertifikata zahteva vlasnik sertifikata ili njegov punomoćnik;",
+            "2) vlasnik sertifikata izgubi poslovnu sposobnost, ili je prestao da postoji ili su se promenile okolnosti koje bitno utiču na važenje sertifikata;",
+            "3) utvrdi da je podatak u sertifikatu pogrešan;",
+            "4) utvrdi da su podaci za proveru kvalifikovanog elektronskog potpisa odnosno pečata ili sistem pružaoca kvalifikovanih usluga od poverenja ugroženi na način koji utiče na bezbednost i pouzdanost sertifikata;",
+            "5) utvrdi da su podaci za elektronsko potpisivanje odnosno pečatiranje ili sistem vlasnika sertifikata ugroženi na način koji utiče na pouzdanost i bezbednost elektronskog potpisa;",
+            "6) prestaje sa radom ili mu je rad zabranjen.",
+            "Izdavalac kvalifikovanih sertifikata dužan je da obavesti korisnika kvalifikovane usluge od poverenja o opozivu sertifikata u roku od 24 časa od primljenog obaveštenja, odnosno nastanka okolnosti zbog kojih se sertifikat opoziva.",
+            "Korisnik kvalifikovane usluge od poverenja dužan je da odmah zatraži opoziv svog kvalifikovanog elektronskog sertifikata u slučaju gubitka ili oštećenja uređaja ili podataka za kreiranje sertifikata.",
+            "U slučaju opoziva kvalifikovani elektronski sertifikat trajno prestaje da važi od trenutka opoziva.",
+            "U slučaju suspenzije kvalifikovani elektronski sertifikat gubi važnost tokom perioda trajanja suspenzije.",
+            "Podaci o suspenziji i periodu trajanja suspenzije kvalifikovanog elektronskog sertifikata upisuju se u bazu podataka izdatih sertifikata koju vodi izdavalac kvalifikovanih elektronskih sertifikata i moraju biti vidljivi tokom trajanja suspenzije u okviru usluga kojima se pružaju informacije o statusu sertifikata.",
+            "Čuvanje dokumentacije o izdatim i opozvanim kvalifikovanim sertifikatima"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_44"
+    },
+    {
+        "title": "Član 45",
+        "texts": [
+            "Izdavalac kvalifikovanih elektronskih sertifikata dužan je da čuva kompletnu dokumentaciju o izdatim i opozvanim kvalifikovanim elektronskim sertifikatima, kao sredstvo za dokazivanje i verifikaciju u upravnim, sudskim i drugim postupcima, najmanje deset godina po prestanku važenja sertifikata.",
+            "Podaci iz stava 1. ovog člana mogu se čuvati u elektronskoj formi.",
+            "Kvalifikovana sredstva za kreiranje elektronskog potpisa i pečata"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_45"
+    },
+    {
+        "title": "Član 46",
+        "texts": [
+            "Kvalifikovano sredstvo za kreiranje elektronskog potpisa odnosno pečata mora da, pomoću odgovarajućih tehničkih rešenja i postupaka, obezbedi:",
+            "1) poverljivost podataka za kreiranje elektronskog potpisa odnosno pečata;",
+            "2) da se podaci za kreiranje elektronskog potpisa, odnosno pečata pojavljuju samo jednom;",
+            "3) da se podaci za kreiranje elektronskog potpisa, odnosno pečata ne mogu dobiti izvan sredstva za kreiranje elektronskog potpisa, odnosno pečata upotrebom dostupne tehnologije u razumnom vremenu;",
+            "4) da je elektronski potpis, odnosno pečat pouzdano zaštićen od falsifikovanja upotrebom dostupne tehnologije;",
+            "5) mogućnost pouzdane zaštite podataka za kreiranje elektronskog potpisa, odnosno pečata od neovlašćenog korišćenja.",
+            "Sredstva za kreiranje kvalifikovanog elektronskog potpisa, odnosno pečata, prilikom kreiranja elektronskog potpisa odnosno pečata, ne smeju promeniti podatke koji se potpisuju odnosno pečatiraju ili onemogućiti potpisniku, odnosno pečatiocu uvid u te podatke pre procesa kreiranja kvalifikovanog elektronskog potpisa odnosno pečata.",
+            "Kvalifikovano sredstvo za kreiranje elektronskog potpisa, odnosno pečata korisnik kvalifikovane usluge od poverenja može koristiti putem usluge upravljanja kvalifikovanim sredstvom za kreiranje elektronskog potpisa, odnosno pečata na daljinu (u daljem tekstu: usluga upravljanja kvalifikovanim sredstvom na daljinu), što takođe predstavlja kvalifikovanu uslugu od poverenja.",
+            "Izuzetno od stava 1. ovog člana, kvalifikovani pružalac usluga od poverenja iz stava 3. ovog člana može izraditi kopiju podataka za izradu elektronskog potpisa, odnosno pečata u svrhu zaštite od gubitka podataka ako:",
+            "1) izrada i čuvanje kopija podataka za kreiranje kvalifikovanog elektronskog potpisa odnosno pečata ne umanjuju propisani nivo zaštite tih podataka;",
+            "2) broj izrađenih kopija podataka za kreiranje elektronskog potpisa odnosno pečata nije veći nego što je to neophodno za obezbeđivanje kontinuiteta pružanja usluge.",
+            "Ministarstvo bliže propisuje uslove koje mora da ispunjava sredstvo za kreiranje kvalifikovanog elektronskog potpisa odnosno pečata.",
+            "Sertifikacija kvalifikovanih sredstava za kreiranje elektronskog potpisa odnosno pečata i upis u Registar kvalifikovanih sredstava za kreiranje elektronskih potpisa i elektronskih pečata"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_46"
+    },
+    {
+        "title": "Član 47",
+        "texts": [
+            "U skladu sa zakonom kojim se uređuju tehnički zahtevi za proizvode i ocenjivanje usaglašenosti, Ministarstvo imenuje telo za ocenu usaglašenosti sredstava za kreiranje kvalifikovanog elektronskog potpisa odnosno pečata (u daljem tekstu: imenovano telo) koje vrši ocenu usaglašenosti u skladu sa propisom iz člana 46. ovog zakona.",
+            "Propisom iz člana 46. ovog zakona bliže se uređuju uslovi koje mora da ispunjava imenovano telo.",
+            "Registar kvalifikovanih sredstava za kreiranje elektronskih potpisa i elektronskih pečata predstavlja skup podataka o kvalifikovanim sredstvima za kreiranje elektronskih potpisa i elektronskih pečata, koji vodi Ministarstvo.",
+            "Zahtev za upis u Registar iz stava 3. ovog zakona podnosi se Ministarstvu, na osnovu izveštaja koje dobija od imenovanih tela.",
+            "Imenovano telo bez odlaganja, a najkasnije u roku od sedam dana od nastale promene, obaveštava Ministarstvo o izdatim i povučenim potvrdama o usaglašenosti sredstava za kreiranje elektronskih potpisa odnosno pečata.",
+            "Sastavni deo Registra iz stava 3. ovog člana su i kvalifikovana sredstva za kreiranje elektronskog potpisa i elektronskog pečata sa liste koju, u skladu sa članom 31. Uredbe eIDAS, objavljuje Evropska komisija.",
+            "Za kvalifikovana sredstva za kreiranje elektronskih potpisa i elektronskih pečata iz stava 6. ovog člana ne podnosi se zahtev za upis u Registar kvalifikovanih sredstava za kreiranje elektronskih potpisa i elektronskih pečata.",
+            "Ministarstvo propisuje sadržaj i način vođenja Registra iz stava 3. ovog člana, način podnošenja zahteva za upis u taj registar u skladu sa propisima koji uređuju opšti upravni postupak, potrebnu dokumentaciju uz zahtev i obrazac zahteva.",
+            "Postupak validacije kvalifikovanog elektronskog potpisa i kvalifikovanog elektronskog pečata"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_47"
+    },
+    {
+        "title": "Član 48",
+        "texts": [
+            "Postupkom validacije utvrđuje se da elektronski potpis predstavlja ispravan kvalifikovani elektronski potpis kada:",
+            "1) je utvrđeno da je sertifikat koji prati elektronski potpis u trenutku potpisivanja predstavljao kvalifikovani elektronski sertifikat;",
+            "2) je utvrđeno da je kvalifikovani elektronski sertifikat izdat od strane pružaoca usluge izdavanja kvalifikovanih sertifikata za elektronski potpis i da je važio u trenutku potpisivanja;",
+            "3) je utvrđeno da podaci za validaciju elektronskog potpisa iz kvalifikovanog elektronskog sertifikata odgovaraju kombinaciji elektronskog potpisa i podataka koji su potpisani elektronskim potpisom;",
+            "4) je pouzdajućoj strani tačno prikazan skup podataka iz kvalifikovanog elektronskog sertifikata koji jedinstveno identifikuju potpisnika;",
+            "5) su pouzdajućoj strani tačno prikazani podaci koji su potpisani elektronskim potpisom;",
+            "6) je korišćenje pseudonima jasno naznačeno pouzdajućoj strani, u slučaju da je prilikom elektronskog potpisivanja korišćen pseudonim;",
+            "7) je utvrđeno da je elektronski potpis kreiran korišćenjem kvalifikovanog sredstva za kreiranje elektronskog potpisa;",
+            "8) je utvrđeno da nije narušen integritet podataka koji su potpisani elektronskim potpisom;",
+            "9) je utvrđeno da elektronski potpis ispunjava uslove za napredni elektronski potpis iz ovog zakona.",
+            "Sistem koji se koristi za validaciju kvalifikovanog elektronskog potpisa obezbeđuje tačan rezultat postupka validacije pouzdajućoj strani i omogućava joj identifikovanje bilo kog problema od značaja za pouzdanost.",
+            "Odredbe st. 1. i 2. ovog člana shodno se primenjuju na elektronski pečat.",
+            "Ministarstvo bliže propisuje uslove za postupak validacije kvalifikovanog elektronskog potpisa i kvalifikovanog elektronskog pečata.",
+            "Usluga kvalifikovane validacije kvalifikovanih elektronskih potpisa i kvalifikovanih elektronskih pečata"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_48"
+    },
+    {
+        "title": "Član 49",
+        "texts": [
+            "Pružalac usluge kvalifikovane validacije kvalifikovanih elektronskih potpisa odnosno pečata obezbeđuje:",
+            "1) validaciju kvalifikovanog elektronskog potpisa odnosno pečata u skladu sa članom 48. ovog zakona;",
+            "2) da pouzdajuća strana koja koristi uslugu dobije rezultat postupka validacije elektronskim putem na automatizovan način, koji je pouzdan i efikasan;",
+            "3) da je rezultat postupka validacije iz tačke 2) ovog stava pečatiran naprednim elektronskim pečatom ili potpisan naprednim elektronskim potpisom pružaoca usluge.",
+            "Ministarstvo bliže propisuje uslove za pružanje usluge kvalifikovane validacije kvalifikovanih elektronskih potpisa i kvalifikovanih elektronskih pečata.",
+            "Pravno dejstvo elektronskog potpisa"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_49"
+    },
+    {
+        "title": "Član 50",
+        "texts": [
+            "Elektronskom potpisu ne može se osporiti punovažnost ili dokazna snaga samo zbog toga što je u elektronskom obliku ili što ne ispunjava uslove za kvalifikovani elektronski potpis.",
+            "Kvalifikovani elektronski potpis ima isto pravno dejstvo kao i svojeručni potpis.",
+            "Kvalifikovani elektronski potpis može da zameni overu svojeručnog potpisa, ako je to propisano posebnim zakonom.",
+            "Odredbe st. 1. i 2. ovog člana ne primenjuju se na pravne poslove za koje je posebnim zakonom predviđeno da se ne mogu preduzeti u elektronskoj formi.",
+            "Ugovori i drugi pravni poslovi za koje je posebnim zakonom predviđeno da se sačinjavaju u formi overe potpisa, javno potvrđene (solemnizovane) isprave, ili u formi javnobeležničkog zapisa ne mogu se sačiniti u skladu sa st. 1. i 2. ovog člana već u skladu sa propisima kojima se uređuje overa potpisa, potvrđivanje i sačinjavanje isprava o pravnim poslovima.",
+            "Pravno dejstvo elektronskog pečata"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_50"
+    },
+    {
+        "title": "Član 51",
+        "texts": [
+            "Elektronskom pečatu ne može se osporiti punovažnost ili dokazna snaga samo zbog toga što je u elektronskom obliku ili što ne ispunjava uslove za kvalifikovani elektronski pečat.",
+            "Za kvalifikovani elektronski pečat važi pravna pretpostavka očuvanosti integriteta i tačnosti porekla podataka za koje je vezan.",
+            "Akt organa javne vlasti koji se donosi u vršenju javnih ovlašćenja u obliku elektronskog dokumenta umesto pečata odnosno potpisa službenog lica i pečata sadrži kvalifikovani elektronski pečat tog organa ili kvalifikovani elektronski potpis ovlašćenog lica organa javne vlasti.",
+            "Kvalifikovani elektronski pečat na podnesku u postupku koji organi javne vlasti sprovode u vršenju javnih ovlašćenja u obliku elektronskog dokumenta ima isto pravno dejstvo kao i svojeručni potpis, odnosno pečat.",
+            "Odredbe st. 1-4. ovog člana ne primenjuju se na pravne poslove za koje je posebnim zakonom predviđeno da se ne mogu preduzeti u elektronskoj formi.",
+            "Ugovori i drugi pravni poslovi za koje je posebnim zakonom predviđeno da se sačinjavaju u formi overe potpisa, javno potvrđene (solemnizovane) isprave, ili u formi javnobeležničkog zapisa ne mogu se sačiniti u skladu sa st. 1-4. ovog člana već u skladu sa propisima kojima se uređuje overa potpisa, potvrđivanje i sačinjavanje isprava o pravnim poslovima.",
+            "2. Elektronski vremenski žig",
+            "Uslovi za kvalifikovane elektronske vremenske žigove"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_51"
+    },
+    {
+        "title": "Član 52",
+        "texts": [
+            "Kvalifikovani elektronski vremenski žig mora:",
+            "1) da je povezan sa koordiniranim univerzalnim vremenom (UTC) tako da se sprečava svaka mogućnost promene podataka koja se ne može otkriti;",
+            "2) da je zasnovan na preciznom vremenskom izvoru;",
+            "3) da je izdat od strane pružaoca usluge izdavanja kvalifikovanog vremenskog žiga;",
+            "4) da je potpisan, odnosno pečatiran od strane pružaoca usluge izdavanja kvalifikovanog vremenskog žiga pomoću naprednog elektronskog potpisa ili naprednog elektronskog pečata.",
+            "Ministarstvo propisuje bliže uslove za kvalifikovane elektronske vremenske žigove.",
+            "Pravno dejstvo elektronskog vremenskog žiga"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_52"
+    },
+    {
+        "title": "Član 53",
+        "texts": [
+            "Elektronskom vremenskom žigu ne može se osporiti punovažnost ili dokazna snaga samo zbog toga što je u elektronskom obliku ili što ne ispunjava uslove za kvalifikovan vremenski žig.",
+            "Za kvalifikovani elektronski vremenski žig i podatke kojima je taj vremenski žig pridružen važi pravna pretpostavka tačnosti datuma i vremena iskazanog u vremenskom žigu i očuvanosti integriteta tih podataka u odnosu na taj vremenski trenutak.",
+            "3. Elektronska dostava",
+            "Uslovi za usluge kvalifikovane elektronske dostave"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_53"
+    },
+    {
+        "title": "Član 54",
+        "texts": [
+            "Usluga kvalifikovane elektronske dostave mora:",
+            "1) da je pružana od strane jednog ili više pružaoca kvalifikovanih usluga od poverenja;",
+            "2) da, uz visok nivo pouzdanosti, obezbeđuje identifikaciju pošiljaoca;",
+            "3) da obezbeđuje identifikaciju primaoca prilikom dostave podataka;",
+            "4) u procesu slanja i prijema elektronske poruke, da koristi napredni elektronski potpis ili napredni elektronski pečat pružaoca usluge kvalifikovane elektronske dostave u svrhu sprečavanja neprimećene promene podataka;",
+            "5) da obezbedi da izmena podataka izvršena u svrhu slanja ili prijema podataka mora biti jasno naznačena pošiljaocu i primaocu;",
+            "6) da obezbedi da vreme i datum slanja, prijema i eventualne izmene podataka moraju biti naznačeni kvalifikovanim elektronskim vremenskim žigom;",
+            "7) da, u slučaju da se podaci prenose između dva ili više pružalaca usluge kvalifikovane elektronske dostave, obezbedi da se uslovi iz ovog stava primenjuju na svakog od njih.",
+            "Potvrda o elektronskoj dostavi"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_54"
+    },
+    {
+        "title": "Član 55",
+        "texts": [
+            "Pružalac usluge je u obavezi da prilikom pružanja usluge kvalifikovane elektronske dostave izda dve potvrde pošiljaocu, i to:",
+            "1) potvrdu da je primio elektronsku poruku pošiljaoca i prosledio je primaocu;",
+            "2) potvrdu da je primalac preuzeo dostavljenu elektronsku poruku.",
+            "Potvrde iz stava 1. ovog člana pružalac usluge dostavlja automatski u elektronskom obliku potpisane naprednim elektronskim pečatom, a na zahtev ih može izdati u elektronskom ili papirnom obliku.",
+            "Potvrda iz stava 1. tač. 1) i 2) ovog člana sadrži:",
+            "1) identifikacionu oznaku elektronske poruke koju je dodelio pružalac usluge;",
+            "2) podatke o pošiljaocu i primaocu, koji od podataka o ličnosti mogu da sadrže podatke iz člana 43. stav 1. tačka 3) ovog zakona kao i adresu za elektronsku dostavu;",
+            "3) podatke koji povezuju potvrdu sa sadržajem elektronske poruke;",
+            "4) datum i vreme prijema i prosleđivanja elektronske poruke od strane pružaoca usluge, odnosno datum i vreme preuzimanja dostavljene elektronske poruke od strane primaoca.",
+            "Potvrda iz stava 1. tačka 2) ovog člana smatra se dostavnicom u elektronskom obliku u smislu zakona kojim se uređuje upravni postupak, pri čemu se datum i vreme preuzimanja iz stava 3. tačka 4) ovog člana smatraju datumom i vremenom uručenja.",
+            "Datum i vreme prijema podneska koji je stranka u upravnom postupku uputila organu putem kvalifikovane elektronske dostave smatra se da je datum i vreme preuzimanja iz stava 3. tačka 4) ovog člana.",
+            "Ako dođe do tehničkih problema prilikom elektronskog dostavljanja odnosno prijema podataka, pružalac usluge kvalifikovane elektronske dostave dužan je da o tome obavesti pošiljaoca i primaoca.",
+            "Ministarstvo propisuje bliže uslove za usluge kvalifikovane elektronske dostave iz člana 54. ovog zakona i sadržaj potvrda iz stava 3. ovog člana.",
+            "Razmena elektronskih poruka između pružalaca usluge kvalifikovane elektronske dostave"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_55"
+    },
+    {
+        "title": "Član 56",
+        "texts": [
+            "Pružaoci usluge kvalifikovane elektronske dostave u obavezi su da prilikom pružanja usluge kvalifikovane elektronske dostave omoguće prijem i slanje poruka i kada je pošiljalac ili primalac poruke korisnik drugog pružaoca usluge kvalifikovane elektronske dostave.",
+            "Razmena elektronskih poruka iz stava 1. ovog člana vrši se na način uređen propisom iz člana 55. ovog zakona koji bliže uređuje uslove za usluge kvalifikovane elektronske dostave.",
+            "Pravno dejstvo usluge elektronske dostave"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_56"
+    },
+    {
+        "title": "Član 57",
+        "texts": [
+            "Podacima poslatim ili primljenim putem usluge elektronske dostave ne može se osporiti pravna snaga i dopuštenost kao dokaz u pravnom prometu samo iz razloga što su u elektronskoj formi ili iz razloga što ne ispunjavaju sve uslove usluge kvalifikovane elektronske dostave.",
+            "Za podatke iz elektronske poruke poslate ili primljene putem usluge kvalifikovane elektronske dostave važi pravna pretpostavka integriteta podataka, slanja podataka od naznačenog pošiljaoca, prijem od strane naznačenog primaoca, pouzdanosti datuma i vremena slanja ili primanja.",
+            "4. Autentikacija veb sajtova",
+            "Kvalifikovani sertifikati za autentikaciju veb sajtova"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_57"
+    },
+    {
+        "title": "Član 58",
+        "texts": [
+            "Autentikacija veb sajta koristi se za potvrdu identiteta veb sajta od strane korisnika kvalifikovane usluge od poverenja, kojom se garantuje njegova pouzdanost korišćenja.",
+            "Za autentikaciju veb sajta koristi se kvalifikovani sertifikat koji izdaje pružalac kvalifikovanih usluga od poverenja.",
+            "Kvalifikovani sertifikat za autentikaciju veb sajta mora da ispunjava uslove iz člana 59. ovog zakona.",
+            "Sadržaj kvalifikovanih sertifikata za autentikaciju veb sajtova"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_58"
+    },
+    {
+        "title": "Član 59",
+        "texts": [
+            "Kvalifikovani sertifikati za autentikaciju veb sajtova sadrže:",
+            "1) oznaku, koja se može prepoznati pri automatskoj obradi, da je sertifikat izdat kao kvalifikovani sertifikat za autentikaciju veb sajtova;",
+            "2) skup podataka koji nedvosmisleno predstavljaju pružaoca usluge izdavanja kvalifikovanih sertifikata za autentikaciju veb sajtova, što obavezno uključuje državu sedišta, poslovno ime i matični broj tog pružaoca usluge;",
+            "3) ime i prezime ili pseudonim fizičkog lica kome je izdat sertifikat, odnosno poslovno ime i matični broj pravnog lica kome je izdat sertifikat;",
+            "4) adresu, odnosno sedište fizičkog ili pravnog lica kome je izdat sertifikat;",
+            "5) naziv internet domena fizičkog ili pravnog lica kome je izdat sertifikat;",
+            "6) podatke o početku i kraju roka važenja sertifikata;",
+            "7) identifikacionu oznaku sertifikata koja mora da bude jedinstvena za pružaoca usluge izdavanja kvalifikovanih sertifikata za autentikaciju veb sajtova;",
+            "8) napredan elektronski potpis ili napredan elektronski pečat pružaoca usluge izdavanja kvalifikovanih sertifikata za autentikaciju veb sajtova;",
+            "9) lokaciju na kojoj je, bez naknade, dostupan sertifikat naprednog elektronskog potpisa odnosno naprednog elektronskog pečata iz tačke 8) ovog stava;",
+            "10) lokaciju usluge putem koje se proverava status validnosti kvalifikovanog elektronskog sertifikata.",
+            "5. Elektronsko čuvanje dokumenta",
+            "Priprema dokumenata za elektronsko čuvanje"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_59"
+    },
+    {
+        "title": "Član 60",
+        "texts": [
+            "Priprema dokumenata za elektronsko čuvanje odnosi se na:",
+            "1) dokumenta koja su izvorno nastala u elektronskom obliku koji je pogodan za čuvanje;",
+            "2) konverziju dokumenta u drugačiji elektronski oblik pogodan za čuvanje;",
+            "3) digitalizaciju dokumenta koja su izvorno nastala u obliku koji nije elektronski u oblik pogodan za čuvanje.",
+            "Dokument pripremljen za elektronsko čuvanje može obuhvatiti i dodatne podatke koji opisuju dokument ili su izvedeni iz dokumenta.",
+            "Priprema dokumenata za pouzdano elektronsko čuvanje"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_60"
+    },
+    {
+        "title": "Član 61",
+        "texts": [
+            "Priprema dokumenta za pouzdano elektronsko čuvanje mora:",
+            "1) da obezbedi da svi bitni elementi sadržaja izvornog dokumenta budu verno preneti u dokument pripremljen za elektronsko čuvanje, uzimajući u obzir prirodu i svrhu dokumenta, tj. očuvan je integritet sadržaja dokumenta;",
+            "2) da obezbedi da je očuvana upotrebljivost sadržaja izvornog dokumenta;",
+            "3) da obezbedi da su uključeni svi elementi sadržaja izvornog dokumenta koji su od značaja za autentičnost;",
+            "4) da obezbedi potvrdu vernosti izvornog dokumenta i tačnost dodatno uključenih podataka kvalifikovanim elektronskim pečatom ili potpisom sa pridruženim vremenskim žigom;",
+            "5) da obezbedi sprovođenje kontrole tačnosti i kvaliteta konverzije kao i otklanjanje grešaka nastalih u postupku konverzije;",
+            "6) da obezbedi da se dopune sadržaja, unete zabeležbe i podaci o preduzetim radnjama čuvaju odvojeno od izvornih dokumenata;",
+            "7) da obezbedi da se o preduzetim radnjama u postupku pripreme za elektronsko čuvanje vodi uredna evidencija.",
+            "Ako je propisani rok za čuvanje dokumenta duži od pet godina, dokument pripremljen za čuvanje treba da bude u formatu koji je pogodan za dugoročno čuvanje.",
+            "Vlada, na predlog Ministarstva, uređuje bliže uslove koje mora da ispunjava pouzdana priprema dokumenta za elektronsko čuvanje i formate dokumenta koji su pogodni za dugotrajno čuvanje.",
+            "Pouzdano elektronsko čuvanje dokumenta"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_61"
+    },
+    {
+        "title": "Član 62",
+        "texts": [
+            "Pouzdano elektronsko čuvanje dokumenata koji u izvornom obliku sadrže kvalifikovani elektronski potpis odnosno pečat, kao potvrdu integriteta i porekla tih dokumenata, vrši se tako da se tokom čuvanja koriste postupci i tehnološka rešenja kojima se obezbeđuje mogućnost dokazivanja validnosti kvalifikovanog elektronskog potpisa odnosno pečata tokom celog perioda čuvanja.",
+            "Pouzdano elektronsko čuvanje dokumenata pripremljenih u skladu sa članom 61. ovog zakona, kojima je kvalifikovanim elektronskim potpisom odnosno pečatom iz člana 61. stav 1. tačka 4) potvrđena vernost izvornom dokumentu i tačnost dodatno uključenih podataka, vrši se tako da se tokom čuvanja koriste postupci i tehnološka rešenja kojima se obezbeđuje mogućnost dokazivanja validnosti kvalifikovanog elektronskog potpisa odnosno pečata tokom celog perioda čuvanja.",
+            "Ministarstvo propisuje bliže uslove za postupke i tehnološka rešenja iz st. 1. i 2. ovog člana.",
+            "Ministarstvo nadležno za poslove kulture uređuje bliže uslove, zadatke, poslove, standarde i procese digitalizacije kulturnog nasleđa i savremenog stvaralaštva koji se odnose na postupke i tehnološka rešenja iz čl. 61. i 62. ovog zakona.",
+            "Usluga kvalifikovanog elektronskog čuvanja dokumenata"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_62"
+    },
+    {
+        "title": "Član 63",
+        "texts": [
+            "Usluga kvalifikovanog elektronskog čuvanja dokumenata je kvalifikovana usluga od poverenja putem koje se pruža pouzdano elektronsko čuvanje dokumenata u skladu sa čl. 60- 62. ovog zakona.",
+            "Pružalac usluge kvalifikovanog elektronskog čuvanja dokumenta može se opredeliti da uslugu kvalifikovanog elektronskog čuvanja dokumenata ograniči samo na čuvanje dokumenata koji u izvornom obliku sadrže kvalifikovani elektronski potpis odnosno pečat.",
+            "Za dokument koji se čuva u okviru usluge kvalifikovanog elektronskog čuvanja dokumenata važi pravna pretpostavka vernosti izvornom dokumentu, o čemu pružalac usluge kvalifikovanog elektronskog čuvanja dokumenta izdaje potvrdu.",
+            "Ako se dokument čuva u okviru usluge kvalifikovanog elektronskog čuvanja dokumenata tako da period čuvanja predviđen tom uslugom obuhvata propisani period čuvanja datog dokumenta, izvorni dokument može biti uništen, osim ako nije drugačije propisano.",
+            "VI INSPEKCIJSKI NADZOR",
+            "Poslovi inspekcije za elektronsku identifikaciju i usluge od poverenja u elektronskom poslovanju"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_63"
+    },
+    {
+        "title": "Član 64",
+        "texts": [
+            "Inspekcija za elektronsku identifikaciju i usluge od poverenja u elektronskom poslovanju vrši inspekcijski nadzor nad primenom ovog zakona i radom pružalaca usluga elektronske identifikacije i pružalaca usluga od poverenja (u daljem tekstu: pružaoci usluga) preko inspektora za elektronsku identifikaciju i usluge od poverenja (u daljem tekstu: inspektor).",
+            "U okviru inspekcijskog nadzora pružalaca usluga inspektor utvrđuje da li su ispunjeni uslovi propisani ovim zakonom i propisima donetim za sprovođenje ovog zakona.",
+            "Ovlašćenja inspektora"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_64"
+    },
+    {
+        "title": "Član 65",
+        "texts": [
+            "Inspektor je ovlašćen da u postupku inspekcijskog nadzora:",
+            "1) nalaže otklanjanje utvrđenih nepravilnosti i za to ostavi rok;",
+            "2) zabranjuje upotrebu neadekvatnih postupaka i infrastrukture, i daje rok pružaocu usluga u kojem je dužan da obezbedi adekvatne postupke i infrastrukturu;",
+            "3) privremeno zabranjuje vršenje usluge pružaoca usluga do otklanjanja neadekvatnosti postupaka i infrastrukture;",
+            "4) naređuje privremeni opoziv nekog ili svih sertifikata izdatih od strane pružaoca usluge, ako postoji osnovana sumnja da se radi o neadekvatnom postupku ili falsifikatu.",
+            "VII KAZNENE, PRELAZNE I ZAVRŠNE ODREDBE"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_65"
+    },
+    {
+        "title": "Član 66",
+        "texts": [
+            "Novčanom kaznom od 50.000 do 2.000.000 dinara kazniće se za prekršaj pružalac kvalifikovane usluge od poverenja - pravno lice ako:",
+            "1) ne preduzima potrebne tehničke i organizacione mere za upravljanje rizicima koji ugrožavaju pouzdano i bezbedno pružanje tih usluga od poverenja (član 27. stav 1);",
+            "2) bez odlaganja, a najkasnije u roku od 24 sata od saznanja, ne obavesti Ministarstvo o svakom narušavanju bezbednosti ili gubitku integriteta usluge koji imaju značajan uticaj na pružanje usluga od poverenja  (član 27. stav 3);",
+            "3) o povredi bezbednosti ili gubitku integriteta usluge, bez odlaganja, ne obavesti korisnika usluge od poverenja, ako bi ugrožavanje bezbednosti ili gubitak integriteta usluge od poverenja moglo nepovoljno uticati na korisnike usluga od poverenja (član 27. stav 4);",
+            "4) pre zaključenja ugovora iz člana 30. stav 1. ovog zakona ne obavesti lice koje je podnelo zahtev za pružanje kvalifikovane usluge od poverenja o svim važnim okolnostima korišćenja usluge iz člana 30. stav 2. tač. 1)-3) ovog zakona (član 30. stav 2);",
+            "5) ne ispunjava uslove iz člana 31. (član 31);",
+            "6) pri izdavanju kvalifikovanog sertifikata za usluge od poverenja ne proveri podatke o identitetu fizičkog odnosno pravnog lica koji su sadržani u kvalifikovanom sertifikatu, u skladu sa članom 33. stav 2. zakona (član 33. st. 1. i 2);",
+            "7) ne izvrši proveru ispunjenosti uslova pre početka pružanja kvalifikovanih usluga od poverenja, odnosno najmanje jednom u 24 meseca (član 34. stav 3);",
+            "8) ne izvrši nalog za vanredno ocenjivanje ispunjenosti uslova (član 34. stav 5);",
+            "9) pre otpočinjanja pružanja kvalifikovanih usluga od poverenja ne bude upisan u Registar pružaoca kvalifikovanih usluga od poverenja (član 35. stav 3);",
+            "10) izdavalac kvalifikovanih elektronskih sertifikata, koji namerava da prestane sa obavljanjem delatnosti, o nameri raskida ugovora ne obavesti svakog korisnika kvalifikovane usluge od poverenja i Ministarstvo najmanje tri meseca pre nastanka o nameravanom prestanku obavljanja delatnosti (član 36. stav 1);",
+            "11) u slučaju prestanka sa obavljanjem poslova ne obezbedi kod drugog pružaoca usluga od poverenja nastavak obavljanja usluge za korisnike kojima je izdao sertifikat, ili ne opozove sve izdate sertifikate i o preduzetim merama odmah ne obavesti Ministarstvo (član 36. stav 2);",
+            "12) ne dostavi svu dokumentaciju u vezi sa obavljanjem usluga od poverenja drugom izdavaocu na koga prenosi obaveze obavljanja jedne ili više usluga od poverenja, odnosno Ministarstvu (član 36. st. 3. i 4);",
+            "13) kvalifikovani elektronski sertifikat ne sadrži sve podatke iz člana 43. stav 1. ovog zakona (član 43. stav 1);",
+            "14) izdavalac kvalifikovanih sertifikata ne izvrši opoziv izdatih sertifikata, u slučajevima iz člana 44. stav 1. (član 44. stav 1);",
+            "15) izdavalac kvalifikovanih sertifikata ne obavesti korisnika kvalifikovane usluge od poverenja o opozivu sertifikata u roku od 24 časa od primljenog obaveštenja, odnosno nastanka okolnosti zbog kojih se sertifikat opoziva (član 44. stav 2);",
+            "16) izdavalac kvalifikovanih sertifikata ne čuva kompletnu dokumentaciju o izdatim i opozvanim kvalifikovanim sertifikatima kao sredstvo za dokazivanje i verifikaciju u upravnim, sudskim i drugim postupcima najmanje deset godina po prestanku važenja sertifikata (član 45);",
+            "17) ne obezbedi prijem i slanje poruka i kada je pošiljalac ili primalac poruke korisnik drugog pružaoca usluge kvalifikovane elektronske dostave (član 56. stav 1);",
+            "18) pouzdano elektronsko čuvanje dokumenata pripremljenih u skladu sa članom 61. ovog zakona, kojima je kvalifikovanim elektronskim potpisom odnosno pečatom iz člana 61. stav 1. tačka 4) potvrđena vernost izvornom dokumentu i tačnost dodatno uključenih podataka, se ne vrši tako da se tokom čuvanja koriste postupci i tehnološka rešenja kojima se obezbeđuje mogućnost dokazivanja validnosti kvalifikovanog elektronskog potpisa odnosno pečata tokom celog perioda čuvanja (član 62. stav 2).",
+            "Za prekršaj iz stava 1. ovog člana kazniće se i odgovorno lice pružaoca usluge od poverenja novčanom kaznom od 5.000 do 100.000 dinara.",
+            "Za prekršaj iz stava 1. ovog člana kazniće se pružalac usluge od poverenja - fizičko lice u svojstvu registrovanog subjekta novčanom kaznom od 10.000 do 500.000 dinara."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_66"
+    },
+    {
+        "title": "Član 67",
+        "texts": [
+            "Novčanom kaznom od 50.000 do 200.000 dinara kazniće se za prekršaj korisnik kvalifikovane usluge od poverenja - pravno lice ako:",
+            "1) u slučaju promene podataka iz stava 1. člana 33. ovog zakona ne obavesti bez odlaganja pružaoca kvalifikovane usluge od poverenja (član 33. stav 3);",
+            "Za prekršaj iz stava 1. ovog člana kazniće se i odgovorno lice u pravnom licu novčanom kaznom od 5.000 do 50.000 dinara.",
+            "Za prekršaj iz stava 1. ovog člana kazniće se korisnik usluge od poverenja - fizičko lice u svojstvu registrovanog subjekta novčanom kaznom od 10.000 do 100.000 dinara.",
+            "Za prekršaj iz stava 1. ovog člana kazniće se korisnik usluge od poverenja - fizičko lice novčanom kaznom od 5.000 do 50.000 dinara."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_67"
+    },
+    {
+        "title": "Član 68",
+        "texts": [
+            "Novčanom kaznom od 50.000 do 2.000.000 dinara kazniće se za prekršaj registrovan pružalac usluge elektronske identifikacije - pravno lice ako:",
+            "1) šema elektronske identifikacije ne ispunjava uslove iz člana 17. (član 17);",
+            "2) ne preduzima potrebne tehničke i organizacione mere za upravljanje rizicima koji ugrožavaju pouzdano i bezbedno pružanje tih usluga iz člana 22. stav 2. ovog zakona (član 22. st. 1. i 2);",
+            "Za prekršaj iz stava 1. ovog člana kazniće se i odgovorno lice pružaoca usluge elektronske identifikacije novčanom kaznom od 5.000 do 100.000 dinara.",
+            "Za prekršaj iz stava 1. ovog člana kazniće se pružalac usluge elektronske identifikacije - fizičko lice u svojstvu registrovanog subjekta novčanom kaznom od 10.000 do 500.000 dinara."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_68"
+    },
+    {
+        "title": "Član 69",
+        "texts": [
+            "Novčanom kaznom od 50.000 do 2.000.000 dinara kazniće se za prekršaj pružalac usluge iz člana 64. ovog zakona ako ne postupi po nalogu inspektora u ostavljenom roku iz člana 65. stav 1. ovog zakona.",
+            "Za prekršaj iz stava 1. ovog člana kazniće se i odgovorno lice pružaoca usluge novčanom kaznom od 5.000 do 100.000 dinara.",
+            "Za prekršaj iz stava 1. ovog člana kazniće se pružalac usluge - fizičko lice u svojstvu registrovanog subjekta novčanom kaznom od 10.000 do 500.000 dinara."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_69"
+    },
+    {
+        "title": "Član 70",
+        "texts": [
+            "Novčanom kaznom od 5.000 do 100.000 dinara kazniće se za prekršaj odgovorno lice u državnom organu, kao i organu autonomne pokrajine ili jedinice lokalne samouprave ako u postupku koji sprovodi u vršenju javnih ovlašćenja ne prizna punovažnost, odnosno ospori dokaznu snagu elektronskom dokumentu sačinjenom u skladu sa ovim zakonom, odnosno digitalizovanog akta overenog u skladu sa članom 11. ovog zakona, samo zbog toga što je dostavljen u takvom formatu (član 7).",
+            "Novčanom kaznom od 20.000 do 150.000 dinara kazniće se za prekršaj odgovorno lice u državnom organu, kao i organu autonomne pokrajine ili jedinice lokalne samouprave, ako u postupku koji sprovodi u vršenju javnih ovlašćenja ne prizna punovažnost elektronskom dokumentu, uključujući i akte organa javnih vlasti, potpisanom kvalifikovanim elektronskim potpisom ili kvalifikovanim elektronskim pečatom, ako je za punovažnost tog dokumenta propisana obaveza svojeručnog potpisivanja, odnosno stavljanja pečata (čl. 50. i 51)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_70"
+    },
+    {
+        "title": "Član 71",
+        "texts": [
+            "Novčanom kaznom od 50.000 do 2.000.000 dinara kazniće se za prekršaj pravno lice koje je organ javne vlasti u smislu ovog zakona, izuzev organa iz člana 70. ovog zakona, ako u postupku koji sprovodi u vršenju javnih ovlašćenja ne prizna punovažnost, odnosno ospori dokaznu snagu elektronskom dokumentu sačinjenom u skladu sa ovim zakonom, odnosno digitalizovanog akta overenog u skladu sa članom 11. ovog zakona, samo zbog toga što je dostavljen u takvom formatu (član 7).",
+            "Za prekršaj iz stava 1. ovog člana kazniće se i odgovorno lice u pravnom licu iz stava 1. ovog člana novčanom kaznom od 5.000 do 100.000 dinara.",
+            "Za prekršaj iz stava 1. ovog člana kazniće se organ javne vlasti ako je fizičko lice novčanom kaznom od 5.000 do 100.000 dinara.",
+            "Novčanom kaznom od 100.000 do 2.000.000 dinara kazniće se za prekršaj pravno lice koje je organ javne vlasti u smislu ovog zakona, izuzev organa iz člana 70. ovog zakona, ako u postupku koji sprovodi u vršenju javnih ovlašćenja ne prizna punovažnost elektronskom dokumentu, uključujući i akte organa javnih vlasti, potpisanom kvalifikovanim elektronskim potpisom ili kvalifikovanim elektronskim pečatom, ako je za punovažnost tog dokumenta propisana obaveza svojeručnog potpisivanja, odnosno stavljanja pečata (čl. 50. i 51).",
+            "Za prekršaj iz stava 4. ovog člana kazniće se i odgovorno lice u pravnom licu iz stava 4. ovog člana novčanom kaznom od 20.000 do 150.000 dinara.",
+            "Za prekršaj iz stava 4. ovog člana kazniće se organ javne vlasti ako je fizičko lice novčanom kaznom od 20.000 do 150.000 dinara.",
+            "2. Prelazne i završne odredbe",
+            "Sprovođenje zakona"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_71"
+    },
+    {
+        "title": "Član 72",
+        "texts": [
+            "Podzakonska akta iz člana 18. stav 2, člana 19. stav 3, člana 31. stav 3, člana 35. stav 8, člana 46. stav 5. i člana 47. stav 7. ovog zakona doneće se u roku od šest meseci od dana stupanja na snagu ovog zakona.",
+            "Podzakonska akta iz člana 34. stav 8, člana 38. stav 4, člana 39. stav 4, člana 43. stav 3, člana 48. stav 4, člana 49. stav 2. i člana 52. stav 2. ovog zakona doneće se u roku od 12 meseci od dana stupanja na snagu ovog zakona.",
+            "Podzakonska akta iz člana 55. stav 7, člana 61. stav 3. i člana 62. st. 3. i 4. ovog zakona doneće se u roku od 18 meseci od dana stupanja na snagu ovog zakona.",
+            "Prestanak važenja dosadašnjih propisa, nastavak primene podzakonskih akata i nastavak rada na osnovu prethodne registracije"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_72"
+    },
+    {
+        "title": "Član 73",
+        "texts": [
+            "Danom stupanja na snagu ovog zakona prestaje da važi Zakon o elektronskom potpisu (\"Službeni glasnik RS\", broj 135/04) i Zakon o elektronskom dokumentu (\"Službeni glasnik RS\", broj 51/09).",
+            "Podzakonski akti doneti na osnovu zakona iz stava 1. ovog člana primenjivaće se i posle prestanka važenja navedenih zakona, sve do donošenja odgovarajućih propisa saglasno ovom zakonu, osim ako su u suprotnosti sa odredbama ovog zakona.",
+            "Danom stupanja na snagu ovog zakona sertifikaciona tela za izdavanje kvalifikovanih elektronskih sertifikata koja su registrovana na osnovu Zakona o elektronskom potpisu nastavljaju sa radom kao kvalifikovani pružaoci usluge izdavanja kvalifikovanih sertifikata za elektronski potpis.",
+            "Danom stupanja na snagu ovog zakona izdavaoci vremenskog žiga koji su registrovani na osnovu Zakona o elektronskom dokumentu nastavljaju sa radom kao kvalifikovani pružaoci usluge izdavanja kvalifikovanih elektronskih vremenskih žigova.",
+            "Sertifikaciona tela iz stava 3. ovog člana i izdavaoci vremenskog žiga iz stava 4. ovog člana dužni su da u roku od 12 meseci od dana stupanja na snagu ovog zakona usklade svoje poslovanje sa odredbama ovog zakona i dostave Ministarstvu izveštaj o ocenjivanju usaglašenosti iz člana 34. ovog zakona.",
+            "Ministarstvo vrši ocenjivanje usaglašenosti iz člana 34. ovog zakona do akreditacije prvog tela za ocenjivanje usaglašenosti, u skladu sa propisima.",
+            "Način ocene usaglašenosti sredstva za kreiranje kvalifikovanog elektronskog potpisa odnosno pečata na daljinu do imenovanja tela za ocenu usaglašenosti"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_73"
+    },
+    {
+        "title": "Član 73a",
+        "texts": [
+            "Prilikom vršenja ocenjivanja usaglašenosti usluge upravljanja kvalifikovanim sredstvom na daljinu, vrši se i ocena usaglašenosti sredstva za kreiranje elektronskog potpisa odnosno pečata sa propisanim uslovima.",
+            "Ocenu usaglašenosti sredstva iz stava 1. ovog člana vrši Ministarstvo, odnosno telo za ocenjivanje usaglašenosti iz člana 34. ovog zakona, do imenovanja tela iz člana 47. ovog zakona.",
+            "Sredstvo iz stava 1. ovog člana smatra se kvalifikovanim samo u okviru ocenjene usluge upravljanja kvalifikovanim sredstvom za kreiranje elektronskog potpisa, odnosno pečata na daljinu koju pruža pružalac kvalifikovane usluge od poverenja.",
+            "Sredstvo iz stava 1. ovog člana upisuje se u Registar kvalifikovanih sredstava za kreiranje elektronskih potpisa i elektronskih pečata uz napomenu da se sredstvo smatra kvalifikovanim samo kada se koristi u okviru ocenjene usluge.",
+            "Stupanje na snagu zakona"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_73a"
+    },
+    {
+        "title": "Član 74",
+        "texts": [
+            "Ovaj zakon stupa na snagu osam dana od dana objavljivanja u \"Službenom glasniku Republike Srbije\".",
+            "",
+            "Samostalni članovi Zakona o izmenama i dopunamaZakona o elektronskom dokumentu, elektronskoj identifikaciji i uslugama od poverenja u elektronskom poslovanju",
+            "(\"Sl. glasnik RS\", br. 52/2021)"
+        ],
+        "link": "https://www.paragraf.rs/propisi/zakon-o-elektronskom-dokumentu-elektronskoj-identifikaciji-i-uslugama-od-poverenja-u-elektronskom-poslovanju.html#clan_74"
+    },
+    {
+        "title": "Član 24",
+        "texts": [
+            "Propisi doneti na osnovu Zakona o elektronskom dokumentu, elektronskoj identifikaciji i uslugama od poverenja u elektronskom poslovanju (\"Službeni glasnik RS\", broj 94/17), uskladiće se sa odredbama ovog zakona u roku od šest meseci od dana stupanja na snagu ovog zakona."
+        ],
+        "link": null
+    },
+    {
+        "title": "Član 25",
+        "texts": [
+            "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u \"Službenom glasniku Republike Srbije\".",
+            "Ako ne probate više različitih izbora nikada nećete biti sigurni da li imate najbolju opciju u svojim rukama. Mi Vam tu mogućnost nudimo besplatno! Popunite formular i dobićete priliku da bez ikakvih troškova saznate da li je Paragraf dobar izbor za Vas.",
+            "Ukoliko želite da Vas obaveštavamo o novostima i aktivnostima kompanije Paragraf prijavite se na našu mailing listu. Vaš e-mail neće biti upotrebljen u druge svrhe."
+        ],
+        "link": null
+    }
+]

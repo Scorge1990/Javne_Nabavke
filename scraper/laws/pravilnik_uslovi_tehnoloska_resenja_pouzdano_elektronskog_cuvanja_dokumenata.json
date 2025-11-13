@@ -1,0 +1,114 @@
+[
+    {
+        "title": "Član 1",
+        "texts": [
+            "Ovim pravilnikom propisuju se uslovi za postupke i tehnološka rešenja koji\r\nse koriste tokom pouzdanog elektronskog čuvanja dokumenta koji u izvornom obliku sadrži kvalifikovani\r\nelektronski potpis odnosno pečat i dokumenta kojem je kvalifikovanim elektronskim potpisom\r\nodnosno pečatom potvrđena vernost izvornom dokumentu i tačnost dodatno uključenih podataka\r\nu skladu sa članom 61. stav 1. tačka 4) Zakona o elektronskom dokumentu, elektronskoj identifikaciji\r\ni uslugama od poverenja u elektronskom poslovanju (u daljem tekstu: Zakon).",
+            "Interna pravila"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-uslovi-tehnoloska-resenja-pouzdano-elektronskog-cuvanja-dokumenata.html#clan_1"
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Pouzdano elektronsko čuvanje dokumenta vrši se u skladu sa internim pravilima\r\nza pouzdano elektronsko čuvanje dokumenta (u daljem tekstu: interna pravila), na osnovu kojih\r\nse postupa tokom pouzdanog elektronskog čuvanja, a kojima se obezbeđuje da pouzdano elektronsko\r\nčuvanje ispunjava uslove iz Zakona.",
+            "Ciljevi pouzdanog čuvanja"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-uslovi-tehnoloska-resenja-pouzdano-elektronskog-cuvanja-dokumenata.html#clan_2"
+    },
+    {
+        "title": "Član 3",
+        "texts": [
+            "Kako bi se obezbedila mogućnost dokazivanja validnosti kvalifikovanog elektronskog\r\npotpisa odnosno pečata tokom celog perioda čuvanja, pouzdano elektronsko čuvanje dokumenta\r\npodrazumeva obezbeđenje:",
+            "1) dokaza da je dokument postojao u tačno određenom trenutku, zasnovano\r\nna kvalifikovanom vremenskom žigu;",
+            "2) održavanje statusa validnosti kvalifikovanog elektronskog potpisa ili\r\npečata u odnosu na vremenski trenutak iz tačke 1) ovog člana;",
+            "3) dostupnosti izvorno čuvanog elektronskog dokumenta i svih dodatnih podataka\r\nkojima se potvrđuje ispunjenost uslova iz tač. 1) i 2) ovog člana;",
+            "4) održavanja poverenja u integritet i autentičnost svih podataka iz tačke\r\n3) ovog člana pod pretpostavkom da tokom perioda čuvanja može da se pojavi sumnja u prethodno\r\nkorišćene kriptografske algoritme, heš funkcije i postupke ili da se dogodi opoziv sertifikata\r\nkorisnika ili sertifikata pružaoca usluge od poverenja.",
+            "Primena standarda"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-uslovi-tehnoloska-resenja-pouzdano-elektronskog-cuvanja-dokumenata.html#clan_3"
+    },
+    {
+        "title": "Član 3a",
+        "texts": [
+            "Usluga kvalifikovanog elektronskog čuvanja dokumenata obavlja se saglasno\r\nzahtevima sledećih standarda:",
+            "1) ETSI TS 119 511 \"Electronic Signatures and Infrastructures (ESI);\r\nPolicy and security requirements for trust service providers providing long-term preservation\r\nof digital signatures or general data using digital signature techniques\";",
+            "2) ETSI TS 119 512 \"Electronic Signatures and Infrastructures (ESI);\r\nProtocols for trust service providers providing long-term data preservation services\".",
+            "Usluga kvalifikovanog elektronskog čuvanja dokumenta obavlja se i saglasno\r\nzahtevima iz drugih standarda na koje se iz standarda iz stava 1. ovog člana direktno i indirektno\r\nupućuje, odgovarajućim međunarodnim standardima i preporukama.",
+            "Kvalifikovani elektronski potpis, odnosno pečat na dokumentu\r\nkoji se pouzdano elektronski čuva"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-uslovi-tehnoloska-resenja-pouzdano-elektronskog-cuvanja-dokumenata.html#clan_3a"
+    },
+    {
+        "title": "Član 4",
+        "texts": [
+            "Dokument koji se pouzdano elektronski čuva obavezno mora da ima pridružen\r\nkvalifikovani elektronski potpis odnosno pečat, bez obzira da li je u pitanju dokument koji\r\nu izvornom obliku sadrži kvalifikovani elektronski potpis, odnosno pečat ili dokument kojem\r\nje kvalifikovanim elektronskim potpisom odnosno pečatom iz člana 61. stav 1. tačka 4) Zakona\r\npotvrđena vernost izvornom dokumentu i tačnost dodatno uključenih podataka.",
+            "Format kvalifikovanog elektronskog potpisa odnosno pečata iz stava 1. ovog\r\nčlana mora da ispunjava jedan od uslova:",
+            "1) PDF u skladu sa ISO 32000 \"Document management Portable document\r\nformat\" i PAdES formatom elektronskog potpisa odnosno pečata u skladu sa ETSI EN 319\r\n142 \"Electronic Signatures and Infrastructures (ESI); PAdES digital signatures\";",
+            "2) ASiC-S kontejner koji u sebi sadrži dokument i elektronski potpis odnosno\r\npečat tog dokumenta u XAdES ili CAdES formatu u skladu sa ETSI EN 319 162 \"Electronic\r\nSignatures and Infrastructures (ESI); Associated Signature Containers (ASiC)\";",
+            "3) XAdES format elektronskog potpisa odnosno pečata koji u sebi sadrži\r\npotpisan odnosno pečatiran dokument u skladu sa ETSI EN 319 132 \"Electronic Signatures\r\nand Infrastructures (ESI); XAdES digital signatures\";",
+            "4) CAdES format elektronskog potpisa odnosno pečata koji u sebi sadrži\r\npotpisan odnosno pečatiran dokument u skladu sa ETSI EN 319 122 \"Electronic Signatures\r\nand Infrastructures (ESI); CAdES digital signatures\".",
+            "Nivoi XAdES, CAdES i PAdES formata elektronskog potpisa odnosno pečata\r\niz stava 1. ovog člana moraju redom biti XAdES-B-LTA ili XAdES-E-A, CAdES-B-LTA ili CAdES-E-A\r\ni PAdES-B-LTA ili PAdES-E-LTV.",
+            "Nadogradnja kvalifikovanog elektronskog potpisa, odnosno\r\npečata"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-uslovi-tehnoloska-resenja-pouzdano-elektronskog-cuvanja-dokumenata.html#clan_4"
+    },
+    {
+        "title": "Član 5",
+        "texts": [
+            "Prilikom otpočinjanja pouzdanog elektronskog čuvanja, vrši se postupak\r\nnadogradnje kvalifikovanog elektronskog potpisa, odnosno pečata u XAdES, CAdES ili PAdES\r\nformatu na dokumentu koji se čuva, što uključuje:",
+            "1) ukoliko je kvalifikovani elektronski potpis odnosno pečat na osnovnom\r\nXAdES, CAdES odnosno PAdES nivou, kvalifikovanom elektronskom potpisu odnosno pečatu dodaje\r\nse kvalifikovani vremenski žig;",
+            "2) vrši se validacija kvalifikovanog elektronskog potpisa odnosno pečata\r\ni tom prilikom se pribavljaju podaci za proveru validnosti kao što su sertifikati i statusi\r\nopozvanosti;",
+            "3) u skladu sa formatom, kvalifikovanom elektronskom potpisu, odnosno pečatu\r\nse dodaju nedostajući podaci za proveru validnosti, računa se heš originalno potpisanog odnosno\r\npečatiranog dokumenta zajedno sa samim potpisom odnosno pečatom, kreira se kvalifikovani\r\nvremenski žig na osnovu tog heša i u kvalifikovani elektronski potpis odnosno pečat se dodaje\r\ni taj vremenski žig.",
+            "Kvalifikovani elektronski potpis odnosno pečat na dokumentu\r\nkoji se prima na pouzdano elektronsko čuvanje"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-uslovi-tehnoloska-resenja-pouzdano-elektronskog-cuvanja-dokumenata.html#clan_5"
+    },
+    {
+        "title": "Član 6",
+        "texts": [
+            "Dokument koji se prima na pouzdano elektronsko čuvanje mora da ispuni uslove\r\niz člana 4. st. 1. i 2. ovog pravilnika, kao i uslov da je nakon nadogradnje kvalifikovanog\r\nelektronskog potpisa odnosno pečata u skladu sa članom 5. ovog pravilnika moguće obezbediti\r\nnivoe iz člana 4. stav 3. ovog pravilnika.",
+            "Ponovna nadogradnja kvalifikovanog elektronskog potpisa\r\nodnosno pečata"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-uslovi-tehnoloska-resenja-pouzdano-elektronskog-cuvanja-dokumenata.html#clan_6"
+    },
+    {
+        "title": "Član 7",
+        "texts": [
+            "Ponovna nadogradnja kvalifikovanog elektronskog potpisa odnosno pečata\r\nna elektronskom dokumentu koji se čuva vrši se obavezno pre nego što:",
+            "1) istekne sertifikat poslednjeg vremenskog žiga u kvalifikovanom elektronskom\r\npotpisu odnosno pečatu;",
+            "2) iz tehničkih ili formalnih razloga kriptografski algoritam ili heš algoritam\r\nkoji je upotrebljen u poslednjem vremenskom žigu u kvalifikovanom elektronskom potpisu odnosno\r\npečatu može postati osnov osporavanja validnosti kvalifikovanog elektronskog potpisa odnosno\r\npečata.",
+            "Ponovna nadogradnja kvalifikovanog elektronskog potpisa odnosno pečata\r\nobavlja se po postupku iz člana 5. ovog pravilnika.",
+            "Informacioni sistem za pouzdano elektronsko čuvanje"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-uslovi-tehnoloska-resenja-pouzdano-elektronskog-cuvanja-dokumenata.html#clan_7"
+    },
+    {
+        "title": "Član 8",
+        "texts": [
+            "Pouzdano elektronsko čuvanje dokumenta vrši se u okviru za to namenjenog\r\ninformacionog sistema (u daljem tekstu: informacioni sistem) kojim upravlja i o kojem se\r\nstara rukovalac čuvanja.",
+            "Informacioni sistemi, zajedno sa odgovarajućim merama određenim internim\r\npravilima, mora da obezbedi da se ponovna nadogradnja kvalifikovanog elektronskog potpisa,\r\nodnosno pečata vrši blagovremeno, kako bi se obezbedila mogućnost dokazivanja validnosti\r\nkvalifikovanog elektronskog potpisa, odnosno pečata tokom celog perioda čuvanja.",
+            "Informacioni sistem mora da obezbedi visok nivo zaštite od gubitaka podataka\r\nkoji se čuvaju, narušavanja integriteta tih podataka i neovlašćenog pristupa tim podacima.",
+            "Rukovalac čuvanja upravlja informacionim sistemom saglasno standardu ISO/IEC\r\n27001 \"Information security management\" na način da se smatraju visokorizičnim\r\nincidenti koji dovode do gubitaka podataka koji se čuvaju, narušavanja integriteta tih podataka,\r\nneovlašćenog pristupa tim podacima ili gubitka mogućnosti dokazivanja validnosti kvalifikovanog\r\nelektronskog potpisa odnosno pečata tokom celog perioda čuvanja.",
+            "Mere zaštite zahtevane standardom iz stava 4. ovog člana dokumentuju se\r\nu okviru internih pravila."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-uslovi-tehnoloska-resenja-pouzdano-elektronskog-cuvanja-dokumenata.html#clan_8"
+    },
+    {
+        "title": "Član 9",
+        "texts": [
+            "U cilju obezbeđivanja tokova pristupa, razmene i obrade podataka, u skladu\r\nsa potvrđenim međunarodnim sporazumima, Ministarstvo unutrašnjih poslova može da, pored primene\r\novog pravilnika, primenjuje i druge uslove koji se odnose na pouzdano elektronsko čuvanje\r\ndokumenta, a koji se primenjuju usled specifičnosti informacionih sistema i tehničko-tehnoloških\r\npostupaka u Ministarstvu unutrašnjih poslova.",
+            "Stupanje na snagu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-uslovi-tehnoloska-resenja-pouzdano-elektronskog-cuvanja-dokumenata.html#clan_9"
+    },
+    {
+        "title": "Član 10",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u \"Službenom\r\nglasniku Republike Srbije\".",
+            "Ako ne probate više različitih izbora nikada nećete biti sigurni da li imate najbolju opciju u svojim rukama. Mi Vam tu mogućnost nudimo besplatno! Popunite formular i dobićete priliku da bez ikakvih troškova saznate da li je Paragraf dobar izbor za Vas.",
+            "Ukoliko želite da Vas obaveštavamo o novostima i aktivnostima kompanije Paragraf prijavite se na našu mailing listu. Vaš e-mail neće biti upotrebljen u druge svrhe.",
+            "Pratite Paragraf na Viberu"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-uslovi-tehnoloska-resenja-pouzdano-elektronskog-cuvanja-dokumenata.html#clan_10"
+    }
+]

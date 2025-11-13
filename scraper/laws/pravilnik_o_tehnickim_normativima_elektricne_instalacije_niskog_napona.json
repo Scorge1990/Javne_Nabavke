@@ -1,0 +1,1772 @@
+[
+    {
+        "title": "Član 1",
+        "texts": [
+            "Ovim pravilnikom propisuju se:",
+            "1) svojstva i karakteristike uređaja i opreme za izvođenje \r\n električnih instalacija;",
+            "2) uslovi i zahtevi koji moraju biti ispunjeni pri izvođenju \r\n i korišćenju električnih instalacija;",
+            "3) označavanje i obeležavanje uređaja, opreme i električnih \r\n instalacija koji utiču na bezbednost i zaštitu života i zdravlja pri korišćenju \r\n električnih instalacija;",
+            "4) tehničke mere zaštite pri korišćenju električnih instalacija;",
+            "5) postupak i način kontrolisanja i verifikacije propisanih \r\n svojstava, karakteristika i kvaliteta električnih instalacija."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_1"
+    },
+    {
+        "title": "Član 2",
+        "texts": [
+            "Odredbe ovog pravilnika ne primenjuju se na električne instalacije \r\n za: rudnike, prostorije ugrožene od eksplozija, električnu vuču, brodove, drumska \r\n vozila, osim kamp-prikolica, gromobrane, rasvetu ulica i drugih javnih površina, \r\n proizvodnu opremu u industriji i opremu za medicinske svrhe.",
+            "Nazivni napon električnih instalacija iz stava 1 ovog člana \r\n je do 1 000 V efektivne vrednosti za naizmeničnu struju, ili do 1 500 V za jednosmernu \r\n struju."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_2"
+    },
+    {
+        "title": "Član 3",
+        "texts": [
+            "Termini upotrebljeni u ovom pravilniku utvrđeni su u jugoslovenskim \r\n standardima JUS N.A0.441 i JUS N.A0.826, a tipovi razvodnih sistema, sistemi \r\n napajanja i klasifikacija spoljašnjih uticaja utvrđeni su u jugoslovenskom standardu \r\n JUS N.B2.730.",
+            "II UREĐAJI I OPREMA ZA IZVOĐENJE ELEKTRIČNIH INSTALACIJA"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_3"
+    },
+    {
+        "title": "1. Opšti uslovi",
+        "texts": [],
+        "link": null
+    },
+    {
+        "title": "Član 4",
+        "texts": [
+            "Tehnički uslovi za određivanje i postavljanje električne opreme, \r\n zavisno od spoljašnjih uticaja, utvrđeni su u jugoslovenskim standardima JUS \r\n N.B2.751 i JUS N.B2.752."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_4"
+    },
+    {
+        "title": "Član 5",
+        "texts": [
+            "Uređaji i oprema za električne instalacije (u daljem tekstu: \r\n električna oprema) moraju biti podesni za rad pri nazivnom naponu električne \r\n instalacije, odnosno pri efektivnoj vrednosti napona za naizmeničnu struju.",
+            "Ako se u IT sistemu vodi neutralni provodnik, električna oprema \r\n koja se priključuje između faznog i neutralnog provodnika mora biti izolovana \r\n za međufazni napon."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_5"
+    },
+    {
+        "title": "Član 6",
+        "texts": [
+            "Električna oprema mora odgovarati projektovanoj struji, odnosno \r\n efektivnoj vrednosti struje za naizmeničnu struju, koja će proticati tokom normalnog \r\n rada.",
+            "Električna oprema mora da podnese struje koje protiču u vanrednim \r\n uslovima, u toku vremenskih perioda koje dopuštaju karakteristike uređaja za \r\n zaštitu."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_6"
+    },
+    {
+        "title": "Član 7",
+        "texts": [
+            "Ako frekvencija utiče na karakteristike električne opreme, \r\n nazivna frekvencija te opreme mora odgovarati frekvenciji odgovarajućeg napojnog \r\n strujnog kola."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_7"
+    },
+    {
+        "title": "Član 8",
+        "texts": [
+            "Električna oprema određena prema karakteristikama snage električne \r\n opreme koja se ugrađuje mora biti podesna za normalan rad, uzimajući u obzir \r\n faktore opterećenja i intermitencije."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_8"
+    },
+    {
+        "title": "Član 9",
+        "texts": [
+            "Električna oprema, prilikom normalnog rada i pri uključivanju \r\n i isključivanju, ne sme štetno da deluje na drugu opremu.",
+            "Električna oprema, uključujući provodnike i kablove, mora se \r\n postaviti tako da se može lako proveravati, održavati i prilaziti njenim priključcima \r\n i da se njome može lako rukovati.",
+            "Zahtevi iz stava 2 ovog člana moraju biti ispunjeni i pri postavljanju \r\n električne opreme u kućišta."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_9"
+    },
+    {
+        "title": "Član 10",
+        "texts": [
+            "Natpisne pločice i druga sredstva koja služe za raspoznavanje \r\n moraju se postaviti na rasklopne aparate radi označavanja njihove namene.",
+            "Upravljački elementi i elementi signalizacije (tasteri, signalne \r\n svetiljke i dr.) moraju se postavljati na lako pristupačna i vidljiva mesta.",
+            "Tehnički uslovi, smerovi kretanja i boje upravljačkih i signalnih \r\n elemenata utvrđeni su u jugoslovenskim standardima JUS N.A9.003, JUS N.A9.004, \r\n JUS N.K5.051, JUS N.K5.052 i JUS N.K5.056."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_10"
+    },
+    {
+        "title": "Član 11",
+        "texts": [
+            "Provodnici i kablovi moraju se postaviti, odnosno označiti \r\n tako da se lako mogu raspoznati pri polaganju, popravljanju ili zamenjivanju.",
+            "Radi raspoznavanja koriste se provodnici odgovarajućih boja \r\n izolovanog omotača, ili se vrši bojenje, namotavanje traka ili postavljanje \r\n prstenova određenih boja ili oznaka.",
+            "Kombinacija zelene i žute boje (bilo kao izolovanog omotača \r\n provodnika ili žile kabla, ili trake za omotavanje, ili bojenjem) koristi se \r\n isključivo za raspoznavanje zaštitnog provodnika, provodnika za izjednačenje \r\n potencijala i zaštitno neutralnog provodnika (PEN-provodnika).",
+            "Svetloplava boja (bilo kao izolovanog omotača provodnika, ili \r\n žile kabla, ili trake za omotavanje, ili bojenjem) koristi se za raspoznavanje \r\n neutralnog provodnika. U strujnom kolu u kome se nalazi neutralni provodnik, \r\n taj provodnik se mora označiti svetloplavom bojom. U višežilnim kablovima sa \r\n više od pet provodnika, čije se žile označavaju brojevima, za neutralni provodnik \r\n mora se izabrati onaj koji je označen brojem 1.",
+            "U strujnom kolu u kome nema neutralnog provodnika može se koristiti \r\n provodnik višežilnog kabla označen svetloplavom bojom za drugu svrhu, ali ne \r\n u svrhu zaštitnog provodnika. Ako se u tom strujnom kolu za razvod koriste izolovani \r\n provodnici, provodnik sa izolacijom svetloplave boje ne sme se koristiti.",
+            "Izuzetno od st. 3, 4 i 5 ovog člana, zaštitno neutralni provodnik \r\n (PEN-provodnik) označava se celom svojom dužinom kombinacijom zelene i žute \r\n boje, a na krajevima kod priključka svetloplavom bojom, ili celom svojom dužinom \r\n svetloplavom bojom, a na krajevima kod priključka kombinacijom zelene i žute \r\n boje.",
+            "Provodnici koji nisu označeni kombinacijom zelene i žute boje \r\n ili svetloplavom bojom mogu se upotrebiti za sve druge svrhe osim za svrhu zaštitnog \r\n provodnika, odnosno neutralnog provodnika. Kod višežilnih kablova sa više od \r\n pet žila, koji su označeni brojevima, provodnici označeni brojevima većim od \r\n jedan mogu se upotrebiti za sve druge svrhe osim za zaštitni provodnik, odnosno \r\n neutralni provodnik.",
+            "Ako se neizolovani provodnici označavaju bojenjem, ne moraju \r\n se bojiti celom dužinom (npr. bojenje na širini 15 mm do 100 mm u svakom odeljku \r\n ili na svakom pristupačnom delu smatra se zadovoljavajućim).",
+            "Kod kratkih razvoda jednožilnim kablovima, gde su veze nedvosmisleno \r\n uočljive nije potrebno da se postavljaju oznake za raspoznavanje."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_11"
+    },
+    {
+        "title": "Član 12",
+        "texts": [
+            "Uređaj za zaštitu mora se postaviti i označiti tako da se lako \r\n raspozna njegovo pripadajuće strujno kolo.",
+            "Uređaj za zaštitu mora se postaviti u rasklopni blok (razvodni \r\n orman, razvodna tabla, komandni pult i dr.)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_12"
+    },
+    {
+        "title": "Član 13",
+        "texts": [
+            "Šeme, dijagrami ili tabele električnih instalacija niskog napona \r\n moraju se postaviti na mesta na kojima ima više strujnih kola, tako da označavaju \r\n prirodu (tip) i sastav strujnih kola (tačke napajanja i broj i presek izolovanih \r\n provodnika i kablova) i karakteristike za raspoznavanje uređaja za zaštitu, \r\n uključivanje i isključivanje, kao i njihovo mesto postavljanja i izolacije."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_13"
+    },
+    {
+        "title": "Član 14",
+        "texts": [
+            "U rasklopnom bloku (razvodna tabla, razvodni orman, komandni \r\n pult ili razvodna kutija) mora se postaviti i grupisati električna oprema iste \r\n vrste struje i/ili napona i razdvojiti od električne opreme druge vrste struje \r\n i/ili napona tako da ne može doći do međusobno štetnih uticaja."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_14"
+    },
+    {
+        "title": "2. Električni razvod",
+        "texts": [],
+        "link": null
+    },
+    {
+        "title": "Član 15",
+        "texts": [
+            "Tipovi električnog razvoda, trajno dozvoljene struje provodnika \r\n i spoljašnji uticaj na električni razvod utvrđeni su prema jugoslovenskom standardu \r\n JUS N.B2.752."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_15"
+    },
+    {
+        "title": "Član 16",
+        "texts": [
+            "Izolovani provodnici i kablovi moraju se zaštititi od mehaničkih, \r\n termičkih i hemijskih oštećenja odgovarajućim tipom električnog razvoda, načinom \r\n postavljanja, položajem ili oblogom.",
+            "Električni razvod ima dovoljnu mehaničku čvrstoću ako su provodnici \r\n u instalacionim cevima ili u instalacionim kanalima, kablovi sa ispunom ili \r\n plaštom u malteru ili ispod maltera, a nezaštićeni kablovi u prolazima i instalacionim \r\n prolazima.",
+            "Na naročito ugroženim mestima (npr. pri vođenju izolovanih \r\n provodnika i kablova u podu) moraju se obezbediti dodatne zaštitne mere, kao \r\n što je postavljanje u cevi, kanale i sl., uz primenu odgovarajućeg stepena zaštite \r\n zaštitnim kućištem.",
+            "Tip električnog razvoda određuje se prema uslovima rada električne \r\n instalacija."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_16"
+    },
+    {
+        "title": "Član 17",
+        "texts": [
+            "Presek i tip provodnika i kablova određuju se prema uslovima \r\n za polaganje provodnika i kablova i prema trajno podnosivoj struji, uzimajući \r\n u obzir i ograničavajuće faktore zaštitnih mera, karakteristike uređaja za zaštitu \r\n od kratkog spoja i preopterećenja, temperature spojeva i dozvoljeni pad napona.",
+            "Struja provodnika pri normalnom radu električne instalacije \r\n mora biti manja od nazivne struje osigurača ili nazivne vrednosti struje delovanja \r\n uređaja za zaštitu od preopterećenja strujnog kola provodnika, a ta vrednost \r\n mora biti manja od trajno dozvoljene struje provodnika."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_17"
+    },
+    {
+        "title": "Član 18",
+        "texts": [
+            "Presek neutralnog provodnika mora biti jednak preseku faznog \r\n provodnika u jednofaznom strujnom kolu ili u višefaznom strujnom kolu u kome \r\n su preseci faznih provodnika od bakra manji od 16 mm2, \r\n a preseci faznih provodnika od aluminijuma manji od 25 mm2.",
+            "U višefaznim strujnim kolima u kojima je presek faznog provodnika \r\n od bakra veći od 16 mm2, a presek faznog provodnika \r\n od aluminijuma veći od 25 mm2, neutralni provodnik \r\n može imati manji presek pod sledećim uslovima:",
+            "1) da očekivana najveća struja kroz ovaj provodnik, uključujući \r\n i eventualnu pojavu harmonika, tokom normalnog rada nije veća od trajno dozvoljene \r\n struje za taj presek;",
+            "2) da je neutralni provodnik zaštićen od preotperećenja;",
+            "3) da je presek neutralnog provodnika od bakra jednak najmanje \r\n 16 mm2, a presek neutralnog provodnika od aluminijuma \r\n jednak najmanje 25 mm2.",
+            "Presek zaštitnog provodnika utvrđen je prema jugoslovenskom \r\n standardu JUS N.B2.754."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_18"
+    },
+    {
+        "title": "Član 19",
+        "texts": [
+            "Presek izolovanih provodnika postavljenih i mehanički zaštićenih \r\n u trajnim električnim instalacijama ne sme biti manji od 1,5 mm2za provodnike od bakra, ni manji od 2,5 mm2za provodnike \r\n od aluminijuma.",
+            "Zahtev iz stava 1 ovog člana ne odnosi se na presek izolovanih \r\n provodnika u rasklopnim blokovima, rasvetnim telima, električnim aparatima za \r\n domaćinstvo i drugim električnim aparatima koji se priključuju na električnu \r\n instalaciju."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_19"
+    },
+    {
+        "title": "Član 20",
+        "texts": [
+            "Dozvoljeni pad napona između tačke napajanja električne instalacije \r\n i bilo koje druge tačke ne sme biti veći od sledećih vrednosti prema nazivnom \r\n naponu električne instalacije, i to:",
+            "1) za strujno kolo osvetljenja 3%, a za strujna kola ostalih \r\n potrošača 5%, ako se električna instalacija napaja iz niskonaponske mreže;",
+            "2) za strujno kolo osvetljenja 5, a za strujna kola ostalih \r\n potrošača 8%, ako se električna instalacija napaja neposredno iz trafostanice \r\n koja je priključena na visoki napon.",
+            "Za električne instalacije čija je dužina veća od 100 m dozvoljeni \r\n pad napona povećava se za 0,005% po dužnom metru preko 100 m, ali ne više od \r\n 0,5%."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_20"
+    },
+    {
+        "title": "Član 21",
+        "texts": [
+            "Spoj provodnika i druge električne opreme (u daljem tekstu: \r\n spoj) mora biti izveden tako da bude siguran i postavljen tako da dozvoljava \r\n mogućnost stalne provere.",
+            "Spoj mora biti osiguran sredstvima koja odgovaraju materijalu \r\n provodnika i njegovom preseku.",
+            "Spoj mora biti pristupačan posle skidanja poklopca ili pregrade \r\n alatom, a pristup mora imati stepen zaštite najmanje IP 2X prema jugoslovenskom \r\n standardu JUS N.A5.070."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_21"
+    },
+    {
+        "title": "Član 22",
+        "texts": [
+            "Izolovani provodnici i kablovi ne smeju se nastavljati u instalacionim \r\n cevima i instalacionim kanalima.",
+            "Izolovani provodnici i kablovi mogu se spajati samo u instalacionim \r\n kutijama, kablovskim spojnicama ili rasklopnim blokovima, a mesta spajanja moraju \r\n se izolovati stepenom izolacije koji odgovara tipu električnog razvoda.",
+            "Izuzetno od odredbe stava 2 ovog člana, u zidovima koji se \r\n montiraju od elemenata izlivenih od betona spajanje se može vršiti i u kutijama \r\n zidnih priključnica, i to ispod priključnica, pod uslovom da dubina tih kutija \r\n dopušta smeštaj spojeva istog strujnog kola."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_22"
+    },
+    {
+        "title": "Član 23",
+        "texts": [
+            "Međusobni spoj električne instalacije ili spoj električnog \r\n razvoda sa električnom opremom mora biti izveden tako da električni razvod ne \r\n bude izložen silama izvlačenja ili uvijanja.",
+            "Ako se dejstvo sila iz stava 1 ovog člana ne može izbeći, mora \r\n se predvideti sistem za rasterećenje."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_23"
+    },
+    {
+        "title": "Član 24",
+        "texts": [
+            "Spoj u električnim instalacijama mora biti dimenzionisan tako \r\n da može trajno podnositi dozvoljenu struju provodnika.",
+            "Ako je spoj električne instalacije izložen toploti, mehaničkim \r\n ili hemijskim uticajima ili vibracijama, moraju se preduzeti odgovarajuće dodatne \r\n mere zaštite."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_24"
+    },
+    {
+        "title": "Član 25",
+        "texts": [
+            "Spoj mora biti izveden tako da ne dođe do smanjenja preseka \r\n ili oštećenja provodnika i izolacije."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_25"
+    },
+    {
+        "title": "Član 26",
+        "texts": [
+            "Na krajevima električnog razvoda, a posebno na izlazima, ulazima \r\n i na mestima prodiranja električnog razvoda kroz zidove i električnu opremu, \r\n mora se izvršiti trajno zaptivanje (npr. uvodnicama)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_26"
+    },
+    {
+        "title": "Član 27",
+        "texts": [
+            "Na mestima prolaza električnog razvoda kroz zidove, osim tipa \r\n koji se izvodi u instalacionim cevima i kanalima, mora se obezbediti odgovarajuća \r\n dodatna mehanička zaštita (npr. pomoću čaure, cevi, kutije i sl.).",
+            "Ako električni razvod prolazi kroz metalnu konstrukciju, otvor \r\n mora biti zaobljenih ivica."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_27"
+    },
+    {
+        "title": "Član 28",
+        "texts": [
+            "Električni razvod koji je izložen vibracijama mora biti izveden \r\n sa savitljivim provodnicima ili kablovima."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_28"
+    },
+    {
+        "title": "Član 29",
+        "texts": [
+            "Ako se u blizini električnog razvoda nalaze druge neelektrične \r\n instalacije, mora se između njih obezbediti takav razmak da održavanje jedne \r\n instalacije ne ugrožava druge instalacije.",
+            "Najmanji dozvoljeni razmak između električnog razvoda i drugih \r\n instalacija je 30 mm."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_29"
+    },
+    {
+        "title": "Član 30",
+        "texts": [
+            "Ako se u blizini električnog razvoda nalaze instalacije grejanja, \r\n cevi sa toplim vazduhom ili dimnjak, električni razvod mora se izolovati toplotnom \r\n izolacijom ili ekranima ili se mora postaviti van toplotnih uticaja."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_30"
+    },
+    {
+        "title": "Član 31",
+        "texts": [
+            "Električni razvod ne sme se postaviti ispod neelektričnih instalacija \r\n na kojima je moguća kondenzacija vode ili drugih tečnosti.",
+            "Električni razvod, po pravilu, ne sme se postavljati u isti \r\n instalacioni kanal, cev i sl. sa drugim neelektričnim instalacijama, a ako se \r\n to ne može izbeći, mora se osigurati zaštita od indirektnog dodira automatskim \r\n isključenjem napajanja ili primenom izolacije za opremu klase II i mora se postaviti \r\n odgovarajuća zaštita od opasnih uticaja drugih instalacija."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_31"
+    },
+    {
+        "title": "Član 32",
+        "texts": [
+            "Metalni delovi električnog razvoda (npr. spojnica i sl.) koji \r\n su izloženi vodi ili kondenzaciji moraju biti zaštićeni od korozije spolja i \r\n iznutra i moraju imati obezbeđen odvod kondenzovane tečnosti."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_32"
+    },
+    {
+        "title": "Član 33",
+        "texts": [
+            "Ako se električni razvod postavlja po zidovima, najmanji dozvoljeni \r\n razmak između elemenata električnog razvoda i zida je 5 mm."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_33"
+    },
+    {
+        "title": "Član 34",
+        "texts": [
+            "Električni razvod nižeg napona ne sme se postavljati u isti \r\n omotač ili cev, niti blizu električnog razvoda čiji je napon viši, osim ako \r\n između ta dva razvoda postoji izolaciona pregrada koja izdržava ispitni napon \r\n električnog razvoda višeg napona."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_34"
+    },
+    {
+        "title": "Član 35",
+        "texts": [
+            "U istu instalacionu cev ili instalacioni kanal mogu se postavljati \r\n provodnici samo jednog strujnog kola, osim provodnika upravljačkih i pomoćnih \r\n strujnih kola."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_35"
+    },
+    {
+        "title": "Član 36",
+        "texts": [
+            "Kroz isti višežilni kabl ne sme se voditi više strujnih kola, \r\n osim provodnika upravljačkih i pomoćnih strujnih kola."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_36"
+    },
+    {
+        "title": "Član 37",
+        "texts": [
+            "Električni razvod mora biti postavljen tako da u slučaju kvara \r\n ne ugrožava okolinu.",
+            "Razvodne kutije za kablove ili provodnike (u instalacionim \r\n cevima) koji se polažu pod malter moraju biti od izolacionog materijala ili \r\n od metala sa izolacionom postavom i uvodnicama od izolacionog materijala.",
+            "Za pričvršćivanje električnog razvoda mogu se upotrebiti sredstva \r\n i primeniti postupci koji ne izazivaju deformacije ili oštećenje izolacije, \r\n kao što su: gipsovanje, obujmice od izolacionog materijala prilagođene obliku \r\n kabla, lepljenje ili zakivanje ekserima sa podložnim pločicama od izolacionog \r\n materijala i dr."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_37"
+    },
+    {
+        "title": "Član 38",
+        "texts": [
+            "Kablovi položeni neposredno u malter i u zid moraju po celoj \r\n dužini biti pokriveni malterom debljine najmanje 4 mm.",
+            "Izuzetno od odredbe stava 1 ovog člana, kablovi ne moraju biti \r\n pokriveni malterom ako su položeni u šupljinama tavanica i zidova od betona \r\n ili sličnog materijala koji ne gori niti potpomaže gorenje."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_38"
+    },
+    {
+        "title": "Član 39",
+        "texts": [
+            "Kablovi i instalacioni provodnici položeni u instalacione cevi \r\n u zidu ili kablovi položeni neposredno u malter i ispod maltera moraju se voditi \r\n vertikalno i/ili horizontalno tako da budu paralelni ivicama prostorije.",
+            "Pri horizontalnom polaganju kablovi i instalacioni provodnici \r\n (u instalacionim cevima) vode se na rastojanju od 30 cm do 110 cm od poda i \r\n 200 cm od poda do tavanice.",
+            "Pri vertikalnom polaganju kablova i instalacionih provodnika \r\n (u instalacionim cevima) rastojanje od ivica prozora i vrata mora biti najmanje \r\n 15 cm.",
+            "Trase kablova koji napajaju učvršćene zagrevače vode moraju \r\n se poklapati sa osom postavljanja zagrevača vode.",
+            "Koso polaganje kablova i instalacionih provodnika (u instalacionim \r\n cevima) dozvoljeno je u tavanicama, ali ne i u zidovima."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_39"
+    },
+    {
+        "title": "Član 40",
+        "texts": [
+            "Uslovi za polaganje kablove u prostorijama u kojima se nalaze \r\n kada ili tuš utvrđeni su u jugoslovenskom standardu JUS N.B2.771."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_40"
+    },
+    {
+        "title": "Član 41",
+        "texts": [
+            "Polaganje kablova na zid dozvoljeno je ako kabl ima izolaciju \r\n od termoplastičnih materijala sa ispunom i plaštom, ako se polaže na obujmice \r\n na zidu i ako je od poda do visine od 2 m dodatno zaštićen od mehaničkih oštećenja.",
+            "Razvodne kutije i drugi pribor koji se postavlja na zid uz \r\n polaganje kablova iz stava 1 ovog člana moraju imati zaptivne uvodnice i stepen \r\n zaštite najmanje IP 5X utvrđen za vlažne prostorije, odnosno odgovarajući stepen \r\n zaštite utvrđen za druge prostorije."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_41"
+    },
+    {
+        "title": "Član 42",
+        "texts": [
+            "Kablovi bez ispune, kao što su kablovi tipa PP/R, smeju se \r\n polagati samo u suvim prostorijama, i to ispod maltera, a u šupljine tavanica \r\n i zidova od betona i sličnog negorivog materijala i bez pokrivanja malterom.",
+            "Kablovi iz stava 1 ovog člana ne smeju se voditi u snopu, postavljati \r\n u instalacione kanale niti ispod gips-kartonskih ploča, bez obzira na način \r\n na koji se pričvršćuju, i ne smeju se polagati na zapaljive materijale ni kad \r\n se pokrivaju malterom."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_42"
+    },
+    {
+        "title": "Član 43",
+        "texts": [
+            "Za priključak prenosivih aparata i neprenosivih aparata koji \r\n se pomeraju radi priključivanja ili su tokom normalnog rada izloženi ograničenom \r\n pokretanju, kao i za elemente električnog razvoda u dvostrukom podu moraju se \r\n koristiti savitljivi kablovi.",
+            "Kablovi iz stava 1 ovog člana priključuju se utikačem i priključnicom \r\n ili kutijom za stalni priključak.",
+            "Na mestima na kojima je potrebna zaštita od mehaničkih oštećenja, \r\n savitljivi kablovi mogu se zaštiti postavljanjem u savitljiva instalaciona ili \r\n metalna creva sa unutrašnjom izolacionom oblogom."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_43"
+    },
+    {
+        "title": "Član 44",
+        "texts": [
+            "Pri postavljanju izolovanih provodnika u instalacione cevi \r\n u zidu od nezapaljivog materijala ili betona, instalaciona cev mora imati takve \r\n unutrašnje mere da se provodnici mogu lako vaditi i postavljati posle postavljanja \r\n pribora. Metalna instalaciona cev mora imati unutrašnji izolacioni omot i odgovarajući \r\n stepen zaštite ostvaren kućištem.",
+            "Instalaciona cev, ako nije metalna, mora biti izrađena od materijala \r\n koji ne gori niti potpomaže gorenje."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_44"
+    },
+    {
+        "title": "Član 45",
+        "texts": [
+            "Ako se izolovani provodnici polažu u instalacione kanale koji \r\n se postavljaju na zid ili tavanicu, moraju ispunjavati tehničke uslove za instalacione \r\n kanale. Instalacioni kanali se ne smeju postavljati ispod maltera ni ulivati \r\n u beton.",
+            "Ako se izolovani provodnici polažu u instalacione kanale koji \r\n se postavljaju u podu, ti instalacioni kanali moraju odgovarati načinu održavanja \r\n poda (suvi ili mokri postupak) i tehničkim uslovima za instalacione kanale u \r\n podu."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_45"
+    },
+    {
+        "title": "Član 46",
+        "texts": [
+            "Neizolovani provodnici moraju biti postavljeni, odnosno zaštićeni \r\n tako da nije moguć dodir delova pod naponom i moraju biti pričvršćeni na odgovarajuće \r\n izolatore.",
+            "Najmanji dozvoljeni međusobni razmaci neizolovanih provodnika \r\n određeni su u tabeli br. 1.",
+            "Tabela br. 1",
+            "Raspon",
+            "Horizontalni razmak",
+            "Vertikalni razmak",
+            "1",
+            "2",
+            "3",
+            "do 2 m",
+            "5 cm",
+            "10 cm",
+            "iznad 2 do 4 m",
+            "10 cm",
+            "15 cm",
+            "iznad 4 do 6 m",
+            "15 cm",
+            "20 cm",
+            "iznad 6 m",
+            "20 cm",
+            "25 cm",
+            "Razmaci između neizolovanih provodnika i delova zgrada, čeličnih \r\n konstrukcija i sl. moraju odgovarati međusobnim horizontalnim razmacima neizolovanih \r\n provodnika određenih u tabeli br. 1.",
+            "Izuzetno od odredbe stava 2 ovog člana, razmaci manji od razmaka \r\n određenih u tabeli br. 1 dozvoljavaju se za neizolovane provodnike velikih preseka, \r\n pod uslovom da su na svakom metru dužine pričvršćeni na odgovarajuća izolaciona \r\n tela i da su provereni na dinamička naprezanja usled struje kratkog spoja.",
+            "Razmak između neizolovanih provodnika iz stava 4 ovog člana \r\n i delova zgrada, čeličnih konstrukcija i sl. iznosi najmanje 1 cm, a u vlažnim \r\n prostorijama i na slobodnom prostoru - najmanje 2 cm."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_46"
+    },
+    {
+        "title": "Član 47",
+        "texts": [
+            "Razmak između izolovanih provodnika pričvršćenih na odgovarajuće \r\n izolatore mora u svim prostorijama iznositi najmanje 2 cm, a u vlažnim prostorijama \r\n i na slobodnom prostoru - najmanje 5 cm."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_47"
+    },
+    {
+        "title": "Član 48",
+        "texts": [
+            "Kablovi se mogu ukopati u zemlju ako imaju odgovarajući omotač \r\n koji ih štiti od mehaničkih i drugih uticaja.",
+            "Pri polaganju kablova u zemlju dubina ukopavanja ne sme biti \r\n manja od 0,6 m od gornje površine zemlje, odnosno ne sme biti manja od 0,8 m \r\n ispod površine puta.",
+            "Izuzetno od odredbe stava 2 ovog člana može se odstupiti ako \r\n se kablovi polažu u kamenito tlo."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_48"
+    },
+    {
+        "title": "Član 49",
+        "texts": [
+            "U blokove sa otvorima (kablovice) smeju se polagati kablovi \r\n koji su namenjeni polaganju u zemlju, teški gumeni kablovi i provodna užad.",
+            "U podzemne zaštitne izolacione instalacione cevi smeju se polagati \r\n kablovi sa plaštom ili sa olovnim omotačem, pod uslovom da ostaju pristupačni \r\n i zamenljivi i da je cev mehanički čvrsta, zaštićena od prodora tečnosti i provetrena."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_49"
+    },
+    {
+        "title": "Član 50",
+        "texts": [
+            "Kablovi se mogu postaviti u vazduhu slobodno zategnuti ili \r\n pričvršćeni nosećim kukama, obujmicama ili sličnim sredstvima za pričvršćivanje \r\n ili položiti na police (regale), rešetke (lestvice) ili slične nosače.",
+            "Slobodno zategnuti kablovi moraju se postaviti i zategnuti \r\n tako da ugib ili pomeranje ne dovode do oštećenja kablova.",
+            "Sredstva za pričvršćivanje, odnosno nosači moraju se izabrati \r\n tako da mogu podneti težinu kablova koje nose bez oštećenja od spoljašnjih uticaja.",
+            "Pri vertikalnom polaganju, kablovi se moraju rasteretiti sopstvene \r\n težine. Zatezno naprezanje ne sme da bude veće od 60 N/mm2ukupnog preseka provodnika za bakar, odnosno 30 N/mm2ukupnog preseka za aluminijum."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_50"
+    },
+    {
+        "title": "3. Rasklopni uređaji",
+        "texts": [],
+        "link": null
+    },
+    {
+        "title": "Član 51",
+        "texts": [
+            "Konstrukcija višepolnih rasklopnih uređaja mora biti takva \r\n da se kontakti svih faza mehanički spajaju istovremeno pri zatvaranju, odnosno \r\n razdvajaju istovremeno pri otvaranju, a kontakti za neutralni provodnik mogu \r\n se spajati ranije pri zatvaranju, a otvarati kasnije pri otvaranju rasklopnog \r\n uređaja."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_51"
+    },
+    {
+        "title": "Član 52",
+        "texts": [
+            "Jednopolni rasklopni uređaj u višefaznom strujnom kolu ne sme \r\n biti postavljen u neutralni provodnik, osim za rastavljanje strujnog kola u \r\n skladu sa članom 71 ovog pravilnika.",
+            "Rasklopni uređaj u jednofaznom strujnom kolu ne sme se postaviti \r\n u neutralni provodnik, osim ako je zaštitni uređaj diferencijalne struje postavljen \r\n na stranu napajanja i u slučaju kvara automatski isključuje napajanje.",
+            "Rasklopni uređaj koji ima više funkcija mora zadovoljiti zahteve \r\n za svaku funkciju."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_52"
+    },
+    {
+        "title": "Član 53",
+        "texts": [
+            "U TN sistemu napajanja, zaštitni uređaj od prekomerne struje, \r\n koji služi i kao zaštita od indirektnog dodira automatskim isključivanjem napajanja, \r\n mora se postaviti na početku svakog strujnog kola, kao i na svim mestima na \r\n kojima se smanjuje presek provodnika, osim ako uređaj za zaštitu od kratkog \r\n spoja postavljen ispred tog mesta ne obezbeđuje zahtevanu zaštitu.",
+            "Uređaj iz stava 1 ovog člana mora zadovoljiti zahteve za automatsko \r\n isključivanje napajanja.",
+            "Odredbe ovog pravilnika za premeštanje ili izostavljanje uređaja \r\n za zaštitu od kratkog spoja primenjuju se i na uređaj za zaštitu od preopterećenja."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_53"
+    },
+    {
+        "title": "Član 54",
+        "texts": [
+            "Odredbe člana 53 ovog pravilnika primenjuju se i na uređaj \r\n za zaštitu od preopterećenja kad su izloženi delovi međusobno povezani pri pojavi \r\n druge greške u IT sistemu."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_54"
+    },
+    {
+        "title": "Član 55",
+        "texts": [
+            "Zaštitni uređaj diferencijalne struje, kad se upotrebljava \r\n za zaštitu od indirektnog dodira, mora obezbeđivati isključivanje svih provodnika \r\n pod naponom strujnog kola.",
+            "U TN-S sistemu, neutralni provodnik se ne mora prekidati."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_55"
+    },
+    {
+        "title": "Član 56",
+        "texts": [
+            "Kroz magnetno kolo zaštitnog uređaja diferencijalne struje \r\n ne sme se voditi zaštitni provodnik."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_56"
+    },
+    {
+        "title": "Član 57",
+        "texts": [
+            "Zaštitni uređaj diferencijalne struje za zaštitu od indirektnog \r\n dodira mora se tako odabrati, a strujna kola razdvojiti da struja odvoda prema \r\n zemlji koja se javlja tokom normalnog rada priključenih opterećenja ne sme izazvati \r\n nepotrebno delovanje ovog uređaja."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_57"
+    },
+    {
+        "title": "Član 58",
+        "texts": [
+            "Zaštitni uređaj diferencijalne struje u strujnom kolu bez zaštitnog \r\n provodnika ne smatra se dovoljnom zaštitom od indirektnog dodira i kad nazivna \r\n vrednost diferencijalne struje delovanja ne prelazi 30 mA."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_58"
+    },
+    {
+        "title": "Član 59",
+        "texts": [
+            "Ako se u TT sistemu primenjuje zaštita jednim zaštitnim uređajem \r\n diferencijalne struje, taj uređaj se mora postaviti u tački napajanja električne \r\n instalacije.",
+            "Izuzetno od odredbe stava 1 ovog člana, zaštitni uređaj se \r\n može postaviti i na drugo mesto, pod uslovom da svi delovi između tačke napajanja \r\n električne instalacije i zaštitnog uređaja diferencijalne struje imaju propisanu \r\n zaštitu od električnog udara primenom izolacije za aparate klase II ili odgovarajuće \r\n izolacije.",
+            "Ako električna instalacija ima više tačaka napajanja, zaštitni \r\n uređaj diferencijalne struje mora se postaviti u svaku tačku napajanja električne \r\n instalacije."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_59"
+    },
+    {
+        "title": "Član 60",
+        "texts": [
+            "Osnove topljivih osigurača tipa D u zaštitnim uređajima od \r\n prekomerne struje moraju biti povezane tako da centralni kontakt bude spojen \r\n sa stranom napajanja.",
+            "Osnove topljivih osigurača za uticanje topljivih umetaka tipa \r\n V moraju se postaviti tako da se isključi mogućnost da nosač topljivog umetka \r\n napravi spoj između provodnih delova dve susedne osnove topljivih osigurača."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_60"
+    },
+    {
+        "title": "Član 61",
+        "texts": [
+            "Topljivi osigurač ili kombinacija jedinica \"topljivi osigurač\" \r\n i \"topljivi umetak\" kojim rukuju nestručna lica mora se postaviti \r\n tako da nije moguć dodir delova pod naponom pri vađenju ili menjanju topljivog \r\n umetka."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_61"
+    },
+    {
+        "title": "Član 62",
+        "texts": [
+            "Prekidač kojim rukuje nestručno lice mora biti konstruisan \r\n i postavljen tako da podešenost prekostrujnog okidača nije moguće izmeniti bez \r\n upotrebe alata.",
+            "Na prekidaču mora postojati vidljiva oznaka podešenosti prekostrujnog \r\n okidača."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_62"
+    },
+    {
+        "title": "Član 63",
+        "texts": [
+            "Vrednost nazivne struje Inili \r\n podešena vrednost uređaja za zaštitu kablova i izolovanih provodnika od preopterećenja \r\n mora se odrediti prema uslovima za koordinaciju provodnika i zaštitnih uređaja \r\n za prekomernu struju.",
+            "Za određivanje zaštitnog uređaja uzimaju se temene vrednosti \r\n struja cikličkih opterećenja.",
+            "U slučaju cikličkih opterećenja, vrednosti nazivne struje uređaja \r\n za zaštitnu (In) i struje koja obezbeđuje delovanje \r\n uređaja za zaštitu (I2), moraju se odrediti na osnovu \r\n vrednosti struje za koju je strujno kolo projektovano (Iv) \r\n i vrednosti trajno dozvoljene struje provodnika (Iz) \r\n za konstantno opterećenje koje odgovara cikličkim opterećenjima."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_63"
+    },
+    {
+        "title": "Član 64",
+        "texts": [
+            "Vreme za automatsko isključenje napajanja u trajanju od 5 s, \r\n pri određivanju uređaja za zaštitu električnog razvoda od kratkog spoja, mora \r\n obuhvatiti granične uslove kratkog spoja strujnog kola."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_64"
+    },
+    {
+        "title": "Član 65",
+        "texts": [
+            "Ako je zaštitni uređaj diferencijalne struje ugrađen u zaštitni \r\n uređaj od prekomerne struje ili je u kombinaciji sa tim uređajem, karakteristike \r\n takvog sklopa zaštitnih uređaja u pogledu moći prekidanja i radne karakteristike \r\n u zavisnosti od nazivne struje mora zadovoljavati uslove za preopterećenje, \r\n uslove kratkog spoja, kao i uslove iz čl. 63 i 64 ovog pravilnika."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_65"
+    },
+    {
+        "title": "Član 66",
+        "texts": [
+            "Ako zaštitni uređaj diferencijalne struje nije ugrađen u zaštitni \r\n uređaj od prekomerne struje niti je sa njim u kombinaciji, zaštita od prekomerne \r\n struje mora se obezbediti drugim dogovarajućim uređajem, a zaštitni uređaj diferencijalne \r\n struje mora se odrediti tako da bez oštećenja izdrži termička i mehanička naprezanja \r\n ako se pojavi kratak spoj na strani opterećenja.",
+            "Zaštitni uređaj diferencijalne struje ne sme se oštetiti čak \r\n ni pri pojavama neuravnoteženih struja ili struja odvoda prema zemlji, kad ovaj \r\n uređaj teži da se otvori."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_66"
+    },
+    {
+        "title": "Član 67",
+        "texts": [
+            "Uređaji za rastavljanje moraju rastaviti sve provodnike pod \r\n naponom posmatranog strujnog kola napajanja."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_67"
+    },
+    {
+        "title": "Član 68",
+        "texts": [
+            "Rastavni razmak između otvorenih kontakata uređaja za rastavljanje \r\n ili drugog sredstva za rastavljanje određen je u tabeli br. 2.",
+            "Tabela br. 2",
+            "Nazivni napon električneinstalacije naizmenične struje",
+            "Najmanji rastavni razmak",
+            "V",
+            "mm",
+            "1",
+            "2",
+            "UŁ250",
+            "2,5",
+            "250 < UŁ400",
+            "3,5",
+            "400 < UŁ500",
+            "4,5",
+            "500 < UŁ750",
+            "6,5",
+            "750 < UŁ1 000",
+            "9",
+            "Rastavni razmak između otvorenih kontakata uređaja za rastavljanje \r\n mora biti vidljiv ili jasno i pouzdano označen oznakom \"O\", koja mora \r\n postati vidljiva kad se postigne rastavni razmak između otvorenih kontakata \r\n na svakom polu uređaja."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_68"
+    },
+    {
+        "title": "Član 69",
+        "texts": [
+            "Uređaji za rastavljanje moraju biti konstruisani i postavljeni \r\n tako da spreče sva nenamerna zatvaranja (npr. izazvana udarima, vibracijama \r\n i dr.).",
+            "Poluprovodnički uređaji ne smeju se upotrebiti kao uređaji \r\n za rastavljanje."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_69"
+    },
+    {
+        "title": "Član 70",
+        "texts": [
+            "Uređaj za rastavljanje koji ne može prekinuti struju opterećenja \r\n mora se obezbediti od nepažljivog i neovlašćenog otvaranja (npr. postavljanjem \r\n u posebnu prostoriju koja se zaključava, ili smeštajem u zatvoreno kućište)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_70"
+    },
+    {
+        "title": "Član 71",
+        "texts": [
+            "Sredstva za rastavljanje, po pravilu, moraju biti opremljena \r\n višepolnim uređajem koji isključuje sve polove sa napajanja. Jednopolni uređaji \r\n mogu se upotrebiti pod uslovom da se postave jedan do drugog."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_71"
+    },
+    {
+        "title": "Član 72",
+        "texts": [
+            "Upotrebljena sredstva za rastavljanje moraju se označiti tako \r\n da bude uočljivo koje strujno kolo rastavljaju."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_72"
+    },
+    {
+        "title": "4. Uređaji za isključivanje električne instalaciji radi mehaničkog \r\n održavanja",
+        "texts": [],
+        "link": null
+    },
+    {
+        "title": "Član 73",
+        "texts": [
+            "Uređaji za isključivanje električne instalacije radi mehaničkog \r\n održavanja moraju se postaviti u glavno napojno strujno kolo. Ako to isključivanje \r\n vrši sklopka, ona mora biti sposobna da prekine struju punog opterećenja odgovarajućeg \r\n dela električne instalacije.",
+            "Isključivanje upravljačkog strujnog kola motornog pogona dozvoljeno \r\n je samo ako se primeni dodatna zaštita pomoću mehaničkog ograničivača ili ako \r\n se primene zahtevi za uređaj za upravljanje iz jugoslovenskih standarda, pod \r\n uslovom da je u oba slučaja obezbeđen isti uslov kao pri direktnom prekidanju \r\n glavnog napajanja."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_73"
+    },
+    {
+        "title": "Član 74",
+        "texts": [
+            "Upravljanje uređajem za isključivanje radi mehaničkog održavanja \r\n ili sklopkom za ovaj uređaj mora biti ručno, a razmak između otvorenih kontakata \r\n ovog uređaja mora biti vidljiv ili jasno označen oznakom \"O\"."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_74"
+    },
+    {
+        "title": "Član 75",
+        "texts": [
+            "Uređaj za isključivanje radi mehaničkog održavanja mora biti:",
+            "1) konstruisan ili postavljen tako da spreči nenamerno zatvaranje \r\n usled udara, vibracija i dr.;",
+            "2) postavljen i označen tako da oznake budu čitljive, da se \r\n raspoznaju i odgovaraju svojoj nameni."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_75"
+    },
+    {
+        "title": "Član 76",
+        "texts": [
+            "Uređaj za isključivanje u slučaju hitnosti mora biti takav \r\n da može da prekine struju punog opterećenja odgovarajućeg dela električne instalacije, \r\n uzimajući u obzir i eventualne struje ukočenih motora."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_76"
+    },
+    {
+        "title": "Član 77",
+        "texts": [
+            "Uređaj za isključivanje u slučaju hitnosti može se sastojati \r\n od jednog rasklopnog uređaja koji može direktno prekinuti pripadajuće napajanje \r\n ili od kombinacije opreme koja se aktivira samo jednim delovanjem radi prekidanja \r\n pripadajućeg napajanja.",
+            "Radi kočenja pokretnih delova ili iz drugih razloga, hitno \r\n zaustavljanje može zadržati napajanje u odgovarajućem trajanju."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_77"
+    },
+    {
+        "title": "Član 78",
+        "texts": [
+            "Isključivanje u slučaju hitnosti vrši se sklopkom u glavnom \r\n strujnom kolu ili upravljačkom sklopkom (npr. pritisnim tasterom u upravljačkom \r\n ili pomoćnom strujnom kolu).",
+            "Rasklopni uređaj za direktno rastavljanje glavnog strujnog \r\n kola na koji se deluje ručno mora biti postavljen na pristupačno mesto sa koga \r\n se opasnost može uočiti.",
+            "Prekidač, kontaktor ili drugi uređaj na koji se deluje mora \r\n se otvarati prekidom napajanja namotaja ili na drugi jednako bezbedan način."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_78"
+    },
+    {
+        "title": "Član 79",
+        "texts": [
+            "Elementi (ručica, pritisno dugme i dr.) koji služe za isključivanje \r\n u slučaju hitnosti moraju biti crvene boje na žutoj čeonoj ploči i moraju ispunjavati \r\n sledeće uslove:",
+            "1) da budu lako pristupačni;",
+            "2) da se zabravljuju ili da oznaka \"O\", odnosno \"STOP\" \r\n bude vidljiva, osim ako su elementi za isključivanje i za ponovno uključivanje \r\n pod nadzorom istog lica.",
+            "Oslobađanje elemenata za isključivanje u slučaju hitnosti ne \r\n sme reaktivirati odgovarajući deo električne instalacije."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_79"
+    },
+    {
+        "title": "Član 80",
+        "texts": [
+            "Uređaj za isključivanje u slučaju hitnosti (uključujući hitno \r\n zaustavljanje) mora se postaviti i označiti tako da se lako raspoznaje i mora \r\n biti prilagođen predviđenoj upotrebi."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_80"
+    },
+    {
+        "title": "Član 81",
+        "texts": [
+            "Uređaj za funkcionalno upravljanje mora biti prilagođen najtežim \r\n uslovima sredine (u kojima mora izvršiti zahtevanu funkciju).",
+            "Funkcionalno upravljanje može se ostvariti sklopkom, poluprovodničkim \r\n uređajem, prekidačem, kontaktorom, relejem, utikačem i priključnicom do 16 A.",
+            "Rastavljač, osigurač i mostna spojnica (prespoj) ne smeju se \r\n koristiti za funkcionalno upravljanje."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_81"
+    },
+    {
+        "title": "5. Transformatori",
+        "texts": [],
+        "link": null
+    },
+    {
+        "title": "Član 82",
+        "texts": [
+            "Strujno kolo koje se napaja sa sekundarnog namotaja transformatora \r\n mora se izvesti prema zahtevima za najviši napon ovog strujnog kola."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_82"
+    },
+    {
+        "title": "Član 83",
+        "texts": [
+            "Strujno kolo autotransformatora koji je priključen na napon \r\n iz opsega II mora se izvesti prema najvišem naponu koji se može javiti između \r\n provodnika ili između provodnika i zemlje.",
+            "Napon sekundarnog strujnog kola autotransformatora između provodnika \r\n ili između provodnika i zemlje ne sme preći gornje vrednosti granice opsega \r\n II napona."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_83"
+    },
+    {
+        "title": "6. Rotacione mašine",
+        "texts": [],
+        "link": null
+    },
+    {
+        "title": "Član 84",
+        "texts": [
+            "Generatori se moraju postavljati u posebne prostorije i zaštititi \r\n odgovarajućim preprekama, a ako to nije moguće, sredstva za upravljanje smeju \r\n biti pristupačna samo stručnim licima."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_84"
+    },
+    {
+        "title": "Član 85",
+        "texts": [
+            "Nazivne karakteristike motora moraju odgovarati karakteristikama \r\n pogona."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_85"
+    },
+    {
+        "title": "Član 86",
+        "texts": [
+            "Struja motora pri pokretanju mora se ograničiti na vrednost \r\n koja nije štetna za instalaciju iz koje se napaja i ne utiče štetno na druge \r\n aparate vezane za isti izvor.",
+            "Direktno napajanje motora naizmenične struje sa kratkospojenim \r\n rotorom iz distributivne mreže napona 0,4 kV, dozvoljava se ako su ispunjeni \r\n sledeći uslovi:",
+            "1) pad napona pri pokretanju ne sme premašiti vrednost pri \r\n kojoj dolazi do smanjenja momenta motora tako da ugrožava pouzdan zalet motora \r\n i radne mašine ili utiče na stabilan rad ostalih potrošača vezanih na istu mrežu;",
+            "2) zaštita pri pokretanju motora ne sme delovati ni na višem \r\n naponskom nivou."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_86"
+    },
+    {
+        "title": "Član 87",
+        "texts": [
+            "Motori moraju biti snabdeveni odgovarajućim uređajima za pokretanje \r\n i, po potrebi, uređajima za regulaciju.",
+            "Uređaji za pokretanje motora mogu se kombinovati sa uređajima \r\n za zaštitu motora, pri čemu uređaji za pokretanje moraju zadovoljiti zahteve \r\n za uređaje za zaštitu motora."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_87"
+    },
+    {
+        "title": "7. Pretvarači",
+        "texts": [],
+        "link": null
+    },
+    {
+        "title": "Član 88",
+        "texts": [
+            "Pretvarači se moraju napajati preko transformatora sa električki \r\n odvojenim namotajima.",
+            "Ako se koristi pretvarač naizmenične struje, strujno kolo iza \r\n tog pretvarača mora biti posebno zaštićeno, a naročito u pogledu selektivnosti, \r\n s obzirom na funkcionalne karakteristike pretvarača."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_88"
+    },
+    {
+        "title": "8. Akumulatori",
+        "texts": [],
+        "link": null
+    },
+    {
+        "title": "Član 89",
+        "texts": [
+            "Prenosivi ili pokretni akumulatori moraju se puniti u prostorijama \r\n u kojima isticanje i isparavanje elektrolita neće izazvati štete i opasnost.",
+            "Provetravanjem prostorija iz stava 1 ovog člana mora se obezbediti \r\n da prostorija ne postane opasna u pogledu eksplozije. Takođe se mora obezbediti \r\n da u blizini ne sme biti otvorene vatre."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_89"
+    },
+    {
+        "title": "Član 90",
+        "texts": [
+            "Stacionarni akumulatori moraju biti u posebnoj prostoriji, \r\n koja mora biti zatvorena i u koju je dozvoljen pristup samo licima koja su dužna \r\n da ih nadgledaju održavaju.",
+            "Ako nazivni napon akumulatorske baterije prelazi 150 V, prostorija \r\n u kojoj su smešteni stacionarni akumulatori mora imati pod koji ne sme da bude \r\n klizav, koji mora da bude izolovan od tla i koji mora imati dovoljnu površinu \r\n za kretanje radnika da ne bi došlo do istovremenog doticanja tla ili provodnog \r\n elementa vezanog za zemlju i nekog od elemenata akumulatora pod naponom."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_90"
+    },
+    {
+        "title": "9. Rasklopni blokovi",
+        "texts": [],
+        "link": null
+    },
+    {
+        "title": "Član 91",
+        "texts": [
+            "Rasklopni blokovi moraju biti izrađeni prema jugoslovenskom \r\n standardu JUS N.K5.503, a instalirani prema odredbama ovog pravilnika, shodno \r\n određenom tipu električnog razvoda."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_91"
+    },
+    {
+        "title": "Čl. 92-97",
+        "texts": [
+            "(Brisani)"
+        ],
+        "link": null
+    },
+    {
+        "title": "10. Električna oprema i uređaji koji troše električnu energiju",
+        "texts": [],
+        "link": null
+    },
+    {
+        "title": "Član 98",
+        "texts": [
+            "Električna oprema i uređaji koji troše električnu energiju \r\n priključuju se direktno na električnu instalaciju ili preko produžnog savitljivog \r\n kabla.",
+            "Odredbe ovog pravilnika koje se odnose na zaštitu od razaranja \r\n spojeva odnose se i na električnu opremu i uređaje koji troše električnu energiju \r\n i priključuju se direktno na električnu instalaciju.",
+            "Ako se priključak električne opreme i uređaja koji troše električnu \r\n energiju izvodi produžnim savitljivim kablom, taj kabl mora imati isti broj \r\n provodnika kao i električna instalacija i zaštitni provodnik, ako je neophodan, \r\n sa potrebnom električnom i mehaničkom čvrstoćom."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_98"
+    },
+    {
+        "title": "Član 99",
+        "texts": [
+            "Ako produžni savitljivi kabl ima zaštitni provodnik, taj provodnik \r\n mora biti označen zeleno-žutom bojom, a ako nema zaštitni provodnik, ni jedan \r\n drugi provodnik ne može biti označen tom bojom.",
+            "Ako produžni savitljivi kabl ima neutralni provodnik i ako \r\n sredstvo za spajanje određuje njegovo mesto, neutralni provodnik mora biti označen \r\n svetloplavom bojom."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_99"
+    },
+    {
+        "title": "Član 100",
+        "texts": [
+            "Svetiljka se mora postaviti na tavanicu prostorije tako da \r\n se ne može okretati oko svoje ose.",
+            "Svetiljka se ne sme vešati o provodnik za napajanje.",
+            "Ako je svetiljka klase O ili kase II, mora se pričvrstiti preko \r\n izolacionog priključka koji odvaja metalne delove od svog nosača."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_100"
+    },
+    {
+        "title": "Član 101",
+        "texts": [
+            "Navojni deo u sijaličnom grlu, u koji se sijalica zavrće, ne \r\n sme biti spojen sa faznim provodnikom.",
+            "Grla u svetiljkama mogu se postavljati tako da budu pristupačna \r\n bez upotrebe alata, osim u svetiljkama koje se drže u ruci.",
+            "Sijalična grla sa sklopkom i tasterom dozvoljena su samo ako \r\n su izrađena u izolacionom kućištu.",
+            "Sijalična grla opremljena sklopkama sa polugama dozvoljena \r\n su samo pod uslovom da je delovanje sklopke osigurano izolacionim gajtanom ili \r\n metalnim lancem koji je povezan sa polugom preko umetnutog izolacionog dela, \r\n pri čemu ne sme postojati mogućnost dodira ovog lanca sa delovima pod naponom \r\n sijaličnog grla."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_101"
+    },
+    {
+        "title": "Član 102",
+        "texts": [
+            "Za svetiljku sa pražnjenjem koja ima napon sijalice koji prelazi \r\n napon opsega II (odnosno 1 000 V) zahtevi su utvrđeni jugoslovenskim standardom \r\n JUS N.L5.210."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_102"
+    },
+    {
+        "title": "Čl. 103 i 104",
+        "texts": [
+            "(Brisani)"
+        ],
+        "link": null
+    },
+    {
+        "title": "Član 105",
+        "texts": [
+            "Aparati sa otvorenim usijanim grejnim elementima ne smeju se \r\n priključivati na električnu instalaciju u prostorijama u kojima postoji opasnost \r\n od požara ili dodira zapaljivih materijala sa delovima aparata koji nose užarene \r\n elemente."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_105"
+    },
+    {
+        "title": "Član 106",
+        "texts": [
+            "Aparati za zagrevanje prostorija u kojima se izrađuju, obrađuju \r\n ili skladište zapaljivi materijali, odnosno u kojima je prisutna zapaljiva prašina \r\n moraju imati uređaj za ograničavanje temperature ili uređaj za smanjivanje odavanja \r\n toplote, kojim se sprečava dostizanje opasne temperature, ili moraju biti tako \r\n konstruisani da temperatura kućišta i delova aparata bude ispod temperature \r\n koja može izazvati opasnost od požara."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_106"
+    },
+    {
+        "title": "Član 107",
+        "texts": [
+            "U instalacijama električnih aparata za grejanje toplim vazduhom \r\n ne sme postojati mogućnost da se grejna tela stave pod napon dok se ne pokrene \r\n odgovarajući ventilator, a moraju se isključivati pre nego što se taj ventilator \r\n isključi.",
+            "Grejna tela iz stava 1 ovog člana moraju imati ugrađena dva \r\n nezavisna ograničivača temperature, koji ne dopuštaju pojavu visoke temperature."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_107"
+    },
+    {
+        "title": "Član 108",
+        "texts": [
+            "Električni aparati za zagrevanje zapaljivih tečnosti na temperaturu \r\n ispod temperature plamišta moraju imati ograničivač temperature, koji isključuje \r\n ili smanjuje grejanje pre nego što se postigne opasna temperatura, odnosno moraju \r\n biti konstruisani tako da i pri nedozvoljenom povećanju temperature ne izazivaju \r\n opasnost za ljude i okolne objekte."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_108"
+    },
+    {
+        "title": "11. Sigurnosni sistemi",
+        "texts": [],
+        "link": null
+    },
+    {
+        "title": "Član 109",
+        "texts": [
+            "Sigurnosni sistemi moraju funkcionisati pri izbijanju požara.",
+            "Izvor sigurnosnog sistema mora obezbediti napajanje u određenom \r\n vremenu a oprema sigurnosnog sistema mora biti izvedena ili postavljena tako \r\n da za odgovarajuće vreme bude otporna prema vatri."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_109"
+    },
+    {
+        "title": "Član 110",
+        "texts": [
+            "U sigurnosnim sistemima mora se sprovesti zaštita od indirektnog \r\n dodira bez automatskog isključenja napajanja pri pojavi prve greške.",
+            "U IT sistemima moraju se predvideti uređaji za stalan nadzor \r\n izolacije koji pri pojavi prve greške daju zvučni i svetlosni signal."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_110"
+    },
+    {
+        "title": "Član 111",
+        "texts": [
+            "Oprema sigurnosnih sistema mora biti raspoređena tako da se \r\n lako mogu vršiti periodični pregledi, ispitivanja i održavanje."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_111"
+    },
+    {
+        "title": "Član 112",
+        "texts": [
+            "Izvori sigurnosnih sistema moraju se postaviti i učvrstiti \r\n tako da se ne mogu oštetiti zbog grešaka koje se mogu javiti u glavnim izvorima \r\n napajanja.",
+            "Izvori sigurnosnih sistema moraju se postaviti u prostorije \r\n koje su pristupačne samo stručnom i priučenom osoblju (BA 4 i BA 5), osim opreme \r\n koja se posebno napaja iz sopstvenih akumulatora."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_112"
+    },
+    {
+        "title": "Član 113",
+        "texts": [
+            "Mesto na kome su smešteni izvori sigurnosnih sistema (osim \r\n sopstvenih akumulatora za posebno napajanje) mora biti čisto i mora se provetravati, \r\n tako da gasovi, dim ili para koje izvori ispuštaju ne mogu prodreti u prostorije \r\n u kojima se nalaze ljudi."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_113"
+    },
+    {
+        "title": "Član 114",
+        "texts": [
+            "Odvojeni nezavisni izvori za sigurnosne sisteme koji se napajaju \r\n iz mreže nisu dozvoljeni, osim ako je obezbeđeno da dva izvora ne mogu biti \r\n istovremeno u kvaru."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_114"
+    },
+    {
+        "title": "Član 115",
+        "texts": [
+            "Ako postoji samo jedan izvor za napajanje sigurnosnog sistema, \r\n on se ne sme koristiti za drugu svrhu.",
+            "Ako postoji više izvora sigurnosnih sistema oni se mogu koristiti \r\n za napajanje sistema stalne pripravnosti, pod uslovom da u slučaju kvara jednog \r\n od njih preostala snaga bude dovoljna za obezbeđenje pokretanja i rada svih \r\n sigurnosnih sistema.",
+            "Uslov iz stava 1 ovog člana zahteva automatsko rasterećenje \r\n izvora napajanja od opreme koja nije predviđena sigurnosnim sistemima.",
+            "Odredbe st. 1 i 2 ovog člana ne odnose se na opremu koja se \r\n posebno napaja iz sopstvenih akumulatora."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_115"
+    },
+    {
+        "title": "Član 116",
+        "texts": [
+            "Strujna kola sigurnosnih sistema moraju biti odvojena od drugih \r\n strujnih kola tako da električna greška ili bilo koja intervencija ili izmena \r\n u jednom sistemu ne utiče na ispravnost rada drugog sistema.",
+            "Zahtev iz stava 1 ovog člana postiže se odvajanjem strujnih \r\n kola izolacionim materijalima koji su otporni prema vatri, vođenjem drugim putevima \r\n ili upotrebom kućišta."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_116"
+    },
+    {
+        "title": "Član 117",
+        "texts": [
+            "Strujna kola sigurnosnog sistema, po pravilu, ne smeju prolaziti \r\n kroz mesta izložena riziku od požara, kao što su prostorije u kojima se izrađuju, \r\n obrađuju ili skladište zapaljive materije, odnosno u kojima je prisutna zapaljiva \r\n prašina.",
+            "Izuzetno od odredbe stava 1 ovog člana, ako se to ne može izbeći \r\n dozvoljeno je da strujna kola sigurnosnog sistema prolaze i kroz ta mesta, s \r\n tim što se u tom slučaju mora obezbediti njihova otpornost prema vatri.",
+            "Strujna kola sigurnosnog sistema ne smeju prolaziti kroz prostorije \r\n u kojima se obrađuje ili skladišti eksploziv."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_117"
+    },
+    {
+        "title": "Član 118",
+        "texts": [
+            "Strujna kola sigurnosnih sistema ne moraju se zaštiti od preopterećenja \r\n već samo od kratkog spoja, s tim što se uređaj za zaštitu mora odabrati i postaviti \r\n tako da ne izaziva nepravilan rad u drugim strujnim kolima sigurnosnog sistema."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_118"
+    },
+    {
+        "title": "Član 119",
+        "texts": [
+            "Rasklopni uređaji sigurnosnih sistema moraju se razlikovati \r\n i grupisati u prostoru koji je pristupačan samo stručnim licima.",
+            "Uređaji za svetlosnu i zvučnu signalizaciju sigurnosnih sistema \r\n moraju jasno pokazivati na koje se uređaje ili strujna kola sigurnosnog sistema \r\n odnose."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_119"
+    },
+    {
+        "title": "Član 120",
+        "texts": [
+            "U sistemima u kojima se zahteva određeni stalni nivo osvetljaja \r\n ili određeno vreme prekida osvetljaja, tip svetiljke sigurnosnih sistema mora \r\n biti takav da zadovolji zahtevani nivo osvetljaja i pri prebacivanju na sigurnosni \r\n sistem."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_120"
+    },
+    {
+        "title": "Član 121",
+        "texts": [
+            "U električnoj opremi sigurnosnih sistema koja se napaja sa \r\n dva različita strujna kola ne smeju se oštetiti uređaji za zaštitu od električnog \r\n udara usled greške u jednom od strujnih kola ni izazvati pogrešno delovanje \r\n u drugom strujnom kolu.",
+            "Oprema iz stava 1 ovog člana mora se povezati sa zajedničkim \r\n zaštitnim provodnikom za oba strujna kola, ako je on predviđen."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_121"
+    },
+    {
+        "title": "Član 122",
+        "texts": [
+            "Paralelni rad dva izvora napajanja sigurnosnih sistema koji \r\n nisu sposobni za paralelni rad mora se sprečiti mehaničkim zabravljenjem ili \r\n drugim pogodnim sredstvom."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_122"
+    },
+    {
+        "title": "Član 123",
+        "texts": [
+            "Ako dva izvora napajanja sigurnosnih sistema nisu sposobna \r\n za paralelni rad, zaštita od kratkog spoja i od indirektnog dodira mora se osigurati \r\n za svaki izvor."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_123"
+    },
+    {
+        "title": "Član 124",
+        "texts": [
+            "Ako razni izvori napajanja mogu raditi paralelno kao nezavisni \r\n izvori napajanja sigurnosnih i drugih sistema, pojava reverzibilne energije \r\n mora se sprečiti postavljanjem zaštitnih uređaja."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_124"
+    },
+    {
+        "title": "Član 125",
+        "texts": [
+            "Kad se sigurnosni i drugi sistemi mogu napajati iz dva izvora \r\n koji mogu raditi paralelno, zaštita od kratkih spojeva i indirektnog dodira \r\n mora se obezbediti bez obzira na to da li se električna instalacija napaja sa \r\n jednog ili sa oba izvora, pri čemu su neophodne mere za ograničavanje struje \r\n koja protiče između neutralnih tačaka izvora, a naročito pri pojavi trećeg harmonika.",
+            "III TEHNIČKE MERE ZAŠTITE"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_125"
+    },
+    {
+        "title": "1. Tehničke mere zaštite od električnog udara",
+        "texts": [],
+        "link": null
+    },
+    {
+        "title": "Član 126",
+        "texts": [
+            "Na električnu opremu primenjuju se tehničke mere zaštite od \r\n direktnih dodira prema jugoslovenskom standardu JUS. N.B2.741."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_126"
+    },
+    {
+        "title": "Član 127",
+        "texts": [
+            "Na električnu opremu primenjuju se tehničke mere zaštite od \r\n indirektnih dodira prema jugoslovenskom standardu JUS N.B2.741, s tim što se \r\n tehnička mera zaštite automatskim isključenjem napajanja ne primenjuje na delove \r\n električne instalacije gde je neophodnost napajanja bitna i u slučajevima kad \r\n nije efikasna.",
+            "Zaštita delova električne instalacije iz stava 1 ovog člana \r\n od indirektnog dodira, gde je neprekidnost napajanja bitna ili zaštita automatskim \r\n isključenjem napajanja nije efikasna, ostvaruje se kad se električna oprema \r\n postavlja u neprovodne prostorije ili lokalnim izjednačenjem potencijala bez \r\n povezivanja sa zemljom.",
+            "Tehničke mere zaštite bezbednosno mali naponom, korišćenjem \r\n opreme klase II ili primenom ekvivalentne izolacije, kao i električnim odvajanjem, \r\n mogu se primenjivati na celu električnu instalaciju, njene delove ili opremu.",
+            "Tehničke mere zaštite od indirektnog dodira iz st. 1, 2 i 3 \r\n ovog člana ne primenjuju se pri izvođenju električne instalacije na: potporne \r\n izolatore i metalne delove spojene sa njima, pribor za nadzemne vodove ako je \r\n van dohvata ruke, betonsko gvožđe ako nije pristupačno, izložene provodne delove \r\n malih dimenzija (do 50 mm x 50 mm) ili ako su van dohvata ruke, a mera zaštite \r\n povezivanjem na zaštitni provodnik je teško izvodljiva (npr. vijci, zakovice, \r\n natpisne pločice, kablovske obujmice i sl.), metalne cevi ili druga metalna \r\n kućišta koja štite električnu opremu u skladu sa zahtevima za klasu II ili ekvivalentne \r\n izolacije."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_127"
+    },
+    {
+        "title": "2. Tehničke mere zaštite od požara",
+        "texts": [],
+        "link": null
+    },
+    {
+        "title": "Član 128",
+        "texts": [
+            "Postavljanje kablova i provodnika u prostorijama zgrada klase \r\n spoljašnjih uticaja BD 2, BD 3 i BD 4 za koje je karakteristično otežano napuštanje \r\n (kao što su: visoke stambene i poslovne zgrade, robne kuće, pozorišta, bioskopi \r\n i dr.) treba izbegavati.",
+            "Ako se kablovi i provodnici postavljaju u prostorijama iz stava \r\n 1 ovog člana, moraju se ispuniti sledeći uslovi:",
+            "1) da u slučaju nastanka požara ne mogu preneti ni proširiti \r\n požar dva časa od njegovog nastojanja;",
+            "2) da se spreči izazivanje visoke temperature koja bi mogla \r\n da izazove paljenje okolnih materijala (npr. postavljanjem u kućišta, omotače \r\n i sl.);",
+            "3) da se polažu u pokrivene kanale ili van dohvata ruke."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_128"
+    },
+    {
+        "title": "Član 129",
+        "texts": [
+            "U zgradama klase spoljašnjih uticaja BD 3 i BD 4, za koje je \r\n karakteristično prisustvo velikog broja ljudi (kao što su: pozorišta, bioskopi, \r\n robne kuće i dr.), rasklopne aparature se postavljaju tako da budu pristupačne \r\n samo stručnim licima.",
+            "Izuzetno od odredbe stava 1 ovog člana, rasklopni uređaji koji \r\n olakšavaju napuštanje zgrade (npr. sklopke za protivpanično svetlo, ventilaciju \r\n i dr.) mogu se postaviti tako da svima budu pristupačni.",
+            "Ako se rasklopne aparature postavljaju u prostorijama iz člana \r\n 128 ovog pravilnika, one moraju biti u kućištima od nezapaljivih materijala \r\n ili materijala koji ne potpomažu gorenje."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_129"
+    },
+    {
+        "title": "Član 130",
+        "texts": [
+            "Električna oprema koja sadrži zapaljive tečnosti ne može se \r\n postavljati u prostorijama predviđenim za napuštanje zgrade klase spoljašnjih \r\n uticaja BD 3 i BD 4, za koje je karakteristično otežano napuštanje (kao što \r\n su: visoke stambene i poslovne zgrade, pozorišta, bioskopa i dr.).",
+            "U prostorijama zgrada klase spoljašnjih uticaja BE 2, u kojima \r\n postoji opasnost od požara može se postavljati samo neophodna električna oprema, \r\n a prolaz kablovima i provodnicima dozvoljen je pod uslovom da se, u slučaju \r\n nastavljanja u ovim prostorijama, spoj nalazi u nezapaljivom kućištu ili kućištu \r\n koje ne potpomaže gorenje, da su kablovi i provodnici zaštićeni od prekomerne \r\n struje i da zadovoljavaju uslove ispitivanja na zapaljivost prema jugoslovenskom \r\n standardu JUS N.C0.075 u vremenu od jednog minuta, plamenom dužine 120 mm.",
+            "Ako se kablovi i provodnici polažu na zapaljive materijale, \r\n ti materijali moraju zadovoljiti uslove ispitivanja na zapaljivost iz stava \r\n 2 ovog člana."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_130"
+    },
+    {
+        "title": "Član 131",
+        "texts": [
+            "U prostorijama zgrada klase spoljašnjih uticaja BE 2 u kojima \r\n se očekuje taloženje prašine na kućišta električne opreme u takvim količinama \r\n da mogu izazvati požar, moraju se preduzeti mere da kućišta ne dostignu temperaturu \r\n paljenja prašine.",
+            "Pod merama iz stava 1 ovog člana podrazumeva se da električna \r\n oprema za te prostorije mora biti izrađena prema jugoslovenskom standardu JUS \r\n N.S8.850 i da se pri izvođenju mora razmestiti tako da je obezbeđeno hlađenje \r\n kako tokom normalnog rada tako i pri preopterećenjima.",
+            "Mere iz stava 1 ovog člana nisu potrebne ako je temperatura \r\n kućišta tako niska da ne može izazvati paljenje prašine ni okolnih materijala."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_131"
+    },
+    {
+        "title": "Član 132",
+        "texts": [
+            "Ako su rasklopne aparature za zaštitu, upravljanje ili rastavljanje \r\n postavljene u kućište koje ima manji stepen zaštite od IP 5X prema jugoslovenskom \r\n standardu JUS N.A5.070, one se moraju postaviti van prostorija u kojima postoji \r\n opasnost od požara u zgradama klase spoljašnjih uticaja BE 2)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_132"
+    },
+    {
+        "title": "Član 133",
+        "texts": [
+            "Ako se prostorije u kojima postoji opasnost od požara u zgradama \r\n klase spoljašnjih uticaja BE 2) greju sistemom prinudne cirkulacije vazduha, \r\n vazduh se mora usisavati iz prostorije u kojoj ne postoji zapaljiva prašine.",
+            "Temperatura ulaznog vazduha za grejanje ne sme biti takva da \r\n može izazvati požar."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_133"
+    },
+    {
+        "title": "Član 134",
+        "texts": [
+            "Motori kojima se upravlja daljinski i koji rade bez nadzora, \r\n osim servomotora sa kratkotrajnim radom, smešteni u prostorijama u kojima postoji \r\n opasnost od požara (u zgradama klase spoljašnjih uticaja BE 2), moraju se pomoću \r\n uređaja osetljivih na temperaturu zaštititi od temperatura koje su više od temperature \r\n tinjanja prašine."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_134"
+    },
+    {
+        "title": "Član 135",
+        "texts": [
+            "Svetiljke u prostorijama u kojima postoji opasnost od požara \r\n (u zgradama klase spoljašnjih uticaja BE 2) moraju imati stepen zaštite najmanje \r\n IP 5X, prema jugoslovenskom standardu JUS N.A5.070",
+            "Izvori svetla moraju biti zaštićeni od mogućih mehaničkih oštećenja \r\n plastičnim ili staklenim poklopcima i rešetkama ili drugim odgovarajućim zaštitnim \r\n sredstvima.",
+            "Zaštitna sredstva iz stava 2 ovog člana moraju biti sastavni \r\n deo svetiljke."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_135"
+    },
+    {
+        "title": "Član 136",
+        "texts": [
+            "Radi smanjenja opasnosti, u prostorijama u kojima postoji opasnost \r\n od požara (u zgradama klase spoljašnjih uticaja BE 2) strujno kolo mora biti \r\n zaštićeno zaštitnim uređajem diferencijalne struje nazivne vrednosti struje \r\n delovanja od 0,5 A ili mora biti postavljeno pod nadzor pomoću uređaja za trajni \r\n nadzor izolacije (koji se koristi u IT sistemima), sa zvučnim signalnom za slučaj \r\n greške na izolaciji.",
+            "Provodnik strujnog kola za nadzor izolacije može biti dodatni \r\n provodnik višežilnog kabla, plašt kabla spojen sa zaštitnim provodnikom ili \r\n neizolovani provodnik vođen sa izolovanim provodnicima u plastičnim instalacionim \r\n cevima."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_136"
+    },
+    {
+        "title": "Član 137",
+        "texts": [
+            "Strujna kola koja napajaju opremu ili prolaze kroz prostorije \r\n u kojima postoji opasnost od požara (u zgradama klase spoljašnjih uticaja BE \r\n 2) moraju biti zaštićena od preopterećenja i kratkih spojeva zaštitnim uređajima \r\n koji se moraju postaviti van tih prostorija."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_137"
+    },
+    {
+        "title": "Član 138",
+        "texts": [
+            "Delovi pod naponom u strujnim kolima bezbednosno malog napona \r\n u prostorijama u kojima postoji opasnost od požara (u zgradama klase spoljašnjih \r\n uticaja BE 2) moraju biti zaštićeni kućištem najmanjeg stepena zaštite IP 2X \r\n ili opremljeni izolacijom koja može da izdrži ispitni napon od 500 V tokom 1 \r\n min."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_138"
+    },
+    {
+        "title": "Član 139",
+        "texts": [
+            "U prostorijama u kojima postoji opasnost od požara (u zgradama \r\n klase spoljašnjeg uticaja BE 2) PEN provodnik može biti samo pridružen strujnim \r\n kolima koja prolaze kroz ovakve prostorije, pod uslovom da nema prekida."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_139"
+    },
+    {
+        "title": "Član 140",
+        "texts": [
+            "U prostorijama zgrada od drvene građe (klase spoljašnjeg uticaja \r\n CA 2) moraju se preduzeti mere da električna oprema ne izazove paljenje zidova, \r\n podova ili tavanica."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_140"
+    },
+    {
+        "title": "Član 141",
+        "texts": [
+            "U prostorijama visokih zgrada u kojima je primenjena prinudna \r\n ventilacija (klase spoljašnjih uticaja CB 2), čiji odnos veličina može omogućiti \r\n širenje požara, moraju se preduzeti mere za sprečavanje dejstva dimnjaka na \r\n mestima gde se nalazi električna oprema."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_141"
+    },
+    {
+        "title": "3. Tehničke mere zaštite od prekomerne struje",
+        "texts": [],
+        "link": null
+    },
+    {
+        "title": "Član 142",
+        "texts": [
+            "Uređaj za zaštitu od preopterećenja provodnika i kablova, osim \r\n u slučajevima iz člana 143 ovog pravilnika, mora se postaviti na početak svakog \r\n strujnog kola, kao i na sva mesta na kojima se smanjuje trajno dozvoljena struja \r\n provodnika, ako uređaj za zaštitu od preopterećenja postavljen ispred tog mesta \r\n ne obezbeđuje odgovarajuću zaštitu.",
+            "Uzrok smanjenja trajno dozvoljene struje je smanjenje preseka \r\n provodnika, promena prirode, načina postavljanja i promena izolacije ili broja \r\n žila.",
+            "Uređaj za zaštitu od preopterećenja proizvoljno se sme pomerati \r\n duž električnog razvoda između tačke gde se trajno dozvoljena struja smanjuje \r\n i uređaja za zaštitu, pod uslovom da je zaštićen od kratkog spoja i da nema \r\n grananja ni priključnica.",
+            "Uređaj za zaštitu od preopterećenja može se pomerati najviše \r\n do 3 m između tačke gde se trajno dozvoljena struja smanjuje i zaštitnog uređaja, \r\n pod uslovom da su provodnici ispred uređaja položeni sigurno na kratak spoj \r\n (npr. svaki provodnik u odvojenoj izolovanoj cevi), da su udaljeni od zapaljivih \r\n materijala i da nema grananja ni priključnica."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_142"
+    },
+    {
+        "title": "Član 143",
+        "texts": [
+            "Zaštita od preopterećenja provodnika i kablova može se izostaviti \r\n samo u prostorijama u kojima ne postoji opasnost od požara i eksplozija, i to:",
+            "1) u strujnim kolima u kojima nema preopterećenja, grananja \r\n ni priključnica;",
+            "2) u strujnim kolima telekomunikacija, upravljanja, signalizacije \r\n i sl.;",
+            "3) u provodnicima i kablovima za spajanje električnih mašina, \r\n pokretača, transformatora, ispravljača, akumulatora, rashladnih postrojenja \r\n i sl."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_143"
+    },
+    {
+        "title": "Član 144",
+        "texts": [
+            "U IT sistemima uređaji za zaštitu od preopterećenja mogu se \r\n premestiti duž voda, odnosno izostaviti samo ako je svako strujno kolo zaštićeno \r\n uređajem diferencijalne struje ili ako je sva električna oprema, podrazumevajući \r\n provodnike i kablove, izvedena kao oprema klase II ili zaštićena ekvivalentnom \r\n izolacijom."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_144"
+    },
+    {
+        "title": "Član 145",
+        "texts": [
+            "Uređaj za zaštitu od preopterećenja kablova i provodnika ne \r\n postavlja se u takva strujna kola gde prekid napajanja može predstavljati opasnost, \r\n kao što su pobudna strujna kola obrtnih mašina, strujna kola za napajanje elektromagnetskih \r\n dizalica, strujna kola sekundara strujnih transformatora i sl.",
+            "U slučaju iz stava 1 ovog člana mora se predvideti alarmni \r\n uređaj koji deluje pri pojavi preopterećenja."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_145"
+    },
+    {
+        "title": "Član 146",
+        "texts": [
+            "Uređaji za zaštitu od kratkog spoja moraju se postaviti na \r\n početak svakog strujnog kola, kao i na sva mesta na kojima se smanjuje struja \r\n kratkog spoja provodnika ako uređaj za zaštitu od kratkog spoja, postavljen \r\n ispred tog mesta, ne obezbeđuje odgovarajuću zaštitu."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_146"
+    },
+    {
+        "title": "Član 147",
+        "texts": [
+            "Uređaji za zaštitu od kratkog spoja mogu se pomerati najviše \r\n od 3 m duž štićenog kabla ili provodnika pod uslovom da su kablovi, odnosno \r\n provodnici ispred uređaja položeni sigurno u odnosu na kratak spoj i zemljospoj \r\n i da su udaljeni od zapaljivih materijala."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_147"
+    },
+    {
+        "title": "Član 148",
+        "texts": [
+            "Uređaj za zaštitu od kratkog spoja može se izostaviti:",
+            "1) ako provodnici ili kablovi spajaju generatore, transformatore, \r\n ispravljače, akumulatorske baterije do pripadajućih razvodnih blokova i zaštitne \r\n uređaje u tim razvodnim blokovima;",
+            "2) u strujnim kolima čije isključenje može izazvati opasnost, \r\n kao što su pobudna strujna kola obrtnih mašina, strujna kola napajanja elektromagnetskih \r\n dizalica i strujna kola sekundara strujnih transformatora;",
+            "3) u mernim strujnim kolima.",
+            "U slučajevima iz stava 1 ovog člana električni razvod mora \r\n se izvesti tako da se rizik od kratkog spoja svede na minimum (primenom pojačane \r\n izolacije protiv spoljašnjih uticaja), a provodnici i kablovi se ne smeju polagati \r\n na zapaljive materijale niti uz njih."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_148"
+    },
+    {
+        "title": "Član 149",
+        "texts": [
+            "Jedan isti uređaj za zaštitu kablova i provodnika od kratkog \r\n spoja može štititi više položenih provodnika u paraleli, pod uslovom da su usklađene \r\n radne karakteristike uređaja i način paralelnog polaganja provodnika."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_149"
+    },
+    {
+        "title": "Član 150",
+        "texts": [
+            "Uređaj za zaštitu od prekomerne struje mora se postaviti u \r\n svaki fazni provodnik, osim u sistemu TT bez vođenog neutralnog provodnika, \r\n s tim da taj uređaj mora isključiti provodnik u kome je došlo do prekomerne \r\n struje, ali ne i bezuslovno isključenje drugih provodnika pod naponom.",
+            "Ako pri napajanju (npr. trofaznih motora) prekid jedne faze \r\n predstavlja opasnost, mora se predvideti isključivanje i ostalih provodnika \r\n pod naponom."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_150"
+    },
+    {
+        "title": "Član 151",
+        "texts": [
+            "U strujnim kolima koja se napajaju između faza u sistemu TT, \r\n gde nema vođenog neutralnog provodnika, otkrivanje prekomerne struje može se \r\n predvideti samo u dve faze, pod uslovom da u istom trofaznom strujnom kolu na \r\n strani napajanja postoji uređaj za zaštitu diferencijalne struje koji prekida \r\n sve fazne provodnike."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_151"
+    },
+    {
+        "title": "Član 152",
+        "texts": [
+            "Ako je u TT i TN sistemima presek neutralnog provodnika jednak \r\n preseku faznih provodnika, nije potreban uređaj za zaštitu od prekomerne struje \r\n u neutralnom provodniku ni uređaj za prekidanje ovog provodnika.",
+            "Ako je u sistemima iz stava 1 ovog člana presek neutralnog \r\n provodnika manji od preseka faznog provodnika, potrebno je predvideti uređaj \r\n za zaštitu od prekomerne struje u neutralnom provodniku i taj uređaj mora izazvati \r\n isključenje faznih provodnika strujnog kola, pri čemu nije neophodno prekidanje \r\n neutralnog provodnika.",
+            "Uređaj za zaštitu od prekomerne struje neutralnog provodnika \r\n nije potreban ako je neutralni provodnik zaštićen od kratkog spoja uređajem \r\n za zaštitu faznih provodnika strujnog kola i ako je najveća struja koja protiče \r\n kroz neutralni provodnik tokom normalnog rada znatno manja od vrednosti trajno \r\n dozvoljene struje tog provodnika."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_152"
+    },
+    {
+        "title": "Član 153",
+        "texts": [
+            "Neutralni provodnik, po pravilu, ne vodi se u sistemu IT.",
+            "Ako je vođenje neutralnog provodnika u sistemu IT neophodno, \r\n mora se predvideti uređaj za zaštitu od prekomerne struje neutralnog provodnika \r\n svakog strujnog kola koji izaziva prekid faznih provodnika i neutralnog provodnika \r\n odgovarajućeg strujnog kola.",
+            "Uređaj za zaštitu od preopterećenja neutralnog provodnika nije \r\n potreban ako je neutralni provodnik zaštićen od kratkog spoja uređajem za zaštitu \r\n na strani napajanja (na početku strujnog kola) koji odgovara zahtevima utvrđenim \r\n jugoslovenskim standardom JUS N.B2.743 za karakteristike zaštitnog uređaja od \r\n kratkog spoja ili ako se posebno strujno kolo štiti uređajem diferencijalne \r\n struje čija nazivna vrednost ne prelazi 0,15 puta vrednost trajno dozvoljene \r\n struje odgovarajućeg neutralnog provodnika, pod uslovom da ovaj uređaj prekida \r\n sve fazne provodnike i neutralni provodnik odgovarajućeg strujnog kola."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_153"
+    },
+    {
+        "title": "Član 154",
+        "texts": [
+            "Prekidanje neutralnog provodnika mora kasniti za prekidanjem \r\n faznih provodnika, a pri spajanju neutralni provodnik mora biti spojen istovremeno \r\n ili pre spajanja faznih provodnika."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_154"
+    },
+    {
+        "title": "4. Tehničke mere zaštite od prenapona",
+        "texts": [],
+        "link": null
+    },
+    {
+        "title": "Član 155",
+        "texts": [
+            "Uređaj za ograničavanje prenapona mora se postaviti tako da \r\n ne predstavlja opasnost za ljude i okolne objekte u trenutku delovanja."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_155"
+    },
+    {
+        "title": "Član 156",
+        "texts": [
+            "U isti instalacioni kanal ne smeju se polagati kablovi i provodnici \r\n opsega napona I i II, osim ako nisu preduzete mere da ne budu izloženi naponu \r\n višem od njihovog ispitanog napona mrežne frekvencije."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_156"
+    },
+    {
+        "title": "Član 157",
+        "texts": [
+            "Na mestima na kojima atmosferski prenaponi mogu izazvati opasnost, \r\n moraju se postaviti odvodnici prenapona."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_157"
+    },
+    {
+        "title": "Član 158",
+        "texts": [
+            "Ako se električna instalacija napaja iz nadzemne mreže i zaštićena \r\n je odvodnicama prenapona, odvodnici prenapona moraju se postaviti što bliže \r\n kućnom priključku."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_158"
+    },
+    {
+        "title": "Član 159",
+        "texts": [
+            "Odvodnik prenapona uzemljuje se najkraćim putem."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_159"
+    },
+    {
+        "title": "Član 160",
+        "texts": [
+            "Električna otpornost uzemljivača odvodnika prenapona ne sme \r\n biti veća od 5 Ø."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_160"
+    },
+    {
+        "title": "Član 161",
+        "texts": [
+            "Postojeći uzemljivači, kao što su gromobranske instalacije, \r\n metalna vodovodna mreža i sl., mogu se koristiti za uzemljenje odvodnika prenapona."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_161"
+    },
+    {
+        "title": "Član 162",
+        "texts": [
+            "Odvodnike prenapona i razna iskrišta nije dozvoljeno postavljati \r\n u prostorijama u kojima postoji opasnost od požara i eksplozija (klase spoljašnjih \r\n uticaja BE 2 i BE 3)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_162"
+    },
+    {
+        "title": "5. Tehničke mere zaštite od pada i nestanka napona",
+        "texts": [],
+        "link": null
+    },
+    {
+        "title": "Član 163",
+        "texts": [
+            "Ako pad, nestanak ili ponovno uspostavljanje napona može izazvati \r\n opasnost za ljude i opremu, mora se ugraditi uređaj za zaštitu od nestanka i \r\n pada napona."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_163"
+    },
+    {
+        "title": "Član 164",
+        "texts": [
+            "Uređaj za zaštitu od pada napona može delovati sa zakašnjenjem \r\n ako pri radu aparat koji se štiti bez opasnosti podnosi kratkotrajan prekid \r\n ili pad napona."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_164"
+    },
+    {
+        "title": "Član 165",
+        "texts": [
+            "Ako se koriste kontaktori, kašnjenje u njihovom otvaranju i \r\n ponovnom zatvaranju ne sme sprečiti trenutno isključivanje uređaja za upravljanje \r\n i zaštitu."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_165"
+    },
+    {
+        "title": "Član 166",
+        "texts": [
+            "Uređaji za zaštitu od nestanka i pada napona moraju se predvideti \r\n u krajnjim strujnim kolima napajanja motora, čije ponovno pokretanje, posle \r\n zaustavljanja do koga je došlo zbog pada ili nestanka napona, može biti opasno."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_166"
+    },
+    {
+        "title": "Član 167",
+        "texts": [
+            "Uređaji za zaštitu od nestanka ili pada napona neophodni su \r\n u električnim instalacijama zgrada u kojima je predviđena oprema za sigurnosno \r\n napajanje i zamenu napajanja.",
+            "Uređaji iz stava 1 ovog člana moraju obezbediti uključivanje \r\n sigurnosnog izvora ili zamenu napajanja opreme rezervnim izvorom ako je napon \r\n manji od granica pravilnog funkcionisanja opreme."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_167"
+    },
+    {
+        "title": "6. Tehničke mere zaštite rastavljanjem, isključivanjem i funkcionalnim \r\n uključivanjem i isključivanjem strujnog kola",
+        "texts": [],
+        "link": null
+    },
+    {
+        "title": "Član 168",
+        "texts": [
+            "Tehničke mere zaštite rastavljanjem i isključivanjem su mere \r\n za otklanjanje opasnosti sa električne instalacije, opreme ili mašine.",
+            "Mere iz stava 1 ovog člana postižu se neautomatskim, lokalnim \r\n ili daljinskim rastavljanjem, isključivanjem i funkcionalnim uključivanjem i \r\n isključivanjem."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_168"
+    },
+    {
+        "title": "Član 169",
+        "texts": [
+            "PE provodnik (zaštitni provodnik) ne sme se rastavljati ni \r\n prekidati ni u jednom sistemu.",
+            "U TN-C sistemima, PEN provodnik (zaštitno-neutralni provodnik) \r\n ne sme se rastavljati ni prekidati. U TN-S sistemima neutralni provodnik (N-provodnik) \r\n ne mora se rastavljati ni prekidati."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_169"
+    },
+    {
+        "title": "7. Rastavljanje strujnog kola",
+        "texts": [],
+        "link": null
+    },
+    {
+        "title": "Član 170",
+        "texts": [
+            "Svako strujno kolo, osim provodnika iz člana 169 ovog pravilnika, \r\n mora biti tako izvedeno da se može rastaviti od svih provodnika pod naponom.",
+            "Ako radni uslovi dopuštaju, više strujnih kola može se rastavljati \r\n zajedničkim sredstvom."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_170"
+    },
+    {
+        "title": "Član 171",
+        "texts": [
+            "Posle rastavljanja, strujnog kola, nenamerno napajanje rastavljenog \r\n strujnog kola mora se sprečiti posebnim merama, i to: zaključavanjem rastavljenog \r\n položaja, postavljanjem opomenskih tablica i postavljanjem uređaja za rastavljanje \r\n strujnog kola u kućišta ili u prostorije koje se zaključavaju.",
+            "Pri rastavljanju strujnog kola, kao dodatna mera zaštite, može \r\n se primeniti kratko spajanje i uzemljenje."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_171"
+    },
+    {
+        "title": "Član 172",
+        "texts": [
+            "Na mestu na kome deo električne opreme ili kućište sadrže delove \r\n pod naponom koji se napajaju sa više izvora, mora se postaviti tablica sa upozorenjem \r\n licu kome ovaj deo postane pristupačan da mora taj deo rastaviti sa svih izvora \r\n napajanja, osim u slučaju, kada se koristi uređaj za zabravljivanje koji obezbeđuje \r\n da se sva napojna strujna kola rastavljaju."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_172"
+    },
+    {
+        "title": "Član 173",
+        "texts": [
+            "Na mestima na kojima se akumulira električna energija moraju \r\n biti predviđena sredstva za njeno pražnjenje."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_173"
+    },
+    {
+        "title": "8. Isključivanje strujnog kola radi mehaničkog održavanja",
+        "texts": [],
+        "link": null
+    },
+    {
+        "title": "Član 174",
+        "texts": [
+            "Sredstva za isključivanje moraju se predvideti na mestima na \r\n kojima pri mehaničkom održavanju može doći do fizičkih ozleda, a to su električne \r\n instalacije za kranove, liftove, pokretna stepeništa, konvejere, mašine alatljike, \r\n pumpe i sl."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_174"
+    },
+    {
+        "title": "Član 175",
+        "texts": [
+            "Na mestima na kojima se vrši mehaničko održavanje moraju se \r\n predvideti sredstva za sprečavanje neželjenog ponovnog uključenja isključene \r\n električne opreme, osim ako sredstva za isključivanje nisu pod stalnim nadzorom \r\n lica koja vrše održavanje.",
+            "Pod sredstvima za sprečavanje ponovnog uključivanja isključene \r\n električne opreme podrazumeva se jedna ili više sledećih mera: zaključivanje \r\n isključenog položaja, postavljanje tablica sa upozorenjem i postavljanje opreme \r\n za isključivanje u kućišta ili prostorije koje se mogu zaključavati."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_175"
+    },
+    {
+        "title": "9. Isključivanje strujnog kola i zaustavljanje u slučaju hitnosti",
+        "texts": [],
+        "link": null
+    },
+    {
+        "title": "Član 176",
+        "texts": [
+            "U delu električne instalacije koja treba da se isključi da \r\n bi se otklonila neočekivana opasnost, mora se predvideti sredstvo za isključivanje \r\n u slučaju hitnosti.",
+            "Električne instalacije iz stava 1 ovog člana su one instalacije \r\n koje napajaju: pumpe zapaljivih tečnosti, ventilacione sisteme, velike računare, \r\n svetiljke sa pražnjenjem napajane visokim naponom, velike kuhinje i robne kuće."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_176"
+    },
+    {
+        "title": "Član 177",
+        "texts": [
+            "Ako se uređajem za isključivanje u slučaju hitnosti otklanja \r\n opasnost od električnog udara, rasklopni uređaj mora prekinuti sve provodnike \r\n pod naponom, osim provodnika iz člana 169 ovog pravilnika."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_177"
+    },
+    {
+        "title": "Član 178",
+        "texts": [
+            "Sredstvo za isključivanje i zaustavljanje u slučaju hitnosti \r\n mora delovati što neposrednije na odgovarajuće napajanje.",
+            "Postavljanje sredstva za isključivanje i zaustavljanje u slučaju \r\n hitnosti iz stava 1 ovog člana mora biti takvo da se samo jednim delovanjem \r\n isključi odgovarajuće napajanje."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_178"
+    },
+    {
+        "title": "Član 179",
+        "texts": [
+            "Sredstva za isključivanje u slučaju hitnosti moraju se postaviti \r\n tako da njihova delovanja ne uzrokuju pojave drugih opasnosti niti ometaju postupak \r\n za otklanjanje opasnosti."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_179"
+    },
+    {
+        "title": "Član 180",
+        "texts": [
+            "U električnim instalacijama uređaja čije pokretanje može izazvati \r\n opasnost, mora se predvideti sredstvo za hitno zaustavljanje tih uređaja.",
+            "Električne instalacije iz stava 1 ovog člana su one instalacije \r\n koje napajaju: pokretna stepeništa, liftove, elevatore, konvejere, električna \r\n pokretna vrata, mašine alatljike, opremu za pranje kola i sl."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_180"
+    },
+    {
+        "title": "10. Funkcionalno uključivanje i isključivanje strujnog kola",
+        "texts": [],
+        "link": null
+    },
+    {
+        "title": "Član 181",
+        "texts": [
+            "Svaki deo strujnog kola za koji se zahteva da se funkcionalno \r\n uključuje i isključuje (u daljem tekstu: funkcionalno upravljanje) nezavisno \r\n od drugih delova električne instalacije mora biti opremljen uređajem za funkcionalno \r\n upravljanje.",
+            "Uređaj za funkcionalno upravljanje iz stava 1 ovog člana ne \r\n mora prekidati sve provodnike pod naponom, ali jednopolni rasklopni aparat se \r\n ne sme postaviti u neutralni provodnik."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_181"
+    },
+    {
+        "title": "Član 182",
+        "texts": [
+            "Jednim uređajem za funkcionalno upravljanje može se upravljati \r\n sa više električnih aparata predviđenih da rade istovremeno."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_182"
+    },
+    {
+        "title": "Član 183",
+        "texts": [
+            "Uticanje i vađenje utikača u priključnicu, nazivne struje do \r\n 16 A može, se vršiti za svrhu funkcionalnog upravljanja aparatima i opremom."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_183"
+    },
+    {
+        "title": "Član 184",
+        "texts": [
+            "Uređaji za funkcionalno upravljanje kojima se obezbeđuje izmena \r\n napajanja sa zamenskim napajanjem moraju delovati na sve provodnike pod naponom \r\n i ne smeju staviti izvore u paralelan spoj, osim u električnim instalacijama \r\n koje su specijalno predviđene za ovakve uslove. U tim slučajevima ne smeju se \r\n rastavljati PEN provodnici (zaštitno-neutralni provodnici) ili PE provodnici \r\n (zaštitni provodnici)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_184"
+    },
+    {
+        "title": "Član 185",
+        "texts": [
+            "Upravljačka i pomoćna strujna kola moraju se projektovati, \r\n postavljati i zaštititi tako da ograniče opasnosti izazvane oštećenjem izolacije \r\n između upravljačkog strujnog kola i drugih provodnih delova i da ne izazovu \r\n pogrešno delovanje upravljanog električnog aparata."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_185"
+    },
+    {
+        "title": "Član 186",
+        "texts": [
+            "Upravljačka strujna kola motora moraju se projektovati i izvoditi \r\n tako da se motori ne mogu nekontrolisano pokrenuti posle zaustavljanja zbog \r\n nestanka ili pada napona, ako takvo pokretanje predstavlja opasnost."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_186"
+    },
+    {
+        "title": "Član 187",
+        "texts": [
+            "U električnim instalacijama motora, gde se motor koči suprotnim \r\n strujama, moraju se predvideti mere za sprečavanje okretanja motora u suprotnom \r\n smeru na kraju kočenja, ako to suprotno okretanje izaziva opasnost."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_187"
+    },
+    {
+        "title": "Član 188",
+        "texts": [
+            "Na mestima na kojima bezbednost zavisi od smera okretanja motora, \r\n moraju se predvideti mere koje, po nestanku jedne faze ili izmene faza, sprečavaju \r\n pokretanje motora u pogrešnom smeru.",
+            "IV POSTUPAK I NAČIN KONTROLISANJA I VERIFIKACIJE SVOJSTAVA, \r\n KARAKTERISTIKA I KVALITETA ELEKTRIČNIH INSTALACIJA"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_188"
+    },
+    {
+        "title": "Član 189",
+        "texts": [
+            "Svaka električna instalacija mora tokom postavljanja i/ili \r\n kada je završena, ali pre predaje korisniku, biti pregledana i ispitana u skladu \r\n sa odredbama ovog pravilnika."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_189"
+    },
+    {
+        "title": "Član 190",
+        "texts": [
+            "Prilikom proveravanja i ispitivanja električnih instalacija \r\n moraju se preduzeti mere za bezbednost lica i zaštitu od oštećenja električne \r\n i druge opreme."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_190"
+    },
+    {
+        "title": "Član 191",
+        "texts": [
+            "Ako se električna instalacija menja, mora se proveriti i ispitati \r\n da li je izmenjena električna instalacija u skladu sa odredbama ovog pravilnika."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_191"
+    },
+    {
+        "title": "1. Proveravanje pregledom",
+        "texts": [],
+        "link": null
+    },
+    {
+        "title": "Član 192",
+        "texts": [
+            "Pregled električne instalacije vrši se kad je ona isključena, \r\n a sastoji se iz proveravanja:",
+            "1) zaštite od električnog udara, uključujući merenje \r\n razmaka kod zaštite preprekama ili kućištima, pregradama ili postavljanjem opreme \r\n van dohvata ruke;",
+            "2) mera zaštite od širenja vatre i od termičkih uticaja \r\n provodnika prema trajno dozvoljenim vrednostima struje i dozvoljenom padu napona \r\n (ako nije izvršena revizija projekta);",
+            "3) izbora i podešenosti zaštitnih uređaja i uređaja za \r\n nadzor;",
+            "4) ispravnosti postavljanja odgovarajućih rasklopnih \r\n uređaja u pogledu rastavnog razmaka;",
+            "5) izbora opreme i mera zaštite prema spoljašnjim uticajima;",
+            "6) raspoznavanja neutralnog i zaštitnog provodnika;",
+            "7) prisustva šema, tablica sa upozorenjima ili sličnih \r\n informacija;",
+            "8) raspoznavanja strujnih kola, osigurača, sklopki, stezaljki \r\n i druge opreme;",
+            "9) spajanja provodnika;",
+            "10) pristupačnosti i raspoloživosti prostora za rad i održavanje."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_192"
+    },
+    {
+        "title": "2. Ispitivanja",
+        "texts": [],
+        "link": null
+    },
+    {
+        "title": "Član 193",
+        "texts": [
+            "Opšta ispitivanja izvode se prema sledećem redosledu:",
+            "1) neprekidnost zaštitnog provodnika i glavnog i dodatnog provodnika \r\n za izjednačenje potencijala;",
+            "2) otpornost izolacije električne instalacije;",
+            "3) zaštita električnim odvajanjem električne instalacije;",
+            "4) otpornost poda i zidova;",
+            "5) automatsko isključenje napajanja;",
+            "6) dopunsko izjednačenje potencijala;",
+            "7) funkcionalnost.",
+            "Ako se pri ispitivanju iskaže neusaglašenost sa odgovarajućim \r\n odredbama ovog pravilnika, ispitivanja se moraju ponoviti posle ispravljanja \r\n grešaka."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_193"
+    },
+    {
+        "title": "Član 194",
+        "texts": [
+            "Neprekidnost zaštitnog provodnika i provodnika za izjednačenje \r\n potencijala ispituje se merenje električne otpornosti, naponom od 4 do 24 V \r\n jednosmerne ili naizmenične struje sa najmanjom strujom od 0,2 A."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_194"
+    },
+    {
+        "title": "Član 195",
+        "texts": [
+            "Električna otpornost izolacije električne instalacije mora \r\n se meriti:",
+            "1) između provodnika pod naponom, uzimajući dva po dva (merenje \r\n se vrši tokom postavljanja pre povezivanja opreme);",
+            "2) između svakog provodnika pod naponom i zemlje (fazni provodnici \r\n i neutralni provodnik se mogu spojiti zajedno).",
+            "U TN-C sistemu PEN provodnik se ne smatra provodnikom pod naponom.",
+            "Električna otpornost izolacije meri se naponima koji nisu manji \r\n od vrednosti napona datih u tabeli br. 2 i zadovoljava ako svako strujno kolo, \r\n bez priključene opreme, ima vrednost koja nije manja od vrednosti datih u tabeli \r\n br. 2.",
+            "Merenja se vrše jednosmernom strujom.",
+            "Kad strujno kolo sadrži elektronske uređaje, merenja se vrše \r\n samo između faznog i neutralnog provodnika koji su spojeni zajedno sa zemljom. \r\n Bez spajanja provodnika pod naponom može se izazvati kvar na električnim uređajima.",
+            "Tabela br. 3",
+            "Najmanje vrednosti električne otpornosti izolacije",
+            "Nazivni napon strujnog kola",
+            "Ispitni napon jednosmerne strujeV",
+            "Otpornost izolacijeMW",
+            "1",
+            "2",
+            "3",
+            "Bezbednosno mali napon i mali radni napon kada se strujno \r\n kolo (bezbednosno) napaja preko bezbednosnog transformatora za odvajanje, \r\n pod uslovom da ispunjavaju uslove za ovu zaštitu prema jugoslovenskom \r\n standardu JUS N. B2.741",
+            "250",
+            "³0,25",
+            "Do 500 V, uključujući i 500 V sa izuzetkom propisanih \r\n slučajeva",
+            "500",
+            "³0,5",
+            "Iznad 500 V",
+            "1 000",
+            "³1,0"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_195"
+    },
+    {
+        "title": "Član 196",
+        "texts": [
+            "Električno odvajanje delova pod naponom od drugih strujnih \r\n kola proverava se ispitivanjem električne otpornosti izolacije, ali sa priključenim \r\n aparatima shodno članu 195 ovog pravilnika."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_196"
+    },
+    {
+        "title": "Član 197",
+        "texts": [
+            "Ako je oprema postavljena u izolovane prostorije, mora se ispitati \r\n električna otpornost zidova i podova metodom utvrđenom u jugoslovenskom standardu \r\n JUS N.B2.761. Najmanje tri merenja moraju se izvršiti na istom mestu, s tim \r\n da se jedno merenje vrši na rastojanju 1m od bilo kog pristupačnog stranog provodnog \r\n dela u prostoriji, a druga dva merenja vrše se na većim rastojanjima.",
+            "Merenja iz stava 1 ovog člana moraju se ponoviti za svaku odgovarajuću \r\n površinu prostorije."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_197"
+    },
+    {
+        "title": "Član 197a",
+        "texts": [
+            "Provera uslova zaštite automatskim isključenjem napajanja kao \r\n mere zaštite od indirektnog dodira vrši se na sledeći način:",
+            "1) Za TN sistem:",
+            "- merenjem impedanse petlje kvara prema jugoslovenskom standardu \r\n JUS N.B2.763 ili proračunom stvarno izvedenog stanja;",
+            "- pregledom karakteristika pripadajućeg zaštitnog uređaja, \r\n npr. podešene vrednosti struje prekidača ili nazivne vrednosti osigurača;",
+            "- ako u strujnim kolima postoji zaštitni uređaj diferencijalne \r\n struje - proverom njegovog delovanja prema jugoslovenskom standardu JUS N.B2.764;",
+            "- ako se napajanje vrši nadzemnim vodom - merenjem ukupne otpornosti \r\n uzemljivača (RB) prema jugoslovenskom standardu \r\n JUS N.B2.762.",
+            "2) Za TT sistem:",
+            "- merenjem otpornosti uzemljivača izloženih provodnih delova \r\n (RA), prema jugoslovenskom standardu JUS N.B2.762;",
+            "- pregledom karakteristika pripadajućeg zaštitnog uređaja i \r\n uređaja za zaštitu od prekomerne struje;",
+            "- ako je pripadajući zaštitni uređaj diferencijalne struje \r\n - ispitivanjem delovanja ovog uređaja prema jugoslovenskom standardu JUS N.B2.764.",
+            "3) Za TT sistem:",
+            "- pregledom proračuna struje prvog kvara, a ako postoji sumnja, \r\n ili su nepoznati parametri za proračun, onda se vrši merenje pri simuliranom \r\n kvaru;",
+            "- ako se N-provodnik vodi, vrši se merenja kao pod 1), ako \r\n se N-provodnik ne vodi, vrše se merenja kao pod 2)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_197a"
+    },
+    {
+        "title": "Član 197b",
+        "texts": [
+            "Ako je primenjeno dopunsko izjednačenje potencijala prema jugoslovenskom \r\n standardu JUS N.B2.741, meri se impendansa (odnosno otpornost) između istovremeno \r\n pristupačnih izloženih i stranih provodnih delova."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_197b"
+    },
+    {
+        "title": "Član 197v",
+        "texts": [
+            "Na osnovu rezultata dobijenih prema čl. 197a i 197b ovog pravilnika, \r\n zavisno od sistema razvoda, proveravaju se posebni i dopunski uslovi zaštite \r\n od električnog udara prema standardu JUS N.B2.741."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_197v"
+    },
+    {
+        "title": "Član 198",
+        "texts": [
+            "Rasklopni blokovi (komandni ormani, komandne table, upravljački \r\n pultovi i sl.), motorni pogoni, komande i zabravljenja moraju se funkcionalno \r\n ispitati da bi se proverilo da li zadovoljavaju uslove propisane ovim pravilnikom \r\n i jugoslovenskim standardima iz ove oblasti.",
+            "Zaštitni uređaji izlažu se funkcionalnom ispitivanju samo kad \r\n je to moguće, da bi se proverila njihova ispravnost, pravilnost postavljanja \r\n i podešenost.",
+            "V ZAVRŠNE ODREDBE"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_198"
+    },
+    {
+        "title": "Član 199",
+        "texts": [
+            "Danom stupanja na snagu ovog pravilnika prestaju da važe:",
+            "1) Pravilnik o tehničkim merama i uslovima za izvođenje elektroenergetskih \r\n instalacija u zgradama (\"Službeni list SFRJ\", br. 43/66);",
+            "2) Pravilnik o tehničkim merama za elektroenergetska postrojenja \r\n niskog napona u poljoprivredi (\"Službeni list SFRJ\", br. 33/70);",
+            "3) Pravilnik o tehničkim merama za elektroenergetske instalacije \r\n u industriji (\"Službeni list SFRJ\", br. 2/73);",
+            "4) Pravilnik o tehničkim normativima za projektovanje i izvođenje \r\n električnih priključaka i ormara u zgradama (\"Službeni list SFRJ\", \r\n br. 35/74);",
+            "5) Pravilnik o tehničkim normativima za električne instalacije \r\n u zgradama koje se izvode sistemom montaže prefabrikovanih tipiziranih finalno \r\n obrađenih elemenata (\"Službeni list SFRJ\", br. 19/85);",
+            "6) Pravilnik o tehničkim normativima za elektroenergetske instalacije \r\n u prostorijama sa specifičnim uslovima (\"Službeni list SFRJ\", br. \r\n 68/85)."
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_199"
+    },
+    {
+        "title": "Član 200",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu po isteku šest meseci od dana \r\n objavljivanja u \"Službenom listu SFRJ\".",
+            "",
+            "Samostalni član Pravilnika o izmenama i dopunamaPravilnika o tehničkim normativima za električne instalacijeniskog napona",
+            "(\"Sl. list SRJ\", br. 28/95)"
+        ],
+        "link": "https://www.paragraf.rs/propisi/pravilnik-o-tehnickim-normativima-elektricne-instalacije-niskog-napona.html#clan_200"
+    },
+    {
+        "title": "Član 6",
+        "texts": [
+            "Ovaj pravilnik stupa na snagu po isteku šest meseci od dana \r\n objavljivanja u \"Službenom listu SRJ\".",
+            "Ako ne probate više različitih izbora nikada nećete biti sigurni da li imate najbolju opciju u svojim rukama. Mi Vam tu mogućnost nudimo besplatno! Popunite formular i dobićete priliku da bez ikakvih troškova saznate da li je Paragraf dobar izbor za Vas.",
+            "Ukoliko želite da Vas obaveštavamo o novostima i aktivnostima kompanije Paragraf prijavite se na našu mailing listu. Vaš e-mail neće biti upotrebljen u druge svrhe.",
+            "Pratite Paragraf na Viberu"
+        ],
+        "link": null
+    }
+]

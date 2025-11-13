@@ -11,8 +11,9 @@ from loguru import logger
 from openai.types.chat import ChatCompletion
 from pydantic import BaseModel
 from qdrant_client import QdrantClient
+from qdrant_client.http.models import FieldCondition, Filter, MatchValue
 
-from database.utils import embed_text, get_context, search
+from database.utils import SRPSKO_PRAVO_COLLECTION, embed_text, get_context, search
 from llm.prompts import DEFAULT_CONTEXT
 from llm.utils import formate_messages_chat
 from router.query_router import formate_messages_router
@@ -261,40 +262,58 @@ def determine_context(
     try:
         if collections[0] == DEFAULT_ROUTER_RESPONSE:
             return DEFAULT_CONTEXT
-        else:
-            search_results = []
-            for collection_name in collections:
-                # Map router name to actual collection name
-                actual_collection = map_router_to_collection(collection_name)
-                if actual_collection != "nema_zakona":
-                    try:
-                        # Check if collection exists
-                        if not qdrant_client.collection_exists(collection_name=actual_collection):
-                            logger.warning(f"Collection '{actual_collection}' does not exist in Qdrant. Skipping search for this collection.")
-                            continue
-                        
-                        collection_info = qdrant_client.get_collection(actual_collection)
-                        if collection_info.points_count == 0:
-                            logger.warning(f"Collection {actual_collection} exists but is empty")
-                            continue
-                        
-                        # Increase search limit for better coverage, especially for pravne_konsultacije
-                        search_limit = 20 if actual_collection == "pravne_konsultacije" else 10
-                        results = search(
-                            client=qdrant_client,
-                            collection=actual_collection,
-                            query_vector=embedding,
-                            limit=search_limit,
-                            with_vectors=True,
-                        )
-                        search_results.extend(results)
-                        logger.info(f"Found {len(results)} results in collection {actual_collection}")
-                    except Exception as e:
-                        logger.error(f"Error searching collection {actual_collection}: {str(e)}")
-                        continue
-            # Increase top_k for better context coverage
-            top_k = 20 if len(collections) > 1 else 15
-            return get_context(search_results=search_results, top_k=top_k)
+
+        if not qdrant_client.collection_exists(collection_name=SRPSKO_PRAVO_COLLECTION):
+            logger.error(
+                f'Target collection "{SRPSKO_PRAVO_COLLECTION}" does not exist in Qdrant.'
+            )
+            return DEFAULT_CONTEXT
+
+        search_results: List = []
+        for router_name in collections:
+            law_name = map_router_to_collection(router_name)
+            if law_name in {DEFAULT_ROUTER_RESPONSE, "nema_zakona"}:
+                continue
+
+            search_limit = 20 if law_name == "pravne_konsultacije" else 10
+            try:
+                results = search(
+                    client=qdrant_client,
+                    collection=SRPSKO_PRAVO_COLLECTION,
+                    query_vector=embedding,
+                    limit=search_limit,
+                    with_vectors=True,
+                    query_filter=Filter(
+                        must=[
+                            FieldCondition(
+                                key="law_name",
+                                match=MatchValue(value=law_name),
+                            )
+                        ]
+                    ),
+                )
+                if results:
+                    logger.info(
+                        f"Found {len(results)} results for {law_name} "
+                        f'in collection "{SRPSKO_PRAVO_COLLECTION}".'
+                    )
+                search_results.extend(results)
+            except Exception as exc:
+                logger.error(
+                    f"Error searching law {law_name} in "
+                    f'collection "{SRPSKO_PRAVO_COLLECTION}": {exc}'
+                )
+                continue
+
+        if not search_results:
+            logger.warning(
+                "No relevant vectors retrieved for routed laws. "
+                "Falling back to default context."
+            )
+            return DEFAULT_CONTEXT
+
+        top_k = 20 if len(collections) > 1 else 15
+        return get_context(search_results=search_results, top_k=top_k)
     except Exception as e:
         logger.error(f"Error determining context: {str(e)}")
         return DEFAULT_CONTEXT  # Fallback to default context

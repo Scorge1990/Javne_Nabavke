@@ -410,7 +410,19 @@ def process_and_upload_documents(
                 )
                 embedding = embedding_response.data[0].embedding
                 
-                # Create point
+                # Create point with proper metadata for ZJN documents
+                # Ensure law_name matches what the router expects
+                law_name = 'zakon_o_javnim_nabavkama'
+                
+                # Create a normalized source_collection name that matches router expectations
+                source_collection = doc['type']
+                if doc['type'] == 'ministar_finansija':
+                    source_collection = 'podzakonski_akti_ministra_finansija'
+                elif doc['type'] == 'kancelarija':
+                    source_collection = 'podzakonski_akti_kancelarija'
+                elif doc['type'] == 'vlada':
+                    source_collection = 'podzakonski_akti_vlade'
+                
                 point = PointStruct(
                     id=str(uuid.uuid4()),
                     vector=embedding,
@@ -418,11 +430,12 @@ def process_and_upload_documents(
                         'title': content_data['title'],
                         'text': chunk,
                         'link': content_data['url'],
-                        'law_name': 'zakon_o_javnim_nabavkama',
-                        'source_collection': doc['type'],
+                        'law_name': law_name,
+                        'source_collection': source_collection,
                         'chunk_index': i,
                         'total_chunks': len(chunks),
-                        'document_type': doc['type']
+                        'document_type': doc['type'],
+                        'original_title': doc['title']  # Keep original title for reference
                     }
                 )
                 points.append(point)

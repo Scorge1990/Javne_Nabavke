@@ -1,97 +1,72 @@
-"""
-Check Qdrant service status and performance metrics.
-"""
+"""Script to check Qdrant database status."""
+
 import os
-import time
-from dotenv import find_dotenv, load_dotenv
-from loguru import logger
+from dotenv import load_dotenv, find_dotenv
 from qdrant_client import QdrantClient
+from loguru import logger
+
+from constants import KOMPLETNO_PRAVO_COLLECTION
+
+load_dotenv(find_dotenv())
 
 
-def main():
-    """Check Qdrant service status."""
-    load_dotenv(find_dotenv())
-    
-    qdrant_url = os.environ.get("QDRANT_CLUSTER_URL")
-    qdrant_api_key = os.environ.get("QDRANT_API_KEY")
-    
-    if not qdrant_url or not qdrant_api_key:
-        logger.error("QDRANT_CLUSTER_URL or QDRANT_API_KEY not set.")
-        return
-    
-    logger.info("Checking Qdrant service status...")
-    logger.info(f"Qdrant URL: {qdrant_url}")
-    
-    # Initialize client with longer timeout
-    client = QdrantClient(
-        url=qdrant_url,
-        api_key=qdrant_api_key,
-        timeout=180,
-    )
-    
-    # Check collections
-    logger.info("\n=== Collection Information ===")
-    start_time = time.time()
+def check_qdrant_status():
+    """Check the current status of Qdrant database."""
     try:
-        collections = client.get_collections().collections
-        elapsed = time.time() - start_time
-        logger.info(f"✓ Successfully retrieved collections in {elapsed:.2f} seconds")
-        logger.info(f"Total collections: {len(collections)}")
+        client = QdrantClient(
+            url=os.environ["QDRANT_CLUSTER_URL"],
+            api_key=os.environ["QDRANT_API_KEY"]
+        )
         
-        if len(collections) > 0:
-            logger.info("\nSample collections (first 10):")
-            for i, coll in enumerate(collections[:10], 1):
-                try:
-                    count_start = time.time()
-                    count = client.count(collection_name=coll.name).count
-                    count_elapsed = time.time() - count_start
-                    logger.info(f"  {i}. {coll.name}: {count} points (count took {count_elapsed:.2f}s)")
-                except Exception as e:
-                    logger.warning(f"  {i}. {coll.name}: Error getting count - {e}")
+        if not client.collection_exists(collection_name=KOMPLETNO_PRAVO_COLLECTION):
+            logger.error(f"Collection {KOMPLETNO_PRAVO_COLLECTION} does not exist")
+            return
         
-        # Check if there are many collections
-        if len(collections) > 1000:
-            logger.warning(f"\n⚠️  WARNING: You have {len(collections)} collections!")
-            logger.warning("This is a very large number and may cause performance issues.")
-            logger.warning("Consider consolidating collections or upgrading your Qdrant plan.")
+        # Get collection info
+        collection_info = client.get_collection(KOMPLETNO_PRAVO_COLLECTION)
+        
+        logger.info(f"\n{'='*70}")
+        logger.info("QDRANT DATABASE STATUS")
+        logger.info(f"{'='*70}")
+        logger.info(f"Collection: {KOMPLETNO_PRAVO_COLLECTION}")
+        logger.info(f"Total points: {collection_info.points_count:,}")
+        logger.info(f"Vector size: {collection_info.config.params.vectors.size}")
+        logger.info(f"Distance metric: {collection_info.config.params.vectors.distance}")
+        
+        # Check for paragraf_rs source
+        logger.info(f"\nChecking for recently uploaded laws from paragraf.rs...")
+        
+        # Sample scroll to check source
+        scroll_results, _ = client.scroll(
+            collection_name=KOMPLETNO_PRAVO_COLLECTION,
+            limit=100,
+            with_payload=True,
+            with_vectors=False,
+        )
+        
+        paragraf_count = 0
+        total_checked = 0
+        for point in scroll_results:
+            total_checked += 1
+            payload = point.payload or {}
+            if payload.get('source_collection') == 'paragraf_rs':
+                paragraf_count += 1
+        
+        if total_checked > 0:
+            paragraf_percentage = (paragraf_count / total_checked) * 100
+            logger.info(f"Sample check: {paragraf_count}/{total_checked} points from paragraf.rs ({paragraf_percentage:.1f}%)")
+        
+        logger.info(f"{'='*70}\n")
+        
+        return collection_info.points_count
         
     except Exception as e:
-        elapsed = time.time() - start_time
-        logger.error(f"✗ Failed to get collections after {elapsed:.2f} seconds: {e}")
-        logger.error("Qdrant service appears to be unresponsive.")
-        return
-    
-    # Test a simple operation
-    logger.info("\n=== Performance Test ===")
-    if len(collections) > 0:
-        test_collection = collections[0].name
-        logger.info(f"Testing operation on collection: {test_collection}")
-        
-        # Test count operation
-        start_time = time.time()
-        try:
-            count = client.count(collection_name=test_collection).count
-            elapsed = time.time() - start_time
-            logger.info(f"✓ Count operation completed in {elapsed:.2f} seconds")
-        except Exception as e:
-            elapsed = time.time() - start_time
-            logger.error(f"✗ Count operation failed after {elapsed:.2f} seconds: {e}")
-    
-    # Summary
-    logger.info("\n=== Summary ===")
-    logger.info("Possible reasons for slowness:")
-    logger.info("1. Too many collections (>1000 can cause issues)")
-    logger.info("2. Large individual collections (millions of points)")
-    logger.info("3. Network latency to Qdrant Cloud")
-    logger.info("4. Qdrant Cloud service issues or plan limits")
-    logger.info("5. Concurrent operations overwhelming the service")
-    logger.info("\nRecommendations:")
-    logger.info("- Check Qdrant Cloud dashboard for service status")
-    logger.info("- Consider upgrading your Qdrant plan if you have many collections")
-    logger.info("- Reduce batch sizes and add delays between operations")
-    logger.info("- Check network connectivity to Qdrant Cloud")
+        logger.error(f"Error checking Qdrant status: {e}")
+        import traceback
+        logger.error(traceback.format_exc())
+        return None
 
 
 if __name__ == "__main__":
-    main()
+    check_qdrant_status()
 
